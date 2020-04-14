@@ -6,9 +6,12 @@ Scripts to process eODP data.
 
 We are using Python 3.6.8 on the production server.
 
-For the dev environment, we are using [pyenv](https://github.com/pyenv/pyenv) to run Python 3.6.8, pip to manage packages, and [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) to manage virtual environments.
+For the dev environment, we are using [pyenv](https://github.com/pyenv/pyenv)
+to run Python 3.6.8, pip to manage packages, and
+[pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) to manage virtual
+environments. We are also using JupyterLab to process the raw data.
 
-(1) Install pyenv, pyenv-virtualenv
+(1) Install pyenv, pyenv-virtualenv, jupyterlab
 
 (2) Install Python 3.6.8
 
@@ -27,13 +30,13 @@ pyenv local 3.6.8
 create virtual environment
 
 ```bash
-pyenv virtualenv 3.6.8 eodp-data
+pyenv virtualenv 3.6.8 <venv-name>
 ```
 
-set this directory to use eodp-data virtual environment
+set this directory to use `<venv-name>` virtual environment
 
 ```bash
-pyenv local eodp-data
+pyenv local <venv-name>
 ```
 
 (4) Install packages.
@@ -58,19 +61,13 @@ pip freeze > requirements.txt
 
 ## Run Scripts
 
-Start Jupyter notebooks.
+Start JupyterLab to run data processing scripts. We are using JupyterLab instead
+of plain Jupyter notebooks because JupyterLab lets you easily browse the data
+files while working.
 
 ```bash
 cd notebooks
-jupyter notebook
-```
-
-Start scripts.
-
-```bash
-cd scripts
-
-python <script name>.py
+jupyter lab
 ```
 
 ## Testing

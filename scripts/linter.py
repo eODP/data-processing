@@ -1,17 +1,14 @@
 import subprocess
-import sys
 
 
 def lint():
-    command = "black ./scripts"
-    process = subprocess.Popen(command.split())
-    output, error = process.communicate()
+    _exec("black ./scripts")
+    _exec("black ./tests")
+    _exec("flake8 ./scripts")
+    _exec("flake8 ./tests")
 
-    command = "black ./tests"
-    process = subprocess.Popen(command.split())
-    output, error = process.communicate()
 
-    command = "flake8 ./scripts"
+def _exec(command):
     process = subprocess.Popen(command.split())
     output, error = process.communicate()
 
