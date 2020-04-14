@@ -141,4 +141,4 @@ cython_debug/
 .DS_Store
 
 # misc
-raw_data
+cleaned_data
