@@ -1,0 +1,13 @@
+﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data
+341-U1421B-1H-1-A,0,150,0,1.5,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,,,,,,
+341-U1421B-1H-2-A,0,13,1.5,1.63,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,shell fragment,,,shell fragment @ 2cm,gradational contact,,,,
+341-U1421B-1H-2-A,13,150,1.63,3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,88-150cm: sparse black mottling,,,,,
+341-U1421B-1H-3-A,0,37,3,3.37,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,sparse black mottling,gradational contact,,,,
+341-U1421B-1H-3-A,37,69,3.37,3.69,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,sparse black mottling,gradational contact,,,,
+341-U1421B-1H-3-A,69,150,3.69,4.5,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,sparse black mottling,,,,,
+341-U1421B-1H-4-A,0,7,4.5,4.57,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1421B-1H-4-A,7,53,4.57,5.03,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1421B-1H-4-A,53,71,5.03,5.21,diatom rich,mud [Leg210],with foraminifers [Leg339],diatom rich mud  with foraminifers ,,,,10Y 3/2 (very dark grayish green),,,,,,,,,,,,,,,,,,,
+341-U1421B-1H-4-A,71,100,5.21,5.5,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1421B-1H-5-A,0,55,5.5,6.05,,diatom ooze [Leg339],,diatom ooze ,,,parallel lamination,10Y 5/1 (greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1421B-1H-CC-A,0,18,6.05,6.23,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,,,,,,
