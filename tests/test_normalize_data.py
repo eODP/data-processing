@@ -4,6 +4,8 @@ from scripts.normalize_data import (
     normalize_sample_col,
     get_expedition_from_csv,
     create_sample_name,
+    normalize_expedition_section_cols,
+    extract_sample_parts,
 )
 import pandas as pd
 from pandas._testing import assert_frame_equal
@@ -293,3 +295,330 @@ class TestGetExpeditionFromCsv:
         message = "File does not expedition info."
         with pytest.raises(ValueError, match=message):
             get_expedition_from_csv(df)
+
+
+class TestNormalizeExpeditionSectionCols:
+    def test_dataframe_does_not_change_if_expection_section_columns_exist(self):
+        data = {
+            "Col": [0, 1],
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": ["a", "A"],
+        }
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_dataframe_does_not_change_if_expection_section_Sample_exist(self):
+        data = {
+            "Col": [0, 1],
+            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": ["a", "A"],
+        }
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_dataframe_does_not_change_if_expection_section_Label_exist(self):
+        data = {
+            "Col": [0, 1],
+            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": ["a", "A"],
+        }
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_adds_missing_expection_section_using_Label(self):
+        data = {
+            "Col": [0, 1],
+            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Col": [0, 1],
+            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": ["a", "A"],
+        }
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_adds_missing_expection_section_using_Sample(self):
+        data = {
+            "Col": [0, 1],
+            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Col": [0, 1],
+            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": ["a", "A"],
+        }
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_handles_missing_aw_col(self):
+        data = {
+            "Col": [0, 1],
+            "Sample": ["1-U1h-2t-3", "10-U2H-20T-3"],
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+        }
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_no_data(self):
+        data = {
+            "Col": [0],
+            "Sample": ["No data this hole"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Col": [0],
+            "Sample": ["No data this hole"],
+            "Exp": [None],
+            "Site": [None],
+            "Hole": [None],
+            "Core": [None],
+            "Type": [None],
+            "Section": [None],
+            "A/W": [None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = normalize_expedition_section_cols(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_otherwise_raise_error(self):
+        df = pd.DataFrame({"foo": [1]})
+
+        message = "File does not have the expected columns."
+        with pytest.raises(ValueError, match=message):
+            normalize_expedition_section_cols(df)
+
+
+class TestExtractSampleParts:
+    def test_extracts_sample_parts_from_a_valid_string(self):
+        data = {
+            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": ["a", "A"],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Label ID"])
+        assert_frame_equal(df, expected)
+
+    def test_accepts_exp_site_hole_core_type_section_string(self):
+        data = {
+            "Label ID": ["1-U1h-2t-3", "10-U2H-20T-3"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": [None, None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Label ID"])
+        assert_frame_equal(df, expected)
+
+    def test_accepts_exp_site_hole_core_type_string(self):
+        data = {
+            "Sample": ["1-U1h-2t", "10-U2H-20T"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": [None, None],
+            "A/W": [None, None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_accepts_exp_site_hole_core_string(self):
+        data = {
+            "Sample": ["1-U1h-2", "10-U2H-20"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": [None, None],
+            "Section": [None, None],
+            "A/W": [None, None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_accepts_exp_site_hole_string(self):
+        data = {
+            "Sample": ["1-U1h", "10-U2H"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": [None, None],
+            "Type": [None, None],
+            "Section": [None, None],
+            "A/W": [None, None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_rejects_exp_site_string(self):
+        data = {
+            "Sample": ["1-U1", "10-U2"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            df = extract_sample_parts(df["Sample"])
+
+    def test_rejects_exp_string(self):
+        data = {
+            "Sample": ["1", "10"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            df = extract_sample_parts(df["Sample"])
+
+    def test_returns_None_when_input_is_None(self):
+        data = {
+            "Sample": [None],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": [None],
+            "Site": [None],
+            "Hole": [None],
+            "Core": [None],
+            "Type": [None],
+            "Section": [None],
+            "A/W": [None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_returns_none_when_input_is_No_data_this_hole(self):
+        data = {
+            "Sample": ["No data this hole"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": [None],
+            "Site": [None],
+            "Hole": [None],
+            "Core": [None],
+            "Type": [None],
+            "Section": [None],
+            "A/W": [None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = extract_sample_parts(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_otherwise_raise_error(self):
+        data = {
+            "Sample": ["AAA", "BBB"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            extract_sample_parts(df["Sample"])

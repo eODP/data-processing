@@ -1,5 +1,6 @@
 import re
 import os
+import numpy as np
 
 
 def tablerize(word):
@@ -80,3 +81,43 @@ def get_expedition_from_csv(df):
         raise ValueError("File does not expedition info.")
 
     return expedition[0].split("-")[0]
+
+
+def normalize_expedition_section_cols(df):
+    names = {"Exp", "Site", "Hole", "Core", "Type", "Section"}
+    if names.issubset(df.columns):
+        pass
+    elif "Sample" in df.columns:
+        df = df.join(extract_sample_parts(df["Sample"]))
+    elif "Label ID" in df.columns:
+        df = df.join(extract_sample_parts(df["Label ID"]))
+    else:
+        raise ValueError("File does not have the expected columns.")
+    return df
+
+
+def valid_sample_value(x):
+    if x is None:
+        return True
+
+    if x is np.NaN:
+        return True
+
+    if x == "No data this hole":
+        return True
+
+    regex = r"(^\d+)-(U\d+)(\w)-?(\d+)?(\w)?-?([\d\w]+)?-?(\w)?"
+    return re.search(regex, x) is not None
+
+
+def extract_sample_parts(df):
+    # matches (1)-(U1)(A)-(1)(A)-(1)-(A)
+    #         (1)-(U1)(A)-(1)(A)-(A)-(A)
+    reg = r"(^\d+)-(U\d+)(\w)-?(\d+)?(\w)?-?([\d\w]+)?-?(\w)?"
+    res = df.str.extract(reg)
+    res.columns = ["Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"]
+
+    if not all([valid_sample_value(x) for x in df]):
+        raise ValueError("Sample name uses wrong format.")
+
+    return res
