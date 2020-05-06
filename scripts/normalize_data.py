@@ -24,3 +24,16 @@ def convert_column_names(names):
 def create_directory(newpath):
     if not os.path.exists(newpath):
         os.makedirs(newpath)
+
+
+def get_expedition_from_csv(df):
+    if "Label ID" in df.columns:
+        expedition = df["Label ID"]
+    elif "Sample" in df.columns:
+        expedition = df["Sample"]
+    elif "Exp" in df.columns:
+        expedition = df["Exp"]
+    else:
+        raise ValueError("File does not expedition info.")
+
+    return expedition[0].split("-")[0]
