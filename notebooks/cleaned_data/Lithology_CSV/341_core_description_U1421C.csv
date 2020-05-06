@@ -1,44 +1,44 @@
-﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data
-341-U1421C-1H-1-A,0,150,0,1.5,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-1H-2-A,0,28,1.5,1.78,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 3/2 (very dark grayish green),,,,,,,,,,,,,,,,,,,
-341-U1421C-1H-2-A,28,83,1.78,2.33,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-1H-2-A,83,100,2.33,2.5,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 3/2 (very dark grayish green),,,,,,,,,,,,,,,,,,,
-341-U1421C-1H-2-A,100,150,2.5,3,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-1H-3-A,0,150,3,4.5,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-1H-4-A,0,61,4.5,5.11,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,,gradational contact,,,,
-341-U1421C-1H-4-A,61,77,5.11,5.27,diatom rich,mud [Leg210],with foraminifers [Leg339],diatom rich mud  with foraminifers ,,,,10Y 3/2 (very dark grayish green),,,absent [A79],,,,,,,,,,,,gradational contact,,,,
-341-U1421C-1H-4-A,77,150,5.27,6,diatom rich,mud [Leg210],,diatom rich mud ,,,color banding,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,124-150cm: thin laminae of brown color banding,,,,,
-341-U1421C-1H-5-A,0,16,6,6.16,diatom rich,mud [Leg210],,diatom rich mud ,,,color banding,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,thin laminae of brown color banding,gradational contact,,,,
-341-U1421C-1H-5-A,16,150,6.16,7.5,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,present [A79],6,,,,,pebble [W22_2],subangular,,,,sparse black mottling; argillite clast 5 cm at 118 cm,,,,,
-341-U1421C-1H-6-A,0,90,7.5,8.4,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,present [A79],7,,,,,pebble [W22_2],subangular,bivalve,,,5mm bivalve shell @ 43cm (found under argillite clast); shell fragment @ 42cm; 2 metasiltstone clast;,,,,,
-341-U1421C-1H-CC-A,0,17,8.4,8.57,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,present [A79],3,,,,,,,,,,,,,,,
-341-U1421C-2H-CC-A,0,12,8.5,8.62,,,,,,,,,,,present [A79],1,,,,,pebble [W22_2],subangular,,,,8cm argillite cobble; very little mud matrix with granule remains,,,,,
-341-U1421C-3H-1-A,0,88.5,18,18.885,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"- mud with common clasts
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
+341-U1421C-1H-1-A,0.0,150.0,0.0,1.5,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,1,H,1,A
+341-U1421C-1H-2-A,0.0,28.0,1.5,1.78,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 3/2 (very dark grayish green),,,,,,,,,,,,,,,,,,,,341,U1421,C,1,H,2,A
+341-U1421C-1H-2-A,28.0,83.0,1.78,2.33,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,1,H,2,A
+341-U1421C-1H-2-A,83.0,100.0,2.33,2.5,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 3/2 (very dark grayish green),,,,,,,,,,,,,,,,,,,,341,U1421,C,1,H,2,A
+341-U1421C-1H-2-A,100.0,150.0,2.5,3.0,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,1,H,2,A
+341-U1421C-1H-3-A,0.0,150.0,3.0,4.5,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,1,H,3,A
+341-U1421C-1H-4-A,0.0,61.0,4.5,5.11,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,,gradational contact,,,,,341,U1421,C,1,H,4,A
+341-U1421C-1H-4-A,61.0,77.0,5.11,5.27,diatom rich,mud [Leg210],with foraminifers [Leg339],diatom rich mud  with foraminifers ,,,,10Y 3/2 (very dark grayish green),,,absent [A79],,,,,,,,,,,,gradational contact,,,,,341,U1421,C,1,H,4,A
+341-U1421C-1H-4-A,77.0,150.0,5.27,6.0,diatom rich,mud [Leg210],,diatom rich mud ,,,color banding,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,124-150cm: thin laminae of brown color banding,,,,,,341,U1421,C,1,H,4,A
+341-U1421C-1H-5-A,0.0,16.0,6.0,6.16,diatom rich,mud [Leg210],,diatom rich mud ,,,color banding,10Y 4/1 (dark greenish gray),,,absent [A79],,,,,,,,,,,thin laminae of brown color banding,gradational contact,,,,,341,U1421,C,1,H,5,A
+341-U1421C-1H-5-A,16.0,150.0,6.16,7.5,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,present [A79],6.0,,,,,pebble [W22_2],subangular,,,,sparse black mottling; argillite clast 5 cm at 118 cm,,,,,,341,U1421,C,1,H,5,A
+341-U1421C-1H-6-A,0.0,90.0,7.5,8.4,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,present [A79],7.0,,,,,pebble [W22_2],subangular,bivalve,,,5mm bivalve shell @ 43cm (found under argillite clast); shell fragment @ 42cm; 2 metasiltstone clast;,,,,,,341,U1421,C,1,H,6,A
+341-U1421C-1H-CC-A,0.0,17.0,8.4,8.57,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,present [A79],3.0,,,,,,,,,,,,,,,,341,U1421,C,1,H,CC,A
+341-U1421C-2H-CC-A,0.0,12.0,8.5,8.62,,,,,,,,,,,present [A79],1.0,,,,,pebble [W22_2],subangular,,,,8cm argillite cobble; very little mud matrix with granule remains,,,,,,341,U1421,C,2,H,CC,A
+341-U1421C-3H-1-A,0.0,88.5,18.0,18.885,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"- mud with common clasts
 - smear slide 52 cm: mud with sand; sub-rounded volcanic ash in the sand fraction
-",gradational contact,,,,
-341-U1421C-3H-1-A,88.5,94.5,18.885,18.945,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,gradational contact,,,,
-341-U1421C-3H-1-A,94.5,150,18.945,19.5,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-3H-2-A,0,16,19.5,19.66,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,
-341-U1421C-3H-2-A,16,150,19.66,21,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,few black mottles,,,,,
-341-U1421C-3H-3-A,0,150,21,22.5,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"- mud with dispersed clasts
+",gradational contact,,,,,341,U1421,C,3,H,1,A
+341-U1421C-3H-1-A,88.5,94.5,18.885,18.945,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1421,C,3,H,1,A
+341-U1421C-3H-1-A,94.5,150.0,18.945,19.5,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,3,H,1,A
+341-U1421C-3H-2-A,0.0,16.0,19.5,19.66,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1421,C,3,H,2,A
+341-U1421C-3H-2-A,16.0,150.0,19.66,21.0,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,few black mottles,,,,,,341,U1421,C,3,H,2,A
+341-U1421C-3H-3-A,0.0,150.0,21.0,22.5,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"- mud with dispersed clasts
 - few black mottles
 - varying amounts of clasts
 
-- smear slide 130 cm: mud with diatoms; very fine grained",,,,,
-341-U1421C-3H-4-A,0,120,22.5,23.7,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,few black mottles,gradational contact,,,,
-341-U1421C-3H-4-A,120,150,23.7,24,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-3H-5-A,0,150,24,25.5,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"fine, clayey mud",,,,,
-341-U1421C-3H-6-A,0,150,25.5,27,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-3H-7-A,0,57,27,27.57,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
-341-U1421C-3H-CC-A,0,35,27.57,27.92,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,sand (quartz) grains and foraminifera? at the bottom of the cc,,,,,
-341-U1421C-4H-1-A,0,110,27.5,28.6,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"some color changes: two discontinuous, irregular intervals of 10Y 4/1 clayey mud at the lower part of this section",,,,,
-341-U1421C-4H-CC-A,0,39,28.6,28.99,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],3,,,,,,,,,,"normal mud (N 4) on top and clayey, clast-free 10Y 4/1 mud",,,,,
-341-U1421C-5H-1-A,0,140,29,30.4,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],8,,,,,,,,,,,,,,,
-341-U1421C-5H-2-A,0,137,30.4,31.77,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],3,,,,,,,,,,,,,,,
-341-U1421C-5H-3-A,0,149,31.77,33.26,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],13,,,,,,,,,,,,,,,
-341-U1421C-5H-CC-A,0,18,33.26,33.44,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],2,,,,,,,,,,,,,,,
-341-U1421C-6H-1-A,0,82,33.7,34.52,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff,,,,,
-341-U1421C-6H-2-A,0,113,34.52,35.65,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff,,,,,
-341-U1421C-6H-3-A,0,110,35.65,36.75,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff; 4x4 cm sandstone @15 cm,,,,,
-341-U1421C-6H-4-A,0,111,36.75,37.86,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff; outsized clast of quartz-biotite rich gneiss @ 45 cm,,,,,
-341-U1421C-6H-CC-A,0,36,37.86,38.22,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff; siltstone @ 16 cm,,,,,
+- smear slide 130 cm: mud with diatoms; very fine grained",,,,,,341,U1421,C,3,H,3,A
+341-U1421C-3H-4-A,0.0,120.0,22.5,23.7,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,few black mottles,gradational contact,,,,,341,U1421,C,3,H,4,A
+341-U1421C-3H-4-A,120.0,150.0,23.7,24.0,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,3,H,4,A
+341-U1421C-3H-5-A,0.0,150.0,24.0,25.5,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"fine, clayey mud",,,,,,341,U1421,C,3,H,5,A
+341-U1421C-3H-6-A,0.0,150.0,25.5,27.0,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,3,H,6,A
+341-U1421C-3H-7-A,0.0,57.0,27.0,27.57,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1421,C,3,H,7,A
+341-U1421C-3H-CC-A,0.0,35.0,27.57,27.92,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,sand (quartz) grains and foraminifera? at the bottom of the cc,,,,,,341,U1421,C,3,H,CC,A
+341-U1421C-4H-1-A,0.0,110.0,27.5,28.6,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"some color changes: two discontinuous, irregular intervals of 10Y 4/1 clayey mud at the lower part of this section",,,,,,341,U1421,C,4,H,1,A
+341-U1421C-4H-CC-A,0.0,39.0,28.6,28.99,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],3.0,,,,,,,,,,"normal mud (N 4) on top and clayey, clast-free 10Y 4/1 mud",,,,,,341,U1421,C,4,H,CC,A
+341-U1421C-5H-1-A,0.0,140.0,29.0,30.4,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],8.0,,,,,,,,,,,,,,,,341,U1421,C,5,H,1,A
+341-U1421C-5H-2-A,0.0,137.0,30.4,31.77,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],3.0,,,,,,,,,,,,,,,,341,U1421,C,5,H,2,A
+341-U1421C-5H-3-A,0.0,149.0,31.77,33.26,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],13.0,,,,,,,,,,,,,,,,341,U1421,C,5,H,3,A
+341-U1421C-5H-CC-A,0.0,18.0,33.26,33.44,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],2.0,,,,,,,,,,,,,,,,341,U1421,C,5,H,CC,A
+341-U1421C-6H-1-A,0.0,82.0,33.7,34.52,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff,,,,,,341,U1421,C,6,H,1,A
+341-U1421C-6H-2-A,0.0,113.0,34.52,35.65,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff,,,,,,341,U1421,C,6,H,2,A
+341-U1421C-6H-3-A,0.0,110.0,35.65,36.75,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff; 4x4 cm sandstone @15 cm,,,,,,341,U1421,C,6,H,3,A
+341-U1421C-6H-4-A,0.0,111.0,36.75,37.86,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff; outsized clast of quartz-biotite rich gneiss @ 45 cm,,,,,,341,U1421,C,6,H,4,A
+341-U1421C-6H-CC-A,0.0,36.0,37.86,38.22,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 3 (very dark gray),,,,,,,,,,,,,,clayey mud; relatively stiff; siltstone @ 16 cm,,,,,,341,U1421,C,6,H,CC,A
