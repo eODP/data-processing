@@ -84,6 +84,7 @@ def get_expedition_from_csv(df):
 
 
 def normalize_expedition_section_cols(df):
+    # NOTE: There was one file that did not have A/W column
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section"}
     if names.issubset(df.columns):
         pass
