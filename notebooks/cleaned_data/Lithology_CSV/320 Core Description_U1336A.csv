@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Principal lithology,Lithology classification,Lithology prefix,Lithology suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data,Unnamed: 23
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,Lithology classification,Lithology Prefix,Lithology Suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data,Unnamed: 23
 320-U1336A-1H-1-A,320,U1336,A,1,1-1,H,1,A,0,150,0.0,1.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay,Nannofossil ooze with clay,100.0,soft,10YR 5/3,,,
 320-U1336A-1H-2-A,320,U1336,A,1,1-2,H,2,A,0,120,1.5,2.7,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay,Nannofossil ooze with clay,100.0,soft,10YR 5/3,,,
 320-U1336A-1H-2-A,320,U1336,A,1,1-2,H,2,A,120,150,2.7,3.0,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100.0,soft,10YR 8/1,,,

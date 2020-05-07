@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],LITHOLOGY,REFERENCE,PREFIX,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE
 323-U1343A-1H-1-A,323,U1343,A,1,1-1,H,1,A,0,21.0,0.0,0.21,diatom ooze,Leg 323,,diatom ooze,100.0,soft,5Y 4/2,,,,,,,,,,,,
 323-U1343A-1H-1-A,323,U1343,A,1,1-1,H,1,A,21,80.0,0.21,0.8,diatom silt,Leg 323,,diatom silt,100.0,soft,10Y 4/1,,,,,,,,,,,,
 323-U1343A-1H-1-A,323,U1343,A,1,1-1,H,1,A,80,110.0,0.8,1.1,diatom silty clay,Leg 323,,diatom silty clay,100.0,soft,5Y 4/2,,,,,,,,,,,,
@@ -242,5 +242,5 @@ Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top De
 323-U1343A-22H-7-A,323,U1343,A,22,22-7,H,7,A,0,0.0119000005722046,199.99,199.99,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,100.0,soft,10Y 3/1,,,,,,,,,,,,
 323-U1343A-22H-7-A,323,U1343,A,22,22-7,H,7,A,0,53.0,199.99,200.52,diatom silt,Leg 323,,diatom silt,100.0,soft,10Y 4/1,,,,,,,,,,,,
 323-U1343A-22H-7-A,323,U1343,A,22,22-7,H,7,A,53,119.0,200.52,201.18,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,100.0,soft,10Y 3/1,,,,,,,,,,,,
-323-U1343A-22H-CC-A,323,U1343,A,22,22-CC,H,CC,A,0,0.005799999833107,201.18,201.18,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,100.0,soft,10Y 3/1,,,,,,,,,,,,
+323-U1343A-22H-CC-A,323,U1343,A,22,22-CC,H,CC,A,0,0.005799999833106999,201.18,201.18,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,100.0,soft,10Y 3/1,,,,,,,,,,,,
 323-U1343A-22H-CC-A,323,U1343,A,22,22-CC,H,CC,A,0,48.0,201.18,201.66,diatom silt,Leg 323,,diatom silt,100.0,soft,10Y 4/1,,,,,,,,,,,,

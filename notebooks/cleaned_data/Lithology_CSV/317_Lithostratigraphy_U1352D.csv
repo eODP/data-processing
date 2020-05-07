@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,COMMENT,File Data,Unnamed: 24
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,COMMENT,File Data,Unnamed: 24
 317-U1352D-1H-1-A,317,U1352,D,1,1-1,H,1,A,0,135,0.0,1.35,,Sandy Mud [S54-Leg183],,Sandy Mud,,soft,,,"Shepard, 1954 - Leg 183 revision",p sorted v f to fine (mostly fine) calcareous sandy mud,,
 317-U1352D-1H-1-A,317,U1352,D,1,1-1,H,1,A,135,150,1.35,1.5,,Clay [S54] ,,Clay,,soft,,,,v f sandy clay,,
 317-U1352D-1H-2-A,317,U1352,D,1,1-2,H,2,A,0,116,1.5,2.66,,Clay [S54] ,,Clay,,soft,,,,v f sandy clay,,

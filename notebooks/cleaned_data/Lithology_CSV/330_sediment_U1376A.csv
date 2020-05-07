@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color (name),Prefix,Principal lithology,Suffix,Complete name,Lithology [%],"Dominant grain size (Wentworth, 1922)",Dominant grain size rank,Clastic grain roundness,Lithification,Lithology comments,File Data
+Sample,Exp,Site,Hole,Core,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color (name),Lithology Prefix,Lithology Principal Name,Lithology Suffix,Complete name,Lithology [%],"Dominant grain size (Wentworth, 1922)",Dominant grain size rank,Clastic grain roundness,Lithification,Lithology comments,File Data
 330-U1376A-1R-1-A,330,U1376,A,1,R,1,A,0.0,29.0,0.0,0.29,multicolor,volcanic,breccia,,volcanic breccia,,pebble [U14W22],5.0,angular (Default),lithified,the largest grains are rounded,
 330-U1376A-1R-1-A,330,U1376,A,1,R,1,A,29.0,43.0,0.29,0.43,brown,volcanic,Sandstone [MMK88],,volcanic Sandstone,,fine sand [U14W22],3.0,,lithified,possible turbidite,
 330-U1376A-1R-1-A,330,U1376,A,1,R,1,A,43.0,71.0,0.43,0.71,multicolor,volcanic,breccia,,volcanic breccia,,pebble [U14W22],5.0,angular (Default),lithified,the largest grains are rounded,
