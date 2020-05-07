@@ -1,7 +1,7 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE
-323-U1344B-1H-1-A,323,U1344,B,1,1-1,H,1,A,0,150,0.0,1.5,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,
-323-U1344B-1H-2-A,323,U1344,B,1,1-2,H,2,A,0,150,1.5,3.0,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,
-323-U1344B-1H-3-A,323,U1344,B,1,1-3,H,3,A,0,144,3.0,4.44,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,
-323-U1344B-1H-CC-A,323,U1344,B,1,1-CC,H,CC,A,0,6,4.44,4.5,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,
-323-U1344B-1H-CC-A,323,U1344,B,1,1-CC,H,CC,A,6,10,4.5,4.54,sand [S54],,,sand,100,soft,10Y 2.5/1,,,,,,,,,,,,
-323-U1344B-1H-CC-A,323,U1344,B,1,1-CC,H,CC,A,10,36,4.54,4.8,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Name,Minor Lithology Suffix
+323-U1344B-1H-1-A,323,U1344,B,1,1-1,H,1,A,0,150,0.0,1.5,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,,,,,
+323-U1344B-1H-2-A,323,U1344,B,1,1-2,H,2,A,0,150,1.5,3.0,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,,,,,
+323-U1344B-1H-3-A,323,U1344,B,1,1-3,H,3,A,0,144,3.0,4.44,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,,,,,
+323-U1344B-1H-CC-A,323,U1344,B,1,1-CC,H,CC,A,0,6,4.44,4.5,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,,,,,
+323-U1344B-1H-CC-A,323,U1344,B,1,1-CC,H,CC,A,6,10,4.5,4.54,sand [S54],,,sand,100,soft,10Y 2.5/1,,,,,,,,,,,,,,,,
+323-U1344B-1H-CC-A,323,U1344,B,1,1-CC,H,CC,A,10,36,4.54,4.8,diatom ooze,Leg 323,,diatom ooze,100,soft,5Y 4/3,,,,,,,,,,,,,,,,
