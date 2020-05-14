@@ -1,441 +1,441 @@
-﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],TEPHRA type,Amount of ash in lithology,Amount of ash in lithology rank [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Lith. accessory shell fragment,Lith. accessory cement,Lith. accessory nodule/concretion,Lith. accessory sulfide,Lithological accessories comment,Macrofossil,MAJ Lith. prefix + name,MAJ Lith. name+suffix,MAJ Lith. abundance [%],MAJ Lith. ave. grain size ,MAJ Lith. ave. grain size rank [read only],MAJ Lith. max. grain size,MAJ Lith. max. grain size rank [read only],Diagenetic constituent,Diagenetic constituent composition,Deformational structures,structure,General interval comment,MIN Lith. Prefix,MIN Lith. Principal name,MIN Lith. Suffix,MIN Lith. prefix + name,MIN Lith. prefix+name+suffix,MIN Lith. name+suffix,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data
-346-U1424A-1H-1-A,0,36,0,0.36,,clay ,,clay ,,,,,7.5YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,36,70,0.36,0.7,,clay ,,clay ,,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,70,90,0.7,0.9,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,90,99,0.9,0.99,,clay ,,clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,99,122,0.99,1.22,,silty clay ,,silty clay ,,,,lamination,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,122,131,1.22,1.31,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,131,134,1.31,1.34,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-1-A,134,150,1.34,1.5,,clay ,,clay ,,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-2-A,0,101,1.5,2.51,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-2-A,101,102,2.51,2.52,,tephra ,,tephra ,,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-2-A,102,150,2.52,3,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,0,24,3,3.24,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,24,28,3.24,3.28,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,28,41,3.28,3.41,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,41,44,3.41,3.44,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,44,88,3.44,3.88,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,88,98,3.88,3.98,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,98,104,3.98,4.04,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,104,106,4.04,4.06,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,106,110,4.06,4.1,,tephra ,,tephra ,scoria,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,110,111,4.1,4.11,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-3-A,111,150,4.11,4.5,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-4-A,0,15,4.5,4.65,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-4-A,15,24.5,4.65,4.745,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-4-A,24.5,25.5,4.745,4.755,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-4-A,25.5,36,4.755,4.86,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-4-A,36,45,4.86,4.95,foraminifer rich,silty clay ,with nannofossils ,foraminifer rich silty clay  with nannofossils ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,foraminifer rich  silty clay ,silty clay   with nannofossils ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-4-A,45,150,4.95,6,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-5-A,0,5,6,6.05,,clay ,,clay ,,,,lamination,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-5-A,5,6,6.05,6.06,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-5-A,6,25,6.06,6.25,,silty clay ,,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-5-A,25,51,6.25,6.51,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-5-A,51,65,6.51,6.65,,silty clay ,,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-1H-CC-A,0,15,6.65,6.8,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,0,9,6.8,6.89,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,9,16,6.89,6.96,,silty clay ,,silty clay ,,,,,10R 3/1 (dark reddish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,16,59,6.96,7.39,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,59,64,7.39,7.44,,silty clay ,,silty clay ,,,,layering,10YR 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,64,96,7.44,7.76,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,96,98,7.76,7.78,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,98,114,7.78,7.94,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,114,119,7.94,7.99,,silty clay ,,silty clay ,,,,,10YR 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,119,137,7.99,8.17,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-1-A,137,150,8.17,8.3,,clay ,,clay ,,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,0,8,8.3,8.38,,silty clay ,,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,8,10,8.38,8.4,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,10,12,8.4,8.42,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,12,32,8.42,8.62,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,32,36,8.62,8.66,,silty clay ,,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,35,36,8.65,8.66,,,,,pumice,trace amount,1,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,36,141,8.66,9.71,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,141,146,9.71,9.76,,silty clay ,,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-2-A,146,150,9.76,9.8,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-3-A,0,12,9.8,9.92,,clay [Leg210],,clay ,,,,,10YR 6/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-3-A,12,94,9.92,10.74,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-3-A,94,96,10.74,10.76,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-3-A,96,129,10.76,11.09,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-3-A,129,131,11.09,11.11,,silty clay ,,silty clay ,,,,,10YR 6/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-3-A,131,150,11.11,11.3,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,0,4,11.3,11.34,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,4,11,11.34,11.41,,clay [Leg210],,clay ,,,,,5Y 5/2 (olive gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,11,15,11.41,11.45,,silty clay [MMK88],,silty clay ,,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,15,29,11.45,11.59,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,29,35,11.59,11.65,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,35,48,11.65,11.78,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,48,52,11.78,11.82,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,52,75,11.82,12.05,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,75,79,12.05,12.09,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-4-A,79,150,12.09,12.8,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,0,30,12.8,13.1,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,30,38,13.1,13.18,,clay [Leg210],,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,36,37,13.16,13.17,,,,,,,,,,,,,,,,,,,,,,,,,shell fragment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,38,42,13.18,13.22,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,42,44,13.22,13.24,,silty clay [MMK88],,silty clay ,,,,,10YR 6/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,44,114,13.24,13.94,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,114,117,13.94,13.97,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,117,139,13.97,14.19,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,139,144,14.19,14.24,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-5-A,144,150,14.24,14.3,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-6-A,0,6,14.3,14.36,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-6-A,6,7,14.36,14.37,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-6-A,7,9,14.37,14.39,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-6-A,9,116,14.39,15.46,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-6-A,116,117,15.46,15.47,clayey [Leg339],tephra [FS84],,clayey  tephra ,,,,,N 6 (gray),,,,,,,,,,,,,,,,,clayey   tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-6-A,117,122,15.47,15.52,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,0,4,15.52,15.56,,clay [Leg210],,clay ,,,,,5Y 4/4 (olive),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,4,14,15.56,15.66,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,14,15,15.66,15.67,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,15,24,15.67,15.76,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,24,33,15.76,15.85,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,33,36,15.85,15.88,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,36,39,15.88,15.91,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,39,59,15.91,16.11,,clay [Leg210],with foraminifers [Leg339],clay  with foraminifers ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay   with foraminifers ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,59,66,16.11,16.18,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-7-A,66,71,16.18,16.23,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-2H-CC-A,0,22,16.23,16.45,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-1-A,0,51,16.3,16.81,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-1-A,51,52,16.81,16.82,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-1-A,52,70,16.82,17,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-1-A,70,71,17,17.01,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-1-A,71,89,17.01,17.19,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-1-A,89,89.5,17.19,17.195,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-1-A,89.5,150,17.195,17.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-2-A,0,22,17.8,18.02,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-2-A,22,23,18.02,18.03,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-2-A,23,119,18.03,18.99,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-2-A,119,120,18.99,19,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-2-A,120,150,19,19.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-3-A,0,90,19.3,20.2,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-3-A,90,93,20.2,20.23,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-3-A,93,119,20.23,20.49,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-3-A,119,120,20.49,20.5,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-3-A,120,150,20.5,20.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-4-A,0,13,20.8,20.93,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-4-A,13,115,20.93,21.95,,clay [Leg210],with foraminifers [Leg339],clay  with foraminifers ,,,,lamination,7.5YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay   with foraminifers ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-4-A,115,150,21.95,22.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-5-A,0,27,22.3,22.57,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-5-A,27,28,22.57,22.58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-5-A,28,47,22.58,22.77,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-5-A,47,47.5,22.77,22.775,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-5-A,47.5,69,22.775,22.99,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-5-A,69,70,22.99,23,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-5-A,70,121,23,23.51,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-5-A,121,123.5,23.51,23.535,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-5-A,123.5,150,23.535,23.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-6-A,0,32,23.8,24.12,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-6-A,32,33,24.12,24.13,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-6-A,33,54,24.13,24.34,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-6-A,54,56,24.34,24.36,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-3H-6-A,56,144,24.36,25.24,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-3H-CC-A,0,4,25.24,25.28,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-1-A,0,134,25.8,27.14,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-1-A,46,56,26.26,26.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-1-A,134,135,27.14,27.15,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-1-A,135,150,27.15,27.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-2-A,0,150,27.3,28.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-3-A,0,150,28.8,30.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-4-A,0,27,30.3,30.57,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-4-A,27,28,30.57,30.58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-4-A,28,116,30.58,31.46,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-4-A,116,119,31.46,31.49,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-4-A,119,129,31.49,31.59,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-4-A,129,129.5,31.59,31.595,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-4-A,129.5,150,31.595,31.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-5-A,0,8,31.8,31.88,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-5-A,8,8.5,31.88,31.885,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-5-A,8.5,20.5,31.885,32.005,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-5-A,20.5,24,32.005,32.04,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-5-A,24,106.5,32.04,32.865,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-5-A,106.5,109,32.865,32.89,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-5-A,109,120.5,32.89,33.005,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-5-A,120.5,121,33.005,33.01,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-5-A,121,150,33.01,33.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-6-A,0,18,33.3,33.48,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-6-A,18,19,33.48,33.49,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-6-A,19,54,33.49,33.84,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-6-A,30,36,33.6,33.66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-6-A,54,56,33.84,33.86,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-6-A,56,120,33.86,34.5,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-7-A,0,31,34.5,34.81,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-7-A,8,18,34.58,34.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-7-A,31,32,34.81,34.82,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-7-A,32,73,34.82,35.23,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-7-A,65,71,35.15,35.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-CC-A,0,19,35.23,35.42,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-4H-CC-A,19,19.5,35.42,35.425,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-4H-CC-A,19.5,25,35.425,35.48,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-1-A,0,150,35.3,36.8,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-2-A,0,75,36.8,37.55,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-2-A,75,76,37.55,37.56,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-2-A,76,150,37.56,38.3,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-3-A,0,18,38.3,38.48,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-3-A,18,18.5,38.48,38.485,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-3-A,18.5,31,38.485,38.61,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-3-A,31,31.5,38.61,38.615,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-3-A,31.5,59,38.615,38.89,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-3-A,59,62,38.89,38.92,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-3-A,62,83.5,38.92,39.135,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-3-A,83.5,88,39.135,39.18,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-3-A,88,150,39.18,39.8,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-4-A,0,56,39.8,40.36,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-4-A,56,58,40.36,40.38,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-4-A,58,131,40.38,41.11,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-4-A,131,138,41.11,41.18,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-4-A,138,150,41.18,41.3,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-5-A,0,109.5,41.3,42.395,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-5-A,109.5,110,42.395,42.4,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-5-A,110,150,42.4,42.8,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-6-A,0,38,42.8,43.18,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-6-A,38,44,43.18,43.24,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-6-A,44,99,43.24,43.79,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-6-A,99,102,43.79,43.82,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-6-A,102,111,43.82,43.91,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-6-A,111,113,43.91,43.93,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-5H-6-A,113,120,43.93,44,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-7-A,0,68,44,44.68,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-5H-CC-A,0,24,44.68,44.92,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,
-346-U1424A-6H-1-A,0,150,44.8,46.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-2-A,0,110.5,46.3,47.405,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-2-A,110.5,111,47.405,47.41,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-2-A,111,150,47.41,47.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-3-A,0,150,47.8,49.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-4-A,0,150,49.3,50.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,0,98,50.8,51.78,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,98,98.5,51.78,51.785,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,98.5,105,51.785,51.85,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,105,105.5,51.85,51.855,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,105.5,122,51.855,52.02,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,122,123,52.02,52.03,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,123,126.5,52.03,52.065,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,126.5,127,52.065,52.07,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-5-A,127,150,52.07,52.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-6-A,0,42.5,52.3,52.725,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-6-A,42.5,42.7,52.725,52.727,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-6-A,42.7,102,52.727,53.32,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-6-A,102,104,53.32,53.34,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-6-A,104,120,53.34,53.5,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-7-A,0,52,53.5,54.02,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-7-A,52,54,54.02,54.04,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-7-A,54,64,54.04,54.14,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-6H-CC-A,0,25,54.14,54.39,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-1-A,0,150,54.3,55.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-2-A,0,150,55.8,57.3,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-3-A,0,5,57.3,57.35,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-3-A,5,9,57.35,57.39,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-3-A,9,68,57.39,57.98,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-3-A,68,70,57.98,58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-3-A,70,150,58,58.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-4-A,0,20,58.8,59,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-4-A,20,24,59,59.04,,tephra [FS84],,tephra ,scoria,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-4-A,24,150,59.04,60.3,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-5-A,0,150,60.3,61.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-6-A,0,150,61.8,63.3,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-7-A,0,50,63.3,63.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-7H-CC-A,0,22,63.8,64.02,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-1-A,0,150,63.8,65.3,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-2-A,0,150,65.3,66.8,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-3-A,0,150,66.8,68.3,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-4-A,0,150,68.3,69.8,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-5-A,0,47,69.8,70.27,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-5-A,47,47.5,70.27,70.275,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-5-A,47.5,49.5,70.275,70.295,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-5-A,49.5,50,70.295,70.3,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-5-A,50,150,70.3,71.3,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-6-A,0,120,71.3,72.5,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,0,8.5,72.5,72.585,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,8.5,9,72.585,72.59,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,9,27.5,72.59,72.775,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,27.5,28,72.775,72.78,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,28,46,72.78,72.96,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,46,47,72.96,72.97,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-7-A,47,50,72.97,73,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-8H-CC-A,0,22,73,73.22,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-1-A,0,65,73.3,73.95,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-1-A,65,67,73.95,73.97,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-1-A,67,150,73.97,74.8,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,0,100,74.8,75.8,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,100,101.5,75.8,75.815,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,101.5,121,75.815,76.01,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,121,121.5,76.01,76.015,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,121.5,144,76.015,76.24,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,144,145.5,76.24,76.255,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-2-A,145.5,150,76.255,76.3,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-3-A,0,127,76.3,77.57,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-3-A,127,128,77.57,77.58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-3-A,128,150,77.58,77.8,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-4-A,0,141,77.8,79.21,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-4-A,141,150,79.21,79.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-5-A,0,150,79.3,80.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-6-A,0,120,80.8,82,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-7-A,0,75,82,82.75,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-9H-CC-A,0,28,82.75,83.03,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-1-A,0,42,82.8,83.22,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-1-A,42,69,83.22,83.49,diatom rich,clay [Leg210],,diatom rich clay ,,,,color banding,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-1-A,69,150,83.49,84.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-1-A,98,104,83.78,83.84,,,,,,,,,,,,present [A79],4,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-1-A,111,113,83.91,83.93,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-1-A,125,127,84.05,84.07,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-2-A,0,150,84.3,85.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-3-A,0,63,85.8,86.43,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-3-A,63,72,86.43,86.52,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-3-A,72,85,86.52,86.65,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-3-A,85,130,86.65,87.1,diatom rich,clay [Leg210],,diatom rich clay ,,,,color banding,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-3-A,130,150,87.1,87.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-4-A,0,82,87.3,88.12,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-4-A,82,135,88.12,88.65,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-10H-4-A,135,150,88.65,88.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-5-A,0,64,88.8,89.44,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-5-A,64,95,89.44,89.75,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-5-A,95,97,89.75,89.77,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-5-A,97,140,89.77,90.2,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-5-A,140,150,90.2,90.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-6-A,0,40,90.3,90.7,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-6-A,40,60,90.7,90.9,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-6-A,60,120,90.9,91.5,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-7-A,0,69,91.5,92.19,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-10H-CC-A,0,23,92.19,92.42,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-1-A,0,100,92.3,93.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-1-A,100,150,93.3,93.8,,clay [Leg210],,clay ,,,,,5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-1-A,108,112,93.38,93.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-11H-2-A,0,88,93.8,94.68,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-3-A,0,2,94.68,94.7,,tephra [FS84],,tephra ,,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-3-A,2,30,94.7,94.98,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-3-A,30,150,94.98,96.18,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-4-A,0,18,96.18,96.36,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-4-A,18,20,96.36,96.38,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-4-A,20,25,96.38,96.43,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-4-A,25,150,96.43,97.68,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-5-A,0,17,97.68,97.85,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-5-A,17,23,97.85,97.91,,tephra [FS84],,tephra ,vitric,,,,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,Tephra grades from white to dark gray (vitric type).,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-5-A,23,150,97.91,99.18,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-6-A,0,150,99.18,100.68,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-6-A,23,27,99.41,99.45,,,,,vitric,volcaniclastic-bearing,2,patch or bleb,N 5 (gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-11H-7-A,0,101,100.68,101.69,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-11H-7-A,98,101,101.66,101.69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,carbonate,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-11H-CC-A,0,18,101.69,101.87,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,
-346-U1424A-12H-1-A,0,53,101.8,102.33,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-1-A,53,60,102.33,102.4,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-1-A,60,150,102.4,103.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-2-A,0,110,103.3,104.4,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,Smear slide shows abundant organic debris.,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-2-A,110,113,104.4,104.43,,tephra [FS84],,tephra ,vitric,,,normal grading,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,Possible turbidite. Fine laminated ash layer followed by grading. ,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-2-A,113,150,104.43,104.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,Smear slide shows abundant organic debris.,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-3-A,0,10,104.8,104.9,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-3-A,10,86,104.9,105.66,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5GY 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-3-A,86,153,105.66,106.33,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-4-A,0,37,106.33,106.7,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-4-A,37,134,106.7,107.67,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5GY 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-4-A,134,136,107.67,107.69,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-4-A,136,137,107.69,107.7,,tephra [FS84],,tephra ,vitric,,,,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-4-A,137,138,107.7,107.71,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5GY 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-4-A,138,150,107.71,107.83,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-5-A,0,39,107.83,108.22,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-5-A,39,69,108.22,108.52,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5GY 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-5-A,69,80,108.52,108.63,,tephra [FS84],,tephra ,,,,layering,N 5 (gray),heavy [DB86],3,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-5-A,80,153,108.63,109.36,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-5-A,125,126,109.08,109.09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-6-A,0,141,109.36,110.77,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-7-A,0,52,110.77,111.29,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-12H-CC-A,0,24,111.29,111.53,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-1-A,0,63,111.3,111.93,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-1-A,63,75,111.93,112.05,tephra rich,clay [Leg210],,tephra rich clay ,vitric,volcaniclastic-rich,3,,N 5 (gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-1-A,75,114,112.05,112.44,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-1-A,114,117,112.44,112.47,,tephra [FS84],,tephra ,,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-1-A,117,150,112.47,112.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-2-A,0,77,112.8,113.57,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-2-A,77,78,113.57,113.58,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-2-A,78,150,113.58,114.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-3-A,0,116,114.3,115.46,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-3-A,116,134,115.46,115.64,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-3-A,134,144,115.64,115.74,tephra rich,clay [Leg210],,tephra rich clay ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-4-A,0,27,115.74,116.01,tephra rich,clay [Leg210],,tephra rich clay ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-4-A,27,37,116.01,116.11,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-4-A,37,50,116.11,116.24,,clay [Leg210],,clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-4-A,50,144,116.24,117.18,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-5-A,0,13,117.18,117.31,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-5-A,13,83,117.31,118.01,tephra rich,clay [Leg210],,tephra rich clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-5-A,20,26,117.38,117.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-5-A,83,145,118.01,118.63,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-6-A,0,93,118.63,119.56,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-6-A,93,141,119.56,120.04,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5GY 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-6-A,141,150,120.04,120.13,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-7-A,0,9,120.13,120.22,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-7-A,9,37,120.22,120.5,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-7-A,37,39,120.5,120.52,calcareous bearing,clay [Leg210],,calcareous bearing clay ,,,,,,,,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-7-A,39,81,120.52,120.94,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-13H-CC-A,0,18,120.94,121.12,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-1-A,0,2,120.8,120.82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-1-A,0,150,120.8,122.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-2-A,0,150,122.3,123.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-3-A,0,150,123.8,125.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-3-A,59,60,124.39,124.4,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-3-A,110,115,124.9,124.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-3-A,138,147,125.18,125.27,,,,,vitric,,,lens or pod [BJ84],N 5 (gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-4-A,0,145,125.3,126.75,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-5-A,0,145,126.75,128.2,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-6-A,0,150,128.2,129.7,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-7-A,0,60,129.7,130.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-14H-CC-A,0,25,130.3,130.55,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-1-A,0,5,130.3,130.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,Coated by pyrite,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-1-A,0,62,130.3,130.92,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-1-A,62,109,130.92,131.39,diatom rich,clay [Leg210],,diatom rich clay ,,,,color banding,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-1-A,109,150,131.39,131.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,0,72,131.8,132.52,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,72,82,132.52,132.62,calcareous bearing,diatom ooze [Leg339],,calcareous bearing diatom ooze ,,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,,,,calcareous bearing  diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,82,89,132.62,132.69,tephra rich,clay [Leg210],,tephra rich clay ,,,,,5G 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,89,97,132.69,132.77,calcareous bearing,clay [Leg210],,calcareous bearing clay ,,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,97,111,132.77,132.91,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,111,112,132.91,132.92,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,112,139,132.92,133.19,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,139,141,133.19,133.21,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-2-A,141,150,133.21,133.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-3-A,0,25,133.3,133.55,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-3-A,0,65,133.3,133.95,,,,,,,,mottling [BJ80],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-3-A,25,30,133.55,133.6,tephra rich,diatom ooze [Leg339],,tephra rich diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,tephra rich  diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-3-A,30,82,133.6,134.12,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-3-A,82,85,134.12,134.15,,calcareous ooze [Leg339],,calcareous ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,calcareous ooze ,calcareous ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-3-A,85,150,134.15,134.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-4-A,0,29,134.8,135.09,,diatom ooze [Leg339],,diatom ooze ,,,,color banding,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-4-A,29,30,135.09,135.1,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-4-A,30,45,135.1,135.25,,diatom ooze [Leg339],,diatom ooze ,,,,color banding,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-4-A,45,46,135.25,135.26,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-4-A,46,150,135.26,136.3,,diatom ooze [Leg339],,diatom ooze ,,,,color banding,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-4-A,130,131,136.1,136.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-5-A,0,145,136.3,137.75,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-5-A,92,150,137.22,137.8,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-5-A,145,146,137.75,137.76,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,Very thin (2-3 mm),,,,,,,,,,,,,,,,,,
-346-U1424A-15H-5-A,146,150,137.76,137.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-6-A,0,27,137.8,138.07,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-6-A,27,28,138.07,138.08,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-6-A,28,60,138.08,138.4,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-6-A,60,66,138.4,138.46,,tephra [FS84],,tephra ,vitric,,,lamination,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-6-A,66,123,138.46,139.03,,,,,,,,mottling [BJ80],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-6-A,66,150,138.46,139.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-7-A,0,61,139.3,139.91,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-15H-CC-A,0,29,139.91,140.2,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-1-A,0,82,139.8,140.62,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-1-A,82,92,140.62,140.72,tephra rich,clay [Leg210],,tephra rich clay ,,,,,10YR 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-1-A,92,96,140.72,140.76,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-1-A,96,99,140.76,140.79,,tephra [FS84],,tephra ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-1-A,99,150,140.79,141.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-2-A,0,4,141.3,141.34,,foraminiferal ooze [Leg339],,foraminiferal ooze ,,,,,2.5Y 5/2 (grayish brown),,,,,,,,,,,,,,,,,foraminiferal ooze ,foraminiferal ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-2-A,4,150,141.34,142.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-3-A,0,146,142.8,144.26,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-4-A,0,146,144.26,145.72,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-4-A,8,10,144.34,144.36,,,,,vitric,volcaniclastic-bearing,2,lens or pod [BJ84],N 5 (gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-5-A,0,150,145.72,147.22,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-6-A,0,150,147.22,148.72,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-7-A,0,67,148.72,149.39,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-16H-CC-A,0,25,149.39,149.64,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-1-A,0,150,149.3,150.8,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-1-A,20,22,149.5,149.52,,tephra [FS84],,tephra ,pumice,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-2-A,0,150,150.8,152.3,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-3-A,0,150,152.3,153.8,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-4-A,0,150,153.8,155.3,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-4-A,120,123,155,155.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cement,calcite,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-5-A,0,150,155.3,156.8,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-5-A,91,103,156.21,156.33,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-6-A,0,140,156.8,158.2,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-7-A,0,54,158.2,158.74,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-346-U1424A-17H-CC-A,0,13,158.74,158.87,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],TEPHRA type,Amount of ash in lithology,Amount of ash in lithology rank [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Lith. accessory shell fragment,Lith. accessory cement,Lith. accessory nodule/concretion,Lith. accessory sulfide,Lithological accessories comment,Macrofossil,MAJ Lith. prefix + name,MAJ Lith. name+suffix,MAJ Lith. abundance [%],MAJ Lith. ave. grain size ,MAJ Lith. ave. grain size rank [read only],MAJ Lith. max. grain size,MAJ Lith. max. grain size rank [read only],Diagenetic constituent,Diagenetic constituent composition,Deformational structures,structure,General interval comment,MIN Lith. Prefix,MIN Lith. Principal name,MIN Lith. Suffix,MIN Lith. prefix + name,MIN Lith. prefix+name+suffix,MIN Lith. name+suffix,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
+346-U1424A-1H-1-A,0.0,36.0,0.0,0.36,,clay ,,clay ,,,,,7.5YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,36.0,70.0,0.36,0.7,,clay ,,clay ,,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,70.0,90.0,0.7,0.9,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,90.0,99.0,0.9,0.99,,clay ,,clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,99.0,122.0,0.99,1.22,,silty clay ,,silty clay ,,,,lamination,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,122.0,131.0,1.22,1.31,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,131.0,134.0,1.31,1.34,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-1-A,134.0,150.0,1.34,1.5,,clay ,,clay ,,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,1,A
+346-U1424A-1H-2-A,0.0,101.0,1.5,2.51,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,2,A
+346-U1424A-1H-2-A,101.0,102.0,2.51,2.52,,tephra ,,tephra ,,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,2,A
+346-U1424A-1H-2-A,102.0,150.0,2.52,3.0,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,2,A
+346-U1424A-1H-3-A,0.0,24.0,3.0,3.24,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,24.0,28.0,3.24,3.28,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,28.0,41.0,3.28,3.41,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,41.0,44.0,3.41,3.44,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,44.0,88.0,3.44,3.88,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,88.0,98.0,3.88,3.98,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,98.0,104.0,3.98,4.04,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,104.0,106.0,4.04,4.06,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,106.0,110.0,4.06,4.1,,tephra ,,tephra ,scoria,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,110.0,111.0,4.1,4.11,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-3-A,111.0,150.0,4.11,4.5,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,3,A
+346-U1424A-1H-4-A,0.0,15.0,4.5,4.65,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,4,A
+346-U1424A-1H-4-A,15.0,24.5,4.65,4.745,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,4,A
+346-U1424A-1H-4-A,24.5,25.5,4.745,4.755,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,4,A
+346-U1424A-1H-4-A,25.5,36.0,4.755,4.86,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,4,A
+346-U1424A-1H-4-A,36.0,45.0,4.86,4.95,foraminifer rich,silty clay ,with nannofossils ,foraminifer rich silty clay  with nannofossils ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,foraminifer rich  silty clay ,silty clay   with nannofossils ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,4,A
+346-U1424A-1H-4-A,45.0,150.0,4.95,6.0,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,4,A
+346-U1424A-1H-5-A,0.0,5.0,6.0,6.05,,clay ,,clay ,,,,lamination,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,5,A
+346-U1424A-1H-5-A,5.0,6.0,6.05,6.06,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,5,A
+346-U1424A-1H-5-A,6.0,25.0,6.06,6.25,,silty clay ,,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,5,A
+346-U1424A-1H-5-A,25.0,51.0,6.25,6.51,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,5,A
+346-U1424A-1H-5-A,51.0,65.0,6.51,6.65,,silty clay ,,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,5,A
+346-U1424A-1H-CC-A,0.0,15.0,6.65,6.8,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,1,H,CC,A
+346-U1424A-2H-1-A,0.0,9.0,6.8,6.89,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,9.0,16.0,6.89,6.96,,silty clay ,,silty clay ,,,,,10R 3/1 (dark reddish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,16.0,59.0,6.96,7.39,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,59.0,64.0,7.39,7.44,,silty clay ,,silty clay ,,,,layering,10YR 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,64.0,96.0,7.44,7.76,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,96.0,98.0,7.76,7.78,,tephra ,,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,98.0,114.0,7.78,7.94,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,114.0,119.0,7.94,7.99,,silty clay ,,silty clay ,,,,,10YR 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,119.0,137.0,7.99,8.17,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-1-A,137.0,150.0,8.17,8.3,,clay ,,clay ,,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,1,A
+346-U1424A-2H-2-A,0.0,8.0,8.3,8.38,,silty clay ,,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,8.0,10.0,8.38,8.4,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,10.0,12.0,8.4,8.42,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,12.0,32.0,8.42,8.62,,clay ,,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,32.0,36.0,8.62,8.66,,silty clay ,,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,35.0,36.0,8.65,8.66,,,,,pumice,trace amount,1,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,36.0,141.0,8.66,9.71,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,141.0,146.0,9.71,9.76,,silty clay ,,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-2-A,146.0,150.0,9.76,9.8,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,2,A
+346-U1424A-2H-3-A,0.0,12.0,9.8,9.92,,clay [Leg210],,clay ,,,,,10YR 6/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,3,A
+346-U1424A-2H-3-A,12.0,94.0,9.92,10.74,,clay ,,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,3,A
+346-U1424A-2H-3-A,94.0,96.0,10.74,10.76,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,3,A
+346-U1424A-2H-3-A,96.0,129.0,10.76,11.09,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,3,A
+346-U1424A-2H-3-A,129.0,131.0,11.09,11.11,,silty clay ,,silty clay ,,,,,10YR 6/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,3,A
+346-U1424A-2H-3-A,131.0,150.0,11.11,11.3,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,3,A
+346-U1424A-2H-4-A,0.0,4.0,11.3,11.34,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,4.0,11.0,11.34,11.41,,clay [Leg210],,clay ,,,,,5Y 5/2 (olive gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,11.0,15.0,11.41,11.45,,silty clay [MMK88],,silty clay ,,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,15.0,29.0,11.45,11.59,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,29.0,35.0,11.59,11.65,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,35.0,48.0,11.65,11.78,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,48.0,52.0,11.78,11.82,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,52.0,75.0,11.82,12.05,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,75.0,79.0,12.05,12.09,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-4-A,79.0,150.0,12.09,12.8,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,4,A
+346-U1424A-2H-5-A,0.0,30.0,12.8,13.1,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,30.0,38.0,13.1,13.18,,clay [Leg210],,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,36.0,37.0,13.16,13.17,,,,,,,,,,,,,,,,,,,,,,,,,shell fragment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,38.0,42.0,13.18,13.22,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,42.0,44.0,13.22,13.24,,silty clay [MMK88],,silty clay ,,,,,10YR 6/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,44.0,114.0,13.24,13.94,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,114.0,117.0,13.94,13.97,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,117.0,139.0,13.97,14.19,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,139.0,144.0,14.19,14.24,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-5-A,144.0,150.0,14.24,14.3,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,5,A
+346-U1424A-2H-6-A,0.0,6.0,14.3,14.36,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,6,A
+346-U1424A-2H-6-A,6.0,7.0,14.36,14.37,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,6,A
+346-U1424A-2H-6-A,7.0,9.0,14.37,14.39,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,6,A
+346-U1424A-2H-6-A,9.0,116.0,14.39,15.46,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,6,A
+346-U1424A-2H-6-A,116.0,117.0,15.46,15.47,clayey [Leg339],tephra [FS84],,clayey  tephra ,,,,,N 6 (gray),,,,,,,,,,,,,,,,,clayey   tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,6,A
+346-U1424A-2H-6-A,117.0,122.0,15.47,15.52,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,6,A
+346-U1424A-2H-7-A,0.0,4.0,15.52,15.56,,clay [Leg210],,clay ,,,,,5Y 4/4 (olive),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,4.0,14.0,15.56,15.66,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,14.0,15.0,15.66,15.67,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,15.0,24.0,15.67,15.76,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,24.0,33.0,15.76,15.85,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,33.0,36.0,15.85,15.88,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,36.0,39.0,15.88,15.91,,clay [Leg210],,clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,39.0,59.0,15.91,16.11,,clay [Leg210],with foraminifers [Leg339],clay  with foraminifers ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay   with foraminifers ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,59.0,66.0,16.11,16.18,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-7-A,66.0,71.0,16.18,16.23,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,7,A
+346-U1424A-2H-CC-A,0.0,22.0,16.23,16.45,,silty clay [MMK88],,silty clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,2,H,CC,A
+346-U1424A-3H-1-A,0.0,51.0,16.3,16.81,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-1-A,51.0,52.0,16.81,16.82,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-1-A,52.0,70.0,16.82,17.0,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-1-A,70.0,71.0,17.0,17.01,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-1-A,71.0,89.0,17.01,17.19,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-1-A,89.0,89.5,17.19,17.195,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-1-A,89.5,150.0,17.195,17.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,1,A
+346-U1424A-3H-2-A,0.0,22.0,17.8,18.02,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,2,A
+346-U1424A-3H-2-A,22.0,23.0,18.02,18.03,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,2,A
+346-U1424A-3H-2-A,23.0,119.0,18.03,18.99,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,2,A
+346-U1424A-3H-2-A,119.0,120.0,18.99,19.0,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,2,A
+346-U1424A-3H-2-A,120.0,150.0,19.0,19.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,2,A
+346-U1424A-3H-3-A,0.0,90.0,19.3,20.2,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,3,A
+346-U1424A-3H-3-A,90.0,93.0,20.2,20.23,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,3,A
+346-U1424A-3H-3-A,93.0,119.0,20.23,20.49,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,3,A
+346-U1424A-3H-3-A,119.0,120.0,20.49,20.5,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,3,A
+346-U1424A-3H-3-A,120.0,150.0,20.5,20.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,3,A
+346-U1424A-3H-4-A,0.0,13.0,20.8,20.93,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,4,A
+346-U1424A-3H-4-A,13.0,115.0,20.93,21.95,,clay [Leg210],with foraminifers [Leg339],clay  with foraminifers ,,,,lamination,7.5YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay   with foraminifers ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,4,A
+346-U1424A-3H-4-A,115.0,150.0,21.95,22.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,4,A
+346-U1424A-3H-5-A,0.0,27.0,22.3,22.57,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,27.0,28.0,22.57,22.58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,28.0,47.0,22.58,22.77,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,47.0,47.5,22.77,22.775,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,47.5,69.0,22.775,22.99,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,69.0,70.0,22.99,23.0,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,70.0,121.0,23.0,23.51,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,121.0,123.5,23.51,23.535,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-5-A,123.5,150.0,23.535,23.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,5,A
+346-U1424A-3H-6-A,0.0,32.0,23.8,24.12,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,6,A
+346-U1424A-3H-6-A,32.0,33.0,24.12,24.13,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,6,A
+346-U1424A-3H-6-A,33.0,54.0,24.13,24.34,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,6,A
+346-U1424A-3H-6-A,54.0,56.0,24.34,24.36,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,3,H,6,A
+346-U1424A-3H-6-A,56.0,144.0,24.36,25.24,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,6,A
+346-U1424A-3H-CC-A,0.0,4.0,25.24,25.28,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,3,H,CC,A
+346-U1424A-4H-1-A,0.0,134.0,25.8,27.14,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,1,A
+346-U1424A-4H-1-A,46.0,56.0,26.26,26.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,1,A
+346-U1424A-4H-1-A,134.0,135.0,27.14,27.15,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,1,A
+346-U1424A-4H-1-A,135.0,150.0,27.15,27.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,1,A
+346-U1424A-4H-2-A,0.0,150.0,27.3,28.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,2,A
+346-U1424A-4H-3-A,0.0,150.0,28.8,30.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,3,A
+346-U1424A-4H-4-A,0.0,27.0,30.3,30.57,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-4-A,27.0,28.0,30.57,30.58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-4-A,28.0,116.0,30.58,31.46,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-4-A,116.0,119.0,31.46,31.49,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-4-A,119.0,129.0,31.49,31.59,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-4-A,129.0,129.5,31.59,31.595,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-4-A,129.5,150.0,31.595,31.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,4,A
+346-U1424A-4H-5-A,0.0,8.0,31.8,31.88,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,8.0,8.5,31.88,31.885,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,8.5,20.5,31.885,32.005,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,20.5,24.0,32.005,32.04,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,24.0,106.5,32.04,32.865,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,106.5,109.0,32.865,32.89,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,109.0,120.5,32.89,33.005,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,120.5,121.0,33.005,33.01,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-5-A,121.0,150.0,33.01,33.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,5,A
+346-U1424A-4H-6-A,0.0,18.0,33.3,33.48,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,6,A
+346-U1424A-4H-6-A,18.0,19.0,33.48,33.49,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,6,A
+346-U1424A-4H-6-A,19.0,54.0,33.49,33.84,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,6,A
+346-U1424A-4H-6-A,30.0,36.0,33.6,33.66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,6,A
+346-U1424A-4H-6-A,54.0,56.0,33.84,33.86,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,6,A
+346-U1424A-4H-6-A,56.0,120.0,33.86,34.5,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,6,A
+346-U1424A-4H-7-A,0.0,31.0,34.5,34.81,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,7,A
+346-U1424A-4H-7-A,8.0,18.0,34.58,34.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,7,A
+346-U1424A-4H-7-A,31.0,32.0,34.81,34.82,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,7,A
+346-U1424A-4H-7-A,32.0,73.0,34.82,35.23,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,7,A
+346-U1424A-4H-7-A,65.0,71.0,35.15,35.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,7,A
+346-U1424A-4H-CC-A,0.0,19.0,35.23,35.42,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,CC,A
+346-U1424A-4H-CC-A,19.0,19.5,35.42,35.425,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,4,H,CC,A
+346-U1424A-4H-CC-A,19.5,25.0,35.425,35.48,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,clay [Leg210],with foraminifers [Leg339],clay ,clay  with foraminifers ,clay   with foraminifers ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,4,H,CC,A
+346-U1424A-5H-1-A,0.0,150.0,35.3,36.8,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,1,A
+346-U1424A-5H-2-A,0.0,75.0,36.8,37.55,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,2,A
+346-U1424A-5H-2-A,75.0,76.0,37.55,37.56,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,2,A
+346-U1424A-5H-2-A,76.0,150.0,37.56,38.3,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,2,A
+346-U1424A-5H-3-A,0.0,18.0,38.3,38.48,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,18.0,18.5,38.48,38.485,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,18.5,31.0,38.485,38.61,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,31.0,31.5,38.61,38.615,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,31.5,59.0,38.615,38.89,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,59.0,62.0,38.89,38.92,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,62.0,83.5,38.92,39.135,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,83.5,88.0,39.135,39.18,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-3-A,88.0,150.0,39.18,39.8,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,3,A
+346-U1424A-5H-4-A,0.0,56.0,39.8,40.36,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,4,A
+346-U1424A-5H-4-A,56.0,58.0,40.36,40.38,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,4,A
+346-U1424A-5H-4-A,58.0,131.0,40.38,41.11,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,4,A
+346-U1424A-5H-4-A,131.0,138.0,41.11,41.18,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,4,A
+346-U1424A-5H-4-A,138.0,150.0,41.18,41.3,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,4,A
+346-U1424A-5H-5-A,0.0,109.5,41.3,42.395,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,5,A
+346-U1424A-5H-5-A,109.5,110.0,42.395,42.4,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,5,A
+346-U1424A-5H-5-A,110.0,150.0,42.4,42.8,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,5,A
+346-U1424A-5H-6-A,0.0,38.0,42.8,43.18,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-6-A,38.0,44.0,43.18,43.24,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-6-A,44.0,99.0,43.24,43.79,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-6-A,99.0,102.0,43.79,43.82,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-6-A,102.0,111.0,43.82,43.91,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-6-A,111.0,113.0,43.91,43.93,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-6-A,113.0,120.0,43.93,44.0,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,6,A
+346-U1424A-5H-7-A,0.0,68.0,44.0,44.68,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,7,A
+346-U1424A-5H-CC-A,0.0,24.0,44.68,44.92,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,diatom rich,clay [Leg210],,diatom rich  clay ,diatom rich clay ,clay ,7.5YR 3/3 (dark brown),,,,,,,,,,,,346,U1424,A,5,H,CC,A
+346-U1424A-6H-1-A,0.0,150.0,44.8,46.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,1,A
+346-U1424A-6H-2-A,0.0,110.5,46.3,47.405,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,2,A
+346-U1424A-6H-2-A,110.5,111.0,47.405,47.41,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,2,A
+346-U1424A-6H-2-A,111.0,150.0,47.41,47.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,2,A
+346-U1424A-6H-3-A,0.0,150.0,47.8,49.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,3,A
+346-U1424A-6H-4-A,0.0,150.0,49.3,50.8,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,4,A
+346-U1424A-6H-5-A,0.0,98.0,50.8,51.78,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,98.0,98.5,51.78,51.785,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,98.5,105.0,51.785,51.85,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,105.0,105.5,51.85,51.855,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,105.5,122.0,51.855,52.02,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,122.0,123.0,52.02,52.03,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,123.0,126.5,52.03,52.065,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,126.5,127.0,52.065,52.07,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-5-A,127.0,150.0,52.07,52.3,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,5,A
+346-U1424A-6H-6-A,0.0,42.5,52.3,52.725,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,6,A
+346-U1424A-6H-6-A,42.5,42.7,52.725,52.727,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,6,A
+346-U1424A-6H-6-A,42.7,102.0,52.727,53.32,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,6,A
+346-U1424A-6H-6-A,102.0,104.0,53.32,53.34,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,6,A
+346-U1424A-6H-6-A,104.0,120.0,53.34,53.5,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,6,A
+346-U1424A-6H-7-A,0.0,52.0,53.5,54.02,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,7,A
+346-U1424A-6H-7-A,52.0,54.0,54.02,54.04,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,7,A
+346-U1424A-6H-7-A,54.0,64.0,54.04,54.14,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,7,A
+346-U1424A-6H-CC-A,0.0,25.0,54.14,54.39,,clay [Leg210],,clay ,,,,color banding,10BG 8/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,6,H,CC,A
+346-U1424A-7H-1-A,0.0,150.0,54.3,55.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,1,A
+346-U1424A-7H-2-A,0.0,150.0,55.8,57.3,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,2,A
+346-U1424A-7H-3-A,0.0,5.0,57.3,57.35,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,3,A
+346-U1424A-7H-3-A,5.0,9.0,57.35,57.39,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,3,A
+346-U1424A-7H-3-A,9.0,68.0,57.39,57.98,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,3,A
+346-U1424A-7H-3-A,68.0,70.0,57.98,58.0,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,3,A
+346-U1424A-7H-3-A,70.0,150.0,58.0,58.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,3,A
+346-U1424A-7H-4-A,0.0,20.0,58.8,59.0,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,4,A
+346-U1424A-7H-4-A,20.0,24.0,59.0,59.04,,tephra [FS84],,tephra ,scoria,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,4,A
+346-U1424A-7H-4-A,24.0,150.0,59.04,60.3,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,4,A
+346-U1424A-7H-5-A,0.0,150.0,60.3,61.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,5,A
+346-U1424A-7H-6-A,0.0,150.0,61.8,63.3,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,6,A
+346-U1424A-7H-7-A,0.0,50.0,63.3,63.8,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,7,A
+346-U1424A-7H-CC-A,0.0,22.0,63.8,64.02,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,7,H,CC,A
+346-U1424A-8H-1-A,0.0,150.0,63.8,65.3,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,1,A
+346-U1424A-8H-2-A,0.0,150.0,65.3,66.8,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,2,A
+346-U1424A-8H-3-A,0.0,150.0,66.8,68.3,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,3,A
+346-U1424A-8H-4-A,0.0,150.0,68.3,69.8,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,4,A
+346-U1424A-8H-5-A,0.0,47.0,69.8,70.27,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,5,A
+346-U1424A-8H-5-A,47.0,47.5,70.27,70.275,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,5,A
+346-U1424A-8H-5-A,47.5,49.5,70.275,70.295,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,5,A
+346-U1424A-8H-5-A,49.5,50.0,70.295,70.3,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,5,A
+346-U1424A-8H-5-A,50.0,150.0,70.3,71.3,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,5,A
+346-U1424A-8H-6-A,0.0,120.0,71.3,72.5,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,6,A
+346-U1424A-8H-7-A,0.0,8.5,72.5,72.585,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-7-A,8.5,9.0,72.585,72.59,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-7-A,9.0,27.5,72.59,72.775,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-7-A,27.5,28.0,72.775,72.78,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-7-A,28.0,46.0,72.78,72.96,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-7-A,46.0,47.0,72.96,72.97,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-7-A,47.0,50.0,72.97,73.0,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,7,A
+346-U1424A-8H-CC-A,0.0,22.0,73.0,73.22,,clay [Leg210],,clay ,,,,mottling [BJ80],5Y 4/3 (olive),complete [DB86],4,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,8,H,CC,A
+346-U1424A-9H-1-A,0.0,65.0,73.3,73.95,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,1,A
+346-U1424A-9H-1-A,65.0,67.0,73.95,73.97,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,1,A
+346-U1424A-9H-1-A,67.0,150.0,73.97,74.8,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,1,A
+346-U1424A-9H-2-A,0.0,100.0,74.8,75.8,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-2-A,100.0,101.5,75.8,75.815,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-2-A,101.5,121.0,75.815,76.01,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-2-A,121.0,121.5,76.01,76.015,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-2-A,121.5,144.0,76.015,76.24,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-2-A,144.0,145.5,76.24,76.255,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-2-A,145.5,150.0,76.255,76.3,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,2,A
+346-U1424A-9H-3-A,0.0,127.0,76.3,77.57,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,3,A
+346-U1424A-9H-3-A,127.0,128.0,77.57,77.58,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,3,A
+346-U1424A-9H-3-A,128.0,150.0,77.58,77.8,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,3,A
+346-U1424A-9H-4-A,0.0,141.0,77.8,79.21,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,4,A
+346-U1424A-9H-4-A,141.0,150.0,79.21,79.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,4,A
+346-U1424A-9H-5-A,0.0,150.0,79.3,80.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,5,A
+346-U1424A-9H-6-A,0.0,120.0,80.8,82.0,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,6,A
+346-U1424A-9H-7-A,0.0,75.0,82.0,82.75,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,7,A
+346-U1424A-9H-CC-A,0.0,28.0,82.75,83.03,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,9,H,CC,A
+346-U1424A-10H-1-A,0.0,42.0,82.8,83.22,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,1,A
+346-U1424A-10H-1-A,42.0,69.0,83.22,83.49,diatom rich,clay [Leg210],,diatom rich clay ,,,,color banding,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,1,A
+346-U1424A-10H-1-A,69.0,150.0,83.49,84.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,1,A
+346-U1424A-10H-1-A,98.0,104.0,83.78,83.84,,,,,,,,,,,,present [A79],4,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,1,A
+346-U1424A-10H-1-A,111.0,113.0,83.91,83.93,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,1,A
+346-U1424A-10H-1-A,125.0,127.0,84.05,84.07,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,1,A
+346-U1424A-10H-2-A,0.0,150.0,84.3,85.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,2,A
+346-U1424A-10H-3-A,0.0,63.0,85.8,86.43,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,3,A
+346-U1424A-10H-3-A,63.0,72.0,86.43,86.52,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,3,A
+346-U1424A-10H-3-A,72.0,85.0,86.52,86.65,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,3,A
+346-U1424A-10H-3-A,85.0,130.0,86.65,87.1,diatom rich,clay [Leg210],,diatom rich clay ,,,,color banding,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,3,A
+346-U1424A-10H-3-A,130.0,150.0,87.1,87.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,3,A
+346-U1424A-10H-4-A,0.0,82.0,87.3,88.12,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,4,A
+346-U1424A-10H-4-A,82.0,135.0,88.12,88.65,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,10,H,4,A
+346-U1424A-10H-4-A,135.0,150.0,88.65,88.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,4,A
+346-U1424A-10H-5-A,0.0,64.0,88.8,89.44,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,5,A
+346-U1424A-10H-5-A,64.0,95.0,89.44,89.75,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,5,A
+346-U1424A-10H-5-A,95.0,97.0,89.75,89.77,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,5,A
+346-U1424A-10H-5-A,97.0,140.0,89.77,90.2,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5G 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,5,A
+346-U1424A-10H-5-A,140.0,150.0,90.2,90.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,5,A
+346-U1424A-10H-6-A,0.0,40.0,90.3,90.7,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,6,A
+346-U1424A-10H-6-A,40.0,60.0,90.7,90.9,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,6,A
+346-U1424A-10H-6-A,60.0,120.0,90.9,91.5,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,6,A
+346-U1424A-10H-7-A,0.0,69.0,91.5,92.19,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,7,A
+346-U1424A-10H-CC-A,0.0,23.0,92.19,92.42,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,10,H,CC,A
+346-U1424A-11H-1-A,0.0,100.0,92.3,93.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,1,A
+346-U1424A-11H-1-A,100.0,150.0,93.3,93.8,,clay [Leg210],,clay ,,,,,5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,1,A
+346-U1424A-11H-1-A,108.0,112.0,93.38,93.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,11,H,1,A
+346-U1424A-11H-2-A,0.0,88.0,93.8,94.68,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,2,A
+346-U1424A-11H-3-A,0.0,2.0,94.68,94.7,,tephra [FS84],,tephra ,,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,3,A
+346-U1424A-11H-3-A,2.0,30.0,94.7,94.98,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,3,A
+346-U1424A-11H-3-A,30.0,150.0,94.98,96.18,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,3,A
+346-U1424A-11H-4-A,0.0,18.0,96.18,96.36,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,4,A
+346-U1424A-11H-4-A,18.0,20.0,96.36,96.38,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,4,A
+346-U1424A-11H-4-A,20.0,25.0,96.38,96.43,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,4,A
+346-U1424A-11H-4-A,25.0,150.0,96.43,97.68,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,4,A
+346-U1424A-11H-5-A,0.0,17.0,97.68,97.85,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,5,A
+346-U1424A-11H-5-A,17.0,23.0,97.85,97.91,,tephra [FS84],,tephra ,vitric,,,,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,Tephra grades from white to dark gray (vitric type).,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,5,A
+346-U1424A-11H-5-A,23.0,150.0,97.91,99.18,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,5,A
+346-U1424A-11H-6-A,0.0,150.0,99.18,100.68,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,6,A
+346-U1424A-11H-6-A,23.0,27.0,99.41,99.45,,,,,vitric,volcaniclastic-bearing,2,patch or bleb,N 5 (gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,11,H,6,A
+346-U1424A-11H-7-A,0.0,101.0,100.68,101.69,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,7,A
+346-U1424A-11H-7-A,98.0,101.0,101.66,101.69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,11,H,7,A
+346-U1424A-11H-CC-A,0.0,18.0,101.69,101.87,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1424,A,11,H,CC,A
+346-U1424A-12H-1-A,0.0,53.0,101.8,102.33,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,1,A
+346-U1424A-12H-1-A,53.0,60.0,102.33,102.4,,clay [Leg210],,clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,1,A
+346-U1424A-12H-1-A,60.0,150.0,102.4,103.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,1,A
+346-U1424A-12H-2-A,0.0,110.0,103.3,104.4,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,Smear slide shows abundant organic debris.,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,2,A
+346-U1424A-12H-2-A,110.0,113.0,104.4,104.43,,tephra [FS84],,tephra ,vitric,,,normal grading,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,Possible turbidite. Fine laminated ash layer followed by grading. ,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,2,A
+346-U1424A-12H-2-A,113.0,150.0,104.43,104.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,Smear slide shows abundant organic debris.,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,2,A
+346-U1424A-12H-3-A,0.0,10.0,104.8,104.9,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,3,A
+346-U1424A-12H-3-A,10.0,86.0,104.9,105.66,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5GY 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,3,A
+346-U1424A-12H-3-A,86.0,153.0,105.66,106.33,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,3,A
+346-U1424A-12H-4-A,0.0,37.0,106.33,106.7,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,4,A
+346-U1424A-12H-4-A,37.0,134.0,106.7,107.67,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5GY 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,4,A
+346-U1424A-12H-4-A,134.0,136.0,107.67,107.69,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,4,A
+346-U1424A-12H-4-A,136.0,137.0,107.69,107.7,,tephra [FS84],,tephra ,vitric,,,,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,4,A
+346-U1424A-12H-4-A,137.0,138.0,107.7,107.71,diatom rich,clay [Leg210],,diatom rich clay ,,,,mottling [BJ80],5GY 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,4,A
+346-U1424A-12H-4-A,138.0,150.0,107.71,107.83,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,4,A
+346-U1424A-12H-5-A,0.0,39.0,107.83,108.22,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,5,A
+346-U1424A-12H-5-A,39.0,69.0,108.22,108.52,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5GY 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,5,A
+346-U1424A-12H-5-A,69.0,80.0,108.52,108.63,,tephra [FS84],,tephra ,,,,layering,N 5 (gray),heavy [DB86],3,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,5,A
+346-U1424A-12H-5-A,80.0,153.0,108.63,109.36,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,5,A
+346-U1424A-12H-5-A,125.0,126.0,109.08,109.09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,5,A
+346-U1424A-12H-6-A,0.0,141.0,109.36,110.77,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,6,A
+346-U1424A-12H-7-A,0.0,52.0,110.77,111.29,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,7,A
+346-U1424A-12H-CC-A,0.0,24.0,111.29,111.53,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,12,H,CC,A
+346-U1424A-13H-1-A,0.0,63.0,111.3,111.93,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,1,A
+346-U1424A-13H-1-A,63.0,75.0,111.93,112.05,tephra rich,clay [Leg210],,tephra rich clay ,vitric,volcaniclastic-rich,3,,N 5 (gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,1,A
+346-U1424A-13H-1-A,75.0,114.0,112.05,112.44,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,1,A
+346-U1424A-13H-1-A,114.0,117.0,112.44,112.47,,tephra [FS84],,tephra ,,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,1,A
+346-U1424A-13H-1-A,117.0,150.0,112.47,112.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,1,A
+346-U1424A-13H-2-A,0.0,77.0,112.8,113.57,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,2,A
+346-U1424A-13H-2-A,77.0,78.0,113.57,113.58,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,2,A
+346-U1424A-13H-2-A,78.0,150.0,113.58,114.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,2,A
+346-U1424A-13H-3-A,0.0,116.0,114.3,115.46,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,3,A
+346-U1424A-13H-3-A,116.0,134.0,115.46,115.64,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,3,A
+346-U1424A-13H-3-A,134.0,144.0,115.64,115.74,tephra rich,clay [Leg210],,tephra rich clay ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,3,A
+346-U1424A-13H-4-A,0.0,27.0,115.74,116.01,tephra rich,clay [Leg210],,tephra rich clay ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,4,A
+346-U1424A-13H-4-A,27.0,37.0,116.01,116.11,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,4,A
+346-U1424A-13H-4-A,37.0,50.0,116.11,116.24,,clay [Leg210],,clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,4,A
+346-U1424A-13H-4-A,50.0,144.0,116.24,117.18,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,4,A
+346-U1424A-13H-5-A,0.0,13.0,117.18,117.31,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,5,A
+346-U1424A-13H-5-A,13.0,83.0,117.31,118.01,tephra rich,clay [Leg210],,tephra rich clay ,,,,,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,5,A
+346-U1424A-13H-5-A,20.0,26.0,117.38,117.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,5,A
+346-U1424A-13H-5-A,83.0,145.0,118.01,118.63,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,5,A
+346-U1424A-13H-6-A,0.0,93.0,118.63,119.56,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,6,A
+346-U1424A-13H-6-A,93.0,141.0,119.56,120.04,diatom rich,clay [Leg210],,diatom rich clay ,,,,,5GY 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,6,A
+346-U1424A-13H-6-A,141.0,150.0,120.04,120.13,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,6,A
+346-U1424A-13H-7-A,0.0,9.0,120.13,120.22,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,7,A
+346-U1424A-13H-7-A,9.0,37.0,120.22,120.5,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,7,A
+346-U1424A-13H-7-A,37.0,39.0,120.5,120.52,calcareous bearing,clay [Leg210],,calcareous bearing clay ,,,,,,,,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,7,A
+346-U1424A-13H-7-A,39.0,81.0,120.52,120.94,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,7,A
+346-U1424A-13H-CC-A,0.0,18.0,120.94,121.12,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,13,H,CC,A
+346-U1424A-14H-1-A,0.0,2.0,120.8,120.82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,1,A
+346-U1424A-14H-1-A,0.0,150.0,120.8,122.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,1,A
+346-U1424A-14H-2-A,0.0,150.0,122.3,123.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,2,A
+346-U1424A-14H-3-A,0.0,150.0,123.8,125.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,3,A
+346-U1424A-14H-3-A,59.0,60.0,124.39,124.4,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,3,A
+346-U1424A-14H-3-A,110.0,115.0,124.9,124.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,3,A
+346-U1424A-14H-3-A,138.0,147.0,125.18,125.27,,,,,vitric,,,lens or pod [BJ84],N 5 (gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,3,A
+346-U1424A-14H-4-A,0.0,145.0,125.3,126.75,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,4,A
+346-U1424A-14H-5-A,0.0,145.0,126.75,128.2,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,5,A
+346-U1424A-14H-6-A,0.0,150.0,128.2,129.7,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,6,A
+346-U1424A-14H-7-A,0.0,60.0,129.7,130.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,7,A
+346-U1424A-14H-CC-A,0.0,25.0,130.3,130.55,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,14,H,CC,A
+346-U1424A-15H-1-A,0.0,5.0,130.3,130.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,Coated by pyrite,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,1,A
+346-U1424A-15H-1-A,0.0,62.0,130.3,130.92,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,1,A
+346-U1424A-15H-1-A,62.0,109.0,130.92,131.39,diatom rich,clay [Leg210],,diatom rich clay ,,,,color banding,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,1,A
+346-U1424A-15H-1-A,109.0,150.0,131.39,131.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,1,A
+346-U1424A-15H-2-A,0.0,72.0,131.8,132.52,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,72.0,82.0,132.52,132.62,calcareous bearing,diatom ooze [Leg339],,calcareous bearing diatom ooze ,,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,,,,calcareous bearing  diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,82.0,89.0,132.62,132.69,tephra rich,clay [Leg210],,tephra rich clay ,,,,,5G 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,89.0,97.0,132.69,132.77,calcareous bearing,clay [Leg210],,calcareous bearing clay ,,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,97.0,111.0,132.77,132.91,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,111.0,112.0,132.91,132.92,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,112.0,139.0,132.92,133.19,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,139.0,141.0,133.19,133.21,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-2-A,141.0,150.0,133.21,133.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,2,A
+346-U1424A-15H-3-A,0.0,25.0,133.3,133.55,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,3,A
+346-U1424A-15H-3-A,0.0,65.0,133.3,133.95,,,,,,,,mottling [BJ80],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,3,A
+346-U1424A-15H-3-A,25.0,30.0,133.55,133.6,tephra rich,diatom ooze [Leg339],,tephra rich diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,tephra rich  diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,3,A
+346-U1424A-15H-3-A,30.0,82.0,133.6,134.12,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,3,A
+346-U1424A-15H-3-A,82.0,85.0,134.12,134.15,,calcareous ooze [Leg339],,calcareous ooze ,,,,,5Y 5/2 (olive gray),heavy [DB86],3,,,,,,,,,,,,,,,calcareous ooze ,calcareous ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,3,A
+346-U1424A-15H-3-A,85.0,150.0,134.15,134.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,3,A
+346-U1424A-15H-4-A,0.0,29.0,134.8,135.09,,diatom ooze [Leg339],,diatom ooze ,,,,color banding,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,4,A
+346-U1424A-15H-4-A,29.0,30.0,135.09,135.1,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,4,A
+346-U1424A-15H-4-A,30.0,45.0,135.1,135.25,,diatom ooze [Leg339],,diatom ooze ,,,,color banding,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,4,A
+346-U1424A-15H-4-A,45.0,46.0,135.25,135.26,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,4,A
+346-U1424A-15H-4-A,46.0,150.0,135.26,136.3,,diatom ooze [Leg339],,diatom ooze ,,,,color banding,5Y 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,4,A
+346-U1424A-15H-4-A,130.0,131.0,136.1,136.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,concretion,dolomite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,4,A
+346-U1424A-15H-5-A,0.0,145.0,136.3,137.75,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,5,A
+346-U1424A-15H-5-A,92.0,150.0,137.22,137.8,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,5,A
+346-U1424A-15H-5-A,145.0,146.0,137.75,137.76,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,Very thin (2-3 mm),,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,5,A
+346-U1424A-15H-5-A,146.0,150.0,137.76,137.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,5,A
+346-U1424A-15H-6-A,0.0,27.0,137.8,138.07,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,6,A
+346-U1424A-15H-6-A,27.0,28.0,138.07,138.08,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,6,A
+346-U1424A-15H-6-A,28.0,60.0,138.08,138.4,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,6,A
+346-U1424A-15H-6-A,60.0,66.0,138.4,138.46,,tephra [FS84],,tephra ,vitric,,,lamination,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,6,A
+346-U1424A-15H-6-A,66.0,123.0,138.46,139.03,,,,,,,,mottling [BJ80],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,6,A
+346-U1424A-15H-6-A,66.0,150.0,138.46,139.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,6,A
+346-U1424A-15H-7-A,0.0,61.0,139.3,139.91,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,7,A
+346-U1424A-15H-CC-A,0.0,29.0,139.91,140.2,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,15,H,CC,A
+346-U1424A-16H-1-A,0.0,82.0,139.8,140.62,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,1,A
+346-U1424A-16H-1-A,82.0,92.0,140.62,140.72,tephra rich,clay [Leg210],,tephra rich clay ,,,,,10YR 4/1 (dark gray),heavy [DB86],3,,,,,,,,,,,,,,,tephra rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,1,A
+346-U1424A-16H-1-A,92.0,96.0,140.72,140.76,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,1,A
+346-U1424A-16H-1-A,96.0,99.0,140.76,140.79,,tephra [FS84],,tephra ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,1,A
+346-U1424A-16H-1-A,99.0,150.0,140.79,141.3,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,1,A
+346-U1424A-16H-2-A,0.0,4.0,141.3,141.34,,foraminiferal ooze [Leg339],,foraminiferal ooze ,,,,,2.5Y 5/2 (grayish brown),,,,,,,,,,,,,,,,,foraminiferal ooze ,foraminiferal ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,2,A
+346-U1424A-16H-2-A,4.0,150.0,141.34,142.8,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,2,A
+346-U1424A-16H-3-A,0.0,146.0,142.8,144.26,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,3,A
+346-U1424A-16H-4-A,0.0,146.0,144.26,145.72,,diatom ooze [Leg339],,diatom ooze ,,,,,5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,4,A
+346-U1424A-16H-4-A,8.0,10.0,144.34,144.36,,,,,vitric,volcaniclastic-bearing,2,lens or pod [BJ84],N 5 (gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,4,A
+346-U1424A-16H-5-A,0.0,150.0,145.72,147.22,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,5,A
+346-U1424A-16H-6-A,0.0,150.0,147.22,148.72,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,6,A
+346-U1424A-16H-7-A,0.0,67.0,148.72,149.39,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,7,A
+346-U1424A-16H-CC-A,0.0,25.0,149.39,149.64,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,16,H,CC,A
+346-U1424A-17H-1-A,0.0,150.0,149.3,150.8,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,1,A
+346-U1424A-17H-1-A,20.0,22.0,149.5,149.52,,tephra [FS84],,tephra ,pumice,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,1,A
+346-U1424A-17H-2-A,0.0,150.0,150.8,152.3,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,2,A
+346-U1424A-17H-3-A,0.0,150.0,152.3,153.8,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,3,A
+346-U1424A-17H-4-A,0.0,150.0,153.8,155.3,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,4,A
+346-U1424A-17H-4-A,120.0,123.0,155.0,155.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cement,calcite,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,4,A
+346-U1424A-17H-5-A,0.0,150.0,155.3,156.8,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,5,A
+346-U1424A-17H-5-A,91.0,103.0,156.21,156.33,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,5,A
+346-U1424A-17H-6-A,0.0,140.0,156.8,158.2,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,6,A
+346-U1424A-17H-7-A,0.0,54.0,158.2,158.74,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,7,A
+346-U1424A-17H-CC-A,0.0,13.0,158.74,158.87,,diatom ooze [Leg339],,diatom ooze ,,,,mottling [BJ80],5Y 5/1 (gray),heavy [DB86],3,,,,,,,,,,,,,,,diatom ooze ,diatom ooze ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1424,A,17,H,CC,A

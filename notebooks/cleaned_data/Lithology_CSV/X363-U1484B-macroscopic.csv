@@ -1,480 +1,480 @@
-﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. prefix+name [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Clast abundance,Macrofossil,MAJ Lith. ave. grain size ,Diagenetic constituent,Diagenetic constituent composition,General interval comment,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data
-363-U1484B-1H-1-A,0,150,0,1.5,diatom-bearing nannofossil-bearing [X363],silty clay [S54],diatom-bearing nannofossil-bearing silty clay,,10Y 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-2-A,0,150,1.5,3,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-3-A,0,150,3,4.5,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-4-A,0,141,4.5,5.91,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-5-A,0,15,5.91,6.06,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-5-A,15,16,6.06,6.07,,ash(tuff) [MMK88m],ash(tuff),,10YR 2/1 (black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-1H-5-A,16,101,6.07,6.92,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-6-A,0,82,6.92,7.74,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-1H-CC-A,0,9,7.74,7.83,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-1-A,0,21,7.8,8.01,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-1-A,35,143,8.15,9.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-1-A,143,146,9.23,9.26,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,0,2,9.26,9.28,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,2,28,9.28,9.54,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,28,34,9.54,9.6,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,34,43,9.6,9.69,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,43,48,9.69,9.74,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,48,138,9.74,10.64,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-2-A,138,146,10.64,10.72,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,wood fragments are concentrated 143-144 cm.,,,,,,,,,,,,
-363-U1484B-2H-3-A,0,20,10.72,10.92,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-3-A,20,30,10.92,11.02,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-3-A,30,146,11.02,12.18,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-4-A,0,107,12.18,13.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-4-A,107,112,13.25,13.3,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-4-A,112,124,13.3,13.42,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-4-A,124,131,13.42,13.49,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-4-A,131,145,13.49,13.63,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-5-A,0,147,13.64,15.11,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-6-A,0,98,15.11,16.09,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-6-A,98,107,16.09,16.18,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-6-A,107,146,16.18,16.57,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-7-A,0,94,16.57,17.51,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-2H-CC-A,0,22,17.51,17.73,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-1-A,0,80,17.3,18.1,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-2-A,0,131,18.1,19.41,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-2-A,131,136,19.41,19.46,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-3-A,0,23,19.46,19.69,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-3-A,23,26,19.69,19.72,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-3-A,26,99,19.72,20.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-3-A,99,105,20.45,20.51,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-4-A,0,21,20.51,20.72,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-4-A,21,26,20.72,20.77,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-4-A,26,70,20.77,21.21,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-4-A,70,78,21.21,21.29,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-4-A,78,118,21.29,21.69,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-5-A,0,59,21.74,22.33,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-5-A,59,62,22.33,22.36,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-5-A,62,112,22.36,22.86,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-6-A,0,59,22.86,23.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-6-A,59,62,23.45,23.48,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-6-A,62,76,23.48,23.62,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-7-A,0,111,23.62,24.73,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-7-A,111,114,24.73,24.76,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-7-A,114,124,24.76,24.86,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-8-A,0,42,24.86,25.28,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-8-A,42,46,25.28,25.32,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-8-A,46,120,25.32,26.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-CC-A,0,20,26.06,26.26,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-CC-A,20,24,26.26,26.3,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-3H-CC-A,24,74,26.3,26.8,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,
-363-U1484B-4H-1-A,0,10,26.8,26.9,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-1-A,10,31,26.9,27.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-1-A,31,37,27.11,27.17,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-1-A,37,126,27.17,28.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-2-A,0,71,28.06,28.77,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-2-A,71,94,28.77,29,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-2-A,94,116,29,29.22,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,
-363-U1484B-4H-2-A,120,145,29.26,29.51,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-4H-3-A,0,93,29.51,30.44,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-3-A,93,102,30.44,30.53,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-4H-3-A,102,107,30.53,30.58,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-3-A,107,139,30.58,30.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-4-A,0,78,30.9,31.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-4-A,78,100,31.68,31.9,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-4-A,100,118,31.9,32.08,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-5-A,0,93,32.08,33.01,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-5-A,99,108,33.07,33.16,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-4H-5-A,108,123,33.16,33.31,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-5-A,123,135,33.31,33.43,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-6-A,0,145,33.43,34.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-7-A,0,122,34.88,36.1,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-CC-A,0,31,36.1,36.41,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-CC-A,31,37,36.41,36.47,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-4H-CC-A,37,48,36.47,36.58,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,
-363-U1484B-6H-1-A,0,82,38.3,39.12,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-1-A,82,88,39.12,39.18,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-1-A,88,125,39.18,39.55,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-2-A,0,134,39.55,40.89,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-3-A,0,63,40.89,41.52,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-3-A,69,109,41.58,41.98,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-6H-4-A,0,24,41.98,42.22,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-4-A,24,30,42.22,42.28,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-4-A,30,65,42.28,42.63,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-4-A,65,72,42.63,42.7,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-4-A,72,118,42.7,43.16,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-5-A,0,87,43.21,44.08,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-5-A,87,99,44.08,44.2,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-5-A,99,145,44.2,44.66,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-6-A,0,80,44.66,45.46,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-6-A,80,85,45.46,45.51,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-6-A,85,121,45.51,45.87,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-6-A,121,137,45.87,46.03,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-6-A,137,145,46.03,46.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-7-A,0,91,46.11,47.02,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-6H-7-A,91,101,47.02,47.12,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-6H-CC-A,0,88,47.12,48,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-1-A,0,45,47.8,48.25,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,0,20,48.25,48.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,20,27,48.45,48.52,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,27,72,48.52,48.97,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,72,77,48.97,49.02,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,77,85,49.02,49.1,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,85,89,49.1,49.14,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-2-A,89,130,49.14,49.55,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-3-A,0,50,49.55,50.05,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-3-A,50,60,50.05,50.15,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-3-A,60,80,50.15,50.35,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-3-A,80,85,50.35,50.4,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-3-A,85,134,50.4,50.89,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-4-A,0,38,50.89,51.27,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-4-A,38,41,51.27,51.3,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-4-A,41,100,51.3,51.89,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,0,5,51.89,51.94,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,5,11,51.94,52,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,11,70,52,52.59,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,78,99,52.67,52.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-7H-5-A,99,109,52.88,52.98,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,109,116,52.98,53.05,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,116,121,53.05,53.1,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-5-A,121,126,53.1,53.15,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-6-A,0,83,53.15,53.98,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-6-A,83,86,53.98,54.01,,ash(tuff) [MMK88m],ash(tuff),,10Y 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-6-A,86,144,54.01,54.59,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-7-A,0,94,54.59,55.53,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-7-A,94,101,55.53,55.6,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-8-A,0,59,56.02,56.61,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-7H-8-A,75,90,56.77,56.92,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-7H-CC-A,0,62,56.92,57.54,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,
-363-U1484B-8H-1-A,0,105,57.3,58.35,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-1-A,117,140,58.47,58.7,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-8H-2-A,0,38,58.7,59.08,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-2-A,62,147,59.32,60.17,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-8H-3-A,0,58,60.17,60.75,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-3-A,69,71,60.86,60.88,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-8H-3-A,71,83,60.88,61,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-3-A,83,105,61,61.22,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-3-A,113,134,61.3,61.51,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-8H-4-A,0,147,61.51,62.98,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-5-A,0,46,62.98,63.44,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-5-A,59,150,63.57,64.48,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-8H-6-A,0,107,64.48,65.55,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-6-A,119,146,65.67,65.94,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-8H-7-A,0,15,65.94,66.09,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-7-A,15,21,66.09,66.15,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-7-A,21,33,66.15,66.27,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-7-A,33,37,66.27,66.31,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-7-A,37,49,66.31,66.43,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-7-A,49,84,66.43,66.78,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-7-A,84,101,66.78,66.95,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-8H-CC-A,0,46,66.95,67.41,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-1-A,0,44,66.8,67.24,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-2-A,0,53,67.24,67.77,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-2-A,60,109,67.84,68.33,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-9H-3-A,0,145,68.33,69.78,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-4-A,0,12,69.78,69.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-4-A,12,22,69.9,70,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-4-A,22,48,70,70.26,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-4-A,48,53,70.26,70.31,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-4-A,53,69,70.31,70.47,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-4-A,69,145,70.47,71.23,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,0,5,71.23,71.28,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,5,19,71.28,71.42,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,19,26,71.42,71.49,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,26,34,71.49,71.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,34,43,71.57,71.66,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,43,57,71.66,71.8,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,57,69,71.8,71.92,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-5-A,75,105,71.98,72.28,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-6-A,0,55,72.28,72.83,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-6-A,61,80,72.89,73.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-6-A,80,146,73.08,73.74,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-7-A,0,9,73.74,73.83,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-7-A,9,21,73.83,73.95,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-7-A,21,87,73.95,74.61,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-7-A,87,104,74.61,74.78,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-7-A,104,130,74.78,75.04,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-7-A,130,143,75.04,75.17,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-8-A,0,70,75.17,75.87,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-8-A,70,78,75.87,75.95,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-8-A,78,104,75.95,76.21,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-9H-CC-A,0,32,76.21,76.53,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,
-363-U1484B-10H-1-A,0,34,76.3,76.64,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-2-A,0,47,76.64,77.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-2-A,63,145,77.27,78.09,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-3-A,0,11,78.09,78.2,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-3-A,11,17,78.2,78.26,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-3-A,17,58,78.26,78.67,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-3-A,75,146,78.84,79.55,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-4-A,0,144,79.55,80.99,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-5-A,0,145,80.99,82.44,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-6-A,0,10,82.44,82.54,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-6-A,10,19,82.54,82.63,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-6-A,19,144,82.63,83.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-7-A,0,7,83.88,83.95,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-7-A,7,40,83.95,84.28,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-7-A,40,57,84.28,84.45,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-7-A,57,102,84.45,84.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-7-A,108,135,84.96,85.23,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-8-A,0,60,85.23,85.83,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-8-A,66,106,85.89,86.29,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-10H-CC-A,0,46,86.29,86.75,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-1-A,0,64,85.8,86.44,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-2-A,0,116,86.44,87.6,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-3-A,0,120,87.6,88.8,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-4-A,0,43,88.8,89.23,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-4-A,43,45,89.23,89.25,,coquina [X363],coquina,,2.5Y 7/3 (pale yellow),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-4-A,45,116,89.25,89.96,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-5-A,0,99,89.96,90.95,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-6-A,0,146,90.95,92.41,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-7-A,0,27,92.41,92.68,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-7-A,27,146,92.68,93.87,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-8-A,0,50,93.87,94.37,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-8-A,59,98,94.46,94.85,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-11H-CC-A,0,50,94.85,95.35,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-1-A,0,72,95.3,96.02,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-2-A,0,76,96.06,96.82,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-2-A,81,134,96.87,97.4,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-3-A,0,23,97.4,97.63,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-3-A,23,68,97.63,98.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-3-A,68,83,98.08,98.23,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-3-A,83,94,98.23,98.34,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-3-A,94,120,98.34,98.6,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-4-A,0,124,98.6,99.84,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-5-A,0,27,99.84,100.11,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-5-A,27,46,100.11,100.3,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-5-A,50,125,100.34,101.09,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-6-A,0,90,101.09,101.99,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-6-A,90,99,101.99,102.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-6-A,99,148,102.08,102.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,0,37,102.57,102.94,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,37,45,102.94,103.02,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,45,101,103.02,103.58,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,101,109,103.58,103.66,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,109,133,103.66,103.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,133,139,103.9,103.96,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-7-A,139,147,103.96,104.04,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-8-A,0,64,104.04,104.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-8-A,69,115,104.73,105.19,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-12H-CC-A,0,38,105.19,105.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-1-A,0,81,104.8,105.61,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-1-A,81,90,105.61,105.7,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-1-A,90,126,105.7,106.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-2-A,0,19,106.06,106.25,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-2-A,19,85,106.25,106.91,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-2-A,85,97,106.91,107.03,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-2-A,97,100,107.03,107.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-3-A,0,19,107.06,107.25,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-3-A,19,26,107.25,107.32,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-3-A,26,39,107.32,107.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-3-A,39,51,107.45,107.57,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-3-A,51,66,107.57,107.72,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-4-A,0,61,107.72,108.33,foraminifer-bearing [X363],silty clay [S54],foraminifer-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-13F-CC-A,0,36,108.38,108.74,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-14F-1-A,0,110,109.5,110.6,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-14F-2-A,0,127,110.6,111.87,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-14F-3-A,0,101,111.87,112.88,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-14F-4-A,0,103,112.88,113.91,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-14F-CC-A,0,15,113.91,114.06,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-15F-1-A,0,124,114.2,115.44,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-15F-2-A,0,42,115.44,115.86,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-15F-2-A,65,133,116.09,116.77,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-15F-3-A,0,129,116.77,118.06,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-15F-CC-A,0,20,118.06,118.26,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-1-A,0,5,118.9,118.95,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-1-A,5,15,118.95,119.05,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-1-A,15,35,119.05,119.25,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-1-A,35,62,119.25,119.52,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-1-A,62,112,119.52,120.02,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-2-A,0,144,120.02,121.46,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-3-A,0,98,121.46,122.44,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-16F-CC-A,0,15,122.44,122.59,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-17F-1-A,0,47,123.6,124.07,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,sharp and irregular base,,,,,,,,,,,,
-363-U1484B-17F-1-A,47,142,124.07,125.02,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"wood fragments: 85 cm, 110 cm",,,,,,,,,,,,
-363-U1484B-17F-2-A,0,128,125.02,126.3,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-17F-3-A,0,73,126.3,127.03,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,wood fragments: 69 cm,,,,,,,,,,,,
-363-U1484B-17F-CC-A,0,22,127.03,127.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-1-A,0,108,128.3,129.38,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,drilling disturbance: 40-70 cm,,,,,,,,,,,,
-363-U1484B-18F-2-A,0,153,129.33,130.86,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-3-A,0,92,130.86,131.78,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-4-A,0,29,131.54,131.83,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-4-A,29,39,131.83,131.93,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-4-A,39,50,131.93,132.04,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-4-A,60,94,132.14,132.48,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-18F-CC-A,0,37,132.48,132.85,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-1-A,0,27,133,133.27,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-2-A,0,106,133.27,134.33,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-2-A,115,138,134.42,134.65,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-3-A,0,138,134.65,136.03,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"0-27 cm: ash-fill burrow, no original layer",,,,,,,,,,,,
-363-U1484B-19H-4-A,0,136,136.03,137.39,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"100 cm: wood fragments, high bioclastic contents",,,,,,,,,,,,
-363-U1484B-19H-5-A,0,38,137.39,137.77,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-5-A,38,43,137.77,137.82,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-5-A,43,78,137.82,138.17,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-5-A,78,97,138.17,138.36,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-5-A,97,140,138.36,138.79,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-6-A,0,42.5,138.79,139.215,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-6-A,59,72,139.38,139.51,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"wood fragments, high bioclastic contents",,,,,,,,,,,,
-363-U1484B-19H-6-A,72,86,139.51,139.65,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-6-A,86,103,139.65,139.82,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-7-A,0,2,139.82,139.84,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-7-A,2,12,139.84,139.94,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,high bioclastic contents,,,,,,,,,,,,
-363-U1484B-19H-7-A,12,24,139.94,140.06,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-7-A,24,38,140.06,140.2,,silty sand [S54],silty sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-7-A,38,54,140.2,140.36,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-19H-CC-A,0,9,140.36,140.45,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-1-A,0,8,142.5,142.58,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-1-A,8,18,142.58,142.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-1-A,18,28,142.68,142.78,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-1-A,28,32,142.78,142.82,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-1-A,32,39,142.82,142.89,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-1-A,39,146,142.89,143.96,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-2-A,0,141,143.96,145.37,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-3-A,0,145,145.37,146.82,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-4-A,0,75,146.82,147.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-4-A,75,81,147.57,147.63,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,high bioclastic contents,,,,,,,,,,,,
-363-U1484B-20H-4-A,81,143,147.63,148.25,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,119 cm: wood fragments,,,,,,,,,,,,
-363-U1484B-20H-5-A,0,145,148.25,149.7,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,35 cm: wood fragments,,,,,,,,,,,,
-363-U1484B-20H-6-A,0,98,149.7,150.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"42, 62, 72 cm: wood fragments",,,,,,,,,,,,
-363-U1484B-20H-6-A,98,121,150.68,150.91,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-6-A,121,141,150.91,151.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-7-A,0,55,151.11,151.66,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-7-A,57,103,151.68,152.14,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-7-A,115,135,152.26,152.46,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-20H-CC-A,0,42,152.46,152.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-1-A,0,53,152,152.53,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-2-A,0,141,152.53,153.94,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-3-A,0,133,153.94,155.27,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-4-A,0,104,155.27,156.31,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-4-A,104,124,156.31,156.51,,sand [Leg210],sand,,10Y 4/1 (dark greenish gray),slight [DB86],,,,,,soupy sand (wet),,,,,,,,,,,,
-363-U1484B-21H-4-A,124,146,156.51,156.73,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-5-A,0,43,156.73,157.16,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-5-A,47,50,157.2,157.23,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-5-A,50,76,157.23,157.49,,sand [Leg210],sand,convolute bedding,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-6-A,0,79,157.49,158.28,,sand [Leg210],sand,convolute bedding,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-6-A,79,120,158.28,158.69,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-7-A,0,103,158.69,159.72,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-21H-CC-A,0,123,159.75,160.98,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-1-A,0,143,161.5,162.93,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-2-A,0,140,162.93,164.33,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-3-A,0,143,164.33,165.76,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-4-A,0,140,165.76,167.16,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-5-A,0,146,167.16,168.62,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-6-A,0,63,168.62,169.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-6-A,73,100,169.35,169.62,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-6-A,113,123,169.75,169.85,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-6-A,123,144,169.85,170.06,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-7-A,0,89,170.06,170.95,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-7-A,97,120,171.03,171.26,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-22H-CC-A,0,66,171.26,171.92,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-1-A,0,143,171,172.43,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-2-A,0,54.5,172.43,172.975,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-2-A,54.5,55,172.975,172.98,,ash(tuff) [MMK88m],ash(tuff),,5Y 4/1 (dark gray),moderate [DB86],,,,,,"ash with pumice (<3 mm in diameter), patches",,,,,,,,,,,,
-363-U1484B-23H-2-A,55,128,172.98,173.71,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-3-A,0,141,173.71,175.12,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,64 cm: pumice grain (6 mm in diameter),,,,,,,,,,,,
-363-U1484B-23H-4-A,0,42.5,175.12,175.545,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-4-A,42.5,43,175.545,175.55,,ash(tuff) [MMK88m],ash(tuff),,5Y 4/1 (dark gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-4-A,43,146,175.55,176.58,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,79 cm : pumice grains (4 mm in diameter),,,,,,,,,,,,
-363-U1484B-23H-5-A,0,140,176.58,177.98,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-6-A,0,63,177.98,178.61,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-6-A,63,64,178.61,178.62,,ash(tuff) [MMK88m],ash(tuff),,5Y 6/1 (gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-6-A,64,145,178.62,179.43,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-7-A,0,65.4,179.43,180.084,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-7-A,65.4,65.7,180.084,180.087,,ash(tuff) [MMK88m],ash(tuff),,5Y 6/1 (gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-7-A,65.7,95,180.087,180.38,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-23H-CC-A,0,55,180.38,180.93,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-1-A,0,54,180.5,181.04,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,33 cm: abundant bioclasts,,,,,,,,,,,,
-363-U1484B-24H-2-A,0,121,181.04,182.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,103.5 cm: abundant bioclasts,,,,,,,,,,,,
-363-U1484B-24H-3-A,0,33,182.25,182.58,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-3-A,41,68,182.66,182.93,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-3-A,68,74,182.93,182.99,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-3-A,74,87,182.99,183.12,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-3-A,94,124,183.19,183.49,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-3-A,112,120,183.37,183.45,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-4-A,0,37,183.49,183.86,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,abundant wood fragments,,,,,,,,,,,,
-363-U1484B-24H-4-A,37,43.5,183.86,183.925,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-4-A,43.5,46,183.925,183.95,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-4-A,46,52,183.95,184.01,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-4-A,52,104,184.01,184.53,nannofossil-rich [X363],silty sand [S54],nannofossil-rich silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-4-A,107,131,184.56,184.8,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-5-A,0,15.5,184.8,184.955,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-5-A,15.5,29,184.955,185.09,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-5-A,29,60,185.09,185.4,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-5-A,60,66.5,185.4,185.465,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-5-A,66.5,147,185.465,186.27,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,0,6,186.27,186.33,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,6,32,186.33,186.59,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,32,38,186.59,186.65,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,38,80,186.65,187.07,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,80,87,187.07,187.14,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,87,123,187.14,187.5,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-6-A,123,141,187.5,187.68,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-7-A,0,54,187.69,188.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-7-A,61,142,188.3,189.11,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-8-A,0,31,189.11,189.42,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-8-A,31,38,189.42,189.49,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-8-A,38,124,189.49,190.35,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-24H-CC-A,0,30,190.35,190.65,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-25F-1-A,0,123,190,191.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-25F-2-A,0,67,191.23,191.9,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-25F-2-A,75,133,191.98,192.56,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-25F-3-A,0,127,192.56,193.83,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,43 cm: scoria grain (4 mm in diameter),,,,,,,,,,,,
-363-U1484B-25F-4-A,0,67,193.83,194.5,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-25F-CC-A,0,30,194.5,194.8,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-1-A,0,138,194.7,196.08,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-2-A,0,77.5,196.08,196.855,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-2-A,77.5,84,196.855,196.92,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-2-A,84,104,196.92,197.12,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-2-A,104,114,197.12,197.22,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-2-A,114,126,197.22,197.34,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-3-A,0,25,197.34,197.59,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-3-A,25,42,197.59,197.76,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-3-A,42,104,197.76,198.38,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-4-A,0,12,198.38,198.5,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-4-A,12,42,198.5,198.8,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-4-A,42,51,198.8,198.89,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-4-A,51,83,198.89,199.21,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-CC-A,0,5,199.21,199.26,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-CC-A,5,13,199.26,199.34,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-26F-CC-A,13,39,199.34,199.6,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-1-A,0,5,199.4,199.45,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-1-A,5,23,199.45,199.63,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-1-A,23,28,199.63,199.68,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-1-A,28,42,199.68,199.82,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,0,9,199.82,199.91,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,9,23,199.91,200.05,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,23,33,200.05,200.15,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,33,40,200.15,200.22,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,40,45,200.22,200.27,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,45,60,200.27,200.42,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,68,121,200.5,201.03,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,121,129,201.03,201.11,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-2-A,129,138,201.11,201.2,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-3-A,0,81,201.2,202.01,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-4-A,0,7,202.01,202.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-4-A,7,24,202.08,202.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-4-A,24,32,202.25,202.33,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-4-A,32,48,202.33,202.49,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-4-A,48,54,202.49,202.55,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-4-A,54,120,202.55,203.21,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-27F-CC-A,0,27,203.21,203.48,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-28F-1-A,0,101,204.1,205.11,foraminifer-bearing pteropod-bearing [X363],silty clay [S54],foraminifer-bearing pteropod-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,0-101: highly fall-in by drilling disturbance,,,,,,,,,,,,
-363-U1484B-28F-2-A,0,80,205.11,205.91,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,0-80: highly fall-in by drilling disturbance,,,,,,,,,,,,
-363-U1484B-28F-3-A,0,100,205.91,206.91,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-28F-4-A,0,82,206.91,207.73,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-28F-4-A,92,96,207.83,207.87,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-28F-CC-A,0,80,207.87,208.67,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,24-26 cm: scattered pumice (16 mm in diameter),,,,,,,,,,,,
-363-U1484B-29F-1-A,0,42,208.8,209.22,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-2-A,0,104,209.27,210.31,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-3-A,0,25,210.31,210.56,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-3-A,25,68,210.56,210.99,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-3-A,68,92,210.99,211.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-4-A,0,65,211.23,211.88,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-4-A,68,143,211.91,212.66,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-29F-CC-A,0,23,212.66,212.89,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-1-A,0,28,213.5,213.78,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-1-A,28,150,213.78,215,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-2-A,0,67,215,215.67,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-2-A,73,112,215.73,216.12,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-3-A,0,143,216.12,217.55,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-4-A,0,57,217.55,218.12,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-4-A,57,64,218.12,218.19,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-30F-CC-A,0,28,218.19,218.47,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-1-A,0,50,218.2,218.7,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-1-A,50,64,218.7,218.84,,silty sand [S54],silty sand,,5GY 3/1 (very dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-1-A,64,99,218.84,219.19,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-1-A,99,110,219.19,219.3,,silty sand [S54],silty sand,,5GY 3/1 (very dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-2-A,0,88,219.3,220.18,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-3-A,0,27,220.18,220.45,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-4-A,0,131,220.45,221.76,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
-363-U1484B-31F-CC-A,0,85,221.76,222.61,,silty sand [S54],silty sand,,5GY 3/1 (very dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. prefix+name [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Clast abundance,Macrofossil,MAJ Lith. ave. grain size ,Diagenetic constituent,Diagenetic constituent composition,General interval comment,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
+363-U1484B-1H-1-A,0.0,150.0,0.0,1.5,diatom-bearing nannofossil-bearing [X363],silty clay [S54],diatom-bearing nannofossil-bearing silty clay,,10Y 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,1,A
+363-U1484B-1H-2-A,0.0,150.0,1.5,3.0,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,2,A
+363-U1484B-1H-3-A,0.0,150.0,3.0,4.5,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,3,A
+363-U1484B-1H-4-A,0.0,141.0,4.5,5.91,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,4,A
+363-U1484B-1H-5-A,0.0,15.0,5.91,6.06,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,5,A
+363-U1484B-1H-5-A,15.0,16.0,6.06,6.07,,ash(tuff) [MMK88m],ash(tuff),,10YR 2/1 (black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,1,H,5,A
+363-U1484B-1H-5-A,16.0,101.0,6.07,6.92,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,5,A
+363-U1484B-1H-6-A,0.0,82.0,6.92,7.74,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,6,A
+363-U1484B-1H-CC-A,0.0,9.0,7.74,7.83,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,1,H,CC,A
+363-U1484B-2H-1-A,0.0,21.0,7.8,8.01,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,1,A
+363-U1484B-2H-1-A,35.0,143.0,8.15,9.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,1,A
+363-U1484B-2H-1-A,143.0,146.0,9.23,9.26,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,1,A
+363-U1484B-2H-2-A,0.0,2.0,9.26,9.28,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-2-A,2.0,28.0,9.28,9.54,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-2-A,28.0,34.0,9.54,9.6,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-2-A,34.0,43.0,9.6,9.69,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-2-A,43.0,48.0,9.69,9.74,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-2-A,48.0,138.0,9.74,10.64,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-2-A,138.0,146.0,10.64,10.72,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,wood fragments are concentrated 143-144 cm.,,,,,,,,,,,,,363,U1484,B,2,H,2,A
+363-U1484B-2H-3-A,0.0,20.0,10.72,10.92,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,3,A
+363-U1484B-2H-3-A,20.0,30.0,10.92,11.02,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,3,A
+363-U1484B-2H-3-A,30.0,146.0,11.02,12.18,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,3,A
+363-U1484B-2H-4-A,0.0,107.0,12.18,13.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,4,A
+363-U1484B-2H-4-A,107.0,112.0,13.25,13.3,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,4,A
+363-U1484B-2H-4-A,112.0,124.0,13.3,13.42,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,4,A
+363-U1484B-2H-4-A,124.0,131.0,13.42,13.49,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,4,A
+363-U1484B-2H-4-A,131.0,145.0,13.49,13.63,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,4,A
+363-U1484B-2H-5-A,0.0,147.0,13.64,15.11,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,5,A
+363-U1484B-2H-6-A,0.0,98.0,15.11,16.09,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,6,A
+363-U1484B-2H-6-A,98.0,107.0,16.09,16.18,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,6,A
+363-U1484B-2H-6-A,107.0,146.0,16.18,16.57,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,6,A
+363-U1484B-2H-7-A,0.0,94.0,16.57,17.51,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,7,A
+363-U1484B-2H-CC-A,0.0,22.0,17.51,17.73,nannofossil-rich [X363],clayey silt [S54],nannofossil-rich clayey silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,2,H,CC,A
+363-U1484B-3H-1-A,0.0,80.0,17.3,18.1,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,1,A
+363-U1484B-3H-2-A,0.0,131.0,18.1,19.41,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,2,A
+363-U1484B-3H-2-A,131.0,136.0,19.41,19.46,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,2,A
+363-U1484B-3H-3-A,0.0,23.0,19.46,19.69,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,3,A
+363-U1484B-3H-3-A,23.0,26.0,19.69,19.72,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,3,A
+363-U1484B-3H-3-A,26.0,99.0,19.72,20.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,3,A
+363-U1484B-3H-3-A,99.0,105.0,20.45,20.51,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,3,A
+363-U1484B-3H-4-A,0.0,21.0,20.51,20.72,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,4,A
+363-U1484B-3H-4-A,21.0,26.0,20.72,20.77,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,4,A
+363-U1484B-3H-4-A,26.0,70.0,20.77,21.21,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,4,A
+363-U1484B-3H-4-A,70.0,78.0,21.21,21.29,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,4,A
+363-U1484B-3H-4-A,78.0,118.0,21.29,21.69,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,4,A
+363-U1484B-3H-5-A,0.0,59.0,21.74,22.33,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,5,A
+363-U1484B-3H-5-A,59.0,62.0,22.33,22.36,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,5,A
+363-U1484B-3H-5-A,62.0,112.0,22.36,22.86,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,5,A
+363-U1484B-3H-6-A,0.0,59.0,22.86,23.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,6,A
+363-U1484B-3H-6-A,59.0,62.0,23.45,23.48,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,6,A
+363-U1484B-3H-6-A,62.0,76.0,23.48,23.62,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,6,A
+363-U1484B-3H-7-A,0.0,111.0,23.62,24.73,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,7,A
+363-U1484B-3H-7-A,111.0,114.0,24.73,24.76,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,7,A
+363-U1484B-3H-7-A,114.0,124.0,24.76,24.86,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,7,A
+363-U1484B-3H-8-A,0.0,42.0,24.86,25.28,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,8,A
+363-U1484B-3H-8-A,42.0,46.0,25.28,25.32,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,8,A
+363-U1484B-3H-8-A,46.0,120.0,25.32,26.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,8,A
+363-U1484B-3H-CC-A,0.0,20.0,26.06,26.26,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,CC,A
+363-U1484B-3H-CC-A,20.0,24.0,26.26,26.3,,sandy silt [Leg339],sandy silt,,n 4 (dark gray),slight [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,CC,A
+363-U1484B-3H-CC-A,24.0,74.0,26.3,26.8,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are common,,,,,,,,,,,,,363,U1484,B,3,H,CC,A
+363-U1484B-4H-1-A,0.0,10.0,26.8,26.9,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,1,A
+363-U1484B-4H-1-A,10.0,31.0,26.9,27.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,1,A
+363-U1484B-4H-1-A,31.0,37.0,27.11,27.17,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,1,A
+363-U1484B-4H-1-A,37.0,126.0,27.17,28.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,1,A
+363-U1484B-4H-2-A,0.0,71.0,28.06,28.77,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,2,A
+363-U1484B-4H-2-A,71.0,94.0,28.77,29.0,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,2,A
+363-U1484B-4H-2-A,94.0,116.0,29.0,29.22,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,shell fragments and sulfide specks are present.,,,,,,,,,,,,,363,U1484,B,4,H,2,A
+363-U1484B-4H-2-A,120.0,145.0,29.26,29.51,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,4,H,2,A
+363-U1484B-4H-3-A,0.0,93.0,29.51,30.44,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,3,A
+363-U1484B-4H-3-A,93.0,102.0,30.44,30.53,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,4,H,3,A
+363-U1484B-4H-3-A,102.0,107.0,30.53,30.58,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,3,A
+363-U1484B-4H-3-A,107.0,139.0,30.58,30.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,3,A
+363-U1484B-4H-4-A,0.0,78.0,30.9,31.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,4,A
+363-U1484B-4H-4-A,78.0,100.0,31.68,31.9,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,4,A
+363-U1484B-4H-4-A,100.0,118.0,31.9,32.08,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,4,A
+363-U1484B-4H-5-A,0.0,93.0,32.08,33.01,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,5,A
+363-U1484B-4H-5-A,99.0,108.0,33.07,33.16,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,4,H,5,A
+363-U1484B-4H-5-A,108.0,123.0,33.16,33.31,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,5,A
+363-U1484B-4H-5-A,123.0,135.0,33.31,33.43,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,5,A
+363-U1484B-4H-6-A,0.0,145.0,33.43,34.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,6,A
+363-U1484B-4H-7-A,0.0,122.0,34.88,36.1,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,7,A
+363-U1484B-4H-CC-A,0.0,31.0,36.1,36.41,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,CC,A
+363-U1484B-4H-CC-A,31.0,37.0,36.41,36.47,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,CC,A
+363-U1484B-4H-CC-A,37.0,48.0,36.47,36.58,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are intense.,,,,,,,,,,,,,363,U1484,B,4,H,CC,A
+363-U1484B-6H-1-A,0.0,82.0,38.3,39.12,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,1,A
+363-U1484B-6H-1-A,82.0,88.0,39.12,39.18,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,1,A
+363-U1484B-6H-1-A,88.0,125.0,39.18,39.55,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,1,A
+363-U1484B-6H-2-A,0.0,134.0,39.55,40.89,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,2,A
+363-U1484B-6H-3-A,0.0,63.0,40.89,41.52,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,3,A
+363-U1484B-6H-3-A,69.0,109.0,41.58,41.98,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,6,H,3,A
+363-U1484B-6H-4-A,0.0,24.0,41.98,42.22,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,4,A
+363-U1484B-6H-4-A,24.0,30.0,42.22,42.28,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,4,A
+363-U1484B-6H-4-A,30.0,65.0,42.28,42.63,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,4,A
+363-U1484B-6H-4-A,65.0,72.0,42.63,42.7,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,4,A
+363-U1484B-6H-4-A,72.0,118.0,42.7,43.16,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,4,A
+363-U1484B-6H-5-A,0.0,87.0,43.21,44.08,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,5,A
+363-U1484B-6H-5-A,87.0,99.0,44.08,44.2,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,5,A
+363-U1484B-6H-5-A,99.0,145.0,44.2,44.66,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,5,A
+363-U1484B-6H-6-A,0.0,80.0,44.66,45.46,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,6,A
+363-U1484B-6H-6-A,80.0,85.0,45.46,45.51,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,6,A
+363-U1484B-6H-6-A,85.0,121.0,45.51,45.87,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,6,A
+363-U1484B-6H-6-A,121.0,137.0,45.87,46.03,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,6,A
+363-U1484B-6H-6-A,137.0,145.0,46.03,46.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,6,A
+363-U1484B-6H-7-A,0.0,91.0,46.11,47.02,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,6,H,7,A
+363-U1484B-6H-7-A,91.0,101.0,47.02,47.12,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,7,A
+363-U1484B-6H-CC-A,0.0,88.0,47.12,48.0,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,6,H,CC,A
+363-U1484B-7H-1-A,0.0,45.0,47.8,48.25,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,1,A
+363-U1484B-7H-2-A,0.0,20.0,48.25,48.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-2-A,20.0,27.0,48.45,48.52,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-2-A,27.0,72.0,48.52,48.97,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-2-A,72.0,77.0,48.97,49.02,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-2-A,77.0,85.0,49.02,49.1,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-2-A,85.0,89.0,49.1,49.14,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-2-A,89.0,130.0,49.14,49.55,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,2,A
+363-U1484B-7H-3-A,0.0,50.0,49.55,50.05,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,3,A
+363-U1484B-7H-3-A,50.0,60.0,50.05,50.15,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,3,A
+363-U1484B-7H-3-A,60.0,80.0,50.15,50.35,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,3,A
+363-U1484B-7H-3-A,80.0,85.0,50.35,50.4,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,3,A
+363-U1484B-7H-3-A,85.0,134.0,50.4,50.89,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,3,A
+363-U1484B-7H-4-A,0.0,38.0,50.89,51.27,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,4,A
+363-U1484B-7H-4-A,38.0,41.0,51.27,51.3,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,4,A
+363-U1484B-7H-4-A,41.0,100.0,51.3,51.89,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,4,A
+363-U1484B-7H-5-A,0.0,5.0,51.89,51.94,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,5.0,11.0,51.94,52.0,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,11.0,70.0,52.0,52.59,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,78.0,99.0,52.67,52.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,99.0,109.0,52.88,52.98,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,109.0,116.0,52.98,53.05,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,116.0,121.0,53.05,53.1,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-5-A,121.0,126.0,53.1,53.15,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,5,A
+363-U1484B-7H-6-A,0.0,83.0,53.15,53.98,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,6,A
+363-U1484B-7H-6-A,83.0,86.0,53.98,54.01,,ash(tuff) [MMK88m],ash(tuff),,10Y 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,6,A
+363-U1484B-7H-6-A,86.0,144.0,54.01,54.59,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,6,A
+363-U1484B-7H-7-A,0.0,94.0,54.59,55.53,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,7,A
+363-U1484B-7H-7-A,94.0,101.0,55.53,55.6,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,7,A
+363-U1484B-7H-8-A,0.0,59.0,56.02,56.61,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,8,A
+363-U1484B-7H-8-A,75.0,90.0,56.77,56.92,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,7,H,8,A
+363-U1484B-7H-CC-A,0.0,62.0,56.92,57.54,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks are present.,,,,,,,,,,,,,363,U1484,B,7,H,CC,A
+363-U1484B-8H-1-A,0.0,105.0,57.3,58.35,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,1,A
+363-U1484B-8H-1-A,117.0,140.0,58.47,58.7,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,8,H,1,A
+363-U1484B-8H-2-A,0.0,38.0,58.7,59.08,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,2,A
+363-U1484B-8H-2-A,62.0,147.0,59.32,60.17,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,8,H,2,A
+363-U1484B-8H-3-A,0.0,58.0,60.17,60.75,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,3,A
+363-U1484B-8H-3-A,69.0,71.0,60.86,60.88,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,8,H,3,A
+363-U1484B-8H-3-A,71.0,83.0,60.88,61.0,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,3,A
+363-U1484B-8H-3-A,83.0,105.0,61.0,61.22,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,3,A
+363-U1484B-8H-3-A,113.0,134.0,61.3,61.51,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,8,H,3,A
+363-U1484B-8H-4-A,0.0,147.0,61.51,62.98,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,4,A
+363-U1484B-8H-5-A,0.0,46.0,62.98,63.44,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,5,A
+363-U1484B-8H-5-A,59.0,150.0,63.57,64.48,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,8,H,5,A
+363-U1484B-8H-6-A,0.0,107.0,64.48,65.55,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,6,A
+363-U1484B-8H-6-A,119.0,146.0,65.67,65.94,,clay [Leg210],clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,8,H,6,A
+363-U1484B-8H-7-A,0.0,15.0,65.94,66.09,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-7-A,15.0,21.0,66.09,66.15,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-7-A,21.0,33.0,66.15,66.27,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-7-A,33.0,37.0,66.27,66.31,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-7-A,37.0,49.0,66.31,66.43,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-7-A,49.0,84.0,66.43,66.78,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-7-A,84.0,101.0,66.78,66.95,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,7,A
+363-U1484B-8H-CC-A,0.0,46.0,66.95,67.41,nannofossil-rich [X363],clay [Leg210],nannofossil-rich clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,8,H,CC,A
+363-U1484B-9H-1-A,0.0,44.0,66.8,67.24,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,1,A
+363-U1484B-9H-2-A,0.0,53.0,67.24,67.77,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,2,A
+363-U1484B-9H-2-A,60.0,109.0,67.84,68.33,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,9,H,2,A
+363-U1484B-9H-3-A,0.0,145.0,68.33,69.78,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,3,A
+363-U1484B-9H-4-A,0.0,12.0,69.78,69.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,4,A
+363-U1484B-9H-4-A,12.0,22.0,69.9,70.0,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,4,A
+363-U1484B-9H-4-A,22.0,48.0,70.0,70.26,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,4,A
+363-U1484B-9H-4-A,48.0,53.0,70.26,70.31,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,4,A
+363-U1484B-9H-4-A,53.0,69.0,70.31,70.47,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,4,A
+363-U1484B-9H-4-A,69.0,145.0,70.47,71.23,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,4,A
+363-U1484B-9H-5-A,0.0,5.0,71.23,71.28,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,5.0,19.0,71.28,71.42,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,19.0,26.0,71.42,71.49,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,26.0,34.0,71.49,71.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,34.0,43.0,71.57,71.66,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,43.0,57.0,71.66,71.8,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,57.0,69.0,71.8,71.92,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-5-A,75.0,105.0,71.98,72.28,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,5,A
+363-U1484B-9H-6-A,0.0,55.0,72.28,72.83,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,6,A
+363-U1484B-9H-6-A,61.0,80.0,72.89,73.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,6,A
+363-U1484B-9H-6-A,80.0,146.0,73.08,73.74,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,6,A
+363-U1484B-9H-7-A,0.0,9.0,73.74,73.83,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,7,A
+363-U1484B-9H-7-A,9.0,21.0,73.83,73.95,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,7,A
+363-U1484B-9H-7-A,21.0,87.0,73.95,74.61,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,7,A
+363-U1484B-9H-7-A,87.0,104.0,74.61,74.78,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,7,A
+363-U1484B-9H-7-A,104.0,130.0,74.78,75.04,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,7,A
+363-U1484B-9H-7-A,130.0,143.0,75.04,75.17,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,7,A
+363-U1484B-9H-8-A,0.0,70.0,75.17,75.87,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,8,A
+363-U1484B-9H-8-A,70.0,78.0,75.87,75.95,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,8,A
+363-U1484B-9H-8-A,78.0,104.0,75.95,76.21,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,8,A
+363-U1484B-9H-CC-A,0.0,32.0,76.21,76.53,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,Shell fragments and sulfide specks are present. Gas expansion cracks is intense.,,,,,,,,,,,,,363,U1484,B,9,H,CC,A
+363-U1484B-10H-1-A,0.0,34.0,76.3,76.64,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,1,A
+363-U1484B-10H-2-A,0.0,47.0,76.64,77.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,2,A
+363-U1484B-10H-2-A,63.0,145.0,77.27,78.09,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,2,A
+363-U1484B-10H-3-A,0.0,11.0,78.09,78.2,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,3,A
+363-U1484B-10H-3-A,11.0,17.0,78.2,78.26,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,3,A
+363-U1484B-10H-3-A,17.0,58.0,78.26,78.67,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,3,A
+363-U1484B-10H-3-A,75.0,146.0,78.84,79.55,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,3,A
+363-U1484B-10H-4-A,0.0,144.0,79.55,80.99,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,4,A
+363-U1484B-10H-5-A,0.0,145.0,80.99,82.44,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,5,A
+363-U1484B-10H-6-A,0.0,10.0,82.44,82.54,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,6,A
+363-U1484B-10H-6-A,10.0,19.0,82.54,82.63,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,6,A
+363-U1484B-10H-6-A,19.0,144.0,82.63,83.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,6,A
+363-U1484B-10H-7-A,0.0,7.0,83.88,83.95,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,7,A
+363-U1484B-10H-7-A,7.0,40.0,83.95,84.28,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,7,A
+363-U1484B-10H-7-A,40.0,57.0,84.28,84.45,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,7,A
+363-U1484B-10H-7-A,57.0,102.0,84.45,84.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,7,A
+363-U1484B-10H-7-A,108.0,135.0,84.96,85.23,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,7,A
+363-U1484B-10H-8-A,0.0,60.0,85.23,85.83,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,8,A
+363-U1484B-10H-8-A,66.0,106.0,85.89,86.29,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,8,A
+363-U1484B-10H-CC-A,0.0,46.0,86.29,86.75,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),moderate [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,10,H,CC,A
+363-U1484B-11H-1-A,0.0,64.0,85.8,86.44,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,1,A
+363-U1484B-11H-2-A,0.0,116.0,86.44,87.6,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,2,A
+363-U1484B-11H-3-A,0.0,120.0,87.6,88.8,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,3,A
+363-U1484B-11H-4-A,0.0,43.0,88.8,89.23,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,4,A
+363-U1484B-11H-4-A,43.0,45.0,89.23,89.25,,coquina [X363],coquina,,2.5Y 7/3 (pale yellow),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,4,A
+363-U1484B-11H-4-A,45.0,116.0,89.25,89.96,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,4,A
+363-U1484B-11H-5-A,0.0,99.0,89.96,90.95,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,5,A
+363-U1484B-11H-6-A,0.0,146.0,90.95,92.41,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,6,A
+363-U1484B-11H-7-A,0.0,27.0,92.41,92.68,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,7,A
+363-U1484B-11H-7-A,27.0,146.0,92.68,93.87,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,7,A
+363-U1484B-11H-8-A,0.0,50.0,93.87,94.37,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,8,A
+363-U1484B-11H-8-A,59.0,98.0,94.46,94.85,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,8,A
+363-U1484B-11H-CC-A,0.0,50.0,94.85,95.35,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,11,H,CC,A
+363-U1484B-12H-1-A,0.0,72.0,95.3,96.02,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,1,A
+363-U1484B-12H-2-A,0.0,76.0,96.06,96.82,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,2,A
+363-U1484B-12H-2-A,81.0,134.0,96.87,97.4,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,2,A
+363-U1484B-12H-3-A,0.0,23.0,97.4,97.63,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,3,A
+363-U1484B-12H-3-A,23.0,68.0,97.63,98.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,3,A
+363-U1484B-12H-3-A,68.0,83.0,98.08,98.23,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,3,A
+363-U1484B-12H-3-A,83.0,94.0,98.23,98.34,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,3,A
+363-U1484B-12H-3-A,94.0,120.0,98.34,98.6,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,3,A
+363-U1484B-12H-4-A,0.0,124.0,98.6,99.84,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,4,A
+363-U1484B-12H-5-A,0.0,27.0,99.84,100.11,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,5,A
+363-U1484B-12H-5-A,27.0,46.0,100.11,100.3,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,5,A
+363-U1484B-12H-5-A,50.0,125.0,100.34,101.09,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,5,A
+363-U1484B-12H-6-A,0.0,90.0,101.09,101.99,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,6,A
+363-U1484B-12H-6-A,90.0,99.0,101.99,102.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,6,A
+363-U1484B-12H-6-A,99.0,148.0,102.08,102.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,6,A
+363-U1484B-12H-7-A,0.0,37.0,102.57,102.94,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-7-A,37.0,45.0,102.94,103.02,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-7-A,45.0,101.0,103.02,103.58,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-7-A,101.0,109.0,103.58,103.66,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-7-A,109.0,133.0,103.66,103.9,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-7-A,133.0,139.0,103.9,103.96,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-7-A,139.0,147.0,103.96,104.04,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,7,A
+363-U1484B-12H-8-A,0.0,64.0,104.04,104.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,8,A
+363-U1484B-12H-8-A,69.0,115.0,104.73,105.19,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,8,A
+363-U1484B-12H-CC-A,0.0,38.0,105.19,105.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,12,H,CC,A
+363-U1484B-13F-1-A,0.0,81.0,104.8,105.61,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,1,A
+363-U1484B-13F-1-A,81.0,90.0,105.61,105.7,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,1,A
+363-U1484B-13F-1-A,90.0,126.0,105.7,106.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,1,A
+363-U1484B-13F-2-A,0.0,19.0,106.06,106.25,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,2,A
+363-U1484B-13F-2-A,19.0,85.0,106.25,106.91,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,2,A
+363-U1484B-13F-2-A,85.0,97.0,106.91,107.03,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,2,A
+363-U1484B-13F-2-A,97.0,100.0,107.03,107.06,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,2,A
+363-U1484B-13F-3-A,0.0,19.0,107.06,107.25,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,3,A
+363-U1484B-13F-3-A,19.0,26.0,107.25,107.32,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,3,A
+363-U1484B-13F-3-A,26.0,39.0,107.32,107.45,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,3,A
+363-U1484B-13F-3-A,39.0,51.0,107.45,107.57,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,3,A
+363-U1484B-13F-3-A,51.0,66.0,107.57,107.72,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,3,A
+363-U1484B-13F-4-A,0.0,61.0,107.72,108.33,foraminifer-bearing [X363],silty clay [S54],foraminifer-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,4,A
+363-U1484B-13F-CC-A,0.0,36.0,108.38,108.74,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,13,F,CC,A
+363-U1484B-14F-1-A,0.0,110.0,109.5,110.6,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,14,F,1,A
+363-U1484B-14F-2-A,0.0,127.0,110.6,111.87,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,14,F,2,A
+363-U1484B-14F-3-A,0.0,101.0,111.87,112.88,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,14,F,3,A
+363-U1484B-14F-4-A,0.0,103.0,112.88,113.91,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,14,F,4,A
+363-U1484B-14F-CC-A,0.0,15.0,113.91,114.06,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,14,F,CC,A
+363-U1484B-15F-1-A,0.0,124.0,114.2,115.44,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,15,F,1,A
+363-U1484B-15F-2-A,0.0,42.0,115.44,115.86,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,15,F,2,A
+363-U1484B-15F-2-A,65.0,133.0,116.09,116.77,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,15,F,2,A
+363-U1484B-15F-3-A,0.0,129.0,116.77,118.06,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,15,F,3,A
+363-U1484B-15F-CC-A,0.0,20.0,118.06,118.26,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,15,F,CC,A
+363-U1484B-16F-1-A,0.0,5.0,118.9,118.95,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,1,A
+363-U1484B-16F-1-A,5.0,15.0,118.95,119.05,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,1,A
+363-U1484B-16F-1-A,15.0,35.0,119.05,119.25,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,1,A
+363-U1484B-16F-1-A,35.0,62.0,119.25,119.52,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,1,A
+363-U1484B-16F-1-A,62.0,112.0,119.52,120.02,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,1,A
+363-U1484B-16F-2-A,0.0,144.0,120.02,121.46,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,2,A
+363-U1484B-16F-3-A,0.0,98.0,121.46,122.44,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,3,A
+363-U1484B-16F-CC-A,0.0,15.0,122.44,122.59,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,16,F,CC,A
+363-U1484B-17F-1-A,0.0,47.0,123.6,124.07,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,sharp and irregular base,,,,,,,,,,,,,363,U1484,B,17,F,1,A
+363-U1484B-17F-1-A,47.0,142.0,124.07,125.02,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"wood fragments: 85 cm, 110 cm",,,,,,,,,,,,,363,U1484,B,17,F,1,A
+363-U1484B-17F-2-A,0.0,128.0,125.02,126.3,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,17,F,2,A
+363-U1484B-17F-3-A,0.0,73.0,126.3,127.03,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,wood fragments: 69 cm,,,,,,,,,,,,,363,U1484,B,17,F,3,A
+363-U1484B-17F-CC-A,0.0,22.0,127.03,127.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,17,F,CC,A
+363-U1484B-18F-1-A,0.0,108.0,128.3,129.38,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,drilling disturbance: 40-70 cm,,,,,,,,,,,,,363,U1484,B,18,F,1,A
+363-U1484B-18F-2-A,0.0,153.0,129.33,130.86,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,2,A
+363-U1484B-18F-3-A,0.0,92.0,130.86,131.78,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,3,A
+363-U1484B-18F-4-A,0.0,29.0,131.54,131.83,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,4,A
+363-U1484B-18F-4-A,29.0,39.0,131.83,131.93,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,4,A
+363-U1484B-18F-4-A,39.0,50.0,131.93,132.04,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,4,A
+363-U1484B-18F-4-A,60.0,94.0,132.14,132.48,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,4,A
+363-U1484B-18F-CC-A,0.0,37.0,132.48,132.85,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,18,F,CC,A
+363-U1484B-19H-1-A,0.0,27.0,133.0,133.27,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,1,A
+363-U1484B-19H-2-A,0.0,106.0,133.27,134.33,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,2,A
+363-U1484B-19H-2-A,115.0,138.0,134.42,134.65,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,2,A
+363-U1484B-19H-3-A,0.0,138.0,134.65,136.03,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"0-27 cm: ash-fill burrow, no original layer",,,,,,,,,,,,,363,U1484,B,19,H,3,A
+363-U1484B-19H-4-A,0.0,136.0,136.03,137.39,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"100 cm: wood fragments, high bioclastic contents",,,,,,,,,,,,,363,U1484,B,19,H,4,A
+363-U1484B-19H-5-A,0.0,38.0,137.39,137.77,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,5,A
+363-U1484B-19H-5-A,38.0,43.0,137.77,137.82,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,5,A
+363-U1484B-19H-5-A,43.0,78.0,137.82,138.17,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,5,A
+363-U1484B-19H-5-A,78.0,97.0,138.17,138.36,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,5,A
+363-U1484B-19H-5-A,97.0,140.0,138.36,138.79,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,5,A
+363-U1484B-19H-6-A,0.0,42.5,138.79,139.215,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,6,A
+363-U1484B-19H-6-A,59.0,72.0,139.38,139.51,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"wood fragments, high bioclastic contents",,,,,,,,,,,,,363,U1484,B,19,H,6,A
+363-U1484B-19H-6-A,72.0,86.0,139.51,139.65,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,6,A
+363-U1484B-19H-6-A,86.0,103.0,139.65,139.82,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,6,A
+363-U1484B-19H-7-A,0.0,2.0,139.82,139.84,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,7,A
+363-U1484B-19H-7-A,2.0,12.0,139.84,139.94,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,high bioclastic contents,,,,,,,,,,,,,363,U1484,B,19,H,7,A
+363-U1484B-19H-7-A,12.0,24.0,139.94,140.06,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,7,A
+363-U1484B-19H-7-A,24.0,38.0,140.06,140.2,,silty sand [S54],silty sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,7,A
+363-U1484B-19H-7-A,38.0,54.0,140.2,140.36,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,7,A
+363-U1484B-19H-CC-A,0.0,9.0,140.36,140.45,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,19,H,CC,A
+363-U1484B-20H-1-A,0.0,8.0,142.5,142.58,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,1,A
+363-U1484B-20H-1-A,8.0,18.0,142.58,142.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,1,A
+363-U1484B-20H-1-A,18.0,28.0,142.68,142.78,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,1,A
+363-U1484B-20H-1-A,28.0,32.0,142.78,142.82,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,1,A
+363-U1484B-20H-1-A,32.0,39.0,142.82,142.89,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,1,A
+363-U1484B-20H-1-A,39.0,146.0,142.89,143.96,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,1,A
+363-U1484B-20H-2-A,0.0,141.0,143.96,145.37,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,2,A
+363-U1484B-20H-3-A,0.0,145.0,145.37,146.82,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,3,A
+363-U1484B-20H-4-A,0.0,75.0,146.82,147.57,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,4,A
+363-U1484B-20H-4-A,75.0,81.0,147.57,147.63,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,high bioclastic contents,,,,,,,,,,,,,363,U1484,B,20,H,4,A
+363-U1484B-20H-4-A,81.0,143.0,147.63,148.25,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,119 cm: wood fragments,,,,,,,,,,,,,363,U1484,B,20,H,4,A
+363-U1484B-20H-5-A,0.0,145.0,148.25,149.7,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,35 cm: wood fragments,,,,,,,,,,,,,363,U1484,B,20,H,5,A
+363-U1484B-20H-6-A,0.0,98.0,149.7,150.68,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,"42, 62, 72 cm: wood fragments",,,,,,,,,,,,,363,U1484,B,20,H,6,A
+363-U1484B-20H-6-A,98.0,121.0,150.68,150.91,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,6,A
+363-U1484B-20H-6-A,121.0,141.0,150.91,151.11,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,6,A
+363-U1484B-20H-7-A,0.0,55.0,151.11,151.66,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,7,A
+363-U1484B-20H-7-A,57.0,103.0,151.68,152.14,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,7,A
+363-U1484B-20H-7-A,115.0,135.0,152.26,152.46,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,7,A
+363-U1484B-20H-CC-A,0.0,42.0,152.46,152.88,nannofossil-bearing [X363],silty clay [S54],nannofossil-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,20,H,CC,A
+363-U1484B-21H-1-A,0.0,53.0,152.0,152.53,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,1,A
+363-U1484B-21H-2-A,0.0,141.0,152.53,153.94,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,2,A
+363-U1484B-21H-3-A,0.0,133.0,153.94,155.27,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,3,A
+363-U1484B-21H-4-A,0.0,104.0,155.27,156.31,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,4,A
+363-U1484B-21H-4-A,104.0,124.0,156.31,156.51,,sand [Leg210],sand,,10Y 4/1 (dark greenish gray),slight [DB86],,,,,,soupy sand (wet),,,,,,,,,,,,,363,U1484,B,21,H,4,A
+363-U1484B-21H-4-A,124.0,146.0,156.51,156.73,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,4,A
+363-U1484B-21H-5-A,0.0,43.0,156.73,157.16,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,5,A
+363-U1484B-21H-5-A,47.0,50.0,157.2,157.23,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,5,A
+363-U1484B-21H-5-A,50.0,76.0,157.23,157.49,,sand [Leg210],sand,convolute bedding,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,5,A
+363-U1484B-21H-6-A,0.0,79.0,157.49,158.28,,sand [Leg210],sand,convolute bedding,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,6,A
+363-U1484B-21H-6-A,79.0,120.0,158.28,158.69,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,6,A
+363-U1484B-21H-7-A,0.0,103.0,158.69,159.72,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,7,A
+363-U1484B-21H-CC-A,0.0,123.0,159.75,160.98,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,21,H,CC,A
+363-U1484B-22H-1-A,0.0,143.0,161.5,162.93,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,1,A
+363-U1484B-22H-2-A,0.0,140.0,162.93,164.33,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,2,A
+363-U1484B-22H-3-A,0.0,143.0,164.33,165.76,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,3,A
+363-U1484B-22H-4-A,0.0,140.0,165.76,167.16,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,4,A
+363-U1484B-22H-5-A,0.0,146.0,167.16,168.62,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,5,A
+363-U1484B-22H-6-A,0.0,63.0,168.62,169.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,6,A
+363-U1484B-22H-6-A,73.0,100.0,169.35,169.62,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,6,A
+363-U1484B-22H-6-A,113.0,123.0,169.75,169.85,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,6,A
+363-U1484B-22H-6-A,123.0,144.0,169.85,170.06,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,6,A
+363-U1484B-22H-7-A,0.0,89.0,170.06,170.95,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,7,A
+363-U1484B-22H-7-A,97.0,120.0,171.03,171.26,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,7,A
+363-U1484B-22H-CC-A,0.0,66.0,171.26,171.92,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,22,H,CC,A
+363-U1484B-23H-1-A,0.0,143.0,171.0,172.43,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,1,A
+363-U1484B-23H-2-A,0.0,54.5,172.43,172.975,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,2,A
+363-U1484B-23H-2-A,54.5,55.0,172.975,172.98,,ash(tuff) [MMK88m],ash(tuff),,5Y 4/1 (dark gray),moderate [DB86],,,,,,"ash with pumice (<3 mm in diameter), patches",,,,,,,,,,,,,363,U1484,B,23,H,2,A
+363-U1484B-23H-2-A,55.0,128.0,172.98,173.71,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,2,A
+363-U1484B-23H-3-A,0.0,141.0,173.71,175.12,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,64 cm: pumice grain (6 mm in diameter),,,,,,,,,,,,,363,U1484,B,23,H,3,A
+363-U1484B-23H-4-A,0.0,42.5,175.12,175.545,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,4,A
+363-U1484B-23H-4-A,42.5,43.0,175.545,175.55,,ash(tuff) [MMK88m],ash(tuff),,5Y 4/1 (dark gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,4,A
+363-U1484B-23H-4-A,43.0,146.0,175.55,176.58,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,79 cm : pumice grains (4 mm in diameter),,,,,,,,,,,,,363,U1484,B,23,H,4,A
+363-U1484B-23H-5-A,0.0,140.0,176.58,177.98,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,5,A
+363-U1484B-23H-6-A,0.0,63.0,177.98,178.61,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,6,A
+363-U1484B-23H-6-A,63.0,64.0,178.61,178.62,,ash(tuff) [MMK88m],ash(tuff),,5Y 6/1 (gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,6,A
+363-U1484B-23H-6-A,64.0,145.0,178.62,179.43,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,6,A
+363-U1484B-23H-7-A,0.0,65.4,179.43,180.084,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,7,A
+363-U1484B-23H-7-A,65.4,65.7,180.084,180.08700000000002,,ash(tuff) [MMK88m],ash(tuff),,5Y 6/1 (gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,7,A
+363-U1484B-23H-7-A,65.7,95.0,180.08700000000002,180.38,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,7,A
+363-U1484B-23H-CC-A,0.0,55.0,180.38,180.93,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,23,H,CC,A
+363-U1484B-24H-1-A,0.0,54.0,180.5,181.04,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,33 cm: abundant bioclasts,,,,,,,,,,,,,363,U1484,B,24,H,1,A
+363-U1484B-24H-2-A,0.0,121.0,181.04,182.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,103.5 cm: abundant bioclasts,,,,,,,,,,,,,363,U1484,B,24,H,2,A
+363-U1484B-24H-3-A,0.0,33.0,182.25,182.58,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,3,A
+363-U1484B-24H-3-A,41.0,68.0,182.66,182.93,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,3,A
+363-U1484B-24H-3-A,68.0,74.0,182.93,182.99,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,3,A
+363-U1484B-24H-3-A,74.0,87.0,182.99,183.12,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,3,A
+363-U1484B-24H-3-A,94.0,124.0,183.19,183.49,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,3,A
+363-U1484B-24H-3-A,112.0,120.0,183.37,183.45,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,3,A
+363-U1484B-24H-4-A,0.0,37.0,183.49,183.86,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,abundant wood fragments,,,,,,,,,,,,,363,U1484,B,24,H,4,A
+363-U1484B-24H-4-A,37.0,43.5,183.86,183.925,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,4,A
+363-U1484B-24H-4-A,43.5,46.0,183.925,183.95,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,4,A
+363-U1484B-24H-4-A,46.0,52.0,183.95,184.01,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,4,A
+363-U1484B-24H-4-A,52.0,104.0,184.01,184.53,nannofossil-rich [X363],silty sand [S54],nannofossil-rich silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,4,A
+363-U1484B-24H-4-A,107.0,131.0,184.56,184.8,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,4,A
+363-U1484B-24H-5-A,0.0,15.5,184.8,184.955,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,5,A
+363-U1484B-24H-5-A,15.5,29.0,184.955,185.09,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,5,A
+363-U1484B-24H-5-A,29.0,60.0,185.09,185.4,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,5,A
+363-U1484B-24H-5-A,60.0,66.5,185.4,185.465,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,5,A
+363-U1484B-24H-5-A,66.5,147.0,185.465,186.27,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,5,A
+363-U1484B-24H-6-A,0.0,6.0,186.27,186.33,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-6-A,6.0,32.0,186.33,186.59,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-6-A,32.0,38.0,186.59,186.65,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-6-A,38.0,80.0,186.65,187.07,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-6-A,80.0,87.0,187.07,187.14,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-6-A,87.0,123.0,187.14,187.5,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-6-A,123.0,141.0,187.5,187.68,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,6,A
+363-U1484B-24H-7-A,0.0,54.0,187.69,188.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,7,A
+363-U1484B-24H-7-A,61.0,142.0,188.3,189.11,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,7,A
+363-U1484B-24H-8-A,0.0,31.0,189.11,189.42,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,8,A
+363-U1484B-24H-8-A,31.0,38.0,189.42,189.49,,sand [Leg210],sand,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,8,A
+363-U1484B-24H-8-A,38.0,124.0,189.49,190.35,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,8,A
+363-U1484B-24H-CC-A,0.0,30.0,190.35,190.65,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,24,H,CC,A
+363-U1484B-25F-1-A,0.0,123.0,190.0,191.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,25,F,1,A
+363-U1484B-25F-2-A,0.0,67.0,191.23,191.9,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,25,F,2,A
+363-U1484B-25F-2-A,75.0,133.0,191.98,192.56,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,25,F,2,A
+363-U1484B-25F-3-A,0.0,127.0,192.56,193.83,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,43 cm: scoria grain (4 mm in diameter),,,,,,,,,,,,,363,U1484,B,25,F,3,A
+363-U1484B-25F-4-A,0.0,67.0,193.83,194.5,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,25,F,4,A
+363-U1484B-25F-CC-A,0.0,30.0,194.5,194.8,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,25,F,CC,A
+363-U1484B-26F-1-A,0.0,138.0,194.7,196.08,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,1,A
+363-U1484B-26F-2-A,0.0,77.5,196.08,196.855,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,2,A
+363-U1484B-26F-2-A,77.5,84.0,196.855,196.92,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,2,A
+363-U1484B-26F-2-A,84.0,104.0,196.92,197.12,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,2,A
+363-U1484B-26F-2-A,104.0,114.0,197.12,197.22,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,2,A
+363-U1484B-26F-2-A,114.0,126.0,197.22,197.34,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,2,A
+363-U1484B-26F-3-A,0.0,25.0,197.34,197.59,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,3,A
+363-U1484B-26F-3-A,25.0,42.0,197.59,197.76,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,3,A
+363-U1484B-26F-3-A,42.0,104.0,197.76,198.38,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,3,A
+363-U1484B-26F-4-A,0.0,12.0,198.38,198.5,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,4,A
+363-U1484B-26F-4-A,12.0,42.0,198.5,198.8,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,4,A
+363-U1484B-26F-4-A,42.0,51.0,198.8,198.89,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,4,A
+363-U1484B-26F-4-A,51.0,83.0,198.89,199.21,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,4,A
+363-U1484B-26F-CC-A,0.0,5.0,199.21,199.26,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,CC,A
+363-U1484B-26F-CC-A,5.0,13.0,199.26,199.34,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,CC,A
+363-U1484B-26F-CC-A,13.0,39.0,199.34,199.6,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,26,F,CC,A
+363-U1484B-27F-1-A,0.0,5.0,199.4,199.45,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,1,A
+363-U1484B-27F-1-A,5.0,23.0,199.45,199.63,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,1,A
+363-U1484B-27F-1-A,23.0,28.0,199.63,199.68,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,1,A
+363-U1484B-27F-1-A,28.0,42.0,199.68,199.82,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,1,A
+363-U1484B-27F-2-A,0.0,9.0,199.82,199.91,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,9.0,23.0,199.91,200.05,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,23.0,33.0,200.05,200.15,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,33.0,40.0,200.15,200.22,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,40.0,45.0,200.22,200.27,,sandy silt [Leg339],sandy silt,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,45.0,60.0,200.27,200.42,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,68.0,121.0,200.5,201.03,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,121.0,129.0,201.03,201.11,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-2-A,129.0,138.0,201.11,201.2,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,2,A
+363-U1484B-27F-3-A,0.0,81.0,201.2,202.01,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,3,A
+363-U1484B-27F-4-A,0.0,7.0,202.01,202.08,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,4,A
+363-U1484B-27F-4-A,7.0,24.0,202.08,202.25,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,4,A
+363-U1484B-27F-4-A,24.0,32.0,202.25,202.33,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,4,A
+363-U1484B-27F-4-A,32.0,48.0,202.33,202.49,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,4,A
+363-U1484B-27F-4-A,48.0,54.0,202.49,202.55,,sandy silt [Leg339],sandy silt,,5GY 2.5/1 (greenish black),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,4,A
+363-U1484B-27F-4-A,54.0,120.0,202.55,203.21,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,4,A
+363-U1484B-27F-CC-A,0.0,27.0,203.21,203.48,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,27,F,CC,A
+363-U1484B-28F-1-A,0.0,101.0,204.1,205.11,foraminifer-bearing pteropod-bearing [X363],silty clay [S54],foraminifer-bearing pteropod-bearing silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,0-101: highly fall-in by drilling disturbance,,,,,,,,,,,,,363,U1484,B,28,F,1,A
+363-U1484B-28F-2-A,0.0,80.0,205.11,205.91,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,0-80: highly fall-in by drilling disturbance,,,,,,,,,,,,,363,U1484,B,28,F,2,A
+363-U1484B-28F-3-A,0.0,100.0,205.91,206.91,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,28,F,3,A
+363-U1484B-28F-4-A,0.0,82.0,206.91,207.73,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,28,F,4,A
+363-U1484B-28F-4-A,92.0,96.0,207.83,207.87,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,28,F,4,A
+363-U1484B-28F-CC-A,0.0,80.0,207.87,208.67,foraminifer-bearing nannofossil-rich [X363],silty clay [S54],foraminifer-bearing nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,24-26 cm: scattered pumice (16 mm in diameter),,,,,,,,,,,,,363,U1484,B,28,F,CC,A
+363-U1484B-29F-1-A,0.0,42.0,208.8,209.22,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,1,A
+363-U1484B-29F-2-A,0.0,104.0,209.27,210.31,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,2,A
+363-U1484B-29F-3-A,0.0,25.0,210.31,210.56,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,3,A
+363-U1484B-29F-3-A,25.0,68.0,210.56,210.99,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,3,A
+363-U1484B-29F-3-A,68.0,92.0,210.99,211.23,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,3,A
+363-U1484B-29F-4-A,0.0,65.0,211.23,211.88,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,4,A
+363-U1484B-29F-4-A,68.0,143.0,211.91,212.66,,silty clay [S54],silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,4,A
+363-U1484B-29F-CC-A,0.0,23.0,212.66,212.89,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,29,F,CC,A
+363-U1484B-30F-1-A,0.0,28.0,213.5,213.78,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,1,A
+363-U1484B-30F-1-A,28.0,150.0,213.78,215.0,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,1,A
+363-U1484B-30F-2-A,0.0,67.0,215.0,215.67,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,2,A
+363-U1484B-30F-2-A,73.0,112.0,215.73,216.12,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,2,A
+363-U1484B-30F-3-A,0.0,143.0,216.12,217.55,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,3,A
+363-U1484B-30F-4-A,0.0,57.0,217.55,218.12,,sand [Leg210],sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,4,A
+363-U1484B-30F-4-A,57.0,64.0,218.12,218.19,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,4,A
+363-U1484B-30F-CC-A,0.0,28.0,218.19,218.47,,silty sand [S54],silty sand,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,30,F,CC,A
+363-U1484B-31F-1-A,0.0,50.0,218.2,218.7,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,1,A
+363-U1484B-31F-1-A,50.0,64.0,218.7,218.84,,silty sand [S54],silty sand,,5GY 3/1 (very dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,1,A
+363-U1484B-31F-1-A,64.0,99.0,218.84,219.19,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,1,A
+363-U1484B-31F-1-A,99.0,110.0,219.19,219.3,,silty sand [S54],silty sand,,5GY 3/1 (very dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,1,A
+363-U1484B-31F-2-A,0.0,88.0,219.3,220.18,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,2,A
+363-U1484B-31F-3-A,0.0,27.0,220.18,220.45,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,3,A
+363-U1484B-31F-4-A,0.0,131.0,220.45,221.76,nannofossil-rich [X363],silty clay [S54],nannofossil-rich silty clay,,5GY 4/1 (dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,4,A
+363-U1484B-31F-CC-A,0.0,85.0,221.76,222.61,,silty sand [S54],silty sand,,5GY 3/1 (very dark greenish gray),slight [DB86],,,,,,,,,,,,,,,,,,,363,U1484,B,31,F,CC,A

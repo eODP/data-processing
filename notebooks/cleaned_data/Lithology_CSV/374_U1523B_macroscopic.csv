@@ -1,98 +1,98 @@
-﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Diagenetic constituent,Diagenetic constituent composition,Biogenic material,Lithologic accessories,Contact or boundary type,Contact geometry,General interval comment,Ship File Links,Shore File Links,File Data
-374-U1523B-3F-1-A,0,22,46.7,46.92,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,
-374-U1523B-3F-1-A,22,76,46.92,47.46,foraminifer bearing,clast-rich sandy diamict [M89m],,foraminifer bearing clast-rich sandy diamict,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,foraminifer,,,,,,,
-374-U1523B-3F-1-A,66,70,47.36,47.4,,,,,,,,,,,,,,,inclined boundary or contact,bioturbated,,,,
-374-U1523B-3F-1-A,76,83,47.46,47.53,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,gradational boundary or contact,,,,,
-374-U1523B-3F-1-A,83,100,47.53,47.7,foraminifer bearing,clast-rich sandy diamict [M89m],,foraminifer bearing clast-rich sandy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,foraminifer,lonestone,gradational boundary or contact,bioturbated,Lonestone at 87-88 cm.,,,
-374-U1523B-3F-1-A,100,142,47.7,48.12,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-3F-1-A,124,138,47.94,48.08,,,,,burrows,,,,,,,,,,,,,,,
-374-U1523B-3F-2-A,0,26,48.12,48.38,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,gradational boundary or contact,,"Lonestone at 17, 18, 20 cm.",,,
-374-U1523B-3F-2-A,26,70,48.38,48.82,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,lamination,,heavy [DB86],3,,,,,,lonestone,gradational boundary or contact,,Lonestone at 92-93 cm (in the WH).,,,
-374-U1523B-3F-2-A,70,132,48.82,49.44,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,lamination,,moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-5F-1-A,0,151,56.1,57.61,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones at 40, 99. Clasts include mud.",,,
-374-U1523B-5F-2-A,0,147,57.61,59.08,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,mud clast,,,"78, 123, 40, 26, 121",,,
-374-U1523B-5F-3-A,0,25,59.13,59.38,,,,,mottling [BJ80],GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,
-374-U1523B-5F-3-A,0,110,59.13,60.23,muddy,diatom ooze,,muddy diatom ooze,,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,mud clast,,,"mud clasts at 16, 17, 103, 66, 67",,,
-374-U1523B-5F-3-A,66,74,59.79,59.87,,,,,interlamination,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,
-374-U1523B-5F-CC-A,0,9,60.23,60.32,muddy,diatom ooze,,muddy diatom ooze,,GLEY 1 4/10Y (dark greenish gray),,,,,,,,,,,,,,
-374-U1523B-7F-1-A,0,35,65.5,65.85,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,sand stringer,GLEY 1 5/10Y (greenish gray),moderate [DB86],2,,,,,,lonestone,gradational boundary or contact,,"Lonestones at 28, 33, 39, 44, 52, 61, 64-94, 100, 99, 110, 113, 134, 135, 145",,,
-374-U1523B-7F-1-A,35,69,65.85,66.19,diatom rich,clast-poor muddy diamict [M89m],,diatom rich clast-poor muddy diamict,,,moderate [DB86],2,,,,,,lonestone,,,,,,
-374-U1523B-7F-1-A,69,150,66.19,67,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,interlamination,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,lonestone,,,,,,
-374-U1523B-7F-1-A,100,150,66.5,67,,,,,lamination,,,,,,,pyrite,,lonestone,,,,,,
-374-U1523B-7F-2-A,0,141,67,68.41,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,parallel lamination,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,lonestone,,,Lonestones at 94-96,,,
-374-U1523B-7F-2-A,0,141,67,68.41,,,,,sand stringer,,,,,,,,,,,,,,,
-374-U1523B-7F-3-A,0,145,68.51,69.96,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,parallel lamination,GLEY 1 4/10Y (dark greenish gray),,,,,,pyrite,,lonestone,,,Lonestones at 65-68,,,
-374-U1523B-7F-CC-A,0,28,69.96,70.24,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,sand stringer,GLEY 1 4/10Y (dark greenish gray),,,,,,,,lonestone,,,Lonestones at 17,,,
-374-U1523B-8F-1-A,0,73,70.2,70.93,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 5/10Y (greenish gray),heavy [DB86],3,,,,,,,gradational boundary or contact,,,,,
-374-U1523B-8F-1-A,73,151,70.93,71.71,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,sand stringer,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones: 30-32, 47, 58, 72-73, 75-77, 77-81, 85,, 106-108, 118, 124, 127-129, 132, 135, 139",,,
-374-U1523B-8F-2-A,0,153,71.71,73.24,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,sand stringer,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones at 5, 21, 27-28, 45, 52, 67, 69-74, 84, 98, 102, 109, 113, 123-127, 137, 140",,,
-374-U1523B-8F-2-A,137,137,73.08,73.08,,,,,,,,,,,,,shell fragment,,,,,,,
-374-U1523B-8F-2-A,147.5,147.5,73.185,73.185,,,,,,,,,,,,,shell fragment,,,,,,,
-374-U1523B-8F-3-A,0,47,73.24,73.71,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones at 13, 24-26, 32-36, 38, 45, 60-61, 71-73, 78, 107-109",,,
-374-U1523B-8F-3-A,47,122,73.71,74.46,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,sand stringer,GLEY 1 4/5GY (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,
-374-U1523B-8F-3-A,47,122,73.71,74.46,,,,,mottling [BJ80],,,,,,,,,,,,,,,
-374-U1523B-8F-CC-A,0,25,74.46,74.71,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,sand stringer,GLEY 1 4/5GY (dark greenish gray),,,,,,,shell fragment,lonestone,,,"Lonestones at 16, 11, 10",,,
-374-U1523B-9F-1-A,0,84,74.9,75.74,,,,,,GLEY 1 5/N (gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-9F-1-A,0,110,74.9,76,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,,moderate [DB86],2,,,,,,lonestone,,,"Lonestones at 14, 18, 21, 25, 44.5, 50, 59, 65, 65.5, 68, 80, 88, 91",,,
-374-U1523B-9F-1-A,8,56,74.98,75.46,,,,,mottling [BJ80],,moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-9F-1-A,84,110,75.74,76,,,,,,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-9F-CC-A,0,6,76,76.06,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),,,,,,,,,,,,,,
-374-U1523B-9F-CC-A,6,19,76.06,76.19,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,
-374-U1523B-10F-1-A,0,18,79.6,79.78,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-1-A,18,22.5,79.78,79.825,,,,,sand stringer,,,,,,,,,,,,,,,
-374-U1523B-10F-1-A,22.5,77,79.825,80.37,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-1-A,77,108,80.37,80.68,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10GY (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-1-A,108,132,80.68,80.92,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-2-A,7,14,81.06,81.13,diatom rich,mud,,diatom rich mud,mottling [BJ80],GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-2-A,14,58,81.13,81.57,diatom rich,clast-poor muddy diamict [M89m],,diatom rich clast-poor muddy diamict,sand stringer,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-2-A,58,72,81.57,81.71,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,clast cluster or nest,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-2-A,72,76,81.71,81.75,diatom rich,mud,,diatom rich mud,,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-2-A,76,136,81.75,82.35,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-3-A,3,43,82.42,82.82,diatom rich,mud,,diatom rich mud,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-3-A,43,47,82.82,82.86,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-3-A,47,96,82.86,83.35,diatom rich,mud,,diatom rich mud,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-4-A,0,36,83.35,83.71,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-4-A,36,60,83.71,83.95,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-4-A,40,46,83.75,83.81,,,,,sand stringer,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-10F-CC-A,0,15,83.95,84.1,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-11F-1-A,0,59,84.3,84.89,foraminifer bearing,clast-poor sandy diamict [M89m],,foraminifer bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,shell fragment,lonestone,,,"Shell fragment at 47-49 cm. Lonestone at 29, 48-50 cm.",,,
-374-U1523B-11F-1-A,0,59,84.3,84.89,,,,,,,,,,,,,foraminifer,,,,Forams visible throughout.,,,
-374-U1523B-11F-2-A,0,22,84.89,85.11,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,shell fragment,,,,Shell fragment at 17 cm.,,,
-374-U1523B-11F-2-A,22,70,85.11,85.59,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,mottling [BJ80],2.5Y 4/3 (olive brown),moderate [DB86],2,,,,,shell fragment,lonestone,,,Shell fragment at 33 cm and lonestone at 26 cm.,,,
-374-U1523B-11F-3-A,0,8,85.59,85.67,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,,2.5Y 4/3 (olive brown),,,,,,,,,,,,,,
-374-U1523B-11F-3-A,0,71,85.59,86.3,,,,,,,,,,,,,shell fragment,,,,,,,
-374-U1523B-11F-3-A,8,36,85.67,85.95,diatom rich,mud,with common clasts,diatom rich mud with common clasts,,2.5Y 4/3 (olive brown),,,,,,,,,,,,,,
-374-U1523B-11F-3-A,36,71,85.95,86.3,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,,2.5Y 4/3 (olive brown),,,,,,,bryozoa,,,,"*additionally, tube worm.",,,
-374-U1523B-12F-1-A,0,50,89,89.5,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,mottling [BJ80],2.5Y 5/2 (grayish brown),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-12F-1-A,33,48,89.33,89.48,,,,,burrows,,,,,,,,,,,,,,,
-374-U1523B-12F-1-A,50,92,89.5,89.92,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,,2.5Y 5/2 (grayish brown),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-14X-CC-A,0,14,93.8,93.94,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,,GLEY 1 6/10GY (greenish gray),,,,,,,,,,,*except for 0-3 cobble gravel.,,,
-374-U1523B-18X-CC-A,0,17,108.3,108.47,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 5/5GY (greenish gray),slight [DB86],1,,,,,,,,,Lonestone at 0-3 cm.,,,
-374-U1523B-18X-CC-A,22,26,108.52,108.56,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 5/5GY (greenish gray),slight [DB86],1,,,,,,lonestone,,,Lonestone at 22-26 cm.,,,
-374-U1523B-19X-CC-A,0,21,117.9,118.11,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,With washed cobble gravel.,,,
-374-U1523B-20F-1-A,0,68,127.5,128.18,muddy,diatom ooze,,muddy diatom ooze,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,
-374-U1523B-20F-1-A,68,90,128.18,128.4,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),,,,,concretion,glauconite,,,,,Glauconite at 73-75 anc 80 cm. Confirmed by SS.,,,
-374-U1523B-20F-1-A,90,150,128.4,129,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,,,"Lonestone at 68-70, 95-97, 103, 128 cm.",,,
-374-U1523B-20F-1-A,105,106,128.55,128.56,,,,,sand stringer,,,,,,,,,,,,,,,
-374-U1523B-20F-2-A,0,140,129,130.4,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,,,"Lonestone at 70, 89, and 127 cm.",,,
-374-U1523B-20F-3-A,0,134,130.5,131.84,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,,GLEY 1 5/5GY (greenish gray),,,,,,,,lonestone,,,*Flow in of disturbed mud with dispersed clasts.,,,
-374-U1523B-20F-CC-A,0,14,131.84,131.98,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,
-374-U1523B-21F-1-A,0,85,132,132.85,muddy,diatom ooze,with abundant clasts,muddy diatom ooze with abundant clasts,,GLEY 1 6/5GY (greenish gray),heavy [DB86],3,,,,,,,,,,,,
-374-U1523B-21F-1-A,85,96,132.85,132.96,diatom bearing,clast-rich muddy diamict [M89m],,diatom bearing clast-rich muddy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,,,,,,Pyrite staining throughout.,,,
-374-U1523B-21F-1-A,96,149,132.96,133.49,diatom rich,mud,with abundant clasts,diatom rich mud with abundant clasts,,GLEY 1 6/5GY (greenish gray),heavy [DB86],3,,,,,,lonestone,,,Lonestone at 127 and 140 cm.,,,
-374-U1523B-21F-1-A,110,112,133.1,133.12,,,,,,,,,,,,glauconite,,,,,Glauconite staining.,,,
-374-U1523B-21F-2-A,0,43,133.49,133.92,muddy,diatom ooze,with abundant clasts,muddy diatom ooze with abundant clasts,lamination,GLEY 1 6/5GY (greenish gray),heavy [DB86],3,,,,,,lonestone,gradational boundary or contact,,"Lonestone at 22, and 35-37 cm.",,,
-374-U1523B-21F-2-A,43,84,133.92,134.33,diatom rich,clast-poor muddy diamict [M89m],,diatom rich clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,,,,,,,,,
-374-U1523B-21F-3-A,0,72,134.33,135.05,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 6/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,,,"Lonestone at 2, 64, and 72-74 cm.",,,
-374-U1523B-21F-3-A,72,81,135.05,135.14,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,glauconite,,,undulating or wavy boundary or contact [BJ80],,,,,
-374-U1523B-21F-3-A,81,93,135.14,135.26,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,
-374-U1523B-21F-CC-A,0,35,135.26,135.61,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,,,,,,,,,
-374-U1523B-22X-CC-A,0,1,135.6,135.61,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,
-374-U1523B-22X-CC-A,3,14,135.63,135.74,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,
-374-U1523B-23X-1-A,0,140,145.2,146.6,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,glauconite,,lonestone,,,"Mottling at 40-41 cm. Lonestone at 4-5, 54-56, and 115-118 cm. glauconite at 111-116 and 117-126 cm but throughout.",,,
-374-U1523B-23X-1-A,117,126,146.37,146.46,,,,,,,,,,,,glauconite,,,gradational boundary or contact,,Gradational color contact.,,,
-374-U1523B-23X-CC-A,0,14,146.6,146.74,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,
-374-U1523B-24X-1-A,0,12,154.8,154.92,diatom rich,mud,,diatom rich mud,,GLEY 1 5/10Y (greenish gray),,,,,,,,,,,,,,
-374-U1523B-24X-1-A,12,23,154.92,155.03,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,
-374-U1523B-24X-1-A,23,40,155.03,155.2,diatom rich,clast-poor sandy diamict [M89m],,diatom rich clast-poor sandy diamict,normal grading,GLEY 1 5/10Y (greenish gray),,,,,,,,lonestone,,,"Sand content increases with depth. Lonestone at 30-32, 35, and 40 cm.",,,
-374-U1523B-24X-CC-A,0,25,155.27,155.52,diatom bearing,clast-rich sandy diamict [M89m],,diatom bearing clast-rich sandy diamict,,GLEY 1 5/10Y (greenish gray),,,,,,glauconite,,,,,*22-25 cm - first evidence of lithified diamict.,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Diagenetic constituent,Diagenetic constituent composition,Biogenic material,Lithologic accessories,Contact or boundary type,Contact geometry,General interval comment,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
+374-U1523B-3F-1-A,0.0,22.0,46.7,46.92,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-1-A,22.0,76.0,46.92,47.46,foraminifer bearing,clast-rich sandy diamict [M89m],,foraminifer bearing clast-rich sandy diamict,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,foraminifer,,,,,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-1-A,66.0,70.0,47.36,47.4,,,,,,,,,,,,,,,inclined boundary or contact,bioturbated,,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-1-A,76.0,83.0,47.46,47.53,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,gradational boundary or contact,,,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-1-A,83.0,100.0,47.53,47.7,foraminifer bearing,clast-rich sandy diamict [M89m],,foraminifer bearing clast-rich sandy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,foraminifer,lonestone,gradational boundary or contact,bioturbated,Lonestone at 87-88 cm.,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-1-A,100.0,142.0,47.7,48.12,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-1-A,124.0,138.0,47.94,48.08,,,,,burrows,,,,,,,,,,,,,,,,374,U1523,B,3,F,1,A
+374-U1523B-3F-2-A,0.0,26.0,48.12,48.38,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,gradational boundary or contact,,"Lonestone at 17, 18, 20 cm.",,,,374,U1523,B,3,F,2,A
+374-U1523B-3F-2-A,26.0,70.0,48.38,48.82,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,lamination,,heavy [DB86],3,,,,,,lonestone,gradational boundary or contact,,Lonestone at 92-93 cm (in the WH).,,,,374,U1523,B,3,F,2,A
+374-U1523B-3F-2-A,70.0,132.0,48.82,49.44,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,lamination,,moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,3,F,2,A
+374-U1523B-5F-1-A,0.0,151.0,56.1,57.61,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones at 40, 99. Clasts include mud.",,,,374,U1523,B,5,F,1,A
+374-U1523B-5F-2-A,0.0,147.0,57.61,59.08,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,mud clast,,,"78, 123, 40, 26, 121",,,,374,U1523,B,5,F,2,A
+374-U1523B-5F-3-A,0.0,25.0,59.13,59.38,,,,,mottling [BJ80],GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,374,U1523,B,5,F,3,A
+374-U1523B-5F-3-A,0.0,110.0,59.13,60.23,muddy,diatom ooze,,muddy diatom ooze,,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,mud clast,,,"mud clasts at 16, 17, 103, 66, 67",,,,374,U1523,B,5,F,3,A
+374-U1523B-5F-3-A,66.0,74.0,59.79,59.87,,,,,interlamination,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,374,U1523,B,5,F,3,A
+374-U1523B-5F-CC-A,0.0,9.0,60.23,60.32,muddy,diatom ooze,,muddy diatom ooze,,GLEY 1 4/10Y (dark greenish gray),,,,,,,,,,,,,,,374,U1523,B,5,F,CC,A
+374-U1523B-7F-1-A,0.0,35.0,65.5,65.85,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,sand stringer,GLEY 1 5/10Y (greenish gray),moderate [DB86],2,,,,,,lonestone,gradational boundary or contact,,"Lonestones at 28, 33, 39, 44, 52, 61, 64-94, 100, 99, 110, 113, 134, 135, 145",,,,374,U1523,B,7,F,1,A
+374-U1523B-7F-1-A,35.0,69.0,65.85,66.19,diatom rich,clast-poor muddy diamict [M89m],,diatom rich clast-poor muddy diamict,,,moderate [DB86],2,,,,,,lonestone,,,,,,,374,U1523,B,7,F,1,A
+374-U1523B-7F-1-A,69.0,150.0,66.19,67.0,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,interlamination,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,lonestone,,,,,,,374,U1523,B,7,F,1,A
+374-U1523B-7F-1-A,100.0,150.0,66.5,67.0,,,,,lamination,,,,,,,pyrite,,lonestone,,,,,,,374,U1523,B,7,F,1,A
+374-U1523B-7F-2-A,0.0,141.0,67.0,68.41,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,parallel lamination,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,lonestone,,,Lonestones at 94-96,,,,374,U1523,B,7,F,2,A
+374-U1523B-7F-2-A,0.0,141.0,67.0,68.41,,,,,sand stringer,,,,,,,,,,,,,,,,374,U1523,B,7,F,2,A
+374-U1523B-7F-3-A,0.0,145.0,68.51,69.96,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,parallel lamination,GLEY 1 4/10Y (dark greenish gray),,,,,,pyrite,,lonestone,,,Lonestones at 65-68,,,,374,U1523,B,7,F,3,A
+374-U1523B-7F-CC-A,0.0,28.0,69.96,70.24,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,sand stringer,GLEY 1 4/10Y (dark greenish gray),,,,,,,,lonestone,,,Lonestones at 17,,,,374,U1523,B,7,F,CC,A
+374-U1523B-8F-1-A,0.0,73.0,70.2,70.93,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 5/10Y (greenish gray),heavy [DB86],3,,,,,,,gradational boundary or contact,,,,,,374,U1523,B,8,F,1,A
+374-U1523B-8F-1-A,73.0,151.0,70.93,71.71,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,sand stringer,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones: 30-32, 47, 58, 72-73, 75-77, 77-81, 85,, 106-108, 118, 124, 127-129, 132, 135, 139",,,,374,U1523,B,8,F,1,A
+374-U1523B-8F-2-A,0.0,153.0,71.71,73.24,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,sand stringer,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones at 5, 21, 27-28, 45, 52, 67, 69-74, 84, 98, 102, 109, 113, 123-127, 137, 140",,,,374,U1523,B,8,F,2,A
+374-U1523B-8F-2-A,137.0,137.0,73.08,73.08,,,,,,,,,,,,,shell fragment,,,,,,,,374,U1523,B,8,F,2,A
+374-U1523B-8F-2-A,147.5,147.5,73.185,73.185,,,,,,,,,,,,,shell fragment,,,,,,,,374,U1523,B,8,F,2,A
+374-U1523B-8F-3-A,0.0,47.0,73.24,73.71,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),heavy [DB86],3,,,,,,lonestone,,,"Lonestones at 13, 24-26, 32-36, 38, 45, 60-61, 71-73, 78, 107-109",,,,374,U1523,B,8,F,3,A
+374-U1523B-8F-3-A,47.0,122.0,73.71,74.46,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,sand stringer,GLEY 1 4/5GY (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,374,U1523,B,8,F,3,A
+374-U1523B-8F-3-A,47.0,122.0,73.71,74.46,,,,,mottling [BJ80],,,,,,,,,,,,,,,,374,U1523,B,8,F,3,A
+374-U1523B-8F-CC-A,0.0,25.0,74.46,74.71,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,sand stringer,GLEY 1 4/5GY (dark greenish gray),,,,,,,shell fragment,lonestone,,,"Lonestones at 16, 11, 10",,,,374,U1523,B,8,F,CC,A
+374-U1523B-9F-1-A,0.0,84.0,74.9,75.74,,,,,,GLEY 1 5/N (gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,9,F,1,A
+374-U1523B-9F-1-A,0.0,110.0,74.9,76.0,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,,moderate [DB86],2,,,,,,lonestone,,,"Lonestones at 14, 18, 21, 25, 44.5, 50, 59, 65, 65.5, 68, 80, 88, 91",,,,374,U1523,B,9,F,1,A
+374-U1523B-9F-1-A,8.0,56.0,74.98,75.46,,,,,mottling [BJ80],,moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,9,F,1,A
+374-U1523B-9F-1-A,84.0,110.0,75.74,76.0,,,,,,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,9,F,1,A
+374-U1523B-9F-CC-A,0.0,6.0,76.0,76.06,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),,,,,,,,,,,,,,,374,U1523,B,9,F,CC,A
+374-U1523B-9F-CC-A,6.0,19.0,76.06,76.19,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,,374,U1523,B,9,F,CC,A
+374-U1523B-10F-1-A,0.0,18.0,79.6,79.78,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,1,A
+374-U1523B-10F-1-A,18.0,22.5,79.78,79.825,,,,,sand stringer,,,,,,,,,,,,,,,,374,U1523,B,10,F,1,A
+374-U1523B-10F-1-A,22.5,77.0,79.825,80.37,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,1,A
+374-U1523B-10F-1-A,77.0,108.0,80.37,80.68,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10GY (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,1,A
+374-U1523B-10F-1-A,108.0,132.0,80.68,80.92,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,1,A
+374-U1523B-10F-2-A,7.0,14.0,81.06,81.13,diatom rich,mud,,diatom rich mud,mottling [BJ80],GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,2,A
+374-U1523B-10F-2-A,14.0,58.0,81.13,81.57,diatom rich,clast-poor muddy diamict [M89m],,diatom rich clast-poor muddy diamict,sand stringer,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,2,A
+374-U1523B-10F-2-A,58.0,72.0,81.57,81.71,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,clast cluster or nest,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,2,A
+374-U1523B-10F-2-A,72.0,76.0,81.71,81.75,diatom rich,mud,,diatom rich mud,,GLEY 1 4/10Y (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,2,A
+374-U1523B-10F-2-A,76.0,136.0,81.75,82.35,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,2,A
+374-U1523B-10F-3-A,3.0,43.0,82.42,82.82,diatom rich,mud,,diatom rich mud,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,3,A
+374-U1523B-10F-3-A,43.0,47.0,82.82,82.86,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,3,A
+374-U1523B-10F-3-A,47.0,96.0,82.86,83.35,diatom rich,mud,,diatom rich mud,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,3,A
+374-U1523B-10F-4-A,0.0,36.0,83.35,83.71,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,lamination,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,4,A
+374-U1523B-10F-4-A,36.0,60.0,83.71,83.95,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,4,A
+374-U1523B-10F-4-A,40.0,46.0,83.75,83.81,,,,,sand stringer,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,4,A
+374-U1523B-10F-CC-A,0.0,15.0,83.95,84.1,diatom rich,interbedded mud(stone) and diamict [McKW53],,diatom rich interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,10,F,CC,A
+374-U1523B-11F-1-A,0.0,59.0,84.3,84.89,foraminifer bearing,clast-poor sandy diamict [M89m],,foraminifer bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,shell fragment,lonestone,,,"Shell fragment at 47-49 cm. Lonestone at 29, 48-50 cm.",,,,374,U1523,B,11,F,1,A
+374-U1523B-11F-1-A,0.0,59.0,84.3,84.89,,,,,,,,,,,,,foraminifer,,,,Forams visible throughout.,,,,374,U1523,B,11,F,1,A
+374-U1523B-11F-2-A,0.0,22.0,84.89,85.11,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,shell fragment,,,,Shell fragment at 17 cm.,,,,374,U1523,B,11,F,2,A
+374-U1523B-11F-2-A,22.0,70.0,85.11,85.59,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,mottling [BJ80],2.5Y 4/3 (olive brown),moderate [DB86],2,,,,,shell fragment,lonestone,,,Shell fragment at 33 cm and lonestone at 26 cm.,,,,374,U1523,B,11,F,2,A
+374-U1523B-11F-3-A,0.0,8.0,85.59,85.67,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,,2.5Y 4/3 (olive brown),,,,,,,,,,,,,,,374,U1523,B,11,F,3,A
+374-U1523B-11F-3-A,0.0,71.0,85.59,86.3,,,,,,,,,,,,,shell fragment,,,,,,,,374,U1523,B,11,F,3,A
+374-U1523B-11F-3-A,8.0,36.0,85.67,85.95,diatom rich,mud,with common clasts,diatom rich mud with common clasts,,2.5Y 4/3 (olive brown),,,,,,,,,,,,,,,374,U1523,B,11,F,3,A
+374-U1523B-11F-3-A,36.0,71.0,85.95,86.3,muddy,diatom ooze,with common clasts,muddy diatom ooze with common clasts,,2.5Y 4/3 (olive brown),,,,,,,bryozoa,,,,"*additionally, tube worm.",,,,374,U1523,B,11,F,3,A
+374-U1523B-12F-1-A,0.0,50.0,89.0,89.5,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,mottling [BJ80],2.5Y 5/2 (grayish brown),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,12,F,1,A
+374-U1523B-12F-1-A,33.0,48.0,89.33,89.48,,,,,burrows,,,,,,,,,,,,,,,,374,U1523,B,12,F,1,A
+374-U1523B-12F-1-A,50.0,92.0,89.5,89.92,muddy,diatom ooze,with dispersed clasts,muddy diatom ooze with dispersed clasts,,2.5Y 5/2 (grayish brown),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,12,F,1,A
+374-U1523B-14X-CC-A,0.0,14.0,93.8,93.94,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,,GLEY 1 6/10GY (greenish gray),,,,,,,,,,,*except for 0-3 cobble gravel.,,,,374,U1523,B,14,X,CC,A
+374-U1523B-18X-CC-A,0.0,17.0,108.3,108.47,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 5/5GY (greenish gray),slight [DB86],1,,,,,,,,,Lonestone at 0-3 cm.,,,,374,U1523,B,18,X,CC,A
+374-U1523B-18X-CC-A,22.0,26.0,108.52,108.56,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 5/5GY (greenish gray),slight [DB86],1,,,,,,lonestone,,,Lonestone at 22-26 cm.,,,,374,U1523,B,18,X,CC,A
+374-U1523B-19X-CC-A,0.0,21.0,117.9,118.11,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,With washed cobble gravel.,,,,374,U1523,B,19,X,CC,A
+374-U1523B-20F-1-A,0.0,68.0,127.5,128.18,muddy,diatom ooze,,muddy diatom ooze,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,,374,U1523,B,20,F,1,A
+374-U1523B-20F-1-A,68.0,90.0,128.18,128.4,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,,GLEY 1 5/5GY (greenish gray),,,,,concretion,glauconite,,,,,Glauconite at 73-75 anc 80 cm. Confirmed by SS.,,,,374,U1523,B,20,F,1,A
+374-U1523B-20F-1-A,90.0,150.0,128.4,129.0,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,,,"Lonestone at 68-70, 95-97, 103, 128 cm.",,,,374,U1523,B,20,F,1,A
+374-U1523B-20F-1-A,105.0,106.0,128.55,128.56,,,,,sand stringer,,,,,,,,,,,,,,,,374,U1523,B,20,F,1,A
+374-U1523B-20F-2-A,0.0,140.0,129.0,130.4,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,,,"Lonestone at 70, 89, and 127 cm.",,,,374,U1523,B,20,F,2,A
+374-U1523B-20F-3-A,0.0,134.0,130.5,131.84,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,,GLEY 1 5/5GY (greenish gray),,,,,,,,lonestone,,,*Flow in of disturbed mud with dispersed clasts.,,,,374,U1523,B,20,F,3,A
+374-U1523B-20F-CC-A,0.0,14.0,131.84,131.98,diatom bearing,mud,with dispersed clasts,diatom bearing mud with dispersed clasts,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,,374,U1523,B,20,F,CC,A
+374-U1523B-21F-1-A,0.0,85.0,132.0,132.85,muddy,diatom ooze,with abundant clasts,muddy diatom ooze with abundant clasts,,GLEY 1 6/5GY (greenish gray),heavy [DB86],3,,,,,,,,,,,,,374,U1523,B,21,F,1,A
+374-U1523B-21F-1-A,85.0,96.0,132.85,132.96,diatom bearing,clast-rich muddy diamict [M89m],,diatom bearing clast-rich muddy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,,,,,,Pyrite staining throughout.,,,,374,U1523,B,21,F,1,A
+374-U1523B-21F-1-A,96.0,149.0,132.96,133.49,diatom rich,mud,with abundant clasts,diatom rich mud with abundant clasts,,GLEY 1 6/5GY (greenish gray),heavy [DB86],3,,,,,,lonestone,,,Lonestone at 127 and 140 cm.,,,,374,U1523,B,21,F,1,A
+374-U1523B-21F-1-A,110.0,112.0,133.1,133.12,,,,,,,,,,,,glauconite,,,,,Glauconite staining.,,,,374,U1523,B,21,F,1,A
+374-U1523B-21F-2-A,0.0,43.0,133.49,133.92,muddy,diatom ooze,with abundant clasts,muddy diatom ooze with abundant clasts,lamination,GLEY 1 6/5GY (greenish gray),heavy [DB86],3,,,,,,lonestone,gradational boundary or contact,,"Lonestone at 22, and 35-37 cm.",,,,374,U1523,B,21,F,2,A
+374-U1523B-21F-2-A,43.0,84.0,133.92,134.33,diatom rich,clast-poor muddy diamict [M89m],,diatom rich clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,,,,,,,,,,374,U1523,B,21,F,2,A
+374-U1523B-21F-3-A,0.0,72.0,134.33,135.05,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,,GLEY 1 6/5GY (greenish gray),moderate [DB86],2,,,,,,lonestone,,,"Lonestone at 2, 64, and 72-74 cm.",,,,374,U1523,B,21,F,3,A
+374-U1523B-21F-3-A,72.0,81.0,135.05,135.14,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,glauconite,,,undulating or wavy boundary or contact [BJ80],,,,,,374,U1523,B,21,F,3,A
+374-U1523B-21F-3-A,81.0,93.0,135.14,135.26,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,,,,,,,,,,374,U1523,B,21,F,3,A
+374-U1523B-21F-CC-A,0.0,35.0,135.26,135.61,diatom bearing,clast-poor muddy diamict [M89m],,diatom bearing clast-poor muddy diamict,,GLEY 1 5/5GY (greenish gray),heavy [DB86],3,,,,,,,,,,,,,374,U1523,B,21,F,CC,A
+374-U1523B-22X-CC-A,0.0,1.0,135.6,135.61,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,,374,U1523,B,22,X,CC,A
+374-U1523B-22X-CC-A,3.0,14.0,135.63,135.74,,cobble gravel [USGS],,cobble gravel,,,,,,,,,,,,,,,,,374,U1523,B,22,X,CC,A
+374-U1523B-23X-1-A,0.0,140.0,145.2,146.6,diatom bearing,interbedded mud(stone) and diamict [McKW53],,diatom bearing interbedded mud(stone) and diamict,mottling [BJ80],GLEY 1 5/5GY (greenish gray),moderate [DB86],2,,,,glauconite,,lonestone,,,"Mottling at 40-41 cm. Lonestone at 4-5, 54-56, and 115-118 cm. glauconite at 111-116 and 117-126 cm but throughout.",,,,374,U1523,B,23,X,1,A
+374-U1523B-23X-1-A,117.0,126.0,146.37,146.46,,,,,,,,,,,,glauconite,,,gradational boundary or contact,,Gradational color contact.,,,,374,U1523,B,23,X,1,A
+374-U1523B-23X-CC-A,0.0,14.0,146.6,146.74,diatom bearing,clast-poor sandy diamict [M89m],,diatom bearing clast-poor sandy diamict,,GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,,374,U1523,B,23,X,CC,A
+374-U1523B-24X-1-A,0.0,12.0,154.8,154.92,diatom rich,mud,,diatom rich mud,,GLEY 1 5/10Y (greenish gray),,,,,,,,,,,,,,,374,U1523,B,24,X,1,A
+374-U1523B-24X-1-A,12.0,23.0,154.92,155.03,diatom rich,mud,with dispersed clasts,diatom rich mud with dispersed clasts,mottling [BJ80],GLEY 1 5/5GY (greenish gray),,,,,,,,,,,,,,,374,U1523,B,24,X,1,A
+374-U1523B-24X-1-A,23.0,40.0,155.03,155.2,diatom rich,clast-poor sandy diamict [M89m],,diatom rich clast-poor sandy diamict,normal grading,GLEY 1 5/10Y (greenish gray),,,,,,,,lonestone,,,"Sand content increases with depth. Lonestone at 30-32, 35, and 40 cm.",,,,374,U1523,B,24,X,1,A
+374-U1523B-24X-CC-A,0.0,25.0,155.27,155.52,diatom bearing,clast-rich sandy diamict [M89m],,diatom bearing clast-rich sandy diamict,,GLEY 1 5/10Y (greenish gray),,,,,,glauconite,,,,,*22-25 cm - first evidence of lithified diamict.,,,,374,U1523,B,24,X,CC,A
