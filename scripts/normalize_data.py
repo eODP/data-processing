@@ -160,3 +160,6 @@ def replace_unnamed_xx_columns(df):
 def csv_cleanup(df):
     df = restore_integer_columns(df)
     return replace_unnamed_xx_columns(df)
+
+def normalize_columns(old_columns, new_column, all_columns):
+    return [new_column if column in old_columns else column for column in all_columns]

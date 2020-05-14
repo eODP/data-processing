@@ -1,4 +1,4 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Major ModifierPrefixModifier Before Principal,PrincipalLithology Name,Minor ModifierSuffixModifier After Principal,LITHOLOGY NAME,lithology_classification,Lithology [%],GrainSizemaximum(mm),Lithification,COMMENT,,,,,,,,,,,,,,Exp,Site,Hole,Core,Type,Section,A/W
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,LITHOLOGY NAME,lithology_classification,Lithology [%],GrainSizemaximum(mm),Lithification,COMMENT,,,,,,,,,,,,,,Exp,Site,Hole,Core,Type,Section,A/W
 No data this hole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

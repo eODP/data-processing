@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color (name),Prefix,Principal lithology,Suffix,Complete name,Lithology [%],"Dominant grain size (Wentworth, 1922)",Dominant grain size rank,Clastic Grain roundness,Lithification,Lithology comments,File Data
+Sample,Exp,Site,Hole,Core,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color (name),Lithology Prefix,Lithology Principal Name,Lithology Suffix,Complete name,Lithology [%],"Dominant grain size (Wentworth, 1922)",Dominant grain size rank,Clastic Grain roundness,Lithification,Lithology comments,File Data
 330-U1373A-1R-1,330,U1373,A,1,R,1,,0.0,15.0,0.0,0.15,multicolor,bioclast basalt,conglomerate,,bioclast basalt conglomerate,,pebble [U14W22],5,angular[330],lithified,grain-supported,
 330-U1373A-1R-1,330,U1373,A,1,R,1,,15.0,80.0,0.15,0.8,multicolor,basalt,conglomerate,,basalt conglomerate,,cobble [U14W22],,subangular[330],lithified,matrix-supported,
 330-U1373A-1R-2,330,U1373,A,1,R,2,,0.0,149.0,0.8,2.29,multicolor,basalt,conglomerate,,basalt conglomerate,,cobble [U14W22],,subangular[330],lithified,matrix-supported,
