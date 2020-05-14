@@ -7,6 +7,7 @@ from scripts.normalize_data import (
     normalize_expedition_section_cols,
     extract_sample_parts,
     restore_integer_columns,
+    update_metadata,
 )
 import pandas as pd
 import numpy as np
@@ -664,3 +665,22 @@ class TestRestoreIntColumns:
         assert str(df['int float'][0]) == '1.0'
         assert str(df['int float'][1]) == '2.0'
         assert str(df['int float'][2]) == '3.1'
+
+class TestUpdateMetadata:
+    def test_adds_new_column_to_dataframe_if_column_does_not_exists(self):
+        metadata = pd.DataFrame({"a": [1,2]})
+        dict = {"b": [3, 4]}
+        new_metadata = update_metadata(metadata, dict)
+
+        expected =  pd.DataFrame({"a": [1,2], "b": [3, 4]})
+
+        assert_frame_equal(new_metadata, expected)
+
+    def test_adds_new_column_to_dataframe_if_column_does_not_exists(self):
+        metadata = pd.DataFrame({"a": [1,2], "b": [3, 4]})
+        dict = {"b": [5, 6]}
+        new_metadata = update_metadata(metadata, dict)
+
+        expected =  pd.DataFrame({"a": [1,2], "b": [3, 4]})
+
+        assert_frame_equal(new_metadata, expected)

@@ -1,6 +1,7 @@
 import re
 import os
 import numpy as np
+import pandas as pd
 
 
 def tablerize(word):
@@ -136,3 +137,12 @@ def restore_integer_columns(df):
         except TypeError:
             pass
     return df
+
+def update_metadata(metadata, new_col_dict):
+    new_metadata = pd.DataFrame(new_col_dict)
+    new_col_name = list(new_col_dict.keys())[0]
+
+    if new_col_name not in metadata.columns:
+        metadata = metadata.join(new_metadata)
+
+    return metadata
