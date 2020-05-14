@@ -8,6 +8,7 @@ from scripts.normalize_data import (
     extract_sample_parts,
     restore_integer_columns,
     update_metadata,
+    replace_unnamed_xx_columns,
 )
 import pandas as pd
 import numpy as np
@@ -684,3 +685,36 @@ class TestUpdateMetadata:
         expected =  pd.DataFrame({"a": [1,2], "b": [3, 4]})
 
         assert_frame_equal(new_metadata, expected)
+
+
+class TestReplaceUnnamedXXColumns:
+    def test_replace_unnamed_xx_with_empty_string(self):
+        df = pd.DataFrame({
+            "a": [1],
+            "Unnamed: 1": [1],
+            "Unnamed: 10": [1],
+            "Unnamed: 1000": [1],
+            "b": [1]
+        })
+
+        new_df = replace_unnamed_xx_columns(df)
+
+        assert len(df.columns) == len(new_df.columns)
+        assert new_df.columns[0] == 'a'
+        assert new_df.columns[1] == ''
+        assert new_df.columns[3] == ''
+        assert new_df.columns[4] == 'b'
+
+    def test_leaves_other_columns_unchanged(self):
+        df = pd.DataFrame({
+            "a": [1],
+            "Bb": [1],
+            "CC CC": [1]
+        })
+
+        new_df = replace_unnamed_xx_columns(df)
+
+        assert len(df.columns) == len(new_df.columns)
+        assert new_df.columns[0] == 'a'
+        assert new_df.columns[1] == 'Bb'
+        assert new_df.columns[2] == 'CC CC'

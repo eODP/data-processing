@@ -146,3 +146,17 @@ def update_metadata(metadata, new_col_dict):
         metadata = metadata.join(new_metadata)
 
     return metadata
+
+def replace_unnamed_xx_columns(df):
+    """
+    pandas will add "Unnamed: xx" as column name for columns without names.
+    This function replaces "Unnamed: xx" with "".
+    """
+    cols = df.columns
+    new_cols = ['' if re.search(r'Unnamed: \d+', col) else col for col in cols]
+    df.columns = new_cols
+    return df
+
+def csv_cleanup(df):
+    df = restore_integer_columns(df)
+    return replace_unnamed_xx_columns(df)
