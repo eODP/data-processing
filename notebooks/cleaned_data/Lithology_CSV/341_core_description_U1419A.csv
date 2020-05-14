@@ -1,337 +1,337 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Name,Minor Lithology Suffix
-341-U1419A-1H-1-A,0.0,150.0,0.0,1.5,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1.0,,,,,,,,,,,,diatom ooze with 20% silt; with scattered black mottles (< 5 mm),,,,,,341,U1419,A,1,H,1,A,,,
-341-U1419A-1H-2-A,0.0,145.0,1.5,2.95,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1.0,,,,,,,,,,,,- massive mud with scattered black mottles (< 5 mm),,,,,,341,U1419,A,1,H,2,A,,,
-341-U1419A-1H-2-A,145.0,150.0,2.95,3.0,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,,341,U1419,A,1,H,2,A,,,
-341-U1419A-1H-3-A,0.0,150.0,3.0,4.5,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1.0,,,,,,,,,,,,"diatom ooze (inlc calcareous shell fragments, all kinds of biosiliceous stuff); with scattered black mottles (< 5 mm)",,,,,,341,U1419,A,1,H,3,A,,,
-341-U1419A-1H-4-A,0.0,105.0,4.5,5.55,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1.0,,,,,,,,,,,,mud with few black mottles,,,,,,341,U1419,A,1,H,4,A,,,
-341-U1419A-1H-4-A,105.0,135.0,5.55,5.85,,diatom ooze [Leg339],,diatom ooze ,,,,5Y 4/2 (olive gray),slight [DB86],1.0,,,,,,,,,,,,diatom ooze consisting mainly of diatoms,,,,,,341,U1419,A,1,H,4,A,,,
-341-U1419A-1H-4-A,135.0,145.0,5.85,5.95,,mud [Leg210],,mud ,,,,10Y 5/1 (greenish gray),slight [DB86],1.0,,,,,,,,,,,,mud with few black mottles,,,,,,341,U1419,A,1,H,4,A,,,
-341-U1419A-1H-4-A,145.0,150.0,5.95,6.0,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,1,H,4,A,,,
-341-U1419A-1H-5-A,0.0,38.0,6.0,6.38,,mud [Leg210],,mud ,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,"mud with very few black mottles, slight laminations due to color variations",,,,,,341,U1419,A,1,H,5,A,,,
-341-U1419A-1H-5-A,38.0,42.0,6.38,6.42,,sand [Leg210],,sand ,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,fine to medium sand,,,,,,341,U1419,A,1,H,5,A,,,
-341-U1419A-1H-5-A,42.0,125.0,6.42,7.25,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],9.0,,,,,,,,,,"massive mud with very few black mottles; 30% silt, 70% clay",,,,,,341,U1419,A,1,H,5,A,,,
-341-U1419A-1H-CC-A,0.0,12.0,7.25,7.37,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],3.0,,,,,,,,,,,,,,,,341,U1419,A,1,H,CC,A,,,
-341-U1419A-1H-CC-A,12.0,18.0,7.37,7.43,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,1,H,CC,A,,,
-341-U1419A-2H-1-A,0.0,47.5,7.4,7.875,foraminifer bearing,diatom ooze [Leg339],with radiolarians [Leg339],foraminifer bearing diatom ooze  with radiolarians ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,2,H,1,A,,,
-341-U1419A-2H-1-A,47.5,54.5,7.875,7.945,foraminifer bearing,sand [Leg210],,foraminifer bearing sand ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,2,H,1,A,,,
-341-U1419A-2H-1-A,54.5,150.0,7.945,8.9,,mud [Leg210],,mud ,,,,10Y 2.5/1 (greenish black),,,,,,,,,,,,,,,,,,,,341,U1419,A,2,H,1,A,,,
-341-U1419A-2H-2-A,0.0,145.0,8.9,10.35,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],5.0,,,pebble [W22_2],rounded,pebble [W22_2],rounded,,,,"argillites at 10 cm and 40 cm, 2 and 3 cm, subrounded and rounde; sandstone 2.5 cm at 63 cm, rounded,, metasandstone 5cm, rounded, at 92 cm, sandstone 5 cm, at 97 cm, rounded;",,,,,,341,U1419,A,2,H,2,A,,,
-341-U1419A-2H-2-A,145.0,150.0,10.35,10.4,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,2,H,2,A,,,
-341-U1419A-2H-3-A,0.0,150.0,10.4,11.9,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],4.0,,,granule [W22_2],subrounded,granule [W22_2],subrounded,,,,argillite granules,,,,,,341,U1419,A,2,H,3,A,,,
-341-U1419A-2H-4-A,0.0,145.0,11.9,13.35,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],11.0,,,,,pebble [W22_2],subrounded,shell fragment,,,"veined metasiltstones (2-3cm) @ 12, 21cm;
-shell fragments @24, 140cm",,,,,,341,U1419,A,2,H,4,A,,,
-341-U1419A-2H-4-A,145.0,150.0,13.35,13.4,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,2,H,4,A,,,
-341-U1419A-2H-5-A,0.0,150.0,13.4,14.9,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],12.0,,,,,,,,,,,,,,,,341,U1419,A,2,H,5,A,,,
-341-U1419A-2H-6-A,0.0,136.0,14.9,16.26,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],9.0,,,,,,,,,,,,,,,,341,U1419,A,2,H,6,A,,,
-341-U1419A-2H-6-A,136.0,141.0,16.26,16.31,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,2,H,6,A,,,
-341-U1419A-2H-7-A,0.0,71.0,16.31,17.02,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],9.0,,,,,,,,,,,,,,,,341,U1419,A,2,H,7,A,,,
-341-U1419A-2H-CC-A,0.0,13.0,17.02,17.15,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],3.0,,,,,,,,,,,,,,,,341,U1419,A,2,H,CC,A,,,
-341-U1419A-2H-CC-A,13.0,18.0,17.15,17.2,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,2,H,CC,A,,,
-341-U1419A-3H-1-A,0.0,150.0,16.9,18.4,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,N 4 (dark gray),,,present [A79],2.0,,,,,granule [W22_2],subrounded,,,,"2 argillite granules at 31 and 57 cm, ",,,,,,341,U1419,A,3,H,1,A,,,
-341-U1419A-3H-2-A,0.0,145.0,18.4,19.85,,mud [Leg210],,mud ,,,,10Y 3/1 (very dark greenish gray),,,present [A79],2.0,,,,,,,,,,"argillite pebble 2 cm at 47 cm, sandstone clast 2 cm, subrounded, at 113; argillite pebble in WH at 101 cm; shell fragments at 8, 18, and 36 cm; ",,,,,,341,U1419,A,3,H,2,A,,,
-341-U1419A-3H-2-A,145.0,150.0,19.85,19.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,3,H,2,A,,,
-341-U1419A-3H-3-A,0.0,145.0,19.9,21.35,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],5.0,,,pebble [W22_2],subangular,pebble [W22_2],subrounded,,,,"metasandstone 2 cm at 72 cm, subrounded; argillite 2 cm, rounded, at 83; granules at 55and 103 cm; sandstone clast 2 cm In WH!, subangular, at 112 cm; ",gradational contact,,,,,341,U1419,A,3,H,3,A,,,
-341-U1419A-3H-3-A,145.0,147.0,21.35,21.37,,sand [Leg210],,sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,planar,,,,341,U1419,A,3,H,3,A,,,
-341-U1419A-3H-3-A,147.0,150.0,21.37,21.4,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,3,H,3,A,,,
-341-U1419A-3H-4-A,0.0,105.0,21.4,22.45,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],9.0,,,,,,,shell fragment,,,"very thin shell fragments: 69, 75, 90cm;
-sand patch: 70-73cm",gradational contact,,,,,341,U1419,A,3,H,4,A,,,
-341-U1419A-3H-4-A,105.0,145.0,22.45,22.85,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],2.0,,,,,,,,,,,,,,,,341,U1419,A,3,H,4,A,,,
-341-U1419A-3H-4-A,145.0,150.0,22.85,22.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,3,H,4,A,,,
-341-U1419A-3H-5-A,0.0,150.0,22.9,24.4,,mud [Leg210],,mud ,trace amount,1.0,,N 4 (dark gray),none [DB86],0.0,present [A79],15.0,,,,,,,shell fragment,,,"shell fragments: 57, 97cm;
-ash patches (N 7): 71-73, 77-78cm",,,,,,341,U1419,A,3,H,5,A,,,
-341-U1419A-3H-6-A,0.0,124.0,24.4,25.64,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],7.0,,,,,,,shell fragment,,,shell fragment: 119cm,gradational contact,,,,,341,U1419,A,3,H,6,A,,,
-341-U1419A-3H-6-A,124.0,139.0,25.64,25.79,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/2 (grayish green),none [DB86],0.0,present [A79],2.0,,,,,,,shell fragment,,,shell fragments: 128-132cm,gradational contact,,,,,341,U1419,A,3,H,6,A,,,
-341-U1419A-3H-6-A,139.0,145.0,25.79,25.85,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],1.0,,,,,,,,,,,,,,,,341,U1419,A,3,H,6,A,,,
-341-U1419A-3H-6-A,145.0,150.0,25.85,25.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,3,H,6,A,,,
-341-U1419A-3H-7-A,0.0,57.0,25.9,26.47,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],8.0,,,pebble [W22_2],subangular,,,,,,4cm sandstone @ 49cm,,,,,,341,U1419,A,3,H,7,A,,,
-341-U1419A-3H-CC-A,0.0,13.0,26.47,26.6,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],3.0,,,,,,,,,,,,,,,,341,U1419,A,3,H,CC,A,,,
-341-U1419A-3H-CC-A,13.0,18.0,26.6,26.65,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,3,H,CC,A,,,
-341-U1419A-5H-CC-A,0.0,1.0,35.9,35.91,,sandstone [Leg210],,sandstone ,,,,10B 4/1 (dark bluish gray),none [DB86],0.0,absent [A79],,,,,,,,,,,"only one piece of stone in the core - part of larger rock?
-",,,,,,341,U1419,A,5,H,CC,A,,,
-341-U1419A-5H-CC-A,1.0,5.0,35.91,35.95,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,5,H,CC,A,,,
-341-U1419A-6H-1-A,0.0,150.0,38.9,40.4,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],10.0,,,,,,,,,,"- very scattered black mottles (<2 mm)
-- pebble clasts of siltstone and greenstone(?)",,,,,,341,U1419,A,6,H,1,A,,,
-341-U1419A-6H-2-A,0.0,145.0,40.4,41.85,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],14.0,,,,,,,,,,"- very scattered black mottles (<2 mm)
-- pebble clasts include greywacke(?), siltstone, metasediment with quartz vein",,,,,,341,U1419,A,6,H,2,A,,,
-341-U1419A-6H-2-A,145.0,150.0,41.85,41.9,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,,341,U1419,A,6,H,2,A,,,
-341-U1419A-6H-3-A,0.0,20.0,41.9,42.1,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],3.0,,,,,,,,,,"- no black mottles observed
-- pebble clasts include granitoid clasts, argillite(?), quartz",,,,,,341,U1419,A,6,H,3,A,,,
-341-U1419A-6H-3-A,20.0,23.0,42.1,42.13,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,6,H,3,A,,,
-341-U1419A-6H-3-A,23.0,53.0,42.13,42.43,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],1.0,,,,,,,,,,"- no black mottles observed
-- pebble clasts include siltstone",,,,,,341,U1419,A,6,H,3,A,,,
-341-U1419A-6H-3-A,53.0,56.0,42.43,42.46,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,6,H,3,A,,,
-341-U1419A-6H-3-A,56.0,150.0,42.46,43.4,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],7.0,,,,,,,,,,"- no black mottles observed
-- pebble clasts include siltstone, greenstone and greywacke(?)",,,,,,341,U1419,A,6,H,3,A,,,
-341-U1419A-6H-4-A,0.0,31.0,43.4,43.71,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],7.0,,,,,,,,,,few black mottles occur; clasts include mainly granules and pebbles of black metasiltstone and greenstone,,,,,,341,U1419,A,6,H,4,A,,,
-341-U1419A-6H-4-A,31.0,33.0,43.71,43.73,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,6,H,4,A,,,
-341-U1419A-6H-4-A,33.0,145.0,43.73,44.85,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],7.0,,,,,,,,,,few black mottles occur; clasts include mainly granules and pebbles of black metasiltstone and greenstone; outsized siltstone clast (5x3 cm) @ 83-88 cm (with quartz vein); outsized lonestone @ 125 - 131 cm (green-red igneous rock with quartz),,,,,,341,U1419,A,6,H,4,A,,,
-341-U1419A-6H-4-A,145.0,150.0,44.85,44.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,6,H,4,A,,,
-341-U1419A-6H-5-A,0.0,108.0,44.9,45.98,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],8.0,,,,,,,,,,very few black mottles; clasts include mainly granules and pebbles of black metasiltstone and greenstone,,,,,,341,U1419,A,6,H,5,A,,,
-341-U1419A-6H-5-A,108.0,145.0,45.98,46.35,,mud [Leg210],with biogenic components [Leg339],mud  with biogenic components ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1.0,present [A79],16.0,,,,,,,,,,mud with biosilica and calcareous components,,,,,,341,U1419,A,6,H,5,A,,,
-341-U1419A-6H-5-A,145.0,150.0,46.35,46.4,sandy,mud [Leg210],with dispersed clasts,sandy mud with dispersed clasts,,,,N 4 (dark gray),,,present [A79],3.0,,,,,,,,,,very few black mottles; clasts include mainly granules and pebbles of black metasiltstone and greenstone,,,,,,341,U1419,A,6,H,5,A,,,
-341-U1419A-6H-6-A,0.0,146.0,46.4,47.86,sandy,mud [Leg210],with dispersed clasts,sandy mud with dispersed clasts,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],14.0,,,,,,,,,,few black mottles; clasts include mainly granules of black metasiltstone and greenstone; slightly sandier interval between 25 and 31 cm; sandy diamict patch @ 79 to 83 cm,,,,,,341,U1419,A,6,H,6,A,,,
-341-U1419A-6H-CC-A,0.0,17.0,47.86,48.03,sandy,mud [Leg210],,sandy mud,,,,N 4 (dark gray),,,,,,,,,,,,,,very few black mottles,,,,,,341,U1419,A,6,H,CC,A,,,
-341-U1419A-6H-CC-A,17.0,23.0,48.03,48.09,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,6,H,CC,A,,,
-341-U1419A-8H-1-A,0.0,155.0,57.9,59.45,,mud [Leg210],with diatoms [Leg339],mud with diatoms ,,,,N 4 (dark gray),moderate [DB86],2.0,present [A79],13.0,,,,,,,,,,"- massive mud with diatoms
+﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],MAJ Lith. Prefix,MAJ Lith. Principal name,MAJ Lith. Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data
+341-U1419A-1H-1-A,0,150,0,1.5,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,diatom ooze with 20% silt; with scattered black mottles (< 5 mm),,,,,
+341-U1419A-1H-2-A,0,145,1.5,2.95,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,- massive mud with scattered black mottles (< 5 mm),,,,,
+341-U1419A-1H-2-A,145,150,2.95,3,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,
+341-U1419A-1H-3-A,0,150,3,4.5,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,"diatom ooze (inlc calcareous shell fragments, all kinds of biosiliceous stuff); with scattered black mottles (< 5 mm)",,,,,
+341-U1419A-1H-4-A,0,105,4.5,5.55,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,mud with few black mottles,,,,,
+341-U1419A-1H-4-A,105,135,5.55,5.85,,diatom ooze [Leg339],,diatom ooze ,,,,5Y 4/2 (olive gray),slight [DB86],1,,,,,,,,,,,,diatom ooze consisting mainly of diatoms,,,,,
+341-U1419A-1H-4-A,135,145,5.85,5.95,,mud [Leg210],,mud ,,,,10Y 5/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,mud with few black mottles,,,,,
+341-U1419A-1H-4-A,145,150,5.95,6,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-1H-5-A,0,38,6,6.38,,mud [Leg210],,mud ,,,,10Y 5/1 (greenish gray),,,,,,,,,,,,,,"mud with very few black mottles, slight laminations due to color variations",,,,,
+341-U1419A-1H-5-A,38,42,6.38,6.42,,sand [Leg210],,sand ,,,,10Y 3/1 (very dark greenish gray),,,,,,,,,,,,,,fine to medium sand,,,,,
+341-U1419A-1H-5-A,42,125,6.42,7.25,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],9,,,,,,,,,,"massive mud with very few black mottles; 30% silt, 70% clay",,,,,
+341-U1419A-1H-CC-A,0,12,7.25,7.37,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],3,,,,,,,,,,,,,,,
+341-U1419A-1H-CC-A,12,18,7.37,7.43,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-2H-1-A,0,47.5,7.4,7.875,foraminifer bearing,diatom ooze [Leg339],with radiolarians [Leg339],foraminifer bearing diatom ooze  with radiolarians ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-2H-1-A,47.5,54.5,7.875,7.945,foraminifer bearing,sand [Leg210],,foraminifer bearing sand ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-2H-1-A,54.5,150,7.945,8.9,,mud [Leg210],,mud ,,,,10Y 2.5/1 (greenish black),,,,,,,,,,,,,,,,,,,
+341-U1419A-2H-2-A,0,145,8.9,10.35,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],5,,,pebble [W22_2],rounded,pebble [W22_2],rounded,,,,"argillites at 10 cm and 40 cm, 2 and 3 cm, subrounded and rounde; sandstone 2.5 cm at 63 cm, rounded,, metasandstone 5cm, rounded, at 92 cm, sandstone 5 cm, at 97 cm, rounded;",,,,,
+341-U1419A-2H-2-A,145,150,10.35,10.4,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-2H-3-A,0,150,10.4,11.9,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],4,,,granule [W22_2],subrounded,granule [W22_2],subrounded,,,,argillite granules,,,,,
+341-U1419A-2H-4-A,0,145,11.9,13.35,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],11,,,,,pebble [W22_2],subrounded,shell fragment,,,"veined metasiltstones (2-3cm) @ 12, 21cm;
+shell fragments @24, 140cm",,,,,
+341-U1419A-2H-4-A,145,150,13.35,13.4,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-2H-5-A,0,150,13.4,14.9,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0,present [A79],12,,,,,,,,,,,,,,,
+341-U1419A-2H-6-A,0,136,14.9,16.26,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0,present [A79],9,,,,,,,,,,,,,,,
+341-U1419A-2H-6-A,136,141,16.26,16.31,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-2H-7-A,0,71,16.31,17.02,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0,present [A79],9,,,,,,,,,,,,,,,
+341-U1419A-2H-CC-A,0,13,17.02,17.15,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),none [DB86],0,present [A79],3,,,,,,,,,,,,,,,
+341-U1419A-2H-CC-A,13,18,17.15,17.2,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-3H-1-A,0,150,16.9,18.4,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,N 4 (dark gray),,,present [A79],2,,,,,granule [W22_2],subrounded,,,,"2 argillite granules at 31 and 57 cm, ",,,,,
+341-U1419A-3H-2-A,0,145,18.4,19.85,,mud [Leg210],,mud ,,,,10Y 3/1 (very dark greenish gray),,,present [A79],2,,,,,,,,,,"argillite pebble 2 cm at 47 cm, sandstone clast 2 cm, subrounded, at 113; argillite pebble in WH at 101 cm; shell fragments at 8, 18, and 36 cm; ",,,,,
+341-U1419A-3H-2-A,145,150,19.85,19.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-3H-3-A,0,145,19.9,21.35,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],5,,,pebble [W22_2],subangular,pebble [W22_2],subrounded,,,,"metasandstone 2 cm at 72 cm, subrounded; argillite 2 cm, rounded, at 83; granules at 55and 103 cm; sandstone clast 2 cm In WH!, subangular, at 112 cm; ",gradational contact,,,,
+341-U1419A-3H-3-A,145,147,21.35,21.37,,sand [Leg210],,sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,planar,,,
+341-U1419A-3H-3-A,147,150,21.37,21.4,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-3H-4-A,0,105,21.4,22.45,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],9,,,,,,,shell fragment,,,"very thin shell fragments: 69, 75, 90cm;
+sand patch: 70-73cm",gradational contact,,,,
+341-U1419A-3H-4-A,105,145,22.45,22.85,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],2,,,,,,,,,,,,,,,
+341-U1419A-3H-4-A,145,150,22.85,22.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-3H-5-A,0,150,22.9,24.4,,mud [Leg210],,mud ,trace amount,1,,N 4 (dark gray),none [DB86],0,present [A79],15,,,,,,,shell fragment,,,"shell fragments: 57, 97cm;
+ash patches (N 7): 71-73, 77-78cm",,,,,
+341-U1419A-3H-6-A,0,124,24.4,25.64,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],7,,,,,,,shell fragment,,,shell fragment: 119cm,gradational contact,,,,
+341-U1419A-3H-6-A,124,139,25.64,25.79,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/2 (grayish green),none [DB86],0,present [A79],2,,,,,,,shell fragment,,,shell fragments: 128-132cm,gradational contact,,,,
+341-U1419A-3H-6-A,139,145,25.79,25.85,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],1,,,,,,,,,,,,,,,
+341-U1419A-3H-6-A,145,150,25.85,25.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-3H-7-A,0,57,25.9,26.47,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],8,,,pebble [W22_2],subangular,,,,,,4cm sandstone @ 49cm,,,,,
+341-U1419A-3H-CC-A,0,13,26.47,26.6,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],3,,,,,,,,,,,,,,,
+341-U1419A-3H-CC-A,13,18,26.6,26.65,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-5H-CC-A,0,1,35.9,35.91,,sandstone [Leg210],,sandstone ,,,,10B 4/1 (dark bluish gray),none [DB86],0,absent [A79],,,,,,,,,,,"only one piece of stone in the core - part of larger rock?
+",,,,,
+341-U1419A-5H-CC-A,1,5,35.91,35.95,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-6H-1-A,0,150,38.9,40.4,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],10,,,,,,,,,,"- very scattered black mottles (<2 mm)
+- pebble clasts of siltstone and greenstone(?)",,,,,
+341-U1419A-6H-2-A,0,145,40.4,41.85,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],14,,,,,,,,,,"- very scattered black mottles (<2 mm)
+- pebble clasts include greywacke(?), siltstone, metasediment with quartz vein",,,,,
+341-U1419A-6H-2-A,145,150,41.85,41.9,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,
+341-U1419A-6H-3-A,0,20,41.9,42.1,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],3,,,,,,,,,,"- no black mottles observed
+- pebble clasts include granitoid clasts, argillite(?), quartz",,,,,
+341-U1419A-6H-3-A,20,23,42.1,42.13,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-6H-3-A,23,53,42.13,42.43,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,,,,,,,,"- no black mottles observed
+- pebble clasts include siltstone",,,,,
+341-U1419A-6H-3-A,53,56,42.43,42.46,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-6H-3-A,56,150,42.46,43.4,,mud [Leg210],with dispersed clasts,mud  with dispersed clasts,,,,10Y 4/1 (dark greenish gray),,,present [A79],7,,,,,,,,,,"- no black mottles observed
+- pebble clasts include siltstone, greenstone and greywacke(?)",,,,,
+341-U1419A-6H-4-A,0,31,43.4,43.71,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),slight [DB86],1,present [A79],7,,,,,,,,,,few black mottles occur; clasts include mainly granules and pebbles of black metasiltstone and greenstone,,,,,
+341-U1419A-6H-4-A,31,33,43.71,43.73,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-6H-4-A,33,145,43.73,44.85,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),slight [DB86],1,present [A79],7,,,,,,,,,,few black mottles occur; clasts include mainly granules and pebbles of black metasiltstone and greenstone; outsized siltstone clast (5x3 cm) @ 83-88 cm (with quartz vein); outsized lonestone @ 125 - 131 cm (green-red igneous rock with quartz),,,,,
+341-U1419A-6H-4-A,145,150,44.85,44.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-6H-5-A,0,108,44.9,45.98,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),,,present [A79],8,,,,,,,,,,very few black mottles; clasts include mainly granules and pebbles of black metasiltstone and greenstone,,,,,
+341-U1419A-6H-5-A,108,145,45.98,46.35,,mud [Leg210],with biogenic components [Leg339],mud  with biogenic components ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],16,,,,,,,,,,mud with biosilica and calcareous components,,,,,
+341-U1419A-6H-5-A,145,150,46.35,46.4,sandy,mud [Leg210],with dispersed clasts,sandy mud with dispersed clasts,,,,N 4 (dark gray),,,present [A79],3,,,,,,,,,,very few black mottles; clasts include mainly granules and pebbles of black metasiltstone and greenstone,,,,,
+341-U1419A-6H-6-A,0,146,46.4,47.86,sandy,mud [Leg210],with dispersed clasts,sandy mud with dispersed clasts,,,,N 4 (dark gray),slight [DB86],1,present [A79],14,,,,,,,,,,few black mottles; clasts include mainly granules of black metasiltstone and greenstone; slightly sandier interval between 25 and 31 cm; sandy diamict patch @ 79 to 83 cm,,,,,
+341-U1419A-6H-CC-A,0,17,47.86,48.03,sandy,mud [Leg210],,sandy mud,,,,N 4 (dark gray),,,,,,,,,,,,,,very few black mottles,,,,,
+341-U1419A-6H-CC-A,17,23,48.03,48.09,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-8H-1-A,0,155,57.9,59.45,,mud [Leg210],with diatoms [Leg339],mud with diatoms ,,,,N 4 (dark gray),moderate [DB86],2,present [A79],13,,,,,,,,,,"- massive mud with diatoms
 - diatoms found in smear slide from section 1, 41 cm (also 10% sand); smear slide from section 1, 112 cm: mud
 - slight colour banding between N4 and 10Y 4/1
 - scattered sand and mud patches; sand patches up to coarse sand
 - scattered lonestones (<1 cm)
 - two sand laminae and one sand bed with erosive lower boundaries; continuous and discontinuous
-- scattered black mottles",,,,,,341,U1419,A,8,H,1,A,,,
-341-U1419A-8H-2-A,0.0,13.0,59.45,59.58,,mud [Leg210],with diatoms [Leg339],mud with diatoms ,,,,N 4 (dark gray),moderate [DB86],2.0,present [A79],2.0,,,,,,,,,,"- massive mud with diatoms
+- scattered black mottles",,,,,
+341-U1419A-8H-2-A,0,13,59.45,59.58,,mud [Leg210],with diatoms [Leg339],mud with diatoms ,,,,N 4 (dark gray),moderate [DB86],2,present [A79],2,,,,,,,,,,"- massive mud with diatoms
 - diatoms found in smear slide from section 1, 41 cm (also 10% sand); smear slide from section 1, 112 cm: mud
 - slight colour banding between N4 and 10Y 4/1
 - scattered sand and mud patches; sand patches up to coarse sand
 - scattered lonestones (<1 cm)
-- scattered black mottles",gradational contact,,,,,341,U1419,A,8,H,2,A,,,
-341-U1419A-8H-2-A,13.0,47.0,59.58,59.92,,interbedded sand(stone) and mud(stone) [McKW53],with silt [Leg339],interbedded sand(stone) and mud(stone) with silt ,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],2.0,,,,,,,,,,"- interbedded fine sand and mud
+- scattered black mottles",gradational contact,,,,
+341-U1419A-8H-2-A,13,47,59.58,59.92,,interbedded sand(stone) and mud(stone) [McKW53],with silt [Leg339],interbedded sand(stone) and mud(stone) with silt ,,,,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- interbedded fine sand and mud
 - with silt
 - graded from fine sand to very fine sand / silt
 - 13 laminae and beds
 - max. 3.5 cm thick
 - erosive lower and sharp upper boundaries
 - spacing: ~2 mm - ~4 cm
-- lonestones <1 cm",gradational contact,,,,,341,U1419,A,8,H,2,A,,,
-341-U1419A-8H-2-A,47.0,148.0,59.92,60.93,,mud [Leg210],,mud,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2.0,present [A79],7.0,,,,,,,,,,"- massive mud
+- lonestones <1 cm",gradational contact,,,,
+341-U1419A-8H-2-A,47,148,59.92,60.93,,mud [Leg210],,mud,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],7,,,,,,,,,,"- massive mud
 - scattered black mottles (< 5 mm)
-- scattered granule clasts",,,,,,341,U1419,A,8,H,2,A,,,
-341-U1419A-8H-2-A,148.0,154.0,60.93,60.99,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,,341,U1419,A,8,H,2,A,,,
-341-U1419A-8H-3-A,0.0,70.0,60.99,61.69,,mud [Leg210],,mud,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2.0,present [A79],6.0,,,,,,,,,,"- massive mud
+- scattered granule clasts",,,,,
+341-U1419A-8H-2-A,148,154,60.93,60.99,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,
+341-U1419A-8H-3-A,0,70,60.99,61.69,,mud [Leg210],,mud,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],6,,,,,,,,,,"- massive mud
 - scattered black mottles
 - scattered lonestones (granules and small pebbles)
-- gradational lower boundary",gradational contact,,,,,341,U1419,A,8,H,3,A,,,
-341-U1419A-8H-3-A,70.0,113.5,61.69,62.125,,diatom ooze [Leg339],with sand [Leg339],diatom ooze with sand ,,,,5Y 4/1 (dark gray),heavy [DB86],3.0,present [A79],2.0,,,,,,,,,,"- diatom ooze with one fine sand lamina and two silt laminae
+- gradational lower boundary",gradational contact,,,,
+341-U1419A-8H-3-A,70,113.5,61.69,62.125,,diatom ooze [Leg339],with sand [Leg339],diatom ooze with sand ,,,,5Y 4/1 (dark gray),heavy [DB86],3,present [A79],2,,,,,,,,,,"- diatom ooze with one fine sand lamina and two silt laminae
 - few black mottles
-",gradational contact,,,,,341,U1419,A,8,H,3,A,,,
-341-U1419A-8H-3-A,113.5,118.5,62.125,62.175,,mud [Leg210],,mud,,,,N 4 (dark gray),moderate [DB86],2.0,,,,,,,,,,,,- massive mud,sharp contact,,,,,341,U1419,A,8,H,3,A,,,
-341-U1419A-8H-3-A,118.5,120.5,62.175,62.195,volcaniclastic bearing,silt [Leg210],,volcaniclastic bearing silt,,,,N 4 (dark gray),moderate [DB86],2.0,,,,,,,,,,,,,,,,,,341,U1419,A,8,H,3,A,,,
-341-U1419A-8H-3-A,120.5,145.5,62.195,62.445,,mud [Leg210],,mud,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2.0,present [A79],6.0,,,,,,,,,,"- massive mud
+",gradational contact,,,,
+341-U1419A-8H-3-A,113.5,118.5,62.125,62.175,,mud [Leg210],,mud,,,,N 4 (dark gray),moderate [DB86],2,,,,,,,,,,,,- massive mud,sharp contact,,,,
+341-U1419A-8H-3-A,118.5,120.5,62.175,62.195,volcaniclastic bearing,silt [Leg210],,volcaniclastic bearing silt,,,,N 4 (dark gray),moderate [DB86],2,,,,,,,,,,,,,,,,,
+341-U1419A-8H-3-A,120.5,145.5,62.195,62.445,,mud [Leg210],,mud,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],6,,,,,,,,,,"- massive mud
 - scattered black mottles
 - scattered lonestones (granules and small pebbles)
-- gradational lower boundary",gradational contact,,,,,341,U1419,A,8,H,3,A,,,
-341-U1419A-8H-3-A,145.5,154.0,62.445,62.53,,mud [Leg210],,mud,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],2.0,,,,,,,,,,"- massive mud
+- gradational lower boundary",gradational contact,,,,
+341-U1419A-8H-3-A,145.5,154,62.445,62.53,,mud [Leg210],,mud,,,,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- massive mud
 - few black mottles
-~147: pebble of metasediment - shale with foliation?",,,,,,341,U1419,A,8,H,3,A,,,
-341-U1419A-8H-4-A,0.0,152.0,62.53,64.05,,mud [Leg210],,mud,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],19.0,,,,,,,,,,clayey mud with very few black mottles,,,,,,341,U1419,A,8,H,4,A,,,
-341-U1419A-8H-4-A,152.0,158.0,64.05,64.11,,,,,,,,,,,,,,,,,,,,,,IW sample,,,,,,341,U1419,A,8,H,4,A,,,
-341-U1419A-8H-5-A,0.0,155.0,64.11,65.66,,mud [Leg210],,mud,,,,N 4 (dark gray),slight [DB86],1.0,present [A79],25.0,,,,,,,shell fragment,,,"clayey mud with very few black mottles; shell fragments @ 110 cm; subrounded black metasediment pebble (4 cm) @ 8-12, 101, 128-131 and 134 (2 cm) cm",,,,,,341,U1419,A,8,H,5,A,,,
-341-U1419A-8H-6-A,0.0,153.0,65.66,67.19,,interbedded sand(stone) and mud(stone) [McKW53],,interbedded sand(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,mud interbedded with fine (well sorted) sand laminae (up to 1 cm) and beds (up to 3 cm); sharp lower boundaries; sand is 5Y 4/1 colored,,,,,,341,U1419,A,8,H,6,A,,,
-341-U1419A-8H-7-A,0.0,35.0,67.24,67.59,,interbedded sand(stone) and mud(stone) [McKW53],,interbedded sand(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,mud interbedded with fine (well sorted) sand laminae (up to 1 cm) and beds (up to 3 cm); sharp lower boundaries; sand is 5Y 4/1 colored,,,,,,341,U1419,A,8,H,7,A,,,
-341-U1419A-8H-7-A,35.0,73.0,67.59,67.97,,mud [Leg210],with sand [Leg339],mud with sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,"highly disturbed, mousselike and soupy, sand-mud mix",,,,,,341,U1419,A,8,H,7,A,,,
-341-U1419A-8H-CC-A,0.0,18.0,67.97,68.15,,mud [Leg210],with sand [Leg339],mud with sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,"highly disturbed, mousselike and soupy, sand-mud mix",,,,,,341,U1419,A,8,H,CC,A,,,
-341-U1419A-8H-CC-A,18.0,24.0,68.15,68.21,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,8,H,CC,A,,,
-341-U1419A-9H-1-A,0.0,74.0,67.4,68.14,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,N 4 (dark gray),moderate [DB86],2.0,present [A79],1.0,,,,,granule [W22_2],rounded,,,,"1 granule, argillite at 14 cm",,,,,,341,U1419,A,9,H,1,A,,,
-341-U1419A-9H-1-A,74.0,141.0,68.14,68.81,muddy [Leg339],sand [Leg210],,muddy [Leg339] sand,,,,N 4 (dark gray),,,present [A79],1.0,,,pebble [W22_2],subrounded,,,,,,"1 clast 5 cm, greywacke",,,,,,341,U1419,A,9,H,1,A,,,
-341-U1419A-9H-1-A,141.0,147.0,68.81,68.87,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,"fine sand, well sorted",,,,,,341,U1419,A,9,H,1,A,,,
-341-U1419A-9H-2-A,0.0,3.0,68.87,68.9,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,planar,,,,341,U1419,A,9,H,2,A,,,
-341-U1419A-9H-2-A,3.0,45.0,68.9,69.32,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,"8 silt laminae, mud 8 cm or less; ",gradational contact,,,,,341,U1419,A,9,H,2,A,,,
-341-U1419A-9H-2-A,45.0,70.0,69.32,69.57,,mud [Leg210],,mud,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,,,,,341,U1419,A,9,H,2,A,,,
-341-U1419A-9H-2-A,70.0,90.0,69.57,69.77,,sand [Leg210],with mud [Leg339],sand with mud ,,,,N 4 (dark gray),,,present [A79],1.0,,,,,,,,,,coarse sand,sharp contact,,,,,341,U1419,A,9,H,2,A,,,
-341-U1419A-9H-2-A,90.0,149.0,69.77,70.36,silty,mud [Leg210],,silty mud,,,,N 4 (dark gray),,,present [A79],10.0,,,pebble [W22_2],subrounded,granule [W22_2],subrounded,,,,granules and small pebbles,,,,,,341,U1419,A,9,H,2,A,,,
-341-U1419A-9H-2-A,149.0,154.0,70.36,70.41,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,9,H,2,A,,,
-341-U1419A-9H-3-A,0.0,57.0,70.41,70.98,silty,mud [Leg210],,silty mud,,,,N 4 (dark gray),,,present [A79],13.0,,,pebble [W22_2],rounded,pebble [W22_2],subangular,,,,"chert, 2.5 cm, rounded at 20 cm, argillie, subangular, 1.5 cm, at 24 cm, sandstone, 1.5 cm, subrounded, at 45 cm; ",,,,,,341,U1419,A,9,H,3,A,,,
-341-U1419A-9H-3-A,57.0,119.0,70.98,71.6,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,10Y 4/1 (dark greenish gray),,,present [A79],1.0,,,pebble [W22_2],subrounded,,,,,,"1 clast 3cm, sandstone, at 74 cm; 10 silt laminae, mud 10 cm or less; 
-",,,,,,341,U1419,A,9,H,3,A,,,
-341-U1419A-9H-3-A,119.0,148.0,71.6,71.89,,mud [Leg210],with silt [Leg339],mud with silt ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,9,H,3,A,,,
-341-U1419A-9H-4-A,0.0,14.0,71.89,72.03,diatom bearing,mud [Leg210],with silt [Leg339],diatom bearing mud with silt ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,absent [A79],,,,,,,,,,,,,,,,,341,U1419,A,9,H,4,A,,,
-341-U1419A-9H-4-A,14.0,30.0,72.03,72.19,,mud [Leg210],with silt [Leg339],mud with silt ,,,,10Y 3/1 (very dark greenish gray),none [DB86],0.0,present [A79],5.0,,,,,,,,,,,,,,,,341,U1419,A,9,H,4,A,,,
-341-U1419A-9H-4-A,30.0,51.0,72.19,72.4,diatom bearing,mud [Leg210],with silt [Leg339],diatom bearing mud with silt ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],1.0,,,,,,,,,,,,,,,,341,U1419,A,9,H,4,A,,,
-341-U1419A-9H-4-A,51.0,150.0,72.4,73.39,muddy [Leg339],silt [Leg210],,muddy [Leg339] silt,,,,N 4 (dark gray),none [DB86],0.0,present [A79],31.0,pebble [W22_2],subangular,pebble [W22_2],subrounded,,,,,,"clasts include chert breccia, siltstone, conglomerate greenstone;
-78cm - brown mud clast?",,,,,,341,U1419,A,9,H,4,A,,,
-341-U1419A-9H-4-A,150.0,155.0,73.39,73.44,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,9,H,4,A,,,
-341-U1419A-9H-5-A,0.0,114.0,73.44,74.58,muddy [Leg339],silt [Leg210],,muddy [Leg339] silt,,,,N 4 (dark gray),none [DB86],0.0,present [A79],27.0,,,,,,,shell fragment,,,"2cm siltstone @ 106cm;
-shell fragment @ 93cm",,,,,,341,U1419,A,9,H,5,A,,,
-341-U1419A-9H-CC-A,0.0,44.0,74.58,75.02,muddy [Leg339],silt [Leg210],,muddy [Leg339] silt,,,,N 4 (dark gray),none [DB86],0.0,present [A79],11.0,,,,,,,shell fragment,,,shell fragment @ 41cm,,,,,,341,U1419,A,9,H,CC,A,,,
-341-U1419A-9H-CC-A,44.0,49.0,75.02,75.07,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,9,H,CC,A,,,
-341-U1419A-10H-1-A,0.0,10.0,75.0,75.1,,mud [Leg210],,mud,,,,N 4 (dark gray),,,present [A79],2.0,,,pebble [W22_2],angular,,,,,,"2 metasandstone pebbles, 3 and 6 cm",,,,,,341,U1419,A,10,H,1,A,,,
-341-U1419A-10H-1-A,10.0,20.0,75.1,75.2,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,10,H,1,A,,,
-341-U1419A-10H-1-A,20.0,51.0,75.2,75.51,,mud [Leg210],,mud,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,,,,,,,341,U1419,A,10,H,1,A,,,
-341-U1419A-10H-1-A,51.0,55.0,75.51,75.55,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,10,H,1,A,,,
-341-U1419A-10H-1-A,55.0,112.0,75.55,76.12,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],,,,,,pebble [W22_2],subrounded,,,,"argillite granule at 72 cm, argillite pebble 3.5 cm at 98",,,,,,341,U1419,A,10,H,1,A,,,
-341-U1419A-10H-2-A,0.0,149.0,76.12,77.61,,mud [Leg210],with common clasts,mud with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"basalt pebble 3 cm at 115 cm, 2 argillite granules;",,,,,,341,U1419,A,10,H,2,A,,,
-341-U1419A-10H-3-A,0.0,12.0,77.61,77.73,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,10 silt laminae,gradational contact,,,,,341,U1419,A,10,H,3,A,,,
-341-U1419A-10H-3-A,12.0,15.0,77.73,77.76,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,planar,,,,341,U1419,A,10,H,3,A,,,
-341-U1419A-10H-3-A,15.0,149.0,77.76,79.1,diatom rich,mud [Leg210],,diatom rich mud,,,,10Y 3/1 (very dark greenish gray),,,present [A79],3.0,,,,,granule [W22_2],subrounded,,,,"3 lonestone granules, argillite; mud darkens downwards due to increase in black mottles (FeO); at cm 124 mud is only ""with diatoms"", =less than 10%",,,,,,341,U1419,A,10,H,3,A,,,
-341-U1419A-10H-4-A,0.0,146.0,79.1,80.56,,mud [Leg210],,mud ,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,silt lamina with white mica at 100 cm,,,,,,341,U1419,A,10,H,4,A,,,
-341-U1419A-10H-5-A,0.0,121.0,80.56,81.77,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],11.0,,,,,pebble [W22_2],subrounded,,,,"black mottling;
-metasiltstones @ 12, 103cm",gradational contact,,,,,341,U1419,A,10,H,5,A,,,
-341-U1419A-10H-5-A,121.0,139.0,81.77,81.95,diatom bearing,mud [Leg210],with radiolarians [Leg339],diatom bearing mud  with radiolarians ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],5.0,,,,,,,,,,,,,,,,341,U1419,A,10,H,5,A,,,
-341-U1419A-10H-6-A,0.0,119.0,81.95,83.14,diatom bearing,mud [Leg210],with radiolarians [Leg339],diatom bearing mud  with radiolarians ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],11.0,pebble [W22_2],subangular,,,,,shell fragment,,,"black mottling (thin);
+~147: pebble of metasediment - shale with foliation?",,,,,
+341-U1419A-8H-4-A,0,152,62.53,64.05,,mud [Leg210],,mud,,,,N 4 (dark gray),slight [DB86],1,present [A79],19,,,,,,,,,,clayey mud with very few black mottles,,,,,
+341-U1419A-8H-4-A,152,158,64.05,64.11,,,,,,,,,,,,,,,,,,,,,,IW sample,,,,,
+341-U1419A-8H-5-A,0,155,64.11,65.66,,mud [Leg210],,mud,,,,N 4 (dark gray),slight [DB86],1,present [A79],25,,,,,,,shell fragment,,,"clayey mud with very few black mottles; shell fragments @ 110 cm; subrounded black metasediment pebble (4 cm) @ 8-12, 101, 128-131 and 134 (2 cm) cm",,,,,
+341-U1419A-8H-6-A,0,153,65.66,67.19,,interbedded sand(stone) and mud(stone) [McKW53],,interbedded sand(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,mud interbedded with fine (well sorted) sand laminae (up to 1 cm) and beds (up to 3 cm); sharp lower boundaries; sand is 5Y 4/1 colored,,,,,
+341-U1419A-8H-7-A,0,35,67.24,67.59,,interbedded sand(stone) and mud(stone) [McKW53],,interbedded sand(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,mud interbedded with fine (well sorted) sand laminae (up to 1 cm) and beds (up to 3 cm); sharp lower boundaries; sand is 5Y 4/1 colored,,,,,
+341-U1419A-8H-7-A,35,73,67.59,67.97,,mud [Leg210],with sand [Leg339],mud with sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,"highly disturbed, mousselike and soupy, sand-mud mix",,,,,
+341-U1419A-8H-CC-A,0,18,67.97,68.15,,mud [Leg210],with sand [Leg339],mud with sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,"highly disturbed, mousselike and soupy, sand-mud mix",,,,,
+341-U1419A-8H-CC-A,18,24,68.15,68.21,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-9H-1-A,0,74,67.4,68.14,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,N 4 (dark gray),moderate [DB86],2,present [A79],1,,,,,granule [W22_2],rounded,,,,"1 granule, argillite at 14 cm",,,,,
+341-U1419A-9H-1-A,74,141,68.14,68.81,muddy [Leg339],sand [Leg210],,muddy [Leg339] sand,,,,N 4 (dark gray),,,present [A79],1,,,pebble [W22_2],subrounded,,,,,,"1 clast 5 cm, greywacke",,,,,
+341-U1419A-9H-1-A,141,147,68.81,68.87,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,"fine sand, well sorted",,,,,
+341-U1419A-9H-2-A,0,3,68.87,68.9,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,planar,,,
+341-U1419A-9H-2-A,3,45,68.9,69.32,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,"8 silt laminae, mud 8 cm or less; ",gradational contact,,,,
+341-U1419A-9H-2-A,45,70,69.32,69.57,,mud [Leg210],,mud,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,,,,
+341-U1419A-9H-2-A,70,90,69.57,69.77,,sand [Leg210],with mud [Leg339],sand with mud ,,,,N 4 (dark gray),,,present [A79],1,,,,,,,,,,coarse sand,sharp contact,,,,
+341-U1419A-9H-2-A,90,149,69.77,70.36,silty,mud [Leg210],,silty mud,,,,N 4 (dark gray),,,present [A79],10,,,pebble [W22_2],subrounded,granule [W22_2],subrounded,,,,granules and small pebbles,,,,,
+341-U1419A-9H-2-A,149,154,70.36,70.41,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-9H-3-A,0,57,70.41,70.98,silty,mud [Leg210],,silty mud,,,,N 4 (dark gray),,,present [A79],13,,,pebble [W22_2],rounded,pebble [W22_2],subangular,,,,"chert, 2.5 cm, rounded at 20 cm, argillie, subangular, 1.5 cm, at 24 cm, sandstone, 1.5 cm, subrounded, at 45 cm; ",,,,,
+341-U1419A-9H-3-A,57,119,70.98,71.6,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,pebble [W22_2],subrounded,,,,,,"1 clast 3cm, sandstone, at 74 cm; 10 silt laminae, mud 10 cm or less; 
+",,,,,
+341-U1419A-9H-3-A,119,148,71.6,71.89,,mud [Leg210],with silt [Leg339],mud with silt ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-9H-4-A,0,14,71.89,72.03,diatom bearing,mud [Leg210],with silt [Leg339],diatom bearing mud with silt ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,absent [A79],,,,,,,,,,,,,,,,
+341-U1419A-9H-4-A,14,30,72.03,72.19,,mud [Leg210],with silt [Leg339],mud with silt ,,,,10Y 3/1 (very dark greenish gray),none [DB86],0,present [A79],5,,,,,,,,,,,,,,,
+341-U1419A-9H-4-A,30,51,72.19,72.4,diatom bearing,mud [Leg210],with silt [Leg339],diatom bearing mud with silt ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],1,,,,,,,,,,,,,,,
+341-U1419A-9H-4-A,51,150,72.4,73.39,muddy [Leg339],silt [Leg210],,muddy [Leg339] silt,,,,N 4 (dark gray),none [DB86],0,present [A79],31,pebble [W22_2],subangular,pebble [W22_2],subrounded,,,,,,"clasts include chert breccia, siltstone, conglomerate greenstone;
+78cm - brown mud clast?",,,,,
+341-U1419A-9H-4-A,150,155,73.39,73.44,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-9H-5-A,0,114,73.44,74.58,muddy [Leg339],silt [Leg210],,muddy [Leg339] silt,,,,N 4 (dark gray),none [DB86],0,present [A79],27,,,,,,,shell fragment,,,"2cm siltstone @ 106cm;
+shell fragment @ 93cm",,,,,
+341-U1419A-9H-CC-A,0,44,74.58,75.02,muddy [Leg339],silt [Leg210],,muddy [Leg339] silt,,,,N 4 (dark gray),none [DB86],0,present [A79],11,,,,,,,shell fragment,,,shell fragment @ 41cm,,,,,
+341-U1419A-9H-CC-A,44,49,75.02,75.07,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-10H-1-A,0,10,75,75.1,,mud [Leg210],,mud,,,,N 4 (dark gray),,,present [A79],2,,,pebble [W22_2],angular,,,,,,"2 metasandstone pebbles, 3 and 6 cm",,,,,
+341-U1419A-10H-1-A,10,20,75.1,75.2,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-10H-1-A,20,51,75.2,75.51,,mud [Leg210],,mud,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,,,,,,
+341-U1419A-10H-1-A,51,55,75.51,75.55,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-10H-1-A,55,112,75.55,76.12,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],,,,,,pebble [W22_2],subrounded,,,,"argillite granule at 72 cm, argillite pebble 3.5 cm at 98",,,,,
+341-U1419A-10H-2-A,0,149,76.12,77.61,,mud [Leg210],with common clasts,mud with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,"basalt pebble 3 cm at 115 cm, 2 argillite granules;",,,,,
+341-U1419A-10H-3-A,0,12,77.61,77.73,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone),,,,N 4 (dark gray),,,,,,,,,,,,,,10 silt laminae,gradational contact,,,,
+341-U1419A-10H-3-A,12,15,77.73,77.76,,sand [Leg210],,sand,,,,N 4 (dark gray),,,,,,,,,,,,,,,sharp contact,planar,,,
+341-U1419A-10H-3-A,15,149,77.76,79.1,diatom rich,mud [Leg210],,diatom rich mud,,,,10Y 3/1 (very dark greenish gray),,,present [A79],3,,,,,granule [W22_2],subrounded,,,,"3 lonestone granules, argillite; mud darkens downwards due to increase in black mottles (FeO); at cm 124 mud is only ""with diatoms"", =less than 10%",,,,,
+341-U1419A-10H-4-A,0,146,79.1,80.56,,mud [Leg210],,mud ,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,silt lamina with white mica at 100 cm,,,,,
+341-U1419A-10H-5-A,0,121,80.56,81.77,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,N 4 (dark gray),none [DB86],0,present [A79],11,,,,,pebble [W22_2],subrounded,,,,"black mottling;
+metasiltstones @ 12, 103cm",gradational contact,,,,
+341-U1419A-10H-5-A,121,139,81.77,81.95,diatom bearing,mud [Leg210],with radiolarians [Leg339],diatom bearing mud  with radiolarians ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],5,,,,,,,,,,,,,,,
+341-U1419A-10H-6-A,0,119,81.95,83.14,diatom bearing,mud [Leg210],with radiolarians [Leg339],diatom bearing mud  with radiolarians ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],11,pebble [W22_2],subangular,,,,,shell fragment,,,"black mottling (thin);
 granite (1.5cm) @17cm;
 shell fragment @ 90cm
-",,,,,,341,U1419,A,10,H,6,A,,,
-341-U1419A-10H-CC-A,0.0,18.0,83.14,83.32,diatom bearing,mud [Leg210],with radiolarians [Leg339],diatom bearing mud  with radiolarians ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],4.0,,,,,,,,,,,,,,,,341,U1419,A,10,H,CC,A,,,
-341-U1419A-10H-CC-A,18.0,22.0,83.32,83.36,,mud [Leg210],with foraminifers [Leg339],mud  with foraminifers ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,absent [A79],,,,,,,,,,,many microscopic donut shaped fossils,,,,,,341,U1419,A,10,H,CC,A,,,
-341-U1419A-10H-CC-A,22.0,60.0,83.36,83.74,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],1.0,,,,,,,,,,51cm: thin layer of mica,,,,,,341,U1419,A,10,H,CC,A,,,
-341-U1419A-10H-CC-A,60.0,65.0,83.74,83.79,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,10,H,CC,A,,,
-341-U1419A-11H-1-A,0.0,130.0,84.5,85.8,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],7.0,,,,,pebble [W22_2],rounded,,,,"argillite clast, elongate, 3 cm, rounded, at 70 cm; all other clasts granules; cottage cheese structure",,,,,,341,U1419,A,11,H,1,A,,,
-341-U1419A-11H-2-A,0.0,50.0,85.8,86.3,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],1.0,,,,,pebble [W22_2],rounded,,,,"metasiltstone pebble 2 cm at 8 cm; many horizontal and irregular cracks, due to drying?",gradational contact,,,,,341,U1419,A,11,H,2,A,,,
-341-U1419A-11H-2-A,50.0,122.0,86.3,87.02,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,10Y 5/1 (greenish gray),,,present [A79],2.0,,,,,pebble [W22_2],subangular,,,,"metasiltstone pebble 1.4 cm at 83 cm, argillite 3 cm at 54 cm; many horizontal and irregular cracks, due to drying?",,,,,,341,U1419,A,11,H,2,A,,,
-341-U1419A-11H-2-A,122.0,132.0,87.02,87.12,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,11,H,2,A,,,
-341-U1419A-11H-3-A,0.0,92.0,87.12,88.04,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],2.0,,,,,,,shell fragment,,,"shell fragments: 10, 37cm;
-thin/small black mottles",,,,,,341,U1419,A,11,H,3,A,,,
-341-U1419A-11H-CC-A,0.0,20.0,88.04,88.24,silty,mud [Leg210],with diatoms [Leg339],silty mud  with diatoms ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],1.0,,,,,,,,,,,,,,,,341,U1419,A,11,H,CC,A,,,
-341-U1419A-11H-CC-A,20.0,25.0,88.24,88.29,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,11,H,CC,A,,,
-341-U1419A-12H-1-A,0.0,34.0,88.2,88.54,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1419,A,12,H,1,A,,,
-341-U1419A-12H-1-A,34.0,140.0,88.54,89.6,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],5.0,,,,,granule [W22_2],subrounded,,,,5 argillite granules dispersed,,,,,,341,U1419,A,12,H,1,A,,,
-341-U1419A-12H-2-A,0.0,140.0,89.6,91.0,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],11.0,,,,,pebble [W22_2],rounded,,,,argillite pebble 2.5 cm at 116 cm; 10 argillite granules dispersed,,,,,,341,U1419,A,12,H,2,A,,,
-341-U1419A-12H-3-A,0.0,140.0,91.0,92.4,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],4.0,,,,,pebble [W22_2],subrounded,,,,"4 argillite pebbles 2 - 3 cm at 33, 52, 112, 126 cm; ",,,,,,341,U1419,A,12,H,3,A,,,
-341-U1419A-12H-4-A,0.0,140.0,92.5,93.9,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],23.0,,,,,,,shell fragment,,,"shell fragment @ 2.5cm;
-suck-in present in many other sections - may be present in this section but not obvious",,,,,,341,U1419,A,12,H,4,A,,,
-341-U1419A-12H-5-A,0.0,97.0,93.9,94.87,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],7.0,,,,,,,,,,,gradational contact,,,,,341,U1419,A,12,H,5,A,,,
-341-U1419A-12H-5-A,97.0,140.0,94.87,95.3,,mud [Leg210],with sand [Leg339],mud  with sand ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],5.0,,,,,,,,,,sand patches,,,,,,341,U1419,A,12,H,5,A,,,
-341-U1419A-12H-6-A,0.0,43.0,95.3,95.73,,mud [Leg210],with sand [Leg339],mud  with sand ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],9.0,,,,,,,,,,sand patches,gradational contact,,,,,341,U1419,A,12,H,6,A,,,
-341-U1419A-12H-6-A,43.0,140.0,95.73,96.7,diatom bearing,mud [Leg210],with sand [Leg339],diatom bearing mud  with sand ,,,,10Y 4/2 (grayish green),none [DB86],0.0,present [A79],18.0,,,,,pebble [W22_2],subrounded,,,,96cm: argillite with fabric,,,,,,341,U1419,A,12,H,6,A,,,
-341-U1419A-12H-7-A,0.0,30.0,96.7,97.0,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/2 (grayish green),none [DB86],0.0,present [A79],4.0,,,,,,,,,,"thin/small black mottles;
-sand suck-in up the middle",gradational contact,,,,,341,U1419,A,12,H,7,A,,,
-341-U1419A-12H-7-A,30.0,85.0,97.0,97.55,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],2.0,,,,,,,,,,,,,,,,341,U1419,A,12,H,7,A,,,
-341-U1419A-12H-CC-A,0.0,16.0,97.55,97.71,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],1.0,,,,,cobble [W22_2],subangular,,,,8cm argillite clast (0-8cm depth),,,,,,341,U1419,A,12,H,CC,A,,,
-341-U1419A-12H-CC-A,16.0,21.0,97.71,97.76,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,12,H,CC,A,,,
-341-U1419A-13H-1-A,0.0,60.0,97.7,98.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,argillite clast 5 x 0.5 x 5 cm in WH at 30 cm,,,,,,341,U1419,A,13,H,1,A,,,
-341-U1419A-13H-CC-A,0.0,6.0,98.3,98.36,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1.0,,,pebble [W22_2],rounded,,,,,,"siltstone, elongate, 5 cm",,,,,,341,U1419,A,13,H,CC,A,,,
-341-U1419A-13H-CC-A,6.0,11.0,98.36,98.41,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,13,H,CC,A,,,
-341-U1419A-14H-1-A,0.0,28.0,98.4,98.68,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1.0,,,pebble [W22_2],rounded,,,,,,"siltstone pebble 4 cm, rounded, elongate, at 24 cm;",,,,,,341,U1419,A,14,H,1,A,,,
-341-U1419A-14H-1-A,28.0,140.0,98.68,99.8,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],3.0,,,,,pebble [W22_2],rounded,,,,"argillite pebble 2 cm at 132 cm, 2 argillite granules at 83 and 112 cm",,,,,,341,U1419,A,14,H,1,A,,,
-341-U1419A-14H-1-A,140.0,150.0,99.8,99.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,14,H,1,A,,,
-341-U1419A-14H-2-A,0.0,150.0,99.9,101.4,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],4.0,,,,,,,shell fragment,,,"117-118cm: shell fragments;
->10 small (1-2mm) clasts throughout",,,,,,341,U1419,A,14,H,2,A,,,
-341-U1419A-14H-3-A,0.0,61.0,101.4,102.01,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],5.0,,,,,,,,,,22cm: shell fragment,gradational contact,,,,,341,U1419,A,14,H,3,A,,,
-341-U1419A-14H-3-A,61.0,79.0,102.01,102.19,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],1.0,,,,,,,shell fragment,,,,,,,,,341,U1419,A,14,H,3,A,,,
-341-U1419A-14H-CC-A,0.0,25.0,102.19,102.44,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0.0,present [A79],2.0,,,,,,,shell fragment,,,18cm: shell fragment,,,,,,341,U1419,A,14,H,CC,A,,,
-341-U1419A-14H-CC-A,25.0,30.0,102.44,102.49,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,14,H,CC,A,,,
-341-U1419A-15H-1-A,0.0,26.0,103.1,103.36,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1419,A,15,H,1,A,,,
-341-U1419A-15H-1-A,26.0,42.0,103.36,103.52,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1419,A,15,H,1,A,,,
-341-U1419A-15H-1-A,42.0,139.0,103.52,104.49,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],10.0,pebble [W22_2],subangular,,,pebble [W22_2],subrounded,,,,"argillite pebbles 0.7 and 0.8 cm at 76 and 78 cm, 0.6 cm at 95 cm; 6 granules dispersed;",,,,,,341,U1419,A,15,H,1,A,,,
-341-U1419A-15H-CC-A,0.0,19.0,104.49,104.68,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],2.0,,,pebble [W22_2],rounded,,,,,,sandstone pebble 1.5 cm at 12; granule at 4 cm;,,,,,,341,U1419,A,15,H,CC,A,,,
-341-U1419A-15H-CC-A,19.0,24.0,104.68,104.73,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,15,H,CC,A,,,
-341-U1419A-16H-1-A,0.0,140.0,104.7,106.1,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],10.0,pebble [W22_2],subrounded,pebble [W22_2],rounded,pebble [W22_2],subrounded,,,,"argillite pebbles at 7, 34, 105, 124 cm, sandstone pebbles at 10, 58, 94 cm, granitoid pebble at 93 cm; 2 argillite granules; ",,,,,,341,U1419,A,16,H,1,A,,,
-341-U1419A-16H-2-A,0.0,140.0,106.1,107.5,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],13.0,,,pebble [W22_2],subrounded,pebble [W22_2],subangular,shell fragment,,,"clasts include silt/sandstone and argillite;
+",,,,,
+341-U1419A-10H-CC-A,0,18,83.14,83.32,diatom bearing,mud [Leg210],with radiolarians [Leg339],diatom bearing mud  with radiolarians ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],4,,,,,,,,,,,,,,,
+341-U1419A-10H-CC-A,18,22,83.32,83.36,,mud [Leg210],with foraminifers [Leg339],mud  with foraminifers ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,absent [A79],,,,,,,,,,,many microscopic donut shaped fossils,,,,,
+341-U1419A-10H-CC-A,22,60,83.36,83.74,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],1,,,,,,,,,,51cm: thin layer of mica,,,,,
+341-U1419A-10H-CC-A,60,65,83.74,83.79,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-11H-1-A,0,130,84.5,85.8,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],7,,,,,pebble [W22_2],rounded,,,,"argillite clast, elongate, 3 cm, rounded, at 70 cm; all other clasts granules; cottage cheese structure",,,,,
+341-U1419A-11H-2-A,0,50,85.8,86.3,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,,,pebble [W22_2],rounded,,,,"metasiltstone pebble 2 cm at 8 cm; many horizontal and irregular cracks, due to drying?",gradational contact,,,,
+341-U1419A-11H-2-A,50,122,86.3,87.02,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,10Y 5/1 (greenish gray),,,present [A79],2,,,,,pebble [W22_2],subangular,,,,"metasiltstone pebble 1.4 cm at 83 cm, argillite 3 cm at 54 cm; many horizontal and irregular cracks, due to drying?",,,,,
+341-U1419A-11H-2-A,122,132,87.02,87.12,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-11H-3-A,0,92,87.12,88.04,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],2,,,,,,,shell fragment,,,"shell fragments: 10, 37cm;
+thin/small black mottles",,,,,
+341-U1419A-11H-CC-A,0,20,88.04,88.24,silty,mud [Leg210],with diatoms [Leg339],silty mud  with diatoms ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],1,,,,,,,,,,,,,,,
+341-U1419A-11H-CC-A,20,25,88.24,88.29,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-12H-1-A,0,34,88.2,88.54,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,
+341-U1419A-12H-1-A,34,140,88.54,89.6,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],5,,,,,granule [W22_2],subrounded,,,,5 argillite granules dispersed,,,,,
+341-U1419A-12H-2-A,0,140,89.6,91,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],11,,,,,pebble [W22_2],rounded,,,,argillite pebble 2.5 cm at 116 cm; 10 argillite granules dispersed,,,,,
+341-U1419A-12H-3-A,0,140,91,92.4,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],4,,,,,pebble [W22_2],subrounded,,,,"4 argillite pebbles 2 - 3 cm at 33, 52, 112, 126 cm; ",,,,,
+341-U1419A-12H-4-A,0,140,92.5,93.9,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],23,,,,,,,shell fragment,,,"shell fragment @ 2.5cm;
+suck-in present in many other sections - may be present in this section but not obvious",,,,,
+341-U1419A-12H-5-A,0,97,93.9,94.87,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],7,,,,,,,,,,,gradational contact,,,,
+341-U1419A-12H-5-A,97,140,94.87,95.3,,mud [Leg210],with sand [Leg339],mud  with sand ,,,,N 4 (dark gray),none [DB86],0,present [A79],5,,,,,,,,,,sand patches,,,,,
+341-U1419A-12H-6-A,0,43,95.3,95.73,,mud [Leg210],with sand [Leg339],mud  with sand ,,,,N 4 (dark gray),none [DB86],0,present [A79],9,,,,,,,,,,sand patches,gradational contact,,,,
+341-U1419A-12H-6-A,43,140,95.73,96.7,diatom bearing,mud [Leg210],with sand [Leg339],diatom bearing mud  with sand ,,,,10Y 4/2 (grayish green),none [DB86],0,present [A79],18,,,,,pebble [W22_2],subrounded,,,,96cm: argillite with fabric,,,,,
+341-U1419A-12H-7-A,0,30,96.7,97,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/2 (grayish green),none [DB86],0,present [A79],4,,,,,,,,,,"thin/small black mottles;
+sand suck-in up the middle",gradational contact,,,,
+341-U1419A-12H-7-A,30,85,97,97.55,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],2,,,,,,,,,,,,,,,
+341-U1419A-12H-CC-A,0,16,97.55,97.71,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],1,,,,,cobble [W22_2],subangular,,,,8cm argillite clast (0-8cm depth),,,,,
+341-U1419A-12H-CC-A,16,21,97.71,97.76,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-13H-1-A,0,60,97.7,98.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,argillite clast 5 x 0.5 x 5 cm in WH at 30 cm,,,,,
+341-U1419A-13H-CC-A,0,6,98.3,98.36,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1,,,pebble [W22_2],rounded,,,,,,"siltstone, elongate, 5 cm",,,,,
+341-U1419A-13H-CC-A,6,11,98.36,98.41,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-14H-1-A,0,28,98.4,98.68,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1,,,pebble [W22_2],rounded,,,,,,"siltstone pebble 4 cm, rounded, elongate, at 24 cm;",,,,,
+341-U1419A-14H-1-A,28,140,98.68,99.8,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],3,,,,,pebble [W22_2],rounded,,,,"argillite pebble 2 cm at 132 cm, 2 argillite granules at 83 and 112 cm",,,,,
+341-U1419A-14H-1-A,140,150,99.8,99.9,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-14H-2-A,0,150,99.9,101.4,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],4,,,,,,,shell fragment,,,"117-118cm: shell fragments;
+>10 small (1-2mm) clasts throughout",,,,,
+341-U1419A-14H-3-A,0,61,101.4,102.01,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],5,,,,,,,,,,22cm: shell fragment,gradational contact,,,,
+341-U1419A-14H-3-A,61,79,102.01,102.19,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],1,,,,,,,shell fragment,,,,,,,,
+341-U1419A-14H-CC-A,0,25,102.19,102.44,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),none [DB86],0,present [A79],2,,,,,,,shell fragment,,,18cm: shell fragment,,,,,
+341-U1419A-14H-CC-A,25,30,102.44,102.49,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-15H-1-A,0,26,103.1,103.36,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,
+341-U1419A-15H-1-A,26,42,103.36,103.52,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,gradational contact,,,,
+341-U1419A-15H-1-A,42,139,103.52,104.49,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],10,pebble [W22_2],subangular,,,pebble [W22_2],subrounded,,,,"argillite pebbles 0.7 and 0.8 cm at 76 and 78 cm, 0.6 cm at 95 cm; 6 granules dispersed;",,,,,
+341-U1419A-15H-CC-A,0,19,104.49,104.68,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],2,,,pebble [W22_2],rounded,,,,,,sandstone pebble 1.5 cm at 12; granule at 4 cm;,,,,,
+341-U1419A-15H-CC-A,19,24,104.68,104.73,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-16H-1-A,0,140,104.7,106.1,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],10,pebble [W22_2],subrounded,pebble [W22_2],rounded,pebble [W22_2],subrounded,,,,"argillite pebbles at 7, 34, 105, 124 cm, sandstone pebbles at 10, 58, 94 cm, granitoid pebble at 93 cm; 2 argillite granules; ",,,,,
+341-U1419A-16H-2-A,0,140,106.1,107.5,,mud [Leg210],with diatoms [Leg339],mud  with diatoms ,,,,N 4 (dark gray),none [DB86],0,present [A79],13,,,pebble [W22_2],subrounded,pebble [W22_2],subangular,shell fragment,,,"clasts include silt/sandstone and argillite;
 39cm: shell fragment
-61cm: void from granite in working half",,,,,,341,U1419,A,16,H,2,A,,,
-341-U1419A-16H-3-A,0.0,116.0,107.5,108.66,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],9.0,pebble [W22_2],subangular,pebble [W22_2],subangular,,,,,,"17cm: laminae of sand - in place? along a crack;
+61cm: void from granite in working half",,,,,
+341-U1419A-16H-3-A,0,116,107.5,108.66,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],9,pebble [W22_2],subangular,pebble [W22_2],subangular,,,,,,"17cm: laminae of sand - in place? along a crack;
 52-54cm: 2cm sandstone;
 58cm: 1cm sandstone;
-61-64cm: 3.5cm granite",,,,,,341,U1419,A,16,H,3,A,,,
-341-U1419A-16H-3-A,116.0,126.0,108.66,108.76,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,16,H,3,A,,,
-341-U1419A-16H-4-A,0.0,56.0,108.76,109.32,silty,mud [Leg210],,silty mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],6.0,,,,,,,,,,54-55cm: broken siltstone (~2cm),,,,,,341,U1419,A,16,H,4,A,,,
-341-U1419A-16H-CC-A,0.0,22.0,109.32,109.54,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],5.0,,,,,pebble [W22_2],rounded,,,,20cm: 1.5cm metasiltstone,,,,,,341,U1419,A,16,H,CC,A,,,
-341-U1419A-16H-CC-A,22.0,27.0,109.54,109.59,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,16,H,CC,A,,,
-341-U1419A-17H-1-A,0.0,70.0,109.4,110.1,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1419,A,17,H,1,A,,,
-341-U1419A-17H-1-A,70.0,141.0,110.1,110.81,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,17,H,1,A,,,
-341-U1419A-17H-1-A,141.0,145.0,110.81,110.85,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,17,H,1,A,,,
-341-U1419A-17H-2-A,0.0,37.0,110.85,111.22,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,,341,U1419,A,17,H,2,A,,,
-341-U1419A-17H-2-A,37.0,145.0,111.22,112.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],9.0,,,,,granule [W22_2],subrounded,,,,"9 argillite granules, dispersed",,,,,,341,U1419,A,17,H,2,A,,,
-341-U1419A-17H-3-A,0.0,130.0,112.3,113.6,silty,mud [Leg210],,silty mud ,,,,N 4 (dark gray),,,present [A79],9.0,,,,,pebble [W22_2],subrounded,,,,"9 pebbles and granules, dispersed",,,,,,341,U1419,A,17,H,3,A,,,
-341-U1419A-17H-CC-A,0.0,15.0,113.6,113.75,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],3.0,,,,,,,,,,3 granules,,,,,,341,U1419,A,17,H,CC,A,,,
-341-U1419A-17H-CC-A,15.0,20.0,113.75,113.8,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,17,H,CC,A,,,
-341-U1419A-18H-1-A,0.0,137.0,113.8,115.17,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0.0,,,,,,,,,,,,"argillites @ 11, 29, 50, 66, 92, 109, 113cm",,,,,,341,U1419,A,18,H,1,A,,,
-341-U1419A-18H-1-A,137.0,140.0,115.17,115.2,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,18,H,1,A,,,
-341-U1419A-18H-1-A,140.0,150.0,115.2,115.3,,,,,,,,,,,,,,,,,,,,,,IW,,,,,,341,U1419,A,18,H,1,A,,,
-341-U1419A-18H-2-A,0.0,88.0,115.3,116.18,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0.0,,,,,,,,,,,,"argillites @ 4, 19, 40, 47, 67cm",,,,,,341,U1419,A,18,H,2,A,,,
-341-U1419A-18H-CC-A,0.0,22.0,116.18,116.4,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0.0,,,,,,,,,,,,"argillites @ 5, 20cm",,,,,,341,U1419,A,18,H,CC,A,,,
-341-U1419A-18H-CC-A,22.0,27.0,116.4,116.45,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,18,H,CC,A,,,
-341-U1419A-19H-1-A,0.0,131.0,116.4,117.71,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0.0,,,,,,,,,,,,"argillites @ 18, 77cm;
-green sandstones (~4cm) @ 70, 115cm",,,,,,341,U1419,A,19,H,1,A,,,
-341-U1419A-19H-2-A,0.0,60.0,117.71,118.31,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0.0,,,,,,,,,,,,"argillites @ 23, 53, 58cm",,,,,,341,U1419,A,19,H,2,A,,,
-341-U1419A-19H-2-A,60.0,63.0,118.31,118.34,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,19,H,2,A,,,
-341-U1419A-19H-CC-A,0.0,16.0,118.34,118.5,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0.0,,,,,,,,,,,,"argillites, siltstone(?)",,,,,,341,U1419,A,19,H,CC,A,,,
-341-U1419A-19H-CC-A,16.0,21.0,118.5,118.55,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,19,H,CC,A,,,
-341-U1419A-21X-1-A,0.0,90.0,118.6,119.5,silty,mud [Leg210],with abundant clasts,silty mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,21,X,1,A,,,
-341-U1419A-21X-1-A,90.0,97.0,119.5,119.57,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,21,X,1,A,,,
-341-U1419A-21X-CC-A,0.0,43.0,119.57,120.0,silty,mud [Leg210],with abundant clasts,silty mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1419,A,21,X,CC,A,,,
-341-U1419A-21X-CC-A,43.0,48.0,120.0,120.05,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,21,X,CC,A,,,
-341-U1419A-23X-1-A,0.0,40.0,138.0,138.4,,clast-rich diamict [M89m],,clast-rich diamict ,trace amount,1.0,,N 4 (dark gray),none [DB86],0.0,present [A79],,,,,,,,,,,"- clast rich diamict
+61-64cm: 3.5cm granite",,,,,
+341-U1419A-16H-3-A,116,126,108.66,108.76,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-16H-4-A,0,56,108.76,109.32,silty,mud [Leg210],,silty mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],6,,,,,,,,,,54-55cm: broken siltstone (~2cm),,,,,
+341-U1419A-16H-CC-A,0,22,109.32,109.54,,mud [Leg210],,mud ,,,,N 4 (dark gray),none [DB86],0,present [A79],5,,,,,pebble [W22_2],rounded,,,,20cm: 1.5cm metasiltstone,,,,,
+341-U1419A-16H-CC-A,22,27,109.54,109.59,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-17H-1-A,0,70,109.4,110.1,,mud [Leg210],with common clasts,mud  with common clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,
+341-U1419A-17H-1-A,70,141,110.1,110.81,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-17H-1-A,141,145,110.81,110.85,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-17H-2-A,0,37,110.85,111.22,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,gradational contact,,,,
+341-U1419A-17H-2-A,37,145,111.22,112.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],9,,,,,granule [W22_2],subrounded,,,,"9 argillite granules, dispersed",,,,,
+341-U1419A-17H-3-A,0,130,112.3,113.6,silty,mud [Leg210],,silty mud ,,,,N 4 (dark gray),,,present [A79],9,,,,,pebble [W22_2],subrounded,,,,"9 pebbles and granules, dispersed",,,,,
+341-U1419A-17H-CC-A,0,15,113.6,113.75,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],3,,,,,,,,,,3 granules,,,,,
+341-U1419A-17H-CC-A,15,20,113.75,113.8,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-18H-1-A,0,137,113.8,115.17,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0,,,,,,,,,,,,"argillites @ 11, 29, 50, 66, 92, 109, 113cm",,,,,
+341-U1419A-18H-1-A,137,140,115.17,115.2,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-18H-1-A,140,150,115.2,115.3,,,,,,,,,,,,,,,,,,,,,,IW,,,,,
+341-U1419A-18H-2-A,0,88,115.3,116.18,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0,,,,,,,,,,,,"argillites @ 4, 19, 40, 47, 67cm",,,,,
+341-U1419A-18H-CC-A,0,22,116.18,116.4,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0,,,,,,,,,,,,"argillites @ 5, 20cm",,,,,
+341-U1419A-18H-CC-A,22,27,116.4,116.45,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-19H-1-A,0,131,116.4,117.71,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0,,,,,,,,,,,,"argillites @ 18, 77cm;
+green sandstones (~4cm) @ 70, 115cm",,,,,
+341-U1419A-19H-2-A,0,60,117.71,118.31,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0,,,,,,,,,,,,"argillites @ 23, 53, 58cm",,,,,
+341-U1419A-19H-2-A,60,63,118.31,118.34,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-19H-CC-A,0,16,118.34,118.5,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,,N 4 (dark gray),none [DB86],0,,,,,,,,,,,,"argillites, siltstone(?)",,,,,
+341-U1419A-19H-CC-A,16,21,118.5,118.55,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-21X-1-A,0,90,118.6,119.5,silty,mud [Leg210],with abundant clasts,silty mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-21X-1-A,90,97,119.5,119.57,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-21X-CC-A,0,43,119.57,120,silty,mud [Leg210],with abundant clasts,silty mud  with abundant clasts,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,
+341-U1419A-21X-CC-A,43,48,120,120.05,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-23X-1-A,0,40,138,138.4,,clast-rich diamict [M89m],,clast-rich diamict ,trace amount,1,,N 4 (dark gray),none [DB86],0,present [A79],,,,,,,,,,,"- clast rich diamict
 - clasts <2 cm
 - clasts include siltstone and greenstone
 - pod of carbonate and ash at 34 cm
 - ""relatively sticky""
 - some sand
 - gradational lower boundary
-",,,,,,341,U1419,A,23,X,1,A,,,
-341-U1419A-23X-1-A,40.0,145.0,138.4,139.45,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),none [DB86],0.0,present [A79],13.0,,,,,,,,,,"- sandy mud with dispersed clasts
+",,,,,
+341-U1419A-23X-1-A,40,145,138.4,139.45,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),none [DB86],0,present [A79],13,,,,,,,,,,"- sandy mud with dispersed clasts
 - max 5 cm
 - at least 13 clasts - not possible to count all
 - clasts of siltstone, greywacke(?)
 - sub angular to sub-rounded
 - scattered sand and mud patches (<5 mm)
 - some rusty colour in archive half deriving from siltstone clast in work half
-",,,,,,341,U1419,A,23,X,1,A,,,
-341-U1419A-23X-1-A,145.0,150.0,139.45,139.5,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,23,X,1,A,,,
-341-U1419A-23X-2-A,0.0,127.5,139.5,140.775,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),none [DB86],0.0,present [A79],13.0,,,,,,,,,,"- sandy mud with dispersed clasts
+",,,,,
+341-U1419A-23X-1-A,145,150,139.45,139.5,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-23X-2-A,0,127.5,139.5,140.775,sandy,mud [Leg210],with dispersed clasts,sandy mud  with dispersed clasts,,,,N 4 (dark gray),none [DB86],0,present [A79],13,,,,,,,,,,"- sandy mud with dispersed clasts
 - max 5 cm
 - at least 13 clasts - not possible to count all
 - clasts of siltstone, greywacke(?)
 - sub angular to sub-rounded
 - scattered sand and mud patches (<5 mm)
-- some rusty colour in archive half deriving from siltstone clast in work half",,,,,,341,U1419,A,23,X,2,A,,,
-341-U1419A-23X-2-A,127.5,140.0,140.775,140.9,sandy,interbedded mud(stone) and diamict [McKW53],with diatoms [Leg339],sandy interbedded mud(stone) and diamict  with diatoms ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],,,,,,,,,,,"- interbedded sandy mud with diatoms and diamict
+- some rusty colour in archive half deriving from siltstone clast in work half",,,,,
+341-U1419A-23X-2-A,127.5,140,140.775,140.9,sandy,interbedded mud(stone) and diamict [McKW53],with diatoms [Leg339],sandy interbedded mud(stone) and diamict  with diatoms ,,,,N 4 (dark gray),none [DB86],0,present [A79],,,,,,,,,,,"- interbedded sandy mud with diatoms and diamict
 - diamicts of sandy/gravelly mud
 - thickness of diamicts from 1 mm to ~8 cm - not easy to identify, because boundaries are often gradational
 - diamict clasts up to 5 cm
 - clasts include siltstone, granitoid, quartz, greenstone(?), sandstone(?)
-",,,,,,341,U1419,A,23,X,2,A,,,
-341-U1419A-23X-2-A,140.0,150.0,140.9,141.0,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,,341,U1419,A,23,X,2,A,,,
-341-U1419A-23X-3-A,0.0,150.0,141.0,142.5,sandy,interbedded mud(stone) and diamict [McKW53],with diatoms [Leg339],sandy interbedded mud(stone) and diamict  with diatoms ,,,,N 4 (dark gray),none [DB86],0.0,present [A79],12.0,,,,,,,,,,"- interbedded sandy mud with diatoms and diamict
+",,,,,
+341-U1419A-23X-2-A,140,150,140.9,141,,,,,,,,,,,,,,,,,,,,,,Sample IW,,,,,
+341-U1419A-23X-3-A,0,150,141,142.5,sandy,interbedded mud(stone) and diamict [McKW53],with diatoms [Leg339],sandy interbedded mud(stone) and diamict  with diatoms ,,,,N 4 (dark gray),none [DB86],0,present [A79],12,,,,,,,,,,"- interbedded sandy mud with diatoms and diamict
 - diamicts of sandy/gravelly mud
 - thickness of diamicts from 1 mm to ~8 cm - not easy to identify, because boundaries are often gradational
 - diamict clasts up to 5 cm
 - clasts include siltstone, granitoid, quartz, greenstone(?), sandstone(?)
 - ""special interval"" with relatively brown, sub-rounded clasts between ~21-22 cm
-",,,,,,341,U1419,A,23,X,3,A,,,
-341-U1419A-23X-4-A,0.0,101.0,142.5,143.51,sandy,interbedded mud(stone) and diamict [McKW53],,sandy interbedded mud(stone) and diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"laminated clayey mud interbedded with clast-rich and clast-poor sandy diamict; from single grain laminae up to 12 cm thick diamict beds (gradational lower boundaries, often sharp upper boundaries); clast lithologies include black metasiltstones, granitoids, greenstones",,,,,,341,U1419,A,23,X,4,A,,,
-341-U1419A-23X-5-A,0.0,59.0,143.51,144.1,sandy,interbedded mud(stone) and diamict [McKW53],,sandy interbedded mud(stone) and diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"very slightly (clayey) laminated mud interbedded with clast-rich and clast-poor sandy diamict; diamict beds (30 cm) with gradational lower boundaries, clast lithologies include black metasiltstones, granitoids, greenstones",,,,,,341,U1419,A,23,X,5,A,,,
-341-U1419A-23X-CC-A,0.0,33.0,144.1,144.43,,interbedded mud(stone) and diamict [McKW53],,interbedded mud(stone) and diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"very slightly (clayey) laminated mud interbedded with clast-rich and clast-poor sandy diamict; diamict beds (10 cm) with gradational boundaries, outsized 2 - 3 cm lonestones: lithologies include black metasiltstones, granitoids, greenstones",,,,,,341,U1419,A,23,X,CC,A,,,
-341-U1419A-23X-CC-A,33.0,38.0,144.43,144.48,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1419,A,23,X,CC,A,,,
-341-U1419A-24X-1-A,0.0,101.0,147.7,148.71,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- clast-poor muddy diamict with sand
+",,,,,
+341-U1419A-23X-4-A,0,101,142.5,143.51,sandy,interbedded mud(stone) and diamict [McKW53],,sandy interbedded mud(stone) and diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"laminated clayey mud interbedded with clast-rich and clast-poor sandy diamict; from single grain laminae up to 12 cm thick diamict beds (gradational lower boundaries, often sharp upper boundaries); clast lithologies include black metasiltstones, granitoids, greenstones",,,,,
+341-U1419A-23X-5-A,0,59,143.51,144.1,sandy,interbedded mud(stone) and diamict [McKW53],,sandy interbedded mud(stone) and diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"very slightly (clayey) laminated mud interbedded with clast-rich and clast-poor sandy diamict; diamict beds (30 cm) with gradational lower boundaries, clast lithologies include black metasiltstones, granitoids, greenstones",,,,,
+341-U1419A-23X-CC-A,0,33,144.1,144.43,,interbedded mud(stone) and diamict [McKW53],,interbedded mud(stone) and diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"very slightly (clayey) laminated mud interbedded with clast-rich and clast-poor sandy diamict; diamict beds (10 cm) with gradational boundaries, outsized 2 - 3 cm lonestones: lithologies include black metasiltstones, granitoids, greenstones",,,,,
+341-U1419A-23X-CC-A,33,38,144.43,144.48,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,
+341-U1419A-24X-1-A,0,101,147.7,148.71,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- clast-poor muddy diamict with sand
 - >20 clayey laminae (<5 mm thick)
 - granule and pebble clasts including quarts, siltstone, red chert(?), sandstone
 - sub-rounded to sub-angular
-",,,,,,341,U1419,A,24,X,1,A,,,
-341-U1419A-24X-2-A,0.0,3.0,148.71,148.74,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,,341,U1419,A,24,X,2,A,,,
-341-U1419A-24X-2-A,3.0,55.0,148.74,149.26,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- clast-poor muddy diamict with sand
+",,,,,
+341-U1419A-24X-2-A,0,3,148.71,148.74,,,,,,,,,,,,,,,,,,,,,,VOID,,,,,
+341-U1419A-24X-2-A,3,55,148.74,149.26,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- clast-poor muddy diamict with sand
 - >20 clayey laminae (<5 mm thick)
 - granule and pebble clasts including quarts, siltstone, red chert(?), sandstone
 - sub-rounded to sub-angular
-",,,,,,341,U1419,A,24,X,2,A,,,
-341-U1419A-24X-CC-A,0.0,29.5,149.26,149.555,muddy [Leg339],clast-rich diamict [M89m],with sand [Leg339],muddy  clast-rich diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-rich diamict with sand
+",,,,,
+341-U1419A-24X-CC-A,0,29.5,149.26,149.555,muddy [Leg339],clast-rich diamict [M89m],with sand [Leg339],muddy  clast-rich diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-rich diamict with sand
 - clast of granule and pebble size are sub-rounded to sub-angular and include siltstone (including one piece with well-preserved original lamination at ~20 cm), argillite(?), massive siltstone, granitoid, brown chert(???, e.g. ~16 cm), quartz, greenstone, diorite(?), red&green igneous rock
-",,,,,,341,U1419,A,24,X,CC,A,,,
-341-U1419A-24X-CC-A,29.5,34.5,149.555,149.605,,,,,,,,,,,,,,,,,,,,,,Sample PAL,,,,,,341,U1419,A,24,X,CC,A,,,
-341-U1419A-24X-CC-A,34.5,44.0,149.605,149.7,muddy [Leg339],clast-rich diamict [M89m],with sand [Leg339],muddy  clast-rich diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-rich diamict with sand
+",,,,,
+341-U1419A-24X-CC-A,29.5,34.5,149.555,149.605,,,,,,,,,,,,,,,,,,,,,,Sample PAL,,,,,
+341-U1419A-24X-CC-A,34.5,44,149.605,149.7,muddy [Leg339],clast-rich diamict [M89m],with sand [Leg339],muddy  clast-rich diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-rich diamict with sand
 - clast of granule and pebble size are sub-rounded to sub-angular and include siltstone (including one piece with well-preserved original lamination at ~20 cm), argillite(?), massive siltstone, granitoid, brown chert(???, e.g. ~16 cm), quartz, greenstone, diorite(?), red&green igneous rock
-",,,,,,341,U1419,A,24,X,CC,A,,,
-341-U1419A-25X-1-A,0.0,85.0,157.4,158.25,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-poor diamict with sand
+",,,,,
+341-U1419A-25X-1-A,0,85,157.4,158.25,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-poor diamict with sand
 - some lamination due to 1) clayish laminae or 2) sand/granule laminae (<4 mm thick)
 - sub-angular to sub-rounded clasts of granule and pebble size include greenstone, sandstone, siltsone, quartz, dark red to brown chert(?), light brown chert(?)
-",,,,,,341,U1419,A,25,X,1,A,,,
-341-U1419A-25X-CC-A,0.0,23.0,158.25,158.48,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-poor diamict with sand
+",,,,,
+341-U1419A-25X-CC-A,0,23,158.25,158.48,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy  clast-poor diamict  with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-poor diamict with sand
 - some lamination due to 1) clayish laminae or 2) sand/granule laminae (<4 mm thick)
 - sub-angular to sub-rounded clasts of granule and pebble size include greenstone, sandstone, siltsone, quartz, dark red to brown chert(?), light brown chert(?)
-- 18-21: two sand clasts",,,,,,341,U1419,A,25,X,CC,A,,,
-341-U1419A-25X-CC-A,23.0,28.0,158.48,158.53,,,,,,,,,,,,,,,,,,,,,,Sample PAL,,,,,,341,U1419,A,25,X,CC,A,,,
-341-U1419A-25X-CC-A,28.0,38.0,158.53,158.63,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy [Leg339] clast-poor diamict with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-poor diamict with sand
+- 18-21: two sand clasts",,,,,
+341-U1419A-25X-CC-A,23,28,158.48,158.53,,,,,,,,,,,,,,,,,,,,,,Sample PAL,,,,,
+341-U1419A-25X-CC-A,28,38,158.53,158.63,muddy [Leg339],clast-poor diamict [M89m],with sand [Leg339],muddy [Leg339] clast-poor diamict with sand ,,,,N 4 (dark gray),,,present [A79],,,,,,,,,,,"- muddy clast-poor diamict with sand
 - some lamination due to 1) clayish laminae or 2) sand/granule laminae (<4 mm thick)
 - sub-angular to sub-rounded clasts of granule and pebble size include greenstone, sandstone, siltsone, quartz, dark red to brown chert(?), light brown chert(?)
 - 34-35: sand clasts
-",,,,,,341,U1419,A,25,X,CC,A,,,
-341-U1419A-25X-CC-A,38.0,51.0,158.63,158.76,,interbedded sand(stone) and mud(stone) [McKW53],,interbedded sand(stone) and mud(stone) ,,,,N 4 (dark gray),,,present [A79],1.0,,,,,,,,,,"- interbedded to laminated mud and sand
+",,,,,
+341-U1419A-25X-CC-A,38,51,158.63,158.76,,interbedded sand(stone) and mud(stone) [McKW53],,interbedded sand(stone) and mud(stone) ,,,,N 4 (dark gray),,,present [A79],1,,,,,,,,,,"- interbedded to laminated mud and sand
 - bowed - moderate
-- one sub-rounded siltstone pebble",,,,,,341,U1419,A,25,X,CC,A,,,
-341-U1419A-26X-1-A,0.0,22.0,167.1,167.32,sandy,clast-poor diamict [M89m],,sandy clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"clasts on top: fall-in: clasts: silt-, metasilt-, sandstone",,,,,,341,U1419,A,26,X,1,A,,,
-341-U1419A-26X-1-A,22.0,27.0,167.32,167.37,,sand [Leg210],,sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,clean coarse sand (soupy),,,,,,341,U1419,A,26,X,1,A,,,
-341-U1419A-26X-1-A,27.0,38.0,167.37,167.48,sandy,clast-poor diamict [M89m],,sandy clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"clasts: granules and pebbles of silt-, metasilt-, sandstone",,,,,,341,U1419,A,26,X,1,A,,,
-341-U1419A-26X-1-A,38.0,65.0,167.48,167.75,,biosiliceous ooze [Leg339],with volcanic ash [Leg339],biosiliceous ooze  with volcanic ash ,trace amount,1.0,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"greenish-yellowish gray mud, sandy with granules and pebbles of granitoids, metasiltstones, greenstones)",,,,,,341,U1419,A,26,X,1,A,,,
-341-U1419A-26X-1-A,65.0,140.0,167.75,168.5,sandy,clast-poor diamict [M89m],,sandy clast-poor diamict ,trace amount,1.0,,N 4 (dark gray),,,,,,,,,,,,,,"sandy mud with volc. ash (5%), subrounded very fine sand sized glass and few forams; clasts: mainly granules of silt-, metasilt-, sandstone; very subtle color banding",,,,,,341,U1419,A,26,X,1,A,,,
-341-U1419A-26X-1-A,140.0,150.0,168.5,168.6,,,,,,,,,,,,,,,,,,,,,,IW sample,,,,,,341,U1419,A,26,X,1,A,,,
-341-U1419A-26X-2-A,0.0,56.0,168.6,169.16,muddy [Leg339],clast-poor diamict [M89m],,muddy  clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"clasts: granules and pebbles of sandstone, metasiltstone, greenstone",,,,,,341,U1419,A,26,X,2,A,,,
-341-U1419A-26X-CC-A,0.0,7.0,169.16,169.23,muddy [Leg339],clast-poor diamict [M89m],,muddy  clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,clasts: granules and pebbles of metasiltstone,,,,,,341,U1419,A,26,X,CC,A,,,
-341-U1419A-26X-CC-A,7.0,12.0,169.23,169.28,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,26,X,CC,A,,,
-341-U1419A-27X-1-A,0.0,33.0,176.8,177.13,muddy [Leg339],clast-rich diamict [M89m],,muddy  clast-rich diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"granules and pebbles of sandstone, siltstone, greenstone (?); outsized siltstone (8x5 cm)",,,,,,341,U1419,A,27,X,1,A,,,
-341-U1419A-27X-CC-A,0.0,48.0,177.13,177.61,muddy [Leg339],clast-rich diamict [M89m],,muddy  clast-rich diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"outsized clasts of sandstone, siltstone, greenstone, granitoid",,,,,,341,U1419,A,27,X,CC,A,,,
-341-U1419A-27X-CC-A,48.0,53.0,177.61,177.66,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,27,X,CC,A,,,
-341-U1419A-27X-CC-A,53.0,64.0,177.66,177.77,muddy [Leg339],clast-rich diamict [M89m],,muddy  clast-rich diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,outsized clasts; washed gravel,,,,,,341,U1419,A,27,X,CC,A,,,
-341-U1419A-28X-CC-A,0.0,5.0,186.5,186.55,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,28,X,CC,A,,,
-341-U1419A-28X-CC-A,5.0,24.0,186.55,186.74,,gravel/conglomerate/breccia [M89m],,gravel/conglomerate/breccia ,,,,,,,,,,,,,,,,,,"washed gravel: siltstone, diorite, sandstone, black metasiltstone (all outsized pebbles)",,,,,,341,U1419,A,28,X,CC,A,,,
-341-U1419A-29X-CC-A,0.0,8.0,189.5,189.58,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1419,A,29,X,CC,A,,,
-341-U1419A-29X-CC-A,8.0,18.0,189.58,189.68,,gravel/conglomerate/breccia [M89m],,gravel/conglomerate/breccia ,,,,,,,,,,,,,,,,,,"washed gravel: greenstone, red banded chert (jaspilite), granite, sandstone?",,,,,,341,U1419,A,29,X,CC,A,,,
+- one sub-rounded siltstone pebble",,,,,
+341-U1419A-26X-1-A,0,22,167.1,167.32,sandy,clast-poor diamict [M89m],,sandy clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"clasts on top: fall-in: clasts: silt-, metasilt-, sandstone",,,,,
+341-U1419A-26X-1-A,22,27,167.32,167.37,,sand [Leg210],,sand ,,,,N 4 (dark gray),,,,,,,,,,,,,,clean coarse sand (soupy),,,,,
+341-U1419A-26X-1-A,27,38,167.37,167.48,sandy,clast-poor diamict [M89m],,sandy clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"clasts: granules and pebbles of silt-, metasilt-, sandstone",,,,,
+341-U1419A-26X-1-A,38,65,167.48,167.75,,biosiliceous ooze [Leg339],with volcanic ash [Leg339],biosiliceous ooze  with volcanic ash ,trace amount,1,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"greenish-yellowish gray mud, sandy with granules and pebbles of granitoids, metasiltstones, greenstones)",,,,,
+341-U1419A-26X-1-A,65,140,167.75,168.5,sandy,clast-poor diamict [M89m],,sandy clast-poor diamict ,trace amount,1,,N 4 (dark gray),,,,,,,,,,,,,,"sandy mud with volc. ash (5%), subrounded very fine sand sized glass and few forams; clasts: mainly granules of silt-, metasilt-, sandstone; very subtle color banding",,,,,
+341-U1419A-26X-1-A,140,150,168.5,168.6,,,,,,,,,,,,,,,,,,,,,,IW sample,,,,,
+341-U1419A-26X-2-A,0,56,168.6,169.16,muddy [Leg339],clast-poor diamict [M89m],,muddy  clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"clasts: granules and pebbles of sandstone, metasiltstone, greenstone",,,,,
+341-U1419A-26X-CC-A,0,7,169.16,169.23,muddy [Leg339],clast-poor diamict [M89m],,muddy  clast-poor diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,clasts: granules and pebbles of metasiltstone,,,,,
+341-U1419A-26X-CC-A,7,12,169.23,169.28,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-27X-1-A,0,33,176.8,177.13,muddy [Leg339],clast-rich diamict [M89m],,muddy  clast-rich diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"granules and pebbles of sandstone, siltstone, greenstone (?); outsized siltstone (8x5 cm)",,,,,
+341-U1419A-27X-CC-A,0,48,177.13,177.61,muddy [Leg339],clast-rich diamict [M89m],,muddy  clast-rich diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,"outsized clasts of sandstone, siltstone, greenstone, granitoid",,,,,
+341-U1419A-27X-CC-A,48,53,177.61,177.66,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-27X-CC-A,53,64,177.66,177.77,muddy [Leg339],clast-rich diamict [M89m],,muddy  clast-rich diamict ,,,,N 4 (dark gray),,,,,,,,,,,,,,outsized clasts; washed gravel,,,,,
+341-U1419A-28X-CC-A,0,5,186.5,186.55,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-28X-CC-A,5,24,186.55,186.74,,gravel/conglomerate/breccia [M89m],,gravel/conglomerate/breccia ,,,,,,,,,,,,,,,,,,"washed gravel: siltstone, diorite, sandstone, black metasiltstone (all outsized pebbles)",,,,,
+341-U1419A-29X-CC-A,0,8,189.5,189.58,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,
+341-U1419A-29X-CC-A,8,18,189.58,189.68,,gravel/conglomerate/breccia [M89m],,gravel/conglomerate/breccia ,,,,,,,,,,,,,,,,,,"washed gravel: greenstone, red banded chert (jaspilite), granite, sandstone?",,,,,
