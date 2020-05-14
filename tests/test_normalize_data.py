@@ -6,8 +6,11 @@ from scripts.normalize_data import (
     create_sample_name,
     normalize_expedition_section_cols,
     extract_sample_parts,
+    restore_integer_columns,
 )
 import pandas as pd
+import numpy as np
+
 from pandas._testing import assert_frame_equal
 import pytest
 
@@ -622,3 +625,42 @@ class TestExtractSampleParts:
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
             extract_sample_parts(df["Sample"])
+
+class TestRestoreIntColumns:
+    def test_integer_columns_are_changed_to_integers(self):
+        df = pd.read_csv('./tests/data/missing_values.csv')
+        assert isinstance(df['int'][0], np.float64)
+        assert str(df['int'][0]) == '1.0'
+        assert str(df['int'][1]) == '2.0'
+        assert str(df['int'][2]) == '3.0'
+
+        df = restore_integer_columns(df)
+
+        assert isinstance(df['int'][0], np.int64)
+        assert str(df['int'][0]) == '1'
+        assert str(df['int'][1]) == '2'
+        assert str(df['int'][2]) == '3'
+
+    def test_integer_null_columns_are_changed_to_integers(self):
+        df = pd.read_csv('./tests/data/missing_values.csv')
+        assert isinstance(df['int null'][0], np.float64)
+        assert str(df['int null'][0]) == '1.0'
+
+        df = restore_integer_columns(df)
+
+        assert isinstance(df['int null'][0], np.int64)
+        assert str(df['int null'][0]) == '1'
+
+    def test_integer_float_columns_remain_floats(self):
+        df = pd.read_csv('./tests/data/missing_values.csv')
+        assert isinstance(df['int float'][0], np.float64)
+        assert str(df['int float'][0]) == '1.0'
+        assert str(df['int float'][1]) == '2.0'
+        assert str(df['int float'][2]) == '3.1'
+
+        df = restore_integer_columns(df)
+
+        assert isinstance(df['int float'][0], np.float64)
+        assert str(df['int float'][0]) == '1.0'
+        assert str(df['int float'][1]) == '2.0'
+        assert str(df['int float'][2]) == '3.1'

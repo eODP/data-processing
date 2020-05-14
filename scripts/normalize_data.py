@@ -122,3 +122,17 @@ def extract_sample_parts(df):
         raise ValueError("Sample name uses wrong format.")
 
     return res
+
+def restore_integer_columns(df):
+    """
+    When there are NAs in a column of integers, pandas will convert the column
+    into floats. The function restores the column of converted floats back to
+    integers.
+    https://pandas.pydata.org/pandas-docs/stable/user_guide/integer_na.html
+    """
+    for col in df.columns:
+        try:
+            df[col] = df[col].astype('Int64')
+        except TypeError:
+            pass
+    return df
