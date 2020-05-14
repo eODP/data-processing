@@ -124,6 +124,7 @@ def extract_sample_parts(df):
 
     return res
 
+
 def restore_integer_columns(df):
     """
     When there are NAs in a column of integers, pandas will convert the column
@@ -133,10 +134,11 @@ def restore_integer_columns(df):
     """
     for col in df.columns:
         try:
-            df[col] = df[col].astype('Int64')
+            df[col] = df[col].astype("Int64")
         except TypeError:
             pass
     return df
+
 
 def update_metadata(metadata, new_col_dict):
     new_metadata = pd.DataFrame(new_col_dict)
@@ -147,19 +149,22 @@ def update_metadata(metadata, new_col_dict):
 
     return metadata
 
+
 def replace_unnamed_xx_columns(df):
     """
     pandas will add "Unnamed: xx" as column name for columns without names.
     This function replaces "Unnamed: xx" with "".
     """
     cols = df.columns
-    new_cols = ['' if re.search(r'Unnamed: \d+', col) else col for col in cols]
+    new_cols = ["" if re.search(r"Unnamed: \d+", col) else col for col in cols]
     df.columns = new_cols
     return df
+
 
 def csv_cleanup(df):
     df = restore_integer_columns(df)
     return replace_unnamed_xx_columns(df)
 
-def normalize_columns(old_columns, new_column, all_columns):
-    return [new_column if column in old_columns else column for column in all_columns]
+
+def normalize_columns(old_cols, new_col, all_cols):
+    return [new_col if column in old_cols else column for column in all_cols]

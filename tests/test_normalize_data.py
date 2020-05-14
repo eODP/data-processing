@@ -9,6 +9,7 @@ from scripts.normalize_data import (
     restore_integer_columns,
     update_metadata,
     replace_unnamed_xx_columns,
+    normalize_columns,
 )
 import pandas as pd
 import numpy as np
@@ -628,93 +629,117 @@ class TestExtractSampleParts:
         with pytest.raises(ValueError, match=message):
             extract_sample_parts(df["Sample"])
 
+
 class TestRestoreIntColumns:
     def test_integer_columns_are_changed_to_integers(self):
-        df = pd.read_csv('./tests/data/missing_values.csv')
-        assert isinstance(df['int'][0], np.float64)
-        assert str(df['int'][0]) == '1.0'
-        assert str(df['int'][1]) == '2.0'
-        assert str(df['int'][2]) == '3.0'
+        df = pd.read_csv("./tests/data/missing_values.csv")
+        assert isinstance(df["int"][0], np.float64)
+        assert str(df["int"][0]) == "1.0"
+        assert str(df["int"][1]) == "2.0"
+        assert str(df["int"][2]) == "3.0"
 
         df = restore_integer_columns(df)
 
-        assert isinstance(df['int'][0], np.int64)
-        assert str(df['int'][0]) == '1'
-        assert str(df['int'][1]) == '2'
-        assert str(df['int'][2]) == '3'
+        assert isinstance(df["int"][0], np.int64)
+        assert str(df["int"][0]) == "1"
+        assert str(df["int"][1]) == "2"
+        assert str(df["int"][2]) == "3"
 
     def test_integer_null_columns_are_changed_to_integers(self):
-        df = pd.read_csv('./tests/data/missing_values.csv')
-        assert isinstance(df['int null'][0], np.float64)
-        assert str(df['int null'][0]) == '1.0'
+        df = pd.read_csv("./tests/data/missing_values.csv")
+        assert isinstance(df["int null"][0], np.float64)
+        assert str(df["int null"][0]) == "1.0"
 
         df = restore_integer_columns(df)
 
-        assert isinstance(df['int null'][0], np.int64)
-        assert str(df['int null'][0]) == '1'
+        assert isinstance(df["int null"][0], np.int64)
+        assert str(df["int null"][0]) == "1"
 
     def test_integer_float_columns_remain_floats(self):
-        df = pd.read_csv('./tests/data/missing_values.csv')
-        assert isinstance(df['int float'][0], np.float64)
-        assert str(df['int float'][0]) == '1.0'
-        assert str(df['int float'][1]) == '2.0'
-        assert str(df['int float'][2]) == '3.1'
+        df = pd.read_csv("./tests/data/missing_values.csv")
+        assert isinstance(df["int float"][0], np.float64)
+        assert str(df["int float"][0]) == "1.0"
+        assert str(df["int float"][1]) == "2.0"
+        assert str(df["int float"][2]) == "3.1"
 
         df = restore_integer_columns(df)
 
-        assert isinstance(df['int float'][0], np.float64)
-        assert str(df['int float'][0]) == '1.0'
-        assert str(df['int float'][1]) == '2.0'
-        assert str(df['int float'][2]) == '3.1'
+        assert isinstance(df["int float"][0], np.float64)
+        assert str(df["int float"][0]) == "1.0"
+        assert str(df["int float"][1]) == "2.0"
+        assert str(df["int float"][2]) == "3.1"
+
 
 class TestUpdateMetadata:
     def test_adds_new_column_to_dataframe_if_column_does_not_exists(self):
-        metadata = pd.DataFrame({"a": [1,2]})
+        metadata = pd.DataFrame({"a": [1, 2]})
         dict = {"b": [3, 4]}
         new_metadata = update_metadata(metadata, dict)
 
-        expected =  pd.DataFrame({"a": [1,2], "b": [3, 4]})
+        expected = pd.DataFrame({"a": [1, 2], "b": [3, 4]})
 
         assert_frame_equal(new_metadata, expected)
 
-    def test_adds_new_column_to_dataframe_if_column_does_not_exists(self):
-        metadata = pd.DataFrame({"a": [1,2], "b": [3, 4]})
+    def test_does_not_update_dataframe_if_columns_exists(self):
+        metadata = pd.DataFrame({"a": [1, 2], "b": [3, 4]})
         dict = {"b": [5, 6]}
         new_metadata = update_metadata(metadata, dict)
 
-        expected =  pd.DataFrame({"a": [1,2], "b": [3, 4]})
+        expected = pd.DataFrame({"a": [1, 2], "b": [3, 4]})
 
         assert_frame_equal(new_metadata, expected)
 
 
 class TestReplaceUnnamedXXColumns:
     def test_replace_unnamed_xx_with_empty_string(self):
-        df = pd.DataFrame({
-            "a": [1],
-            "Unnamed: 1": [1],
-            "Unnamed: 10": [1],
-            "Unnamed: 1000": [1],
-            "b": [1]
-        })
+        df = pd.DataFrame(
+            {
+                "a": [1],
+                "Unnamed: 1": [1],
+                "Unnamed: 10": [1],
+                "Unnamed: 1000": [1],
+                "b": [1],
+            }
+        )
 
         new_df = replace_unnamed_xx_columns(df)
 
         assert len(df.columns) == len(new_df.columns)
-        assert new_df.columns[0] == 'a'
-        assert new_df.columns[1] == ''
-        assert new_df.columns[3] == ''
-        assert new_df.columns[4] == 'b'
+        assert new_df.columns[0] == "a"
+        assert new_df.columns[1] == ""
+        assert new_df.columns[3] == ""
+        assert new_df.columns[4] == "b"
 
     def test_leaves_other_columns_unchanged(self):
-        df = pd.DataFrame({
-            "a": [1],
-            "Bb": [1],
-            "CC CC": [1]
-        })
+        df = pd.DataFrame({"a": [1], "Bb": [1], "CC CC": [1]})
 
         new_df = replace_unnamed_xx_columns(df)
 
         assert len(df.columns) == len(new_df.columns)
-        assert new_df.columns[0] == 'a'
-        assert new_df.columns[1] == 'Bb'
-        assert new_df.columns[2] == 'CC CC'
+        assert new_df.columns[0] == "a"
+        assert new_df.columns[1] == "Bb"
+        assert new_df.columns[2] == "CC CC"
+
+class TestNormalizeColumns:
+    def test_replaces_column_if_column_matches(self):
+        all_cols = ['a', 'B']
+        old_cols = {'A', 'a', 'aa'}
+        new_col = 'AAA'
+
+        res = normalize_columns(old_cols, new_col, all_cols)
+
+        assert len(all_cols) == len(res)
+        assert res[0] == 'AAA'
+        assert res[1] == 'B'
+
+
+    def test_does_not_replace_column_if_no_matches(self):
+        all_cols = ['a', 'B']
+        old_cols = {'BB', 'bb', 'b'}
+        new_col = 'BBB'
+
+        res = normalize_columns(old_cols, new_col, all_cols)
+
+        assert len(all_cols) == len(res)
+        assert res[0] == 'a'
+        assert res[1] == 'B'
