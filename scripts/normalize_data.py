@@ -168,3 +168,33 @@ def csv_cleanup(df):
 
 def normalize_columns(old_cols, new_col, all_cols):
     return [new_col if column in old_cols else column for column in all_cols]
+
+
+def fetch_unique_column_names(path, columns_set):
+    content = pd.read_csv(path)
+    content = csv_cleanup(content)
+    return columns_set.update(set(content.columns))
+
+
+def append_set(my_set, regex, all_columns):
+    [my_set.add(col) for col in all_columns if re.match(regex, col, re.IGNORECASE)]
+
+
+def filter_existing_set(my_set, regex):
+    return {item for item in my_set if not re.match(regex, item, re.IGNORECASE)}
+
+
+def add_missing_columns(path, normalized_columns):
+    content = pd.read_csv(path)
+    columns = list(content.columns)
+
+    missing_columns = list(set(normalized_columns) - set(columns))
+    content = content.reindex(columns=columns + missing_columns)
+
+    changed = len(columns) != len(content.columns)
+
+    if changed:
+        content = csv_cleanup(content)
+        content.to_csv(path, index=False)
+
+    return changed
