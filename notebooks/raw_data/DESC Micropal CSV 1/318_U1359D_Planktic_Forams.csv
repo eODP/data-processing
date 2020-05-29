@@ -1,0 +1,5 @@
+﻿Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Globigerina bulloides,Globigerina cf. woodi,Globoconella miozea,Neogloboquadrina acostaensis,Neogloboquadrina nympha,Neogloboquadrina cf. pachyderma,File Data
+318-U1359D-24R-CC-PAL-FORAM,318,U1359,D,24,24-CC,R,CC,PAL,FORAM,0,5,371.805,371.855,A[318_PF],C[318_PF],,F[318_PF],F[318_PF],,
+318-U1359D-27R-CC-PAL-FORAM,318,U1359,D,27,27-CC,R,CC,PAL,FORAM,0,5,391.6,391.65,,,,R[318_PF],R[318_PF],,
+318-U1359D-30R-CC-PAL-FORAM,318,U1359,D,30,30-CC,R,CC,PAL,FORAM,0,5,424.03,424.08,,R[318_PF],,,,,
+318-U1359D-34R-CC-PAL-FORAM,318,U1359,D,34,34-CC,R,CC,PAL,FORAM,0,5,464.31,464.36,,,R[318_PF],,,,
