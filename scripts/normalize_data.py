@@ -170,6 +170,19 @@ def normalize_columns(old_cols, new_col, all_cols):
     return [new_col if column in old_cols else column for column in all_cols]
 
 
+def extract_taxon_group_from_filename(filename):
+    filename_parts = re.search(
+        # matches 123-U1234A-taxon-group or 123-U1234A-taxongroup
+        "^[0-9]{3}[-_]+U[0-9]{4}[a-zA-Z][-_]+([a-zA-Z]+([-_ ][a-zA-Z]+)?)([_-]\d)?\.csv",
+        filename,
+    )
+
+    if filename_parts is not None:
+        return filename_parts.groups()[0].lower().replace("-", "_").replace(" ", "_")
+    else:
+        raise ValueError("Cannot extract taxon group.")
+
+
 def fetch_unique_column_names(path, columns_set):
     content = pd.read_csv(path)
     content = csv_cleanup(content)

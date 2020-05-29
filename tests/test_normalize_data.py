@@ -10,6 +10,7 @@ from scripts.normalize_data import (
     update_metadata,
     replace_unnamed_xx_columns,
     normalize_columns,
+    extract_taxon_group_from_filename,
 )
 import pandas as pd
 import numpy as np
@@ -720,26 +721,59 @@ class TestReplaceUnnamedXXColumns:
         assert new_df.columns[1] == "Bb"
         assert new_df.columns[2] == "CC CC"
 
+
 class TestNormalizeColumns:
     def test_replaces_column_if_column_matches(self):
-        all_cols = ['a', 'B']
-        old_cols = {'A', 'a', 'aa'}
-        new_col = 'AAA'
+        all_cols = ["a", "B"]
+        old_cols = {"A", "a", "aa"}
+        new_col = "AAA"
 
         res = normalize_columns(old_cols, new_col, all_cols)
 
         assert len(all_cols) == len(res)
-        assert res[0] == 'AAA'
-        assert res[1] == 'B'
-
+        assert res[0] == "AAA"
+        assert res[1] == "B"
 
     def test_does_not_replace_column_if_no_matches(self):
-        all_cols = ['a', 'B']
-        old_cols = {'BB', 'bb', 'b'}
-        new_col = 'BBB'
+        all_cols = ["a", "B"]
+        old_cols = {"BB", "bb", "b"}
+        new_col = "BBB"
 
         res = normalize_columns(old_cols, new_col, all_cols)
 
         assert len(all_cols) == len(res)
-        assert res[0] == 'a'
-        assert res[1] == 'B'
+        assert res[0] == "a"
+        assert res[1] == "B"
+
+
+class TestExtractTaxonGroupFromFilename:
+    def test_returns_taxon_group_from_filename(self):
+        file = "123_U1234A_taxon.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon"
+
+    def test_works_with_hyphens_and_underscores(self):
+        file = "123-U1234A_taxon.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon"
+
+    def test_ignores_numbers_after_taxon(self):
+        file1 = "123-U1234A_taxon-1.csv"
+        file2 = "123-U1234A_taxon_1.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon"
+        assert extract_taxon_group_from_filename(file2) == "taxon"
+
+    def test_returns_underscore_version_of_two_part_taxon_names(self):
+        file1 = "123-U1234A_taxon_group.csv"
+        file2 = "123-U1234A_taxon-group.csv"
+        file3 = "123-U1234A_taxon group.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+        assert extract_taxon_group_from_filename(file3) == "taxon_group"
+
+    def test_returns_lowercase_taxon_group_from_file(self):
+        file = "123_U1234A_Taxon_Group.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon_group"
