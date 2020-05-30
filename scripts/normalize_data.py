@@ -242,7 +242,7 @@ def add_missing_columns(path, normalized_columns):
     changed = len(columns) != len(content.columns)
 
     if changed:
-        content = csv_cleanup(content)
+        content = csv_cleanup(content, path)
         content.to_csv(path, index=False)
 
     return changed
