@@ -39,6 +39,7 @@ def normalize_sample_col(df):
 
 
 def create_sample_name(df):
+    """ Uses Exp...A/W columns to create a name for a sample """
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"}
     if names.issubset(df.columns):
         dash = ["-" for i in range(len(df))]
@@ -85,6 +86,7 @@ def get_expedition_from_csv(df):
 
 
 def normalize_expedition_section_cols(df):
+    """ Create Exp...Section columns using Sample or Label ID """
     # NOTE: There was one file that did not have A/W column
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section"}
     if names.issubset(df.columns):
@@ -112,14 +114,15 @@ def valid_sample_value(x):
     return re.search(regex, x) is not None
 
 
-def extract_sample_parts(df):
+def extract_sample_parts(series):
+    """ Extract Exp...A/W info from a panda series """
     # matches (1)-(U1)(A)-(1)(A)-(1)-(A)
     #         (1)-(U1)(A)-(1)(A)-(A)-(A)
     reg = r"(^\d+)-(U\d+)(\w)-?(\d+)?(\w)?-?([\d\w]+)?-?(\w)?"
-    res = df.str.extract(reg)
+    res = series.str.extract(reg)
     res.columns = ["Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"]
 
-    if not all([valid_sample_value(x) for x in df]):
+    if not all([valid_sample_value(x) for x in series]):
         raise ValueError("Sample name uses wrong format.")
 
     return res
@@ -141,6 +144,7 @@ def restore_integer_columns(df):
 
 
 def update_metadata(metadata, new_col_dict):
+    """ Only update metadata if column doesn't exist """
     new_metadata = pd.DataFrame(new_col_dict)
     new_col_name = list(new_col_dict.keys())[0]
 
@@ -167,6 +171,7 @@ def csv_cleanup(df):
 
 
 def normalize_columns(old_cols, new_col, all_cols):
+    """ Replace variations of column name with a standard column name """
     return [new_col if column in old_cols else column for column in all_cols]
 
 
@@ -198,6 +203,7 @@ def filter_existing_set(my_set, regex):
 
 
 def add_missing_columns(path, normalized_columns):
+    """ Add columns to dataframe so every dataframe has the same columns """
     content = pd.read_csv(path)
     columns = list(content.columns)
 
@@ -211,3 +217,36 @@ def add_missing_columns(path, normalized_columns):
         content.to_csv(path, index=False)
 
     return changed
+
+
+def check_duplicate_columns(df, filename):
+    """
+    Pandas do not allow duplicate column names. If there are duplicate columns
+    in a csv, pd.read_csv keeps the first appearance of a column name, and
+    renames subsequent columns by appending .<number>
+    https://github.com/pandas-dev/pandas/issues/19383
+
+    This function checks if duplicate columns have the same values.
+    """
+    for column in df.columns:
+        # looks for columns renamed by pandas ("foo bar.1")
+        if re.match(".*\.\d+$", column):
+            # gets original name of the column ("foo bar")
+            original_name = re.sub("\.\d+$", "", column)
+            if original_name in df.columns:
+                # compare the values in the duplicate columns
+                compare_duplicate_columns = df[original_name].fillna(0) == df[
+                    column
+                ].fillna(0)
+
+                # determines if the two columns have the same values
+                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
+                    compare_duplicate_columns
+                )
+                source = f"{filename}, {original_name}"
+                if duplicate_columns_are_equal:
+                    print(f"{source}: duplicate columns have same values")
+                    return True
+                else:
+                    print(f"{source}: duplicate columns have different values")
+                    return False

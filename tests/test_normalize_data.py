@@ -1,3 +1,10 @@
+from io import StringIO
+
+import pandas as pd
+import numpy as np
+from pandas._testing import assert_frame_equal
+import pytest
+
 from scripts.normalize_data import (
     tablerize,
     convert_column_names,
@@ -11,12 +18,8 @@ from scripts.normalize_data import (
     replace_unnamed_xx_columns,
     normalize_columns,
     extract_taxon_group_from_filename,
+    check_duplicate_columns,
 )
-import pandas as pd
-import numpy as np
-
-from pandas._testing import assert_frame_equal
-import pytest
 
 
 class TestTablerize:
@@ -777,3 +780,33 @@ class TestExtractTaxonGroupFromFilename:
         file = "123_U1234A_Taxon_Group.csv"
 
         assert extract_taxon_group_from_filename(file) == "taxon_group"
+
+
+class TestCompareDuplicateColumns:
+    def test_returns_True_if_duplicate_columns_have_same_value(self):
+        csv_data = "a,a,a\n" "1,1,1\n" "2,2,2\n"
+        df = pd.read_csv(StringIO(csv_data))
+
+        assert list(df.columns) == ["a", "a.1", "a.2"]
+        assert check_duplicate_columns(df, "file") is True
+
+    def test_returns_False_if_duplicate_columns_have_different_values(self):
+        csv_data = "a,a,a\n" "1,3,3\n" "2,4,4\n"
+        df = pd.read_csv(StringIO(csv_data))
+
+        assert list(df.columns) == ["a", "a.1", "a.2"]
+        assert check_duplicate_columns(df, "file") is False
+
+    def test_returns_None_if_column_end_with_number_but_is_not_duplicate(self):
+        csv_data = "taxon taxon,taxon taxon f.1\n" "1,1\n" "2,2\n"
+        df = pd.read_csv(StringIO(csv_data))
+
+        assert list(df.columns) == ["taxon taxon", "taxon taxon f.1"]
+        assert check_duplicate_columns(df, "file") is None
+
+    def test_returns_None_for_unique_columns(self):
+        csv_data = "aaa,bbb\n" "1,1\n" "2,2\n"
+        df = pd.read_csv(StringIO(csv_data))
+
+        assert list(df.columns) == ["aaa", "bbb"]
+        assert check_duplicate_columns(df, "file") is None
