@@ -165,7 +165,36 @@ def replace_unnamed_xx_columns(df):
     return df
 
 
-def csv_cleanup(df):
+def restore_duplicate_column_names(df, original_columns):
+    """
+    Pandas do not allow duplicate column names. If there are duplicate columns
+    in a csv, pd.read_csv keeps the first appearance of a column name, and
+    renames subsequent columns by appending .<number>
+    https://github.com/pandas-dev/pandas/issues/19383
+
+    This function replaces renamed columns with the original column name.
+    """
+
+    current_columns = df.columns
+    diff_columns = set(current_columns) - set(original_columns)
+
+    for column in diff_columns:
+        # looks for columns renamed by pandas ("foo bar.1")
+        if re.match(".*\.\d+$", column):
+            # gets original name of the column ("foo bar")
+            original_name = re.sub("\.\d+$", "", column)
+            if original_name in original_columns:
+                cols = {column: original_name}
+                df = df.rename(columns=cols)
+    return df
+
+
+def csv_cleanup(df, csv_path):
+    if any([col.endswith(".1") for col in df.columns]):
+        csv_data = pd.read_csv(csv_path, header=None, nrows=1)
+        original_columns = csv_data.iloc[0].to_list()
+        df = restore_duplicate_column_names(df, original_columns)
+
     df = restore_integer_columns(df)
     return replace_unnamed_xx_columns(df)
 
