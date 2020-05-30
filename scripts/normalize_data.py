@@ -219,7 +219,7 @@ def extract_taxon_group_from_filename(filename):
 
 def fetch_unique_column_names(path, columns_set):
     content = pd.read_csv(path)
-    content = csv_cleanup(content)
+    content = csv_cleanup(content, path)
     return columns_set.update(set(content.columns))
 
 
