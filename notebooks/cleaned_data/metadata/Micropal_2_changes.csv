@@ -389,7 +389,7 @@ file,taxon_group,add_expedition_section_cols,update_sample_col,update_top_bottom
 346_U1430A_radiolarians.csv,radiolarians,True,False,False,False,False
 356-U1460B_nannofossils.csv,nannofossils,True,False,False,False,True
 371_U1509A_palynology.csv,palynology,True,False,False,False,False
-369_U1513D_nannofossil.csv,nannofossil,True,False,False,False,False
+369_U1513D_nannofossil.csv,nannofossils,True,False,False,False,False
 359-U1466B_benthic_forams.csv,benthic_forams,True,False,False,False,False
 359-U1466A_planktic_forams.csv,planktic_forams,True,False,False,False,False
 354_U1449A_nannofossils.csv,nannofossils,True,False,False,False,True
