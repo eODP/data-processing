@@ -279,3 +279,25 @@ def check_duplicate_columns(df, filename):
                 else:
                     print(f"{source}: duplicate columns have different values")
                     return False
+
+
+def get_taxonomy_columns(columns, skip_columns):
+    filtered_columns = [col for col in columns if not col.startswith("Unnamed:")]
+    return [col for col in filtered_columns if col not in skip_columns]
+
+
+def clean_taxon_name(string):
+    string = string.strip()
+    string = re.sub(" {2,}", " ", string)
+    return string
+
+
+def taxa_needs_review(string):
+    if re.match("^(.*) +\(.*\)$", string):
+        return True
+    elif re.search(" *> *\d+ *m$", string):
+        return True
+    elif re.search("_[A-Z]_?$", string):
+        return True
+    else:
+        return False

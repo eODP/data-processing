@@ -20,6 +20,8 @@ from scripts.normalize_data import (
     extract_taxon_group_from_filename,
     check_duplicate_columns,
     restore_duplicate_column_names,
+    clean_taxon_name,
+    taxa_needs_review,
 )
 
 
@@ -840,3 +842,30 @@ class TestRestoreDuplicateColumnNames:
 
         df = restore_duplicate_column_names(df, original_columns)
         assert list(df.columns) == original_columns + ["c", "d", "d.1"]
+
+
+class TestCleanTaxonName:
+    def test_removes_extra_spaces(self):
+        string = "   Aaa   bbb   "
+        assert clean_taxon_name(string) == "Aaa bbb"
+
+
+class TestTaxaNeedsReview:
+    def test_returns_true_if_string_ends_with_parathesis_content(self):
+        string = "aa (1)"
+        assert taxa_needs_review(string) is True
+
+    def test_returns_true_if_strings_ends_withgreater_than_distance(self):
+        string = "aa > 1m"
+        assert taxa_needs_review(string) is True
+
+    def test_returns_true_if_strings_ends_with_underscore_letter(self):
+        string = "aa _T"
+        assert taxa_needs_review(string) is True
+
+        string = "aa _T_"
+        assert taxa_needs_review(string) is True
+
+    def test_returns_false_otherwise(self):
+        string = "aa"
+        assert taxa_needs_review(string) is False
