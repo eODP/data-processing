@@ -1,0 +1,95 @@
+field,type
+A/W,sample
+Bottom Depth [m],sample
+Bottom [cm],sample
+Core,sample
+Core-Sect,sample
+Exp,sample
+Extra Sample ID Data,sample
+Hole,sample
+Sample,sample
+Section,sample
+Site,sample
+Top Depth [m],sample
+Top [cm],sample
+Type,sample
+% Planktic Foraminifera within whole sample,taxonomy metadata
+Abundance,taxonomy metadata
+Additional zone name,taxonomy metadata
+Additional zone name (short),taxonomy metadata
+Age,taxonomy metadata
+Aspect comment (etching),taxonomy metadata
+"Aspect comment (etching),Comment (general)",taxonomy metadata
+BF comment,taxonomy metadata
+COMMENTS,taxonomy metadata
+Chrysophyte cyst group abundance,taxonomy metadata
+Comment,taxonomy metadata
+Comment (general),taxonomy metadata
+Comments,taxonomy metadata
+Datum age average [Ma],taxonomy metadata
+Datum age maximum [Ma],taxonomy metadata
+Datum age minimum [Ma],taxonomy metadata
+Datum author year,taxonomy metadata
+Datum comment,taxonomy metadata
+Datum group,taxonomy metadata
+Datum group code,taxonomy metadata
+Datum name,taxonomy metadata
+Datum name generic,taxonomy metadata
+Datum occurrence,taxonomy metadata
+Datum region,taxonomy metadata
+Datum status,taxonomy metadata
+Datum type,taxonomy metadata
+Datum validation comment,taxonomy metadata
+Diatom preservation - pyritization2,taxonomy metadata
+Diatom preservation dissolution,taxonomy metadata
+Diatom preservation fragmentation,taxonomy metadata
+Diatoms and siliceous plankton comment,taxonomy metadata
+Diatoms group abundance,taxonomy metadata
+Ebridian group abundance,taxonomy metadata
+File Data,taxonomy metadata
+Foram abundance,taxonomy metadata
+Fragmentation,taxonomy metadata
+Fragmentation rank [auto-pop],taxonomy metadata
+General comment,taxonomy metadata
+Genus/species (upper zone),taxonomy metadata
+Genus/species lower zone),taxonomy metadata
+Group Abundance,taxonomy metadata
+Group abundance,taxonomy metadata
+Large Benthic Forams [%],taxonomy metadata
+Lower boundary age av. [Ma],taxonomy metadata
+Lower boundary age max [Ma],taxonomy metadata
+Lower boundary age min [Ma],taxonomy metadata
+Mixing,taxonomy metadata
+Nannofossil abundance,taxonomy metadata
+Nannofossil comment,taxonomy metadata
+No. specimens/tray,taxonomy metadata
+"PALEO WATER DEPTH (IS=inner shelf, MS=middle shelf, OS=outer shelf)",taxonomy metadata
+PF Preservation,taxonomy metadata
+Percentage of benthic forams in total foram assemblage [%],taxonomy metadata
+Percentage of non-calcareous agglutinated forams in total foram assemblage [%],taxonomy metadata
+Percentage of planktic forams in total foram assemblage [%],taxonomy metadata
+Planktonic Benthic ratio (P:B),taxonomy metadata
+Preservation,taxonomy metadata
+"Reworking comment (1= <1%, 2= light 1-10%, 3= >10%)",taxonomy metadata
+"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",taxonomy metadata
+Sample comment,taxonomy metadata
+Sample preparation comment,taxonomy metadata
+Ship File Links,taxonomy metadata
+Shore File Links,taxonomy metadata
+Silicoflagellates group abundance,taxonomy metadata
+Temperature Range,taxonomy metadata
+Total in situ dinocysts,taxonomy metadata
+Type (lower zone),taxonomy metadata
+Type (upper zone),taxonomy metadata
+Upper boundary age av. [Ma],taxonomy metadata
+Upper boundary age max [Ma],taxonomy metadata
+Upper boundary age min [Ma],taxonomy metadata
+Zone,taxonomy metadata
+Zone author (year),taxonomy metadata
+Zone comment,taxonomy metadata
+Zone group,taxonomy metadata
+"Zone group,Type (upper zone)",taxonomy metadata
+Zone name,taxonomy metadata
+Zone name (short),taxonomy metadata
+Zone name [short],taxonomy metadata
+Zone status,taxonomy metadata
