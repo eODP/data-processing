@@ -1,4 +1,4 @@
-﻿Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
 342-U1406A-2H-2-W 100/102-PAL,342,U1406,A,2,2-2,H,2,W,100/102-PAL,0,2,8.7,8.72,8.71,VG [P21],P [A60],R [A60],R [A60],A [A60],A [A60],P [A60],,
 342-U1406A-2H-4-W 100/102-PAL,342,U1406,A,2,2-4,H,4,W,100/102-PAL,0,2,11.7,11.72,11.71,VG [P21],P [A60],P [A60],R [A60],A [A60],A [A60],P [A60],,
 342-U1406A-2H-5-W 100/102-PAL,342,U1406,A,2,2-5,H,5,W,100/102-PAL,0,2,13.2,13.22,13.21,VG [P21],P [A60],F [A60],A [A60],A [A60],A [A60],A [A60],,
@@ -35,7 +35,7 @@
 342-U1406A-16H-6-W 80/82-PAL,342,U1406,A,16,16-6,H,6,W,80/82-PAL,0,2,147.5,147.52,147.51,VG [P21],A [A60],F [A60],A [A60],A [A60],D [A60],A [A60],,
 342-U1406A-17H-3-W 46/48-PAL,342,U1406,A,17,17-3,H,3,W,46/48-PAL,0,2,151.56,151.58,151.57,M [P21],P [A60],A [A60],A [A60],F [A60],D [A60],A [A60],,
 342-U1406A-17H-5-W 91/93-PAL,342,U1406,A,17,17-5,H,5,W,91/93-PAL,0,2,155.01,155.03,155.02,VG [P21],P [A60],A [A60],F [A60],F [A60],A [A60],D [A60],,
-342-U1406A-18H-2-W 45/47-PAL,342,U1406,A,18,18-2,H,2,W,45/47-PAL,0,2,159.09,159.11,159.10,VG [P21],A [A60],R [A60],A [A60],P [A60],D [A60],D [A60],,
+342-U1406A-18H-2-W 45/47-PAL,342,U1406,A,18,18-2,H,2,W,45/47-PAL,0,2,159.09,159.11,159.1,VG [P21],A [A60],R [A60],A [A60],P [A60],D [A60],D [A60],,
 342-U1406A-18H-4-W 60/62-PAL,342,U1406,A,18,18-4,H,4,W,60/62-PAL,0,2,162.24,162.26,162.25,G [P21],A [A60],F [A60],D [A60],F [A60],D [A60],F [A60],,
 342-U1406A-19H-1-W 97/99-PAL,342,U1406,A,19,19-1,H,1,W,97/99-PAL,0,2,165.67,165.69,165.68,VG [P21],R [A60],A [A60],F [A60],F [A60],A [A60],D [A60],,
 342-U1406A-19H-4-W 86/88-PAL,342,U1406,A,19,19-4,H,4,W,86/88-PAL,0,2,170.06,170.08,170.07,G [P21],A [A60],F [A60],A [A60],P [A60],D [A60],D [A60],,
