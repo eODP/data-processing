@@ -189,12 +189,16 @@ def restore_duplicate_column_names(df, original_columns):
     return df
 
 
-def csv_cleanup(df, csv_path):
+def compare_and_restore_duplicate_column_names(df, csv_path):
     if any([col.endswith(".1") for col in df.columns]):
         csv_data = pd.read_csv(csv_path, header=None, nrows=1)
         original_columns = csv_data.iloc[0].to_list()
         df = restore_duplicate_column_names(df, original_columns)
+    return df
 
+
+def csv_cleanup(df, csv_path):
+    df = compare_and_restore_duplicate_column_names(df, csv_path)
     df = restore_integer_columns(df)
     return replace_unnamed_xx_columns(df)
 
