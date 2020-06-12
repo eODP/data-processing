@@ -80,7 +80,9 @@ Percentage of non-calcareous agglutinated forams in total foram assemblage [%],t
 Percentage of planktic forams in total foram assemblage [%],taxonomy metadata
 Piece,taxonomy metadata
 Planktonic Benthic ratio (P:B),taxonomy metadata
+Pleurostomellids comment,taxonomy metadata
 Preservation,taxonomy metadata
+Pteropod group abundance,taxonomy metadata
 "Reworking comment (1= <1%, 2= light 1-10%, 3= >10%)",taxonomy metadata
 "Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",taxonomy metadata
 Sample comment,taxonomy metadata
@@ -88,6 +90,7 @@ Sample preparation comment,taxonomy metadata
 Ship File Links,taxonomy metadata
 Shore File Links,taxonomy metadata
 Silicoflagellates group abundance,taxonomy metadata
+Sillicoflagellate abundance,taxonomy metadata
 Temperature Range,taxonomy metadata
 Total in situ dinocysts,taxonomy metadata
 Type (lower zone),taxonomy metadata
