@@ -20,7 +20,10 @@ Additional zone name (short),taxonomy metadata
 Age,taxonomy metadata
 Aspect comment (etching),taxonomy metadata
 "Aspect comment (etching),Comment (general)",taxonomy metadata
+BF Group abundance,taxonomy metadata
+BF Preservation,taxonomy metadata
 BF comment,taxonomy metadata
+BF preservation,taxonomy metadata
 COMMENTS,taxonomy metadata
 Chrysophyte cyst group abundance,taxonomy metadata
 Comment,taxonomy metadata
@@ -40,6 +43,7 @@ Datum region,taxonomy metadata
 Datum status,taxonomy metadata
 Datum type,taxonomy metadata
 Datum validation comment,taxonomy metadata
+Diatom abundance,taxonomy metadata
 Diatom preservation - pyritization2,taxonomy metadata
 Diatom preservation dissolution,taxonomy metadata
 Diatom preservation fragmentation,taxonomy metadata
@@ -55,6 +59,8 @@ Genus/species (upper zone),taxonomy metadata
 Genus/species lower zone),taxonomy metadata
 Group Abundance,taxonomy metadata
 Group abundance,taxonomy metadata
+Group abundance (%),taxonomy metadata
+Group preservation,taxonomy metadata
 Large Benthic Forams [%],taxonomy metadata
 Lower boundary age av. [Ma],taxonomy metadata
 Lower boundary age max [Ma],taxonomy metadata
@@ -64,10 +70,15 @@ Nannofossil abundance,taxonomy metadata
 Nannofossil comment,taxonomy metadata
 No. specimens/tray,taxonomy metadata
 "PALEO WATER DEPTH (IS=inner shelf, MS=middle shelf, OS=outer shelf)",taxonomy metadata
+PF Group Abundance,taxonomy metadata
 PF Preservation,taxonomy metadata
+PF Zone,taxonomy metadata
+PF group abundance,taxonomy metadata
+PF preservation,taxonomy metadata
 Percentage of benthic forams in total foram assemblage [%],taxonomy metadata
 Percentage of non-calcareous agglutinated forams in total foram assemblage [%],taxonomy metadata
 Percentage of planktic forams in total foram assemblage [%],taxonomy metadata
+Piece,taxonomy metadata
 Planktonic Benthic ratio (P:B),taxonomy metadata
 Preservation,taxonomy metadata
 "Reworking comment (1= <1%, 2= light 1-10%, 3= >10%)",taxonomy metadata
@@ -84,6 +95,9 @@ Type (upper zone),taxonomy metadata
 Upper boundary age av. [Ma],taxonomy metadata
 Upper boundary age max [Ma],taxonomy metadata
 Upper boundary age min [Ma],taxonomy metadata
+XBroken,taxonomy metadata
+XCorroded,taxonomy metadata
+XCrumpled,taxonomy metadata
 Zone,taxonomy metadata
 Zone author (year),taxonomy metadata
 Zone comment,taxonomy metadata
@@ -93,3 +107,13 @@ Zone name,taxonomy metadata
 Zone name (short),taxonomy metadata
 Zone name [short],taxonomy metadata
 Zone status,taxonomy metadata
+comments,taxonomy metadata
+constituent,taxonomy metadata
+count,taxonomy metadata
+count_type,taxonomy metadata
+dupes and comments,taxonomy metadata
+pc_abundance_name_mode,taxonomy metadata
+pc_fossil_group,taxonomy metadata
+pc_fossil_name,taxonomy metadata
+pc_preservation_name_average,taxonomy metadata
+physical_constituent_name,taxonomy metadata
