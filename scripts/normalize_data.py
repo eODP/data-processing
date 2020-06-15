@@ -62,35 +62,31 @@ def normalize_sample_col(df):
         create_sample_name(df)
 
 
+def create_sample_name_for_row(row, columns):
+    name = (
+        f"{row['Exp']}-{row['Site']}{row['Hole']}-"
+        f"{row['Core']}{row['Type']}-{row['Section']}-{row['A/W']}"
+    )
+
+    extra = "Extra Sample ID Data"
+    if extra in columns and row[extra] is not None and row[extra] is not np.NaN:
+        if row["A/W"] == "PAL":
+            name = name + "-" + row[extra]
+        else:
+            name = name + " " + row[extra]
+
+    name = re.sub("None", "", name)
+    name = re.sub("-{2,}", "-", name)
+    return re.sub("-$", "", name)
+
+
 def create_sample_name(df):
     """ Uses Exp...A/W columns to create a name for a sample """
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"}
     if names.issubset(df.columns):
-        dash = ["-" for i in range(len(df))]
-
-        # NOTE: must convert all columns to strings to handle None
-        df["Sample"] = (
-            df["Exp"].astype(str)
-            + dash
-            + df["Site"].astype(str)
-            + df["Hole"].astype(str)
-            + dash
-            + df["Core"].astype(str)
-            + df["Type"].astype(str)
-            + dash
-            + df["Section"].astype(str)
-            + dash
-            + df["A/W"].astype(str)
+        df["Sample"] = df.apply(
+            lambda row: create_sample_name_for_row(row, df.columns), axis=1
         )
-
-        # NOTE: Remove the string version of None;
-        # NOTE: a None value in an integer column will convert all integers to
-        # floats. Remove the float decimal.
-        df["Sample"] = df["Sample"].map(
-            lambda a: str(a).replace("nan", "").replace(".0", "").replace("None", "")
-        )
-        df["Sample"] = df["Sample"].str.replace(r"([\d\w])--+", r"\1-", regex=True)
-        df["Sample"] = df["Sample"].str.replace(r"-$", "", regex=True)
 
     else:
         raise ValueError("File does not have the expected columns.")
@@ -147,7 +143,7 @@ def valid_sample_value(name):
     elif re.search(sample_aw_regex, name):
         return True
     else:
-        print("bad", name)
+        # print("bad", name)
         return False
 
 

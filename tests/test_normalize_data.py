@@ -119,6 +119,44 @@ class TestCreateSampleName:
 
         assert_frame_equal(df, expected)
 
+    def test_adds_dash_extra_sample_data_if_PAL_aw(self):
+        data = {
+            "Exp": [1],
+            "Site": ["s"],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["PAL"],
+            "Extra Sample ID Data": ["e"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-sh-2t-3-PAL-e"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_adds_space_extra_sample_data_if_any_aw(self):
+        data = {
+            "Exp": [1],
+            "Site": ["s"],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+            "Extra Sample ID Data": ["e"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-sh-2t-3-a e"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
     def test_creates_Sample_string_if_column_are_null(self):
         data = {
             "Exp": [1],
