@@ -3,6 +3,30 @@ import os
 import numpy as np
 import pandas as pd
 
+# HACK: (@)? are meaningless matches so each regex has 7 capture groups
+# (1)-(U1)(A)
+# (Exp)-(Site)(Hole)
+sample_hole_regex = r"(^\d+)-(U\d+)([a-zA-Z])(@)?(@)?(@)?(@)?$"
+# (1)-(U1)(A)-(1)
+# (Exp)-(Site)(Hole)-(Core)
+sample_core_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)(@)?(@)?(@)?$"
+# (1)-(U1)(A)-(1)(A)
+# (Exp)-(Site)(Hole)-(Core)(Type)
+sample_type_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])(@)?(@)?$"
+# (1)-(U1)(A)-(1)(A)-(1)
+# (1)-(U1)(A)-(1)(A)-(A)
+# (Exp)-(Site)(Hole)-(Core)(Type)-(Section)
+sample_sect_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)(@)?$"
+# (1)-(U1)(A)-(1)(A)-(1)-(1)
+# (1)-(U1)(A)-(1)(A)-(A)-(A)
+# (Exp)-(Site)(Hole)-(Core)(Type)-(Section)-(AW)
+sample_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+)"
+# (1)-(U1)(A)-(1)-(1)-(1)
+# (1)-(U1)(A)-(1)-(A)-(A)
+# (Exp)-(Site)(Hole)-(Core)-(Section)-(AW)
+sample_no_type_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)(@)?-(\w+)-(\w+)"
+invalid_sample_regex = r"(-)?(-)?(-)?(-)?(-)?(-)?(-)?"
+
 
 def tablerize(word):
     """Converts a word into a format suitable for database field names"""
@@ -92,40 +116,96 @@ def normalize_expedition_section_cols(df):
     if names.issubset(df.columns):
         pass
     elif "Sample" in df.columns:
-        df = df.join(extract_sample_parts(df["Sample"]))
+        df = df.join(create_sample_cols(df["Sample"]))
     elif "Label ID" in df.columns:
-        df = df.join(extract_sample_parts(df["Label ID"]))
+        df = df.join(create_sample_cols(df["Label ID"]))
     else:
         raise ValueError("File does not have the expected columns.")
     return df
 
 
-def valid_sample_value(x):
-    if x is None:
+def valid_sample_value(name):
+    if isinstance(name, str):
+        name = re.sub("-#\d*", "", name)
+
+    if name is None:
         return True
-
-    if x is np.NaN:
+    elif name is np.NaN:
         return True
-
-    if x == "No data this hole":
+    elif name == "No data this hole":
         return True
+    elif re.search(sample_hole_regex, name):
+        return True
+    elif re.search(sample_core_regex, name):
+        return True
+    elif re.search(sample_type_regex, name):
+        return True
+    elif re.search(sample_sect_regex, name):
+        return True
+    elif re.search(sample_no_type_aw_regex, name):
+        return True
+    elif re.search(sample_aw_regex, name):
+        return True
+    else:
+        print("bad", name)
+        return False
 
-    regex = r"(^\d+)-(U\d+)(\w)-?(\d+)?(\w)?-?([\d\w]+)?-?(\w)?"
-    return re.search(regex, x) is not None
+
+def extract_sample_parts(name):
+    if isinstance(name, str):
+        name = re.sub("-#\d*", "", name)
+
+    if name is None or name == "No data this hole" or name is np.NaN:
+        result = re.search(invalid_sample_regex, "")
+    elif re.search(sample_hole_regex, name):
+        result = re.search(sample_hole_regex, name)
+    elif re.search(sample_core_regex, name):
+        result = re.search(sample_core_regex, name)
+    elif re.search(sample_type_regex, name):
+        result = re.search(sample_type_regex, name)
+    elif re.search(sample_sect_regex, name):
+        result = re.search(sample_sect_regex, name)
+    elif re.search(sample_no_type_aw_regex, name):
+        result = re.search(sample_no_type_aw_regex, name)
+    elif re.search(sample_aw_regex, name):
+        result = re.search(sample_aw_regex, name)
+    else:
+        result = re.search(invalid_sample_regex, name)
+
+    return result.groups()
 
 
-def extract_sample_parts(series):
+def create_sample_cols(series):
     """ Extract Exp...A/W info from a panda series """
-    # matches (1)-(U1)(A)-(1)(A)-(1)-(A)
-    #         (1)-(U1)(A)-(1)(A)-(A)-(A)
-    reg = r"(^\d+)-(U\d+)(\w)-?(\d+)?(\w)?-?([\d\w]+)?-?(\w)?"
-    res = series.str.extract(reg)
-    res.columns = ["Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"]
+    df = pd.DataFrame(
+        {
+            "Exp": [],
+            "Site": [],
+            "Hole": [],
+            "Core": [],
+            "Type": [],
+            "Section": [],
+            "A/W": [],
+        }
+    )
+
+    for item in series.to_list():
+        parts = extract_sample_parts(item)
+        parts_dict = {
+            "Exp": parts[0],
+            "Site": parts[1],
+            "Hole": parts[2],
+            "Core": parts[3],
+            "Type": parts[4],
+            "Section": parts[5],
+            "A/W": parts[6],
+        }
+        df = df.append(parts_dict, ignore_index=True)
 
     if not all([valid_sample_value(x) for x in series]):
         raise ValueError("Sample name uses wrong format.")
 
-    return res
+    return df
 
 
 def restore_integer_columns(df):

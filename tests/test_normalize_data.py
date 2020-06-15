@@ -12,7 +12,7 @@ from scripts.normalize_data import (
     get_expedition_from_csv,
     create_sample_name,
     normalize_expedition_section_cols,
-    extract_sample_parts,
+    create_sample_cols,
     restore_integer_columns,
     update_metadata,
     replace_unnamed_xx_columns,
@@ -433,7 +433,7 @@ class TestNormalizeExpeditionSectionCols:
 
         assert_frame_equal(df, expected)
 
-    def test_no_data(self):
+    def test_handles_no_data(self):
         data = {
             "Col": [0],
             "Sample": ["No data this hole"],
@@ -465,26 +465,116 @@ class TestNormalizeExpeditionSectionCols:
             normalize_expedition_section_cols(df)
 
 
-class TestExtractSampleParts:
-    def test_extracts_sample_parts_from_a_valid_string(self):
+class TestCreateSampleCols:
+    def test_extracts_parts_from_exp_site_hole_core_type_section_aw_string(self):
         data = {
-            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+            "Label ID": ["1-U1h-2t-3-a", "10-U20H-20T-Sec-4AA"],
         }
         df = pd.DataFrame(data)
 
         data = {
             "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
+            "Site": ["U1", "U20"],
             "Hole": ["h", "H"],
             "Core": ["2", "20"],
             "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": ["a", "A"],
+            "Section": ["3", "Sec"],
+            "A/W": ["a", "4AA"],
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Label ID"])
+        df = create_sample_cols(df["Label ID"])
         assert_frame_equal(df, expected)
+
+    def test_raises_error_if_exp_is_letters(self):
+        data = {
+            "Sample": ["e-U1h-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_site_does_not_begin_with_U(self):
+        data = {
+            "Sample": ["1-1h-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_site_ends_with_letters(self):
+        data = {
+            "Sample": ["1-Ush-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_hole_is_a_number(self):
+        data = {
+            "Sample": ["1-U11-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_hole_has_multiple_letters(self):
+        data = {
+            "Sample": ["1-U1hh-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_cores_has_letters(self):
+        data = {
+            "Sample": ["1-U1h-ct-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_handles_missing_type(self):
+        data = {
+            "Sample": ["1-U1h-11-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1"],
+            "Site": ["U1"],
+            "Hole": ["h"],
+            "Core": ["11"],
+            "Type": [None],
+            "Section": ["3"],
+            "A/W": ["a"],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_raises_error_if_type_has_multiple_letters(self):
+        data = {
+            "Sample": ["1-U1h-1tt-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
 
     def test_accepts_exp_site_hole_core_type_section_string(self):
         data = {
@@ -503,7 +593,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Label ID"])
+        df = create_sample_cols(df["Label ID"])
         assert_frame_equal(df, expected)
 
     def test_accepts_exp_site_hole_core_type_string(self):
@@ -523,7 +613,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_accepts_exp_site_hole_core_string(self):
@@ -543,7 +633,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_accepts_exp_site_hole_string(self):
@@ -563,7 +653,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_rejects_exp_site_string(self):
@@ -574,7 +664,7 @@ class TestExtractSampleParts:
 
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
-            df = extract_sample_parts(df["Sample"])
+            df = create_sample_cols(df["Sample"])
 
     def test_rejects_exp_string(self):
         data = {
@@ -584,7 +674,27 @@ class TestExtractSampleParts:
 
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
-            df = extract_sample_parts(df["Sample"])
+            df = create_sample_cols(df["Sample"])
+
+    def test_ignores_hash_symbol_element_in_sample_name(self):
+        data = {
+            "Sample": ["349-U1431E-7R-1-#1-A", "349-U1431E-7R-1-#1"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["349", "349"],
+            "Site": ["U1431", "U1431"],
+            "Hole": ["E", "E"],
+            "Core": ["7", "7"],
+            "Type": ["R", "R"],
+            "Section": ["1", "1"],
+            "A/W": ["A", None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Sample"])
+        assert_frame_equal(df, expected)
 
     def test_returns_None_when_input_is_None(self):
         data = {
@@ -603,7 +713,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_returns_none_when_input_is_No_data_this_hole(self):
@@ -623,7 +733,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_otherwise_raise_error(self):
@@ -634,7 +744,7 @@ class TestExtractSampleParts:
 
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
-            extract_sample_parts(df["Sample"])
+            create_sample_cols(df["Sample"])
 
 
 class TestRestoreIntColumns:
