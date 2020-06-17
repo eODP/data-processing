@@ -83,3 +83,11 @@ Run linter (flake8) and code formatter (Black).
 ```bash
 python scripts/linter.py
 ```
+
+## Deploy
+
+We are using rsync to sync the files to the live server
+
+```bash
+./deploy.sh user@live.server.host
+```
