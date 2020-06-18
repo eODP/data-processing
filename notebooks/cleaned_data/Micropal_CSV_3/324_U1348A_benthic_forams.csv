@@ -1,0 +1,12 @@
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Group preservation,Group abundance,Comment,Ammoshpaeroidina,Dorothia,Gaudryina,Glomospirella,Marssonella,Spiroplectammina,Spirolectinella,Tritaxia,Pseudogaudryinella,Aragonia,Astacolus,Berthelina,Citharina,Conorboides,Conorbinoides,Conorotalites,Dentalina,Edithaella,Ellipsoglandulina,Frondicularia,Gavelinella,Globorotalites,Globurina,Gyroidinoides,Laevidentalina,Lenticulina,Lingulonodosaria,Marginulinopsis,Nodosaria,Oolina,Oridosalis,Osangularia,Planularia,Pleurostomella,Praebulimina,Psilocitharella,Quadrimorphina,Ramulina,Remesella,Reussoolina,Saracenaria,Sliteria,Tristix,Valvulineria,Vaginulinopsis
+324-U1348A-2R-1-W 9/10-FORAM,324,U1348,A,2,2-1,R,1,W,9/10-FORAM,0,1,84.29,84.3,G,,,,,,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,T,,,,,,,,,,R,,,
+324-U1348A-2R-CC-PAL,324,U1348,A,2,2-CC,R,CC,PAL,,0,3,85.39,85.42,G,,,,,T,,,,,,,,,,,,,,,,,,,,T,T,,,,,T,,,T,,,,,,T,,,,T,,,
+324-U1348A-3R-1-PAL,324,U1348,A,3,3-1,R,1,PAL,,0,1,93.83,93.84,M,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,,
+324-U1348A-4R-1-W 0/1-PAL99     ,324,U1348,A,4,4-1,R,1,W,0/1-PAL99     ,0,1,103.4,103.41,G,,,,,,,,,,,,,,,,,,,,,,,,T,,T,,,,,,,,,,T,,,,,,,,,,,
+324-U1348A-5R-1-W 0/1-PAL0      ,324,U1348,A,5,5-1,R,1,W,0/1-PAL0      ,0,1,113.0,113.01,G,,,,,,,,,,,,,,,,,,,,,,,T,,,T,,,,,,,,T,,,,,,,,,,,,,
+324-U1348A-6R-1-PAL,324,U1348,A,6,6-1,R,1,PAL,,0,1,122.6,122.61,G,,,,,F,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,C,,,,,,,T,,,,,,
+324-U1348A-7R-1-W 6/7-PAL2      ,324,U1348,A,7,7-1,R,1,W,6/7-PAL2      ,0,1,132.26,132.27,M,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,,
+324-U1348A-8R-1-W 7/9-PAL3      ,324,U1348,A,8,8-1,R,1,W,7/9-PAL3      ,0,2,141.97,141.99,P,,,,,,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,T,,,,,,,,,,,,,
+324-U1348A-9R-1-W 19/20-PAL4      ,324,U1348,A,9,9-1,R,1,W,19/20-PAL4      ,0,1,151.69,151.7,P,,,T,T,F,,,,,,,,,,,,,,,,,,T,,,R,,R,,,,T,,C,,T,,,,T,,,,,,,
+324-U1348A-10R-1-W 1/2-FORAM,324,U1348,A,10,10-1,R,1,W,1/2-FORAM,0,1,161.11,161.12,G,,,,C,C,,,,,,,,,,,,,T,,,,,C,,,R,,,,,,,,A,,,,,,,,,T,,,,
+324-U1348A-10R-1-W 20/21-FORAM,324,U1348,A,10,10-1,R,1,W,20/21-FORAM,0,1,161.3,161.31,G,,,,,A,,T,,,,,,,,,,,,,,,,A,,,A,C,R,,,,,,,,,,,,R,,T,T,,,,

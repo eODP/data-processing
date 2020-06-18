@@ -1,3 +1,10 @@
+from io import StringIO
+
+import pandas as pd
+import numpy as np
+from pandas._testing import assert_frame_equal
+import pytest
+
 from scripts.normalize_data import (
     tablerize,
     convert_column_names,
@@ -5,17 +12,17 @@ from scripts.normalize_data import (
     get_expedition_from_csv,
     create_sample_name,
     normalize_expedition_section_cols,
-    extract_sample_parts,
+    create_sample_cols,
     restore_integer_columns,
     update_metadata,
     replace_unnamed_xx_columns,
     normalize_columns,
+    extract_taxon_group_from_filename,
+    check_duplicate_columns,
+    restore_duplicate_column_names,
+    clean_taxon_name,
+    taxa_needs_review,
 )
-import pandas as pd
-import numpy as np
-
-from pandas._testing import assert_frame_equal
-import pytest
 
 
 class TestTablerize:
@@ -106,6 +113,44 @@ class TestCreateSampleName:
         }
         df = pd.DataFrame(data)
         data["Sample"] = ["1-sh-2t-3-a"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_adds_dash_extra_sample_data_if_PAL_aw(self):
+        data = {
+            "Exp": [1],
+            "Site": ["s"],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["PAL"],
+            "Extra Sample ID Data": ["e"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-sh-2t-3-PAL-e"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_adds_space_extra_sample_data_if_any_aw(self):
+        data = {
+            "Exp": [1],
+            "Site": ["s"],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+            "Extra Sample ID Data": ["e"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-sh-2t-3-a e"]
         expected = pd.DataFrame(data)
 
         create_sample_name(df)
@@ -426,7 +471,7 @@ class TestNormalizeExpeditionSectionCols:
 
         assert_frame_equal(df, expected)
 
-    def test_no_data(self):
+    def test_handles_no_data(self):
         data = {
             "Col": [0],
             "Sample": ["No data this hole"],
@@ -458,26 +503,116 @@ class TestNormalizeExpeditionSectionCols:
             normalize_expedition_section_cols(df)
 
 
-class TestExtractSampleParts:
-    def test_extracts_sample_parts_from_a_valid_string(self):
+class TestCreateSampleCols:
+    def test_extracts_parts_from_exp_site_hole_core_type_section_aw_string(self):
         data = {
-            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
+            "Label ID": ["1-U1h-2t-3-a", "10-U20H-20T-Sec-4AA"],
         }
         df = pd.DataFrame(data)
 
         data = {
             "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
+            "Site": ["U1", "U20"],
             "Hole": ["h", "H"],
             "Core": ["2", "20"],
             "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": ["a", "A"],
+            "Section": ["3", "Sec"],
+            "A/W": ["a", "4AA"],
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Label ID"])
+        df = create_sample_cols(df["Label ID"])
         assert_frame_equal(df, expected)
+
+    def test_raises_error_if_exp_is_letters(self):
+        data = {
+            "Sample": ["e-U1h-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_site_does_not_begin_with_U(self):
+        data = {
+            "Sample": ["1-1h-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_site_ends_with_letters(self):
+        data = {
+            "Sample": ["1-Ush-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_hole_is_a_number(self):
+        data = {
+            "Sample": ["1-U11-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_hole_has_multiple_letters(self):
+        data = {
+            "Sample": ["1-U1hh-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_raises_error_if_cores_has_letters(self):
+        data = {
+            "Sample": ["1-U1h-ct-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
+
+    def test_handles_missing_type(self):
+        data = {
+            "Sample": ["1-U1h-11-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1"],
+            "Site": ["U1"],
+            "Hole": ["h"],
+            "Core": ["11"],
+            "Type": [None],
+            "Section": ["3"],
+            "A/W": ["a"],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Sample"])
+        assert_frame_equal(df, expected)
+
+    def test_raises_error_if_type_has_multiple_letters(self):
+        data = {
+            "Sample": ["1-U1h-1tt-3-a"],
+        }
+        df = pd.DataFrame(data)
+
+        message = "Sample name uses wrong format."
+        with pytest.raises(ValueError, match=message):
+            create_sample_cols(df["Sample"])
 
     def test_accepts_exp_site_hole_core_type_section_string(self):
         data = {
@@ -496,7 +631,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Label ID"])
+        df = create_sample_cols(df["Label ID"])
         assert_frame_equal(df, expected)
 
     def test_accepts_exp_site_hole_core_type_string(self):
@@ -516,7 +651,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_accepts_exp_site_hole_core_string(self):
@@ -536,7 +671,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_accepts_exp_site_hole_string(self):
@@ -556,7 +691,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_rejects_exp_site_string(self):
@@ -567,7 +702,7 @@ class TestExtractSampleParts:
 
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
-            df = extract_sample_parts(df["Sample"])
+            df = create_sample_cols(df["Sample"])
 
     def test_rejects_exp_string(self):
         data = {
@@ -577,7 +712,27 @@ class TestExtractSampleParts:
 
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
-            df = extract_sample_parts(df["Sample"])
+            df = create_sample_cols(df["Sample"])
+
+    def test_ignores_hash_symbol_element_in_sample_name(self):
+        data = {
+            "Sample": ["349-U1431E-7R-1-#1-A", "349-U1431E-7R-1-#1"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["349", "349"],
+            "Site": ["U1431", "U1431"],
+            "Hole": ["E", "E"],
+            "Core": ["7", "7"],
+            "Type": ["R", "R"],
+            "Section": ["1", "1"],
+            "A/W": ["A", None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Sample"])
+        assert_frame_equal(df, expected)
 
     def test_returns_None_when_input_is_None(self):
         data = {
@@ -596,7 +751,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_returns_none_when_input_is_No_data_this_hole(self):
@@ -616,7 +771,7 @@ class TestExtractSampleParts:
         }
         expected = pd.DataFrame(data)
 
-        df = extract_sample_parts(df["Sample"])
+        df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
     def test_otherwise_raise_error(self):
@@ -627,7 +782,7 @@ class TestExtractSampleParts:
 
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
-            extract_sample_parts(df["Sample"])
+            create_sample_cols(df["Sample"])
 
 
 class TestRestoreIntColumns:
@@ -720,26 +875,204 @@ class TestReplaceUnnamedXXColumns:
         assert new_df.columns[1] == "Bb"
         assert new_df.columns[2] == "CC CC"
 
+
 class TestNormalizeColumns:
     def test_replaces_column_if_column_matches(self):
-        all_cols = ['a', 'B']
-        old_cols = {'A', 'a', 'aa'}
-        new_col = 'AAA'
+        all_cols = ["a", "B"]
+        old_cols = {"A", "a", "aa"}
+        new_col = "AAA"
 
         res = normalize_columns(old_cols, new_col, all_cols)
 
         assert len(all_cols) == len(res)
-        assert res[0] == 'AAA'
-        assert res[1] == 'B'
-
+        assert res[0] == "AAA"
+        assert res[1] == "B"
 
     def test_does_not_replace_column_if_no_matches(self):
-        all_cols = ['a', 'B']
-        old_cols = {'BB', 'bb', 'b'}
-        new_col = 'BBB'
+        all_cols = ["a", "B"]
+        old_cols = {"BB", "bb", "b"}
+        new_col = "BBB"
 
         res = normalize_columns(old_cols, new_col, all_cols)
 
         assert len(all_cols) == len(res)
-        assert res[0] == 'a'
-        assert res[1] == 'B'
+        assert res[0] == "a"
+        assert res[1] == "B"
+
+
+class TestExtractTaxonGroupFromFilename:
+    def test_returns_taxon_group_from_filename(self):
+        file = "123_U1234A_taxon.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon"
+
+    def test_works_with_hyphens_and_underscores(self):
+        file = "123-U1234A_taxon.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon"
+
+    def test_ignores_numbers_after_taxon(self):
+        file1 = "123-U1234A_taxon-1.csv"
+        file2 = "123-U1234A_taxon_1.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon"
+        assert extract_taxon_group_from_filename(file2) == "taxon"
+
+    def test_returns_underscore_version_of_two_part_taxon_names(self):
+        file1 = "123-U1234A_taxon_group.csv"
+        file2 = "123-U1234A_taxon-group.csv"
+        file3 = "123-U1234A_taxon group.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+        assert extract_taxon_group_from_filename(file3) == "taxon_group"
+
+    def test_returns_lowercase_taxon_group_from_file(self):
+        file = "123_U1234A_Taxon_Group.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon_group"
+
+    def test_replace_one_or_more_spaces_with_one_underscore(self):
+        file1 = "123 U1234A taxon group .csv"
+        file2 = "123  U1234A  taxon  group  .csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+
+    def test_replace_one_or_more_dashes_with_one_underscore(self):
+        file1 = "123-U1234A-taxon-group.csv"
+        file2 = "123--U1234A--taxon--group.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+
+    def test_v2_returns_taxon_group_from_filename(self):
+        file = "123_taxon_U1234A.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon"
+
+    def test_v2_works_with_hyphens_and_underscores(self):
+        file = "123_taxon-U1234A.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon"
+
+    def test_v2_ignores_numbers_after_taxon(self):
+        file1 = "123_taxon-U1234A-1.csv"
+        file2 = "123_taxon-U1234A_1.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon"
+        assert extract_taxon_group_from_filename(file2) == "taxon"
+
+    def test_v2_returns_underscore_version_of_two_part_taxon_names(self):
+        file1 = "123_taxon_group-U1234A.csv"
+        file2 = "123_taxon-group-U1234A.csv"
+        file3 = "123_taxon group-U1234A.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+        assert extract_taxon_group_from_filename(file3) == "taxon_group"
+
+    def test_v2_returns_lowercase_taxon_group_from_file(self):
+        file = "123_Taxon_Group_U1234A.csv"
+
+        assert extract_taxon_group_from_filename(file) == "taxon_group"
+
+    def test_v2_replace_one_or_more_spaces_with_one_underscore(self):
+        file1 = "123 taxon group U1234A.csv"
+        file2 = "123  taxon  group  U1234A  .csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+
+    def test_v2_replace_one_or_more_dashes_with_one_underscore(self):
+        file1 = "123-taxon-group-U1234A.csv"
+        file2 = "123--taxon--group--U1234A.csv"
+
+        assert extract_taxon_group_from_filename(file1) == "taxon_group"
+        assert extract_taxon_group_from_filename(file2) == "taxon_group"
+
+
+class TestCompareDuplicateColumns:
+    def test_returns_True_if_duplicate_columns_have_same_value(self):
+        csv_data = "a,a,a\n" "1,1,1\n" "2,2,2\n"
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["a", "a.1", "a.2"]
+
+        assert check_duplicate_columns(df, "file") is True
+
+    def test_returns_False_if_duplicate_columns_have_different_values(self):
+        csv_data = "a,a,a\n" "1,3,3\n" "2,4,4\n"
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["a", "a.1", "a.2"]
+
+        assert check_duplicate_columns(df, "file") is False
+
+    def test_returns_None_if_column_end_with_number_but_is_not_duplicate(self):
+        csv_data = "taxon taxon,taxon taxon f.1\n" "1,1\n" "2,2\n"
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["taxon taxon", "taxon taxon f.1"]
+
+        assert check_duplicate_columns(df, "file") is None
+
+    def test_returns_None_for_unique_columns(self):
+        csv_data = "aaa,bbb\n" "1,1\n" "2,2\n"
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["aaa", "bbb"]
+
+        assert check_duplicate_columns(df, "file") is None
+
+
+class TestRestoreDuplicateColumnNames:
+    def test_returns_dataframe_with_original_column_names(self):
+        csv_data = "a,a,a,b\n" "1,1,3,5\n" "2,2,4,6\n"
+        original_columns = ["a", "a", "a", "b"]
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["a", "a.1", "a.2", "b"]
+
+        df = restore_duplicate_column_names(df, original_columns)
+        assert list(df.columns) == original_columns
+
+    def test_does_not_affect_columns_added_after_read_csv(self):
+        csv_data = "a,a,a,b\n" "1,1,3,5\n" "2,2,4,6\n"
+        original_columns = ["a", "a", "a", "b"]
+
+        df = pd.read_csv(StringIO(csv_data))
+        df["c"] = 7
+        df["d"] = 8
+        df["d.1"] = 9
+        assert list(df.columns) == ["a", "a.1", "a.2", "b", "c", "d", "d.1"]
+
+        df = restore_duplicate_column_names(df, original_columns)
+        assert list(df.columns) == original_columns + ["c", "d", "d.1"]
+
+
+class TestCleanTaxonName:
+    def test_removes_extra_spaces(self):
+        string = "   Aaa   bbb   "
+        assert clean_taxon_name(string) == "Aaa bbb"
+
+
+class TestTaxaNeedsReview:
+    def test_returns_true_if_string_ends_with_parathesis_content(self):
+        string = "aa (1)"
+        assert taxa_needs_review(string) is True
+
+    def test_returns_true_if_strings_ends_withgreater_than_distance(self):
+        string = "aa > 1m"
+        assert taxa_needs_review(string) is True
+
+    def test_returns_true_if_strings_ends_with_underscore_letter(self):
+        string = "aa _T"
+        assert taxa_needs_review(string) is True
+
+        string = "aa _T_"
+        assert taxa_needs_review(string) is True
+
+    def test_returns_false_otherwise(self):
+        string = "aa"
+        assert taxa_needs_review(string) is False

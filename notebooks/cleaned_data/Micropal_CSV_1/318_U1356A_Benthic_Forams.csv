@@ -1,5 +1,5 @@
-﻿Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Bolivina spp.,Cibicidoides mundulus,Epistominella exigua,Gyroidina zealandica,Hyperammina spp.,Hyperammina laevigata,Laticarinina pauperata,Lenticulina spp.,Martinotiella communis,Martinotiella nodulosa,Melonis pompilioides,Melonis spharoides,Nonionella iridea,Pullenia bulloides,Pullenia coryelli,Pyrgo murrhina,Rhabdammina linearis
-318-U1356A-45R-CC-PAL-FORAM,318,U1356,A,45,45-CC,R,CC,PAL,FORAM,0,5,422.27,422.32,,,,A[318_BF],,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Bolivina spp.,Cibicidoides mundulus,Epistominella exigua,Gyroidina zealandica,Hyperammina spp.,Hyperammina laevigata,Laticarinina pauperata,Lenticulina spp.,Martinotiella communis,Martinotiella nodulosa,Melonis pompilioides,Melonis spharoides,Nonionella iridea,Pullenia bulloides,Pullenia coryelli,Pyrgo murrhina,Rhabdammina linearis
+318-U1356A-45R-CC-PAL-FORAM,318,U1356,A,45,45-CC,R,CC,PAL,FORAM,0,5,422.27,422.32,,,,A,,,,,,,,,,,,,
 318-U1356A-46R-CC-PAL-FORAM,318,U1356,A,46,46-CC,R,CC,PAL,FORAM,0,5,434.66,434.71,,,,,,,,,,,,,,,,,
 318-U1356A-49R-CC-PAL,318,U1356,A,49,49-CC,R,CC,PAL,,0,5,460.05,460.1,,,,,,,,,,,,,,,,,
 318-U1356A-50R-CC-PAL-FORAM,318,U1356,A,50,50-CC,R,CC,PAL,FORAM,0,5,469.865,469.915,,,,,,,,,,,,,,,,,
