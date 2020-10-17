@@ -1,0 +1,818 @@
+verbatim_name,name,"name to use (if different from ""name"")",name comment field,taxon_group,Comment,Unnamed: 6,normalized_name
+calcispheres,calcispheres,Dinoflagellata indet.,calcispheres,nannofossils,"group, not a taxa","enter ""Haptophyta"" and reproduce the entry as comment? is there a more specific group name than Haptophyta? LL: calcispheres have an unknown origin but are most likely calcareous dinoflagellate cysts Is there a taxonomic name that they all fall under instead of Haptophyta? Dinoflagellata?",Dinoflagellata indet.
+reworked taxa,reworked taxa,Coccolithophyceae indet.,reworked taxa,nannofossils,"group, not a taxa","enter ""Haptophyta"" and reproduce the entry as comment? is there a more specific group name than Haptophyta? or do we want this as a taphonomic comment LL: there is not going to be a smore specific name to use. this is important and I think it is pertinent to taphonomy. If  you're cool with Haptophyta indet. and this as a comment, then we can do that.  Or we could move this to taphonomic descriptions",Coccolithophyceae indet.
+Nannofossil fragments,Nannofossil fragments,Coccolithophyceae indet.,Nannofossil fragments,nannofossils,not a taxa,"enter ""Coccolithophyceae"" and reproduce the entry as comment? is there a more specific group name than Coccolithophyceae? LL: I think you have to use the order name because there is no telling what they saw (fragments!).  Can you add the order name IDK it?",Coccolithophyceae indet.
+Reworked species,Reworked species,Coccolithophyceae indet.,Reworked species,nannofossils,not a taxa,deal with later; should go in as a taphonomony comment?,Coccolithophyceae indet.
+Calcisphere,Calcisphere,Dinoflagellata indet.,Calcisphere,nannofossils,not a taxa,"enter ""Coccolithophyceae"" and reproduce the entry as comment? is there a more specific group name than Coccolithophyceae?",Dinoflagellata indet.
+Calcispheres,Calcispheres,Dinoflagellata indet.,Calcispheres,nannofossils,not a taxa,"enter ""Coccolithophyceae"" and reproduce the entry as comment? is there a more specific group name than Coccolithophyceae? ""Calcisphere"" can't go in, needs to be a taxonomic name",Dinoflagellata indet.
+Cyclicargolithus cf. floridanus,Cyclicargolithus cf. floridanus,,,nannofossils,,"in PBDB, so it will be classified correctly",Cyclicargolithus cf. floridanus
+Ahmuellerella octoradiata,Ahmuellerella octoradiata,,,nannofossils,,"in PBDB, so it will be classified correctly",Ahmuellerella octoradiata
+Algirosphaera robusta,Algirosphaera robusta,,,nannofossils,,need to enter into PBDB,Algirosphaera robusta
+Amaurolithus amplificus,Amaurolithus amplificus,,,nannofossils,,"in PBDB, so it will be classified correctly",Amaurolithus amplificus
+Amaurolithus bizarrus,Amaurolithus bizarrus,,,nannofossils,,,Amaurolithus bizarrus
+Amaurolithus delicatus,Amaurolithus delicatus,,,nannofossils,,,Amaurolithus delicatus
+Amaurolithus primus,Amaurolithus primus,,,nannofossils,,,Amaurolithus primus
+Amaurolithus spp.,Amaurolithus spp.,,,nannofossils,,,Amaurolithus spp.
+Amaurolithus tricorniculatus,Amaurolithus tricorniculatus,,,nannofossils,,,Amaurolithus tricorniculatus
+Arkhangelskiella cymbiformis,Arkhangelskiella cymbiformis,,,nannofossils,,,Arkhangelskiella cymbiformis
+Arkhangelskiella maastrichtiensis,Arkhangelskiella maastrichtiensis,,,nannofossils,,,Arkhangelskiella maastrichtiensis
+Arkhangelskiella sp.,Arkhangelskiella sp.,,,nannofossils,,,Arkhangelskiella sp.
+Arkhangelskiella specillata,Arkhangelskiella specillata,,,nannofossils,,,Arkhangelskiella specillata
+Ascidian spicules,Ascidian spicules,Tunicata indet.,Ascidian spicules,nannofossils,,,Tunicata indet.
+Axopodorhabdus biramiculatus,Axopodorhabdus biramiculatus,,,nannofossils,,,Axopodorhabdus biramiculatus
+Axopodorhabdus cylindratus,Axopodorhabdus cylindratus,,,nannofossils,,,Axopodorhabdus cylindratus
+Biantholithus sparsus,Biantholithus sparsus,,,nannofossils,,,Biantholithus sparsus
+Biantholithus? flosculus,Biantholithus? flosculus,? Biantholithus flosculus,,nannofossils,,,? Biantholithus flosculus
+Biscutum,Biscutum,Biscutum sp.,,nannofossils,,,Biscutum sp.
+Biscutum castrorum,Biscutum castrorum,,,nannofossils,,,Biscutum castrorum
+Biscutum constans,Biscutum constans,,,nannofossils,,,Biscutum constans
+Biscutum coronum,Biscutum coronum,,,nannofossils,,,Biscutum coronum
+Biscutum dissimilis,Biscutum dissimilis,,,nannofossils,,,Biscutum dissimilis
+Biscutum ellipticum,Biscutum ellipticum,,,nannofossils,,,Biscutum ellipticum
+Biscutum magnum,Biscutum magnum,,,nannofossils,,,Biscutum magnum
+Biscutum spp.,Biscutum spp.,,,nannofossils,,,Biscutum spp.
+Biscutum ubiquens,Biscutum ubiquens,,,nannofossils,,,Biscutum ubiquens
+Blackites amplus bases,Blackites amplus bases,Blackities amplus,Blackites amplus bases,nannofossils,,,Blackities amplus
+Blackites creber,Blackites creber,,,nannofossils,,,Blackites creber
+Blackites gladius,Blackites gladius,,,nannofossils,,,Blackites gladius
+Blackites herculesii,Blackites herculesii,,,nannofossils,,,Blackites herculesii
+Blackites inflatus,Blackites inflatus,,,nannofossils,,,Blackites inflatus
+Blackites spinosus,Blackites spinosus,,,nannofossils,,,Blackites spinosus
+Blackites spp.,Blackites spp.,,,nannofossils,,,Blackites spp.
+Blackites tenuis,Blackites tenuis,,,nannofossils,,,Blackites tenuis
+Bomolithus elegans,Bomolithus elegans,,,nannofossils,,,Bomolithus elegans
+Bomolithus megastypus,Bomolithus megastypus,,,nannofossils,,,Bomolithus megastypus
+Braarudosphaera bigelowii,Braarudosphaera bigelowii,,,nannofossils,,,Braarudosphaera bigelowii
+Bramietteius serraculoides,Bramietteius serraculoides,Bramletteius serraculoides,,nannofossils,,,Bramletteius serraculoides
+Bramletteius serraculoides,Bramletteius serraculoides,,,nannofossils,,,Bramletteius serraculoides
+Broinsonia enormis,Broinsonia enormis,,,nannofossils,,,Broinsonia enormis
+Broinsonia furtiva,Broinsonia furtiva,,,nannofossils,,,Broinsonia furtiva
+Broinsonia galloisii,Broinsonia galloisii,,,nannofossils,,,Broinsonia galloisii
+Broinsonia parca constricta,Broinsonia parca constricta,,,nannofossils,,,Broinsonia parca constricta
+Broinsonia parca parca,Broinsonia parca parca,,,nannofossils,,,Broinsonia parca parca
+Broinsonia parca ssp expansa,Broinsonia parca ssp expansa,,,nannofossils,,,Broinsonia parca ssp expansa
+Broinsonia signata,Broinsonia signata,,,nannofossils,,,Broinsonia signata
+Broinsonia viriosa,Broinsonia viriosa,,,nannofossils,,,Broinsonia viriosa
+Calcicalathina alta,Calcicalathina alta,,,nannofossils,,,Calcicalathina alta
+Calcidiscus carlae,Calcidiscus carlae,,,nannofossils,,,Calcidiscus carlae
+Calcidiscus leptoporus,Calcidiscus leptoporus,,,nannofossils,,,Calcidiscus leptoporus
+Calcidiscus leptoporus (5-8 microns),Calcidiscus leptoporus (5-8 microns),,,nannofossils,,,Calcidiscus leptoporus (5-8 microns)
+Calcidiscus leptoporus (<5 microns),Calcidiscus leptoporus (<5 microns),,,nannofossils,,,Calcidiscus leptoporus (<5 microns)
+Calcidiscus leptoporus (>8 micron),Calcidiscus leptoporus (>8 micron),,,nannofossils,,,Calcidiscus leptoporus (>8 micron)
+Calcidiscus macintyrei,Calcidiscus macintyrei,,,nannofossils,,,Calcidiscus macintyrei
+Calcidiscus mcintyrei,Calcidiscus mcintyrei,Calcidiscus macintyrei,,nannofossils,,,Calcidiscus macintyrei
+Calcidiscus pacificanus,Calcidiscus pacificanus,,,nannofossils,,,Calcidiscus pacificanus
+Calcidiscus pataecus,Calcidiscus pataecus,,,nannofossils,,,Calcidiscus pataecus
+Calcidiscus premacintyrei,Calcidiscus premacintyrei,,,nannofossils,,,Calcidiscus premacintyrei
+Calcidiscus protoannulus,Calcidiscus protoannulus,,,nannofossils,,,Calcidiscus protoannulus
+Calcidiscus quadriperforatus,Calcidiscus quadriperforatus,,,nannofossils,,,Calcidiscus quadriperforatus
+Calcidiscus spp.,Calcidiscus spp.,,,nannofossils,,,Calcidiscus spp.
+Calcidiscus tropicus,Calcidiscus tropicus,,,nannofossils,,,Calcidiscus tropicus
+Calcidiscus tropicus +grill,Calcidiscus tropicus +grill,Calcidiscus tropicus,Calcidiscus tropicus +grill,nannofossils,,,Calcidiscus tropicus
+Calciosolenia aperta,Calciosolenia aperta,,,nannofossils,,,Calciosolenia aperta
+Calciosolenia brasiliensis,Calciosolenia brasiliensis,,,nannofossils,,,Calciosolenia brasiliensis
+Calciosolenia fossilis,Calciosolenia fossilis,,,nannofossils,,,Calciosolenia fossilis
+Calciosolenia murrayi,Calciosolenia murrayi,,,nannofossils,,,Calciosolenia murrayi
+Calciosolenia sp.,Calciosolenia sp.,,,nannofossils,,,Calciosolenia sp.
+Calciosolenia spp.,Calciosolenia spp.,,,nannofossils,,,Calciosolenia spp.
+Calculites obscurus,Calculites obscurus,,,nannofossils,,,Calculites obscurus
+Calculites spp.,Calculites spp.,,,nannofossils,,,Calculites spp.
+Campylosphaera dela,Campylosphaera dela,,,nannofossils,,,Campylosphaera dela
+Campylosphaera eodela,Campylosphaera eodela,,,nannofossils,,,Campylosphaera eodela
+Catinaster calyculus,Catinaster calyculus,,,nannofossils,,,Catinaster calyculus
+Catinaster coalitus,Catinaster coalitus,,,nannofossils,,,Catinaster coalitus
+Catinaster mexicanus,Catinaster mexicanus,,,nannofossils,,,Catinaster mexicanus
+Catinaster spp.,Catinaster spp.,,,nannofossils,,,Catinaster spp.
+Ceratolithina copis,Ceratolithina copis,,,nannofossils,,,Ceratolithina copis
+Ceratolithina naturalisteplateauensis,Ceratolithina naturalisteplateauensis,,,nannofossils,,,Ceratolithina naturalisteplateauensis
+Ceratolithoides,Ceratolithoides,Ceratolithoides sp.,,nannofossils,,,Ceratolithoides sp.
+Ceratolithoides kamptneri,Ceratolithoides kamptneri,,,nannofossils,,,Ceratolithoides kamptneri
+Ceratolithoides spp.,Ceratolithoides spp.,,,nannofossils,,,Ceratolithoides spp.
+Ceratolithus acutus,Ceratolithus acutus,,,nannofossils,,,Ceratolithus acutus
+Ceratolithus armatus,Ceratolithus armatus,,,nannofossils,,,Ceratolithus armatus
+Ceratolithus armatus (acutus),Ceratolithus armatus (acutus),Ceratolithus armatus,Ceratolithus armatus (acutus),nannofossils,,,Ceratolithus armatus
+Ceratolithus atlanticus,Ceratolithus atlanticus,,,nannofossils,,,Ceratolithus atlanticus
+Ceratolithus cristatus,Ceratolithus cristatus,,,nannofossils,,,Ceratolithus cristatus
+Ceratolithus cristatus (rugosus),Ceratolithus cristatus (rugosus),Ceratolithus cristatus,Ceratolithus cristatus (rugosus),nannofossils,,,Ceratolithus cristatus
+Ceratolithus cristatus var. telesmus,Ceratolithus cristatus var. telesmus,,,nannofossils,,,Ceratolithus cristatus var. telesmus
+Ceratolithus larrymayeri,Ceratolithus larrymayeri,,,nannofossils,,,Ceratolithus larrymayeri
+Ceratolithus rugosus,Ceratolithus rugosus,,,nannofossils,,,Ceratolithus rugosus
+Ceratolithus simplex,Ceratolithus simplex,,,nannofossils,,,Ceratolithus simplex
+Ceratolithus spp.,Ceratolithus spp.,,,nannofossils,,,Ceratolithus spp.
+Ceratolithus telesmus,Ceratolithus telesmus,,,nannofossils,,,Ceratolithus telesmus
+Ceratolithus tricorniculatus,Ceratolithus tricorniculatus,,,nannofossils,,,Ceratolithus tricorniculatus
+Chiasmolithus altus,Chiasmolithus altus,,,nannofossils,,,Chiasmolithus altus
+Chiasmolithus bidens,Chiasmolithus bidens,,,nannofossils,,,Chiasmolithus bidens
+Chiasmolithus californicus (>13¬µm),Chiasmolithus californicus (>13¬µm),Chiasmolithus californicus (>13 microns),,nannofossils,,,Chiasmolithus californicus (>13 microns)
+Chiasmolithus consuetus,Chiasmolithus consuetus,,,nannofossils,,,Chiasmolithus consuetus
+Chiasmolithus danicus,Chiasmolithus danicus,,,nannofossils,,,Chiasmolithus danicus
+Chiasmolithus expansus,Chiasmolithus expansus,,,nannofossils,,,Chiasmolithus expansus
+Chiasmolithus gigas,Chiasmolithus gigas,,,nannofossils,,,Chiasmolithus gigas
+Chiasmolithus grandis,Chiasmolithus grandis,,,nannofossils,,,Chiasmolithus grandis
+Chiasmolithus nitidus,Chiasmolithus nitidus,,,nannofossils,,,Chiasmolithus nitidus
+Chiasmolithus oamaruensis,Chiasmolithus oamaruensis,,,nannofossils,,,Chiasmolithus oamaruensis
+Chiasmolithus solitus,Chiasmolithus solitus,,,nannofossils,,,Chiasmolithus solitus
+Chiasmolithus spp.,Chiasmolithus spp.,,,nannofossils,,,Chiasmolithus spp.
+Chiasmolithus titus,Chiasmolithus titus,,,nannofossils,,,Chiasmolithus titus
+Chiastozygus,Chiastozygus,Chiastozygus sp.,,nannofossils,,,Chiastozygus sp.
+Chiastozygus garrisonii,Chiastozygus garrisonii,,,nannofossils,,,Chiastozygus garrisonii
+Chiastozygus litterarius,Chiastozygus litterarius,,,nannofossils,,,Chiastozygus litterarius
+Chiastozygus platyrhethus,Chiastozygus platyrhethus,,,nannofossils,,,Chiastozygus platyrhethus
+Chiphragmolithus acanothodes,Chiphragmolithus acanothodes,Chiphragmolithus acanthodes,,nannofossils,,,Chiphragmolithus acanthodes
+Chiphragmolithus acanthodes,Chiphragmolithus acanthodes,,,nannofossils,,,Chiphragmolithus acanthodes
+Chiphragmolithus armatus,Chiphragmolithus armatus,,,nannofossils,,,Chiphragmolithus armatus
+Chiphragmolithus barbatus,Chiphragmolithus barbatus,,,nannofossils,,,Chiphragmolithus barbatus
+Chiphragmolithus calathus,Chiphragmolithus calathus,,,nannofossils,,,Chiphragmolithus calathus
+Clausicoccus fenestratus,Clausicoccus fenestratus,,,nannofossils,,,Clausicoccus fenestratus
+Clausicoccus spp.,Clausicoccus spp.,,,nannofossils,,,Clausicoccus spp.
+Clausicoccus subdistichus,Clausicoccus subdistichus,,,nannofossils,,,Clausicoccus subdistichus
+Clausicoccus vanheckiae,Clausicoccus vanheckiae,,,nannofossils,,,Clausicoccus vanheckiae
+Coccolithus abisectus,Coccolithus abisectus,,,nannofossils,,,Coccolithus abisectus
+Coccolithus braarudii,Coccolithus braarudii,,,nannofossils,,,Coccolithus braarudii
+Coccolithus cachaoi,Coccolithus cachaoi,,,nannofossils,,,Coccolithus cachaoi
+Coccolithus crassus,Coccolithus crassus,,,nannofossils,,,Coccolithus crassus
+Coccolithus eopelagicus,Coccolithus eopelagicus,,,nannofossils,,,Coccolithus eopelagicus
+Coccolithus eopelagicus ( >14¬µm),Coccolithus eopelagicus ( >14¬µm),Coccolithus eopelagicus ( >14 microns),,nannofossils,,,Coccolithus eopelagicus ( >14 microns)
+Coccolithus formosus,Coccolithus formosus,,,nannofossils,,,Coccolithus formosus
+Coccolithus gigas,Coccolithus gigas,,,nannofossils,,,Coccolithus gigas
+Coccolithus miopelagicus,Coccolithus miopelagicus,,,nannofossils,,,Coccolithus miopelagicus
+Coccolithus pelagicus,Coccolithus pelagicus,,,nannofossils,,,Coccolithus pelagicus
+Coccolithus pelagicus (w/bar),Coccolithus pelagicus (w/bar),,,nannofossils,,,Coccolithus pelagicus (w/bar)
+Coccolithus pelagicus spp. azorinus,Coccolithus pelagicus spp. azorinus,,,nannofossils,,,Coccolithus pelagicus spp. azorinus
+Coccolithus pelagicus spp. braarudii,Coccolithus pelagicus spp. braarudii,,,nannofossils,,,Coccolithus pelagicus spp. braarudii
+Coccolithus pelagicus ssp. pelagicus,Coccolithus pelagicus ssp. pelagicus,,,nannofossils,,,Coccolithus pelagicus ssp. pelagicus
+Coccolithus spp.,Coccolithus spp.,,,nannofossils,,,Coccolithus spp.
+Corollithion kennedyi,Corollithion kennedyi,,,nannofossils,,,Corollithion kennedyi
+Coronocyclas nitescens,Coronocyclas nitescens,Coronocyclus nitescens,,nannofossils,,,Coronocyclus nitescens
+Coronocyclus bramlettei,Coronocyclus bramlettei,,,nannofossils,,,Coronocyclus bramlettei
+Coronocyclus nitescens,Coronocyclus nitescens,,,nannofossils,,,Coronocyclus nitescens
+Coronocyclus nitescens (circular),Coronocyclus nitescens (circular),Coronocyclus nitescens,Coronocyclus nitescens (circular),nannofossils,,,Coronocyclus nitescens
+Coronocyclus nitescens (elliptical),Coronocyclus nitescens (elliptical),Coronocyclus nitescens,Coronocyclus nitescens (elliptical),nannofossils,,,Coronocyclus nitescens
+Coronocyclus prionion,Coronocyclus prionion,,,nannofossils,,,Coronocyclus prionion
+Coronocyclus spp.,Coronocyclus spp.,,,nannofossils,,,Coronocyclus spp.
+Cretarhabdus conicus,Cretarhabdus conicus,,,nannofossils,,,Cretarhabdus conicus
+Cretarhabdus crenulatus,Cretarhabdus crenulatus,,,nannofossils,,,Cretarhabdus crenulatus
+Cretarhabdus striatus,Cretarhabdus striatus,,,nannofossils,,,Cretarhabdus striatus
+Cribrocentrum reticulatum,Cribrocentrum reticulatum,,,nannofossils,,,Cribrocentrum reticulatum
+Cribrocorona gallica,Cribrocorona gallica,,,nannofossils,,,Cribrocorona gallica
+Cribrosphaerella daniae,Cribrosphaerella daniae,,,nannofossils,,,Cribrosphaerella daniae
+Cribrosphaerella ehrenbergii,Cribrosphaerella ehrenbergii,,,nannofossils,,,Cribrosphaerella ehrenbergii
+Cruciellipsis cuvillieri,Cruciellipsis cuvillieri,,,nannofossils,,,Cruciellipsis cuvillieri
+Cruciplacolithus asymmetricus,Cruciplacolithus asymmetricus,,,nannofossils,,,Cruciplacolithus asymmetricus
+Cruciplacolithus cruciformis,Cruciplacolithus cruciformis,,,nannofossils,,,Cruciplacolithus cruciformis
+Cruciplacolithus edwardsii,Cruciplacolithus edwardsii,,,nannofossils,,,Cruciplacolithus edwardsii
+Cruciplacolithus frequens,Cruciplacolithus frequens,,,nannofossils,,,Cruciplacolithus frequens
+Cruciplacolithus intermedius,Cruciplacolithus intermedius,,,nannofossils,,,Cruciplacolithus intermedius
+Cruciplacolithus latipons,Cruciplacolithus latipons,,,nannofossils,,,Cruciplacolithus latipons
+Cruciplacolithus primus,Cruciplacolithus primus,,,nannofossils,,,Cruciplacolithus primus
+Cruciplacolithus spp.,Cruciplacolithus spp.,,,nannofossils,,,Cruciplacolithus spp.
+Cruciplacolithus tenuis,Cruciplacolithus tenuis,,,nannofossils,,,Cruciplacolithus tenuis
+Cryptococcolithus mediaperforate,Cryptococcolithus mediaperforate,Cryptococcolithus mediaperforatus,,nannofossils,,,Cryptococcolithus mediaperforatus
+Cryptococcolithus mediaperforatus,Cryptococcolithus mediaperforatus,,,nannofossils,,,Cryptococcolithus mediaperforatus
+Cyclagelosphaera margerelii,Cyclagelosphaera margerelii,,,nannofossils,,,Cyclagelosphaera margerelii
+Cyclagelosphaera reinhardtii,Cyclagelosphaera reinhardtii,,,nannofossils,,,Cyclagelosphaera reinhardtii
+Cyclagelosphaera spp.,Cyclagelosphaera spp.,,,nannofossils,,,Cyclagelosphaera spp.
+Cyclicargolithus abisectus,Cyclicargolithus abisectus,,,nannofossils,,,Cyclicargolithus abisectus
+Cyclicargolithus abisectus (11 ¬µm),Cyclicargolithus abisectus (11 ¬µm),Cyclicargolithus abisectus (11 microns),,nannofossils,,,Cyclicargolithus abisectus (11 microns)
+Cyclicargolithus abisectus (>11 microns),Cyclicargolithus abisectus (>11 microns),,,nannofossils,,,Cyclicargolithus abisectus (>11 microns)
+Cyclicargolithus floridanus,Cyclicargolithus floridanus,,,nannofossils,,,Cyclicargolithus floridanus
+Cyclicargolithus floridanus (5-11¬µm),Cyclicargolithus floridanus (5-11¬µm),Cyclicargolithus floridanus (5-11microns),,nannofossils,,,Cyclicargolithus floridanus (5-11microns)
+Cyclicargolithus floridanus small (<5¬µm),Cyclicargolithus floridanus small (<5¬µm),Cyclicargolithus floridanus small (<5 microns),,nannofossils,,,Cyclicargolithus floridanus small (<5 microns)
+Cyclicargolithus luminis,Cyclicargolithus luminis,,,nannofossils,,,Cyclicargolithus luminis
+Cyclicargolithus? luminis,Cyclicargolithus ? luminis,Cyclicargolithus ? luminis,,nannofossils,,,Cyclicargolithus ? luminis
+Cylindralithus nudus,Cylindralithus nudus,,,nannofossils,,,Cylindralithus nudus
+Cylindralithus sculptus,Cylindralithus sculptus,,,nannofossils,,,Cylindralithus sculptus
+Cylindralithus serratus,Cylindralithus serratus,,,nannofossils,,,Cylindralithus serratus
+Daktylethra punctulata,Daktylethra punctulata,,,nannofossils,,,Daktylethra punctulata
+Diazomatolithus lehmanii,Diazomatolithus lehmanii,,,nannofossils,,,Diazomatolithus lehmanii
+Dictyococcites (<3 microns),Dictyococcites (<3 microns),,,nannofossils,,,Dictyococcites (<3 microns)
+Dictyococcites antarcticus,Dictyococcites antarcticus,,,nannofossils,,,Dictyococcites antarcticus
+Dictyococcites bisectus,Dictyococcites bisectus,,,nannofossils,,,Dictyococcites bisectus
+Dictyococcites bisectus (>10 microns),Dictyococcites bisectus (>10 microns),,,nannofossils,,,Dictyococcites bisectus (>10 microns)
+Dictyococcites bisectus (>10 ¬µm),Dictyococcites bisectus (>10 ¬µm),Dictyococcites bisectus (>10 microns),,nannofossils,,,Dictyococcites bisectus (>10 microns)
+Dictyococcites bisectus (>10¬µm),Dictyococcites bisectus (>10¬µm),Dictyococcites bisectus (>10 microns),,nannofossils,,,Dictyococcites bisectus (>10 microns)
+Dictyococcites haqii,Dictyococcites haqii,,,nannofossils,,,Dictyococcites haqii
+Dictyococcites perplexus,Dictyococcites perplexus,,,nannofossils,,,Dictyococcites perplexus
+Dictyococcites productus,Dictyococcites productus,,,nannofossils,,,Dictyococcites productus
+Dictyococcites scrippsae,Dictyococcites scrippsae,,,nannofossils,,,Dictyococcites scrippsae
+Dictyococcites scrippsae (<10¬µm),Dictyococcites scrippsae (<10¬µm),Dictyococcites scrippsae (<10 microns),,nannofossils,,,Dictyococcites scrippsae (<10 microns)
+Dictyococcites spp.,Dictyococcites spp.,,,nannofossils,,,Dictyococcites spp.
+Dictyococcites spp. (<6 microns),Dictyococcites spp. (<6 microns),,,nannofossils,,,Dictyococcites spp. (<6 microns)
+Dictyococcites spp. (medium),Dictyococcites spp. (medium),,,nannofossils,,,Dictyococcites spp. (medium)
+Dictyococcites spp. (small),Dictyococcites spp. (small),,,nannofossils,,,Dictyococcites spp. (small)
+"Discoaster ""six-rayed""","Discoaster ""six-rayed""",Discoaster <sp. six-rayed>,,nannofossils,,,Discoaster <sp. six-rayed>
+Discoaster adamanteus,Discoaster adamanteus,,,nannofossils,,,Discoaster adamanteus
+Discoaster altus,Discoaster altus,,,nannofossils,,,Discoaster altus
+Discoaster anartios,Discoaster anartios,,,nannofossils,,,Discoaster anartios
+Discoaster araneus,Discoaster araneus,,,nannofossils,,,Discoaster araneus
+Discoaster asymetricus,Discoaster asymetricus,Discoaster asymmetricus,,nannofossils,,,Discoaster asymmetricus
+Discoaster asymmetricus,Discoaster asymmetricus,,,nannofossils,,,Discoaster asymmetricus
+Discoaster backmanii,Discoaster backmanii,,,nannofossils,,,Discoaster backmanii
+Discoaster barbadiensis,Discoaster barbadiensis,,,nannofossils,,,Discoaster barbadiensis
+Discoaster bellus,Discoaster bellus,,,nannofossils,,,Discoaster bellus
+Discoaster bergenii,Discoaster bergenii,,,nannofossils,,,Discoaster bergenii
+Discoaster berggrenii,Discoaster berggrenii,,,nannofossils,,,Discoaster berggrenii
+Discoaster bifax,Discoaster bifax,,,nannofossils,,,Discoaster bifax
+Discoaster binodosus,Discoaster binodosus,,,nannofossils,,,Discoaster binodosus
+Discoaster blackstockae,Discoaster blackstockae,,,nannofossils,,,Discoaster blackstockae
+Discoaster bollii,Discoaster bollii,,,nannofossils,,,Discoaster bollii
+Discoaster braarudi,Discoaster braarudi,Discoaster braarudii,,nannofossils,,,Discoaster braarudii
+Discoaster braarudii,Discoaster braarudii,,,nannofossils,,,Discoaster braarudii
+Discoaster brouweri,Discoaster brouweri,,,nannofossils,,,Discoaster brouweri
+Discoaster brouwerii,Discoaster brouwerii,Discoaster brouweri,,nannofossils,,,Discoaster brouweri
+Discoaster broweri,Discoaster broweri,Discoaster brouweri,,nannofossils,,,Discoaster brouweri
+Discoaster calcaris,Discoaster calcaris,,,nannofossils,,,Discoaster calcaris
+Discoaster calculosus,Discoaster calculosus,,,nannofossils,,,Discoaster calculosus
+Discoaster challengeri,Discoaster challengeri,,,nannofossils,,,Discoaster challengeri
+Discoaster challengerii,Discoaster challengerii,Discoaster challengeri,,nannofossils,,,Discoaster challengeri
+Discoaster deflandrei,Discoaster deflandrei,,,nannofossils,,,Discoaster deflandrei
+Discoaster deflandrei (small),Discoaster deflandrei (small),Discoaster deflandrei,Discoaster deflandrei (small),nannofossils,,,Discoaster deflandrei
+Discoaster delicatus,Discoaster delicatus,,,nannofossils,,,Discoaster delicatus
+Discoaster diastypus,Discoaster diastypus,,,nannofossils,,,Discoaster diastypus
+Discoaster distinctus,Discoaster distinctus,,,nannofossils,,,Discoaster distinctus
+Discoaster druggii,Discoaster druggii,,,nannofossils,,,Discoaster druggii
+Discoaster druggii (< 15 microns),Discoaster druggii (< 15 microns),Discoaster druggii,Discoaster druggii (< 15 microns),nannofossils,,,Discoaster druggii
+Discoaster elegans,Discoaster elegans,,,nannofossils,,,Discoaster elegans
+Discoaster exilis,Discoaster exilis,,,nannofossils,,,Discoaster exilis
+Discoaster falcatus,Discoaster falcatus,,,nannofossils,,,Discoaster falcatus
+Discoaster gr. variabilis,Discoaster gr. variabilis,Discoaster variabilis group,,nannofossils,,,Discoaster variabilis group
+Discoaster hamatus,Discoaster hamatus,,,nannofossils,,,Discoaster hamatus
+Discoaster hamatus/bellus,Discoaster hamatus/bellus,Discoaster hamatus-bellus,,nannofossils,,this is some sort of intergrade of two species,Discoaster hamatus-bellus
+Discoaster intercalaris,Discoaster intercalaris,,,nannofossils,,,Discoaster intercalaris
+Discoaster kuepperi,Discoaster kuepperi,,,nannofossils,,,Discoaster kuepperi
+Discoaster kugleri,Discoaster kugleri,,,nannofossils,,,Discoaster kugleri
+Discoaster kuglerii,Discoaster kuglerii,Discoaster kugleri,,nannofossils,,,Discoaster kugleri
+Discoaster lenticularis,Discoaster lenticularis,,,nannofossils,,,Discoaster lenticularis
+Discoaster lodoensis,Discoaster lodoensis,,,nannofossils,,,Discoaster lodoensis
+Discoaster loeblichii,Discoaster loeblichii,,,nannofossils,,,Discoaster loeblichii
+Discoaster mahmoudii,Discoaster mahmoudii,,,nannofossils,,,Discoaster mahmoudii
+Discoaster mediosus,Discoaster mediosus,,,nannofossils,,,Discoaster mediosus
+Discoaster mendomobensis,Discoaster mendomobensis,,,nannofossils,,,Discoaster mendomobensis
+Discoaster mohleri,Discoaster mohleri,,,nannofossils,,,Discoaster mohleri
+Discoaster moorei,Discoaster moorei,,,nannofossils,,,Discoaster moorei
+Discoaster moori,Discoaster moori,Discoaster moorei,,nannofossils,,,Discoaster moorei
+Discoaster multiradiatus,Discoaster multiradiatus,,,nannofossils,,,Discoaster multiradiatus
+Discoaster musicus,Discoaster musicus,,,nannofossils,,,Discoaster musicus
+Discoaster neohamatus,Discoaster neohamatus,,,nannofossils,,,Discoaster neohamatus
+Discoaster neorectus,Discoaster neorectus,,,nannofossils,,,Discoaster neorectus
+Discoaster nobilis,Discoaster nobilis,,,nannofossils,,,Discoaster nobilis
+Discoaster nodifer,Discoaster nodifer,,,nannofossils,,,Discoaster nodifer
+Discoaster ornatus,Discoaster ornatus,,,nannofossils,,,Discoaster ornatus
+Discoaster pacificus,Discoaster pacificus,,,nannofossils,,,Discoaster pacificus
+Discoaster paelikei,Discoaster paelikei,,,nannofossils,,,Discoaster paelikei
+Discoaster pansus,Discoaster pansus,,,nannofossils,,,Discoaster pansus
+Discoaster pentaradiatus,Discoaster pentaradiatus,,,nannofossils,,,Discoaster pentaradiatus
+Discoaster petaliformis,Discoaster petaliformis,,,nannofossils,,,Discoaster petaliformis
+Discoaster prepentaradiatus,Discoaster prepentaradiatus,,,nannofossils,,,Discoaster prepentaradiatus
+Discoaster quadramus,Discoaster quadramus,,,nannofossils,,,Discoaster quadramus
+Discoaster quinqueramus,Discoaster quinqueramus,,,nannofossils,,,Discoaster quinqueramus
+Discoaster quintatus,Discoaster quintatus,,,nannofossils,,,Discoaster quintatus
+Discoaster saipanensis,Discoaster saipanensis,,,nannofossils,,,Discoaster saipanensis
+Discoaster salisburgensis,Discoaster salisburgensis,,,nannofossils,,,Discoaster salisburgensis
+Discoaster sanmiguelensis,Discoaster sanmiguelensis,,,nannofossils,,,Discoaster sanmiguelensis
+Discoaster septemradiatus,Discoaster septemradiatus,,,nannofossils,,,Discoaster septemradiatus
+Discoaster signus,Discoaster signus,,,nannofossils,,,Discoaster signus
+Discoaster sp.,Discoaster sp.,,,nannofossils,,,Discoaster sp.
+Discoaster sp. cf. D. brouweri,Discoaster sp. cf. D. brouweri,Discoaster cf. brouweri,,nannofossils,,,Discoaster cf. brouweri
+Discoaster sp. cf. D. variabilis,Discoaster sp. cf. D. variabilis,Discoaster cf. variabilis,,nannofossils,,,Discoaster cf. variabilis
+Discoaster spp.,Discoaster spp.,,,nannofossils,,,Discoaster spp.
+Discoaster spp. (Neogene),Discoaster spp. (Neogene),Discoaster <spp. (Neogene)>,,nannofossils,,,Discoaster <spp. (Neogene)>
+Discoaster spp. (Paleogene),Discoaster spp. (Paleogene),Discoaster <spp. (Paleogene)>,,nannofossils,,,Discoaster <spp. (Paleogene)>
+Discoaster spp. (five-rayed),Discoaster spp. (five-rayed),Discoaster <spp. (five-rayed)>,,nannofossils,,,Discoaster <spp. (five-rayed)>
+Discoaster stellulus,Discoaster stellulus,,,nannofossils,,,Discoaster stellulus
+Discoaster sublodoensis,Discoaster sublodoensis,,,nannofossils,,,Discoaster sublodoensis
+Discoaster subsurculus,Discoaster subsurculus,,,nannofossils,,,Discoaster subsurculus
+Discoaster surculus,Discoaster surculus,,,nannofossils,,,Discoaster surculus
+Discoaster tamalis,Discoaster tamalis,,,nannofossils,,,Discoaster tamalis
+Discoaster tanii,Discoaster tanii,,,nannofossils,,,Discoaster tanii
+Discoaster triradiatus,Discoaster triradiatus,,,nannofossils,,,Discoaster triradiatus
+Discoaster tristellifer,Discoaster tristellifer,,,nannofossils,,,Discoaster tristellifer
+Discoaster variabilis,Discoaster variabilis,,,nannofossils,,,Discoaster variabilis
+Discoaster variabilis group,Discoaster variabilis group,,,nannofossils,,,Discoaster variabilis group
+Discoaster wemmelensis,Discoaster wemmelensis,,,nannofossils,,,Discoaster wemmelensis
+Discoaster williamsii,Discoaster williamsii,,,nannofossils,,,Discoaster williamsii
+Discolithina japonica,Discolithina japonica,,,nannofossils,,,Discolithina japonica
+Discorhabdus watkinsii,Discorhabdus watkinsii,,,nannofossils,,,Discorhabdus watkinsii
+Discosphaera tubifera,Discosphaera tubifera,,,nannofossils,,,Discosphaera tubifera
+Eifellithus,Eifellithus,Eifellithus sp.,,nannofossils,,,Eifellithus sp.
+Eiffellithus angustus,Eiffellithus angustus,,,nannofossils,,,Eiffellithus angustus
+Eiffellithus casulus,Eiffellithus casulus,,,nannofossils,,,Eiffellithus casulus
+Eiffellithus equibiramus,Eiffellithus equibiramus,,,nannofossils,,,Eiffellithus equibiramus
+Eiffellithus eximius,Eiffellithus eximius,,,nannofossils,,,Eiffellithus eximius
+Eiffellithus eximius (sensu Verbeek),Eiffellithus eximius (sensu Verbeek),Eiffellithus eximius,Eiffellithus eximius (sensu Verbeek),nannofossils,,,Eiffellithus eximius
+Eiffellithus gorkae,Eiffellithus gorkae,,,nannofossils,,,Eiffellithus gorkae
+Eiffellithus monechiae,Eiffellithus monechiae,,,nannofossils,,,Eiffellithus monechiae
+Eiffellithus parallelus,Eiffellithus parallelus,,,nannofossils,,,Eiffellithus parallelus
+Eiffellithus perchnielseniae,Eiffellithus perchnielseniae,,,nannofossils,,,Eiffellithus perchnielseniae
+Eiffellithus praestigium,Eiffellithus praestigium,,,nannofossils,,,Eiffellithus praestigium
+Eiffellithus sp.,Eiffellithus sp.,,,nannofossils,,,Eiffellithus sp.
+Eiffellithus turriseiffelii,Eiffellithus turriseiffelii,,,nannofossils,,,Eiffellithus turriseiffelii
+Eiffellithus vonsalisiae,Eiffellithus vonsalisiae,,,nannofossils,,,Eiffellithus vonsalisiae
+Ellipsolithus bollii,Ellipsolithus bollii,,,nannofossils,,,Ellipsolithus bollii
+Ellipsolithus distichus,Ellipsolithus distichus,,,nannofossils,,,Ellipsolithus distichus
+Ellipsolithus macellus,Ellipsolithus macellus,,,nannofossils,,,Ellipsolithus macellus
+Ellipsolithus subdistichus,Ellipsolithus subdistichus,,,nannofossils,,,Ellipsolithus subdistichus
+Emiliania huxleyi,Emiliania huxleyi,,,nannofossils,,,Emiliania huxleyi
+Emiliania huxleyi (<5 microns),Emiliania huxleyi (<5 microns),,,nannofossils,,,Emiliania huxleyi (<5 microns)
+Emiliania huxleyi (>5 microns),Emiliania huxleyi (>5 microns),,,nannofossils,,,Emiliania huxleyi (>5 microns)
+Eprolithus eptapetalus,Eprolithus eptapetalus,,,nannofossils,,,Eprolithus eptapetalus
+Eprolithus floralis,Eprolithus floralis,,,nannofossils,,,Eprolithus floralis
+Eprolithus moratus,Eprolithus moratus,,,nannofossils,,,Eprolithus moratus
+Eprolithus octopetalus,Eprolithus octopetalus,,,nannofossils,,,Eprolithus octopetalus
+Ericsonia robusta,Ericsonia robusta,,,nannofossils,,,Ericsonia robusta
+Ericsonia robusta (small),Ericsonia robusta (small),Ericsonia robusta,Ericsonia robusta (small),nannofossils,,,Ericsonia robusta
+Ericsonia subpertusa,Ericsonia subpertusa,,,nannofossils,,,Ericsonia subpertusa
+Fasciculithus alanii,Fasciculithus alanii,,,nannofossils,,,Fasciculithus alanii
+Fasciculithus clinatus,Fasciculithus clinatus,,,nannofossils,,,Fasciculithus clinatus
+Fasciculithus involutus,Fasciculithus involutus,,,nannofossils,,,Fasciculithus involutus
+Fasciculithus lilianae,Fasciculithus lilianae,,,nannofossils,,,Fasciculithus lilianae
+Fasciculithus magnus,Fasciculithus magnus,,,nannofossils,,,Fasciculithus magnus
+Fasciculithus pileatus,Fasciculithus pileatus,,,nannofossils,,,Fasciculithus pileatus
+Fasciculithus richardii,Fasciculithus richardii,,,nannofossils,,,Fasciculithus richardii
+Fasciculithus shaubii,Fasciculithus shaubii,,,nannofossils,,,Fasciculithus shaubii
+Fasciculithus spp.,Fasciculithus spp.,,,nannofossils,,,Fasciculithus spp.
+Fasciculithus thomasii,Fasciculithus thomasii,,,nannofossils,,,Fasciculithus thomasii
+Fasciculithus tympaniformis,Fasciculithus tympaniformis,,,nannofossils,,,Fasciculithus tympaniformis
+Fasciculithus ulii,Fasciculithus ulii,,,nannofossils,,,Fasciculithus ulii
+Fasciculithus ullii,Fasciculithus ullii,Fasciculithus ulii,,nannofossils,,,Fasciculithus ulii
+Florisphaera profunda,Florisphaera profunda,,,nannofossils,,,Florisphaera profunda
+Florisphaera profunda var. elongata,Florisphaera profunda var. elongata,,,nannofossils,,,Florisphaera profunda var. elongata
+Gartnerago chiasta,Gartnerago chiasta,,,nannofossils,,,Gartnerago chiasta
+Gartnerago nanum,Gartnerago nanum,,,nannofossils,,,Gartnerago nanum
+Gartnerago obliquum,Gartnerago obliquum,,,nannofossils,,,Gartnerago obliquum
+Gartnerago segmentatum,Gartnerago segmentatum,,,nannofossils,,,Gartnerago segmentatum
+Gartnerago theta,Gartnerago theta,,,nannofossils,,,Gartnerago theta
+Gephyrocapsa (<4 microns),Gephyrocapsa (<4 microns),Gephyrocapsa spp. (<4 microns),,nannofossils,,,Gephyrocapsa spp. (<4 microns)
+Gephyrocapsa (<4 ¬µm),Gephyrocapsa (<4 ¬µm),Gephyrocapsa spp. (<4 microns),,nannofossils,,,Gephyrocapsa spp. (<4 microns)
+Gephyrocapsa (>4 ¬µm),Gephyrocapsa (>4 ¬µm),Gephyrocapsa spp. (>4 microns),,nannofossils,,,Gephyrocapsa spp. (>4 microns)
+Gephyrocapsa (>5.5 microns),Gephyrocapsa (>5.5 microns),Gephyrocapsa spp. (>5.5 microns),,nannofossils,,,Gephyrocapsa spp. (>5.5 microns)
+Gephyrocapsa (>5.5 ¬µm),Gephyrocapsa (>5.5 ¬µm),Gephyrocapsa spp. (>5.5 microns),,nannofossils,,,Gephyrocapsa spp. (>5.5 microns)
+Gephyrocapsa (small <4 microns),Gephyrocapsa (small <4 microns),Gephyrocapsa spp. (<4 microns),,nannofossils,,,Gephyrocapsa spp. (<4 microns)
+Gephyrocapsa aperta,Gephyrocapsa aperta,,,nannofossils,,,Gephyrocapsa aperta
+Gephyrocapsa caribbeanica,Gephyrocapsa caribbeanica,,,nannofossils,,,Gephyrocapsa caribbeanica
+Gephyrocapsa caribbeanica (3-4 microns),Gephyrocapsa caribbeanica (3-4 microns),Gephyrocapsa caribbeanica (3-4 microns),,nannofossils,,,Gephyrocapsa caribbeanica (3-4 microns)
+Gephyrocapsa caribbeanica (4-5.5 microns),Gephyrocapsa caribbeanica (4-5.5 microns),Gephyrocapsa caribbeanica (4-5.5 microns),,nannofossils,,,Gephyrocapsa caribbeanica (4-5.5 microns)
+Gephyrocapsa caribbeanica (>5.5 microns),Gephyrocapsa caribbeanica (>5.5 microns),Gephyrocapsa caribbeanica (>5.5 microns),,nannofossils,,,Gephyrocapsa caribbeanica (>5.5 microns)
+Gephyrocapsa caribbeanica (large),Gephyrocapsa caribbeanica (large),Gephyrocapsa caribbeanica (large),,nannofossils,,,Gephyrocapsa caribbeanica (large)
+Gephyrocapsa ericsonii,Gephyrocapsa ericsonii,,,nannofossils,,,Gephyrocapsa ericsonii
+Gephyrocapsa large,Gephyrocapsa large,,,nannofossils,,,Gephyrocapsa large
+Gephyrocapsa margerelii/muellerae,Gephyrocapsa margerelii/muellerae,,,nannofossils,,this is an intergrade of two species,Gephyrocapsa margerelii/muellerae
+Gephyrocapsa muellerae,Gephyrocapsa muellerae,,,nannofossils,,,Gephyrocapsa muellerae
+Gephyrocapsa oceanica,Gephyrocapsa oceanica,,,nannofossils,,,Gephyrocapsa oceanica
+Gephyrocapsa oceanica (3-4 microns),Gephyrocapsa oceanica (3-4 microns),,,nannofossils,,,Gephyrocapsa oceanica (3-4 microns)
+Gephyrocapsa oceanica (4-5.5 microns),Gephyrocapsa oceanica (4-5.5 microns),,,nannofossils,,,Gephyrocapsa oceanica (4-5.5 microns)
+Gephyrocapsa oceanica (<5 micron),Gephyrocapsa oceanica (<5 micron),,,nannofossils,,,Gephyrocapsa oceanica (<5 micron)
+Gephyrocapsa oceanica (>5 micron),Gephyrocapsa oceanica (>5 micron),,,nannofossils,,,Gephyrocapsa oceanica (>5 micron)
+Gephyrocapsa oceanica (>5.5 microns),Gephyrocapsa oceanica (>5.5 microns),,,nannofossils,,,Gephyrocapsa oceanica (>5.5 microns)
+"Gephyrocapsa oceanica (Large, Diagonal bridge)","Gephyrocapsa oceanica (Large, Diagonal bridge)",Gephyrocapsa oceanica,"Gephyrocapsa oceanica (Large, Diagonal bridge)",nannofossils,,,Gephyrocapsa oceanica
+Gephyrocapsa oceanica ss,Gephyrocapsa oceanica ss,Gephyrocapsa oceanica,Gephyrocapsa oceanica ss,nannofossils,,,Gephyrocapsa oceanica
+Gephyrocapsa omega,Gephyrocapsa omega,,,nannofossils,,,Gephyrocapsa omega
+Gephyrocapsa parallela,Gephyrocapsa parallela,,,nannofossils,,,Gephyrocapsa parallela
+Gephyrocapsa sinuosa,Gephyrocapsa sinuosa,,,nannofossils,,,Gephyrocapsa sinuosa
+Gephyrocapsa sp.,Gephyrocapsa sp.,,,nannofossils,,,Gephyrocapsa sp.
+Gephyrocapsa sp. (4-5.5 microns),Gephyrocapsa sp. (4-5.5 microns),,,nannofossils,,,Gephyrocapsa sp. (4-5.5 microns)
+Gephyrocapsa sp. (<4 microns),Gephyrocapsa sp. (<4 microns),,,nannofossils,,,Gephyrocapsa sp. (<4 microns)
+Gephyrocapsa sp. (>5.5 microns),Gephyrocapsa sp. (>5.5 microns),,,nannofossils,,,Gephyrocapsa sp. (>5.5 microns)
+Gephyrocapsa sp. (closed >4 microns),Gephyrocapsa sp. (closed >4 microns),,,nannofossils,,,Gephyrocapsa sp. (closed >4 microns)
+Gephyrocapsa sp. (large),Gephyrocapsa sp. (large),,,nannofossils,,,Gephyrocapsa sp. (large)
+Gephyrocapsa sp. 3,Gephyrocapsa sp. 3,,,nannofossils,,"this is a distinct taxon! Nannos, amirite???",Gephyrocapsa sp. 3
+Gephyrocapsa sp. medium,Gephyrocapsa sp. medium,,,nannofossils,,,Gephyrocapsa sp. medium
+Gephyrocapsa spp. (<3 microns),Gephyrocapsa spp. (<3 microns),,,nannofossils,,,Gephyrocapsa spp. (<3 microns)
+Gephyrocapsa spp. (>4 microns),Gephyrocapsa spp. (>4 microns),,,nannofossils,,,Gephyrocapsa spp. (>4 microns)
+Gephyrocapsa spp. (large >5.5 microns),Gephyrocapsa spp. (large >5.5 microns),,,nannofossils,,,Gephyrocapsa spp. (large >5.5 microns)
+Gephyrocapsa spp. (medium 4-5.5 microns),Gephyrocapsa spp. (medium 4-5.5 microns),,,nannofossils,,,Gephyrocapsa spp. (medium 4-5.5 microns)
+Gephyrocapsa spp. (small <3.5 microns),Gephyrocapsa spp. (small <3.5 microns),,,nannofossils,,,Gephyrocapsa spp. (small <3.5 microns)
+Gephyrocapsa spp. (small),Gephyrocapsa spp. (small),,,nannofossils,,,Gephyrocapsa spp. (small)
+Gephyrocapsa spp. medium,Gephyrocapsa spp. medium,,,nannofossils,,,Gephyrocapsa spp. medium
+Gephyrocapsa spp. small (<4 microns),Gephyrocapsa spp. small (<4 microns),,,nannofossils,,,Gephyrocapsa spp. small (<4 microns)
+Girgisia gammation,Girgisia gammation,,,nannofossils,,,Girgisia gammation
+Gladiolithus flabellatus,Gladiolithus flabellatus,,,nannofossils,,,Gladiolithus flabellatus
+Glaukolithus bicrescenticus,Glaukolithus bicrescenticus,,,nannofossils,,,Glaukolithus bicrescenticus
+Glaukolithus diplogrammus,Glaukolithus diplogrammus,,,nannofossils,,,Glaukolithus diplogrammus
+Gorkea spp.,Gorkea spp.,,,nannofossils,,,Gorkea spp.
+Grantarhabdus coronadventis,Grantarhabdus coronadventis,,,nannofossils,,,Grantarhabdus coronadventis
+Gyphyrocapsa caribbeanica,Gyphyrocapsa caribbeanica,Gephyrocapsa caribbeanica,,nannofossils,,,Gephyrocapsa caribbeanica
+Gyphyrocapsa oceania,Gyphyrocapsa oceania,Gephyrocapsa oceanica,,nannofossils,,,Gephyrocapsa oceanica
+Haqius circumradiatus,Haqius circumradiatus,,,nannofossils,,,Haqius circumradiatus
+Hayaster perplexus,Hayaster perplexus,,,nannofossils,,,Hayaster perplexus
+Hayella challengeri,Hayella challengeri,,,nannofossils,,,Hayella challengeri
+Hayella situliformis,Hayella situliformis,,,nannofossils,,,Hayella situliformis
+Hayesites albiensis,Hayesites albiensis,,,nannofossils,,,Hayesites albiensis
+Helenea chiastia,Helenea chiastia,,,nannofossils,,,Helenea chiastia
+Helicolithus compactus,Helicolithus compactus,,,nannofossils,,,Helicolithus compactus
+Helicolithus trabeculatus,Helicolithus trabeculatus,,,nannofossils,,,Helicolithus trabeculatus
+Helicolithus trabeculatus (<7 um),Helicolithus trabeculatus (<7 um),Helicolithus trabeculatus,Helicolithus trabeculatus (<7 um),nannofossils,,,Helicolithus trabeculatus
+Helicolithus turonicus,Helicolithus turonicus,,,nannofossils,,,Helicolithus turonicus
+Helicopontosphaera hyalina,Helicopontosphaera hyalina,,,nannofossils,,,Helicopontosphaera hyalina
+Helicosphaera acuta,Helicosphaera acuta,,,nannofossils,,,Helicosphaera acuta
+Helicosphaera ampliaperta,Helicosphaera ampliaperta,,,nannofossils,,,Helicosphaera ampliaperta
+Helicosphaera bramlettei,Helicosphaera bramlettei,,,nannofossils,,,Helicosphaera bramlettei
+Helicosphaera burkei,Helicosphaera burkei,,,nannofossils,,,Helicosphaera burkei
+Helicosphaera carteri,Helicosphaera carteri,,,nannofossils,,,Helicosphaera carteri
+Helicosphaera carteri var. walichii,Helicosphaera carteri var. walichii,,,nannofossils,,,Helicosphaera carteri var. walichii
+Helicosphaera clarissima,Helicosphaera clarissima,,,nannofossils,,,Helicosphaera clarissima
+Helicosphaera compacta,Helicosphaera compacta,,,nannofossils,,,Helicosphaera compacta
+Helicosphaera ethologa,Helicosphaera ethologa,,,nannofossils,,,Helicosphaera ethologa
+Helicosphaera euphratis,Helicosphaera euphratis,,,nannofossils,,,Helicosphaera euphratis
+Helicosphaera euphratis (< 8 microns),Helicosphaera euphratis (< 8 microns),Helicosphaera euphratis,Helicosphaera euphratis (< 8 microns),nannofossils,,,Helicosphaera euphratis
+Helicosphaera granulata,Helicosphaera granulata,,,nannofossils,,,Helicosphaera granulata
+Helicosphaera hyalina,Helicosphaera hyalina,,,nannofossils,,,Helicosphaera hyalina
+Helicosphaera intermedia,Helicosphaera intermedia,,,nannofossils,,,Helicosphaera intermedia
+Helicosphaera inversa,Helicosphaera inversa,,,nannofossils,,,Helicosphaera inversa
+Helicosphaera kamptneri,Helicosphaera kamptneri,,,nannofossils,,,Helicosphaera kamptneri
+Helicosphaera kamptnerii,Helicosphaera kamptnerii,Helicosphaera kamptneri,,nannofossils,,,Helicosphaera kamptneri
+Helicosphaera lophota,Helicosphaera lophota,,,nannofossils,,,Helicosphaera lophota
+Helicosphaera mediterranea,Helicosphaera mediterranea,,,nannofossils,,,Helicosphaera mediterranea
+Helicosphaera neogranulata,Helicosphaera neogranulata,,,nannofossils,,,Helicosphaera neogranulata
+Helicosphaera obliqua,Helicosphaera obliqua,,,nannofossils,,,Helicosphaera obliqua
+Helicosphaera orientalis,Helicosphaera orientalis,,,nannofossils,,,Helicosphaera orientalis
+Helicosphaera pavimentum,Helicosphaera pavimentum,,,nannofossils,,,Helicosphaera pavimentum
+Helicosphaera perch-nielseniae,Helicosphaera perch-nielseniae,,,nannofossils,,this is one hyphenated name (named after Katerina Perch-Nielsen) A great example of why the species field should accept non-alphabetic characters! ,Helicosphaera perch-nielseniae
+Helicosphaera princei,Helicosphaera princei,,,nannofossils,,,Helicosphaera princei
+Helicosphaera recta,Helicosphaera recta,,,nannofossils,,,Helicosphaera recta
+Helicosphaera reticulata,Helicosphaera reticulata,,,nannofossils,,,Helicosphaera reticulata
+Helicosphaera scissura,Helicosphaera scissura,,,nannofossils,,,Helicosphaera scissura
+Helicosphaera sellii,Helicosphaera sellii,,,nannofossils,,,Helicosphaera sellii
+Helicosphaera seminulum,Helicosphaera seminulum,,,nannofossils,,,Helicosphaera seminulum
+Helicosphaera sp.,Helicosphaera sp.,,,nannofossils,,,Helicosphaera sp.
+Helicosphaera spp.,Helicosphaera spp.,,,nannofossils,,,Helicosphaera spp.
+Helicosphaera spp. (Negoene),Helicosphaera spp. (Negoene),Helicosphaera <spp. (Negoene)>,,nannofossils,,,Helicosphaera <spp. (Negoene)>
+Helicosphaera spp. (Palegoene),Helicosphaera spp. (Palegoene),Helicosphaera <spp. (Palegoene)>,,nannofossils,,,Helicosphaera <spp. (Palegoene)>
+Helicosphaera stalis,Helicosphaera stalis,,,nannofossils,,,Helicosphaera stalis
+Helicosphaera vedderi,Helicosphaera vedderi,,,nannofossils,,,Helicosphaera vedderi
+Helicosphaera walbersdorfensis,Helicosphaera walbersdorfensis,,,nannofossils,,,Helicosphaera walbersdorfensis
+Helicosphaera wallichii,Helicosphaera wallichii,,,nannofossils,,,Helicosphaera wallichii
+Helicosphaera wilcoxonii,Helicosphaera wilcoxonii,,,nannofossils,,,Helicosphaera wilcoxonii
+Helicosphera inversa,Helicosphera inversa,Helicosphaera inversa,,nannofossils,,,Helicosphaera inversa
+Heliolithus cantabriae,Heliolithus cantabriae,,,nannofossils,,,Heliolithus cantabriae
+Heliolithus kleinpellii,Heliolithus kleinpellii,,,nannofossils,,,Heliolithus kleinpellii
+Heliolithus riedelii,Heliolithus riedelii,,,nannofossils,,,Heliolithus riedelii
+Holodiscolithus macroporus,Holodiscolithus macroporus,,,nannofossils,,,Holodiscolithus macroporus
+Hughesius gizoensis,Hughesius gizoensis,,,nannofossils,,,Hughesius gizoensis
+Hughesius tasmaniae,Hughesius tasmaniae,,,nannofossils,,,Hughesius tasmaniae
+Ilselithina fusa,Ilselithina fusa,,,nannofossils,,,Ilselithina fusa
+Isthmolithus recurvus,Isthmolithus recurvus,,,nannofossils,,,Isthmolithus recurvus
+Jakubowskia leoniae,Jakubowskia leoniae,,,nannofossils,,,Jakubowskia leoniae
+Kamptnerius magnificus,Kamptnerius magnificus,,,nannofossils,,,Kamptnerius magnificus
+Lanternithus minutus,Lanternithus minutus,,,nannofossils,,,Lanternithus minutus
+Lapideacassis sp.,Lapideacassis sp.,,,nannofossils,,,Lapideacassis sp.
+Liliasterites angularis,Liliasterites angularis,,,nannofossils,,,Liliasterites angularis
+Liliasterites atlanticus,Liliasterites atlanticus,,,nannofossils,,,Liliasterites atlanticus
+Lithastrinus grillii,Lithastrinus grillii,,,nannofossils,,,Lithastrinus grillii
+Lithastrinus septenarius,Lithastrinus septenarius,,,nannofossils,,,Lithastrinus septenarius
+Lithoptychius ulii,Lithoptychius ulii,,,nannofossils,,,Lithoptychius ulii
+Lithoptychius vertebratoides,Lithoptychius vertebratoides,,,nannofossils,,,Lithoptychius vertebratoides
+Lithraphidites acutus,Lithraphidites acutus,,,nannofossils,,,Lithraphidites acutus
+Lithraphidites alatus,Lithraphidites alatus,,,nannofossils,,,Lithraphidites alatus
+Lithraphidites carniolensis,Lithraphidites carniolensis,,,nannofossils,,,Lithraphidites carniolensis
+Lithraphidites quadratus,Lithraphidites quadratus,,,nannofossils,,,Lithraphidites quadratus
+Lophodolithus acutus,Lophodolithus acutus,,,nannofossils,,,Lophodolithus acutus
+Lophodolithus mochlophorus,Lophodolithus mochlophorus,,,nannofossils,,,Lophodolithus mochlophorus
+Lophodolithus nascens,Lophodolithus nascens,,,nannofossils,,,Lophodolithus nascens
+Lophodolithus rotundus,Lophodolithus rotundus,,,nannofossils,,,Lophodolithus rotundus
+Loxolithus armilla,Loxolithus armilla,,,nannofossils,,,Loxolithus armilla
+Lucianorhabdus cayeuxii,Lucianorhabdus cayeuxii,,,nannofossils,,,Lucianorhabdus cayeuxii
+Lucianorhabdus maleformis,Lucianorhabdus maleformis,,,nannofossils,,,Lucianorhabdus maleformis
+Lucianorhabdus spp.,Lucianorhabdus spp.,,,nannofossils,,,Lucianorhabdus spp.
+Manivitella pemmatoidea,Manivitella pemmatoidea,,,nannofossils,,,Manivitella pemmatoidea
+Markalius apertus,Markalius apertus,,,nannofossils,,,Markalius apertus
+Markalius astroporus,Markalius astroporus,,,nannofossils,,,Markalius astroporus
+Markalius inversus,Markalius inversus,,,nannofossils,,,Markalius inversus
+Marthasterites furcatus,Marthasterites furcatus,,,nannofossils,,,Marthasterites furcatus
+Micrantholithus flos,Micrantholithus flos,,,nannofossils,,,Micrantholithus flos
+Micrantholithus spp.,Micrantholithus spp.,,,nannofossils,,,Micrantholithus spp.
+Microrhabdulus belgicus,Microrhabdulus belgicus,,,nannofossils,,,Microrhabdulus belgicus
+Microrhabdulus decoratus,Microrhabdulus decoratus,,,nannofossils,,,Microrhabdulus decoratus
+Microrhabdulus spp.,Microrhabdulus spp.,,,nannofossils,,,Microrhabdulus spp.
+Micula,Micula,Micula sp.,,nannofossils,,,Micula sp.
+Micula concava,Micula concava,,,nannofossils,,,Micula concava
+Micula cubiformis,Micula cubiformis,,,nannofossils,,,Micula cubiformis
+Micula decussata,Micula decussata,,,nannofossils,,,Micula decussata
+Micula murus,Micula murus,,,nannofossils,,,Micula murus
+Micula prinsii,Micula prinsii,,,nannofossils,,,Micula prinsii
+Micula staurophora,Micula staurophora,,,nannofossils,,,Micula staurophora
+Minylitha convallis,Minylitha convallis,,,nannofossils,,,Minylitha convallis
+Misceomarginatus pleniporus,Misceomarginatus pleniporus,,,nannofossils,,,Misceomarginatus pleniporus
+Monomarginatus quaternarius,Monomarginatus quaternarius,,,nannofossils,,,Monomarginatus quaternarius
+Nannoconus,Nannoconus,Nannoconus sp.,,nannofossils,,,Nannoconus sp.
+Nannoconus sp.,Nannoconus sp.,,,nannofossils,,,Nannoconus sp.
+Nannotetrina alata,Nannotetrina alata,,,nannofossils,,,Nannotetrina alata
+Nannotetrina alata gr.,Nannotetrina alata gr.,Nannotetrina alata group,,nannofossils,,why is this different from the way other groups are treated? e.g. Discoaster <variabilis group> - resolved; JAS was confused,Nannotetrina alata group
+Nannotetrina cristata,Nannotetrina cristata,,,nannofossils,,,Nannotetrina cristata
+Nannotetrina fulgens,Nannotetrina fulgens,,,nannofossils,,,Nannotetrina fulgens
+Nannotetrina fulgens,Nannotetrina fulgens,Nannotetrina fulgens,,nannofossils,,,Nannotetrina fulgens
+Nannotetrina spp.,Nannotetrina spp.,,,nannofossils,,,Nannotetrina spp.
+Neobiscutum spp.,Neobiscutum spp.,,,nannofossils,,,Neobiscutum spp.
+Neochiastozygus chiastus,Neochiastozygus chiastus,,,nannofossils,,,Neochiastozygus chiastus
+Neochiastozygus junctus,Neochiastozygus junctus,,,nannofossils,,,Neochiastozygus junctus
+Neochiastozygus modestus,Neochiastozygus modestus,,,nannofossils,,,Neochiastozygus modestus
+Neochiastozygus perfectus,Neochiastozygus perfectus,,,nannofossils,,,Neochiastozygus perfectus
+Neochiastozygus rosenkrantzii,Neochiastozygus rosenkrantzii,,,nannofossils,,,Neochiastozygus rosenkrantzii
+Neochiastozygus spp.,Neochiastozygus spp.,,,nannofossils,,,Neochiastozygus spp.
+Neococcolithes dubius,Neococcolithes dubius,,,nannofossils,,,Neococcolithes dubius
+Neococcolithes protenus,Neococcolithes protenus,,,nannofossils,,,Neococcolithes protenus
+Neococcolithes spp.,Neococcolithes spp.,,,nannofossils,,,Neococcolithes spp.
+Neocrepidolithus cruciatus,Neocrepidolithus cruciatus,,,nannofossils,,,Neocrepidolithus cruciatus
+Neocrepidolithus dirimosus,Neocrepidolithus dirimosus,,,nannofossils,,,Neocrepidolithus dirimosus
+Neocrepidolithus fossus,Neocrepidolithus fossus,,,nannofossils,,,Neocrepidolithus fossus
+Neocrepidolithus neocrassus,Neocrepidolithus neocrassus,,,nannofossils,,,Neocrepidolithus neocrassus
+Neocrepidolithus watkinsii,Neocrepidolithus watkinsii,,,nannofossils,,,Neocrepidolithus watkinsii
+Neosphaera coccolithomorpha,Neosphaera coccolithomorpha,,,nannofossils,,,Neosphaera coccolithomorpha
+Nephrolithus frequens,Nephrolithus frequens,,,nannofossils,,,Nephrolithus frequens
+Nicklithus amplificus,Nicklithus amplificus,,,nannofossils,,,Nicklithus amplificus
+Octocyclus sp.,Octocyclus sp.,,,nannofossils,,,Octocyclus sp.
+Octolithus multiplus,Octolithus multiplus,,,nannofossils,,,Octolithus multiplus
+Oolithotus fragilis,Oolithotus fragilis,,,nannofossils,,,Oolithotus fragilis
+Oolithotus sp.,Oolithotus sp.,,,nannofossils,,,Oolithotus sp.
+Oolithotus spp.,Oolithotus spp.,,,nannofossils,,,Oolithotus spp.
+Orthorhabdus rugosus,Orthorhabdus rugosus,,,nannofossils,,,Orthorhabdus rugosus
+Orthorhabdus serratus,Orthorhabdus serratus,,,nannofossils,,,Orthorhabdus serratus
+Orthorhabdus striatus,Orthorhabdus striatus,,,nannofossils,,,Orthorhabdus striatus
+Pedinocyclus larvalis,Pedinocyclus larvalis,,,nannofossils,,,Pedinocyclus larvalis
+Pemma basquense,Pemma basquense,,,nannofossils,,,Pemma basquense
+Perchnielsenella stradneri,Perchnielsenella stradneri,,,nannofossils,,,Perchnielsenella stradneri
+Perissocyclus fenestratus,Perissocyclus fenestratus,,,nannofossils,,,Perissocyclus fenestratus
+Petrarhabdus copulatus,Petrarhabdus copulatus,,,nannofossils,,,Petrarhabdus copulatus
+Placozygus spp.,Placozygus spp.,,,nannofossils,,,Placozygus spp.
+Pontesphaera multipora,Pontesphaera multipora,Pontosphaera multipora,,nannofossils,,,Pontosphaera multipora
+Pontosphaera alta,Pontosphaera alta,,,nannofossils,,,Pontosphaera alta
+Pontosphaera discopora,Pontosphaera discopora,,,nannofossils,,,Pontosphaera discopora
+Pontosphaera enormis,Pontosphaera enormis,,,nannofossils,,,Pontosphaera enormis
+Pontosphaera exilis,Pontosphaera exilis,,,nannofossils,,,Pontosphaera exilis
+Pontosphaera indooceanica,Pontosphaera indooceanica,,,nannofossils,,,Pontosphaera indooceanica
+Pontosphaera japonica,Pontosphaera japonica,,,nannofossils,,,Pontosphaera japonica
+Pontosphaera latelliptica,Pontosphaera latelliptica,,,nannofossils,,,Pontosphaera latelliptica
+Pontosphaera millepuncta,Pontosphaera millepuncta,,,nannofossils,,,Pontosphaera millepuncta
+Pontosphaera multipora,Pontosphaera multipora,,,nannofossils,,,Pontosphaera multipora
+Pontosphaera plana,Pontosphaera plana,,,nannofossils,,,Pontosphaera plana
+Pontosphaera pulchra,Pontosphaera pulchra,,,nannofossils,,,Pontosphaera pulchra
+Pontosphaera punctosa,Pontosphaera punctosa,,,nannofossils,,,Pontosphaera punctosa
+Pontosphaera rimosa,Pontosphaera rimosa,,,nannofossils,,,Pontosphaera rimosa
+Pontosphaera sp.,Pontosphaera sp.,,,nannofossils,,,Pontosphaera sp.
+Pontosphaera spp.,Pontosphaera spp.,,,nannofossils,,,Pontosphaera spp.
+Pontosphaera spp. (Neogene),Pontosphaera spp. (Neogene),Pontosphaera <spp. (Neogene)>,,nannofossils,,,Pontosphaera <spp. (Neogene)>
+Pontosphaera versa,Pontosphaera versa,,,nannofossils,,,Pontosphaera versa
+Prediscosphaera arkhangelskyi,Prediscosphaera arkhangelskyi,,,nannofossils,,,Prediscosphaera arkhangelskyi
+Prediscosphaera bukryi,Prediscosphaera bukryi,,,nannofossils,,,Prediscosphaera bukryi
+Prediscosphaera columnata,Prediscosphaera columnata,,,nannofossils,,,Prediscosphaera columnata
+Prediscosphaera cretacea,Prediscosphaera cretacea,,,nannofossils,,,Prediscosphaera cretacea
+Prediscosphaera desiderograndis,Prediscosphaera desiderograndis,,,nannofossils,,,Prediscosphaera desiderograndis
+Prediscosphaera grandis,Prediscosphaera grandis,,,nannofossils,,,Prediscosphaera grandis
+Prediscosphaera majungae,Prediscosphaera majungae,,,nannofossils,,,Prediscosphaera majungae
+Prediscosphaera spinosa,Prediscosphaera spinosa,,,nannofossils,,,Prediscosphaera spinosa
+Prediscosphaera stoveri,Prediscosphaera stoveri,,,nannofossils,,,Prediscosphaera stoveri
+Prinsius bisulcus,Prinsius bisulcus,,,nannofossils,,,Prinsius bisulcus
+Prinsius dimorphosus,Prinsius dimorphosus,,,nannofossils,,,Prinsius dimorphosus
+Prinsius dimorphus,Prinsius dimorphus,Prinsius dimorphosus,,nannofossils,,,Prinsius dimorphosus
+Prinsius martinii,Prinsius martinii,,,nannofossils,,,Prinsius martinii
+Prinsius tenuiculus,Prinsius tenuiculus,,,nannofossils,,,Prinsius tenuiculus
+Pseudoemiliania lacunosa,Pseudoemiliania lacunosa,,,nannofossils,,,Pseudoemiliania lacunosa
+Pseudoemiliania ovata,Pseudoemiliania ovata,,,nannofossils,,,Pseudoemiliania ovata
+Pseudomicula quadrata,Pseudomicula quadrata,,,nannofossils,,,Pseudomicula quadrata
+Pseudotriquetrorhabdulus inversus,Pseudotriquetrorhabdulus inversus,,,nannofossils,,,Pseudotriquetrorhabdulus inversus
+Psuedoemiliania lacunosa,Psuedoemiliania lacunosa,Pseudoemiliania lacunosa,,nannofossils,,,Pseudoemiliania lacunosa
+Quadrum gartneri,Quadrum gartneri,,,nannofossils,,,Quadrum gartneri
+Quadrum intermedium,Quadrum intermedium,,,nannofossils,,,Quadrum intermedium
+Reinhardtites anthophorus,Reinhardtites anthophorus,,,nannofossils,,,Reinhardtites anthophorus
+Reinhardtites biperforatus,Reinhardtites biperforatus,,,nannofossils,,,Reinhardtites biperforatus
+Reinhardtites levis,Reinhardtites levis,,,nannofossils,,,Reinhardtites levis
+Repagalum parvidentatum,Repagalum parvidentatum,,,nannofossils,,,Repagalum parvidentatum
+Retecapsa crenulata,Retecapsa crenulata,,,nannofossils,,,Retecapsa crenulata
+Retecapsa ficula,Retecapsa ficula,,,nannofossils,,,Retecapsa ficula
+Retecapsa schizobrachiata,Retecapsa schizobrachiata,,,nannofossils,,,Retecapsa schizobrachiata
+Retecapsa surirella,Retecapsa surirella,,,nannofossils,,,Retecapsa surirella
+Reticulafenestra psuedoumbilica,Reticulafenestra psuedoumbilica,Reticulafenestra pseudoumbilica,,nannofossils,,,Reticulafenestra pseudoumbilica
+"Reticulofenestra ""small""","Reticulofenestra ""small""",Reticulofenestra <spp. small>,,nannofossils,,,Reticulofenestra <spp. small>
+Reticulofenestra asanoi,Reticulofenestra asanoi,,,nannofossils,,,Reticulofenestra asanoi
+Reticulofenestra asanoi (<6 microns),Reticulofenestra asanoi (<6 microns),,,nannofossils,,,Reticulofenestra asanoi (<6 microns)
+Reticulofenestra asanoi (>6 microns),Reticulofenestra asanoi (>6 microns),,,nannofossils,,,Reticulofenestra asanoi (>6 microns)
+Reticulofenestra bisecta,Reticulofenestra bisecta,,,nannofossils,,,Reticulofenestra bisecta
+Reticulofenestra bisecta (5-10 microns),Reticulofenestra bisecta (5-10 microns),,,nannofossils,,,Reticulofenestra bisecta (5-10 microns)
+Reticulofenestra bisecta (>10 microns),Reticulofenestra bisecta (>10 microns),,,nannofossils,,,Reticulofenestra bisecta (>10 microns)
+Reticulofenestra callida,Reticulofenestra callida,,,nannofossils,,,Reticulofenestra callida
+Reticulofenestra circus,Reticulofenestra circus,,,nannofossils,,,Reticulofenestra circus
+Reticulofenestra cisnerosii,Reticulofenestra cisnerosii,,,nannofossils,,,Reticulofenestra cisnerosii
+Reticulofenestra daviesii,Reticulofenestra daviesii,,,nannofossils,,,Reticulofenestra daviesii
+Reticulofenestra dictyoda,Reticulofenestra dictyoda,,,nannofossils,,,Reticulofenestra dictyoda
+Reticulofenestra dictyoda (10-14 microns),Reticulofenestra dictyoda (10-14 microns),,,nannofossils,,,Reticulofenestra dictyoda (10-14 microns)
+Reticulofenestra dictyoda (10-14¬µm),Reticulofenestra dictyoda (10-14¬µm),Reticulofenestra dictyoda (10-14 microns),,nannofossils,,,Reticulofenestra dictyoda (10-14 microns)
+Reticulofenestra dictyoda (3-10¬µm),Reticulofenestra dictyoda (3-10¬µm),Reticulofenestra dictyoda (3-10 microns),,nannofossils,,,Reticulofenestra dictyoda (3-10 microns)
+Reticulofenestra erbae,Reticulofenestra erbae,,,nannofossils,,,Reticulofenestra erbae
+Reticulofenestra gelida,Reticulofenestra gelida,,,nannofossils,,,Reticulofenestra gelida
+Reticulofenestra hampdenensis,Reticulofenestra hampdenensis,,,nannofossils,,,Reticulofenestra hampdenensis
+Reticulofenestra haqii,Reticulofenestra haqii,,,nannofossils,,,Reticulofenestra haqii
+Reticulofenestra haqii (<3 microns),Reticulofenestra haqii (<3 microns),,,nannofossils,,,Reticulofenestra haqii (<3 microns)
+Reticulofenestra hillae,Reticulofenestra hillae,,,nannofossils,,,Reticulofenestra hillae
+Reticulofenestra lockeri,Reticulofenestra lockeri,,,nannofossils,,,Reticulofenestra lockeri
+Reticulofenestra lockerii,Reticulofenestra lockerii,,,nannofossils,,,Reticulofenestra lockerii
+Reticulofenestra minuta,Reticulofenestra minuta,,,nannofossils,,,Reticulofenestra minuta
+Reticulofenestra minuta (<3 microns),Reticulofenestra minuta (<3 microns),,,nannofossils,,,Reticulofenestra minuta (<3 microns)
+Reticulofenestra minuta (<3¬µm),Reticulofenestra minuta (<3¬µm),Reticulofenestra minuta (<3 microns),,nannofossils,,,Reticulofenestra minuta (<3 microns)
+Reticulofenestra minutula,Reticulofenestra minutula,,,nannofossils,,,Reticulofenestra minutula
+Reticulofenestra minutula (3-5 microns),Reticulofenestra minutula (3-5 microns),,,nannofossils,,,Reticulofenestra minutula (3-5 microns)
+Reticulofenestra oamaruensis,Reticulofenestra oamaruensis,,,nannofossils,,,Reticulofenestra oamaruensis
+Reticulofenestra perplexa,Reticulofenestra perplexa,,,nannofossils,,,Reticulofenestra perplexa
+Reticulofenestra producta,Reticulofenestra producta,,,nannofossils,,,Reticulofenestra producta
+Reticulofenestra pseudoumbilica,Reticulofenestra pseudoumbilica,Reticulofenestra pseudoumbilicus,,nannofossils,,,Reticulofenestra pseudoumbilicus
+Reticulofenestra pseudoumbilicus,Reticulofenestra pseudoumbilicus,,,nannofossils,,,Reticulofenestra pseudoumbilicus
+Reticulofenestra pseudoumbilicus (5-7 microns),Reticulofenestra pseudoumbilicus (5-7 microns),,,nannofossils,,,Reticulofenestra pseudoumbilicus (5-7 microns)
+Reticulofenestra pseudoumbilicus (5-7 um),Reticulofenestra pseudoumbilicus (5-7 um),Reticulofenestra pseudoumbilicus (5-7 microns),,nannofossils,,,Reticulofenestra pseudoumbilicus (5-7 microns)
+Reticulofenestra pseudoumbilicus (5-7 ¬µm),Reticulofenestra pseudoumbilicus (5-7 ¬µm),Reticulofenestra pseudoumbilicus (5-7 microns),,nannofossils,,,Reticulofenestra pseudoumbilicus (5-7 microns)
+Reticulofenestra pseudoumbilicus (5-7¬µm),Reticulofenestra pseudoumbilicus (5-7¬µm),Reticulofenestra pseudoumbilicus (5-7 microns),,nannofossils,,,Reticulofenestra pseudoumbilicus (5-7 microns)
+Reticulofenestra pseudoumbilicus (> 7 Œºm),Reticulofenestra pseudoumbilicus (> 7 Œºm),Reticulofenestra pseudoumbilicus (>7 microns),,nannofossils,,,Reticulofenestra pseudoumbilicus (>7 microns)
+Reticulofenestra pseudoumbilicus (>7 microns),Reticulofenestra pseudoumbilicus (>7 microns),,,nannofossils,,,Reticulofenestra pseudoumbilicus (>7 microns)
+Reticulofenestra pseudoumbilicus (>7 um),Reticulofenestra pseudoumbilicus (>7 um),Reticulofenestra pseudoumbilicus (>7 microns),,nannofossils,,,Reticulofenestra pseudoumbilicus (>7 microns)
+Reticulofenestra pseudoumbilicus (>7¬µm),Reticulofenestra pseudoumbilicus (>7¬µm),Reticulofenestra pseudoumbilicus (>7 microns),,nannofossils,,,Reticulofenestra pseudoumbilicus (>7 microns)
+Reticulofenestra reticulata,Reticulofenestra reticulata,,,nannofossils,,,Reticulofenestra reticulata
+Reticulofenestra rotaria,Reticulofenestra rotaria,,,nannofossils,,,Reticulofenestra rotaria
+Reticulofenestra samodurovii,Reticulofenestra samodurovii,,,nannofossils,,,Reticulofenestra samodurovii
+Reticulofenestra scrippsae,Reticulofenestra scrippsae,,,nannofossils,,,Reticulofenestra scrippsae
+Reticulofenestra small,Reticulofenestra small,Reticulofenestra sp. small,,nannofossils,,,Reticulofenestra sp. small
+Reticulofenestra sp. (3-5 microns),Reticulofenestra sp. (3-5 microns),,,nannofossils,,,Reticulofenestra sp. (3-5 microns)
+Reticulofenestra sp. (5-7 microns),Reticulofenestra sp. (5-7 microns),,,nannofossils,,,Reticulofenestra sp. (5-7 microns)
+Reticulofenestra sp. (<3 microns),Reticulofenestra sp. (<3 microns),,,nannofossils,,,Reticulofenestra sp. (<3 microns)
+Reticulofenestra sp. (>7 microns),Reticulofenestra sp. (>7 microns),,,nannofossils,,,Reticulofenestra sp. (>7 microns)
+Reticulofenestra sp. 1,Reticulofenestra sp. 1,Reticulofenestra <sp. 1>,,nannofossils,,,Reticulofenestra <sp. 1>
+Reticulofenestra spp.,Reticulofenestra spp.,,,nannofossils,,,Reticulofenestra spp.
+Reticulofenestra spp. small,Reticulofenestra spp. small,,,nannofossils,,,Reticulofenestra spp. small
+Reticulofenestra stavensis,Reticulofenestra stavensis,,,nannofossils,,,Reticulofenestra stavensis
+Reticulofenestra umbilica,Reticulofenestra umbilica,Reticulofenestra umbilicus,,nannofossils,,,Reticulofenestra umbilicus
+Reticulofenestra umbilicus,Reticulofenestra umbilicus,,,nannofossils,,,Reticulofenestra umbilicus
+Reticulofenestra umbilicus (>14 microns),Reticulofenestra umbilicus (>14 microns),,,nannofossils,,,Reticulofenestra umbilicus (>14 microns)
+Reticulofenestra umbilicus (>14um),Reticulofenestra umbilicus (>14um),Reticulofenestra umbilicus (>14 microns),,nannofossils,,,Reticulofenestra umbilicus (>14 microns)
+Reticulofenestra umbilicus (>14¬µm),Reticulofenestra umbilicus (>14¬µm),Reticulofenestra umbilicus (>14 microns),,nannofossils,,,Reticulofenestra umbilicus (>14 microns)
+Reticulofenestra¬†erbae,Reticulofenestra¬†erbae,Reticulofenestra erbae,,nannofossils,,,Reticulofenestra erbae
+Reticulofenestra¬†isabellae,Reticulofenestra¬†isabellae,Reticulofenestra isabellae,,nannofossils,,,Reticulofenestra isabellae
+Rhabdospaera claviger,Rhabdospaera claviger,Rhabdosphaera clavigera,,nannofossils,,,Rhabdosphaera clavigera
+Rhabdosphaera clavigera,Rhabdosphaera clavigera,,,nannofossils,,,Rhabdosphaera clavigera
+Rhabdosphaera sicca,Rhabdosphaera sicca,,,nannofossils,,,Rhabdosphaera sicca
+Rhabdosphaera spp.,Rhabdosphaera spp.,,,nannofossils,,,Rhabdosphaera spp.
+Rhabdosphaera tenuis,Rhabdosphaera tenuis,,,nannofossils,,,Rhabdosphaera tenuis
+Rhagodiscus achylostaurion,Rhagodiscus achylostaurion,,,nannofossils,,,Rhagodiscus achylostaurion
+Rhagodiscus angustus,Rhagodiscus angustus,,,nannofossils,,,Rhagodiscus angustus
+Rhagodiscus asper,Rhagodiscus asper,,,nannofossils,,,Rhagodiscus asper
+Rhagodiscus indistinctus,Rhagodiscus indistinctus,,,nannofossils,,,Rhagodiscus indistinctus
+Rhagodiscus robustus,Rhagodiscus robustus,,,nannofossils,,,Rhagodiscus robustus
+Rhomboaster bramlettei,Rhomboaster bramlettei,,,nannofossils,,,Rhomboaster bramlettei
+Rhomboaster calcitrapa,Rhomboaster calcitrapa,,,nannofossils,,,Rhomboaster calcitrapa
+Rhomboaster cuspis,Rhomboaster cuspis,,,nannofossils,,,Rhomboaster cuspis
+Rhomboaster spp.,Rhomboaster spp.,,,nannofossils,,,Rhomboaster spp.
+Rhomboaster svabenickiae,Rhomboaster svabenickiae,,,nannofossils,,,Rhomboaster svabenickiae
+Rotelapillus,Rotelapillus,Rotelapillus sp.,,nannofossils,,,Rotelapillus sp.
+Rotelapillus biarcus,Rotelapillus biarcus,,,nannofossils,,,Rotelapillus biarcus
+Rotelapillus crenulatus,Rotelapillus crenulatus,,,nannofossils,,,Rotelapillus crenulatus
+Rotelapillus laffittei,Rotelapillus laffittei,,,nannofossils,,,Rotelapillus laffittei
+Rucinolithus magnus,Rucinolithus magnus,,,nannofossils,,,Rucinolithus magnus
+Rucinolithus wisei,Rucinolithus wisei,,,nannofossils,,,Rucinolithus wisei
+Schyphosphaera spp.,Schyphosphaera spp.,,,nannofossils,,,Schyphosphaera spp.
+Scrippsiella sp.,Scrippsiella sp.,,,nannofossils,,,Scrippsiella sp.
+Scyphosphaera apsteinii,Scyphosphaera apsteinii,,,nannofossils,,,Scyphosphaera apsteinii
+Scyphosphaera apsteinii forma dilatata,Scyphosphaera apsteinii forma dilatata,,,nannofossils,,"should we use f. rather than forma? Question for the Taxonomy team, how will the PBDB want to format this?  MY guess is ""forma"" since modifiers like ""sensu lato"" are written out.  But TBD",Scyphosphaera apsteinii forma dilatata
+Scyphosphaera canescens,Scyphosphaera canescens,,,nannofossils,,,Scyphosphaera canescens
+Scyphosphaera cylindrica,Scyphosphaera cylindrica,,,nannofossils,,,Scyphosphaera cylindrica
+Scyphosphaera globulata,Scyphosphaera globulata,,,nannofossils,,,Scyphosphaera globulata
+Scyphosphaera intermedia,Scyphosphaera intermedia,,,nannofossils,,,Scyphosphaera intermedia
+Scyphosphaera lagena,Scyphosphaera lagena,,,nannofossils,,,Scyphosphaera lagena
+Scyphosphaera pulcherrima,Scyphosphaera pulcherrima,,,nannofossils,,,Scyphosphaera pulcherrima
+Scyphosphaera spp.,Scyphosphaera spp.,,,nannofossils,,,Scyphosphaera spp.
+Scyphosphaera ventriosa,Scyphosphaera ventriosa,,,nannofossils,,,Scyphosphaera ventriosa
+Seribiscutum primitivum,Seribiscutum primitivum,,,nannofossils,,,Seribiscutum primitivum
+Small Gephyrocapsa spp.,Small Gephyrocapsa spp.,Gephyrocapsa <spp. (small)>,,nannofossils,,,Gephyrocapsa <spp. (small)>
+Solidopons petrae,Solidopons petrae,,,nannofossils,,,Solidopons petrae
+Speetonia colligata,Speetonia colligata,,,nannofossils,,,Speetonia colligata
+Speetonia sp.,Speetonia sp.,,,nannofossils,,,Speetonia sp.
+Sphenolithus abies,Sphenolithus abies,,,nannofossils,,,Sphenolithus abies
+Sphenolithus akropodus,Sphenolithus akropodus,,,nannofossils,,,Sphenolithus akropodus
+Sphenolithus anarrhopus,Sphenolithus anarrhopus,,,nannofossils,,,Sphenolithus anarrhopus
+Sphenolithus arthurii,Sphenolithus arthurii,,,nannofossils,,,Sphenolithus arthurii
+Sphenolithus belemnos,Sphenolithus belemnos,,,nannofossils,,,Sphenolithus belemnos
+Sphenolithus calyculus,Sphenolithus calyculus,,,nannofossils,,,Sphenolithus calyculus
+Sphenolithus capricornutus,Sphenolithus capricornutus,,,nannofossils,,,Sphenolithus capricornutus
+Sphenolithus celsus,Sphenolithus celsus,,,nannofossils,,,Sphenolithus celsus
+Sphenolithus ciperoensis,Sphenolithus ciperoensis,,,nannofossils,,,Sphenolithus ciperoensis
+Sphenolithus conicus,Sphenolithus conicus,,,nannofossils,,,Sphenolithus conicus
+Sphenolithus conspicuus,Sphenolithus conspicuus,,,nannofossils,,,Sphenolithus conspicuus
+Sphenolithus cuniculus,Sphenolithus cuniculus,,,nannofossils,,,Sphenolithus cuniculus
+Sphenolithus delphix,Sphenolithus delphix,,,nannofossils,,,Sphenolithus delphix
+Sphenolithus disbelemnos,Sphenolithus disbelemnos,,,nannofossils,,,Sphenolithus disbelemnos
+Sphenolithus dissimilis,Sphenolithus dissimilis,,,nannofossils,,,Sphenolithus dissimilis
+Sphenolithus distentus,Sphenolithus distentus,,,nannofossils,,,Sphenolithus distentus
+Sphenolithus editus,Sphenolithus editus,,,nannofossils,,,Sphenolithus editus
+Sphenolithus furcatolithoides,Sphenolithus furcatolithoides,,,nannofossils,,,Sphenolithus furcatolithoides
+Sphenolithus furcatolithoides morph A,Sphenolithus furcatolithoides morph A,,,nannofossils,,,Sphenolithus furcatolithoides morph A
+Sphenolithus furcatolithoides morph B,Sphenolithus furcatolithoides morph B,,,nannofossils,,,Sphenolithus furcatolithoides morph B
+Sphenolithus grandis,Sphenolithus grandis,,,nannofossils,,,Sphenolithus grandis
+Sphenolithus heteromorpha,Sphenolithus heteromorpha,Sphenolithus heteromorphus,,nannofossils,,,Sphenolithus heteromorphus
+Sphenolithus heteromorphus,Sphenolithus heteromorphus,,,nannofossils,,,Sphenolithus heteromorphus
+Sphenolithus moriformis,Sphenolithus moriformis,,,nannofossils,,,Sphenolithus moriformis
+Sphenolithus moriformis gr.,Sphenolithus moriformis gr.,,,nannofossils,,"same comment as above on grouping - good point that the taxonomy team will need to decide on whether ""group"" is written out or an abbreviation will be used",Sphenolithus moriformis gr.
+Sphenolithus neoabies,Sphenolithus neoabies,,,nannofossils,,,Sphenolithus neoabies
+Sphenolithus obtusus,Sphenolithus obtusus,,,nannofossils,,,Sphenolithus obtusus
+Sphenolithus orphanknollensis,Sphenolithus orphanknollensis,,,nannofossils,,,Sphenolithus orphanknollensis
+Sphenolithus pospichalii,Sphenolithus pospichalii,,,nannofossils,,,Sphenolithus pospichalii
+Sphenolithus predistentus,Sphenolithus predistentus,,,nannofossils,,,Sphenolithus predistentus
+Sphenolithus primus,Sphenolithus primus,,,nannofossils,,,Sphenolithus primus
+Sphenolithus pseudoheteromorphus,Sphenolithus pseudoheteromorphus,,,nannofossils,,,Sphenolithus pseudoheteromorphus
+Sphenolithus pseudoradians,Sphenolithus pseudoradians,,,nannofossils,,,Sphenolithus pseudoradians
+Sphenolithus radians,Sphenolithus radians,,,nannofossils,,,Sphenolithus radians
+Sphenolithus runus,Sphenolithus runus,,,nannofossils,,,Sphenolithus runus
+Sphenolithus spiniger,Sphenolithus spiniger,,,nannofossils,,,Sphenolithus spiniger
+Sphenolithus spp.,Sphenolithus spp.,,,nannofossils,,,Sphenolithus spp.
+Sphenolithus strigosus,Sphenolithus strigosus,,,nannofossils,,,Sphenolithus strigosus
+Sphenolithus tribulosus,Sphenolithus tribulosus,,,nannofossils,,,Sphenolithus tribulosus
+Sphenolithus villae,Sphenolithus villae,,,nannofossils,,,Sphenolithus villae
+Staurolithites,Staurolithites,Staurolithites sp.,,nannofossils,,,Staurolithites sp.
+Staurolithites angustus,Staurolithites angustus,,,nannofossils,,,Staurolithites angustus
+Staurolithites flavus,Staurolithites flavus,,,nannofossils,,,Staurolithites flavus
+Staurolithites gausorhethium,Staurolithites gausorhethium,,,nannofossils,,,Staurolithites gausorhethium
+Staurolithites mutterlosei,Staurolithites mutterlosei,,,nannofossils,,,Staurolithites mutterlosei
+Staurolithites siesseri,Staurolithites siesseri,,,nannofossils,,,Staurolithites siesseri
+Staurolithites spp.,Staurolithites spp.,,,nannofossils,,,Staurolithites spp.
+Stoverius achylosus,Stoverius achylosus,,,nannofossils,,,Stoverius achylosus
+Stoverius coronatus,Stoverius coronatus,,,nannofossils,,,Stoverius coronatus
+Syracosphaera histrica,Syracosphaera histrica,,,nannofossils,,,Syracosphaera histrica
+Syracosphaera lamina,Syracosphaera lamina,,,nannofossils,,,Syracosphaera lamina
+Syracosphaera pulchra,Syracosphaera pulchra,,,nannofossils,,,Syracosphaera pulchra
+Syracosphaera spp.,Syracosphaera spp.,,,nannofossils,,,Syracosphaera spp.
+Syracosphaera spp. (Neogene),Syracosphaera spp. (Neogene),Syracosphaera <spp. (Neogene)>,,nannofossils,,,Syracosphaera <spp. (Neogene)>
+Syracosphaera spp. (Paleogene),Syracosphaera spp. (Paleogene),Syracosphaera <spp. (Paleogene)>,,nannofossils,,,Syracosphaera <spp. (Paleogene)>
+Tegumentum,Tegumentum,Tegumentum sp.,,nannofossils,,,Tegumentum sp.
+Tegumentum stradneri,Tegumentum stradneri,,,nannofossils,,,Tegumentum stradneri
+Tetralithoides quadrilaminata,Tetralithoides quadrilaminata,,,nannofossils,,,Tetralithoides quadrilaminata
+Tetralithoides symeonidesii,Tetralithoides symeonidesii,,,nannofossils,,,Tetralithoides symeonidesii
+Tetrapodorhabdus decorus,Tetrapodorhabdus decorus,,,nannofossils,,,Tetrapodorhabdus decorus
+Thiersteinia ecclesiastica,Thiersteinia ecclesiastica,,,nannofossils,,,Thiersteinia ecclesiastica
+Thoracosphaera heimii,Thoracosphaera heimii,,,nannofossils,,,Thoracosphaera heimii
+Thoracosphaera sp.,Thoracosphaera sp.,,,nannofossils,,,Thoracosphaera sp.
+Thoracosphaera spp.,Thoracosphaera spp.,,,nannofossils,,,Thoracosphaera spp.
+Toweius callosus,Toweius callosus,,,nannofossils,,,Toweius callosus
+Toweius crassus,Toweius crassus,,,nannofossils,,,Toweius crassus
+Toweius eminens,Toweius eminens,,,nannofossils,,,Toweius eminens
+Toweius gammation,Toweius gammation,,,nannofossils,,,Toweius gammation
+Toweius magnicrassus,Toweius magnicrassus,,,nannofossils,,,Toweius magnicrassus
+Toweius occultatus,Toweius occultatus,,,nannofossils,,,Toweius occultatus
+Toweius pertusus,Toweius pertusus,,,nannofossils,,,Toweius pertusus
+Toweius rotundus,Toweius rotundus,,,nannofossils,,,Toweius rotundus
+Toweius serontinus,Toweius serontinus,,,nannofossils,,,Toweius serontinus
+Toweius spp.,Toweius spp.,,,nannofossils,,,Toweius spp.
+Toweius tovae,Toweius tovae,,,nannofossils,,,Toweius tovae
+Tranolithus orionatus,Tranolithus orionatus,,,nannofossils,,,Tranolithus orionatus
+Tranolithus phacelosus,Tranolithus phacelosus,,,nannofossils,,,Tranolithus phacelosus
+Tribrachiatus absidatus,Tribrachiatus absidatus,,,nannofossils,,,Tribrachiatus absidatus
+Tribrachiatus bramlettei,Tribrachiatus bramlettei,,,nannofossils,,,Tribrachiatus bramlettei
+Tribrachiatus contortus,Tribrachiatus contortus,,,nannofossils,,,Tribrachiatus contortus
+Tribrachiatus digitalis,Tribrachiatus digitalis,,,nannofossils,,,Tribrachiatus digitalis
+Tribrachiatus orthostylus,Tribrachiatus orthostylus,,,nannofossils,,,Tribrachiatus orthostylus
+Triquetrorhabdulus carinatus,Triquetrorhabdulus carinatus,,,nannofossils,,,Triquetrorhabdulus carinatus
+Triquetrorhabdulus challengeri,Triquetrorhabdulus challengeri,,,nannofossils,,,Triquetrorhabdulus challengeri
+Triquetrorhabdulus finifer,Triquetrorhabdulus finifer,,,nannofossils,,,Triquetrorhabdulus finifer
+Triquetrorhabdulus longus,Triquetrorhabdulus longus,,,nannofossils,,,Triquetrorhabdulus longus
+Triquetrorhabdulus millowii,Triquetrorhabdulus millowii,Triquetrorhabdulus milowii,,nannofossils,,,Triquetrorhabdulus milowii
+Triquetrorhabdulus milowii,Triquetrorhabdulus milowii,,,nannofossils,,,Triquetrorhabdulus milowii
+Triquetrorhabdulus rioi,Triquetrorhabdulus rioi,,,nannofossils,,,Triquetrorhabdulus rioi
+Triquetrorhabdulus rugosus,Triquetrorhabdulus rugosus,,,nannofossils,,,Triquetrorhabdulus rugosus
+Triquetrorhabdulus sp. (long needle like),Triquetrorhabdulus sp. (long needle like),Triquetrorhabdulus <sp. (long needle-like)>,,nannofossils,,,Triquetrorhabdulus <sp. (long needle-like)>
+Triquetrorhabdulus sp. (long needle-like),Triquetrorhabdulus sp. (long needle-like),Triquetrorhabdulus <sp. (long needle-like)>,,nannofossils,,,Triquetrorhabdulus <sp. (long needle-like)>
+Triquetrorhabdulus sp. (long),Triquetrorhabdulus sp. (long),Triquetrorhabdulus <sp. (long)>,,nannofossils,,,Triquetrorhabdulus <sp. (long)>
+Triquetrorhabdulus striatus,Triquetrorhabdulus striatus,,,nannofossils,,,Triquetrorhabdulus striatus
+Triquetrorhabdus carniatus,Triquetrorhabdus carniatus,Triquetrorhabdulus carinatus,,nannofossils,,,Triquetrorhabdulus carinatus
+Triquetrorhabdus rugosus,Triquetrorhabdus rugosus,Triquetrorhabdulus rugosus,,nannofossils,,,Triquetrorhabdulus rugosus
+Umbellosphaera irregularis,Umbellosphaera irregularis,,,nannofossils,,,Umbellosphaera irregularis
+Umbellosphaera tenuis,Umbellosphaera tenuis,,,nannofossils,,,Umbellosphaera tenuis
+Umbilicosphaera bramlettei,Umbilicosphaera bramlettei,,,nannofossils,,,Umbilicosphaera bramlettei
+Umbilicosphaera foliosa,Umbilicosphaera foliosa,,,nannofossils,,,Umbilicosphaera foliosa
+Umbilicosphaera hulburtiana,Umbilicosphaera hulburtiana,,,nannofossils,,,Umbilicosphaera hulburtiana
+Umbilicosphaera jafari,Umbilicosphaera jafari,,,nannofossils,,,Umbilicosphaera jafari
+Umbilicosphaera jordanii,Umbilicosphaera jordanii,,,nannofossils,,,Umbilicosphaera jordanii
+Umbilicosphaera rotula,Umbilicosphaera rotula,,,nannofossils,,,Umbilicosphaera rotula
+Umbilicosphaera sibogae,Umbilicosphaera sibogae,,,nannofossils,,,Umbilicosphaera sibogae
+Umbilicosphaera sibogae var. foliosa,Umbilicosphaera sibogae var. foliosa,,,nannofossils,,,Umbilicosphaera sibogae var. foliosa
+Umbilicosphaera sigbogae,Umbilicosphaera sigbogae,Umbilicosphaera sibogae,,nannofossils,,,Umbilicosphaera sibogae
+Umbilicosphaera sp.,Umbilicosphaera sp.,,,nannofossils,,,Umbilicosphaera sp.
+Uniplanarius,Uniplanarius,Uniplanarius sp.,,nannofossils,,,Uniplanarius sp.
+Uniplanarius gothicus,Uniplanarius gothicus,,,nannofossils,,,Uniplanarius gothicus
+Uniplanarius sissinghii,Uniplanarius sissinghii,,,nannofossils,,,Uniplanarius sissinghii
+Uniplanarius trifidus,Uniplanarius trifidus,,,nannofossils,,,Uniplanarius trifidus
+Watznaueria,Watznaueria,Watznaueria sp.,,nannofossils,,,Watznaueria sp.
+Watznaueria barnesae,Watznaueria barnesae,Watznaueria barnesiae,,nannofossils,,,Watznaueria barnesiae
+Watznaueria barnesiae,Watznaueria barnesiae,,,nannofossils,,,Watznaueria barnesiae
+Watznaueria bayackii,Watznaueria bayackii,,,nannofossils,,,Watznaueria bayackii
+Watznaueria biporta,Watznaueria biporta,,,nannofossils,,,Watznaueria biporta
+Watznaueria britannica,Watznaueria britannica,,,nannofossils,,,Watznaueria britannica
+Watznaueria fossacincta,Watznaueria fossacincta,,,nannofossils,,,Watznaueria fossacincta
+Watznaueria ovata,Watznaueria ovata,,,nannofossils,,,Watznaueria ovata
+Zeugrhabdotus,Zeugrhabdotus,Zeugrhabdotus sp.,,nannofossils,,,Zeugrhabdotus sp.
+Zeugrhabdotus bicrescenticus,Zeugrhabdotus bicrescenticus,,,nannofossils,,,Zeugrhabdotus bicrescenticus
+Zeugrhabdotus embergeri,Zeugrhabdotus embergeri,,,nannofossils,,,Zeugrhabdotus embergeri
+Zeugrhabdotus erectus,Zeugrhabdotus erectus,,,nannofossils,,,Zeugrhabdotus erectus
+Zeugrhabdotus kerguelenensis,Zeugrhabdotus kerguelenensis,,,nannofossils,,,Zeugrhabdotus kerguelenensis
+Zeugrhabdotus praesigmoides,Zeugrhabdotus praesigmoides,,,nannofossils,,,Zeugrhabdotus praesigmoides
+Zeugrhabdotus scutula,Zeugrhabdotus scutula,,,nannofossils,,,Zeugrhabdotus scutula
+Zeugrhabdotus sigmoides,Zeugrhabdotus sigmoides,,,nannofossils,,,Zeugrhabdotus sigmoides
+Zeugrhabdotus sisyphus,Zeugrhabdotus sisyphus,,,nannofossils,,,Zeugrhabdotus sisyphus
+Zeugrhabdotus trivectis,Zeugrhabdotus trivectis,,,nannofossils,,,Zeugrhabdotus trivectis
+Zeugrhabdotus xenotus,Zeugrhabdotus xenotus,,,nannofossils,,,Zeugrhabdotus xenotus
+Zygodiscus plectopons,Zygodiscus plectopons,,,nannofossils,,,Zygodiscus plectopons
+Zygrhablithus bijugatus,Zygrhablithus bijugatus,,,nannofossils,,,Zygrhablithus bijugatus
+medium Gephyrocapsa group,medium Gephyrocapsa group,Gephyrocapsa <spp. medium>,,nannofossils,,,Gephyrocapsa <spp. medium>
+small Gephyrocapsa (<4¬µm),small Gephyrocapsa (<4¬µm),Gephyrocapsa <spp. (<4 microns)>,,nannofossils,,,Gephyrocapsa <spp. (<4 microns)>
