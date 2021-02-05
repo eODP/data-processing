@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Heterohelix sp.	Archaeoglobigerina sp.	Comment
+
+
+
+  SR	Campanian        	Maestrichtian    	                  	              	144	 874	A	  1	R	 2	  16.00	      1.6600	Erba     	Planktonic Foraminifers                      	               	                  	?              	1                     	from ODP Leg 144 SR; Ch 8; Table 5; p 163
+

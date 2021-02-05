@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Turborotalia pomeroli	Globigerina ouachitaensis	Globorotalia cocoaensis/cunialensis transition	Hantkenina brevispina	Globigerina inaequispira	Pseudohastigerina naguewichiensis	Comment
+
+
+
+  SR	                 	                 	                  	              	121	 756	C	  5	X	CC	  24.00	    118.6000	van Eijden	Planktonic Foraminifers                      	               	                  	                     	                         	                                              	                     	.4%                     	.4%                              	additional species from ODP Leg 121 SR Chapter 3 Table 5 p 100
+
+  SR	                 	                 	                  	              	121	 756	C	  6	X	CC	  16.00	    127.3100	van Eijden	Planktonic Foraminifers                      	               	                  	                     	                         	                                              	.4%                  	1.0%                    	                                 	additional species from ODP Leg 121 SR Chapter 3 Table 5 p 100
+
+  SR	                 	                 	                  	              	121	 756	C	  7	X	 1	 110.00	    130.9000	van Eijden	Planktonic Foraminifers                      	               	                  	                     	                         	.4%                                           	                     	                        	                                 	additional species from ODP Leg 121 SR Chapter 3 Table 5 p 100
+
+  SR	                 	                 	                  	              	121	 756	C	  8	X	 1	 110.00	    140.5000	van Eijden	Planktonic Foraminifers                      	               	                  	.3%                  	3.7%                     	                                              	                     	                        	                                 	additional species from ODP Leg 121 SR Chapter 3 Table 5 p 100
+

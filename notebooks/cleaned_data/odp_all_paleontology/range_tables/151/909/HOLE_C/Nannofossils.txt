@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Helicosphaera carteri	Dictyococcites sp. (small)	Dictyococcites bisectus	Cyclicargolithus abisectus	Coccolithus pelagicus	Coccolithus miopelagicus	Coccolith gen et sp. indet (small)	Braarudosphaera bigelowii	Comment
+
+
+
+  IR	Late Oligocene   	Early Miocene    	                  	              	151	 909	C	101	R	 2	  26.00	   1050.1600	Sato     	Nannofossils                                 	C              	P                 	R                    	R                         	                       	R                         	R                    	R                       	C                                 	                         	from Leg 151IR. Ch 7. Table 4
+
+  IR	Late Oligocene   	Early Miocene    	                  	              	151	 909	C	101	R	 2	  75.00	   1050.6500	Sato     	Nannofossils                                 	R              	P                 	                     	                          	                       	                          	R                    	                        	R                                 	R                        	from Leg 151IR. Ch 7. Table 4
+
+  IR	Late Oligocene   	Early Miocene    	                  	              	151	 909	C	102	R	 1	  31.00	   1053.0100	Sato     	Nannofossils                                 	C              	P                 	R                    	R                         	                       	R                         	R                    	R                       	C                                 	                         	from Leg 151IR. Ch 7. Table 4
+
+  IR	Late Oligocene   	Early Miocene    	                  	              	151	 909	C	102	R	 2	  77.00	   1054.9700	Sato     	Nannofossils                                 	R              	P                 	                     	                          	                       	                          	                     	                        	R                                 	                         	from Leg 151IR. Ch 7. Table 4
+
+  IR	Late Oligocene   	Early Miocene    	                  	              	151	 909	C	102	R	 3	  35.00	   1056.0500	Sato     	Nannofossils                                 	C              	P                 	R                    	R                         	R                      	R                         	R                    	R                       	C                                 	                         	from Leg 151IR. Ch 7. Table 4
+
+  IR	Late Oligocene   	Early Miocene    	                  	              	151	 909	C	102	R	CC	  14.00	   1058.1000	Sato     	Nannofossils                                 	C              	P                 	R                    	R                         	R                      	R                         	R                    	R                       	C                                 	R                        	from Leg 151IR. Ch 7. Table 4
+

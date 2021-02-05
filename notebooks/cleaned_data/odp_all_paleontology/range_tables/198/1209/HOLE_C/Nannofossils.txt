@@ -1,0 +1,18 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Reinhardtites levis	Micula murus	Ceratolithoides aculeus	Prediscosphaera cretacea	Lithraphidites quadratus	Micula prinsii	Ceratolithoides kamptneri	Arkhangelskiella cymbiformis	Comment
+
+
+
+  IR	                 	                 	CC26              	CC25          	198	1209	C	 15	H	CC	   7.00	    240.7900	nannos   	Nannofossils                                 	               	                  	                   	C           	                       	                        	                        	F             	F                        	C                           	       
+
+  IR	                 	                 	CC25              	CC25          	198	1209	C	 16	H	CC	  11.00	    250.1900	nannos   	Nannofossils                                 	               	                  	                   	C           	C                      	C                       	F                       	              	                         	                            	       
+
+  IR	                 	                 	CC25              	CC25          	198	1209	C	 17	H	CC	   0.00	    251.5000	nannos   	Nannofossils                                 	               	                  	                   	C           	C                      	                        	                        	              	                         	                            	       
+
+  IR	                 	                 	CC25              	CC25          	198	1209	C	 18	H	CC	  19.00	    262.2600	nannos   	Nannofossils                                 	               	                  	                   	C           	C                      	                        	                        	              	                         	                            	       
+
+  IR	                 	                 	CC25              	CC25          	198	1209	C	 19	H	CC	   6.00	    267.5100	nannos   	Nannofossils                                 	               	                  	                   	C           	C                      	                        	                        	              	                         	                            	       
+
+  IR	                 	                 	CC24              	CC24          	198	1209	C	 21	H	CC	  13.00	    287.1300	nannos   	Nannofossils                                 	               	                  	F                  	            	                       	                        	                        	              	                         	                            	       
+
+  IR	                 	                 	CC24              	CC24          	198	1209	C	 22	H	CC	  12.00	    297.1100	nannos   	Nannofossils                                 	               	                  	F                  	            	                       	                        	                        	              	                         	                            	       
+

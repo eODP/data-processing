@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pulleniatina obliquiloculata	Neogloboquadrina dutertrei	Globorotalia ungulata	Globorotalia scitula	Globorotalia menardii	Globigerinoides sacculifer	Globigerinoides ruber	Globigerina umbilicata	Orbulina universa	Globorotalia tumida	Globigerinella aequilateralis	Globorotaloides hexagona	Globigerinella calida	Comment
+
+
+
+  IR	                 	Pleistocene      	                  	N23           	170	1039	A	  1	H	CC	   0.00	      8.7500	Ibaraki  	Planktonic Foraminifers                      	R              	M                 	                            	R                         	R                    	                    	R                    	                          	R                    	                      	                 	                   	R                            	R                       	R                    	       
+
+  IR	                 	Pleistocene      	                  	N23           	170	1039	A	  2	H	CC	  24.00	     18.9000	Ibaraki  	Planktonic Foraminifers                      	C              	M                 	R                           	R                         	R                    	                    	R                    	R                         	R                    	                      	R                	R                  	R                            	                        	                     	       
+
+  IR	                 	Pleistocene      	                  	N23           	170	1039	A	  3	H	CC	  18.00	     28.4400	Ibaraki  	Planktonic Foraminifers                      	R              	M                 	R                           	R                         	R                    	R                   	R                    	R                         	R                    	R                     	                 	                   	                             	                        	                     	       
+

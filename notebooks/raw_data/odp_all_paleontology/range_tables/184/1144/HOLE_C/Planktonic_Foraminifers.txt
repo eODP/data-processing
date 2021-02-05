@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globigerinoides ruber (pink)	Globigerinoides ruber	Comment
+
+
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1144	C	  8	H	CC	  38.00	     80.7700	forams   	Planktonic Foraminifers                      	A              	G                 	                            	A                    	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1144	C	  9	H	CC	  24.00	     89.4500	forams   	Planktonic Foraminifers                      	A              	G                 	                            	A                    	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1144	C	 10	H	CC	  30.00	     99.3400	forams   	Planktonic Foraminifers                      	A              	G                 	                            	A                    	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1144	C	 11	H	CC	  20.00	    108.2900	forams   	Planktonic Foraminifers                      	A              	G                 	R                           	A                    	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1144	C	 12	H	CC	  38.00	    118.5100	forams   	Planktonic Foraminifers                      	A              	G                 	R                           	A                    	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1144	C	 13	H	CC	   0.00	    127.1600	forams   	Planktonic Foraminifers                      	A              	G                 	R                           	A                    	       
+

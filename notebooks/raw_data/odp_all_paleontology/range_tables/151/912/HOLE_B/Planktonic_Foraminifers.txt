@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Globigerina cf. bulloides	Neogloboquadrina sp. juv. dextral	Neogloboquadrina pachyderma (dextral)	Neogloboquadrina dutertrei	Comment
+
+
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	B	  1	H	CC	  16.00	      5.2600	Spiegler 	Planktonic Foraminifers                      	               	M                 	A                                      	                         	R                                	                                     	                          	From Leg 151; Ch 8; Table 6; p. 160
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	B	  3	H	CC	  26.00	     24.6900	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                         	R                                	R                                    	R                         	From Leg 151; Ch 8; Table 6; p. 160
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	B	  4	H	CC	  16.00	     30.9100	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	R                        	                                 	                                     	                          	From Leg 151; Ch 8; Table 6; p. 160
+

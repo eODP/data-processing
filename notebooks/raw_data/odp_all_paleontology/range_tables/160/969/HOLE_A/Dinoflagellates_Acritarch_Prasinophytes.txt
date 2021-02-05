@@ -1,0 +1,96 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Incertae sedis forma A	Bachmayerella tenuis	Comment
+
+
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  1	H	 1	  63.00	      0.6300	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  1	H	 3	  65.00	      3.6500	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  1	H	 5	  67.00	      6.6700	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  1	H	CC	  26.00	      7.6600	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	 1	 122.00	      8.9200	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	 3	  35.00	     11.0500	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	 4	  40.00	     12.6000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	 5	 110.00	     14.8000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	 6	  70.00	     15.9000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	 7	  10.00	     16.8000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz C	              	160	 969	A	  2	H	CC	  22.00	     17.5200	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz B	              	160	 969	A	  3	H	 1	  21.00	     17.4100	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz B	              	160	 969	A	  3	H	 1	  60.00	     17.8000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	VR                    	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz B	              	160	 969	A	  3	H	 2	  15.00	     18.8500	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz B	              	160	 969	A	  3	H	 3	 115.00	     21.3500	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz A	              	160	 969	A	  3	H	 5	  31.00	     23.5100	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	R/C                 	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz A	              	160	 969	A	  3	H	 6	   2.00	     24.7200	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C                     	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz A	              	160	 969	A	  3	H	CC	  24.00	     27.0300	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R                     	R/C                 	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz A	              	160	 969	A	  4	H	 1	 131.00	     28.0100	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C                     	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz A	              	160	 969	A	  4	H	 3	   9.00	     29.7900	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	A                     	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	Pleistocene      	                 	T.excel-G.car Subz A	              	160	 969	A	  4	H	 4	   9.00	     31.2900	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C                     	R/C                 	from Leg 160SR Ch 10 Table 5
+
+  SR	Late Pliocene    	                 	T.excel-G.car Subz A	              	160	 969	A	  4	H	 5	   3.00	     32.7300	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C/A                   	R/C                 	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  4	H	 6	   5.00	     34.2500	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C                     	R/C                 	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  4	H	CC	  24.00	     36.4800	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R/C                   	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  5	H	CC	  41.00	     46.1600	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R                     	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  6	H	CC	  11.00	     55.3800	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	 1	 121.00	     56.4100	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C/A                   	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	 2	 116.00	     57.8600	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	VR                    	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	 3	 120.00	     59.4000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C                     	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	 4	 117.00	     60.8700	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C/A                   	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	 5	 122.00	     62.4200	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	C/A                   	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	 6	  83.00	     63.5300	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  7	H	CC	  38.00	     64.4700	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  8	H	 5	  43.00	     71.1300	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  8	H	CC	  32.00	     74.6900	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R/C                   	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  9	H	 1	 110.00	     75.3000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R/C                   	VR                  	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  9	H	 3	  48.00	     77.6800	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	R/C                   	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  9	H	 5	  38.00	     80.5800	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	R                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	  9	H	CC	  39.00	     84.2800	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 10	H	 3	 100.00	     87.7000	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	VR                  	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 10	H	 4	 134.00	     89.5400	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	VR                  	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 10	H	 6	  91.00	     92.1100	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 10	H	CC	   3.00	     93.3400	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 11	H	 2	  14.00	     94.8400	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	VR                  	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 11	H	 4	  27.00	     97.9700	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	VR                  	from Leg 160SR Ch 10 Table 5
+
+  SR	                 	                 	                  	              	160	 969	A	 11	H	CC	  29.00	    103.1200	Spezzaferri	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	-                     	-                   	from Leg 160SR Ch 10 Table 5
+

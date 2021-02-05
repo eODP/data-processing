@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Tribrachiatus orthostylus	Reticulofenestra dictyoda	Cyclicargolithus floridanus	Reticulofenestra daviesii	Discoaster nodifer	Discoaster deflandrei	Comment
+
+
+
+  IR	                 	                 	                  	              	185	1149	A	 21	X	CC	   9.00	    180.2600	Lozar    	Nannofossils                                 	B              	                  	                         	R                        	                           	R                        	R                 	R                    	maybe downhole contamination
+
+  IR	                 	                 	                  	              	185	1149	A	 23	N	CC	   0.00	    191.1400	Lozar    	Nannofossils                                 	B              	                  	R                        	R                        	R                          	                         	                  	                     	maybe downhole contaminatio
+

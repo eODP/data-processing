@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina atlantica (sinistral)	Neogloboquadrina sp. juv. sinistral	Comment
+
+
+
+  SR	Pliocene         	                 	N. atlantica (sin.)	              	151	 912	C	 12	R	 1	  89.00	    200.3900	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                     	                                   	From Leg 151; Ch 8; Table 7; p. 160
+
+  SR	Pliocene         	                 	N. atlantica (sin.)	              	151	 912	C	 12	R	 2	  39.00	    201.3900	Spiegler 	Planktonic Foraminifers                      	               	G                 	                                      	R                                  	From Leg 151; Ch 8; Table 7; p. 160
+
+  SR	Pliocene         	                 	N. atlantica (sin.)	              	151	 912	C	 12	R	 3	  16.00	    202.6600	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                     	                                   	From Leg 151; Ch 8; Table 7; p. 160
+
+  SR	Pliocene         	                 	N. atlantica (sin.)	              	151	 912	C	 12	R	CC	   0.00	    202.8500	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                     	                                   	From Leg 151; Ch 8; Table 7; p. 160
+

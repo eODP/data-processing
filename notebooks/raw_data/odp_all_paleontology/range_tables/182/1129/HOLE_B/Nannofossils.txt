@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Umbilicosphaera sibogae	Syracosphaera pulchra	Helicosphaera kamptneri	Helicosphaera hyalina	Gephyrocapsa oceanica	Gephyrocapsa aperta	Emiliania huxleyi	Calcidiscus leptoporus	Sphenolithus abies	Small Gephyrocapsa spp.	Helicosphaera carteri	Cyclicargolithus floridanus	Comment
+
+
+
+  IR	                 	                 	NN20              	NN21          	182	1129	B	  1	H	CC	   0.00	     30.3800	Shafik   	Nannofossils                                 	C              	G                 	R                      	                     	                       	C                    	F                    	                   	F                	F                     	R                 	D                      	F                    	R                          	Huxleyi?. Minor reworking:abies & floridanus.
+
+  IR	                 	Quaternary       	NN20              	NN21          	182	1129	B	  2	H	CC	  10.00	     33.3000	Ladner   	Nannofossils                                 	A              	G                 	F                      	F                    	F                      	C                    	A                    	A                  	C                	C                     	                  	                       	                     	                           	       
+

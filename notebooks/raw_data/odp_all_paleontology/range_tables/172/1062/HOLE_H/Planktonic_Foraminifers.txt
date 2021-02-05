@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globorotalia tumida	Truncorotalia truncatulinoides (sin.)	Globoconella inflata	Truncorotalia truncatulinoides (dex.)	Hirsutella hirsuta	Globoturborotalita rubescens	Truncorotalia crassaformis	Comment
+
+
+
+  IR	                 	Pleistocene      	                  	N22           	172	1062	H	  1	H	CC	  10.00	      6.4600	Chaisson 	Planktonic Foraminifers                      	A              	G                 	                   	A                                    	+                   	A                                    	                  	+                           	                          	sponge spicules	 ostracodes ruber pink
+
+  IR	                 	Pleistocene      	                  	N22           	172	1062	H	  3	H	CC	  21.00	     25.8100	Chaisson 	Planktonic Foraminifers                      	C              	M                 	2                  	A                                    	+                   	R                                    	                  	                            	1                         	pyrite, mica, small forams and ostracodes
+
+  IR	                 	Pleistocene      	                  	N22           	172	1062	H	  4	H	CC	  19.00	     35.3100	Chaisson 	Planktonic Foraminifers                      	F              	P                 	                   	+                                    	A                   	+                                    	R                 	R                           	                          	sponge spicules ostrcodes forams fragments
+
+  IR	                 	Pleistocene      	                  	N22           	172	1062	H	  5	H	CC	  24.00	     44.9700	Chaisson 	Planktonic Foraminifers                      	F              	P                 	1                  	                                     	A                   	R                                    	                  	                            	                          	big pyrite-filled burrows
+
+  IR	                 	Pleistocene      	                  	N22           	172	1062	H	  6	H	CC	   0.00	     53.9700	Chaisson 	Planktonic Foraminifers                      	F              	P                 	                   	+                                    	+                   	                                     	                  	                            	                          	plastic chips (this sediment is not from CC but from the last part of the core, the core catcher was empty) pyrite
+
+  IR	                 	Pleistocene      	                  	N22           	172	1062	H	  7	H	CC	  23.00	     63.5900	Chaisson 	Planktonic Foraminifers                      	T              	P                 	1                  	                                     	                    	                                     	                  	                            	                          	pyrite dissolved, almost only forams (only benthics)
+

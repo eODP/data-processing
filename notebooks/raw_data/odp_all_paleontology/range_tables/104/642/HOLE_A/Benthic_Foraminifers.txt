@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Melonis zaandamae	Eponides umbonatus	Elphidium spp.	Cassidulina reniforme	Cassidulina laevigata	Comment
+
+
+
+  IR	                 	                 	A1                	              	104	 642	A	  1	H	CC	  22.00	     11.1700	Osterman 	Benthic Foraminifers                         	A              	G                 	3.0%             	17.0%             	T             	5.0%                 	69.0%                	6% Unidentified benthic forams;  13% benthic forams; Reworking from shelf; ODP 104 IR Chapter 4 Table 14 p 128-129
+

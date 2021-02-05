@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Gephyrocapsa spp. (small)	Gephyrocapsa medium-sized	Comment
+
+
+
+  IR	                 	                 	                  	              	204	1244	B	  3	H	CC	  27.00	     26.1600	Watanabe 	Nannofossils                                 	               	                  	+                        	+                        	       
+

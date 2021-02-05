@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Ladoronia vermicularis	Victoriella conoidea	Rotaliid taxa	Operculinella venosa	Operculina complanata	Amphistegina radiata	Lepidocyclina howchini howchini	Comment
+
+
+
+  SR	Late Miocene     	                 	                  	              	133	 816	A	 11	H	 1	  70.00	     91.7000	Chaproniere	Benthic Foraminifers                         	               	                  	                      	                    	             	                    	                     	+                   	                               	from ODP 133 SR Chapter 3 Table 2 p 43
+
+  SR	Middle Miocene   	                 	                  	              	133	 816	A	 11	H	CC	   5.00	     92.7900	Chaproniere	Benthic Foraminifers                         	               	                  	                      	                    	+            	                    	                     	+                   	+                              	from ODP 133 SR Chapter 3 Table 2 p 43
+
+  SR	Middle Miocene   	                 	                  	              	133	 816	A	 12	X	 1	  16.00	     93.1600	Chaproniere	Benthic Foraminifers                         	               	                  	+                     	                    	+            	                    	+                    	+                   	+                              	from ODP 133 SR Chapter 3 Table 2 p 43
+
+  SR	Middle Miocene   	                 	                  	              	133	 816	A	 14	X	 1	   7.00	    102.2700	Chaproniere	Benthic Foraminifers                         	               	                  	+                     	+                   	+            	+                   	+                    	+                   	                               	from ODP 133 SR Chapter 3 Table 2 p 43
+
+  SR	                 	                 	                  	              	133	 816	A	 15	X	 1	  76.00	    108.5600	Chaproniere	Benthic Foraminifers                         	               	                  	+                     	                    	             	                    	                     	                    	                               	from ODP 133 SR Chapter 3 Table 2 p 43
+
+  SR	                 	                 	                  	              	133	 816	A	 15	X	 1	  90.00	    108.7000	Chaproniere	Benthic Foraminifers                         	               	                  	+                     	                    	             	                    	                     	                    	                               	from ODP 133 SR Chapter 3 Table 2 p 43
+

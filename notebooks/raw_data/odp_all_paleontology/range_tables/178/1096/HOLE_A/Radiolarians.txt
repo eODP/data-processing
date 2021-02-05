@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Triceraspyris antarctica	Stylatractus universus	Eucyrtidium calvertense	Cycladophora pliocenica	Antarctissa cylindrica	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1096	A	  2	H	CC	  11.00	     17.5200	Weinheimer	Radiolarians                                 	R              	M                 	                        	-                     	                       	                       	-                     	       
+
+  IR	                 	                 	                  	              	178	1096	A	  3	H	CC	   0.00	     25.2300	Weinheimer	Radiolarians                                 	R              	P                 	                        	-                     	                       	                       	-                     	       
+
+  IR	                 	                 	                  	              	178	1096	A	  4	H	CC	  18.00	     32.8900	Weinheimer	Radiolarians                                 	T              	M                 	                        	-                     	                       	-                      	R                     	       
+
+  IR	                 	                 	                  	              	178	1096	A	  6	H	CC	  23.00	     54.9400	Weinheimer	Radiolarians                                 	T              	P                 	-                       	                      	-                      	-                      	-                     	       
+
+  IR	                 	                 	                  	              	178	1096	A	 13	H	CC	  10.00	    114.7100	Weinheimer	Radiolarians                                 	T              	P                 	-                       	-                     	-                      	-                      	T                     	       
+

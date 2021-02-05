@@ -1,0 +1,18 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Ephedripites sp. 2	Cyathidites minor	Ephedripites sp. 1	Ephedripites spp.	Comment
+
+
+
+  SR	                 	                 	                  	              	159	 961	A	 21	R	 2	 130.00	    189.5000	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	                  	+                	                  	+                	From 159SR Ch 25 T3
+
+  SR	                 	                 	                  	              	159	 961	A	 22	R	 2	  20.00	    198.1000	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	                  	+                	                  	                 	From 159SR Ch 25 T3
+
+  SR	                 	                 	                  	              	159	 961	A	 24	R	 1	 147.00	    217.1700	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	                  	+                	                  	+                	From 159SR Ch 25 T3
+
+  SR	                 	                 	                  	              	159	 961	A	 28	R	 3	  20.00	    258.5000	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	                  	                 	                  	+                	From 159SR Ch 25 T3
+
+  SR	                 	                 	                  	              	159	 961	A	 30	R	 1	  66.00	    275.1600	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	                  	+                	                  	                 	From 159SR Ch 25 T3
+
+  SR	                 	                 	                  	              	159	 961	A	 32	R	 1	  26.00	    294.0600	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	                  	                 	+                 	                 	From 159SR Ch 25 T3
+
+  SR	                 	                 	                  	              	159	 961	A	 34	R	 2	  32.00	    305.3200	Oboh-Ikuenobe	Pollen/Spores                                	               	                  	+                 	+                	                  	                 	From 159SR Ch 25 T3
+

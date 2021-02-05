@@ -1,0 +1,6 @@
+Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Reticulofenestra small-sized Helicosphaera carteri Gephyrocapsa medium-sized Emiliania huxleyi Coccolithus pelagicus Calcidiscus leptoporus Comment
+
+
+
+  IR Pleistocene       Pleistocene       NN21               NN21           181 1119 A   1 H CC   18.00       5.9600 nannos    Nannofossils                                  C               G                  C                            F                     A                         A                 C                     F                             
+

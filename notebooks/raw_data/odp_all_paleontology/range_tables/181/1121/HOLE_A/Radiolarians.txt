@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Triceraspyris antarctica	Spongotrochus glacialis	Spongoplegma antarcticum	Spongodiscus sp.	Spongodiscus osculosus	Sphaeropyle sp.	Prunopyle antarctica	Phorticium clevei	Lithomelissa? aitai	Lithelius nautiloides	Eucyrtidium calvertense	Euchitonia sp.	Cycladophora pliocenica	Axoprunum angelinum	Antarctissa strelkovi	Antarctissa denticulata	Comment
+
+
+
+  IR	                 	                 	                  	              	181	1121	A	  1	H	CC	  22.00	      8.3200	rads     	Radiolarians                                 	C              	VG                	R                       	C                      	A                       	C               	F                     	R              	R                   	T                	A                  	R                    	C                      	R             	A                      	T                  	R                    	R                      	       
+

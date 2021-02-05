@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Unidentified benthic forams	Textularia spp.	Planulina sp.	Hoeglundina elegans	Cibicidoides spp.	Benthics smaller subphotic	Triloculina spp.	Spiroloculina spp.	Pyrgo spp.	Benthics nodosarids	Benthics miliolid	Benthics agglutinated tubes	Benthics agglutinated other	Comment
+
+
+
+  IR	                 	                 	                  	              	194	1192	A	  1	H	CC	  19.00	      9.5500	benthics 	Benthic Foraminifers                         	               	                  	+                          	+              	+            	                   	                 	+                         	+               	+                 	+         	+                  	+                	+                          	+                          	Benthics diverse, subeuphotic with miliolid component
+
+  IR	                 	                 	                  	              	194	1192	A	  2	H	CC	  14.00	     14.4200	benthics 	Benthic Foraminifers                         	               	                  	+                          	+              	+            	+                  	+                	+                         	                	                  	          	                   	                 	                           	                           	Benthics diverse
+

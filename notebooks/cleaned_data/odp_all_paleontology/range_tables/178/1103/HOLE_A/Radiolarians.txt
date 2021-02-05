@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Lychnocanium grande	Helotholus vema	Antarctissa cylindrica	Triceraspyris antarctica	Stylatractus universus	Eucyrtidium calvertense	Cycladophora davisiana	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1103	A	  1	R	CC	  20.00	      0.2000	Weinheimer	Radiolarians                                 	A              	M                 	                   	               	C                     	F                       	F                     	                       	R                     	       
+
+  IR	                 	                 	                  	              	178	1103	A	  6	R	CC	   2.00	     45.6200	Weinheimer	Radiolarians                                 	R              	M                 	                   	               	-                     	R                       	-                     	-                      	                      	       
+
+  IR	                 	                 	                  	              	178	1103	A	 24	R	CC	   0.00	    218.4000	Weinheimer	Radiolarians                                 	R              	P                 	T                  	T              	T                     	                        	                      	                       	                      	       
+

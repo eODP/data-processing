@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Hystricocythere ? sp.	Cytherelloidea cf. carnavonensis	Trachyleberis anteplana	Apateloschizocythere geniculata	Paramunsayella exmouthensis	Comment
+
+
+
+  SR	                 	                 	                  	              	122	 761	B	 24	X	 2	  82.00	    201.0200	Damotte  	Ostracodes                                   	               	                  	                     	                                	                       	                               	+                          	from ODP Leg 122 SR Chapter 48 Table 1 p 821
+
+  SR	                 	                 	                  	              	122	 761	B	 25	X	 2	  18.00	    209.8800	Damotte  	Ostracodes                                   	               	                  	                     	                                	                       	+                              	                           	from ODP Leg 122 SR Chapter 48 Table 1 p 821
+
+  SR	                 	                 	                  	              	122	 761	B	 26	X	 2	  17.00	    219.3700	Damotte  	Ostracodes                                   	               	                  	                     	+                               	+                      	                               	                           	from ODP Leg 122 SR Chapter 48 Table 1 p 821
+
+  SR	                 	                 	                  	              	122	 761	B	 27	X	 1	 113.00	    228.3300	Damotte  	Ostracodes                                   	               	                  	+                    	+                               	                       	                               	                           	from ODP Leg 122 SR Chapter 48 Table 1 p 821
+

@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Theocorythium trachelium trachelium	Theocalyptra davisiana	Stylatractus universus	Spongaster tetras	Pterocorys minythorax	Lamprocyrtis nigriniae	Collosphaera tuberosa	Amphirhopalum ypsilon	Comment
+
+
+
+  SR	                 	                 	P12               	              	138	 852	A	  1	H	CC	  23.00	      5.8300	Moore    	Radiolarians                                 	C/A            	M                 	R                                  	R                     	R                     	R                	R                    	R                     	R                    	R                    	from ODP Leg 138 SR Chapter 11 Fig 9 pp 220-221
+

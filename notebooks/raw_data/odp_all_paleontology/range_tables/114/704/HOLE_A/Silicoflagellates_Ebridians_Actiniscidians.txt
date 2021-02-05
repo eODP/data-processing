@@ -1,0 +1,232 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Distephanus quinquangellus	Distephanus pseudofibula	Dictyocha spp.	Bachmannocena  diodon	Bachmannocena  borderlandensis	Comment
+
+
+
+  SR	                 	                 	                  	              	114	 704	A	  1	H	 2	  76.00	      2.2600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  1	H	 3	  76.00	      3.7600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  1	H	 5	  76.00	      6.7600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  2	H	 1	  40.00	      7.6000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	R             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  2	H	 2	 130.00	     10.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  2	H	 3	 130.00	     11.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  2	H	 4	 130.00	     13.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  2	H	 5	 130.00	     14.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  2	H	 7	  40.00	     16.6000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	VR            	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  3	H	 1	  80.00	     17.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  3	H	 2	  80.00	     19.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  3	H	 3	  26.00	     19.9600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  3	H	 4	  26.00	     21.4600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  3	H	 5	  26.00	     22.9600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  3	H	 6	  26.00	     24.4600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  5	H	 1	  50.00	     36.2000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  5	H	 2	  50.00	     37.7000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  5	H	 3	  50.00	     39.2000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  5	H	 4	  50.00	     40.7000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  5	H	 5	  80.00	     42.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  6	H	 1	  84.00	     46.0400	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  6	H	 2	  84.00	     47.5400	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  6	H	 3	  84.00	     49.0400	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  6	H	 4	  84.00	     50.5400	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  6	H	 5	  84.00	     52.0400	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	R             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  6	H	 6	  84.00	     53.5400	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  7	H	 1	  59.00	     55.2900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  7	H	 2	  59.00	     56.7900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  7	H	 3	  59.00	     58.2900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	C             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  7	H	 4	  59.00	     59.7900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	C             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  7	H	 5	  59.00	     61.2900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	C             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  7	H	 6	  59.00	     62.7900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  8	H	 1	  80.00	     65.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  8	H	 2	  80.00	     66.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	R             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  8	H	 3	  80.00	     68.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  8	H	 4	  80.00	     69.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  8	H	 5	  80.00	     71.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  8	H	 6	  80.00	     72.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  9	H	 1	  80.00	     74.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  9	H	 2	  80.00	     76.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  9	H	 3	  80.00	     77.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  9	H	 4	  80.00	     79.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  9	H	 5	  80.00	     80.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	  9	H	 6	  80.00	     82.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 10	H	 1	  79.00	     83.9900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 10	H	 2	  79.00	     85.4900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 10	H	 3	  79.00	     86.9900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 10	H	 4	  79.00	     88.4900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 10	H	 5	  79.00	     89.9900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 10	H	 6	  79.00	     91.4900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 11	H	 1	  80.00	     93.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 11	H	 2	  80.00	     95.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 11	H	 3	  80.00	     96.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 11	H	 4	  80.00	     98.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 11	H	 5	  80.00	     99.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 11	H	 6	  80.00	    101.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 12	H	 1	  80.00	    103.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 12	H	 2	  80.00	    104.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 12	H	 3	  80.00	    106.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 12	H	 4	  80.00	    107.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 12	H	 5	  80.00	    109.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 12	H	 6	  80.00	    110.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 13	H	 1	  80.00	    112.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 13	H	 2	  80.00	    114.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 13	H	 3	  80.00	    115.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 13	H	 4	  80.00	    117.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 13	H	 6	  80.00	    120.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 14	H	 1	  80.00	    122.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 14	H	 2	  80.00	    123.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 14	H	 3	  80.00	    125.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 14	H	 4	  80.00	    126.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 14	H	 5	  80.00	    128.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	VR            	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 14	H	 6	  80.00	    129.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 15	H	 1	  80.00	    131.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 15	H	 2	  80.00	    133.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 15	H	 3	  80.00	    134.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 15	H	 4	  80.00	    136.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 15	H	 6	  80.00	    139.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 16	H	 2	  80.00	    142.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 16	H	 3	  80.00	    144.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 16	H	 4	  80.00	    145.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 16	H	 6	  80.00	    148.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 17	X	 2	  80.00	    152.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 17	X	 4	  80.00	    155.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 17	X	 6	  80.00	    158.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 18	X	 2	  76.00	    161.4600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 18	X	 4	  76.00	    164.4600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 18	X	 5	  76.00	    165.9600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 18	X	 6	  76.00	    167.4600	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 19	X	 1	  60.00	    169.3000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 19	X	 2	  60.00	    170.8000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 19	X	 3	  60.00	    172.3000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 19	X	 4	  60.00	    173.8000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 19	X	 5	  60.00	    175.3000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 19	X	 6	  60.00	    176.8000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 20	X	 1	  80.00	    179.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 20	X	 2	  80.00	    180.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 20	X	 3	  80.00	    182.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 20	X	 4	  80.00	    183.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 20	X	 5	  80.00	    185.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 20	X	 6	  80.00	    186.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 21	X	 1	  80.00	    188.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	F                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 21	X	 2	  50.00	    189.7000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	S                         	-                       	R             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 21	X	 3	  80.00	    191.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	S                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 21	X	 4	  50.00	    192.7000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	S                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 22	X	 1	  81.00	    198.0100	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	VR            	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 22	X	 2	  50.00	    199.2000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	R                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 22	X	 3	  81.00	    201.0100	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 22	X	 4	 139.00	    203.0900	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	R                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 22	X	 5	  81.00	    204.0100	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	-             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 23	X	 1	  80.00	    207.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	S             	R                    	R                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 23	X	 2	  80.00	    209.0000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	S             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 23	X	 3	  80.00	    210.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	-                       	S             	-                    	R                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+
+  SR	                 	                 	                  	              	114	 704	A	 23	X	 5	  80.00	    213.5000	Ciesielski	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	-                         	VR                      	C             	-                    	-                             	from ODP Leg 114 SR Chapter 41 Table 3 p.760-763
+

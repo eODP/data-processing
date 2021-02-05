@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pulleniatina obliquiloculata	Orbulina universa	Neogloboquadrina pachyderma (dextral)	Neogloboquadrina dutertrei	Globorotalia truncatulinoides	Globorotalia tosaensis	Globorotalia scitula	Globorotalia puncticulata	Globorotalia inflata	Globorotalia crassula	Globorotalia crassaformis	Globigerinoides ruber	Globigerinita uvula	Globigerinita glutinata	Globigerinella siphonifera	Globigerina quinqueloba	Globigerina falconensis	Globigerina bulloides	Comment
+
+
+
+  IR	                 	Pleistocene      	                  	Pt1b          	182	1128	A	  1	H	CC	   7.00	      9.2800	Li       	Planktonic Foraminifers                      	A              	M                 	P                           	F                	F                                    	P                         	F                            	P                     	P                   	P                        	A                   	P                    	F                        	R                    	P                  	R                      	F                         	A                      	A                      	P                    	margaritae and continuosa reworked
+

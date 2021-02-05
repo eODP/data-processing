@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Theocorythium vetulum	Stylatractus universus	Stichocorys peregrina	Spongaster tetras	Pterocanium prismatium	Phormostichoartus fistula	Phormostichoartus doliolum	Lychnodictyum audax	Didymocyrtis penultima	Anthocyrtidium pliocenica	Anthocyrtidium jenghisi	Amphirhopalum ypsilon	Comment
+
+
+
+  SR	                 	                 	S peregrina(RN9)M95	              	138	 851	C	  7	H	CC	  30.00	     69.3200	Moore    	Radiolarians                                 	A              	G                 	R                    	R                     	C                    	-                	-                     	R                        	R                         	-                  	R                     	R                        	R                      	-                    	from ODP Leg 138 Ch 11 Figure 8 p 218-219
+

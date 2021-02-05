@@ -1,0 +1,22 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Reticulofenestra producta	Reticulofenestra perplexa	Coccolithus pelagicus	Chiasmolithus altus	Reticulofenestra umbilica	Reticulofenestra gelida	Calcidiscus leptoporus	Coccolithus formosus	Comment
+
+
+
+  SR	Pliocene         	Pleistocene      	CN12              	CN14          	120	 748	A	  1	H	 3	  11.00	      3.1100	Wei      	Nannofossils                                 	R              	M                 	                         	                         	R                    	                   	                         	                       	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN12              	CN14          	120	 748	A	  1	H	 3	  49.00	      3.4900	Wei      	Nannofossils                                 	C              	M                 	                         	r                        	C                    	                   	                         	                       	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN12              	CN14          	120	 748	A	  1	H	 3	  80.00	      3.8000	Wei      	Nannofossils                                 	R              	M                 	                         	r                        	F                    	r                  	r                        	                       	                      	r                   	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN12              	CN14          	120	 748	A	  1	H	 3	  95.00	      3.9500	Wei      	Nannofossils                                 	R              	M                 	                         	                         	R                    	                   	                         	                       	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN12              	CN14          	120	 748	A	  2	H	 2	  10.00	     11.1000	Wei      	Nannofossils                                 	R              	M                 	                         	r                        	R                    	r                  	r                        	                       	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN12              	CN14          	120	 748	A	  2	H	 2	 105.00	     12.0500	Wei      	Nannofossils                                 	R              	M                 	                         	r                        	R                    	r                  	                         	                       	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN11              	              	120	 748	A	  2	H	 3	  90.00	     13.4000	Wei      	Nannofossils                                 	V              	M                 	A                        	V                        	V                    	r                  	                         	F                      	R                     	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN11              	              	120	 748	A	  2	H	 3	 130.00	     13.8000	Wei      	Nannofossils                                 	V              	M                 	A                        	A                        	V                    	r                  	r                        	F                      	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+
+  SR	Pliocene         	Pleistocene      	CN11              	              	120	 748	A	  2	H	 4	  10.00	     14.1000	Wei      	Nannofossils                                 	V              	M                 	C                        	A                        	V                    	r                  	                         	                       	                      	                    	from ODP Leg 120 SR Vol 2 Chapter 28 Table 3 p 514
+

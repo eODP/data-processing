@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassiosira torokina	Thalassiosira oliverana	Paralia sulcata	Nitzschia kerguelenis	Actinocyclus karstenii	Eucampia antarctica	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1100	D	  1	R	CC	   5.00	      0.0500	Winter   	Diatoms                                      	F              	P                 	                      	                       	               	F                    	                      	T                  	unidentifical fragments only
+
+  IR	                 	                 	                  	              	178	1100	D	  2	R	CC	   6.00	     14.6600	Winter   	Diatoms                                      	F              	P                 	                      	                       	               	T                    	                      	                   	       
+
+  IR	                 	                 	                  	              	178	1100	D	  3	R	CC	  37.00	     24.5700	Winter   	Diatoms                                      	F              	P                 	R                     	T                      	T              	R                    	T                     	                   	       
+

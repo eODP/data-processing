@@ -1,0 +1,90 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina pachyderma (dextral)	Neogloboquadrina cf. dutertrei	Globigerina cf. bulloides	Turborotalita quinqueloba	Comment
+
+
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 1	  15.00	      0.1500	Spiegler 	Planktonic Foraminifers                      	               	P                 	C                                      	R                                    	R                             	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 1	  69.00	      0.6900	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	R                                    	R                             	R                        	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 1	  82.00	      0.8200	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	R                                    	C                             	R                        	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 2	 103.00	      2.5300	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	R                                    	C                             	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 3	  17.00	      3.1700	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 4	   6.00	      4.5600	Spiegler 	Planktonic Foraminifers                      	               	M                 	C                                      	                                     	                              	R                        	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 4	  18.00	      4.6800	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 4	  41.00	      4.9100	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	                                     	                              	                         	R                        	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 4	  69.00	      5.1900	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 4	 116.00	      5.6600	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	R                                    	C                             	R                        	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 5	   5.00	      6.0500	Spiegler 	Planktonic Foraminifers                      	               	M                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 5	  43.00	      6.4300	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  1	H	 5	  86.00	      6.8600	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 1	  15.00	      7.6500	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 1	  85.00	      8.3500	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 1	  94.00	      8.4400	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 2	   6.00	      9.0600	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 2	  56.00	      9.5600	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 2	  92.00	      9.9200	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	R                                    	R                             	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 2	 106.00	     10.0600	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 3	  46.00	     10.9600	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 3	 121.00	     11.7100	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 3	 146.00	     11.9600	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 4	  82.00	     12.8200	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 4	 104.00	     13.0400	Spiegler 	Planktonic Foraminifers                      	               	M                 	A                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 5	  13.00	     13.6300	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 6	   6.00	     15.0600	Spiegler 	Planktonic Foraminifers                      	               	P                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 6	  19.00	     15.1900	Spiegler 	Planktonic Foraminifers                      	               	P                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 6	  76.00	     15.7600	Spiegler 	Planktonic Foraminifers                      	               	P                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	 7	  62.00	     17.1200	Spiegler 	Planktonic Foraminifers                      	               	P                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  2	H	CC	  22.00	     17.3600	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  3	H	 4	  88.00	     22.3800	Spiegler 	Planktonic Foraminifers                      	               	P                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  3	H	 5	  80.00	     23.8000	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	R                                    	R                             	R                        	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  3	H	 5	 103.00	     24.0300	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  3	H	 6	  42.00	     24.9200	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  3	H	CC	   0.00	     26.5200	Spiegler 	Planktonic Foraminifers                      	               	M                 	C                                      	R                                    	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  4	H	 1	  44.00	     26.9400	Spiegler 	Planktonic Foraminifers                      	               	G                 	C                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  4	H	 2	  71.00	     28.7100	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	R                                    	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  4	H	CC	  38.00	     36.6800	Spiegler 	Planktonic Foraminifers                      	               	M                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  5	H	 1	 128.00	     37.2800	Spiegler 	Planktonic Foraminifers                      	               	G                 	A                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  6	H	 1	  77.00	     46.2700	Spiegler 	Planktonic Foraminifers                      	               	                  	R                                      	R                                    	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  6	H	CC	  26.00	     54.5400	Spiegler 	Planktonic Foraminifers                      	               	M                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 909	A	  8	H	CC	  27.00	     74.0800	Spiegler 	Planktonic Foraminifers                      	               	G                 	R                                      	                                     	                              	                         	                         	From Leg 151; Ch 8; Table 8; p. 161
+

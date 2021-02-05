@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Poaceae taxa	Gyrostemonaceae taxa	Chenopodiaceae taxa	Asteraceae taxa	Comment
+
+
+
+  SR	Pleistocene      	                 	                  	              	123	 765	A	  1	H	 2	 142.00	      2.9200	McMinn   	Pollen/Spores                                	               	                  	12          	1                   	2                  	2              	total count = 17; from ODP Leg 123 SR Chapter 20 Table 1 p 422
+

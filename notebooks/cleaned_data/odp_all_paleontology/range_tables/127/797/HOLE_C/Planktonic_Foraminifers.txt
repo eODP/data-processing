@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globorotalia praescitula	Globigerina woodi	Globigerina cf. G. bulloides	Catapsydrax parvulus	Comment
+
+
+
+  SR	                 	                 	                  	              	127	 797	C	  2	R	CC	  18.00	    496.6200	Brunner  	Planktonic Foraminifers                      	               	                  	                        	6                	                            	                    	from ODP Leg 127&128 Chapter 12 Table 5 p 202-207
+
+  SR	                 	                 	                  	              	127	 797	C	  3	R	CC	  22.00	    506.3600	Brunner  	Planktonic Foraminifers                      	               	                  	1                       	3                	2                           	2                   	from ODP Leg 127&128 Chapter 12 Table 5 p 202-207
+

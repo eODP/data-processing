@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pontosphaera japonica	Gephyrocapsa oceanica	Gephyrocapsa caribbeanica	Emiliania pujosae	Emiliania huxleyi	Coccolithus pelagicus	Calcidiscus leptoporus	Syracosphaera pulchra	Comment
+
+
+
+  IR	Late Pleistocene 	Holocene         	NN21B             	              	139	 857	B	  1	H	 1	   0.00	      0.0000	Mao      	Nannofossils                                 	C              	M                 	                     	C                    	R                        	                 	C                	R                    	F                     	R                    	,from ODP Leg 139 IR; Chapter 7; Table 7; pp 324-326
+
+  IR	Late Pleistocene 	Holocene         	NN21B             	              	139	 857	B	  1	H	CC	  20.00	      3.3400	Mao      	Nannofossils                                 	R              	P                 	                     	R                    	                         	                 	R                	R                    	                      	                     	,from ODP Leg 139 IR; Chapter 7; Table 7; pp 324-326
+
+  IR	Late Pleistocene 	Holocene         	NN21B             	              	139	 857	B	  2	H	CC	  27.00	     13.2600	Mao      	Nannofossils                                 	C              	M                 	                     	C                    	                         	R                	C                	F                    	                      	                     	,from ODP Leg 139 IR; Chapter 7; Table 7; pp 324-326
+
+  IR	Late Pleistocene 	Holocene         	NN21A             	              	139	 857	B	  3	H	CC	   0.00	     30.6100	Mao      	Nannofossils                                 	C              	P                 	R                    	C                    	R                        	R                	F                	R                    	R                     	                     	,from ODP Leg 139 IR; Chapter 7; Table 7; pp 324-326
+

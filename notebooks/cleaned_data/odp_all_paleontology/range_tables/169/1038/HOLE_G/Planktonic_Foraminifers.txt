@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globigerina bulloides	Turborotalita quinqueloba	Globorotalia scitula	Comment
+
+
+
+  IR	                 	                 	                  	              	169	1038	G	  3	H	CC	  15.00	     32.7500	Brunner  	Planktonic Foraminifers                      	R              	P                 	                     	R                        	                    	Cemented and re-crystallized fine sand lumps, black organic matter, very gassy core! Some foraminifers are clearly re-crystallized with crystals growing larger!
+
+  IR	                 	                 	                  	              	169	1038	G	  5	H	CC	  49.00	     48.7000	Brunner  	Planktonic Foraminifers                      	R              	P                 	                     	R                        	R                   	Cemented and re-crystallized silt and fine sand lumps with a trace of mica, clear sand grains, trace of framboidal pyrite, trace of blackened organic matter? recrystallized white planktonic foraminifers in the 63-150 micron fraction
+
+  IR	                 	                 	                  	              	169	1038	G	  8	X	CC	  37.00	     71.0400	Brunner  	Planktonic Foraminifers                      	C              	P                 	A                    	                         	                    	Mineral sand cemented into sand-size lumps,  with fine sand as individual grains, brown mica, highly recrystallized benthonic and planktonic foraminifers in very poor condition
+

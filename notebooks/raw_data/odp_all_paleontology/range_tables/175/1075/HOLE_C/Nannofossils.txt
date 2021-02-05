@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Reticulofenestra asanoi	Pseudoemiliania lacunosa	Helicosphaera sellii	Gephyrocapsa spp. (small)	Gephyrocapsa oceanica	Gephyrocapsa caribbeanica	Emiliania huxleyi	Discoaster brouweri	Crenalithus doronicoides	Coccolithus pelagicus	Calcidiscus macintyrei	Comment
+
+
+
+  IR	                 	Late Pliocene    	                  	NN18          	175	1075	C	 22	H	CC	  29.00	    208.0900	Giraudeau	Nannofossils                                 	F              	P                 	-                      	+                       	+                   	D                        	-                    	-                        	-                	R                  	-                       	+                    	-                     	Top NN18?
+

@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thanarla pulchra	Thanarla praeveneta	Thanarla elegantissima	Pseudodictyomitra sp.	Pseudodictyomitra pseudomacrocephala	Novixitus sp.	Mita sp. cf. M. gracialis	Dictyomitra sp. cf. D. andersoni	Thanarla veneta	Obesacapsula somphedia	Dictyomitra ? sp. cf. Eucyrtidium turritum	Comment
+
+
+
+  SR	Albian           	                 	                  	              	130	 803	D	 68	R	 3	  86.00	    625.6600	Takahashi	Radiolarians                                 	A              	P                 	R               	F                  	F                     	                     	F                                   	             	                         	                                	C              	                      	                                          	from 130SR.Chapter 7.Table 1.page 95.
+
+  SR	Albian           	                 	                  	              	130	 803	D	 68	R	 3	  89.00	    625.6900	Takahashi	Radiolarians                                 	A              	P-M               	                	A                  	C                     	                     	A                                   	             	                         	R                               	A              	R                     	R                                         	from 130SR.Chapter 7.Table 1.page 95.
+
+  SR	Albian           	                 	                  	              	130	 803	D	 68	R	 3	  96.00	    625.7600	Takahashi	Radiolarians                                 	F              	P                 	F               	C                  	F                     	R                    	F                                   	R            	R                        	R                               	               	                      	                                          	from 130SR.Chapter 7.Table 1.page 95.
+

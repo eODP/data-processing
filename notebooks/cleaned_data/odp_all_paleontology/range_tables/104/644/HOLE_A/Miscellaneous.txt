@@ -1,0 +1,74 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Inoceramus (prisms)	Comment
+
+
+
+  SR	                 	                 	                  	              	104	 644	A	  1	H	 3	 140.00	      4.4000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  1	H	 4	 120.00	      5.7000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  2	H	 1	  20.00	      9.4000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  2	H	 1	  60.00	      9.8000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  2	H	 3	 102.00	     13.2200	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  2	H	 5	  40.00	     15.6000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  3	H	 1	  80.00	     17.0000	Spiegler 	Miscellaneous                                	               	                  	C                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  3	H	 2	  60.00	     18.3000	Spiegler 	Miscellaneous                                	               	                  	C                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  3	H	 4	  20.00	     20.9000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  4	H	 2	 120.00	     28.4000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  4	H	 3	  60.00	     29.3000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  4	H	 4	  20.00	     30.4000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  4	H	 4	 100.00	     31.2000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  4	H	 5	  80.00	     32.5000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  5	H	 3	  80.00	     39.0000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  5	H	 4	  40.00	     40.1000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  5	H	 4	 135.00	     41.0500	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  6	H	 2	  99.00	     47.1900	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  6	H	 5	  20.00	     50.9000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  8	H	 1	  19.00	     63.8900	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  8	H	 3	  38.00	     67.0800	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  8	H	 5	  20.00	     68.9700	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  8	H	 5	 120.00	     69.9700	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  9	H	 1	 140.00	     74.6000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  9	H	 2	  38.00	     75.0800	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	  9	H	 4	  38.00	     78.0800	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 10	H	 4	 120.00	     88.4000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 10	H	 5	  20.00	     88.9000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 11	H	 3	  98.00	     96.1800	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 11	H	 3	 140.00	     96.6000	Spiegler 	Miscellaneous                                	               	                  	R                  	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 11	H	 4	 120.00	     97.9000	Spiegler 	Miscellaneous                                	               	                  	VR                 	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 13	H	 3	 143.00	    115.5300	Spiegler 	Miscellaneous                                	               	                  	VR                 	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 14	H	 2	 140.00	    123.3900	Spiegler 	Miscellaneous                                	               	                  	VR                 	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 15	H	 6	  40.00	    138.1000	Spiegler 	Miscellaneous                                	               	                  	VR                 	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+
+  SR	                 	                 	                  	              	104	 644	A	 18	H	 7	  56.00	    167.7000	Spiegler 	Miscellaneous                                	               	                  	VR                 	Age of ice-rafted fossils = Cretaceous; from ODP Leg 104 SR  Chapter 37  Table 3  p 743
+

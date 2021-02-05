@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Gephyrocapsa oceanica s.l.	Gephyrocapsa (small)	Coccolithus pelagicus	Comment
+
+
+
+  IR	                 	                 	CN14b             	CN15          	167	1016	C	  1	H	CC	  10.00	      9.1400	Fornaciari	Nannofossils                                 	C              	M/G               	                          	A                   	+                    	from IR. Ch 10. Table 5.
+
+  IR	                 	                 	CN14b             	CN15          	167	1016	C	  2	H	CC	  13.00	     18.7600	Fornaciari	Nannofossils                                 	C              	G                 	C                         	A                   	                     	from IR. Ch 10. Table 5.
+

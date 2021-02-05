@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globigerinoides sp.	Orbulina universa	Comment
+
+
+
+  SR	                 	                 	                  	              	133	 816	B	  1	R	CC	   8.00	     89.9900	Chaproniere	Planktonic Foraminifers                      	               	                  	+                  	?                	indeterminant planktonic forams = present; from ODP 133 SR Chapter 3 Table 3 p 44
+
+  SR	                 	                 	                  	              	133	 816	B	  8	R	 1	 112.00	    154.7200	Chaproniere	Planktonic Foraminifers                      	               	                  	?                  	                 	from ODP 133 SR Chapter 3 Table 3 p 44
+

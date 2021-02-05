@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Nematosphaeropsis lemniscata	Spiniferites ramosus	Comment
+
+
+
+  IR	                 	                 	                  	              	174	1071	A	  2	H	CC	  23.00	      7.8300	McCarthy 	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	                            	+                   	Dinocysts rare, pollen relatively abundant; Brigantedinium spp. most common dinocyst
+
+  IR	                 	                 	                  	              	174	1071	A	  9	X	CC	   0.00	     39.9000	McCarthy 	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	+                           	                    	Achomosphaera sp. present; Brigantedinium spp. common
+

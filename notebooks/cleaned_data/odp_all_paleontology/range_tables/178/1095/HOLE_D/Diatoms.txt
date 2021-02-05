@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassiosira torokina	Thalassiosira inura	Thalassiosira fasciculata	Thalassiosira complicata	Thalassiosira oliverana	Thalassiosira kolbei	Thalassiosira insigna	Thalassiosira elliptipora	Actinocyclus maccollumii	Actinocyclus karstenii	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1095	D	  7	H	CC	  20.00	     65.9000	Winter   	Diatoms                                      	F              	MP                	+                     	+                  	                         	                        	+                      	+                   	R                    	+                        	+                       	+                     	       
+
+  IR	                 	                 	                  	              	178	1095	D	  9	H	CC	  16.00	     84.8400	Winter   	Diatoms                                      	A              	P                 	+                     	+                  	+                        	+                       	                       	                    	                     	                         	                        	                      	A frags!
+

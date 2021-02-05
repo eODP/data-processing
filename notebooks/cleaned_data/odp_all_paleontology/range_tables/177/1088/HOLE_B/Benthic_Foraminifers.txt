@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	other agglutinated taxa	Triloculina trihedra	Pyrgo spp.	Pullenia subcarinata	Oridorsalis umbonatus	Lagena spp.	Gyroidinoides spp.	Gyroidinoides soldanii	Globocassidulina subglobosa	Fissurina spp.	Epistominella exigua	Eggerella bradyi	Cassidulina laevigata	Bulimina alazanensis	Comment
+
+
+
+  IR	                 	                 	                  	              	177	1088	B	  1	H	CC	   7.00	      5.4100	Austin   	Benthic Foraminifers                         	C              	G                 	1                      	2                   	1         	1                   	2                    	2          	1                 	1                     	2                          	3             	9                   	2               	5                    	1                   	20cm3 sample @63um. full tray picked
+

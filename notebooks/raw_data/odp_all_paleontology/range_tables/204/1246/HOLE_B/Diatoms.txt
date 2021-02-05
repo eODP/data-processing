@@ -1,0 +1,36 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Stephanopyxis spp.	Stephanopyxis dimorpha	Proboscia curvirostris	Proboscia barboi	Neodenticula seminae	Thalassionema nitzschioides	Thalassiosira jouseae	Coscinodiscus marginatus	Coscinodiscus radiatus	Comment
+
+
+
+  IR	                 	                 	                  	              	204	1246	B	  1	H	CC	  24.00	      4.6900	Watanabe 	Diatoms                                      	C              	M                 	F                 	C                     	                      	                	F                   	F                          	                     	                        	R                     	       
+
+  IR	                 	                 	                  	              	204	1246	B	  2	H	CC	  19.00	     14.4300	Watanabe 	Diatoms                                      	F              	P                 	R                 	F                     	                      	                	R                   	R                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  3	H	CC	  64.00	     23.9500	Watanabe 	Diatoms                                      	C              	M                 	F                 	C                     	                      	                	F                   	F                          	                     	R                       	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  4	H	CC	  37.00	     33.8700	Watanabe 	Diatoms                                      	F              	P                 	F                 	F                     	                      	                	R                   	F                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  5	H	CC	  37.00	     43.2200	Watanabe 	Diatoms                                      	F              	P                 	R                 	F                     	T                     	T               	R                   	R                          	                     	T                       	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  6	H	CC	  28.00	     52.5200	Watanabe 	Diatoms                                      	R              	P                 	T                 	R                     	T                     	                	T                   	T                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  7	H	CC	  37.00	     61.6200	Watanabe 	Diatoms                                      	R              	P                 	T                 	R                     	T                     	                	T                   	T                          	                     	T                       	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  8	H	CC	  29.00	     70.6500	Watanabe 	Diatoms                                      	R              	P                 	T                 	R                     	T                     	                	                    	T                          	                     	T                       	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	  9	H	CC	  13.00	     80.2200	Watanabe 	Diatoms                                      	F              	P                 	R                 	F                     	T                     	                	                    	R                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 10	H	CC	  37.00	     89.4100	Watanabe 	Diatoms                                      	R              	P                 	R                 	R                     	R                     	                	T                   	R                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 11	H	CC	  81.00	     97.7900	Watanabe 	Diatoms                                      	R              	P                 	R                 	R                     	R                     	                	R                   	R                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 12	H	CC	  48.00	    109.6900	Watanabe 	Diatoms                                      	C              	P                 	F                 	C                     	R                     	                	T                   	F                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 13	H	CC	  24.00	    117.8000	Watanabe 	Diatoms                                      	F              	P                 	R                 	F                     	R                     	                	                    	R                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 14	H	CC	  31.00	    122.5700	Watanabe 	Diatoms                                      	F              	P                 	R                 	F                     	T                     	T               	R                   	R                          	T                    	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 15	H	CC	  44.00	    129.7800	Watanabe 	Diatoms                                      	R              	P                 	T                 	R                     	+                     	                	                    	T                          	                     	                        	                      	       
+
+  IR	                 	                 	                  	              	204	1246	B	 16	H	CC	  10.00	    136.7100	Watanabe 	Diatoms                                      	F              	P                 	R                 	F                     	R                     	R               	R                   	                           	                     	                        	                      	       
+

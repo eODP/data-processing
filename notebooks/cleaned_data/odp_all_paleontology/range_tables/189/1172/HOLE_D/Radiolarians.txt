@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Spongatractus balbis	Dictyomitra amygdala	Theocorys robusta	Theocorys saginata	Stichocampe (?) caia	Eucyrtidium spinosum	Eucyrtidium cheni	Cyclampterium(?) milowi	Comment
+
+
+
+  IR	                 	                 	                  	              	189	1172	D	  2	R	CC	   8.00	    362.9700	rads     	Radiolarians                                 	C              	M                 	                    	                    	R                	                  	                    	F                   	F                	R                      	       
+
+  IR	                 	                 	                  	              	189	1172	D	  3	R	CC	  12.00	    372.6400	rads     	Radiolarians                                 	C              	M                 	                    	                    	F                	C                 	T                   	F                   	F                	R                      	       
+
+  IR	                 	                 	                  	              	189	1172	D	  6	R	CC	   8.00	    522.6600	rads     	Radiolarians                                 	F              	P                 	                    	R                   	R                	                  	                    	                    	                 	                       	       
+
+  IR	                 	                 	                  	              	189	1172	D	  7	R	CC	  15.00	    535.2500	rads     	Radiolarians                                 	R              	P                 	                    	T                   	T                	                  	                    	                    	                 	                       	       
+
+  IR	                 	                 	                  	              	189	1172	D	 14	R	CC	   0.00	    601.8600	rads     	Radiolarians                                 	F              	P                 	T                   	C                   	                 	                  	                    	                    	                 	                       	       
+

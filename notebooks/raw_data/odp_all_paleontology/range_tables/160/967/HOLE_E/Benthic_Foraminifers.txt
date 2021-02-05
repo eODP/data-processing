@@ -1,0 +1,42 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Rotaliid taxa	Miliolid taxa	Nezzazzatid taxa	Archaeoalveolina reucheli	Cuneolina sp.	Lagenid taxa	Comment
+
+
+
+  SR	                 	                 	                  	              	160	 967	E	 29	R	 1	 109.00	    379.8900	Premoli Silva	Benthic Foraminifers                         	               	                  	             	             	                	                         	             	R           	echinoderms = F. phosphatic remains=F. inoceramids=VR. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 30	R	 1	  55.00	    388.9500	Premoli Silva	Benthic Foraminifers                         	               	                  	             	             	                	                         	             	F           	echinoderms=F. inoceramids=F. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 31	R	 1	   5.00	    398.4500	Premoli Silva	Benthic Foraminifers                         	               	                  	             	             	                	                         	             	R           	echinoderms=F/C. micrite=C. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 32	R	 1	  12.00	    407.8200	Premoli Silva	Benthic Foraminifers                         	               	                  	R            	             	                	                         	             	VR          	echinoderms=AA. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 32	R	 1	  56.00	    408.2600	Premoli Silva	Benthic Foraminifers                         	               	                  	             	             	                	                         	             	R/F         	ostracods=C. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 33	R	 1	   7.00	    417.4700	Premoli Silva	Benthic Foraminifers                         	               	                  	             	             	                	                         	             	R           	ostracods=C. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 34	R	 1	   9.00	    427.0900	Premoli Silva	Benthic Foraminifers                         	F              	                  	             	R            	R               	                         	VR           	            	ostracods=R. agglutinated forams=R. micrite=AAA. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 35	R	 1	   2.00	    436.6200	Premoli Silva	Benthic Foraminifers                         	F              	                  	VR           	R            	                	VR                       	VR           	            	ostracods=F. Istriloculina=VR. echinoderms=AAA. micrite=AAA.  from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 36	R	 1	   0.00	    446.2000	Premoli Silva	Benthic Foraminifers                         	A              	                  	             	F/C          	C/A             	                         	?            	            	ostracods=C. Istriloculina=F. agglutinated forams=F. echinoderms=R. molluscs=F. oncoids=VR. solenoporaceans=VR. Tubyphytes=?. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 36	R	 1	   6.00	    446.2600	Premoli Silva	Benthic Foraminifers                         	R              	                  	             	R            	                	                         	             	            	ostracods=A. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 37	R	 1	  13.00	    456.0300	Premoli Silva	Benthic Foraminifers                         	C              	                  	             	F/C          	VR              	VR                       	             	            	Istriloculina=VR. agglutinated foraminifers =VR. echinoderms=F. oncoids=VR. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 39	R	 1	   0.00	    475.1000	Premoli Silva	Benthic Foraminifers                         	F              	                  	             	F            	                	                         	             	            	ostracods=R. Istriloculina=VR. echinoderms=F. micrite=A. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 39	R	 1	   4.00	    475.1400	Premoli Silva	Benthic Foraminifers                         	C              	                  	             	R/F          	R               	                         	             	            	ostracods=F/C. Istriloculina=F. agglutinated foraminifers=F. echinoderms=R. molluscs=?. micrite=A. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 39	R	 1	  10.00	    475.2000	Premoli Silva	Benthic Foraminifers                         	C              	                  	             	C            	R               	                         	             	            	ostracods=F. Istriloculina=F. agglutinated foraminifers=F. micrite=A. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 41	R	 1	   0.00	    494.4000	Premoli Silva	Benthic Foraminifers                         	F              	                  	             	F/C          	VR              	R                        	             	            	ostracods=C. Istriloculina=F. crustaceans=R. molluscs=?. micrite=AA. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 41	R	 1	  12.00	    494.5200	Premoli Silva	Benthic Foraminifers                         	C              	                  	             	C            	VR              	                         	             	            	ostracods=F. Istriloculina=C. molluscs=R/F. phosphatic remains=VR. from Leg 160SR Ch 30 Table 2
+
+  SR	Late Aptian      	                 	                  	              	160	 967	E	 41	R	 1	 106.00	    495.4600	Premoli Silva	Benthic Foraminifers                         	C              	                  	             	F            	R               	R                        	             	            	ostracods=F. Istriloculina=R. agglutinated foraminifers = R. crustaceans=F/C. micrite = A. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 45	R	 1	  14.00	    532.9400	Premoli Silva	Benthic Foraminifers                         	F              	                  	             	R/F          	                	                         	             	            	Istriloculina=R. agglutinated foraminifers = VR. echinoderms=R.  brachiopod=1. micrite=F. from Leg 160SR Ch 30 Table 2
+
+  SR	                 	                 	                  	              	160	 967	E	 50	R	 1	   0.00	    581.0000	Premoli Silva	Benthic Foraminifers                         	R/F            	                  	?            	             	                	                         	             	            	ostracods=F. Istriloculina=F. agglutinated foraminifers =VR. micrite=AAA. from Leg 160SR Ch 30 Table 2
+

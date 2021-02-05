@@ -1,0 +1,18 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Stylatractus universus	Antarctissa cylindrica	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1099	A	  1	H	CC	  25.00	      5.2600	Weinheimer	Radiolarians                                 	A              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1099	A	  2	H	CC	  19.00	     15.0900	Weinheimer	Radiolarians                                 	A              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1099	A	  3	H	CC	  17.00	     24.5600	Weinheimer	Radiolarians                                 	F              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1099	A	  4	H	CC	  12.00	     34.1600	Weinheimer	Radiolarians                                 	F              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1099	A	  5	H	CC	  15.00	     43.4300	Weinheimer	Radiolarians                                 	F              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1099	A	  6	H	CC	  24.00	     53.1100	Weinheimer	Radiolarians                                 	F              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1099	A	  7	H	CC	  15.00	     62.6100	Weinheimer	Radiolarians                                 	F              	G                 	-                     	-                     	       
+

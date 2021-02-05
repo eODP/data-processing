@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pseudorocella barbadensis	Comment
+
+
+
+  SR	                 	                 	                  	              	119	 744	A	 11	H	 4	  63.00	     94.8300	Baldauf  	Miscellaneous                                	               	                  	R                        	from 119 SR Chapter 29 Table 7 pages 566 - 569.
+
+  SR	                 	                 	                  	              	119	 744	A	 12	H	 5	  60.00	    105.8000	Baldauf  	Miscellaneous                                	               	                  	R                        	from 119 SR Chapter 29 Table 7 pages 566 - 569.
+
+  SR	                 	                 	                  	              	119	 744	A	 13	H	 4	  60.00	    113.8000	Baldauf  	Miscellaneous                                	               	                  	R                        	from 119 SR Chapter 29 Table 7 pages 566 - 569.
+
+  SR	                 	                 	                  	              	119	 744	A	 13	H	 5	  60.00	    115.3000	Baldauf  	Miscellaneous                                	               	                  	R                        	from 119 SR Chapter 29 Table 7 pages 566 - 569.
+

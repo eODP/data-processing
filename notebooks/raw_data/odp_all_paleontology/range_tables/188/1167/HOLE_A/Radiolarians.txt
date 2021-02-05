@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Triceraspyris antarctica	Spongotrochus glacialis	Pterocanium trilobum	Lithelius nautiloides	Cycladophora humerus	Antarctissa denticulata	Antarctissa cylindrica	Comment
+
+
+
+  IR	                 	                 	                  	              	188	1167	A	  1	H	CC	   0.00	      5.0200	paleo    	Radiolarians                                 	C              	M                 	C                       	C                      	+                   	C                    	+                   	C                      	C                     	Chi Zone or younger - possibly Psi Zone
+

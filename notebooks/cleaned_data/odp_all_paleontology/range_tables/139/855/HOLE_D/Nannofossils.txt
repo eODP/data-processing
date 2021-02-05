@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Gephyrocapsa caribbeanica	Gephyrocapsa (small)	Coccolithus pelagicus	Comment
+
+
+
+  IR	Pleistocene      	                 	NN9               	NN21          	139	 855	D	  3	R	CC	   0.00	     95.1400	Mao      	Nannofossils                                 	F              	P                 	R                        	F                   	F                    	from ODP Leg 139 IR; Chapter 5; Tables 5 & 6; pp. 118-19
+

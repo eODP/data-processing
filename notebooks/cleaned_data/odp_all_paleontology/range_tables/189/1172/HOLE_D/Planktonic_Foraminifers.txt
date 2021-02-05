@@ -1,0 +1,18 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Heterohelix globulosa	Globigerinelloides multispinus	Rugoglobigerina rugosa	Hedbergella holmdelensis	Acarinina primitiva	Subbotina linaperta	Subbotina angiporoides	Globorotaloides suteri	Chiloguembelina cubensis	Subbotina eocaena	Globigerinatheka index	Comment
+
+
+
+  IR	                 	                 	                  	AP12          	189	1172	D	  2	R	CC	   8.00	    362.9700	forams   	Planktonic Foraminifers                      	R              	VG                	                     	                              	                      	                        	                   	                   	+                     	+                     	                        	+                	+                     	       
+
+  IR	                 	                 	AP10              	AP11          	189	1172	D	  3	R	CC	  12.00	    372.6400	forams   	Planktonic Foraminifers                      	R              	VG                	                     	                              	                      	                        	                   	+                  	+                     	+                     	+                       	                 	                      	       
+
+  IR	                 	                 	AP7               	AP10          	189	1172	D	  7	R	CC	  15.00	    535.2500	forams   	Planktonic Foraminifers                      	T              	VG                	                     	                              	                      	                        	+                  	                   	                      	                      	                        	                 	                      	       
+
+  IR	Maestrichtian    	Campanian        	                  	              	189	1172	D	 25	R	CC	  14.00	    709.1700	forams   	Planktonic Foraminifers                      	F              	G                 	+                    	+                             	+                     	+                       	                   	                   	                      	                      	                        	                 	                      	       
+
+  IR	Maestrichtian    	Campanian        	                  	              	189	1172	D	 26	R	 6	 100.00	    717.1300	forams   	Planktonic Foraminifers                      	F              	M                 	+                    	+                             	+                     	+                       	                   	                   	                      	                      	                        	                 	                      	       
+
+  IR	Maestrichtian    	Santonian        	                  	              	189	1172	D	 27	R	CC	   0.00	    728.2200	forams   	Planktonic Foraminifers                      	T              	M                 	                     	+                             	                      	                        	                   	                   	                      	                      	                        	                 	                      	       
+
+  IR	Maestrichtian    	Campanian        	                  	              	189	1172	D	 30	R	CC	   6.00	    747.3600	forams   	Planktonic Foraminifers                      	F              	M                 	+                    	                              	                      	                        	                   	                   	                      	                      	                        	                 	                      	       
+

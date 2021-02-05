@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Sphaerogypsina globula	Lepidocyclina howchini howchini	Cycloclypeus (Cycloclypeus) carpenteri	Amphistegina radiata	Operculinella venosa	Comment
+
+
+
+  SR	Late Miocene     	                 	N17a              	              	133	 815	A	 46	X	CC	  27.00	    416.7700	Chaproniere	Benthic Foraminifers                         	               	                  	                      	                               	                                      	+                   	                    	from ODP Leg 133 Chapter 3 Table 1 p 42
+
+  SR	Late Miocene     	                 	N17a              	              	133	 815	A	 47	X	 2	  80.00	    427.6000	Chaproniere	Benthic Foraminifers                         	               	                  	                      	                               	                                      	+                   	                    	from ODP Leg 133 Chapter 3 Table 1 p 42
+
+  SR	Late Miocene     	                 	N17a              	              	133	 815	A	 48	X	 1	  45.00	    435.3500	Chaproniere	Benthic Foraminifers                         	               	                  	                      	                               	                                      	+                   	                    	from ODP Leg 133 Chapter 3 Table 1 p 42
+
+  SR	Late Miocene     	                 	N17a              	              	133	 815	A	 48	X	CC	  15.00	    435.7400	Chaproniere	Benthic Foraminifers                         	               	                  	                      	+                              	+                                     	+                   	+                   	from ODP Leg 133 Chapter 3 Table 1 p 42
+
+  SR	Late Miocene     	                 	N17a              	              	133	 815	A	 48	X	CC	  23.00	    435.8200	Chaproniere	Benthic Foraminifers                         	               	                  	                      	                               	+                                     	+                   	                    	from ODP Leg 133 Chapter 3 Table 1 p 42
+
+  SR	Middle Miocene   	                 	N11               	N12           	133	 815	A	 50	X	CC	   7.00	    454.2700	Chaproniere	Benthic Foraminifers                         	               	                  	+                     	+                              	+                                     	+                   	                    	from ODP Leg 133 Chapter 3 Table 1 p 42
+

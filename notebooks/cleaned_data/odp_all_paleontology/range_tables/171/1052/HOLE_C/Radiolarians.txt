@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thyrsocyrtis  tetracantha	Thyrsocyrtis triacantha	Thyrsocyrtis rhizodon	Podocyrtis papalis	Eusyringium fistuligerum	Dictyoprora mongolfieri	Dictyoprora armadillo	Cryptocarpium ornatum	Calocyclas turris	Calocyclas hispida	Calocyclas bandyca	Comment
+
+
+
+  IR	                 	Late Eocene      	                  	Calocyclas bandyca	171	1052	C	  2	H	CC	  25.00	     19.4100	Blome    	Radiolarians                                 	A              	VG                	F                        	R                      	R                    	F                 	R                       	C                      	C                    	R                    	C                	F                 	F                 	       
+

@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Textulariid taxa	Planorbulina sp.	Nummulites sp. cf. N. deserti	Nummulites sp.	Miliolid taxa (large)	Coleiconus elongatus	Miliolids species	Asterocyclina sp.	Arenobulimina sp.	Praehapydionina sp.	Buliminid and Bolivinid taxa	Comment
+
+
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	B	 16	X	CC	   4.00	    133.2400	Premoli Silva	Benthic Foraminifers                         	               	                  	                	F               	                             	              	R                    	                    	VA               	R                	                 	R                  	F                           	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	B	 16	X	CC	  15.00	    133.3500	Premoli Silva	Benthic Foraminifers                         	               	                  	                	F               	1                            	              	                     	F                   	C                	C                	F                	                   	                            	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	B	 16	X	CC	  16.00	    133.3600	Premoli Silva	Benthic Foraminifers                         	               	                  	R               	F               	F                            	R             	F                    	F                   	                 	                 	                 	                   	                            	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+

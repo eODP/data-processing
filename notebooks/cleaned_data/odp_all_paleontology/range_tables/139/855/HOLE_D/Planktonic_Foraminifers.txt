@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Tenuitella parkerae	Neogloboquadrina pachyderma (sin.)	Globigerinita minuta	Comment
+
+
+
+  IR	Pleistocene      	                 	CD2               	              	139	 855	D	  3	R	CC	   0.00	     95.1400	Brunner  	Planktonic Foraminifers                      	R              	G                 	R                  	R                                 	R                   	zone assignment uncertain; from ODP Leg 139 IR; Chapter 5; Tables 4 & 5; pp. 114 & 118
+

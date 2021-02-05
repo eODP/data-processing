@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Sphenolithus spiniger	Reticulofenestra umbilica	Discoaster barbadiensis	Coccolithus pelagicus	Coccolithus formosus	Chiasmolithus grandis	Campylosphaera dela	Comment
+
+
+
+  IR	                 	Middle Eocene    	                  	CP14          	200	1224	A	  4	X	 1	  78.00	     25.9800	Goll     	Nannofossils                                 	R              	P                 	                     	                         	                       	+                    	                    	+                    	+                  	       
+
+  IR	                 	Middle Eocene    	                  	CP14          	200	1224	A	  4	X	CC	   0.00	     26.2200	Goll     	Nannofossils                                 	R              	P                 	+                    	+                        	+                      	+                    	+                   	+                    	                   	       
+

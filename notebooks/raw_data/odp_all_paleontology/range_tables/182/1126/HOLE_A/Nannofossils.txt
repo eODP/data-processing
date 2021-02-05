@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Rhabdosphaera clavigera	Oolithotus fragilis	Helicosphaera kamptneri	Gephyrocapsa oceanica	Dictyococcites productus	Coccolithus pelagicus	Calcidiscus leptoporus	Braarudosphaera bigelowii	Comment
+
+
+
+  IR	                 	Quaternary       	NN20              	NN21          	182	1126	A	  1	H	CC	  10.00	      9.6400	Ladner   	Nannofossils                                 	A              	M                 	C                      	F                  	C                      	C                    	C                       	F                    	F                     	F                        	       
+

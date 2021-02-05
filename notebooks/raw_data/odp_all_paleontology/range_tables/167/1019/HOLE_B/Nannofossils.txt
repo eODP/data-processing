@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Helicosphaera carteri	Gephyrocapsa oceanica s.l.	Gephyrocapsa (small)	Emiliania huxleyi	Coccolithus pelagicus	Comment
+
+
+
+  IR	                 	                 	CN15              	              	167	1019	B	  1	H	CC	  34.00	     10.0400	Fornaciari	Nannofossils                                 	C              	M                 	R                    	R                         	C                   	+                	C                    	from IR. Ch 13. Table 5.
+

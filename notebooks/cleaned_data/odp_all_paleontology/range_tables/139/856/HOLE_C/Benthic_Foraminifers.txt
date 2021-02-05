@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Valvulineria laevigata	Uvigerina senticosa	Valvulineria sp. A	Comment
+
+
+
+  IR	                 	                 	                  	              	139	 856	C	  1	H	 1	   0.00	      0.0000	Brunner  	Benthic Foraminifers                         	R              	P                 	                      	                   	R                 	from ODP Leg 139 IR; Ch 6; Tables 4 & 6; pp. 181 & 184-187
+
+  IR	                 	                 	                  	              	139	 856	C	  1	H	CC	   0.00	      7.0100	Brunner  	Benthic Foraminifers                         	R              	M                 	R                     	R                  	                  	from ODP Leg 139 IR; Ch 6; Tables 4 & 6; pp. 181 & 184-187
+

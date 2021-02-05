@@ -1,0 +1,324 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Streptochilus/Chiloguembelina taxa	Streptochilus spp.	Comment
+
+
+
+  SR	                 	                 	                  	              	130	 807	A	  1	H	 1	   4.00	      0.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 1032.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  1	H	 2	  44.00	      1.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 668.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  1	H	 4	  44.00	      4.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 748.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  2	H	 2	  44.00	      9.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	20                	Total count = 795.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  2	H	 4	  44.00	     12.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1311.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  3	H	 2	  44.00	     18.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 808.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  3	H	 4	  44.00	     21.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	4                 	Total count = 775.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  4	H	 2	  44.00	     28.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	4                 	Total count = 1125.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  4	H	 4	  44.00	     31.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	6                 	Total count = 688.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  5	H	 2	  44.00	     37.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	423               	Total count = 1505.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  5	H	 4	  44.00	     40.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	158               	Total count = 755.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  6	H	 2	  44.00	     47.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	185               	Total count = 967.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  6	H	 4	  44.00	     50.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	181               	Total count = 923.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  7	H	 2	  44.00	     56.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	27                	Total count = 893.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  7	H	 4	  44.00	     59.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	2                 	Total count = 541.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  8	H	 2	  44.00	     66.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	81                	Total count = 786.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  8	H	 4	  44.00	     69.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	32                	Total count = 539.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  9	H	 2	  44.00	     75.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	3                 	Total count = 757.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	  9	H	 4	  44.00	     78.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	2                 	Total count = 1431.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 11	H	 2	  44.00	     94.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	51                	Total count = 563.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 11	H	 4	  44.00	     97.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	75                	Total count = 969.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 12	H	 4	  44.00	    107.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	62                	Total count = 669.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 13	H	 2	  44.00	    113.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	215               	Total count = 1489.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 13	H	 4	  44.00	    116.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	113               	Total count = 1246.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 14	H	 2	  44.00	    123.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	18                	Total count = 696.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 14	H	 4	  44.00	    126.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	95                	Total count = 835.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 15	H	 2	  44.00	    131.5900	Resig    	Planktonic Foraminifers                      	               	                  	                                  	125               	Total count = 1375.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 15	H	 4	  44.00	    134.5900	Resig    	Planktonic Foraminifers                      	               	                  	                                  	250               	Total count = 1352.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 16	H	 2	  44.00	    142.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	21                	Total count = 507.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 16	H	 4	  44.00	    145.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	70                	Total count = 797.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 17	H	 2	  45.00	    151.8500	Resig    	Planktonic Foraminifers                      	               	                  	                                  	480               	Total count = 1374.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 17	H	 4	  44.00	    154.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	152               	Total count = 1109.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 18	H	 2	  44.00	    161.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	42                	Total count = 562.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 18	H	 4	  44.00	    164.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	218               	Total count = 1016.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 19	H	 2	  44.00	    170.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	263               	Total count = 758.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 19	H	 4	  44.00	    173.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	172               	Total count = 1037.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 20	H	 2	  44.00	    180.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	347               	Total count = 1579.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 20	H	 4	  43.00	    183.3300	Resig    	Planktonic Foraminifers                      	               	                  	                                  	120               	Total count = 1262.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 21	H	 2	  44.00	    189.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	122               	Total count = 872.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 22	H	 4	  44.00	    202.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	14                	Total count = 867.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 23	H	 2	  44.00	    208.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	8                 	Total count = 1057.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 23	H	 4	  44.00	    211.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	7                 	Total count = 756.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 24	H	 2	  44.00	    218.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	312               	Total count = 1043.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 24	H	 4	  44.00	    221.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	350               	Total count = 1131.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 25	H	 2	  44.00	    227.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	264               	Total count = 876.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 25	H	 4	  44.00	    230.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	268               	Total count = 1446.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 26	H	 2	  44.00	    237.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	105               	Total count = 647.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 26	H	 4	  44.00	    240.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	322               	Total count = 980.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 27	H	 2	  44.00	    246.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	184               	Total count = 707.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 27	H	 4	  44.00	    249.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	374               	Total count = 1369.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 28	X	 2	  44.00	    256.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	193               	Total count = 713.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 28	X	 4	  44.00	    259.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	164               	Total count = 686.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 29	X	 2	  44.00	    266.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	96                	Total count = 572.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 29	X	 4	  44.00	    269.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	440               	Total count = 1792.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 30	X	 2	  44.00	    275.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	124               	Total count = 840.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 30	X	 4	  44.00	    278.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	54                	Total count = 857.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 31	X	 2	  44.00	    285.4400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	221               	Total count = 1215.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 31	X	 4	  44.00	    288.4400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	5                 	Total count = 715.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 32	X	 2	  44.00	    294.6400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 802.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 32	X	 4	  44.00	    297.6400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 612.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 33	X	 2	  44.00	    304.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 971.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 33	X	 4	  44.00	    307.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 695.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 34	X	 2	  44.00	    313.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	36                	Total count = 717.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 34	X	 4	  44.00	    316.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	53                	Total count = 851.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 35	X	 2	  44.00	    323.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 730.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 35	X	 4	  44.00	    326.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 812.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 36	X	 2	  44.00	    332.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1097.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 36	X	 4	  44.00	    335.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 632.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 37	X	 2	  44.00	    342.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 644.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 37	X	 4	  44.00	    345.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 618.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 38	X	 2	  45.00	    352.1500	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 824.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 38	X	 4	  44.00	    355.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 695.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 39	X	 2	  46.00	    361.8600	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 994.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 39	X	 4	  44.00	    364.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 811.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 40	X	 2	  44.00	    371.6400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	37                	Total count = 615.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 40	X	 4	  44.00	    374.6400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 695.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 41	X	 2	  44.00	    381.4400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 606.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 41	X	 4	  44.00	    384.4400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 661.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 42	X	 2	  44.00	    391.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 511.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 42	X	 4	  44.00	    394.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 738.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 43	X	 2	  44.00	    400.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1000.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 43	X	 4	  44.00	    403.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 889.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 44	X	 2	  44.00	    410.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 487.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 44	X	 4	  44.00	    413.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	19                	Total count = 1135.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 45	X	 2	  43.00	    420.2300	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 594.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 45	X	 4	  44.00	    423.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 703.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 45	X	 5	  60.00	    424.9000	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 857.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 45	X	 6	  62.00	    426.4200	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 699.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 46	X	 2	  44.00	    429.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 539.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 46	X	 4	  44.00	    432.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 597.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 47	X	 2	  44.00	    439.4400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 960.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 47	X	 4	  44.00	    442.4400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	28                	Total count = 929.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 48	X	 2	  44.00	    449.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	2                 	Total count = 965.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 48	X	 4	  44.00	    452.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 912.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 49	X	 2	  44.00	    458.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 684.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 49	X	 4	  44.00	    461.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 815.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 50	X	 2	  44.00	    468.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 906.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 50	X	 4	  44.00	    471.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 566.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 51	X	 2	  44.00	    478.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 498.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 51	X	 4	  44.00	    481.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 630.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 52	X	 2	  44.00	    487.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 695.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 52	X	 4	  44.00	    490.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 688.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 53	X	 2	  44.00	    497.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 836.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 53	X	 4	  44.00	    500.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1417.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 54	X	 2	  44.00	    507.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 701.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 54	X	 4	  44.00	    510.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 743.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 55	X	 2	  44.00	    516.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 689.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 55	X	 4	  44.00	    519.7400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 710.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 56	X	 2	  44.00	    525.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1026.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 56	X	 4	  44.00	    528.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 828.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 57	X	 2	  44.00	    535.6400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 773.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 57	X	 4	  44.00	    538.6400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 497.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 58	X	 2	  40.00	    545.3000	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 501.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 58	X	 4	  44.00	    548.3400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 589.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 59	X	 2	  44.00	    554.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 542.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 59	X	 4	  44.00	    557.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 787.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 60	X	 2	  44.00	    564.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 909.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 60	X	 4	  44.00	    567.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 913.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 61	X	 2	  44.00	    574.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 987.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 61	X	 4	  44.00	    577.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1210.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 62	X	 2	  44.00	    583.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 844.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 62	X	 4	  44.00	    586.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	1                 	Total count = 757.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 63	X	 2	  44.00	    593.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 713.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 63	X	 4	  44.00	    596.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 642.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 64	X	 2	  44.00	    603.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1062.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 64	X	 4	  44.00	    606.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1033.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 65	X	 2	  44.00	    612.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 735.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 65	X	 4	  44.00	    615.9400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 535.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 66	X	 2	  44.00	    622.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1134.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 66	X	 4	  44.00	    625.5400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 720.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 67	X	 2	  44.00	    632.2400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 750.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 68	X	 2	  44.00	    641.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 801.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 68	X	 4	  44.00	    644.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 695.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 69	X	 1	  44.00	    650.0400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 1312.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 70	X	 2	  44.00	    661.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 848.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 70	X	 4	  44.00	    664.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 679.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 71	X	 2	  44.00	    670.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 877.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 71	X	 4	  44.00	    673.8400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 996.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 72	X	 2	  44.00	    680.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 880.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 72	X	 4	  44.00	    683.1400	Resig    	Planktonic Foraminifers                      	               	                  	                                  	0                 	Total count = 725.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 73	X	 2	  44.00	    689.7400	Resig    	Planktonic Foraminifers                      	               	                  	311                               	                  	Total count = 1166.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 73	X	 4	  44.00	    692.7400	Resig    	Planktonic Foraminifers                      	               	                  	61                                	                  	Total count = 609.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 74	X	 2	  44.00	    699.4400	Resig    	Planktonic Foraminifers                      	               	                  	224                               	                  	Total count = 860.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 74	X	 4	  44.00	    702.4400	Resig    	Planktonic Foraminifers                      	               	                  	129                               	                  	Total count = 1064.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 76	X	 2	  44.00	    718.8400	Resig    	Planktonic Foraminifers                      	               	                  	95                                	                  	Total count = 710.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 76	X	 4	  44.00	    721.8400	Resig    	Planktonic Foraminifers                      	               	                  	128                               	                  	Total count = 822.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 77	X	 2	  44.00	    728.4400	Resig    	Planktonic Foraminifers                      	               	                  	147                               	                  	Total count = 1309.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 77	X	 4	  44.00	    731.4400	Resig    	Planktonic Foraminifers                      	               	                  	157                               	                  	Total count = 942.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 78	X	 2	  44.00	    738.1400	Resig    	Planktonic Foraminifers                      	               	                  	186                               	                  	Total count = 788.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 78	X	 4	  44.00	    741.1400	Resig    	Planktonic Foraminifers                      	               	                  	356                               	                  	Total count = 843.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 80	X	 2	  46.00	    757.1600	Resig    	Planktonic Foraminifers                      	               	                  	212                               	                  	Total count = 507.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 82	X	 2	  44.00	    776.4400	Resig    	Planktonic Foraminifers                      	               	                  	305                               	                  	Total count = 698.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 82	X	 4	  44.00	    779.4400	Resig    	Planktonic Foraminifers                      	               	                  	280                               	                  	Total count = 796.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 83	X	 2	  44.00	    786.1400	Resig    	Planktonic Foraminifers                      	               	                  	148                               	                  	Total count = 597.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 83	X	 4	  44.00	    789.1400	Resig    	Planktonic Foraminifers                      	               	                  	105                               	                  	Total count = 596.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 84	X	 2	  44.00	    795.8400	Resig    	Planktonic Foraminifers                      	               	                  	35                                	                  	Total count = 507.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 84	X	 4	  44.00	    798.8400	Resig    	Planktonic Foraminifers                      	               	                  	377                               	                  	Total count = 944.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 85	X	 2	  44.00	    805.5400	Resig    	Planktonic Foraminifers                      	               	                  	16                                	                  	Total count = 625.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 85	X	CC	  21.00	    807.0500	Resig    	Planktonic Foraminifers                      	               	                  	658                               	                  	Total count = 1409.from 130SR.Chapter 12.Table 2.pages 238-240.
+
+  SR	                 	                 	                  	              	130	 807	A	 86	X	CC	  15.00	    815.6500	Resig    	Planktonic Foraminifers                      	               	                  	233                               	                  	Total count = 613.from 130SR.Chapter 12.Table 2.pages 238-240.
+

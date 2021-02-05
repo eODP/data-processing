@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Zygrhablithus bijugatus	Reticulofenestra samodurovii	Reticulofenestra daviesii	Reticulofenestra bisecta	Pontosphaera sp.	Neococcolithes dubius	Cyclicargolithus floridanus	Coccolithus pelagicus	Coccolithus formosus	Chiasmolithus solitus	Chiasmolithus altus	Comment
+
+
+
+  SR	                 	                 	                  	              	119	 739	B	  2	X	CC	   0.00	      1.9000	Wei      	Nannofossils                                 	R              	G                 	r                      	r                           	r                        	r                       	r               	r                    	r                          	r                    	r                   	r                    	r                  	from 119 SR Chapter 26 Table 8 page 478-480.
+

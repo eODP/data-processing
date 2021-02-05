@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Spirillina spp.	Bolivinopsis spp.	Bathysiphon spp.	Reophax spp.	Cibicidoides spp.	Unilocular species	Nodosaria spp.	Lenticulina spp.	Gyroidinoides spp.	Uvigerina peregrina	Ceratobulimina spp.	Comment
+
+
+
+  IR	                 	                 	                  	              	189	1172	D	  2	R	CC	   8.00	    362.9700	benthics 	Benthic Foraminifers                         	               	                  	               	                 	                	            	R                	                  	              	                	                  	R                  	R                  	C
+
+  IR	                 	                 	                  	              	189	1172	D	  3	R	CC	  12.00	    372.6400	benthics 	Benthic Foraminifers                         	               	                  	               	                 	                	            	R                	R                 	R             	T               	T                 	                   	                   	C
+
+  IR	                 	                 	                  	              	189	1172	D	  6	R	CC	   8.00	    522.6600	benthics 	Benthic Foraminifers                         	               	P                 	               	                 	R               	T           	R                	                  	              	                	                  	                   	                   	A+C, virt. barren
+
+  IR	                 	                 	                  	              	189	1172	D	  7	R	CC	  15.00	    535.2500	benthics 	Benthic Foraminifers                         	               	P                 	               	T                	T               	            	                 	                  	              	                	                  	                   	                   	A+Spiro, virt. barren
+
+  IR	                 	                 	                  	              	189	1172	D	 10	R	CC	   0.00	    564.3000	benthics 	Benthic Foraminifers                         	               	                  	T              	                 	                	            	                 	                  	              	                	                  	                   	                   	A, virt. barren, tiny samples
+
+  IR	                 	                 	                  	              	189	1172	D	 12	R	CC	  23.00	    584.2700	benthics 	Benthic Foraminifers                         	               	                  	T              	                 	                	            	                 	                  	              	                	                  	                   	                   	A, virt. barren
+

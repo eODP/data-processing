@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Unidentified benthic forams	Rhizammina sp.	Ammodiscus sp.	Thalmannammina subturbinata	Miliammina sp.	Hippocrepinella sp.	Evolutinella sp.	Bathysiphon spp.	Subreophax sp.	Sorosphaera sp.	Glomospira gordialis	Comment
+
+
+
+  IR	                 	                 	                  	              	199	1216	A	  4	H	CC	  22.00	     38.1900	nannos   	Benthic Foraminifers                         	A              	M                 	F                          	R             	C             	                           	F             	                   	R               	C               	R             	R              	F                   	tests very brittle
+
+  IR	                 	                 	                  	              	199	1216	A	  5	H	CC	  12.00	     39.6200	nannos   	Benthic Foraminifers                         	A              	M                 	F                          	R             	C             	F                          	F             	                   	R               	C               	R             	R              	F                   	tests very brittle
+
+  IR	                 	                 	                  	              	199	1216	A	  6	H	 3	 104.00	     43.7400	nannos   	Benthic Foraminifers                         	T              	P                 	R                          	              	C             	                           	              	                   	                	F               	              	               	                    	tests very brittle
+
+  IR	                 	                 	                  	              	199	1216	A	  7	H	CC	   0.00	     46.0400	nannos   	Benthic Foraminifers                         	T              	P                 	R                          	R             	              	F                          	              	C                  	                	                	              	               	                    	tests very brittle
+
+  IR	                 	                 	                  	              	199	1216	A	  8	H	CC	  17.00	     49.6700	nannos   	Benthic Foraminifers                         	C              	P                 	F                          	R             	C             	F                          	F             	C                  	R               	                	              	               	                    	tests very brittle
+
+  IR	                 	                 	                  	              	199	1216	A	  9	H	CC	  10.00	     53.1700	nannos   	Benthic Foraminifers                         	C              	P                 	F                          	R             	C             	                           	              	                   	                	                	              	               	                    	tests very brittle
+

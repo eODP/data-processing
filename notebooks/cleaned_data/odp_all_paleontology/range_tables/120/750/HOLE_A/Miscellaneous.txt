@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Otoliths (all taxa)	Comment
+
+
+
+  SR	                 	                 	                  	              	120	 750	A	 10	R	 2	 145.00	    300.7500	Quilty   	Miscellaneous                                	B              	                  	-                  	from ODP Leg 120 SR Vol 2 Chapter 59 Table 2 p 1066
+
+  SR	                 	                 	                  	              	120	 750	A	 12	R	 1	 145.00	    318.6500	Quilty   	Miscellaneous                                	B              	                  	-                  	from ODP Leg 120 SR Vol 2 Chapter 59 Table 2 p 1066
+
+  SR	                 	                 	                  	              	120	 750	A	 13	R	 3	 145.00	    331.2500	Quilty   	Miscellaneous                                	B              	                  	-                  	from ODP Leg 120 SR Vol 2 Chapter 59 Table 2 p 1066
+
+  SR	                 	                 	                  	              	120	 750	A	 16	R	 2	 145.00	    358.7500	Quilty   	Miscellaneous                                	B              	                  	-                  	from ODP Leg 120 SR Vol 2 Chapter 59 Table 2 p 1066
+
+  SR	                 	                 	                  	              	120	 750	A	 19	R	 2	 145.00	    387.6500	Quilty   	Miscellaneous                                	B              	                  	-                  	from ODP Leg 120 SR Vol 2 Chapter 59 Table 2 p 1066
+

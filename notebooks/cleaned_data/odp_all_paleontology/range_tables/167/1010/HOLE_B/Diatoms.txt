@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassiothrix longissima	Thalassiosira sp.	Thalassionema nitzschioides	Stephanopyxis turris	Nitzschia marina	Neodenticula seminae	Neodenticula cf. N. seminae	Arachnodiscus ehrenbergi	Simonseniella curvirostris	Nitzschia reinholdii	Coscinodiscus sp.	Comment
+
+
+
+  IR	Quaternary       	                 	NPD 11            	              	167	1010	B	  2	H	CC	  19.00	     14.1000	Maruyama 	Diatoms                                      	T              	P/M               	                         	T                	T                          	                    	                	                    	                           	                        	T                         	R                   	T                	from IR.Ch 4.Table 4.
+
+  IR	Pliocene         	                 	                  	              	167	1010	B	  3	H	CC	  21.00	     23.2800	Maruyama 	Diatoms                                      	T              	P/M               	T                        	T                	T                          	T                   	T               	T                   	T                          	T                       	                          	                    	                 	from IR.Ch 4.Table 4.
+

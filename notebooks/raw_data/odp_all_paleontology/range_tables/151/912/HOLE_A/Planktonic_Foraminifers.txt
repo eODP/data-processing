@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina sp. juv. dextral	Neogloboquadrina sp. juv. sinistral	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina pachyderma (dextral)	Neogloboquadrina cf. dutertrei	Comment
+
+
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	A	  1	H	CC	  20.00	      3.9500	Spiegler 	Planktonic Foraminifers                      	               	M                 	                                 	                                   	F                                      	R                                    	R                             	From Leg 151; Ch 8; Table 5; p. 160
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	A	  7	H	CC	  44.00	     61.7800	Spiegler 	Planktonic Foraminifers                      	               	M                 	                                 	                                   	R                                      	                                     	                              	From Leg 151; Ch 8; Table 5; p. 160
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	A	 15	X	 3	  33.00	    128.9800	Spiegler 	Planktonic Foraminifers                      	               	G                 	                                 	                                   	R                                      	                                     	                              	From Leg 151; Ch 8; Table 5; p. 160
+
+  SR	Quaternary       	                 	N. pachyderma (sin.)	              	151	 912	A	 15	X	 5	  33.00	    131.9300	Spiegler 	Planktonic Foraminifers                      	               	G                 	                                 	R                                  	                                       	                                     	                              	From Leg 151; Ch 8; Table 5; p. 160
+
+  SR	Pliocene         	                 	Neogl. sp. juv. dex.	              	151	 912	A	 15	X	 6	  33.00	    133.4300	Spiegler 	Planktonic Foraminifers                      	               	P                 	R                                	                                   	                                       	                                     	                              	From Leg 151; Ch 8; Table 5; p. 160
+

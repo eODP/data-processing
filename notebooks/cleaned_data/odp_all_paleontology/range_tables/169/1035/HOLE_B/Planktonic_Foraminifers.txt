@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Globigerina bulloides	Comment
+
+
+
+  IR	                 	                 	                  	              	169	1035	B	  1	M	 1	   0.00	      0.0000	Brunner  	Planktonic Foraminifers                      	R              	P                 	R                                      	R                    	Sulfide debris with rare agglutinated benthonic forams.
+

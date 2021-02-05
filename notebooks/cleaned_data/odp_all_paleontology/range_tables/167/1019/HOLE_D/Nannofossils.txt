@@ -1,0 +1,38 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pseudoemiliania lacunosa	Gephyrocapsa (small)	Calcidiscus leptoporus	Coccolithus pelagicus	Gephyrocapsa oceanica s.l.	Braarudosphaera spp.	Helicosphaera carteri	Emiliania huxleyi	Comment
+
+
+
+  IR	                 	                 	CN15              	              	167	1019	D	  1	H	CC	  25.00	      3.5600	Fornaciari	Nannofossils                                 	C              	G                 	                        	C                   	R/F                   	                     	C                         	                    	R                    	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN15              	              	167	1019	D	  2	H	CC	  25.00	     13.6400	Fornaciari	Nannofossils                                 	C              	M                 	                        	C                   	                      	C                    	R                         	R                   	                     	+                	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14b             	CN15          	167	1019	D	  4	H	CC	  33.00	     32.8100	Fornaciari	Nannofossils                                 	A              	G                 	                        	A                   	R                     	F                    	                          	R                   	R                    	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14b             	CN15          	167	1019	D	  5	H	CC	   9.00	     41.3100	Fornaciari	Nannofossils                                 	R              	P                 	                        	+                   	                      	                     	+                         	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14b             	CN15          	167	1019	D	  7	H	CC	  28.00	     61.0700	Fornaciari	Nannofossils                                 	C              	G                 	RR                      	A                   	                      	                     	F/C                       	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14b             	CN15          	167	1019	D	  8	X	CC	  25.00	     67.4000	Fornaciari	Nannofossils                                 	C/A            	M/G               	                        	A                   	                      	F/C                  	C                         	RR                  	R                    	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14b             	CN15          	167	1019	D	  9	X	CC	  32.00	     78.3200	Fornaciari	Nannofossils                                 	A              	G                 	                        	C/A                 	                      	F                    	C                         	RR                  	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14a             	              	167	1019	D	 10	X	CC	  16.00	     82.7600	Fornaciari	Nannofossils                                 	A              	G                 	C                       	A                   	F                     	                     	R/F                       	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14a             	              	167	1019	D	 11	X	CC	  34.00	     93.5600	Fornaciari	Nannofossils                                 	F              	P                 	R/F                     	+                   	R                     	                     	                          	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14a             	              	167	1019	D	 13	X	CC	  86.00	    113.4600	Fornaciari	Nannofossils                                 	C              	M                 	R                       	A                   	                      	C                    	R/F                       	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14a             	              	167	1019	D	 14	X	CC	  25.00	    127.5300	Fornaciari	Nannofossils                                 	F/C            	M                 	                        	C                   	                      	F                    	F                         	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN14a             	              	167	1019	D	 15	X	CC	  25.00	    133.4300	Fornaciari	Nannofossils                                 	RR             	P                 	                        	R                   	                      	                     	RR                        	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	                  	              	167	1019	D	 16	X	CC	  34.00	    145.6600	Fornaciari	Nannofossils                                 	RR             	P                 	R                       	                    	                      	                     	                          	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN13b             	CN14a         	167	1019	D	 17	X	CC	  34.00	    151.3500	Fornaciari	Nannofossils                                 	R              	P                 	R                       	+                   	R                     	                     	                          	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN13b             	CN14a         	167	1019	D	 22	X	CC	  33.00	    202.4100	Fornaciari	Nannofossils                                 	C/A            	G                 	                        	A                   	                      	F                    	                          	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN13b             	CN14a         	167	1019	D	 23	X	CC	  49.00	    213.9100	Fornaciari	Nannofossils                                 	C              	G                 	+                       	A                   	C                     	C                    	                          	                    	                     	                 	from IR. Ch 13. Table 5.
+
+  IR	                 	                 	CN13b             	CN14a         	167	1019	D	 24	X	CC	  34.00	    223.0900	Fornaciari	Nannofossils                                 	F/C            	M                 	R                       	A                   	F                     	                     	                          	                    	                     	                 	from IR. Ch 13. Table 5.
+

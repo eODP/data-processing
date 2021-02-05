@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Distephanus speculum f. speculum	Distephanus speculum	Dictyocha varia	Dictyocha messanensis messanensis	Dictyocha messanensis (total)	Ammodochium serotinum	Comment
+
+
+
+  SR	                 	                 	                  	              	141	 861	D	  1	R	 3	 100.00	    346.3000	Locker   	Silicoflagellates/Ebridians/Actiniscidians   	               	                  	R                               	R                   	rT             	R                                	R                            	R                    	from 141 SR; Ch 16; Table 2; p 228-229
+

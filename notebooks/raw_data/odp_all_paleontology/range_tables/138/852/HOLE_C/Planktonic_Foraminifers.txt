@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Sphaeroidinellopsis seminulina	Orbulina suturalis	Globorotaloides variabilis	Globorotalia scitula	Globorotalia menardii	Globorotalia mayeri	Globoquadrina venezuelana	Globigerinoides quadrilobatus s.l.	Globigerinoides obliquus s.l.	Comment
+
+
+
+  SR	Middle Miocene   	                 	N13               	              	138	 852	C	 13	X	CC	  27.00	    119.3100	Vincent  	Planktonic Foraminifers                      	C              	P                 	+                             	+                 	+                         	T                   	+                    	+                  	+                        	+                                 	+                            	from ODP Leg 138 SR Chapter 46 Table 6 p 903
+

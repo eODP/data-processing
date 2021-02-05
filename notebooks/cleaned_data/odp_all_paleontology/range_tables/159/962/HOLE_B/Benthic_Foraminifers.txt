@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Uvigerina peregrina	Epistominella exigua	Melonis pompilioides	Eponides tumidulus	Gyroidinoides neosoldanii	Fontbotia wuellerstorfi	Fissurina sp.	Fissurina cf. F. orbignyana	Dentalina communis	Uvigerina hispida	Hoeglundina elegans	Comment
+
+
+
+  SR	Pleistocene      	                 	CN15              	              	159	 962	B	  1	H	 1	  75.00	      0.7500	Levy     	Benthic Foraminifers                         	               	                  	                   	1                   	                    	                  	1                        	                       	             	                           	                  	2                	1                  	Total count = 6; From Leg 159SR Ch 44 Table 1
+
+  SR	Pleistocene      	                 	CN15              	              	159	 962	B	  1	H	 2	  75.00	      2.2500	Levy     	Benthic Foraminifers                         	               	                  	                   	1                   	1                   	                  	2                        	1                      	1            	1                          	1                 	                 	                   	Total count = 10; From Leg 159SR Ch 44 Table 1
+
+  SR	Pleistocene      	                 	CN13b             	              	159	 962	B	  1	H	 5	  54.00	      6.5400	Levy     	Benthic Foraminifers                         	               	                  	                   	1                   	                    	                  	                         	                       	             	                           	                  	                 	                   	Total count = 10; From Leg 159SR Ch 44 Table 1
+
+  SR	Pleistocene      	                 	CN13b             	              	159	 962	B	  2	H	 1	  74.00	      8.2400	Levy     	Benthic Foraminifers                         	               	                  	                   	5                   	2                   	5                 	                         	                       	             	                           	                  	                 	                   	Total count = 9; From Leg 159SR Ch 44 Table 1
+
+  SR	Pleistocene      	                 	CN14a             	              	159	 962	B	  2	H	 6	  75.00	     15.7500	Levy     	Benthic Foraminifers                         	               	                  	1                  	3                   	                    	                  	                         	                       	             	                           	                  	                 	                   	Total count = 13; From Leg 159SR Ch 44 Table 1
+

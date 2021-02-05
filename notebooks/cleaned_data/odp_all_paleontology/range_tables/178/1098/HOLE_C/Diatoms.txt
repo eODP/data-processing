@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassiosira lentiginosa	Thalassiosira gracilis	Thalassiosira antarctica	Nitzschia angulata	Nitzschia kerguelenis	Nitzschia curta	Comment
+
+
+
+  IR	                 	Quaternary       	                  	              	178	1098	C	  1	H	CC	   0.00	      8.4600	Winter   	Diatoms                                      	A              	G                 	F                        	F                     	                        	T                 	F                    	T              	       
+
+  IR	                 	Quaternary       	                  	              	178	1098	C	  2	H	CC	   0.00	     18.4800	Winter   	Diatoms                                      	A              	G                 	F                        	F                     	C                       	F                 	                     	               	       
+

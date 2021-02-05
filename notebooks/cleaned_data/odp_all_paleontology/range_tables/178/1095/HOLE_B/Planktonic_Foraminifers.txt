@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina continuosa	Globoturborotalita woodi	Globorotalia scitula	Globigerina spp.	Neogloboquadrina pachyderma (dextral)	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1095	B	 23	X	 5	  34.00	    298.0400	Osterman 	Planktonic Foraminifers                      	R              	P                 	                           	                        	                    	                	R16                                  	PP sample heated to 100C.  Very ppor preservation, Small sand fraction
+
+  IR	                 	                 	                  	              	178	1095	B	 44	X	CC	  22.00	    493.6200	Osterman 	Planktonic Foraminifers                      	R              	P                 	R8                         	R4                      	R1                  	R4              	                                     	preservation poor, specimens compacted, compressed and broken
+

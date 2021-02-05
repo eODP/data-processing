@@ -1,0 +1,20 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Helicosphaera carteri	Gephyrocapsa oceanica	Gephyrocapsa aperta	Cyclococcolithus leptoporus	Pseudoemiliania lacunosa	Syracosphaera pulchra	Braarudosphaera bigelowii	Emiliania huxleyi	Coccolithus pelagicus	Comment
+
+
+
+  SR	                 	                 	NN21              	              	112	 680	A	  1	H	 4	  98.00	      5.4800	Martini  	Nannofossils                                 	               	M/G               	R                    	C                    	F                  	R                          	                        	                     	                         	F                	F                    	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN20              	              	112	 680	A	  1	H	CC	  15.00	      8.2500	Martini  	Nannofossils                                 	               	G                 	C                    	A                    	A                  	C                          	                        	R                    	R                        	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN20              	              	112	 680	A	  3	H	 2	  98.00	     20.2800	Martini  	Nannofossils                                 	               	M/G               	                     	R                    	F                  	R                          	                        	                     	                         	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN20              	              	112	 680	A	  3	H	CC	  20.00	     27.5600	Martini  	Nannofossils                                 	               	M/G               	C                    	C                    	A                  	R                          	                        	                     	                         	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN20              	              	112	 680	A	  4	H	 2	 119.00	     29.9900	Martini  	Nannofossils                                 	               	M/G               	R                    	R                    	C                  	F                          	                        	                     	                         	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN20              	              	112	 680	A	  4	H	CC	  21.00	     37.1800	Martini  	Nannofossils                                 	               	P/M               	                     	R                    	F                  	                           	                        	                     	                         	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN19              	              	112	 680	A	  5	H	 4	  22.00	     41.5200	Martini  	Nannofossils                                 	               	P/M               	R                    	F                    	F                  	R                          	R                       	                     	                         	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+
+  SR	                 	                 	NN19              	              	112	 680	A	  5	H	 5	  35.00	     43.1500	Martini  	Nannofossils                                 	               	P/M               	R                    	F                    	F                  	R                          	                        	                     	                         	                 	                     	from ODP Leg 112 SR Chapter 14 Table 3 p 220
+

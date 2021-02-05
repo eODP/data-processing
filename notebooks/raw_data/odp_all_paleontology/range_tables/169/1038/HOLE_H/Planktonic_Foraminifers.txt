@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Globigerina bulloides	Turborotalita quinqueloba	Globorotalia scitula	Comment
+
+
+
+  IR	                 	                 	                  	              	169	1038	H	  4	X	CC	  33.00	     35.7500	Brunner  	Planktonic Foraminifers                      	C              	P                 	R                                      	R                    	R                        	R                   	Mineral sand with white cement and common foraminifers, brown and green micas, pyrrhotite
+
+  IR	                 	                 	                  	              	169	1038	H	  6	X	CC	  12.00	     49.4900	Brunner  	Planktonic Foraminifers                      	F              	                  	R                                      	R                    	                         	                    	Semi-lithified lumps of fine sand and silt, brown and green micas, black organic(?) bits, very re-crystallized planktonic foraminifers
+
+  IR	                 	                 	                  	              	169	1038	H	  7	X	CC	   2.00	     58.4200	Brunner  	Planktonic Foraminifers                      	R              	P                 	R                                      	                     	                         	                    	Silt and clay lithified into sand-size lumps,  brown mica, pyrite crystals in fine fraction, re-crystallized foraminifers
+

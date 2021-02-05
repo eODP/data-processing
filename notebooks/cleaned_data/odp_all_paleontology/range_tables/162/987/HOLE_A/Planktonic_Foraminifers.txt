@@ -1,0 +1,22 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globigerina quinqueloba	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina spp.	Neogloboquadrina pachyderma (dextral)	Globigerina bulloides	Comment
+
+
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  1	H	CC	  16.00	      8.5100	Flower   	Planktonic Foraminifers                      	A              	G                 	                       	D                                      	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  2	H	CC	  21.00	     18.1700	Flower   	Planktonic Foraminifers                      	A              	M                 	                       	D                                      	                     	R                                    	T                    	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  4	H	CC	  23.00	     37.3600	Flower   	Planktonic Foraminifers                      	R              	G                 	                       	D                                      	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  5	H	CC	  22.00	     45.4800	Flower   	Planktonic Foraminifers                      	R              	G                 	                       	D                                      	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  6	H	CC	  24.00	     52.1900	Flower   	Planktonic Foraminifers                      	T              	M                 	                       	D                                      	T                    	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  7	H	CC	  22.00	     59.7000	Flower   	Planktonic Foraminifers                      	T              	G                 	                       	D                                      	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	  9	H	CC	  30.00	     76.2400	Flower   	Planktonic Foraminifers                      	T              	G                 	                       	D                                      	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	Pleistocene      	                  	N.pachyderma(s. W&C)	162	 987	A	 10	H	CC	  71.00	     84.1300	Flower   	Planktonic Foraminifers                      	R/F            	G                 	                       	D                                      	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+
+  IR	                 	                 	                  	              	162	 987	A	 18	X	CC	  45.00	    159.5600	Flower   	Planktonic Foraminifers                      	F/C            	M                 	D                      	                                       	                     	                                     	                     	from 162SR.Ch 2.Table 11.
+

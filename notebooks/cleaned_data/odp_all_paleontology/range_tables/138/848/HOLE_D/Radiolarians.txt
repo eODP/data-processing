@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Stichocorys peregrina	Stichocorys johnsoni	Stichocorys delmontensis	Solenosphaera omnitubus omnitubus	Siphostichartus corona	Calocycletta caepa	Comment
+
+
+
+  SR	                 	                 	D. penultima (RN8)	              	138	 848	D	  7	H	CC	  15.00	     65.0600	Moore    	Radiolarians                                 	C/A            	G                 	C                    	F                   	C                       	R                                	R                     	R                 	from ODP Leg 138 SR Chapter 11 Fig 5 pp 206-207
+

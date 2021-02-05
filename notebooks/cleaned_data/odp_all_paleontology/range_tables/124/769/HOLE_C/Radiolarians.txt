@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Stichocorys wolffii	Calocycletta virginis	Theocorys spongoconus	Cyrtocapsella tetrapera	Cyrtocapsella cornuta	Calocycletta costata	Comment
+
+
+
+  SR	                 	                 	                  	              	124	 769	C	  2	R	 5	 147.00	    278.2700	Scherer  	Radiolarians                                 	C              	VP                	?                  	?                    	?                    	?                      	?                    	?                   	from ODP Leg 124 SR Chapter 26 Table 2 p 363
+
+  SR	                 	                 	C. costata (RN4)  	              	124	 769	C	  3	R	 1	   5.00	    280.5500	Scherer  	Radiolarians                                 	R              	VP                	?                  	?                    	                     	                       	                     	                    	uncertain age assignment from ODP Leg 124 SR Chapter 26 Table 2 p 363
+

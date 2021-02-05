@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Coccolithus pelagicus	Chiasmolithus nitidus	Chiasmolithus grandis	Chiasmolithus gigas	Campylosphaera dela	Sphenolithus furcatolithoides	Chiasmolithus solitus	Braarudosphaera sp.	Comment
+
+
+
+  IR	                 	Middle Eocene    	                  	CP13b         	200	1224	E	  2	R	 1	  45.00	     17.9500	Goll     	Nannofossils                                 	A              	G                 	+                    	                     	+                    	                   	+                  	+                            	+                    	+                  	       
+
+  IR	                 	Middle Eocene    	                  	CP13b         	200	1224	E	  2	R	CC	  11.00	     26.9700	Goll     	Nannofossils                                 	A              	G                 	+                    	+                    	+                    	+                  	+                  	                             	                     	                   	       
+

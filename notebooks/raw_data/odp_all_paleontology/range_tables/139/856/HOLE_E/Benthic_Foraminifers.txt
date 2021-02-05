@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Uvigerina senticosa	Trochammina sp. A	Saccammina sp. A	Orbulina universa	Neogloboquadrina pachyderma (dex.)	Miliolina spp.	Globigerina bulloides	Eggerella bradyi	Cribrostomoides sp. A	Ammodiscus sp. A	Agglutinated spp. (indeterminate)	Comment
+
+
+
+  IR	                 	                 	                  	              	139	 856	E	  1	H	 1	   0.00	      0.0000	Brunner  	Benthic Foraminifers                         	A              	M                 	+                  	+                	+               	F                	R                                 	+             	F                    	+               	+                    	+               	+                                	from ODP Leg 139 IR; Ch 6; Tables 4 & 6; pp. 181 & 184-187
+

@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Umbilicosphaera mirabilis	Syracosphaera pulchra	Reticulofenestra doronicoides	Pontosphaera japonica	Helicosphaera kamptneri	Gephyrocapsa spp.	Gephyrocapsa oceanica	Gephyrocapsa caribbeanica	Ceratolithus rugosus	Calcidiscus leptoporus	Comment
+
+
+
+  SR	Pleistocene      	                 	CN14b             	CN15          	108	 663	B	  1	H	 4	 128.00	      5.7800	Manivit  	Nannofossils                                 	A              	G                 	C                        	F                    	A                            	F                    	R                      	A                	A                    	A                        	R                   	F                     	from ODP Leg 108 SR Chapter 4 Table 9 p 53
+

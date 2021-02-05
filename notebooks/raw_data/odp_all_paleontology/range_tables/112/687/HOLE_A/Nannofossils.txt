@@ -1,0 +1,30 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Gephyrocapsa oceanica	Gephyrocapsa aperta	Coccolithus pelagicus	Cyclococcolithus leptoporus	Helicosphaera sellii	Helicosphaera carteri	Comment
+
+
+
+  SR	Quaternary       	                 	NN20              	              	112	 687	A	  1	H	 1	 109.00	      1.0900	Martini  	Nannofossils                                 	               	P/M               	F                    	                   	                     	R                          	                    	R                    	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN20              	              	112	 687	A	  1	H	CC	   9.00	      7.5000	Martini  	Nannofossils                                 	               	M/G               	C                    	C                  	F                    	F                          	                    	F                    	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN20              	              	112	 687	A	  6	H	CC	   0.00	     55.0700	Martini  	Nannofossils                                 	               	P/M               	R                    	R                  	                     	R                          	                    	R                    	traces of reworking; from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN20              	              	112	 687	A	  7	X	 1	 133.00	     56.3300	Martini  	Nannofossils                                 	               	P/M               	R                    	                   	                     	R                          	                    	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 14	X	 4	  96.00	    126.9600	Martini  	Nannofossils                                 	               	P/M               	F                    	R                  	                     	R                          	R                   	R                    	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 14	X	CC	  23.00	    128.1500	Martini  	Nannofossils                                 	               	P/M               	R                    	F                  	                     	R                          	R                   	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 17	X	 4	 101.00	    155.5100	Martini  	Nannofossils                                 	               	P/M               	F                    	F                  	R                    	                           	                    	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 18	X	 1	  25.00	    159.7500	Martini  	Nannofossils                                 	               	P/M               	R                    	F                  	F                    	R                          	                    	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 18	X	CC	  12.00	    161.7700	Martini  	Nannofossils                                 	               	P/M               	R                    	F                  	R                    	                           	                    	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 19	X	 4	  82.00	    174.3200	Martini  	Nannofossils                                 	               	P/M               	R                    	F                  	R                    	                           	                    	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 21	X	 2	  94.00	    190.4400	Martini  	Nannofossils                                 	               	M                 	C                    	C                  	R                    	                           	R                   	R                    	traces of reworking; from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 21	X	CC	  25.00	    193.6300	Martini  	Nannofossils                                 	               	P/M               	                     	R                  	R                    	R                          	                    	                     	from ODP Leg 112 SR Chapter 14 Table 11 p 234
+
+  SR	Quaternary       	                 	NN19              	              	112	 687	A	 22	X	CC	  23.00	    202.2300	Martini  	Nannofossils                                 	               	P/M               	R                    	R                  	R                    	                           	                    	                     	traces of reworking; from ODP Leg 112 SR Chapter 14 Table 11 p 234
+

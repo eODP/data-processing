@@ -1,0 +1,8 @@
+Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Reticulofenestra minutula Helicosphaera carteri Gephyrocapsa omega Gephyrocapsa oceanica Emiliania huxleyi Calcidiscus leptoporus Umbilicosphaera sibogae Thoracosphaera heimii Coccolithus pelagicus Comment
+
+
+
+  IR                                                        NN21           180 1110 A   1 H CC   11.00       7.0000 Siesser   Nannofossils                                  A               VG                 A                         F                     F                  C                     C                 F                      F                       R                     R                     Ascidians - F
+
+  IR                                     NN20               NN21           180 1110 A   2 H  2    0.00       8.5000 Siesser   Nannofossils                                  F               G                  F                         R                     F                  F                     R                 R                                                                                                 
+

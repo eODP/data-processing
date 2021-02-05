@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Acratia sp.	Gruendelicythere ? sp.	Acratiidae (indeterminant taxon or taxa)	Triebelina (Ptychobairdia) sp.1	Simeonella ? sp. 1	Nodobairdia mammilata	Kerocythere ? n. sp. 2	Judahella n. sp. 1 ?	Cytherella acuta	Kerocythere ? sp. 3	Comment
+
+
+
+  SR	Norian           	Rhaetian         	                  	              	122	 759	B	 11	R	 2	   8.00	     89.5600	Depeche  	Ostracodes                                   	               	                  	           	+                     	+                                       	                               	                  	                     	                      	                    	+               	+                  	from ODP Leg 122 SR Chapter 26 Table 1 p 454
+
+  SR	Norian           	Rhaetian         	                  	              	122	 759	B	 13	R	 1	 106.00	    108.0600	Depeche  	Ostracodes                                   	               	                  	           	                      	                                        	+                              	+                 	+                    	+                     	+                   	+               	                   	from ODP Leg 122 SR Chapter 26 Table 1 p 454
+
+  SR	Norian           	Rhaetian         	                  	              	122	 759	B	 16	R	 1	  22.00	    135.7200	Depeche  	Ostracodes                                   	               	                  	           	+                     	+                                       	                               	                  	                     	                      	                    	                	                   	from ODP Leg 122 SR Chapter 26 Table 1 p 454
+
+  SR	Carnian          	                 	                  	              	122	 759	B	 23	R	 1	 136.00	    203.3600	Depeche  	Ostracodes                                   	               	                  	+          	                      	                                        	                               	                  	                     	                      	                    	                	                   	uncertain age assignment; from ODP Leg 122 SR Chapter 26 Table 1 p 454
+

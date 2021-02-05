@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Spiniferites ramosus	Impagidinium sphaericum	Operculodinium centrocarpum	Impagidinium aculeatum	Comment
+
+
+
+  IR	                 	                 	                  	              	191	1179	B	  4	H	CC	   0.00	     36.0200	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	                    	                       	P                          	P                     	foram linings, Pinus common
+
+  IR	                 	                 	                  	              	191	1179	B	  6	H	CC	   0.00	     55.2000	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	P                   	P                      	                           	                      	rich, diverse pollen flora
+

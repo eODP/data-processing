@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Trilete spores (unspecified taxon or taxa)	Gymnosperm pollen spp.	Angiosperm pollen spp.	Comment
+
+
+
+  IR	                 	                 	                  	              	189	1168	A	  1	H	CC	  22.00	      7.2400	dinos    	Pollen/Spores                                	               	                  	+                                         	+                     	+                     	       
+
+  IR	                 	                 	                  	              	189	1168	A	  2	H	CC	   9.00	     17.0000	dinos    	Pollen/Spores                                	               	                  	+                                         	+                     	+                     	       
+
+  IR	                 	                 	                  	              	189	1168	A	  3	H	CC	  29.00	     26.7100	dinos    	Pollen/Spores                                	               	                  	+                                         	+                     	+                     	       
+
+  IR	                 	                 	                  	              	189	1168	A	  4	H	CC	   0.00	     35.7500	dinos    	Pollen/Spores                                	               	                  	+                                         	+                     	+                     	       
+
+  IR	                 	                 	                  	              	189	1168	A	  5	H	CC	  38.00	     45.9600	dinos    	Pollen/Spores                                	               	                  	+                                         	+                     	+                     	       
+
+  IR	                 	                 	                  	              	189	1168	A	  6	H	CC	  26.00	     55.2400	dinos    	Pollen/Spores                                	               	                  	+                                         	+                     	+                     	       
+

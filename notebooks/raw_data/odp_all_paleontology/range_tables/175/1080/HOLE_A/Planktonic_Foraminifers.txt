@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Orbulina universa	Hastigerina siphonifera	Globorotalia crassaformis	Globoconella inflata	Globigerinoides ruber	Globigerina bulloides	reworked reworked	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina dutertrei	Globorotalia scitula	Globigerinoides sacculifer	Globigerinita glutinata	Globigerina quinqueloba	Comment
+
+
+
+  IR	                 	                 	                  	              	175	1080	A	  1	H	CC	   0.00	      3.2500	Christensen	Planktonic Foraminifers                      	A              	VG                	1                	3                      	7                        	8                   	2                    	D49                  	+                	A14                                    	1                         	6                   	1                         	5                      	P                      	dominated bu G. bulloides although there are many G. inflata and N. pachy (l). 
+
+
+
+  IR	                 	                 	                  	              	175	1080	A	  3	H	CC	  27.00	     23.1300	Christensen	Planktonic Foraminifers                      	R              	P                 	1                	1                      	D6                       	1                   	A3                   	D9                   	                 	                                       	                          	                    	                          	                       	                       	the 150 - 250 interval is ~barren
+

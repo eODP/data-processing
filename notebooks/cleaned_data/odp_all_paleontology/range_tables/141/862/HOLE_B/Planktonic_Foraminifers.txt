@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Comment
+
+
+
+  SR	                 	                 	N. pachyderma (sin.)	              	141	 862	B	  2	X	CC	  35.00	     21.6200	Spiegler 	Planktonic Foraminifers                      	               	M                 	R                                      	from ODP Leg 141 SR; Chapter 14; Table 9; p. 207
+

@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Tristylospyris triceros	Theocyrtis tuberosa	Lithocyclia angusta	Dorcadospyris sp.	Pterocanium (?) sp. A	Lychnocanoma trifolium	Dorcadospyris simplex	Dorcadospyris circulus	Dorcadospyris ateuchus	Artophormis gracilis	Comment
+
+
+
+  SR	                 	                 	D. ateuchus (RP21)	              	124	 770	C	  1	R	 1	  39.00	    384.1900	Scherer  	Radiolarians                                 	C              	M                 	C                      	R                  	R                  	C                	A                    	R                     	F                    	F                     	A                     	R                   	from ODP Leg 124 SR Chapter 25 Table 2 p 348
+
+  SR	                 	                 	T. tuberosa       	              	124	 770	C	  1	R	 1	 141.00	    385.2100	Scherer  	Radiolarians                                 	R              	P                 	?                      	                   	                   	?                	                     	                      	                     	                      	                      	                    	from ODP Leg 124 SR Chapter 25 Table 2 p 348
+
+  SR	                 	                 	T. tuberosa       	              	124	 770	C	  1	R	CC	  16.00	    393.0300	Scherer  	Radiolarians                                 	C              	VP                	?                      	?                  	?                  	?                	                     	                      	                     	                      	                      	                    	from ODP Leg 124 SR Chapter 25 Table 2 p 348
+

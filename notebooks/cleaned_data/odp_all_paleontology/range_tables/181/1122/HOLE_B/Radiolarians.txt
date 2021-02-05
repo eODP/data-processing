@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Triceraspyris antarctica	Stylodictya sp.	Stylatractus sp.	Spongodiscus sp.	Spongodiscus osculosus	Phorticium clevei	Larcopyle sp.	Cycladophora davisiana davisiana	Antarctissa strelkovi	Antarctissa denticulata	Actinomma leptodermum	Comment
+
+
+
+  IR	                 	                 	                  	              	181	1122	B	  1	H	CC	   0.00	      9.6600	rads     	Radiolarians                                 	R              	G                 	T                       	R              	R               	F               	R                     	R                	R            	C                               	R                    	R                      	R                    	       
+

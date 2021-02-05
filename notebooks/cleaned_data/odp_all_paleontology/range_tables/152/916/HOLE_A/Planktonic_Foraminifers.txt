@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Subbotina linaperta	Subbotina eocaenica	Globorotaloides sp. 1	Catapsydrax unicavus	Globorotaloides variabilis	Globigerina venezuelana	Tenuitellinata sp.	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina pachyderma (dextral)	Globigerinita glutinata	Comment
+
+
+
+  SR	Pleistocene      	                 	N.pachyderma(s. W&C)	              	152	 916	A	  5	R	 1	  61.00	     28.7100	Spezzaferri	Planktonic Foraminifers                      	               	                  	-                  	-                  	-                    	-                   	-                         	-                      	T                 	T                                      	T                                    	T                      	From Leg 152SR; Ch 12; Table 4; p. 165
+
+  SR	                 	                 	                  	              	152	 916	A	 13	R	 1	  68.00	     79.2800	Spezzaferri	Planktonic Foraminifers                      	B              	                  	-                  	-                  	-                    	-                   	-                         	-                      	-                 	-                                      	-                                    	-                      	From Leg 152SR; Ch 12; Table 4; p. 165
+
+  SR	Late Eocene      	                 	P15               	P17           	152	 916	A	 13	R	 2	  54.00	     80.6400	Spezzaferri	Planktonic Foraminifers                      	               	                  	-                  	-                  	-                    	-                   	VR                        	VR                     	                  	                                       	                                     	                       	From Leg 152SR; Ch 12; Table 4; p. 165
+
+  SR	Late Eocene      	                 	P16               	P17           	152	 916	A	 13	R	 3	  49.00	     82.0900	Spezzaferri	Planktonic Foraminifers                      	               	                  	VR                 	VR                 	VR                   	VR                  	                          	                       	                  	                                       	                                     	                       	From Leg 152SR; Ch 12; Table 4; p. 165
+

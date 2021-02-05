@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pulleniatina obliquiloculata	Neogloboquadrina dutertrei	Globorotalia truncatulinoides	Globorotalia tosaensis	Globorotalia inflata	Globigerinoides ruber	Globorotalia crassaformis	Comment
+
+
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1147	B	  1	H	CC	   7.00	      9.7300	forams   	Planktonic Foraminifers                      	A              	VG                	F                           	F                         	R                            	                      	A                   	A                    	                         	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1147	B	  2	H	CC	   9.00	     19.1400	forams   	Planktonic Foraminifers                      	A              	VG                	F                           	F                         	                             	                      	F                   	R                    	R                        	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1147	B	  4	H	CC	  17.00	     38.2000	forams   	Planktonic Foraminifers                      	A              	VG                	                            	F                         	                             	                      	F                   	F                    	R                        	       
+
+  IR	Pleistocene      	Pleistocene      	N22               	N22           	184	1147	B	  5	H	CC	  14.00	     47.2500	forams   	Planktonic Foraminifers                      	A              	VG                	F                           	F                         	R                            	R                     	F                   	A                    	                         	       
+

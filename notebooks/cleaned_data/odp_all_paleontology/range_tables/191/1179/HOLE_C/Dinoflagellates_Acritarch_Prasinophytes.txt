@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Operculodinium janduchenei	Habibacysta tectata	Selenopemphix nephroides	Operculodinium israelianum	Operculodinium centrocarpum	Impagidinium aculeatum	Corrudinium harlandii	Spiniferites pseudofurcatus	Operculodinium? eirikianum	Comment
+
+
+
+  IR	                 	                 	                  	              	191	1179	C	  3	H	CC	  11.00	     67.8100	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	                          	                   	                        	P                         	                           	                      	                     	                           	                          	Brigantediium spp., Picea pollen
+
+  IR	                 	                 	                  	              	191	1179	C	  5	H	CC	  10.00	     87.0300	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	                          	                   	                        	                          	P                          	                      	                     	P                          	P                         	little pollen, Pinus-dominated
+
+  IR	                 	                 	                  	              	191	1179	C	  8	H	CC	  12.00	    115.7400	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	P                         	                   	P                       	                          	                           	P                     	P                    	                           	                          	Hystrichokolpoma sp. 1 of Mudie, 1987
+
+  IR	                 	                 	                  	              	191	1179	C	  9	H	CC	   0.00	    124.4800	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	                          	P                  	P                       	P                         	P                          	P                     	P                    	                           	                          	rich dinocyst flora
+
+  IR	                 	                 	                  	              	191	1179	C	 11	H	CC	   0.00	    143.8400	dinos    	Dinoflagellates/Acritarchs/Prasinophytes     	               	                  	P                         	P                  	                        	                          	                           	                      	                     	                           	                          	sparse dinocyst & pollen flora
+

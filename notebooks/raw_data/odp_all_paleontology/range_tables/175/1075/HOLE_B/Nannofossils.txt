@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Reticulofenestra asanoi	Pseudoemiliania lacunosa	Helicosphaera sellii	Gephyrocapsa spp. (small)	Gephyrocapsa oceanica	Gephyrocapsa caribbeanica	Emiliania huxleyi	Crenalithus doronicoides	Coccolithus pelagicus	Calcidiscus macintyrei	Comment
+
+
+
+  IR	                 	Pleistocene      	                  	NN19          	175	1075	B	 13	H	CC	  28.00	    119.7400	Giraudeau	Nannofossils                                 	A              	P                 	-                      	R                       	-                   	D                        	-                    	-                        	-                	F                       	-                    	-                     	Nannos very abundanT Small Gephyrocapsa acme zone sensu Gartner (1977)
+
+  IR	                 	Pleistocene      	                  	NN19          	175	1075	B	 14	H	CC	  22.00	    129.0700	Giraudeau	Nannofossils                                 	A              	M                 	-                      	F                       	-                   	D                        	-                    	-                        	-                	R                       	-                    	-                     	Small Gephyrocapsa acme zone sensu Gartner (1977).
+
+  IR	                 	Pleistocene      	                  	NN19          	175	1075	B	 16	H	CC	  27.00	    148.3300	Giraudeau	Nannofossils                                 	A              	M                 	-                      	F                       	R                   	D                        	-                    	F                        	-                	F                       	R                    	-                     	Nannos very abundant LO H. sellii = 1.47 Ma
+
+  IR	                 	Pleistocene      	                  	NN19          	175	1075	B	 18	H	CC	  35.00	    167.5400	Giraudeau	Nannofossils                                 	A              	M                 	-                      	F                       	F                   	D                        	R                    	-                        	-                	-                       	-                    	R                     	LO C. macintyrei: > 1.67 Ma
+
+  IR	                 	Pleistocene      	                  	NN19          	175	1075	B	 22	H	CC	  23.00	    204.8600	Giraudeau	Nannofossils                                 	C              	P                 	-                      	F                       	F                   	D                        	-                    	-                        	-                	F                       	R                    	R                     	No D. brouweri (dissolution?) Assuming still in NN19.
+

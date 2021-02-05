@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1095	D	  1	H	CC	  13.00	      8.4700	Osterman 	Planktonic Foraminifers                      	R              	M                 	R                                      	iron filled burrows, barren of benthics
+

@@ -1,0 +1,118 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Spirosigmoilinella sp.	Spirosigmoilinella spp.	Martinottiella communis	Comment
+
+
+
+  SR	                 	                 	C1                	              	104	 642	D	  2	X	 1	  73.00	    190.6300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	+                      	Other taxa=+;  from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C1                	              	104	 642	D	  2	X	 2	  73.00	    192.1300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	+                      	Other taxa=+;  from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C1                	              	104	 642	D	  2	X	 5	  73.00	    196.6300	Osterman 	Benthic Foraminifers                         	               	                  	81.3%                 	                       	12.5%                  	Other taxa=6.2%;  from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C1                	              	104	 642	D	  2	X	 6	  73.00	    198.1300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	+                      	from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  2	X	CC	   4.00	    199.2900	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  IR	                 	                 	C1                	              	104	 642	D	  2	X	CC	  31.00	    199.5600	Osterman 	Benthic Foraminifers                         	R              	M                 	                      	                       	T                      	100% benthic forams; ODP 104 IR Chapter 4 Table 14 p 128-129
+
+  SR	                 	                 	C2                	              	104	 642	D	  3	X	 1	  73.00	    200.3300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	+                      	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  3	X	 2	  73.00	    201.8300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  3	X	 3	  73.00	    203.3300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  3	X	 4	  73.00	    204.8300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  3	X	 5	  73.00	    206.3300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  3	X	CC	   5.00	    207.2500	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  4	X	 2	  73.00	    211.4300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  4	X	 3	  73.00	    212.9300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  4	X	 4	  73.00	    214.4300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	+                      	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  4	X	 5	  73.00	    215.9300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  4	X	 6	  73.00	    217.4300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	 1	  74.00	    219.6400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	 2	  74.00	    221.1400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	 3	  74.00	    222.6400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	 4	  74.00	    224.1400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	 5	  74.00	    225.6400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	 6	  74.00	    227.1400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  5	X	CC	  11.00	    228.4400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  IR	                 	                 	C2                	              	104	 642	D	  5	X	CC	  28.00	    228.6100	Osterman 	Benthic Foraminifers                         	R              	P                 	                      	T                      	                       	100% benthic forams; ODP 104 IR Chapter 4 Table 14 p 128-129
+
+  SR	                 	                 	C2                	              	104	 642	D	  6	X	 2	  75.00	    230.7500	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  6	X	 3	  75.00	    232.2500	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  6	X	 5	  75.00	    235.2500	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  7	X	 1	  74.00	    238.9400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  7	X	 3	  74.00	    241.9400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  7	X	 4	  74.00	    243.4400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  7	X	 5	  74.00	    244.9400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  7	X	 6	  74.00	    246.4400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  7	X	CC	   4.00	    247.7200	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  8	X	 1	  73.00	    248.5300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  8	X	 2	  73.00	    250.0300	Osterman 	Benthic Foraminifers                         	               	                  	100.0%                	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  8	X	 3	  73.00	    251.5300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  8	X	 4	  73.00	    253.0300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  8	X	 5	  73.00	    254.5300	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  8	X	CC	  17.00	    257.3400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  IR	                 	                 	C2                	              	104	 642	D	  8	X	CC	  22.00	    257.3900	Osterman 	Benthic Foraminifers                         	R              	P                 	                      	T                      	                       	100% benthic forams; ODP 104 IR Chapter 4 Table 14 p 128-129
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 1	  78.00	    258.2800	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 2	  80.00	    259.8000	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 3	  78.00	    261.2800	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa=+;  from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 4	  78.00	    262.7800	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 5	  78.00	    264.2800	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa=+;  from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 6	  78.00	    265.7800	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	 7	  24.00	    266.7400	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	  9	X	CC	  21.00	    267.1900	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  IR	                 	                 	C2                	              	104	 642	D	  9	X	CC	  31.00	    267.2900	Osterman 	Benthic Foraminifers                         	R              	P                 	                      	T                      	                       	100% benthic forams; ODP 104 IR Chapter 4 Table 14 p 128-129
+
+  SR	                 	                 	C2                	              	104	 642	D	 10	X	 1	  60.00	    267.7000	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	 10	X	 2	  60.00	    269.2000	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	 10	X	 4	  60.00	    272.2000	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	 10	X	 5	  60.00	    273.7000	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+
+  SR	                 	                 	C2                	              	104	 642	D	 10	X	CC	   5.00	    276.5700	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa=+;  from ODP 104 SR Chapter 37 Table 4  p 756
+
+  IR	                 	                 	C2                	              	104	 642	D	 10	X	CC	  32.00	    276.8400	Osterman 	Benthic Foraminifers                         	R              	P                 	                      	T                      	                       	100% benthic forams; ODP 104 IR Chapter 4 Table 14 p 128-129
+
+  SR	                 	                 	                  	              	104	 642	D	 12	X	 5	  78.00	    293.2800	Osterman 	Benthic Foraminifers                         	               	                  	+                     	                       	                       	Other taxa = 0%; from ODP 104 SR Chapter 37 Table 4  p 756
+

@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Planorbulina sp.	Nummulites sp.	Miliolids species	Arenobulimina sp.	Praehapydionina sp.	Miliolid taxa (large)	Buliminid and Bolivinid taxa	Asterocyclina sp.	Nummulites sp. cf. N. deserti	Discocyclina sp. cf. D. barkeri	Comment
+
+
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	A	 15	H	CC	  10.00	    139.2400	Premoli Silva	Benthic Foraminifers                         	               	                  	                	              	R                	                 	                   	                     	                            	                 	                             	VR                             	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	A	 16	X	CC	   4.00	    139.5400	Premoli Silva	Benthic Foraminifers                         	               	                  	                	              	A                	                 	                   	F                    	                            	C                	1                            	                               	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	A	 17	X	CC	   0.00	    145.7000	Premoli Silva	Benthic Foraminifers                         	               	                  	                	              	A                	                 	                   	                     	R                           	                 	                             	                               	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	A	 17	X	CC	  12.00	    145.8200	Premoli Silva	Benthic Foraminifers                         	               	                  	                	1             	A                	                 	R                  	R                    	R                           	C                	                             	                               	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+
+  SR	Middle Eocene    	                 	                  	              	144	 871	A	 17	X	CC	  23.00	    145.9300	Premoli Silva	Benthic Foraminifers                         	               	                  	F               	C             	F                	F                	                   	                     	                            	                 	                             	                               	from ODP Leg 144 SR; Ch 6: Table 1; p 128
+

@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globigerinelloides ferreolensis	Blefuscuiana daminiae	Guembelitriella graysonensis	Globigerinatheka subconglobata micra	Globigerinatheka senni	Comment
+
+
+
+  IR	                 	                 	                  	              	192	1185	B	  2	R	 1	  35.00	    308.3500	Sikora   	Planktonic Foraminifers                      	T              	P                 	                               	                     	                            	                                    	R                     	Thin section #125 is almost barren of planktonic species; 2 senni, 4 indeterminate
+
+  IR	                 	                 	                  	              	192	1185	B	  2	R	 1	 146.00	    309.4600	Sikora   	Planktonic Foraminifers                      	R              	P                 	                               	                     	                            	P                                   	R                     	middle middle Eocene (lower P12) by co-occurrence with nannos
+
+  IR	                 	                 	                  	              	192	1185	B	  4	R	 2	   9.00	    320.7900	Sikora   	Planktonic Foraminifers                      	               	                  	                               	                     	R                           	                                    	                      	Thin-section #129; late Aptian to early Cenomanian
+
+  IR	                 	                 	                  	              	192	1185	B	  4	R	 5	  70.00	    324.7000	Sikora   	Planktonic Foraminifers                      	               	                  	                               	                     	P                           	                                    	                      	Thin-section #128
+
+  IR	                 	                 	                  	              	192	1185	B	 17	R	 1	  80.00	    435.4000	Sikora   	Planktonic Foraminifers                      	               	                  	P                              	P                    	                            	                                    	                      	Thin-section #142; ?late Aptian?
+

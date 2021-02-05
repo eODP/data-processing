@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pseudoemiliania lacunosa	Helicosphaera carteri	Gephyrocapsa oceanica s.l.	Gephyrocapsa (small)	Comment
+
+
+
+  IR	                 	                 	CN13              	CN14          	167	1010	A	  1	H	 4	 130.00	      5.8000	Fornaciari	Nannofossils                                 	C              	M                 	C                       	+                    	+                         	C                   	from IR. Ch.4 Table 3.
+
+  IR	                 	                 	CN13              	CN14          	167	1010	A	  1	H	CC	  17.00	      9.1000	Fornaciari	Nannofossils                                 	R              	P                 	C                       	C                    	F                         	F                   	from IR. Ch.4 Table 3.
+

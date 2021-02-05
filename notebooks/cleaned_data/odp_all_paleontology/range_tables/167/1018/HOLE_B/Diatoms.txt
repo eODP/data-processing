@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassiothrix spp.	Stephanopyxis turris	Paralia sulcata	Diatom fragments (girdle bands)	Coscinodiscus oculus-iridis	Actinocyclus curvatulus	Thalassiosira oestrupii	Thalassionema nitzschioides	Coscinodiscus sp.	Comment
+
+
+
+  IR	Quaternary       	                 	NPD 12            	              	167	1018	B	  1	H	CC	  11.00	      9.6400	Maruyama 	Diatoms                                      	C              	P/M               	                   	R                   	               	R                              	                           	                       	R                      	R                          	R                	from IR. Ch 12. Table 7.
+
+  IR	Quaternary       	                 	NPD 12            	              	167	1018	B	  2	H	CC	  20.00	     19.4300	Maruyama 	Diatoms                                      	A              	M                 	A                  	C                   	R              	A                              	R                          	F                      	                       	                           	                 	from IR. Ch 12. Table 7.
+

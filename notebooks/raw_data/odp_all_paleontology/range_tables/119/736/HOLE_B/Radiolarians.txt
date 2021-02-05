@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Triceraspyris antarctica	Spongotrochus glacialis	Saccospyris antarctica	Phormostichoartus furcaspiculata	Antarctissa denticulata	Pterocorys clausus	Mitrocalpis araneafera	Lithelius nautiloides	Eucyrtidium teuscheri teuscheri	Cycladophora bicornis	Botryopera triloba	Comment
+
+
+
+  SR	Pleistocene      	                 	A. denticulata Zone	              	119	 736	B	  1	H	CC	   9.00	      8.2800	Caulet   	Radiolarians                                 	R              	G                 	R                       	R                      	                      	                                	                       	                  	                      	                     	                               	                     	                  	from 119 SR Chapter 28 Table 1 page 515.
+
+  SR	Pleistocene      	                 	A. denticulata Zone	              	119	 736	B	  2	H	CC	  19.00	     18.2600	Caulet   	Radiolarians                                 	A              	G                 	T                       	                       	T                     	                                	T                      	T                 	T                     	T                    	T                              	T                    	T                 	from 119 SR Chapter 28 Table 1 page 515.
+
+  SR	Pleistocene      	                 	A. denticulata Zone	              	119	 736	B	  3	H	CC	  10.00	     27.4700	Caulet   	Radiolarians                                 	C              	G                 	T                       	T                      	T                     	T                               	T                      	                  	                      	                     	                               	                     	                  	from 119 SR Chapter 28 Table 1 page 515.
+

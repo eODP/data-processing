@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Zeugrhabdotus embergeri	Speetonia colligata	Lithraphidites carniolensis carniolensis	Diadorhombus rectus	Cyclagelosphaera margerelii	Cruciellipsis cuvillieri	Assipetra infracretacea	Tranolithus gabalus	Helenea chiastia	Hayesites irregularis	Flabellites oblongus	Rhagodiscus achylostaurion	Comment
+
+
+
+  IR	                 	                 	NC8b              	NC7c          	198	1213	B	  5	R	 1	   0.00	    228.3000	nannos   	Nannofossils                                 	A              	M                 	F                      	                   	                                        	                   	                           	                        	                       	F                  	F               	F                    	F                   	F                         	       
+
+  IR	                 	                 	NC7b              	NC7a          	198	1213	B	  6	R	 1	  83.00	    238.6300	nannos   	Nannofossils                                 	A              	M                 	F                      	                   	                                        	                   	                           	                        	                       	F                  	F               	F                    	F                   	                          	       
+
+  IR	                 	                 	NC7b              	NC7a          	198	1213	B	  7	R	 1	  93.00	    248.2300	nannos   	Nannofossils                                 	A              	M                 	F                      	                   	                                        	                   	                           	                        	                       	F                  	F               	F                    	F                   	                          	       
+
+  IR	                 	                 	                  	              	198	1213	B	 12	R	 1	   9.00	    294.8900	nannos   	Nannofossils                                 	A              	M                 	C                      	R                  	A                                       	R                  	A                          	R                       	A                      	                   	                	                     	                    	                          	NC4
+

@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassiosira spp.	Stephanopyxis turris	Sponge spicules	Comment
+
+
+
+  IR	                 	                 	                  	              	167	1017	A	  1	H	CC	  22.00	      9.8200	Maruyama 	Diatoms                                      	T              	P                 	F                 	F                   	F              	from IR. Ch 11. Table 6.
+

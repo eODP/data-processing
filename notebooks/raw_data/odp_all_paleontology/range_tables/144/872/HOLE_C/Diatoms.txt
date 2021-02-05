@@ -1,0 +1,16 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Nitzschia marina	Thalassionema nitzschioides	Hemidiscus cuneiformis	Asteromphalus hookeri	Ethmodiscus sp. (fragments)	Azpeitia tabularis	Azpeitia nodulifera	Thalassiothrix longissima	Thalassiosira sp.	Comment
+
+
+
+  SR	                 	                 	                  	              	144	 872	C	  1	H	 1	   0.00	      0.0000	Fenner   	Diatoms                                      	               	                  	                	                           	                      	                     	                           	                  	S                  	S                        	S                	from ODP Leg 144 SR; Ch 3; Table 3; p. 64
+
+  SR	                 	                 	                  	              	144	 872	C	  1	H	 1	  16.00	      0.1600	Fenner   	Diatoms                                      	               	                  	S               	S                          	S                     	                     	                           	                  	S                  	S                        	                 	from ODP Leg 144 SR; Ch 3; Table 3; p. 64
+
+  SR	                 	                 	                  	              	144	 872	C	  1	H	 1	  36.00	      0.3600	Fenner   	Diatoms                                      	               	                  	S               	                           	                      	                     	S                          	S                 	S                  	                         	                 	from ODP Leg 144 SR; Ch 3; Table 3; p. 64
+
+  SR	                 	                 	                  	              	144	 872	C	  1	H	 1	  52.00	      0.5200	Fenner   	Diatoms                                      	               	                  	S               	                           	R                     	                     	S                          	S                 	S                  	                         	                 	from ODP Leg 144 SR; Ch 3; Table 3; p. 64
+
+  SR	                 	                 	                  	              	144	 872	C	  1	H	 1	  75.00	      0.7500	Fenner   	Diatoms                                      	               	                  	S               	S                          	S                     	S                    	                           	                  	                   	                         	                 	from ODP Leg 144 SR; Ch 3; Table 3; p. 64
+
+  SR	                 	                 	                  	              	144	 872	C	  1	H	 1	  90.00	      0.9000	Fenner   	Diatoms                                      	               	                  	S               	                           	                      	                     	                           	                  	                   	                         	                 	from ODP Leg 144 SR; Ch 3; Table 3; p. 64
+

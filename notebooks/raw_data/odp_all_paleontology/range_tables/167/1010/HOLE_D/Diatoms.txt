@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Thalassionema nitzschioides  var. parva	Rouxia californica	Rhizosolenia barboi	Paralia sulcata	Grammatophora sp. (septa)	Denticulopsis praedimorpha	Denticulopsis hustedtii	Coscinodiscus marginatus	Actinoptychus senarius	Sponge spicules	Comment
+
+
+
+  IR	                 	                 	                  	              	167	1010	D	  5	H	CC	  38.00	     42.6200	Maruyama 	Diatoms                                      	B              	                  	                                       	                  	                   	               	                         	                          	                       	                        	                      	R              	rare fragmental diatoms.from IR.Ch 4.Table 4.
+
+  IR	Late Miocene     	                 	NPD 5B            	NPD 6B        	167	1010	D	  6	H	CC	  40.00	     52.2000	Maruyama 	Diatoms                                      	R              	P                 	R                                      	R                 	R                  	R              	R                        	T                         	R                      	R                       	R                     	               	from IR.Ch 4.Table 4.
+

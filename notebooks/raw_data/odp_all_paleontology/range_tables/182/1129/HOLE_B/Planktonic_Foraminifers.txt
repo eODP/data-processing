@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Zeaglobigerina rubescens	Orbulina universa	Globorotalia truncatulinoides	Globorotalia inflata	Globigerinoides ruber	Globigerina bulloides	Neogloboquadrina pachyderma (dextral)	Globoconella inflata	Globigerinita glutinata	Globigerina falconensis	Comment
+
+
+
+  IR	                 	Quaternary       	                  	Pt1b          	182	1129	B	  1	H	CC	   0.00	     30.3800	Li       	Planktonic Foraminifers                      	F              	VG                	                        	                 	P                            	A                   	A                    	F                    	F                                    	A                   	F                      	F                      	bryozoans, ben forams
+
+  IR	                 	Quaternary       	                  	Pt1b          	182	1129	B	  2	H	CC	  10.00	     33.3000	Li       	Planktonic Foraminifers                      	F              	VG                	P                       	P                	F                            	A                   	A                    	F                    	                                     	                    	                       	                       	bryozoans, ben forams
+

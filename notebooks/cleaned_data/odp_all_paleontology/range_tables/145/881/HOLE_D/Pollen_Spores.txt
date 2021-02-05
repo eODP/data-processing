@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Tsuga taxa	Sphagnum taxa	Quercus taxa	Polypodiaceae taxa	Pinus taxa	Picea taxa	Myrica taxa	Lycopodiaceae taxa	Gramineae taxa	Ericaceae taxa	Cyperaceae taxa	Compositae taxa	Chenopodiaceae taxa	Betula taxa	Alnus taxa	Abies taxa	Comment
+
+
+
+  SR	                 	                 	                  	              	145	 881	D	  6	H	CC	  25.00	    212.0200	Morley   	Pollen/Spores                                	               	                  	0         	9            	3           	9                 	21        	29        	0          	5                 	6             	0             	5              	12             	11                 	10         	10        	0         	Total pollen = 97; Total spores = 23; from Leg 145 SR; Ch 10; Table 1; p 172
+

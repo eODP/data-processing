@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Gephyrocapsa spp.	Coccolithus pelagicus	Comment
+
+
+
+  SR	                 	                 	                  	              	145	 883	A	  1	H	 1	   0.00	      0.0000	Olafsson 	Nannofossils                                 	F              	M                 	                 	F                    	from Leg 145 SR; Ch 39; Table 7; p. 607
+
+  SR	                 	                 	                  	              	145	 883	A	  2	H	CC	  15.00	     19.0500	Olafsson 	Nannofossils                                 	A              	M                 	                 	A                    	from Leg 145 SR; Ch 39; Table 7; p. 607
+
+  SR	                 	                 	                  	              	145	 883	A	  3	H	CC	  13.00	     28.5700	Olafsson 	Nannofossils                                 	R              	M                 	                 	R                    	from Leg 145 SR; Ch 39; Table 7; p. 607
+
+  SR	                 	                 	                  	              	145	 883	A	  4	H	CC	  15.00	     38.2800	Olafsson 	Nannofossils                                 	R              	P                 	R                	R                    	from Leg 145 SR; Ch 39; Table 7; p. 607
+

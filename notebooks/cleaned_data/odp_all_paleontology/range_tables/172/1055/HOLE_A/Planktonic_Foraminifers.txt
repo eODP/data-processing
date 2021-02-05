@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Truncorotalia truncatulinoides (sin.)	Truncorotalia truncatulinoides (dex.)	Truncorotalia crassaformis	Pulleniatina obliquiloculata	Menardella menardii (sinistral)	Menardella menardii (dextral)	Hastigerina pelagica	Globoturborotalita rubescens	Globorotalia tumida flexuosa	Globoconella inflata	Globigerinoides obliquus	Globigerinoides fistulosus	Globigerinoides extremus	Comment
+
+
+
+  IR	                 	Pleistocene      	                  	N22           	172	1055	A	  1	H	CC	  21.00	      9.7900	Chaisson 	Planktonic Foraminifers                      	C              	VG                	+                                    	+                                    	-                         	+                           	-                              	-                            	+                   	+                           	-                           	+                   	-                       	-                         	-                       	LGM
+

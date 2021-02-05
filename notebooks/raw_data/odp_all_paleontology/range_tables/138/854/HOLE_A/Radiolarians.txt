@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Theocorythium vetulum	Stylatractus universus	Stichocorys wolffii	Spongaster tetras	Pterocanium prismatium	Lamprocyrtis neoheteroporos	Lamprocyrtis heteroporos	Anthocyrtidium jenghisi	Amphirhopalum ypsilon	Comment
+
+
+
+  SR	                 	                 	                  	              	138	 854	A	  2	H	CC	  23.00	     19.8400	Moore    	Radiolarians                                 	B              	                  	-                    	-                     	-                  	-                	-                     	-                          	-                       	-                      	-                    	from ODP Leg 138 SR Chapter 11 Fig 11 p 228
+
+  SR	                 	                 	                  	              	138	 854	A	  3	X	CC	  42.00	     20.3500	Moore    	Radiolarians                                 	B              	                  	-                    	-                     	-                  	-                	-                     	-                          	-                       	-                      	-                    	from ODP Leg 138 SR Chapter 11 Fig 11 p 228
+

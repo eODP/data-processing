@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Zeaglobigerina brevis	Comment
+
+
+
+  IR	                 	                 	                  	              	185	1149	B	 28	R	 1	  35.00	    397.4500	Firth    	Planktonic Foraminifers                      	               	                  	A                    	       
+

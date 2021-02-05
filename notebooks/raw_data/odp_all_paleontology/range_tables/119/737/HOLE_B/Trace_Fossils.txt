@@ -1,0 +1,128 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Zoophycos (unspecified taxon or taxa)	Thalassinoides (unspecified taxon or taxa)	Comment
+
+
+
+  SR	                 	                 	                  	              	119	 737	B	  8	R	 2	   0.00	    284.0000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 10	R	 1	   0.00	    301.8000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 10	R	 4	   0.00	    306.3000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 11	R	 1	   0.00	    311.5000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 11	R	 2	   0.00	    313.0000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 12	R	 1	   0.00	    321.1000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 12	R	 2	   0.00	    322.6000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 12	R	 4	   0.00	    325.6000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 12	R	 6	   0.00	    328.6000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 14	R	 4	   0.00	    344.9000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 15	R	 4	   0.00	    354.6000	Droser   	Trace Fossils                                	               	                  	+                                    	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 16	R	 1	   0.00	    359.8000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 16	R	 3	   0.00	    362.8000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 17	R	 2	   0.00	    370.9000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 20	R	 2	   0.00	    399.9000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 20	R	 5	   0.00	    404.4000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 24	R	 2	   0.00	    438.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 24	R	 4	   0.00	    441.5000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 26	R	 5	   0.00	    462.4000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 26	R	 6	   0.00	    463.9000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 27	R	 1	   0.00	    466.0000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 27	R	 3	   0.00	    469.0000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 27	R	 5	   0.00	    472.0000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 28	R	 5	   0.00	    481.7000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 29	R	 1	   0.00	    485.4000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 29	R	 2	   0.00	    486.9000	Droser   	Trace Fossils                                	               	                  	                                     	+                                         	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 29	R	 3	   0.00	    488.4000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 29	R	 5	   0.00	    491.4000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 29	R	 7	   0.00	    494.4000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 30	R	 2	   0.00	    496.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 31	R	 2	   0.00	    505.6100	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 31	R	 3	   0.00	    507.1100	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 31	R	 4	   0.00	    508.6100	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 31	R	 5	   0.00	    510.1100	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 31	R	 6	   0.00	    511.6100	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 33	R	 2	   0.00	    525.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 34	R	 2	   0.00	    535.1000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 35	R	 1	   0.00	    543.3000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 35	R	 2	   0.00	    544.8000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 35	R	 5	   0.00	    549.3000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 36	R	 3	   0.00	    555.9000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 37	R	 1	   0.00	    562.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 37	R	 2	   0.00	    564.0000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 37	R	 3	   0.00	    565.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 37	R	 4	   0.00	    567.0000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 37	R	 5	   0.00	    568.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 38	R	 1	   0.00	    572.2000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 38	R	 2	   0.00	    573.7000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 38	R	 5	   0.00	    578.2000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 38	R	 6	   0.00	    579.7000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 39	R	 1	   0.00	    581.8000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 39	R	 2	   0.00	    583.3000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 39	R	 3	   0.00	    584.8000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 39	R	 4	   0.00	    586.3000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 39	R	 6	   0.00	    589.3000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 40	R	 1	   0.00	    591.5000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 42	R	 1	   0.00	    610.7000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 42	R	 2	   0.00	    612.2000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 42	R	 3	   0.00	    613.7000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 42	R	 4	   0.00	    615.2000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 42	R	 5	   0.00	    616.7000	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+
+  SR	                 	                 	                  	              	119	 737	B	 42	R	CC	   0.00	    617.6300	Droser   	Trace Fossils                                	               	                  	+                                    	                                          	based on observation of entire section. from ODP 119 SR Chapter 33 Table 1 page 638.
+

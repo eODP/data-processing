@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Turborotalia ampliapertura	Paragloborotalia opima nana	Chiloguembelina cubensis	Cassigerinella chipolensis	Comment
+
+
+
+  IR	Early Oligocene  	Early Oligocene  	P19               	P19           	184	1148	B	 51	X	CC	  27.00	    811.8700	forams   	Planktonic Foraminifers                      	C              	G                 	R                         	                           	F                       	R                         	       
+
+  IR	Early Oligocene  	Early Oligocene  	P19               	P19           	184	1148	B	 52	X	CC	  32.00	    815.9500	forams   	Planktonic Foraminifers                      	C              	G                 	R                         	                           	F                       	R                         	       
+
+  IR	Early Oligocene  	Early Oligocene  	P19               	P19           	184	1148	B	 53	X	CC	  23.00	    820.5500	forams   	Planktonic Foraminifers                      	C              	G                 	                          	                           	F                       	R                         	       
+
+  IR	Early Oligocene  	Early Oligocene  	P19               	P19           	184	1148	B	 56	X	CC	  31.00	    845.0700	forams   	Planktonic Foraminifers                      	A              	M                 	P                         	P                          	R                       	R                         	<32.0 Ma
+

@@ -1,0 +1,30 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina pachyderma (dextral)	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1101	A	  1	H	CC	  28.00	      8.6000	Osterman 	Planktonic Foraminifers                      	A              	VG                	R                                      	R                                    	       
+
+  IR	                 	                 	                  	              	178	1101	A	  2	H	CC	  28.00	     18.4800	Osterman 	Planktonic Foraminifers                      	R              	VG                	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	  3	H	CC	  16.00	     27.8300	Osterman 	Planktonic Foraminifers                      	R              	G                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	  4	H	CC	  39.00	     37.9800	Osterman 	Planktonic Foraminifers                      	R              	G                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	  6	H	CC	  19.00	     48.2300	Osterman 	Planktonic Foraminifers                      	A              	M                 	A                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	  8	H	CC	   0.00	     66.7200	Osterman 	Planktonic Foraminifers                      	R              	P                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	  9	H	CC	   6.00	     76.0700	Osterman 	Planktonic Foraminifers                      	R              	G                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	 10	H	CC	   9.00	     85.0300	Osterman 	Planktonic Foraminifers                      	A              	G                 	A                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	 11	H	CC	   0.00	     94.1900	Osterman 	Planktonic Foraminifers                      	A              	G                 	A                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	 12	H	 7	  54.00	    104.7400	Osterman 	Planktonic Foraminifers                      	R              	P                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	 13	H	 7	  69.00	    113.8900	Osterman 	Planktonic Foraminifers                      	R              	G                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	 14	H	CC	  24.00	    124.0000	Osterman 	Planktonic Foraminifers                      	R              	G                 	R                                      	                                     	       
+
+  IR	                 	                 	                  	              	178	1101	A	 19	X	CC	  19.00	    166.7300	Osterman 	Planktonic Foraminifers                      	R              	P                 	R                                      	                                     	       
+

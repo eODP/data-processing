@@ -1,0 +1,22 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Spongodiscus spp.	Lithomitra arachnea	Dictyophimus glacilipes	Stylochlamidium  venustum	Saccospyris sp.	Nephrospyris pervia (trellis-type)	Tetrapyle octacantha	Cycladophora davisiana davisiana	Comment
+
+
+
+  SR	                 	                 	                  	              	128	 798	C	  1	H	CC	  31.00	      6.3100	Ling     	Radiolarians                                 	R              	M                 	                 	                   	                       	                         	               	R                                 	                    	R                               	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	  2	H	CC	  21.00	     16.1300	Ling     	Radiolarians                                 	R              	M                 	                 	                   	                       	                         	               	R                                 	                    	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	  3	H	CC	  23.00	     25.2200	Ling     	Radiolarians                                 	R              	M                 	                 	                   	                       	                         	               	R                                 	                    	R                               	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	  4	H	CC	  36.00	     34.5500	Ling     	Radiolarians                                 	R              	M                 	                 	                   	                       	                         	               	R                                 	                    	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	  7	H	CC	  24.00	     62.7500	Ling     	Radiolarians                                 	R              	M                 	R                	R                  	R                      	                         	               	                                  	R                   	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	  8	H	CC	  49.00	     73.6000	Ling     	Radiolarians                                 	R              	M                 	                 	                   	R                      	                         	               	R                                 	                    	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	 11	H	CC	  40.00	    101.4300	Ling     	Radiolarians                                 	R              	M                 	                 	R                  	R                      	R                        	R              	                                  	                    	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	 12	H	CC	  25.00	    111.6100	Ling     	Radiolarians                                 	R              	M                 	                 	                   	R                      	                         	               	                                  	                    	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+
+  SR	                 	                 	                  	              	128	 798	C	 13	H	CC	  36.00	    120.7000	Ling     	Radiolarians                                 	R              	M                 	R                	R                  	                       	                         	               	                                  	                    	                                	from ODP Legs 127&128 SR Chapter 13 Table 3 p 230
+

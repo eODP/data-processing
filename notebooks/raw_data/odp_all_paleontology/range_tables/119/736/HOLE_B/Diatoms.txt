@@ -1,0 +1,34 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Diatoms (unspecified pennate taxa)	Diatoms (unspecified centric taxa)	Chaetoceros spp. (resting spores)	Comment
+
+
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 1	  35.00	      0.3500	Stockwell	Diatoms                                      	               	                  	16261                             	4230                              	8735                             	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 1	  85.00	      0.8500	Stockwell	Diatoms                                      	               	                  	22949                             	5284                              	9385                             	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 1	 135.00	      1.3500	Stockwell	Diatoms                                      	               	                  	12634                             	4910                              	6455                             	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 2	  35.00	      1.8500	Stockwell	Diatoms                                      	               	                  	10204                             	3976                              	136365                           	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 2	  85.00	      2.3500	Stockwell	Diatoms                                      	               	                  	13581                             	3234                              	170737                           	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 2	 135.00	      2.8500	Stockwell	Diatoms                                      	               	                  	15380                             	4523                              	175964                           	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 3	  35.00	      3.3500	Stockwell	Diatoms                                      	               	                  	17484                             	5061                              	181741                           	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 3	  42.00	      3.4200	Stockwell	Diatoms                                      	               	                  	146                               	49                                	62                               	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 3	 135.00	      4.3500	Stockwell	Diatoms                                      	               	                  	17056                             	3292                              	178489                           	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 4	  35.00	      4.8500	Stockwell	Diatoms                                      	               	                  	14343                             	1956                              	89102                            	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 4	  85.00	      5.3500	Stockwell	Diatoms                                      	               	                  	10426                             	4028                              	63621                            	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	 4	 135.00	      5.8500	Stockwell	Diatoms                                      	               	                  	3153                              	2183                              	56342                            	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  1	H	CC	   9.00	      8.2800	Stockwell	Diatoms                                      	               	                  	206                               	51                                	331                              	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  2	H	 1	   9.00	      8.4900	Stockwell	Diatoms                                      	               	                  	156                               	78                                	101                              	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 736	B	  2	H	CC	  19.00	     18.2600	Stockwell	Diatoms                                      	               	                  	193                               	48                                	121                              	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+

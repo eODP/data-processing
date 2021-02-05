@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Turborotalita quinqueloba	Neogloboquadrina pachyderma (sinistral)	Neogloboquadrina pachyderma (dextral)	Globigerinita glutinata	Globigerina bulloides	Globigerinita uvula uvula	Orbulina universa	Comment
+
+
+
+  IR	                 	Holocene         	                  	CD1           	169	1038	F	  1	R	CC	  10.00	      0.1000	Brunner  	Planktonic Foraminifers                      	R              	P                 	R                        	R                                      	R                                    	R                      	                     	                         	R                	Very little in the sand-size fraction. Framboidal pyrite dominates, some may be pyritized organic matter, with minerals grains, radiolarians, planktonic and benthonic foraminifers
+
+  IR	                 	                 	                  	              	169	1038	F	  2	R	CC	  10.00	     11.3400	Brunner  	Planktonic Foraminifers                      	R              	P                 	                         	R                                      	                                     	                       	                     	R                        	                 	Pyritized material most abundant, chalky benthonic foraminifers, some discolored planktonic foraminifers that are very hard to identify due to their poor condition
+
+  IR	                 	Holocene         	                  	CD1           	169	1038	F	  4	R	CC	  14.00	     29.1600	Brunner  	Planktonic Foraminifers                      	F              	P                 	R                        	R                                      	R                                    	R                      	R                    	                         	                 	Semi-lithified silt and clay lumps, framboidal pyrite, mica, discolored foraminifers
+

@@ -1,0 +1,20 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Diatoms (unspecified pennate taxa)	Diatoms (unspecified centric taxa)	Chaetoceros spp. (resting spores)	Comment
+
+
+
+  SR	                 	                 	                  	              	119	 741	A	  1	R	 1	   5.00	      0.0500	Stockwell	Diatoms                                      	               	                  	32242                             	4004                              	3899                             	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  1	R	 1	  40.00	      0.4000	Stockwell	Diatoms                                      	               	                  	31344                             	2994                              	3082                             	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  1	R	 1	  48.00	      0.4800	Stockwell	Diatoms                                      	               	                  	37061                             	4118                              	3339                             	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  1	R	 2	  40.00	      1.9000	Stockwell	Diatoms                                      	               	                  	128                               	14                                	14                               	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  1	R	 3	  40.00	      3.4000	Stockwell	Diatoms                                      	               	                  	0                                 	0                                 	0                                	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  4	R	 1	  38.00	     24.2800	Stockwell	Diatoms                                      	               	                  	0                                 	0                                 	0                                	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  4	R	 2	  39.00	     25.7900	Stockwell	Diatoms                                      	               	                  	0                                 	0                                 	0                                	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+
+  SR	                 	                 	                  	              	119	 741	A	  4	R	 3	  37.00	     27.2700	Stockwell	Diatoms                                      	               	                  	0                                 	0                                 	0                                	counts as specimens per gram x 10 000. from 119 SR Chapter 30 Appendix pages 605 - 606.
+

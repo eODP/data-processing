@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Agglutinated spp. (indeterminate)	Uvigerina senticosa	Lagenid taxa	Globocassidulina spp.	Eponides turgida	Uvigerina spp.	Saccammina sp. A	Pullenia quinqueloba	Melonis barleeanus	Hormosina sp. A	Gyroidina spp.	Eggerella spp.	Cribrostomoides sp. A	Cibicides kullenbergi	Ammodiscus sp. A	Comment
+
+
+
+  IR	                 	                 	                  	              	139	 858	D	  1	H	 1	   0.00	      0.0000	Brunner  	Benthic Foraminifers                         	F              	M                 	+                                	                   	            	                     	+               	+             	+               	+                   	+                 	+              	+             	+             	+                    	+                    	+               	from ODP Leg 139 IR; Chapter 8; Tables 6 & 8; p 460-463 + 466
+
+  IR	                 	                 	                  	              	139	 858	D	  1	H	CC	   6.00	      9.0600	Brunner  	Benthic Foraminifers                         	R              	M                 	+                                	+                  	+           	+                    	+               	              	                	                    	                  	               	              	              	                     	                     	                	from ODP Leg 139 IR; Chapter 8; Tables 6 & 8; p 460-463 + 466
+
+  IR	                 	                 	                  	              	139	 858	D	  2	H	CC	  54.00	     19.3600	Brunner  	Benthic Foraminifers                         	C              	P                 	+                                	                   	            	                     	                	              	                	                    	                  	               	              	              	                     	                     	                	from ODP Leg 139 IR; Chapter 8; Tables 6 & 8; p 460-463 + 466
+

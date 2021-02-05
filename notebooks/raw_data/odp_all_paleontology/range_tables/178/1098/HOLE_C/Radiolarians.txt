@@ -1,0 +1,12 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Stylatractus universus	Antarctissa cylindrica	Comment
+
+
+
+  IR	                 	                 	                  	              	178	1098	C	  1	H	CC	   0.00	      8.4600	Weinheimer	Radiolarians                                 	C              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1098	C	  2	H	CC	   0.00	     18.4800	Weinheimer	Radiolarians                                 	C              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1098	C	  3	H	CC	   0.00	     27.6300	Weinheimer	Radiolarians                                 	C              	G                 	-                     	-                     	       
+
+  IR	                 	                 	                  	              	178	1098	C	  4	H	CC	   0.00	     37.3900	Weinheimer	Radiolarians                                 	R              	G                 	-                     	-                     	       
+

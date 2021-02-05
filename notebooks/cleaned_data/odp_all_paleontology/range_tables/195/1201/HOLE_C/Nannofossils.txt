@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Reticulofenestra samodurovii	Sphenolithus moriformis	Ericsonia subpertusa	Discoaster deflandrei	Chiasmolithus spp.	Cyclicargolithus cf. abisectus	Comment
+
+
+
+  IR	                 	                 	                  	              	195	1201	C	  3	H	 1	 149.00	     17.5900	cur      	Nannofossils                                 	T              	P                 	                            	                       	                    	                     	                  	C                             	       
+
+  IR	                 	                 	                  	              	195	1201	C	  3	H	 2	 128.00	     18.8800	cur      	Nannofossils                                 	T              	P                 	                            	                       	C                   	                     	                  	                              	       
+
+  IR	                 	                 	                  	              	195	1201	C	  3	H	 6	  95.00	     24.5500	cur      	Nannofossils                                 	T              	P                 	                            	                       	                    	                     	                  	C                             	       
+
+  IR	                 	                 	                  	              	195	1201	C	  3	H	 7	   2.00	     25.1200	cur      	Nannofossils                                 	T              	M                 	                            	R                      	F                   	R                    	R                 	                              	       
+
+  IR	                 	                 	                  	              	195	1201	C	  3	H	CC	  11.00	     25.8800	cur      	Nannofossils                                 	T              	M                 	R                           	                       	                    	                     	                  	                              	       
+

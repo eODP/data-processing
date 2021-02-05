@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Subbotina venezuelana	Subbotina linaperta	Subbotina hagni	Subbotina eocaena	Porticulasphaera semiinvoluta	Globigerinatheka tropicalis	Catapsydrax dissimilis	Turborotalia pomeroli	Turborotalia cocoaensis	Turborotalia cerroazulensis	Pseudohastigerina micra	Globigerinatheka index	Comment
+
+
+
+  IR	Middle Eocene    	Late Eocene      	                  	P15           	171	1052	C	  1	H	 2	   0.00	      1.5000	Bellier  	Planktonic Foraminifers                      	A              	VG                	                     	                   	               	                 	F                            	                           	                      	F                    	F                      	F                          	F                      	R                     	       
+
+  IR	Middle Eocene    	Late Eocene      	                  	P15           	171	1052	C	  1	H	CC	  21.00	      9.9600	Bellier  	Planktonic Foraminifers                      	C              	G                 	F                    	F                  	F              	F                	                             	                           	F                     	                     	                       	                           	                       	                      	       
+
+  IR	Middle Eocene    	Late Eocene      	                  	P15           	171	1052	C	  2	H	CC	  25.00	     19.4100	Bellier  	Planktonic Foraminifers                      	F              	G                 	F                    	F                  	F              	F                	R                            	P                          	F                     	                     	                       	                           	                       	                      	       
+

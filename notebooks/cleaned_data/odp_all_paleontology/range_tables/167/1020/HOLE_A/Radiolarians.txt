@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Gephyrocapsa oceanica s.l.	Emiliania huxleyi	Coccolithus pelagicus	Comment
+
+
+
+  IR	                 	                 	CN15              	              	167	1020	A	  1	H	CC	  21.00	      9.9800	Fornaciari	Nannofossils                                 	F/C            	G                 	+                         	+                	F                    	from IR. Ch 14. Table 4.
+

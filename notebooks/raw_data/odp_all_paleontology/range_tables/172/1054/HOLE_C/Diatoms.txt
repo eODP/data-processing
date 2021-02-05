@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Coscinodiscus marginatus	Comment
+
+
+
+  IR	                 	                 	                  	              	172	1054	C	  5	H	CC	  27.00	     37.8200	Winter   	Diatoms                                      	               	                  	R                       	       
+

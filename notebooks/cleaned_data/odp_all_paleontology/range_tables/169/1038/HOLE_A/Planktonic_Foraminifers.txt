@@ -1,0 +1,8 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Globigerina bulloides	Turborotalita quinqueloba	Globorotalia scitula	Comment
+
+
+
+  IR	                 	                 	                  	              	169	1038	A	  8	R	CC	  17.00	     67.5700	Brunner  	Planktonic Foraminifers                      	F              	P                 	R                                      	R                    	R                        	R                   	Abundant lithified silt lumps with mica, pyritized organic matter, few radiolarians, planktonic and benthonic foraminifers which are brown and often flattened and/or distorted in shape
+
+  IR	                 	                 	                  	              	169	1038	A	  9	R	CC	  10.00	     76.9300	Brunner  	Planktonic Foraminifers                      	F              	P                 	R                                      	R                    	                         	                    	Cemented silt lumps, mica, strongly altered foraminiferal assemblage
+

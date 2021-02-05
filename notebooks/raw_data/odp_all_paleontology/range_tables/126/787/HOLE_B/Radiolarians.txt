@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Lithocyclia angusta	Diartus hughesi	Theocorythium trachelium dianae	Axoprunum angelinum	Lamprocyclas maritalis maritalis	Eucyrtidium calvertense	Anthocyrtidium angulare	Comment
+
+
+
+  SR	Early Pleistocene	                 	A. angulare RN13  	              	126	 787	B	  1	R	CC	   9.00	      2.2700	Aitchison	Radiolarians                                 	C              	G                 	                   	               	F                              	                   	R                               	                       	R                      	from ODP Leg 126 SR Chapter 21 Table 1 p 323
+
+  SR	Early Pleistocene	                 	A. angulare RN13  	              	126	 787	B	  2	R	CC	   9.00	      7.5600	Aitchison	Radiolarians                                 	C              	G                 	                   	               	R                              	F                  	R                               	F                      	                       	from ODP Leg 126 SR Chapter 21 Table 1 p 323
+
+  SR	Early Pleistocene	                 	A. angulare RN13  	              	126	 787	B	  3	R	CC	   9.00	     15.4800	Aitchison	Radiolarians                                 	R              	G                 	                   	               	R                              	R                  	                                	                       	                       	from ODP Leg 126 SR Chapter 21 Table 1 p 323
+
+  SR	Late Miocene     	                 	D. antepenultima RN7	              	126	 787	B	  5	R	CC	   0.00	     31.2500	Aitchison	Radiolarians                                 	R              	G                 	                   	R              	                               	                   	                                	                       	                       	from ODP Leg 126 SR Chapter 21 Table 1 p 323
+
+  SR	Late Oligocene   	                 	D. ateuchus (RP21)	              	126	 787	B	 13	R	CC	  14.00	    111.6100	Aitchison	Radiolarians                                 	C              	P                 	R                  	               	                               	                   	                                	                       	                       	from ODP Leg 126 SR Chapter 21 Table 1 p 323
+

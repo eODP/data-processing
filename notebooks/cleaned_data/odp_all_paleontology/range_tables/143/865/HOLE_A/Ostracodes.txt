@@ -1,0 +1,14 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Spinoleberis (?) sp.	Cytherella aff. posterodorsodirecta	Genus indeter. 1 (unspecified taxon or taxa)	Cytherelloidea sp. 87R	Cythereis sp.	Bairdia sp. 865	Amphicytherura (?) sp.	Comment
+
+
+
+  SR	Cretaceous       	                 	                  	              	143	 865	A	 75	R	 1	  31.00	    689.7100	Damotte  	Ostracodes                                   	               	                  	                    	+                                  	                                            	                      	             	               	                      	from Leg 143 SR; Ch 35; Table 1; p. 577
+
+  SR	Albian           	                 	                  	              	143	 865	A	 85	R	 2	  44.00	    787.8800	Damotte  	Ostracodes                                   	               	                  	                    	+                                  	                                            	                      	             	+              	+                     	from Leg 143 SR; Ch 35; Table 1; p. 577
+
+  SR	Cretaceous       	                 	                  	              	143	 865	A	 86	R	 3	  73.00	    799.4900	Damotte  	Ostracodes                                   	               	                  	                    	+                                  	                                            	                      	+            	+              	                      	from Leg 143 SR; Ch 35; Table 1; p. 577
+
+  SR	Albian           	                 	                  	              	143	 865	A	 87	R	 1	  56.00	    805.9600	Damotte  	Ostracodes                                   	               	                  	                    	                                   	+                                           	+                     	             	               	                      	from Leg 143 SR; Ch 35; Table 1; p. 577
+
+  SR	Albian           	                 	                  	              	143	 865	A	 92	R	 2	  40.00	    848.9800	Damotte  	Ostracodes                                   	               	                  	+                   	+                                  	                                            	                      	             	               	                      	from Leg 143 SR; Ch 35; Table 1; p. 577
+

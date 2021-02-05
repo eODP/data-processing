@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pseudodictyomitra sp. aff. P. pentacolaensis	Pseudodictyomitra pseudomacrocephala	Novixitus sp.	Novixitus mclaughlini	Archaeodictyomitra sp. aff. A. sliteri	Archaeodictyomitra sp.	Archaeodictyomitra sliteri	Acanthocircus sp.	?Xitus sp.	Comment
+
+
+
+  SR	                 	                 	                  	              	136	 842	C	  1	W	 1	  65.00	    141.9500	Hull     	Radiolarians                                 	               	                  	+                                           	+                                   	+            	+                    	+                                     	+                     	+                         	+                	+         	from ODP Leg 136 SR Ch 1 pp 13-14
+

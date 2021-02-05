@@ -1,0 +1,28 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Sponge spicules	Coscinodiscus marginatus	Thalassionema nitzschioides	Denticulopsis hustedtii	Actinocyclus ingens	Thalassionema robusta	Denticulopsis hyalina	Paralia sulcata	Denticulopsis lauta s.l.	Comment
+
+
+
+  IR	                 	                 	                  	              	167	1012	B	  1	H	CC	  22.00	      8.8000	Maruyama 	Diatoms                                      	T              	P                 	+              	+                       	                           	                       	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  2	H	CC	  27.00	     18.6600	Maruyama 	Diatoms                                      	T              	P                 	+              	+                       	                           	                       	+                  	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  3	H	CC	  20.00	     28.1600	Maruyama 	Diatoms                                      	T              	                  	+              	                        	                           	                       	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  5	H	CC	  17.00	     47.1800	Maruyama 	Diatoms                                      	T              	P                 	+              	+                       	                           	                       	                   	                     	                     	+              	+                       	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  6	H	CC	  30.00	     56.7400	Maruyama 	Diatoms                                      	T              	P                 	+              	+                       	                           	                       	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  7	H	CC	  34.00	     66.1300	Maruyama 	Diatoms                                      	T              	P                 	+              	                        	                           	+                      	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  8	H	CC	  37.00	     75.8600	Maruyama 	Diatoms                                      	T              	P                 	               	                        	                           	+                      	                   	+                    	+                    	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	  9	H	CC	  32.00	     85.3500	Maruyama 	Diatoms                                      	T              	                  	+              	                        	                           	                       	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	 11	H	CC	  37.00	    104.1400	Maruyama 	Diatoms                                      	T              	P                 	+              	                        	                           	+                      	+                  	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	 12	H	CC	  28.00	    113.9100	Maruyama 	Diatoms                                      	T              	                  	+              	                        	                           	                       	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	 13	H	CC	  20.00	    123.1700	Maruyama 	Diatoms                                      	T              	P                 	+              	+                       	+                          	                       	                   	                     	                     	               	                        	from IR. Ch 6. Table 7.
+
+  IR	                 	                 	                  	              	167	1012	B	 14	H	CC	  30.00	    132.9900	Maruyama 	Diatoms                                      	T              	P                 	+              	+                       	                           	                       	                   	                     	                     	               	                        	diatom fragments present. From IR. Ch 6. Table 7.
+

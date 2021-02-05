@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Orbulina universa	Neogloboquadrina pachyderma	Neogloboquadrina dutertrei	Globorotalia truncatulinoides	Globorotalia scitula	Globorotalia puncticulata	Globorotalia inflata	Globorotalia crassula	Globigerinoides ruber	Globigerinoides conglobatus	Globigerina falconensis	Comment
+
+
+
+  IR	                 	                 	                  	              	181	1124	B	  2	H	CC	   8.00	      9.8300	forams   	Planktonic Foraminifers                      	C              	G                 	R                	A                          	R                         	R                            	P                   	F                        	A                   	F                    	F                    	P                          	F                      	       
+

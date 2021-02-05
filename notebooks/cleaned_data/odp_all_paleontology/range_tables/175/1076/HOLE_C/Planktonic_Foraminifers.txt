@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Pulleniatina obliquiloculata	Orbulina universa	Neogloboquadrina pachyderma	Neogloboquadrina dutertrei	Hastigerina siphonifera	Globorotaloides hexagona	Globorotalia crassaformis hessi	Globoconella inflata	Globigerinoides trilobus	Globigerinoides sacculifer	Globigerinoides ruber	Globigerina bulloides	Comment
+
+
+
+  IR	                 	                 	                  	              	175	1076	C	 18	H	CC	  31.00	    166.1200	Christensen	Planktonic Foraminifers                      	F              	G                 	1                           	5                	A11                        	3                         	2                      	+                       	2                              	4                   	1                       	1                         	A17                  	A18                  	       
+

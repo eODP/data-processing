@@ -1,0 +1,22 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Neogloboquadrina pachyderma (sinistral)	Pulleniatina obliquiloculata	Neogloboquadrina pachyderma (dextral)	Globigerina bulloides	Comment
+
+
+
+  IR	Late Miocene     	Pleistocene      	                  	              	178	1096	A	  3	H	CC	   0.00	     25.2300	Osterman 	Planktonic Foraminifers                      	R              	P                 	R                                      	                            	                                     	                     	small  sand fraction
+
+  IR	Late Miocene     	Pleistocene      	                  	              	178	1096	A	  5	H	CC	   0.00	     45.7500	Osterman 	Planktonic Foraminifers                      	R              	P                 	R                                      	                            	                                     	                     	small sand fraction
+
+  IR	Late Miocene     	Pleistocene      	                  	              	178	1096	A	  6	H	CC	  23.00	     54.9400	Osterman 	Planktonic Foraminifers                      	R              	P                 	R                                      	                            	                                     	R                    	Lots of Big IRD
+
+  IR	                 	                 	                  	              	178	1096	A	  8	H	CC	  23.00	     74.3100	Osterman 	Planktonic Foraminifers                      	C              	G                 	A                                      	                            	F                                    	                     	fine sand with pyreite infillings, blackened forams some in really bad shape.
+
+  IR	                 	                 	                  	              	178	1096	A	 10	H	CC	  13.00	     89.6400	Osterman 	Planktonic Foraminifers                      	R              	G                 	R                                      	                            	                                     	                     	very fine sand, IRD
+
+  IR	Late Miocene     	Pleistocene      	                  	              	178	1096	A	 11	H	CC	   0.00	    102.1700	Osterman 	Planktonic Foraminifers                      	R              	M                 	R                                      	                            	                                     	                     	fine sand
+
+  IR	Late Miocene     	Pleistocene      	                  	              	178	1096	A	 12	H	CC	  11.00	    106.6000	Osterman 	Planktonic Foraminifers                      	A              	G                 	D                                      	P                           	                                     	                     	rare benthics
+
+  IR	Late Miocene     	Pleistocene      	                  	              	178	1096	A	 13	H	CC	  10.00	    114.7100	Osterman 	Planktonic Foraminifers                      	R              	M                 	D                                      	                            	                                     	                     	       
+
+  IR	                 	                 	                  	              	178	1096	A	 14	H	CC	  38.00	    131.8700	Osterman 	Planktonic Foraminifers                      	R              	P                 	D                                      	                            	                                     	                     	       
+

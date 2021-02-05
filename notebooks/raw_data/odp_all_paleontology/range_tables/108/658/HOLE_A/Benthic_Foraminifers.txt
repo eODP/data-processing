@@ -1,0 +1,136 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Stilostomella spp.	Pleurostomella spp.	Plectofrondicularia spp.	Orthomorphina spp.	Comment
+
+
+
+  SR	                 	                 	                  	              	108	 658	A	 11	H	 4	  70.00	     95.6500	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	1                       	                  	from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 11	H	 6	  70.00	     98.6500	Weinholz 	Benthic Foraminifers                         	               	                  	3                 	                   	1                       	                  	Total account = 283; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 11	H	 7	  70.00	    100.1500	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	6                       	                  	Total account = 276; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 11	H	 8	  68.00	    101.6300	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	1                       	                  	Total account = 192; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 11	H	CC	  33.00	    102.0600	Weinholz 	Benthic Foraminifers                         	               	                  	6                 	                   	10                      	                  	from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 12	H	 1	  70.00	    101.4000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	1                       	1                 	Total account = 150; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 12	H	 2	  70.00	    102.4300	Weinholz 	Benthic Foraminifers                         	               	                  	5                 	                   	4                       	1                 	Total account = 253; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 12	H	 3	  70.00	    103.9300	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	5                       	3                 	Total account = 185; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 12	H	 4	  70.00	    105.4300	Weinholz 	Benthic Foraminifers                         	               	                  	6                 	1                  	6                       	4                 	Total account = 233; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 12	H	 6	  70.00	    108.4300	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	4                       	2                 	Total account = 168; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 12	H	 8	  70.00	    111.4300	Weinholz 	Benthic Foraminifers                         	               	                  	8                 	1                  	1                       	1                 	from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 13	H	 1	  72.00	    110.9200	Weinholz 	Benthic Foraminifers                         	               	                  	5                 	                   	9                       	4                 	Total account = 220; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 13	H	 3	  72.00	    113.5100	Weinholz 	Benthic Foraminifers                         	               	                  	2                 	2                  	6                       	7                 	Total account = 232; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 13	H	 5	  56.00	    116.3500	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	1                  	3                       	1                 	Total account = 128; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 14	H	 1	  70.00	    120.4000	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	                        	                  	Total account = 197; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 14	H	 4	  67.00	    124.7400	Weinholz 	Benthic Foraminifers                         	               	                  	5                 	                   	3                       	2                 	Total account = 221; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 14	H	 6	  70.00	    127.7700	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	5                       	1                 	Total account = 122; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 15	H	 2	  72.00	    130.8800	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	                        	5                 	Total account = 164; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 15	H	 5	  75.00	    135.4100	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	2                       	2                 	Total account = 183; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 15	H	 7	  72.00	    138.3800	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	6                       	4                 	Total account = 111; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 16	H	 2	  70.00	    140.9000	Weinholz 	Benthic Foraminifers                         	               	                  	6                 	                   	1                       	                  	Total account = 206; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 16	H	 3	  70.00	    142.4000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	1                       	1                 	Total account = 152; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 16	H	 6	  70.00	    146.9000	Weinholz 	Benthic Foraminifers                         	               	                  	5                 	                   	7                       	2                 	Total account = 234; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 17	H	 1	  70.00	    148.9000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	9                       	1                 	Total account = 172; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 17	H	 3	  60.00	    151.8000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	7                       	                  	Total account = 172; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 17	H	 5	  70.00	    154.9000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	2                       	1                 	Total account = 160; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 19	X	 1	  70.00	    158.6000	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	3                       	2                 	Total account = 195; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 19	X	 5	  66.00	    164.5600	Weinholz 	Benthic Foraminifers                         	               	                  	3                 	                   	4                       	1                 	Total account = 92; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 19	X	 7	  66.00	    167.5600	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	2                       	                  	Total account = 266; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 20	X	 1	  61.00	    168.0100	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	4                       	3                 	Total account = 186; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 20	X	 3	  70.00	    171.1000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	2                       	10                	Total account = 216; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 20	X	 7	  70.00	    176.7500	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	                        	1                 	Total account = 198; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 21	X	 1	  70.00	    177.6000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	                        	4                 	Total account = 98; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 21	X	 4	  66.00	    181.5900	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	1                  	2                       	                  	Total account = 232; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 21	X	 8	  65.00	    187.4800	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	9                       	                  	Total account = 52; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 22	X	 3	  50.00	    189.9000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	1                       	3                 	Total account = 151; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 22	X	 5	  60.00	    193.0000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	1                  	3                       	                  	Total account = 214; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 22	X	 7	  56.00	    195.9600	Weinholz 	Benthic Foraminifers                         	               	                  	                  	2                  	7                       	2                 	Total account = 152; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 23	X	 1	  70.00	    196.6000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	1                  	1                       	                  	Total account = 229; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 23	X	 3	  61.00	    199.5100	Weinholz 	Benthic Foraminifers                         	               	                  	2                 	2                  	7                       	                  	Total account = 179; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 23	X	 9	  70.00	    206.5600	Weinholz 	Benthic Foraminifers                         	               	                  	                  	4                  	8                       	                  	Total account = 175; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 24	X	 3	  70.00	    207.9200	Weinholz 	Benthic Foraminifers                         	               	                  	                  	3                  	4                       	4                 	Total account = 134; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 24	X	 5	  63.00	    210.8500	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	4                       	                  	Total account = 49; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 24	X	 7	  83.00	    214.0500	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	                        	1                 	Total account = 130; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 25	X	 1	  70.00	    215.6000	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	                        	                  	Total account = 162; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 25	X	 3	  70.00	    218.6000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	2                  	                        	59                	Total account = 176; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 25	X	 6	  69.00	    223.0900	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	2                       	1                 	Total account = 242; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 26	X	 1	  46.00	    224.8600	Weinholz 	Benthic Foraminifers                         	               	                  	                  	1                  	3                       	3                 	Total account = 222; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 26	X	 4	  54.00	    228.6400	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	                        	2                 	Total account = 180; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 26	X	 7	  69.00	    233.2900	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	7                       	3                 	Total account = 118; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 27	X	 1	  70.00	    234.6000	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	2                       	1                 	Total account = 211; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 27	X	 4	  59.00	    238.7200	Weinholz 	Benthic Foraminifers                         	               	                  	                  	1                  	2                       	                  	Total account = 202; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 27	X	 7	  70.00	    242.8200	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	2                       	                  	Total account = 203; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 28	X	 2	  70.00	    245.6000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	1                       	                  	Total account = 209; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 28	X	 4	  70.00	    248.6000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	2                       	                  	Total account = 119; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 28	X	 6	  67.00	    251.5700	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	1                  	1                       	                  	Total account = 190; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 29	X	 3	  72.00	    255.4700	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	1                       	2                 	Total account = 187; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 29	X	 5	  72.00	    258.4700	Weinholz 	Benthic Foraminifers                         	               	                  	3                 	                   	1                       	2                 	Total account = 246; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 29	X	 7	  72.00	    261.4700	Weinholz 	Benthic Foraminifers                         	               	                  	11                	                   	2                       	1                 	Total account = 282; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 30	X	 1	  68.00	    263.0800	Weinholz 	Benthic Foraminifers                         	               	                  	1                 	                   	1                       	3                 	Total account = 253; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 30	X	 6	  70.00	    269.5000	Weinholz 	Benthic Foraminifers                         	               	                  	17                	                   	1                       	                  	Total account = 217; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 31	X	 3	  63.00	    275.5300	Weinholz 	Benthic Foraminifers                         	               	                  	14                	                   	2                       	2                 	Total account = 60; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 32	X	 1	  68.00	    282.0800	Weinholz 	Benthic Foraminifers                         	               	                  	                  	                   	1                       	                  	Total account = 200; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 33	X	 1	  70.00	    291.6000	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	                   	                        	                  	Total account = 217; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 33	X	 2	  70.00	    293.1000	Weinholz 	Benthic Foraminifers                         	               	                  	                  	1                  	                        	1                 	Total account = 256; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+
+  SR	                 	                 	                  	              	108	 658	A	 33	X	 4	  70.00	    296.1000	Weinholz 	Benthic Foraminifers                         	               	                  	4                 	1                  	1                       	2                 	Total account = 243; from ODP Leg 108 SR Chapter 7 Table 2 p 115-116
+

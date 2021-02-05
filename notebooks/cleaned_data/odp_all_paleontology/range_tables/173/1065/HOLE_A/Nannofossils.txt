@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Discoaster deflandrei	Cyclicargolithus floridanus	Cyclicargolithus abisectus	Coccolithus pelagicus	Comment
+
+
+
+  IR	                 	Early Miocene    	NN1               	NN2           	173	1065	A	  1	R	CC	  16.00	    257.1000	Wise     	Nannofossils                                 	A              	M                 	C                    	A                          	C                         	C                    	       
+

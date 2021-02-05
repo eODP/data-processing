@@ -1,0 +1,10 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Globigerinita glutinata	Globigerinella obesa	Globigerina quinqueloba	Globigerina bulloides	Comment
+
+
+
+  SR	                 	                 	                  	              	127	 795	B	 12	R	CC	  30.00	    477.4800	Brunner  	Planktonic Foraminifers                      	               	                  	                       	                    	                       	9                    	from ODP Leg 127&128 SR Chapter 12 Table 3 p 194-197
+
+  SR	                 	                 	                  	              	127	 795	B	 13	R	CC	  18.00	    485.1700	Brunner  	Planktonic Foraminifers                      	               	                  	                       	                    	                       	15                   	from ODP Leg 127&128 SR Chapter 12 Table 3 p 194-197
+
+  SR	                 	                 	                  	              	127	 795	B	 27	R	CC	  24.00	    623.4100	Brunner  	Planktonic Foraminifers                      	               	                  	19                     	5                   	1                      	53                   	from ODP Leg 127&128 SR Chapter 12 Table 3 p 194-197
+

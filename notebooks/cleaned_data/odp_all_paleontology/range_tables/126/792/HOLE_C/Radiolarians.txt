@@ -1,0 +1,6 @@
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group                                 	Group Abundance	Group Preservation	Lamprocyclas maritalis maritalis	Eucyrtidium sp.	Carpocanistrum (unspecified taxon or taxa)	Botryostrobus auritus/australis	Comment
+
+
+
+  SR	                 	                 	                  	              	126	 792	C	  1	X	CC	  54.00	    137.3400	Aitchison	Radiolarians                                 	C              	G                 	R                               	R              	R                                         	F                              	from ODP Leg 126 SR Ch 21 Table 9 p 327
+
