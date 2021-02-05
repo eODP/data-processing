@@ -326,24 +326,38 @@ class TestCreateSampleName:
 
 class TestGetExpeditionFromCsv:
     def test_returns_expedition_from_Label_ID(self):
-        df = pd.DataFrame({"Label ID": ["123-U4567A-1H-1-A"]})
+        df = pd.DataFrame({"Label ID": ["123-U4567A-1H-1-A", "123-U4567A-1H-1-B"]})
 
         assert get_expedition_from_csv(df) == "123"
 
     def test_returns_expedition_from_Sample(self):
-        df = pd.DataFrame({"Sample": ["123-U4567A-1H-1-A"]})
+        df = pd.DataFrame({"Sample": ["123-U4567A-1H-1-A", "123-U4567A-1H-1-B"]})
 
         assert get_expedition_from_csv(df) == "123"
 
     def test_returns_expedition_from_Exp(self):
-        df = pd.DataFrame({"Exp": ["123-U4567A-1H-1-A"]})
+        df = pd.DataFrame({"Exp": [123, 123]})
 
-        assert get_expedition_from_csv(df) == "123"
+        assert get_expedition_from_csv(df) == 123
 
     def test_otherwise_raise_error(self):
         df = pd.DataFrame({"foo": ["123-U4567A-1H-1-A"]})
 
         message = "File does not expedition info."
+        with pytest.raises(ValueError, match=message):
+            get_expedition_from_csv(df)
+
+    def test_raise_error_if_multiple_string_expedition_in_file(self):
+        df = pd.DataFrame({"Sample": ["123-U4567A-1H-1-A", "567-U4567A-1H-1-A"]})
+
+        message = "File has multiple expeditions."
+        with pytest.raises(ValueError, match=message):
+            get_expedition_from_csv(df)
+
+    def test_raise_error_if_multiple_expedition_in_file(self):
+        df = pd.DataFrame({"Exp": [123, 456]})
+
+        message = "File has multiple expeditions."
         with pytest.raises(ValueError, match=message):
             get_expedition_from_csv(df)
 
