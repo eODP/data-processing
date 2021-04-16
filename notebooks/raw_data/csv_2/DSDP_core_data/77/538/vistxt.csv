@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+77,538,,1,1,0.0,150.0,0.00,0.00,1.50,COT, NANNOFOSSIL OOZE," LIGHT GRAY,WHITE", MOTTLING,,,,,, SOFT, 00000000
+77,538,,1,2,0.0,150.0,0.00,1.50,3.00,COT, NANNOFOSSIL OOZE," WHITE,LIGHT GRAY,PALE BLUE GREEN", MOTTLING, MODERATELY DISTURBED,,,,, SOFT, 00000000
+77,538,,1,3,0.0,150.0,0.00,3.00,4.50,COT, NANNOFOSSIL OOZE," WHITE,LIGHT GRAY,PALE BLUE GREEN"," BANDING, D MODERATELY DISTURBED",,,,,, SOFT, 00000000
+77,538,,1,4,0.0,56.0,0.00,4.50,5.06,COT, NANNOFOSSIL OOZE," LIGHT GRAY,WHITE,PALE BLUE GREEN",,,,,,, SOFT, 00000000
+77,538,,1,CC,0.0,18.0,0.00,5.16,5.24,COT, NANNOFOSSIL OOZE," LIGHT GRAY,WHITE,PALE BLUE GREEN",,,,,,, SOFT, 00000000

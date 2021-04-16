@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+63,470,A,4,3,46.0,48.0,76.00,79.47, 1,BARRON,09/1981,63,SILICOFLAGELLATES,COMMON,,,MODERATE,NO AGE GIVEN,517,SDIST0540,Distephanus speculum pseudofibula,RARE,  ,1
+63,470,A,4,CC,,,76.00,85.80, 1,BARRON,09/1981,63,SILICOFLAGELLATES,COMMON,,,MODERATE,NO AGE GIVEN,517,SDIST0540,Distephanus speculum pseudofibula,RARE,  ,1
+63,470,A,5,1,40.0,42.0,85.50,85.91, 1,BARRON,09/1981,63,SILICOFLAGELLATES,ABUNDANT,,,MODERATE,NO AGE GIVEN,517,SDIST0540,Distephanus speculum pseudofibula,RARE,  ,1
+63,470,A,5,CC,,,85.50,86.80, 1,BARRON,09/1981,63,SILICOFLAGELLATES,COMMON,,,MODERATE,NO AGE GIVEN,517,SDIST0540,Distephanus speculum pseudofibula,RARE,  ,1

@@ -1,0 +1,11 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,FEW,  ,1
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,FEW,  ,1
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RLITX0010,Lithopera bacca,FEW,  ,1
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1
+6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,COMMON,  ,1
+6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,RARE,  ,1
+6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1
+6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,COMMON,  ,1
+6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,RARE,  ,1
+6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1

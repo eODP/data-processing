@@ -1,0 +1,17 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NARKH0050,Arkhangelskiella erratica,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NCOST0010,Costacentrum horticum,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NCRET0050,Cretarhabdus crenulatus,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NCRET0065,Cretarhabdus decussatus,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NEIFF0060,Eiffellithus turriseiffeli,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NPARH0095,Parhabdolithus sp.,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NPODO0030,Podorhabdus dietzmannii,PRESENT,  ,1
+1,5,A,3,CC,0.0,0.0,145.10,145.20, 8,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NSCAP0020,Scapholithus fossilis,PRESENT,  ,1
+1,5,A,4,1,24.0,24.0,184.70,184.94, 3,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NBISC0010,Biscutum blackii,PRESENT,  ,1
+1,5,A,4,1,24.0,24.0,184.70,184.94, 3,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NCORO0070,Corollithion sp.,PRESENT,  ,1
+1,5,A,4,1,24.0,24.0,184.70,184.94, 3,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NZYGO0070,Zygodiscus elegans,PRESENT,  ,1
+1,5,A,7,CC,0.0,0.0,274.30,274.40, 5,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NBIDI0020,Bidiscus sp.,PRESENT,  ,1
+1,5,A,7,CC,0.0,0.0,274.30,274.40, 5,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NCRET0055,Cretarhabdus crenulatus (q),PRESENT,  ,1
+1,5,A,7,CC,0.0,0.0,274.30,274.40, 5,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NRUCI0012,Rucinolithus hayi (q),PRESENT,  ,1
+1,5,A,7,CC,0.0,0.0,274.30,274.40, 5,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NSTEP0040,Stephanolithion sp.,PRESENT,  ,1
+1,5,A,7,CC,0.0,0.0,274.30,274.40, 5,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,378,NZYGO0250,Zygodiscus theta (q),PRESENT,  ,1

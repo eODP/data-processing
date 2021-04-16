@@ -1,0 +1,38 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Gephyrocapsa oceanica s.l.,Emiliania huxleyi,Helicosphaera carteri,Gephyrocapsa large,Gephyrocapsa (small),Coccolithus pelagicus,Comment
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  1,H,CC,  15.00,      7.0200,Fornaciari,Nannofossils                                 ,A              ,G                 ,C                         ,A                ,+                    ,F/C               ,A                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  2,H,CC,  33.00,     17.2200,Fornaciari,Nannofossils                                 ,R              ,M/G               ,R                         ,+                ,R                    ,                  ,C                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  3,H,CC,  31.00,     26.9900,Fornaciari,Nannofossils                                 ,RR             ,G                 ,+                         ,+                ,                     ,                  ,+                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,                  ,              ,167,1015,A,  4,H,CC,   9.00,     34.5400,Fornaciari,Nannofossils                                 ,RR             ,P/M               ,RR                        ,                 ,                     ,                  ,                    ,R                    ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  5,H,CC,  31.00,     45.5600,Fornaciari,Nannofossils                                 ,F              ,M/G               ,+                         ,+                ,                     ,                  ,+                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  6,H,CC,  91.00,     55.2900,Fornaciari,Nannofossils                                 ,R              ,G                 ,+                         ,+                ,                     ,                  ,+                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  7,H,CC,   9.00,     61.7700,Fornaciari,Nannofossils                                 ,RR             ,M/G               ,                          ,+                ,+                    ,                  ,+                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  8,H,CC,  12.00,     72.8900,Fornaciari,Nannofossils                                 ,F              ,M                 ,                          ,C                ,+                    ,                  ,C                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  9,H, 1,   0.00,     73.5000,Fornaciari,Nannofossils                                 ,F              ,M/G               ,+                         ,C                ,                     ,                  ,C                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A,  9,H,CC, 146.00,     84.2500,Fornaciari,Nannofossils                                 ,C              ,G                 ,+                         ,C                ,                     ,                  ,C                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,                  ,              ,167,1015,A, 10,H,CC,  10.00,     88.9500,Fornaciari,Nannofossils                                 ,RR             ,P                 ,+                         ,                 ,                     ,                  ,                    ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A, 11,H,CC,  13.00,     96.5000,Fornaciari,Nannofossils                                 ,F/C            ,M/G               ,+                         ,+                ,                     ,                  ,+                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A, 12,H,CC,  10.00,    110.9000,Fornaciari,Nannofossils                                 ,F              ,G                 ,+                         ,+                ,                     ,                  ,+                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A, 13,H,CC,  16.00,    121.3400,Fornaciari,Nannofossils                                 ,RR             ,G                 ,                          ,+                ,                     ,                  ,                    ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A, 14,H,CC,  47.00,    129.2300,Fornaciari,Nannofossils                                 ,RR             ,P                 ,+                         ,+                ,                     ,                  ,                    ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A, 15,H,CC,  15.00,    138.6400,Fornaciari,Nannofossils                                 ,A              ,G                 ,+                         ,C                ,R                    ,C                 ,A                   ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,CN15              ,              ,167,1015,A, 16,H,CC,   0.00,    149.7800,Fornaciari,Nannofossils                                 ,R              ,G                 ,+                         ,+                ,                     ,                  ,                    ,                     ,from IR. Ch 9. Table 4.
+,,,,,,,,,,,,,,,,,,,,,,,

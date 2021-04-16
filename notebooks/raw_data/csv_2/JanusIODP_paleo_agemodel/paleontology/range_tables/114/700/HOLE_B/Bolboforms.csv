@@ -1,0 +1,22 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Bolboforma indistincta,Bolboforma eocena,Bolboforma sp. B,Bolboforma geomari,Bolboforma lamari,Comment
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. eocena         ,              ,114, 700,B,  3,R, 1,  44.00,     26.8400,Spiegler ,Bolboforms                                   ,               ,                  ,R                     ,A                ,                ,                  ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. eocena         ,              ,114, 700,B,  3,R,CC,   5.00,     27.9500,Spiegler ,Bolboforms                                   ,               ,                  ,R                     ,A                ,R               ,                  ,R                ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. eocena         ,              ,114, 700,B,  4,R, 1,  59.00,     36.4900,Spiegler ,Bolboforms                                   ,               ,                  ,                      ,A                ,                ,R                 ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. eocena         ,              ,114, 700,B,  4,R,CC,   0.00,     37.6100,Spiegler ,Bolboforms                                   ,               ,                  ,C                     ,R                ,R               ,R                 ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. eocena         ,              ,114, 700,B,  5,R, 1, 105.00,     46.4500,Spiegler ,Bolboforms                                   ,               ,                  ,R                     ,R                ,                ,                  ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. eocena         ,              ,114, 700,B,  5,R, 2,  36.00,     47.2600,Spiegler ,Bolboforms                                   ,               ,                  ,F                     ,R                ,                ,                  ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. indistincta    ,              ,114, 700,B,  6,R, 5,  75.00,     61.6500,Spiegler ,Bolboforms                                   ,               ,                  ,R                     ,                 ,                ,                  ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. indistincta    ,              ,114, 700,B,  6,R, 6,  75.00,     63.1500,Spiegler ,Bolboforms                                   ,               ,                  ,R                     ,                 ,                ,                  ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. indistincta    ,              ,114, 700,B,  6,R,CC,  10.00,     64.0000,Spiegler ,Bolboforms                                   ,               ,                  ,R                     ,                 ,                ,                  ,                 ,from ODP Leg 114 SR Chapter 18 Table 3 p.328
+,,,,,,,,,,,,,,,,,,,,,,

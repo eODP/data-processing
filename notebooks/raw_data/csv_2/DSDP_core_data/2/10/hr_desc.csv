@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+2,10,,19,1,33.0,450.50,450.83,  451.44,"VON DER BORCH, C.",NANNOFOSSIL CHALK OOZE,PCE NO PCE NUMBERS ASSIGNED,,,,,,,,,,
+2,10,,19,1,94.0,450.50,451.44,  452.00,"VON DER BORCH, C.",BASALT,PCE NO PCE NUMBERS ASSIGNED,"COARSE-GRAINED, THIN LAYER OF GLASS AT TOP",DENSE AT BOTTOM,comments: ALTERED,"4MM DARK BROWN BLACK GLASS AT CONTACT, SOME ""MARBLE"" ADHERING", comments : VESICULAR AT  TOP,,,,,
+2,10,,20,1,0.0,456.70,456.70,  458.20,"VON DER BORCH, C.",BASALT,PCE NO PCE NUMBERS ASSIGNED,DOLERITIC TEXTURE,SOME CALCITE VEINS PRESENT,,"VERY DARK GRAY (5Y 3/1), VERY SIMILAR TO CORE 19-1",,,,,,
+2,10,,20,2,81.0,456.70,459.01,  459.70,"VON DER BORCH, C.",BASALT,PCE NO PCE NUMBERS ASSIGNED,DOLERITIC TEXTURE,SOME CALCITE VEINS PRESENT,,"VERY DARK GRAY (5Y 3/1), VERY SIMILAR TO CORE 19-1 AND 20-1",,,,CALCITE comments :  IN VEINS,,

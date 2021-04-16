@@ -1,0 +1,25 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+31,302,,1,CC,0.0,0.0,0.00,0.10, 3,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NCOCO0300,Coccolithus pelagicus,RARE,  ,1
+31,302,,1,CC,0.0,0.0,0.00,0.10, 3,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NEMIL0030,Emiliania ovata,RARE,  ,1
+31,302,,1,CC,0.0,0.0,0.00,0.10, 3,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NGEPH0060,Gephyrocapsa oceanica,RARE,  ,1
+31,302,,2,CC,0.0,0.0,19.00,28.10, 2,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NCOCO0300,Coccolithus pelagicus,RARE,  ,1
+31,302,,2,CC,0.0,0.0,19.00,28.10, 2,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NEMIL0010,Emiliania annula,RARE,  ,1
+31,302,,3,2,36.0,37.0,38.00,40.37, 2,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCOCO0300,Coccolithus pelagicus,RARE,  ,1
+31,302,,3,2,36.0,37.0,38.00,40.37, 2,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCYCO0080,Cyclococcolithina leptopora,RARE,  ,1
+31,302,,3,4,50.0,51.0,38.00,43.51, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NCOCO0300,Coccolithus pelagicus,ABUNDANT,  ,1
+31,302,,3,4,50.0,51.0,38.00,43.51, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NCYCO0080,Cyclococcolithina leptopora,FEW,  ,1
+31,302,,3,4,50.0,51.0,38.00,43.51, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NEMIL0030,Emiliania ovata,FEW,  ,1
+31,302,,3,4,50.0,51.0,38.00,43.51, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NGEPH0010,Gephyrocapsa aperta,ABUNDANT,  ,1
+31,302,,3,4,50.0,51.0,38.00,43.51, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NGEPH0030,Gephyrocapsa doronicoides,COMMON,  ,1
+31,302,,3,4,50.0,51.0,38.00,43.51, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NGEPH0060,Gephyrocapsa oceanica,FEW,  ,1
+31,302,,3,CC,0.0,0.0,38.00,47.60, 2,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCERO0050,Ceratolithus cristatus,RARE,  ,1
+31,302,,3,CC,0.0,0.0,38.00,47.60, 2,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NRETI0180,Reticulofenestra pseudoumbilica,RARE,  ,1
+31,302,,4,2,70.0,71.0,57.00,59.21, 1,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NGEPH0030,Gephyrocapsa doronicoides,RARE,  ,1
+31,302,,5,CC,0.0,0.0,76.00,83.60, 1,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NRETI0180,Reticulofenestra pseudoumbilica,RARE,  ,1
+31,302,,10,CC,0.0,0.0,171.00,180.60, 3,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCYCI0010,Cyclicargolithus abisectus,RARE,  ,1
+31,302,,10,CC,0.0,0.0,171.00,180.60, 3,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCYCO0080,Cyclococcolithina leptopora,RARE,  ,1
+31,302,,10,CC,0.0,0.0,171.00,180.60, 3,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NSPHN0050,Sphenolithus ciperoensis,,  ,1
+31,302,,11,CC,0.0,0.0,190.00,197.60, 1,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,MODERATE,NO AGE GIVEN,675,NCYCO0080,Cyclococcolithina leptopora,RARE,  ,1
+31,302,,14,CC,0.0,0.0,247.00,254.60, 1,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCYCI0010,Cyclicargolithus abisectus,RARE,  ,1
+31,302,,16,CC,0.0,0.0,351.50,353.10, 1,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NDISC0125,Discoaster deflandrei,RARE,  ,1
+31,302,,17,2,70.0,71.0,456.00,458.21, 1,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,675,NCYCI0010,Cyclicargolithus abisectus,RARE,  ,1

@@ -1,0 +1,4 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+89,586,C,1,1,0.0,142.0,608.40,608.40,609.82,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+89,586,C,1,2,0.0,65.0,608.40,609.90,610.55,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210.1221
+89,586,C,1,CC,0.0,14.0,608.40,610.65,610.69,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210.1221

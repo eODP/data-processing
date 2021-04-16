@@ -1,0 +1,10 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+2,9,A,2,CC,0.0,0.0,758.20,759.80, 6,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NCRIR0010,Cribrosphaera linea,PRESENT,  ,1
+2,9,A,2,CC,0.0,0.0,758.20,759.80, 6,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NMICU0010,Micula decussata,PRESENT,  ,1
+2,9,A,2,CC,0.0,0.0,758.20,759.80, 6,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NPRED0020,Prediscosphaera cretacea,PRESENT,  ,1
+2,9,A,2,CC,0.0,0.0,758.20,759.80, 6,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NTETR0010,Tetralithus aculeus,PRESENT,  ,1
+2,9,A,2,CC,0.0,0.0,758.20,759.80, 6,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NTETR0062,Tetralithus murus (q),PRESENT,  ,1
+2,9,A,2,CC,0.0,0.0,758.20,759.80, 6,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NTETR0130,Tetralithus pyramidus,PRESENT,  ,1
+2,9,A,3,2,135.0,135.0,764.90,767.75, 3,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NMICU0010,Micula decussata,PRESENT,  ,1
+2,9,A,3,2,135.0,135.0,764.90,767.75, 3,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NTETR0010,Tetralithus aculeus,PRESENT,  ,1
+2,9,A,3,2,135.0,135.0,764.90,767.75, 3,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,350,NWATZ0020,Watznaueria barnesae,PRESENT,  ,1

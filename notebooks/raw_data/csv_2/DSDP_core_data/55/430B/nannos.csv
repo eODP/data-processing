@@ -1,0 +1,23 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NCOCO0300,Coccolithus pelagicus,17%,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NCYCC0100,Cyclococcolithus leptoporus,27%,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NCYCC0130,Cyclococcolithus macintyrei,03%,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NCYCI0040,Cyclicargolithus floridanus,TRACE,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NDISC0437,Discoaster sp.,TRACE,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NDISL0070,Discolithina japonica,01%,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NELLP0010,Ellipsodiscoaster lidzii,01%,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NEMIL0020,Emiliania huxleyi,04%,  ,1
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NGEPH0020,Gephyrocapsa caribbeanica,TRACE,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NGEPH0030,Gephyrocapsa doronicoides,06%,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NGEPH0060,Gephyrocapsa oceanica,22%,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NHELI0100,Helicopontosphaera kamptneri,07%,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NHELI0200,Helicopontosphaera sellii,TRACE,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NRETI0180,Reticulofenestra pseudoumbilica,02%,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NRETI0232,Reticulofenestra sp. (q),06%,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NSPHN0140,Sphenolithus moriformis,TRACE,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NSYRA0070,Syracosphaera pulchra,02%,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NTHOR0030,Thoracosphaera heimii,PRESENT,  ,2
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NTOWE0030,Toweius craticulus,01%,  ,3
+55,430,B,1,1,0.0,0.0,0.00,0.00,22,"TAKAYAMA,T.",09/1980,55,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,354,NUMBI0030,Umbilicosphaera mirabilis,01%,  ,3

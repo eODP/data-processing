@@ -1,0 +1,11 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+87,583,E,1,1,0.0,30.0,150.40,150.40,150.70,CLS, SILTY MUD,,,,,,,, SOFT, 00000000
+87,583,E,1,CC,0.0,15.0,150.40,150.80,150.85,CLS, MUD,,,,,,,, SOFT, 00000000
+87,583,E,5,1,0.0,50.0,189.00,189.00,189.50,COUL," MUD,SAND",,,,,,,, SOFT, 33213000
+87,583,E,5,CC,0.0,10.0,189.00,189.60,189.60,COUL, SAND,,,,,,,, SOFT, 33213000
+87,583,E,H1,1,0.0,150.0,0.00,0.00,1.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 33213000
+87,583,E,H1,2,0.0,150.0,0.00,1.50,3.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000
+87,583,E,H1,3,0.0,150.0,0.00,3.00,4.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000
+87,583,E,H1,4,0.0,150.0,0.00,4.50,6.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000
+87,583,E,H1,5,0.0,150.0,0.00,6.00,7.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000
+87,583,E,H1,6,0.0,150.0,0.00,7.50,9.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000

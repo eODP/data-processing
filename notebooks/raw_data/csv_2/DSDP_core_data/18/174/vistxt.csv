@@ -1,0 +1,10 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+18,174,,1,1,25.0,70.0,0.00,0.25,0.70,, MUD, 5Y3/2-OLIVE GRAY,, INTENSELY DISTURBED,,,,,, 33213000
+18,174,,1,1,70.0,80.0,0.00,0.70,0.80,, FINE SAND,,, DISTURBED,,,,,, 33214000
+18,174,,1,1,80.0,115.0,0.00,0.80,1.15,, MUD, 5Y3/2-OLIVE GRAY,, INTENSELY DISTURBED,,,,,, 33213000
+18,174,,1,1,115.0,120.0,0.00,1.15,1.20,, FINE SAND,, SUB ANGULAR, INTENSELY DISTURBED,,,, WE LL SORTED,, 00000000
+18,174,,1,1,120.0,150.0,0.00,1.20,1.50,, MUD, 5Y3/2-OLIVE GRAY,, INTENSELY DISTURBED,,,,,, 00000000
+18,174,,1,CC,0.0,0.0,0.00,1.60,1.60,," VERY FINE SAND,MUD", 5Y3/2-OLIVE GRAY, SAND VERY ANGULAR,,,,, WELL SORTED,, 00000000
+18,174,,2,1,0.0,150.0,2.00,2.00,3.50,, FINE TO MEDIUM SAND,, SUB ANGULAR," INTENSELY DIST URBED,SAND FLOWED IN BARREL",,,, MODERATELY SORTED,, 00000000
+18,174,,2,CC,0.0,0.0,2.00,3.60,3.60,, FINE SAND,, SUB ANGULAR,,,,,,, 00000000
+18,174,,3,CC,0.0,0.0,9.50,9.60,9.60,, FINE SAND,,,,,,,,, 00000000

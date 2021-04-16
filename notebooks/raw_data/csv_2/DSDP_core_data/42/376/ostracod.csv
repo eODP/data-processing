@@ -1,0 +1,20 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+42,376,,1,2,100.0,106.0,0.00,2.53, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OBYTO0015,Bythocypris lucida,50%,  ,1
+42,376,,1,2,100.0,106.0,0.00,2.53, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTP0010,Cytheropteron sp.,50%,  ,1
+42,376,,2,4,90.0,92.0,7.50,12.91, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OPSEO0020,Pseudocythere caudauta,25%,  ,1
+42,376,,2,4,90.0,92.0,7.50,12.91, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,75%,  ,1
+42,376,,3,2,130.0,132.0,17.00,19.81, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,99%,  ,1
+42,376,,5,4,54.0,62.0,36.00,41.08, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,80%,  ,1
+42,376,,5,4,54.0,62.0,36.00,41.08, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OPAIJ0010,Paijenborchella cymbula,20%,  ,1
+42,376,,5,5,70.0,80.0,36.00,42.75, 3,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,25%,  ,1
+42,376,,5,5,70.0,80.0,36.00,42.75, 3,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OOBIT0010,Oblitacythereis mediterranea,25%,  ,1
+42,376,,5,5,70.0,80.0,36.00,42.75, 3,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,50%,  ,1
+42,376,,7,1,44.0,58.0,55.00,55.51, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,8,CC,0.0,0.0,64.50,69.10, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,9,2,120.0,122.0,74.00,76.71, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,9,3,88.0,94.0,74.00,77.91, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,9,3,138.0,140.0,74.00,78.39, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,9,CC,0.0,0.0,74.00,80.10, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,11,CC,0.0,0.0,93.00,97.60, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,12,5,10.0,16.0,102.50,108.63, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1
+42,376,,13,3,72.0,78.0,112.00,115.75, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,99%,  ,1

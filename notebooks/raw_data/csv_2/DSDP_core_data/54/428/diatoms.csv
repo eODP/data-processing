@@ -1,0 +1,20 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+54,428,,2,3,74.0,76.0,29.00,32.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,2,3,74.0,76.0,29.00,32.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,27%,  ,1
+54,428,,3,1,74.0,76.0,38.50,39.25, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,3,1,74.0,76.0,38.50,39.25, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,01%,  ,1
+54,428,,3,3,74.0,76.0,38.50,42.25, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,3,3,74.0,76.0,38.50,42.25, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,15%,  ,1
+54,428,,3,5,74.0,76.0,38.50,45.25, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1
+54,428,,3,5,74.0,76.0,38.50,45.25, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DMELO0070,Melosira granulata,1%,  ,1
+54,428,,3,5,74.0,76.0,38.50,45.25, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,06%,  ,1
+54,428,,4,1,74.0,76.0,48.00,48.75, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,4,1,74.0,76.0,48.00,48.75, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DMELO0070,Melosira granulata,1%,  ,1
+54,428,,4,1,74.0,76.0,48.00,48.75, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,06%,  ,1
+54,428,,4,3,74.0,76.0,48.00,51.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,4,3,74.0,76.0,48.00,51.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,10%,  ,1
+54,428,,4,5,74.0,76.0,48.00,54.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,4,5,74.0,76.0,48.00,54.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,13%,  ,1
+54,428,,5,1,74.0,76.0,57.50,58.25, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,428,,5,1,74.0,76.0,57.50,58.25, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DMELO0070,Melosira granulata,1%,  ,1
+54,428,,5,1,74.0,76.0,57.50,58.25, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,01%,  ,1

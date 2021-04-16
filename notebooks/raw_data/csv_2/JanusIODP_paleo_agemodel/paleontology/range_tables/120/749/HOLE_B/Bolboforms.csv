@@ -1,0 +1,34 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Bolboforma geomari,Bolboforma lamari,Bolboforma antarctica,Bolboforma sp. B,Bolboforma latdorfensis,Bolboforma spinosa,Comment
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Early Oligocene  ,                 ,B. latdorfen.(M&S92),              ,120, 749,B,  2,H, 5,  72.00,     12.5200,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,                     ,                ,F                      ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Early Oligocene  ,                 ,B. latdorfen.(M&S92),              ,120, 749,B,  2,H,CC,  18.00,     15.2100,Mackensen,Bolboforms                                   ,               ,                  ,                  ,C                ,R                    ,                ,R                      ,R                 ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Early Oligocene  ,                 ,B. latdorfen.(M&S92),              ,120, 749,B,  3,H, 2,  72.00,     17.5200,Mackensen,Bolboforms                                   ,               ,                  ,                  ,F                ,                     ,R               ,C                      ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Late Eocene      ,                 ,B. geomari(M&S92) ,              ,120, 749,B,  3,H, 5,  72.00,     22.0200,Mackensen,Bolboforms                                   ,               ,                  ,R                 ,F                ,R                    ,R               ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Late Eocene      ,                 ,B. geomari(M&S92) ,              ,120, 749,B,  3,H,CC,  10.00,     24.9900,Mackensen,Bolboforms                                   ,               ,                  ,R                 ,A                ,                     ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Late Eocene      ,                 ,B. geomari(M&S92) ,              ,120, 749,B,  4,H, 2,  72.00,     27.0200,Mackensen,Bolboforms                                   ,               ,                  ,R                 ,C                ,F                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Late Eocene      ,                 ,B. geomari(M&S92) ,              ,120, 749,B,  4,H, 5,  72.00,     31.5200,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,F                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Late Eocene      ,                 ,B. geomari(M&S92) ,              ,120, 749,B,  4,H,CC,  18.00,     34.4100,Mackensen,Bolboforms                                   ,               ,                  ,                  ,C                ,F                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. antarctica     ,              ,120, 749,B,  5,H, 2,  72.00,     36.5200,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,R                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. antarctica     ,              ,120, 749,B,  5,H, 5,  72.00,     41.0200,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,F                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. antarctica     ,              ,120, 749,B,  5,H,CC,  21.00,     43.8500,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,A                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. antarctica     ,              ,120, 749,B,  6,X,CC,  17.00,     44.1100,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,A                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,B. antarctica     ,              ,120, 749,B,  7,X,CC,  29.00,     53.9200,Mackensen,Bolboforms                                   ,               ,                  ,                  ,                 ,A                    ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,                  ,              ,120, 749,B,  9,X, 4, 134.00,     78.1400,Mackensen,Bolboforms                                   ,               ,                  ,R                 ,C                ,                     ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Middle Eocene    ,                 ,                  ,              ,120, 749,B, 10,X, 1,  72.00,     82.5200,Mackensen,Bolboforms                                   ,               ,                  ,R                 ,                 ,                     ,                ,                       ,                  ,from ODP Leg 120 SR Vol 2 Chapter 37 Fig 3 p 678
+,,,,,,,,,,,,,,,,,,,,,,,

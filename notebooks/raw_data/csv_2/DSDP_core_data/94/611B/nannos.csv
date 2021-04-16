@@ -1,0 +1,14 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCALD0010,Calcidiscus leptoporus,COMMON,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCOCO0060,Coccolithus crassus,PRESENT,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCOCO0300,Coccolithus pelagicus,RARE,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0010,Gephyrocapsa aperta,COMMON,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0020,Gephyrocapsa caribbeanica,FEW,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0060,Gephyrocapsa oceanica,FEW,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0075,Gephyrocapsa parallela,PRESENT,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0095,Gephyrocapsa sinuosa,RARE,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NHELC0020,Helicosphaera carteri,PRESENT,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NHELC0072,Helicosphaera inversa,RARE,  ,1
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NOOLI0010,Oolithotus antillarum,PRESENT,  ,2
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NRHAO0010,Rhabdosphaera clavigera,RARE,  ,2
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NSYRA0070,Syracosphaera pulchra,FEW,  ,2

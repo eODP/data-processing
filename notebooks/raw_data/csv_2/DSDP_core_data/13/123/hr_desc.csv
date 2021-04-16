@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+13,123,,6,2,0.0,267.00,268.50,  270.00,"NESTEROFF, W. D.",TEPHRA,PCE NO PCE NUMBERS ASSIGNED,,"TOP 10CM UNCONSOLIDATED, BELOW MORE OR LESS INDURATE TO MOBILE, FRACTURED BY DRILLING",EXTENSIVELY ALTERED LOR IS DARK GREENISH GRAY (5G 4/1),,,,,,,
+13,123,,6,3,0.0,267.00,270.00,  271.50,"NESTEROFF, W. D.",TEPHRASAME AS CORE 6-2,,,,,,,,,,,
+13,123,,6,CC,0.0,267.00,271.60,  271.60,"NESTEROFF, W. D.",TEPHRA,PCE NO PCE NUMBERS ASSIGNED,,,,VERY SIMILAR CORE 6-2,,,,,,
+13,123,,8,1,30.0,389.00,389.30,  390.50,"NESTEROFF, W. D.",TEPHRA,PCE NO PCE NUMBERS ASSIGNED,,"TOP 10CM UNCONSOLIDATED, BELOW MORE OR LESS INDURATE TO MOBILE, FRACTURED BY DRILLING",EXTENSIVELY ALTERED LOR IS DARK GREENISH GRAY (5G 4/1),,,,,,,
+13,123,,8,CC,0.0,389.00,390.60,  390.60,"NESTEROFF, W. D.",TEPHRA,PCE NO PCE NUMBERS ASSIGNED,,,,VERY SIMILAR CORE 8-1,,,,,,

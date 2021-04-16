@@ -1,0 +1,5 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+75,530,B,HOLOCENE,UPPER PLEISTOCENE,0.0,27.8,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,    0,  0.7, 0.35,DSDP INITIAL REPORTS
+75,530,B,LOWER PLEISTOCENE,,27.8,99.8,,NO AGE GIVEN,,NO AGE GIVEN,  1.2,  1.8,  1.5,DSDP INITIAL REPORTS
+75,530,B,PLEISTOCENE,PLIOCENE,99.8,116.2,A LEGITIMATE AGE INVERSION,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,0.011,    5,2.506,DSDP INITIAL REPORTS
+75,530,B,PLIOCENE,UPPER MIOCENE,118.2,180.6,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  1.8, 10.5, 6.15,DSDP INITIAL REPORTS

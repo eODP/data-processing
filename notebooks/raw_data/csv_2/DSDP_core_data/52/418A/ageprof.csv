@@ -1,0 +1,5 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+52,418,A,MIDDLE EOCENE,,158.5,177.5,,NO AGE GIVEN,,NO AGE GIVEN,   43,   49,   46,DSDP INITIAL REPORTS
+52,418,A,CENOMANIAN,ALBIAN,272.5,282.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,   92,  108,  100,DSDP INITIAL REPORTS
+52,418,A,LOWER ALBIAN,UPPER APTIAN,291.5,320.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  106,  112,  109,DSDP INITIAL REPORTS
+52,418,A,LOWER APTIAN,,320.0,320.2,,NO AGE GIVEN,,NO AGE GIVEN,  112,  115,113.5,DSDP INITIAL REPORTS

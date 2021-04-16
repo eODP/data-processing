@@ -1,0 +1,16 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+56,434,B,3,CC,7.0,9.0,305.00,309.58, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1
+56,434,B,4,2,111.0,113.0,314.50,317.12, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1
+56,434,B,6,CC,,,333.50,333.60, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BGLOB0050,Globobulimina ovula,99%,  ,1
+56,434,B,10,3,14.0,16.0,371.50,374.65, 4,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BCIBI0310,Cibicides wuellerstorfi,20%,  ,1
+56,434,B,10,3,14.0,16.0,371.50,374.65, 4,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BEPIT0040,Epistominella pacifica,40%,  ,1
+56,434,B,10,3,14.0,16.0,371.50,374.65, 4,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BPLET0010,Plectofrondicularia advena,20%,  ,1
+56,434,B,10,3,14.0,16.0,371.50,374.65, 4,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BPYRG0010,Pyrgo sp.,20%,  ,1
+56,434,B,10,5,22.0,24.0,371.50,377.73, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1
+56,434,B,10,6,22.0,24.0,371.50,379.23, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BQUIN0010,Quinqueloculina sp.,99%,  ,1
+56,434,B,10,CC,,,371.50,380.06, 2,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BAMMS0011,Ammomassilina alveoliniformis (q),50%,  ,1
+56,434,B,10,CC,,,371.50,380.06, 2,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BBULI0010,Bulimina sp.,50%,  ,1
+56,434,B,11,1,64.0,66.0,381.00,381.65, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1
+56,434,B,17,1,63.0,65.0,438.00,438.64, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1
+56,434,B,25,CC,,,514.00,518.38, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1
+56,434,B,34,2,26.0,28.0,599.50,601.27, 1,"THOMPSON,P.R.",11/1980,56,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,784,BMART0020,Martinottiella communis,99%,  ,1

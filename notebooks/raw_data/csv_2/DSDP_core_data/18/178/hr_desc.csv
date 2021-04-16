@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+18,178,,58,1,20.0,777.50,777.70,  777.80,"DUNCAN, J. R.",CLAY SHALE,,,,,,,,,,,
+18,178,,58,1,30.0,777.50,777.80,  779.00,"DUNCAN, J. R.",BASALT,PCE NO PCE NUMBERS ASSIGNED,FINE-GRAINED HOLOXTLINE,,FRESH,"DARK GRAY, IN CONTACT AT TOP WITH CLAY, FOR MORE INFORMATION REFER TO THE SITE 178 CHAPTER OF THE INITIAL REPORTS",,,,,,
+18,178,,58,CC,0.0,777.50,779.10,  779.10,"DUNCAN, J. R.",BASALTSAME AS SECTION 58-1,PCE NO PCE NUMBER ASSIGNED,,,,,,,,,,
+18,178,,59,1,0.0,787.00,787.00,  788.50,"DUNCAN, J. R.",BASALTSAME AS SECTION 58-1,PCE NO PCE NUMBERS ASSIGNED,,,FRESH,NO CONTACTS,,,,,,
+18,178,,59,CC,0.0,787.00,788.60,  788.60,"DUNCAN, J. R.",BASALTSAME AS SECTION 58-1,PCE NO PCE NUMBERS ASSIGNED,,,,,,,,,,

@@ -1,0 +1,10 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+28,274,,21,1,93.0,93.0,190.00,191.43, 2,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NCHIA0010,Chiasmolithus altus,COMMON,  ,1
+28,274,,21,1,93.0,93.0,190.00,191.43, 2,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NRETI0225,Reticulofenestra  sp. (small),COMMON,  ,1
+28,274,,21,3,70.0,70.0,190.00,194.20, 3,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NCHIA0010,Chiasmolithus altus,COMMON,  ,1
+28,274,,21,3,70.0,70.0,190.00,194.20, 3,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NCOCO0300,Coccolithus pelagicus,FEW,  ,1
+28,274,,21,3,70.0,70.0,190.00,194.20, 3,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NRETI0225,Reticulofenestra  sp. (small),COMMON,  ,1
+28,274,,21,3,100.0,100.0,190.00,194.50, 2,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NCHIA0010,Chiasmolithus altus,PRESENT,  ,1
+28,274,,21,3,100.0,100.0,190.00,194.50, 2,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NRETI0225,Reticulofenestra  sp. (small),PRESENT,  ,1
+28,274,,27,4,104.0,104.0,247.00,252.54, 2,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NCHIA0010,Chiasmolithus altus,PRESENT,  ,1
+28,274,,27,4,104.0,104.0,247.00,252.54, 2,"BURNS,D.A.",07/1975,28,NANNOFOSSILS,,,,,NO AGE GIVEN,597,NRETI0225,Reticulofenestra  sp. (small),PRESENT,  ,1

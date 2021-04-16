@@ -1,0 +1,21 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+13,134,,3,1,20.0,20.0,248.00,248.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+13,134,,3,1,20.0,20.0,248.00,248.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+13,134,,3,1,20.0,20.0,248.00,248.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+13,134,,3,1,20.0,20.0,248.00,248.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+13,134,,5,2,31.0,31.0,260.00,261.81, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+13,134,,5,2,31.0,31.0,260.00,261.81, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+13,134,,5,2,31.0,31.0,260.00,261.81, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+13,134,,5,2,31.0,31.0,260.00,261.81, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+13,134,,6,1,20.0,20.0,288.00,288.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0030,Discoaster asymmetricus,PRESENT,  ,1
+13,134,,6,1,20.0,20.0,288.00,288.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+13,134,,6,1,20.0,20.0,288.00,288.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+13,134,,6,1,20.0,20.0,288.00,288.20, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
+13,134,,7,1,105.0,105.0,317.00,318.05, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0030,Discoaster asymmetricus,PRESENT,  ,1
+13,134,,7,1,105.0,105.0,317.00,318.05, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+13,134,,7,1,105.0,105.0,317.00,318.05, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+13,134,,7,1,105.0,105.0,317.00,318.05, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
+13,134,,7,5,49.0,50.0,317.00,323.50, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0030,Discoaster asymmetricus,PRESENT,  ,1
+13,134,,7,5,49.0,50.0,317.00,323.50, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+13,134,,7,5,49.0,50.0,317.00,323.50, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+13,134,,7,5,49.0,50.0,317.00,323.50, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,827,NSPHN0010,Sphenolithus abies,PRESENT,  ,1

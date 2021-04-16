@@ -1,0 +1,13 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+29,280,A,1,2,120.0,120.0,38.00,40.70, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
+29,280,A,1,CC,0.0,0.0,38.00,44.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1
+29,280,A,3,3,110.0,110.0,72.50,76.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
+29,280,A,4,CC,0.0,0.0,82.00,89.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1
+29,280,A,5,1,110.0,110.0,91.50,92.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1
+29,280,A,5,2,110.0,110.0,91.50,94.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
+29,280,A,7,3,110.0,110.0,120.00,124.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
+29,280,A,10,5,66.0,66.0,196.00,202.66, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0190,Deflandrea macmurdoensis,PRESENT,  ,1
+29,280,A,14,2,57.0,57.0,291.00,293.07, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CSPIN0010,Spinidinium aperturum,PRESENT,  ,1
+29,280,A,17,CC,0.0,0.0,376.50,386.10, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,736,CTURB0011,Turbiosphaera filosa (q),PRESENT,  ,1
+29,280,A,18,1,117.0,117.0,405.00,406.17, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,736,CTHAL0030,Thalassiphora pelagica,PRESENT,  ,1
+29,280,A,20,3,38.0,38.0,481.00,484.38, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0040,Deflandrea antarctica,PRESENT,  ,1

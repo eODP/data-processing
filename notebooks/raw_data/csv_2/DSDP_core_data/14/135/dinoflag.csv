@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+14,135,,9,2,91.0,93.0,685.00,687.42, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCRIB0020,Cribroperidinium muderongensis,PRESENT,  ,1
+14,135,,9,2,91.0,93.0,685.00,687.42, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDING0020,Dingodinium cerviculum,PRESENT,  ,1
+14,135,,9,2,91.0,93.0,685.00,687.42, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDRUG0020,Druggidium deflandrei,PRESENT,  ,1
+14,135,,9,2,91.0,93.0,685.00,687.42, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CWALL0010,Wallodinium krutzschi,PRESENT,  ,1

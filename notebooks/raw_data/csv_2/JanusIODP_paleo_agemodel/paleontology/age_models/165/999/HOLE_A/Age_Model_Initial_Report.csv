@@ -1,0 +1,124 @@
+Leg,Site,H,Age Model Type           ,Depth (mbsf),    Age (Ma),Control Point Comment
+,,,,,,
+,,,,,,
+,,,,,,
+165, 999,A,Initial Reports          ,       9.350,    0.248000,FO  Emiliania huxleyi (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      17.200,    0.408000,LO  Pseudoemiliania lacunosa  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      31.350,    0.880000,LO  Reticulofenestra asanoi  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      35.500,    0.940000,FO  Gephyrocapsa parallela  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      36.700,    1.170000,FO  Reticulofenestra asanoi  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      40.850,    1.230000,LO  Large Gephyrocapsa spp. (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      41.190,    1.300000,LO Globigerinoides obliquus  (Planktonic Foraminif
+,,,,,,
+165, 999,A,Initial Reports          ,      45.550,    1.260000,LO  Helicosphaera sellii  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      51.850,    1.480000,FO  Large Gephyrocapsa spp. (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      55.650,    1.640000,FO  Gephyrocapsa oceanica  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      55.655,    1.640000,LO  Calcidiscus macintyrei  (Nannofossil) (+.005 m
+,,,,,,
+165, 999,A,Initial Reports          ,      56.850,    1.710000,FO  Gephyrocapsa caribbeanica  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      65.200,    1.950000,LO  Discoaster brouweri  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      69.780,    2.000000,FO Truncorotalia truncatulinoides  (Planktonic For
+,,,,,,
+165, 999,A,Initial Reports          ,      79.330,    2.300000,LO Menardella miocenica  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,      81.850,    2.360000,LO  Discoaster pentaradiatus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      85.350,    2.510000,LO  Discoaster surculus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      94.850,    2.820000,LO  Discoaster tamalis  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,      98.350,    3.000000,LO Menardella multicamerata  (Planktonic Foraminif
+,,,,,,
+165, 999,A,Initial Reports          ,      98.352,    3.000000,LO Dentoglobigerina altispira  (Planktonic Foramin
+,,,,,,
+165, 999,A,Initial Reports          ,      98.354,    3.600000,FO Menardella miocenica  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,      98.356,    3.600000,LO Hirsutella margaritae  (Planktonic Foraminifera
+,,,,,,
+165, 999,A,Initial Reports          ,     113.850,    3.620000,LO  Sphenolithus spp. (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     121.000,    3.830000,LO  R. pseudoumbilicus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     126.910,    4.400000,LO Globorotalia plesiotumida  (Planktonic Foramini
+,,,,,,
+165, 999,A,Initial Reports          ,     126.915,    4.500000,FO Menardella exilis  (Planktonic Foraminifera) (+
+,,,,,,
+165, 999,A,Initial Reports          ,     136.430,    4.700000,FO Truncorotalia crassaformis  (Planktonic Foramin
+,,,,,,
+165, 999,A,Initial Reports          ,     136.435,    5.000000,LO Hirsutella cibaoensis  (Planktonic Foraminifera
+,,,,,,
+165, 999,A,Initial Reports          ,     149.400,    4.500000,LO  Amaurolithus spp. (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     150.800,    5.046000,FO  Ceratolithus rugosus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     157.850,    5.046000,LO  Ceratolithus acutus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     162.850,    5.089000,FO  Ceratolithus acutus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     164.760,    5.600000,FO Sphaeroidinella dehiscens  (Planktonic Foramini
+,,,,,,
+165, 999,A,Initial Reports          ,     164.765,    6.000000,FO Hirsutella margaritae  (Planktonic Foraminifera
+,,,,,,
+165, 999,A,Initial Reports          ,     168.530,    5.537000,LO  Discoaster quinqueramus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     183.880,    6.200000,FO Globigerinoides conglobatus  (Planktonic Forami
+,,,,,,
+165, 999,A,Initial Reports          ,     199.850,    7.392000,FO  Amaurolithus spp. (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     215.280,    7.700000,FO Hirsutella cibaoensis  (Planktonic Foraminifera
+,,,,,,
+165, 999,A,Initial Reports          ,     234.250,    8.281000,FO  Discoaster berggrenii  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     234.400,    8.000000,FO Globigerinoides extremus  (Planktonic Foraminif
+,,,,,,
+165, 999,A,Initial Reports          ,     234.403,    8.000000,FO Candeina nitida  (Planktonic Foraminifera)  (+.
+,,,,,,
+165, 999,A,Initial Reports          ,     234.406,    8.200000,FO Globorotalia plesiotumida  (Planktonic Foramini
+,,,,,,
+165, 999,A,Initial Reports          ,     253.450,    9.635000,LO  Discoaster hamatus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     253.550,   10.000000,FO Neogloboquadrina acostaensis  (Planktonic Foram
+,,,,,,
+165, 999,A,Initial Reports          ,     268.640,   10.476000,FO  Discoaster hamatus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     269.190,   10.300000,LO Paragloborotalia mayeri  (Planktonic Foraminife
+,,,,,,
+165, 999,A,Initial Reports          ,     274.250,   10.794000,FO  Catinaster coalitus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     300.990,   11.800000,LO Fohsella fohsi  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,     311.070,   15.100000,FO Orbulina universa  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,     320.880,   12.700000,FO Fohsella fohsi  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,     325.400,   13.230000,LO  Cyclicargolithus floridanus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     342.950,   13.523000,LO  Sphenolithus heteromorphus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     349.460,   14.000000,FO Fohsella praefohsi  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,     349.465,   14.800000,FO Fohsella peripheroacuta  (Planktonic Foraminife
+,,,,,,
+165, 999,A,Initial Reports          ,     363.970,   15.600000,LO  Helicosphaera ampliaperta  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     416.950,   16.400000,FO Praeorbulina sicana  (Planktonic Foraminifera)
+,,,,,,
+165, 999,A,Initial Reports          ,     451.300,   18.200001,FO  Sphenolithus heteromorphus  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     454.380,   17.299999,LO Catapsydrax dissimilis  (Planktonic Foraminifer
+,,,,,,
+165, 999,A,Initial Reports          ,     454.950,   18.299999,LO  Sphenolithus belemnos  (Nannofossil)
+,,,,,,
+165, 999,A,Initial Reports          ,     480.100,   19.200001,FO  Sphenolithus belemnos  (Nannofossil)
+,,,,,,
