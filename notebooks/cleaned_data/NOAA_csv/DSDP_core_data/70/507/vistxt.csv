@@ -1,0 +1,7 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+70,507,,1,1,20.0,150.0,0.00,0.20,1.50,, FORAM NANNO OOZE," GREENISH GRAY,GREENISH BLACK", BURROWS, GREATLY DISTURBED TO SLIGHTLY DISTURBED, VOLCANOGENIC DEPOSITS, VOLCANIC ASH,,, SOFT, 11111210.1221
+70,507,,1,2,50.0,84.0,0.00,2.00,2.34,, FORAM NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOUPY, 11111210.1221
+70,507,,1,2,85.0,106.0,0.00,2.35,2.56,, DIATOMACEOUS NANNO OOZE, YELLOWISH BROWN,,,  *,,,, SOFT,
+70,507,,1,2,107.0,150.0,0.00,2.57,3.00,, FORAM NANNO OOZE, GREENISH GRAY,,,  *,,,, SOFT,
+70,507,,1,3,13.0,96.0,0.00,3.13,3.96,, FORAM-NANNO OOZE," OLIVE GRAY,GREENISH GRAY,GRAYISH BLACK",, GREATLY DISTURBED,  *,,,, SOFT, 11111210.1221
+70,507,,1,CC,0.0,11.0,0.00,4.06,4.07,, FORAM-NANNO OOZE, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT, 11111210.1221

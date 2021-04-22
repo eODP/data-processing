@@ -1,0 +1,7 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+71,512,A,2,1,0.0,150.0,81.50,81.50,83.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY, BURROWS, GREATLY DISTURBED,  *,,,, SOFT,
+71,512,A,2,2,0.0,150.0,81.50,83.00,84.50,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
+71,512,A,2,3,0.0,150.0,81.50,84.50,86.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
+71,512,A,2,4,0.0,150.0,81.50,86.00,87.50,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
+71,512,A,2,5,0.0,150.0,81.50,87.50,89.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
+71,512,A,2,6,0.0,27.0,81.50,89.00,89.27,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT, 11111210

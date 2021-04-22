@@ -1,0 +1,9 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+92,599,B,2,1,0.0,150.0,32.20,32.20,33.70,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,2,0.0,140.0,32.20,33.70,35.10,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,3,0.0,150.0,32.20,35.20,36.70,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,4,0.0,140.0,32.20,36.70,38.10,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,5,0.0,120.0,32.20,38.20,39.40,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,6,0.0,150.0,32.20,39.70,41.20,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,7,0.0,37.0,32.20,41.20,41.57,LEIN, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
+92,599,B,2,CC,0.0,12.0,32.20,41.67,41.69,LEIN, NANNOFOSSIL CLAY,,,,,,,, SOFT, 00000000

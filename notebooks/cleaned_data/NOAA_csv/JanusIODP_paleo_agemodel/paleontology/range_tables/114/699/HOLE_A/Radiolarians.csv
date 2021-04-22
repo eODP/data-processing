@@ -1,0 +1,12 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Protocystis micropelecus,Lirella melo,Euphysetta  elegans,Lirella sp.,Comment
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,                  ,              ,114, 699,A,  1,H, 1,  23.00,      0.2300,Ling     ,Radiolarians                                 ,               ,                  ,                        ,            ,                   ,1          ,from ODP Leg 114 SR Chapter 16 Table 2 p 314
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,                  ,              ,114, 699,A,  1,H, 2,  50.00,      2.0000,Ling     ,Radiolarians                                 ,               ,                  ,1                       ,            ,R                  ,           ,from ODP Leg 114 SR Chapter 16 Table 2 p 314
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Pliocene         ,                 ,                  ,              ,114, 699,A,  5,H, 4,  50.00,     42.1000,Ling     ,Radiolarians                                 ,               ,                  ,                        ,1           ,                   ,           ,from ODP Leg 114 SR Chapter 16 Table 2 p 314
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Miocene          ,                 ,                  ,              ,114, 699,A,  6,H,CC,  17.00,     54.9800,Ling     ,Radiolarians                                 ,               ,                  ,1                       ,            ,                   ,           ,from ODP Leg 114 SR Chapter 16 Table 2 p 314
+,,,,,,,,,,,,,,,,,,,,,

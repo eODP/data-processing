@@ -1,0 +1,18 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Globorotalia tumida,Globorotalia pseudomiocenica,Globigerinoides extremus,Truncorotalia tosaensis,Truncorotalia truncatulinoides,Globigerinoides fistulosus,Comment
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,                  ,Pt1b          ,194,1197,A,  1,H,CC,  18.00,      6.1300,planks   ,Planktonic Foraminifers                      ,A              ,VG                ,                   ,                            ,                        ,                       ,A                             ,                          ,N23 (>120Kyr)=pink ruber.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,Pt1b              ,Pt1a          ,194,1197,A,  2,H,CC,  11.00,     15.6100,planks   ,Planktonic Foraminifers                      ,A              ,VG                ,                   ,                            ,                        ,R                      ,A                             ,                          ,N22-N23. P.finalis pres/no Gds.fistulosus. Gr.tosa?
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,Pt1b              ,Pt1a          ,194,1197,A,  3,H,CC,  18.00,     25.2200,planks   ,Planktonic Foraminifers                      ,A              ,G                 ,                   ,                            ,                        ,P                      ,A                             ,                          ,N22. P.finalis present + No Gds.fist.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,Pt1b              ,Pt1a          ,194,1197,A,  4,H,CC,  13.00,     34.8700,planks   ,Planktonic Foraminifers                      ,A              ,G                 ,                   ,                            ,                        ,F                      ,A                             ,                          ,N22. No extremus/fist
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,                  ,Pt1a          ,194,1197,A,  5,H,CC,  16.00,     44.2000,planks   ,Planktonic Foraminifers                      ,A              ,G                 ,                   ,                            ,R                       ,                       ,F                             ,F                         ,Base N22
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,PL5 - IndoPac     ,PL6 - IndoPac ,194,1197,A,  6,H,CC,  18.00,     53.7900,planks   ,Planktonic Foraminifers                      ,A              ,G                 ,                   ,R                           ,                        ,F                      ,                              ,                          ,Top N21. Trunc contam? No alti/semin/fist.
+,,,,,,,,,,,,,,,,,,,,,,,
+  IR,                 ,                 ,PL6 - IndoPac     ,PL3           ,194,1197,A,  7,H,CC,  15.00,     54.5900,planks   ,Planktonic Foraminifers                      ,A              ,G                 ,A                  ,R                           ,R                       ,                       ,                              ,                          ,N20-N21. No fist/seminulina.
+,,,,,,,,,,,,,,,,,,,,,,,

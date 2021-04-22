@@ -1,0 +1,12 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0480,Dictyocha pentagona,TRACE,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0520,Dictyocha perlaevis perlaevis,10%,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0680,Dictyocha stapedia aspinosa,14%,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0685,Dictyocha stapedia aspinosa (q),2%,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0690,Dictyocha stapedia stapedia,23%,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0430,Distephanus speculum binoculus,TRACE,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0440,Distephanus speculum elongatus,3%,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0470,Distephanus speculum minutus,TRACE,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0490,Distephanus speculum pentagonus,TRACE,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0580,Distephanus speculum speculum,49%,  ,1
+37,332,B,1,3,40.0,41.0,139.00,142.41,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SMESO0060,Mesocena circulus,TRACE,  ,2

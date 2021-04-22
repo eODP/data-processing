@@ -1,0 +1,50 @@
+leg,site,hole,core,coretype,section,observer,top interval,piece number top,sub piece top,bottom interval,piece number bottom,sub piece bottom,lithology,color,color number,structures,drilling deformities,unusual occurrences,minerals,paleontology,other,induration,more data available,code,latitude,longitude,depth,top interval depth below sea floor,bottom interval depth below sea floor
+124,769,C,001,Rotary,01,PUB,000,,,150,,,clay,olive gray(0-23cm);light brownish gray to grayish brown(23-150cm),5y 5/2(0-23cm);2.5y 6/2 to 2.5y 5/2(23-150cm),"minor bioturbation(7-14,58-64,92-101cm);massive;burrows",moderately disturbed,,rare feldspar/plagioclase of silt size and tiny fragments of devitrified glass,,,,,R,8.78530,121.29480,0261.10,26110,26260
+124,769,C,001,Rotary,02,SOL,000,,,039,,,clay,grayish brown w/ greenish mottling(0-32cm);brown(32-39cm),2.5y 5/2(0-32cm);10yr 5/3(32-39cm),minor bioturbation;massive;mottling(0-32cm),moderately disturbed,,,,sharp contact(32cm),,,R,8.78530,121.29480,0262.60,26260,26299
+124,769,C,002,Rotary,01,RS,000,,,150,,,clay,light brownish gray(0-38cm);brown w/ some reddish streaks(38-150cm),2.5y 6/2(0-38cm);7.5yr 5/4(38-150cm),"massive;very small mn nodules(38-45,55-60cm)",moderately disturbed,"very small mn nodules(38-45,55-60cm)","very minor feldspar,quartz w/ traces of biotite(0-38cm);very small mn nodules(38-45,55-60cm)",,pelagic deposit,softer and more water-rich,,R,8.78530,121.29480,0270.80,27079,27229
+124,769,C,002,Rotary,02,LIN,000,,,150,,,clay,brown,7.5yr 5/4,minor bioturbation,drilling breccia,nodules,"minor feldspar,accessory minerals,and opaques",,pelagic deposit;crs sand size grains evenly dispersed,,,R,8.78530,121.29480,0272.30,27229,27379
+124,769,C,002,Rotary,03,LIN,000,,,150,,,clay,brown,7.5yr 5/4,minor bioturbation,drilling breccia,,,,pelagic deposit,,,R,8.78530,121.29480,0273.80,27379,27529
+124,769,C,002,Rotary,04,PUB,000,,,115,,,clay,brown(0-87cm);brown w/ very dark gray mn? micronodules(87-115cm),7.5yr 5/4(0-87cm);7.5yr 5/4 w/ 7.5yr 3/0 mn? micronodules(87-115cm),"minor bioturbation(9-19,35-66cm);massive;mn? micronodules(75,87-115cm)",moderately disturbed,"mn? micronodules(75,87-115cm)","mn? micronodules(75,87-115cm);abundant opaques(up to 80%),rare pyroxene,glass,and feldspar(87-115cm)",,pelagic deposit,,,R,8.78530,121.29480,0275.30,27529,27644
+124,769,C,002,Rotary,04,PUB,115,,,150,,,organic geochemistry sample(115-140cm);interstitial water sample(140-150cm),,,,,,,,,,,R,8.78530,121.29480,0275.30,27644,27679
+124,769,C,002,Rotary,05,RS,000,,,150,,,clay,brown(0-140cm);grayish brown(140-150cm),7.5y 5/4(0-140cm);2.5y 5/2(140-150cm),massive,drilling breccia?,,,,pelagic deposit; abundant small fragments engulfed in slurry,,,R,8.78530,121.29480,0276.80,27679,27829
+124,769,C,002,Rotary,06,LIN,000,,,015,,,clay,dark grayish brown,2.5y 4/2,minor bioturbation(2-5cm),drilling breccia,,,,pelagic deposit;crs sand-sized grains,,,R,8.78530,121.29480,0278.30,27829,27844
+124,769,C,003,Rotary,01,SPA,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0280.50,28050,28200
+124,769,C,003,Rotary,02,SPA,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0282.00,28200,28350
+124,769,C,003,Rotary,03,SPA,000,,,054,,,see hardrock visual core descriptions,,,,,,,,,,,R,8.78530,121.29480,0283.50,28350,28404
+124,769,C,004,Rotary,02,SPA,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0291.70,29170,29320
+124,769,C,004,Rotary,02,SPA,000,,,115,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0291.70,29170,29285
+124,769,C,004,Rotary,03,SPA,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0292.85,29285,29435
+124,769,C,004,Rotary,04,SPA,000,,,145,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0294.35,29435,29580
+124,769,C,004,Rotary,05,SPA,000,,,018,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0295.78,29577,29595
+124,769,C,005,Rotary,01,SPA,000,,,128,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0299.70,29970,30098
+124,769,C,005,Rotary,02,SPA,000,,,121,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0300.99,30098,30219
+124,769,C,005,Rotary,03,SPA,000,,,146,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0302.21,30220,30366
+124,769,C,005,Rotary,04,SAJ,000,,,140,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0303.66,30366,30506
+124,769,C,005,Rotary,05,SAJ,000,,,102,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0305.04,30504,30606
+124,769,C,006,Rotary,01,RS,000,,,146,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0309.30,30929,31075
+124,769,C,006,Rotary,02,PUB,000,,,102,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0310.78,31077,31179
+124,769,C,007,Rotary,01,SOL,000,,,145,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0319.00,31900,32045
+124,769,C,007,Rotary,02,SOL,000,,,045,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0320.46,32045,32090
+124,769,C,008,Rotary,01,PUB,000,,,120,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0328.60,32860,32980
+124,769,C,008,Rotary,02,SOL,000,,,131,,,coarse tuff (also see hardrock visual core description),"greenish w/ darker layeres, and gray to light gray",n/a,symmetric grading(normal & reverse) and crude layering. normal graded bedding(97-131cm) w/ average size from ~1.5mm - ~0.5mm becoming revers at top of section w/ average size ~1.5-2.0mm; layering(100-114cm) defined by darker 0.5mm laminae,n/a,n/a,see hardrock visual core description,n/a,,,,R,8.78530,121.29480,0329.78,32977,33108
+124,769,C,008,Rotary,03,PUB,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0331.10,33110,33260
+124,769,C,008,Rotary,04,SOL,000,,,084,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0332.60,33260,33344
+124,769,C,008,Rotary,05,LIN,000,,,141,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0333.45,33345,33486
+124,769,C,008,Rotary,06,LIN,000,,,128,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0334.85,33485,33613
+124,769,C,008,Rotary,07,LIN,000,,,035,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0336.12,33611,33646
+124,769,C,009,Rotary,01,RS,000,,,146,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0338.20,33820,33966
+124,769,C,009,Rotary,02,RS,000,,,115,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0339.67,33967,34082
+124,769,C,009,Rotary,03,SOL,000,,,129,,,see hardrcok visual core description,,,,,,,,,,,R,8.78530,121.29480,0340.83,34082,34211
+124,769,C,009,Rotary,04,PUB,000,,,069,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0342.12,34211,34280
+124,769,C,010,Rotary,01,RS,000,,,140,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0347.90,34789,34929
+124,769,C,010,Rotary,02,SOL,000,,,132,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0349.30,34929,35061
+124,769,C,010,Rotary,03,PUB,000,,,047,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0350.64,35064,35111
+124,769,C,011,Rotary,01,RS,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0357.60,35760,35910
+124,769,C,011,Rotary,02,PUB,000,,,138,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0359.10,35910,36048
+124,769,C,011,Rotary,03,RS,000,,,123,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0360.50,36050,36173
+124,769,C,012,Rotary,01,SPA,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0367.20,36720,36870
+124,769,C,012,Rotary,02,SAJ,000,,,147,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0368.70,36870,37017
+124,769,C,012,Rotary,03,SAJ,000,,,148,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0370.18,37017,37165
+124,769,C,012,Rotary,04,SPA,000,,,150,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0371.68,37167,37317
+124,769,C,012,Rotary,05,SPA,000,,,138,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0373.18,37317,37455
+124,769,C,012,Rotary,06,SAJ,000,,,041,,,see hardrock visual core description,,,,,,,,,,,R,8.78530,121.29480,0374.56,37455,37496

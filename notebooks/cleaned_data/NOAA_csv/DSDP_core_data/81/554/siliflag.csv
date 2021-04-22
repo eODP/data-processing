@@ -1,0 +1,12 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SCANN0135,Cannopilus sp.,2%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0030,Dictyocha aspera aspera,4%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0110,Dictyocha brevispina,15%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0170,Dictyocha fibula,1%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0040,Distephanus boliviensis,11%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0130,Distephanus crux crux,1%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0175,Distephanus frugalis,14%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0436,Distephanus speculum coronata,4%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0471,Distephanus speculum minutus (q),2%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0472,Distephanus speculum minutus (cornoatid),4%,  ,1
+81,554,,8,3,110.0,112.0,66.50,70.61,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0581,Distephanus speculum speculum,42%,  ,2

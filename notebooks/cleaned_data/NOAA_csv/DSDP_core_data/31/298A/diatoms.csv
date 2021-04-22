@@ -1,0 +1,15 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+31,298,A,1,1,137.0,138.0,50.50,51.88, 2,"KOIZUMI,I.",,31,DIATOMS,TRACE,,,POOL,NO AGE GIVEN,784,DCYCL0020,Cyclotella comta,RARE,  ,1
+31,298,A,1,1,137.0,138.0,50.50,51.88, 2,"KOIZUMI,I.",,31,DIATOMS,TRACE,,,POOL,NO AGE GIVEN,784,DCYCL0045,Cyclotella striata,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DACTI0050,Actinocyclus ehrenbergii,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DCOSC0280,Coscinodiscus excentricus,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DCOSC0580,Coscinodiscus nodulifer,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DCOSC0770,Coscinodiscus radiatus,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DCYCL0045,Cyclotella striata,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DMELO0160,Melosira sulcata,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DNITZ0380,Nitzschia marina,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DPSED0010,Pseudoeunotia doliolus,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DRHIZ0050,Rhizosolenia bergonii,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DTHAA0280,Thalassiosira oestrupii,RARE,  ,1
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DTHAL0060,Thalassionema nitzschioides,RARE,  ,2
+31,298,A,1,CC,0.0,0.0,50.50,52.10,12,"KOIZUMI,I.",,31,DIATOMS,RARE,,,POOL,NO AGE GIVEN,784,DTHAL0065,Thalassionema nitzschioides (q),RARE,  ,2

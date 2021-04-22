@@ -1,0 +1,7 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+82,561,,H1,1,0.0,150.0,0.00,0.00,1.50,WM, SILICEOUS FORAM NANNOFOSSIL OOZE, WHITISH BROWN, MOTTLING, GREATLY DISTURBED,,,,, SOFT*,
+82,561,,H1,2,0.0,150.0,0.00,1.50,3.00,WM, SILICEOUS FORAM NANNOFOSSIL OOZE," WHITE,GRAY", BEDDING, GREATLY DISTURBED,,,,, SOFT*,
+82,561,,H1,3,0.0,150.0,0.00,3.00,4.50,WM, SILICEOUS FORAM NANNOFOSSIL OOZE," WHITE,GRAY",, GREATLY DISTURBED,,,,, SOFT*,
+82,561,,H1,4,0.0,150.0,0.00,4.50,6.00,WM, SILICEOUS FORAM NANNOFOSSIL OOZE," WHITE,GRAY", BEDDING, GREATLY DISTURBED,,,,, SOFT*,
+82,561,,H1,5,0.0,150.0,0.00,6.00,7.50,WM," SILICEOUS FORAM NANNOFOSSIL OOZE,CHALK"," WHITE,GRAY", BEDDING, GREATLY DISTURBED,,,,," SOFT,FIRM*",
+82,561,,H1,6,0.0,100.0,0.00,7.50,8.50,WM," SILICEOUS FORAM NANNOFOSSIL OOZE,CHALK"," WHITE,GRAY", BEDDING, GREATLY DISTURBED,,,,," SOFT,FIRM*",

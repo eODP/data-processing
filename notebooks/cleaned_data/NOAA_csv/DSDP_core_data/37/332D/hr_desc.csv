@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+37,332,D,1,1,2.0,142.00,142.02,  142.16,"WRIGHT, T.",SEDIMENT (CHALK),"PCE 1 (2-7), 2 (8-16)",,,,,,,,,,
+37,332,D,1,1,18.0,142.00,142.18,  142.23,"WRIGHT, T.",APHYRIC BASALT,PCE 3 (18-23),"APHYRIC, GLASSY RIND",,FRESH,,,,,,,
+37,332,D,1,1,24.0,142.00,142.24,  142.26,"WRIGHT, T.",VESICULAR APHYRIC BASALT,PCE 4 (24-26),APHYRIC,,FRESH,, comments : VESICULAR,,,,,
+37,332,D,1,1,26.0,142.00,142.26,  142.38,"WRIGHT, T.",SEDIMENT (LITHIFIED CHALK),"PCE 5 (26-29), 6 (31-38)",,,,LARGE PIECE OF GLASS-PALAGONITE EMBEDDED IN CHALK,,,,,,
+37,332,D,1,1,40.0,142.00,142.40,  142.72,"WRIGHT, T.",APHYRIC BASALT,"PCE 7 (40-47), 8 (49-54), 9 (55-60), 10 (63-72)",APHYRIC,,FRESH,PCE 10 CONTAINS KNIFE EDGE CONTACT ON TOP BETWEEN BAKED CHALK AND CHILLED APHYRIC BASALT | DIAMOND BIT USED ON THIS HOLE,,,,,,

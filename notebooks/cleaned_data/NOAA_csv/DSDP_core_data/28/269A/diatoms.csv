@@ -1,0 +1,7 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+28,269,A,1,2,95.0,95.0,416.50,418.95, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,526,DACTI0140,Actinocyclus ingens,RARE,  ,1
+28,269,A,1,2,95.0,95.0,416.50,418.95, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,526,DDENT0010,Denticula antarctica,RARE,  ,1
+28,269,A,1,2,95.0,95.0,416.50,418.95, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,526,DDENT0040,Denticula hustedtii,RARE,  ,1
+28,269,A,1,2,95.0,95.0,416.50,418.95, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,526,DDENT0080,Denticula lauta,RARE,  ,1
+28,269,A,1,2,95.0,95.0,416.50,418.95, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,526,DTRIN0040,Trinacria excavata,RARE,  ,1
+28,269,A,1,2,95.0,95.0,416.50,418.95, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,526,DTRIN0080,Trinacria quadrata,RARE,  ,1

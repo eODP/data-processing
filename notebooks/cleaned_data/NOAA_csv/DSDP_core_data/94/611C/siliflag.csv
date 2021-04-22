@@ -1,0 +1,15 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+94,611,C,6,CC,0.0,0.0,31.60,40.56, 1,BALDAUF,00/1900,94,SILICOFLAGELLATES,COMMON,,,MODERATE,NO AGE GIVEN,747,SMESO0280,Mesocena quadrangula,RARE,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0119,Dictyocha calida calida,3%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0123,Dictyocha calida ampliata,3%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0353,Dictyocha hessii,24%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0380,Dictyocha lingii,25%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0500,Dictyocha perlaevis,13%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0690,Dictyocha stapedia stapedia,2%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0702,Dictyocha subaculeata,11%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDICT0728,Dictyocha sp.,4%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDIST0040,Distephanus boliviensis,3%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDIST0172,Distephanus floridus,11%,  ,1
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDIST0414,Distephanus sp.,2%,  ,2
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SDIST0580,Distephanus speculum speculum,1%,  ,2
+94,611,C,8,3,100.0,102.0,50.80,54.81,13,BUKRY,00/1900,94,SILICOFLAGELLATES,,,,,NO AGE GIVEN,780,SMESO0280,Mesocena quadrangula,1%,  ,2

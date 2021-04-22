@@ -1,0 +1,13 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0010,Globorotalia acostaensis humerosa,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0012,Globorotalia acostaensis pseudopima,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0156,Globorotalia cultrata menardii,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0224,Globorotalia hirsuta hirsuta,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0246,Globorotalia inflata,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0544,Globorotalia truncatulinoides,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0420,Globigerinoides ruber albus,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0246,Globigerina eggeri eggeri (q),PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0290,Globigerina falconensis,PRESENT,  ,1
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FHAST0040,Hastigerina pelagica,PRESENT,  ,2
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FORBU0025,Orbulina sp.,PRESENT,  ,2

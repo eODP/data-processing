@@ -1,0 +1,28 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+37,333,,2,1,75.0,76.0,145.50,146.41, 6,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0030,Dictyocha aspera aspera,2%,  ,1
+37,333,,2,1,75.0,76.0,145.50,146.41, 6,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0520,Dictyocha perlaevis perlaevis,2%,  ,1
+37,333,,2,1,75.0,76.0,145.50,146.41, 6,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0680,Dictyocha stapedia aspinosa,12%,  ,1
+37,333,,2,1,75.0,76.0,145.50,146.41, 6,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0690,Dictyocha stapedia stapedia,48%,  ,1
+37,333,,2,1,75.0,76.0,145.50,146.41, 6,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0490,Distephanus speculum pentagonus,8%,  ,1
+37,333,,2,1,75.0,76.0,145.50,146.41, 6,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0580,Distephanus speculum speculum,28%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0210,Dictyocha fibula fibula,TRACE,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0515,Dictyocha perlaevis ornata,52%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0520,Dictyocha perlaevis perlaevis,14%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0680,Dictyocha stapedia aspinosa,4%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0690,Dictyocha stapedia stapedia,16%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0430,Distephanus speculum binoculus,TRACE,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0435,Distephanus speculum brevispina,2%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0490,Distephanus speculum pentagonus,TRACE,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0580,Distephanus speculum speculum,7%,  ,1
+37,333,,2,5,59.0,60.0,145.50,152.25,10,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SMESO0060,Mesocena circulus,4%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0110,Dictyocha brevispina,3%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0520,Dictyocha perlaevis perlaevis,27%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0680,Dictyocha stapedia aspinosa,15%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0685,Dictyocha stapedia aspinosa (q),2%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDICT0690,Dictyocha stapedia stapedia,4%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0072,Distephanus boliviensis frugalis (q),1%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0090,Distephanus boliviensis major,1%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0430,Distephanus speculum binoculus,1%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0490,Distephanus speculum pentagonus,2%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SDIST0580,Distephanus speculum speculum,38%,  ,1
+37,333,,5,2,75.0,76.0,193.00,195.26,11,"BUKRY,D.",,37,SILICOFLAGELLATES,,,,,NO AGE GIVEN,919,SMESO0060,Mesocena circulus,6%,  ,2

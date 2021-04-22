@@ -1,0 +1,35 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCERO0100,Ceratolithus tricorniculatus,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0180,Discoaster formosus,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0395,Discoaster quintatus,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0465,Discoaster surculus,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSCYP0032,Scyphosphaera apsteinii (q),PRESENT,  ,1
+6,57,A,1,1,121.0,122.0,43.90,45.12,11,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NTRIQ0040,Triquetrorhabdulus rugosus,PRESENT,  ,2
+6,57,A,1,6,120.0,121.0,43.90,52.61, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCERO0100,Ceratolithus tricorniculatus,PRESENT,  ,1
+6,57,A,1,6,120.0,121.0,43.90,52.61, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0100,Discoaster challengerii,PRESENT,  ,1
+6,57,A,1,6,120.0,121.0,43.90,52.61, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+6,57,A,1,6,120.0,121.0,43.90,52.61, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0395,Discoaster quintatus,PRESENT,  ,1
+6,57,A,1,6,120.0,121.0,43.90,52.61, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0465,Discoaster surculus,PRESENT,  ,1
+6,57,A,1,6,120.0,121.0,43.90,52.61, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCOCO0032,Coccolithus bisectus (q),PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NHELI0140,Helicopontosphaera parallela,PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSPHN0035,Sphenolithus belemnos (q),PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSPHN0050,Sphenolithus ciperoensis,PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSPHN0140,Sphenolithus moriformis,PRESENT,  ,1
+6,57,A,2,1,107.0,108.0,306.90,307.98, 8,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NTRIQ0010,Triquetrorhabdulus carinatus,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCOCO0030,Coccolithus bisectus,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCOCO0032,Coccolithus bisectus (q),PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NHELI0140,Helicopontosphaera parallela,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSPHN0035,Sphenolithus belemnos (q),PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSPHN0050,Sphenolithus ciperoensis,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NSPHN0140,Sphenolithus moriformis,PRESENT,  ,1
+6,57,A,4,5,0.0,3.0,320.60,326.61, 9,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,984,NTRIQ0010,Triquetrorhabdulus carinatus,PRESENT,  ,1

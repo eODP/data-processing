@@ -1,0 +1,38 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISL0100,Discolithina multipora,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NEMIL0021,Emiliania huxleyi (q),PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NHELI0250,Helicopontosphaera wallichii,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NRHAT0030,Rhabdothorax sp.,PRESENT,  ,1
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NSYRA0050,Syracosphaera histrica,PRESENT,  ,2
+10,93,,1,1,128.0,129.0,0.00,1.29,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NTHOR0090,Thoracosphaera sp.,PRESENT,  ,2
+10,93,,1,1,133.0,134.0,0.00,1.34, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
+10,93,,1,1,133.0,134.0,0.00,1.34, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+10,93,,1,1,133.0,134.0,0.00,1.34, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+10,93,,1,1,133.0,134.0,0.00,1.34, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+10,93,,1,1,133.0,134.0,0.00,1.34, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+10,93,,1,2,6.0,7.0,0.00,1.57, 6,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+10,93,,1,2,6.0,7.0,0.00,1.57, 6,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+10,93,,1,2,6.0,7.0,0.00,1.57, 6,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NDISC0170,Discoaster extensus,PRESENT,  ,1
+10,93,,1,2,6.0,7.0,0.00,1.57, 6,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+10,93,,1,2,6.0,7.0,0.00,1.57, 6,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+10,93,,1,2,6.0,7.0,0.00,1.57, 6,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,379,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCERO0100,Ceratolithus tricorniculatus,RARE,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISC0050,Discoaster berggrenii,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISC0465,Discoaster surculus,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,2
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,2
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NSPHN0150,Sphenolithus neoabies,PRESENT,  ,2
+10,93,,1,2,65.0,67.0,0.00,2.16,14,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,400,NTRIQ0040,Triquetrorhabdulus rugosus,PRESENT,  ,2

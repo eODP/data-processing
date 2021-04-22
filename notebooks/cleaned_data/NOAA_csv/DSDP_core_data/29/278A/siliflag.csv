@@ -1,0 +1,13 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDICT0010,Dictyocha aculeata,PRESENT,  ,1
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0110,Distephanus crux,1%,  ,1
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0280,Distephanus octonarius,1%,  ,1
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0350,Distephanus quinquangellus,2%,  ,1
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0400,Distephanus septenarius,3%,  ,1
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0424,Distephanus speculum s.l.,93%,  ,1
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SCORB0380,Corbisema triacantha,1%,  ,1
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0280,Distephanus octonarius,2%,  ,1
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0350,Distephanus quinquangellus,PRESENT,  ,1
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0400,Distephanus septenarius,1%,  ,1
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0424,Distephanus speculum s.l.,96%,  ,1
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SSEPT0010,Septamesocena apiculata,PRESENT,  ,1

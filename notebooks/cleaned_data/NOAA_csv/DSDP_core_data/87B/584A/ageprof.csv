@@ -1,0 +1,4 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+87,584,A,PLEISTOCENE,UPPER MIOCENE,0.0,602.2,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,0.011, 10.5,5.256,INITIAL CORE DESCRIPTIONS
+87,584,A,UPPER MIOCENE,,602.2,795.1,,NO AGE GIVEN,,NO AGE GIVEN,    5, 10.5, 7.75,INITIAL CORE DESCRIPTIONS
+87,584,A,MIDDLE MIOCENE,,795.1,890.0,,NO AGE GIVEN,,NO AGE GIVEN, 10.5,   16,13.25,INITIAL CORE DESCRIPTIONS

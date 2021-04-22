@@ -1,0 +1,4 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+66,488,,UPPER QUATERNARY,,0.0,39.0,,NO AGE GIVEN,,NO AGE GIVEN,    0,  0.8,  0.4,DSDP INITIAL REPORTS
+66,488,,UPPER QUATERNARY,#PROV. MQUAT,39.0,172.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,    0,  1.8,  0.9,DSDP INITIAL REPORTS
+66,488,,QUATERNARY,,172.0,428.0,A LEGITIMATE AGE INVERSION,NO AGE GIVEN,,NO AGE GIVEN,    0,  1.8,  0.9,DSDP INITIAL REPORTS

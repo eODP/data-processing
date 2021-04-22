@@ -1,0 +1,16 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Pseudoemiliania lacunosa,Gephyrocapsa sp. (small),Gephyrocapsa caribbeanica,Coccolithus pelagicus,Calcidiscus leptoporus,Umbilicosphaera sibogae,Syracosphaera pulchra,Helicosphaera carteri,Comment
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,CN14b             ,              ,133, 824,B,  1,H,CC,   0.00,      4.9200,Wei      ,Nannofossils                                 ,A              ,P                 ,                        ,R                       ,A                        ,                     ,F                     ,R                      ,R                    ,C                    ,from ODP 133 SR Chapter 2 Figure 9 p 30
+,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,CN14b             ,              ,133, 824,B,  2,H,CC,   0.00,     14.8800,Wei      ,Nannofossils                                 ,A              ,P                 ,                        ,R                       ,A                        ,                     ,R                     ,R                      ,                     ,R                    ,from ODP 133 SR Chapter 2 Figure 9 p 30
+,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,CN14b             ,              ,133, 824,B,  3,H,CC,   0.00,     24.2700,Wei      ,Nannofossils                                 ,C              ,P                 ,                        ,A                       ,A                        ,                     ,F                     ,R                      ,R                    ,R                    ,from ODP 133 SR Chapter 2 Figure 9 p 30
+,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,CN14b             ,              ,133, 824,B,  4,H,CC,  13.00,     33.7600,Wei      ,Nannofossils                                 ,R              ,P                 ,                        ,F                       ,R                        ,                     ,                      ,                       ,                     ,                     ,from ODP 133 SR Chapter 2 Figure 9 p 30
+,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,CN14b             ,              ,133, 824,B,  5,H,CC,  13.00,     42.8200,Wei      ,Nannofossils                                 ,R              ,P                 ,                        ,R                       ,R                        ,                     ,                      ,                       ,                     ,                     ,from ODP 133 SR Chapter 2 Figure 9 p 30
+,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,CN13b             ,CN14a         ,133, 824,B,  6,H,CC,  13.00,     52.3800,Wei      ,Nannofossils                                 ,F              ,P                 ,R                       ,R                       ,F                        ,R                    ,R                     ,                       ,                     ,                     ,from ODP 133 SR Chapter 2 Figure 9 p 30
+,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,16 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+11,105,,33,2,0.0,1.0,558.00,0.50, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+11,105,,33,2,0.0,1.0,558.00,0.50, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0010,Polycope sp.,PRESENT,  ,1
+11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OFABA0010,Fabalicypris sp.,PRESENT,  ,1
+11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0020,Bairdia farinacciae,PRESENT,  ,1
+11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OMONO0011,Monoceratina sp.(q),PRESENT,  ,1
+11,105,,33,2,100.0,102.0,558.00,101.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,105,,33,4,10.0,30.0,558.00,20.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0011,Bairdia sp. (q),PRESENT,  ,1
+11,105,,34,2,18.0,25.0,567.00,21.50, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+11,105,,35,2,20.0,40.0,576.00,30.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OSAIP0011,Saipanetta sp.(q),PRESENT,  ,1
+11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPARA0010,Paracypris sp.,PRESENT,  ,1
+11,105,,36,2,100.0,102.0,585.00,101.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OBYTH0011,Bythoceratina sp. (q),PRESENT,  ,1
+11,105,,38,CC,0.0,0.0,603.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0030,Bairdia italica,PRESENT,  ,1
+11,105,,38,CC,0.0,0.0,603.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0011,Bairdia sp. (q),PRESENT,  ,1

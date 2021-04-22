@@ -1,0 +1,27 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RARCC0010,Archicircus rhombus,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RCLAR0010,Clathrocircus stapedius,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RDEND0050,Dendrospyris damaecornis,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RDORC0120,Dorcadospyris pentagona,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RGIRA0010,Giraffospyris angulata,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RGIRA0070,Giraffospyris laterispina,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RLIRI0110,Liriospyris reticulata,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RNEPH0010,Nephrospyris renilla,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RPANA0010,Panartus tetrathalamus,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTHOS0050,Tholospyris devexa,PRESENT,  ,1
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTHOS0080,Tholospyris procera,PRESENT,  ,2
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTHOS0090,Tholospyris scaphipes,PRESENT,  ,2
+9,77,,1,1,16.0,18.0,0.00,0.17,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTRIT0010,Tristylospyris palmipes,PRESENT,  ,2
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RARCC0010,Archicircus rhombus,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RCLAR0010,Clathrocircus stapedius,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RDEND0050,Dendrospyris damaecornis,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RDORC0120,Dorcadospyris pentagona,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RGIRA0010,Giraffospyris angulata,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RGIRA0070,Giraffospyris laterispina,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RLIRI0110,Liriospyris reticulata,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RNEPH0010,Nephrospyris renilla,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RPANA0010,Panartus tetrathalamus,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTHOS0050,Tholospyris devexa,PRESENT,  ,1
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTHOS0080,Tholospyris procera,PRESENT,  ,2
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTHOS0090,Tholospyris scaphipes,PRESENT,  ,2
+9,77,,1,CC,0.0,0.0,0.00,1.60,13,"GOLL,R.",01/1972,9,RADIOLARIA,,,,,NO AGE GIVEN,71,RTRIT0010,Tristylospyris palmipes,PRESENT,  ,2
