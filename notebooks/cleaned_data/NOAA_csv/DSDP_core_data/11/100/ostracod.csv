@@ -1,0 +1,35 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+11,100,,1,1,110.0,120.0,203.00,115.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OCYTR0010,Cytherelloidea sp.,PRESENT,  ,1
+11,100,,1,1,110.0,120.0,203.00,115.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OHEMI0011,Hemicytherura sp. (q),PRESENT,  ,1
+11,100,,1,1,110.0,120.0,203.00,115.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,1,2,94.0,96.0,203.00,95.00, 4,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OCYTR0010,Cytherelloidea sp.,PRESENT,  ,1
+11,100,,1,2,94.0,96.0,203.00,95.00, 4,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OPOLY0010,Polycope sp.,PRESENT,  ,1
+11,100,,1,2,94.0,96.0,203.00,95.00, 4,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OACRO0011,Acrocythere sp.(q),PRESENT,  ,1
+11,100,,1,2,94.0,96.0,203.00,95.00, 4,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,1,3,50.0,52.0,203.00,51.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,1,3,50.0,52.0,203.00,51.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OHEMI0011,Hemicytherura sp. (q),PRESENT,  ,1
+11,100,,1,3,50.0,52.0,203.00,51.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBYTH0011,Bythoceratina sp. (q),PRESENT,  ,1
+11,100,,1,5,67.0,69.0,203.00,68.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OHEMI0011,Hemicytherura sp. (q),PRESENT,  ,1
+11,100,,7,1,108.0,110.0,276.00,109.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OCYTR0010,Cytherelloidea sp.,PRESENT,  ,1
+11,100,,7,2,140.0,142.0,276.00,141.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,654,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,7,2,140.0,142.0,276.00,141.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,654,OORTH0011,Orthonotacythere sp.,PRESENT,  ,1
+11,100,,7,2,140.0,142.0,276.00,141.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,654,OACRO0010,Acrocythere sp.,PRESENT,  ,1
+11,100,,7,CC,0.0,0.0,276.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,7,CC,0.0,0.0,276.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPONT0010,Pontocyprella sp.,PRESENT,  ,1
+11,100,,8,1,92.0,94.0,286.00,93.00, 6,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+11,100,,8,1,92.0,94.0,286.00,93.00, 6,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OACRA0010,Acratia sp.,PRESENT,  ,1
+11,100,,8,1,92.0,94.0,286.00,93.00, 6,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0010,Polycope sp.,PRESENT,  ,1
+11,100,,8,1,92.0,94.0,286.00,93.00, 6,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0011,Polycope sp. (q),PRESENT,  ,1
+11,100,,8,1,92.0,94.0,286.00,93.00, 6,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,8,1,92.0,94.0,286.00,93.00, 6,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OACRO0011,Acrocythere sp.(q),PRESENT,  ,1
+11,100,,8,2,49.0,50.0,286.00,49.50, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,654,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,8,3,30.0,32.0,286.00,31.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPONT0010,Pontocyprella sp.,PRESENT,  ,1
+11,100,,8,3,30.0,32.0,286.00,31.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0020,Bairdia farinacciae,PRESENT,  ,1
+11,100,,8,3,30.0,32.0,286.00,31.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0011,Polycope sp. (q),PRESENT,  ,1
+11,100,,8,3,148.0,150.0,286.00,149.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,654,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,9,CC,0.0,0.0,302.00,0.00, 5,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPONT0010,Pontocyprella sp.,PRESENT,  ,1
+11,100,,9,CC,0.0,0.0,302.00,0.00, 5,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OCYTE0010,Cytherella sp.,PRESENT,  ,1
+11,100,,9,CC,0.0,0.0,302.00,0.00, 5,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0011,Polycope sp. (q),PRESENT,  ,1
+11,100,,9,CC,0.0,0.0,302.00,0.00, 5,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OORTH0010,Orthonotacythere sp.,PRESENT,  ,1
+11,100,,9,CC,0.0,0.0,302.00,0.00, 5,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
+11,100,,10,2,10.0,12.0,311.00,11.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,654,OOSTR0010,Ostracoda indent.,PRESENT,  ,1

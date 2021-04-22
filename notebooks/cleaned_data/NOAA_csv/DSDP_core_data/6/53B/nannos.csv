@@ -1,0 +1,20 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,53,B,1,2,9.0,10.0,12.50,14.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+6,53,B,1,2,9.0,10.0,12.50,14.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0375,Discoaster prepentaradiatus,PRESENT,  ,1
+6,53,B,1,2,9.0,10.0,12.50,14.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
+6,53,B,1,2,9.0,10.0,12.50,14.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+6,53,B,1,3,4.0,5.0,12.50,15.55, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+6,53,B,1,3,4.0,5.0,12.50,15.55, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0375,Discoaster prepentaradiatus,PRESENT,  ,1
+6,53,B,1,3,4.0,5.0,12.50,15.55, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
+6,53,B,1,3,4.0,5.0,12.50,15.55, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+6,53,B,1,4,22.0,23.0,12.50,17.23, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+6,53,B,1,4,22.0,23.0,12.50,17.23, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0375,Discoaster prepentaradiatus,PRESENT,  ,1
+6,53,B,1,4,22.0,23.0,12.50,17.23, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
+6,53,B,1,4,22.0,23.0,12.50,17.23, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+6,53,B,1,4,75.0,76.0,12.50,17.76, 3,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+6,53,B,1,4,75.0,76.0,12.50,17.76, 3,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0395,Discoaster quintatus,PRESENT,  ,1
+6,53,B,1,4,75.0,76.0,12.50,17.76, 3,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0525,Discoaster variabilis,PRESENT,  ,1
+6,53,B,1,5,15.0,16.0,12.50,18.66, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+6,53,B,1,5,15.0,16.0,12.50,18.66, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0375,Discoaster prepentaradiatus,PRESENT,  ,1
+6,53,B,1,5,15.0,16.0,12.50,18.66, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
+6,53,B,1,5,15.0,16.0,12.50,18.66, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0525,Discoaster variabilis,PRESENT,  ,1

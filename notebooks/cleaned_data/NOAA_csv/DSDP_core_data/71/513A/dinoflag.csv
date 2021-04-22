@@ -1,0 +1,10 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+71,513,A,31,2,105.0,107.0,351.00,353.56, 1,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CIMPA0050,Impagidinium victorianum,PRESENT,  ,1
+71,513,A,33,2,73.0,75.0,370.00,372.24, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CCORR0030,Corridinium incompositum,PRESENT,  ,1
+71,513,A,33,2,73.0,75.0,370.00,372.24, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CDEFL0040,Deflandrea antarctica,PRESENT,  ,1
+71,513,A,33,2,73.0,75.0,370.00,372.24, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CIMPA0050,Impagidinium victorianum,PRESENT,  ,1
+71,513,A,33,2,73.0,75.0,370.00,372.24, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CPHTH0020,Phthanoperidinium sp.,PRESENT,  ,1
+71,513,A,33,5,138.0,140.0,370.00,377.39, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CCORR0030,Corridinium incompositum,PRESENT,  ,1
+71,513,A,33,5,138.0,140.0,370.00,377.39, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CDEFL0040,Deflandrea antarctica,PRESENT,  ,1
+71,513,A,33,5,138.0,140.0,370.00,377.39, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CIMPA0050,Impagidinium victorianum,PRESENT,  ,1
+71,513,A,33,5,138.0,140.0,370.00,377.39, 4,GOODMAN,09/1983,71,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CPHTH0020,Phthanoperidinium sp.,PRESENT,  ,1

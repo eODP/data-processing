@@ -1,0 +1,84 @@
+Leg,Site,H,Age Model Type           ,Depth (mbsf),    Age (Ma),Control Point Comment
+,,,,,,
+,,,,,,
+,,,,,,
+120, 751,A,Initial Reports          ,       1.100,    0.200000,DA ;  LO  A. ingens
+,,,,,,
+120, 751,A,Initial Reports          ,       2.030,    1.200000,R1 ;  LO  A. cylindrica
+,,,,,,
+120, 751,A,Initial Reports          ,       5.800,    2.200000,DB ;  LO  C. vulnificus
+,,,,,,
+120, 751,A,Initial Reports          ,       6.430,    1.600000,R2 ;  LO  C. pliocenica
+,,,,,,
+120, 751,A,Initial Reports          ,       6.431,    1.900000,R3 ;  LO  E. calvertense
+,,,,,,
+120, 751,A,Initial Reports          ,       6.432,    2.400000,R4 ;  LO  H. vema
+,,,,,,
+120, 751,A,Initial Reports          ,       6.600,    2.450000,DC ;  LO  C. insignis
+,,,,,,
+120, 751,A,Initial Reports          ,       7.000,    2.800000,DD ;  LO  N. interfrigidaria
+,,,,,,
+120, 751,A,Initial Reports          ,       8.600,    3.100000,DE ;  LO  N. praeinterfrigidaria
+,,,,,,
+120, 751,A,Initial Reports          ,       9.450,    3.500000,N3 ;  LO  R. pseudoumbilica
+,,,,,,
+120, 751,A,Initial Reports          ,      18.600,    3.800000,DF ;  LO  C. kolbei
+,,,,,,
+120, 751,A,Initial Reports          ,      22.350,    4.100000,DG ;  LO  N. angulata
+,,,,,,
+120, 751,A,Initial Reports          ,      28.430,    4.200000,R8 ;  LO  H. vema
+,,,,,,
+120, 751,A,Initial Reports          ,      36.700,    4.570000,"M7 ;  T  Gilbert """"c"
+,,,,,,
+120, 751,A,Initial Reports          ,      40.200,    4.770000,"M8 ;  B  Gilbert """"c"
+,,,,,,
+120, 751,A,Initial Reports          ,      42.600,    5.350000,M9 ;  T CHRON  3A
+,,,,,,
+120, 751,A,Initial Reports          ,      43.940,    5.400000,R10 ;  LO  C. spongothorax
+,,,,,,
+120, 751,A,Initial Reports          ,      48.500,    5.890000,M10 ;  B  CHRON 3A
+,,,,,,
+120, 751,A,Initial Reports          ,      50.600,    6.370000,M11 ;  T  Chron 6N
+,,,,,,
+120, 751,A,Initial Reports          ,      55.800,    8.920000,M1 ;  T CHRON  5
+,,,,,,
+120, 751,A,Initial Reports          ,      73.940,    9.700000,R12 ;  LO  E. pseudoinflatum
+,,,,,,
+120, 751,A,Initial Reports          ,      87.440,   10.400000,R13 ;  LO  A. golownin
+,,,,,,
+120, 751,A,Initial Reports          ,      94.950,   11.800000,D3 ;  LO  common D. denticuloides
+,,,,,,
+120, 751,A,Initial Reports          ,     108.000,   12.100000,M13 ;  B CHRON 5A
+,,,,,,
+120, 751,A,Initial Reports          ,     109.200,   12.110000,F1 ;  LO  N. nympha
+,,,,,,
+120, 751,A,Initial Reports          ,     109.450,   11.600000,N1 ;  LO  R. floridana
+,,,,,,
+120, 751,A,Initial Reports          ,     109.550,   14.800000,M12 ;  T CHRON  5B
+,,,,,,
+120, 751,A,Initial Reports          ,     109.700,   15.000000,DK ;  LO  D. hyalina
+,,,,,,
+120, 751,A,Initial Reports          ,     113.950,   16.000000,D6 ;  LO  N. grossepunctata
+,,,,,,
+120, 751,A,Initial Reports          ,     113.951,   16.200001,N2 ;  LO  H. ampliaperta
+,,,,,,
+120, 751,A,Initial Reports          ,     114.000,   16.219999,M3 ;  T CHRON  5C
+,,,,,,
+120, 751,A,Initial Reports          ,     123.100,   16.799999,F2 ;  LO  G. miozea
+,,,,,,
+120, 751,A,Initial Reports          ,     123.200,   16.980000,M4 ;  B  CHRON5C
+,,,,,,
+120, 751,A,Initial Reports          ,     123.400,   17.570000,M5 ;  T CHRON  5D
+,,,,,,
+120, 751,A,Initial Reports          ,     123.450,   17.600000,F3 ;  LO  C. dissimilis
+,,,,,,
+120, 751,A,Initial Reports          ,     142.450,   16.700001,D7 ;  LO  D. maccollumii
+,,,,,,
+120, 751,A,Initial Reports          ,     142.600,   17.600000,F4 ;  LO  G. zealandica
+,,,,,,
+120, 751,A,Initial Reports          ,     151.900,   18.799999,D8 ;  LO  N. maleinterpretaria
+,,,,,,
+120, 751,A,Initial Reports          ,     152.100,   18.559999,M6 ;  T CHRON  5E
+,,,,,,
+120, 751,A,Initial Reports          ,     153.000,   19.000000,F5 ;  LO  G. praescitula
+,,,,,,

@@ -1,0 +1,36 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+54,425,,1,2,110.0,112.0,0.00,2.61, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DMELO0070,Melosira granulata,1%,  ,1
+54,425,,2,3,74.0,76.0,5.50,9.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,03%,  ,1
+54,425,,3,1,74.0,76.0,24.50,25.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,02%,  ,1
+54,425,,3,3,74.0,76.0,24.50,28.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,04%,  ,1
+54,425,,3,3,99.0,101.0,24.50,28.50, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,474,DTHAS0020,Thalassiothrix longissima,PRESENT,  ,1
+54,425,,3,3,99.0,101.0,24.50,28.50, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,474,DCOSC0580,Coscinodiscus nodulifer,PRESENT,  ,1
+54,425,,3,3,99.0,101.0,24.50,28.50, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,474,DTHAA0310,Thalassiosira plicata,PRESENT,  ,1
+54,425,,3,3,99.0,101.0,24.50,28.50, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,474,DASTR0130,Asteromphalus imbricatus,PRESENT,  ,1
+54,425,,3,5,74.0,76.0,24.50,31.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,01%,  ,1
+54,425,,3,6,74.0,76.0,24.50,32.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,03%,  ,1
+54,425,,4,1,74.0,76.0,43.50,44.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,10%,  ,1
+54,425,,4,2,74.0,76.0,43.50,45.75, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DCOSC0788,Coscinodiscus reniformis,PRESENT,  ,1
+54,425,,4,2,74.0,76.0,43.50,45.75, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
+54,425,,4,2,74.0,76.0,43.50,45.75, 3,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,02%,  ,1
+54,425,,4,2,99.0,101.0,43.50,46.00, 1,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DRHIZ0205,Rhizosolenia matuyamai,PRESENT,  ,1
+54,425,,4,3,74.0,76.0,43.50,47.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DMELO0070,Melosira granulata,1%,  ,1
+54,425,,4,3,99.0,101.0,43.50,47.50, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DRHIZ0205,Rhizosolenia matuyamai,PRESENT,  ,1
+54,425,,4,3,99.0,101.0,43.50,47.50, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DRHIZ0300,Rhizosolenia styliformis,PRESENT,  ,1
+54,425,,4,3,99.0,101.0,43.50,47.50, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DACTI0050,Actinocyclus ehrenbergii,PRESENT,  ,1
+54,425,,4,3,99.0,101.0,43.50,47.50, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DHEMD0010,Hemidiscus cuneiformis,PRESENT,  ,1
+54,425,,4,3,99.0,101.0,43.50,47.50, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DNITZ0150,Nitzschia fossilis,PRESENT,  ,1
+54,425,,4,3,99.0,101.0,43.50,47.50, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,476,DTRIC0110,Triceratium cinnamomeum,PRESENT,  ,1
+54,425,,5,1,74.0,76.0,62.50,63.25, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DTHAA0193,Thalassiosira leptopus elliptica,01%,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DACIN0030,Actinoptychus bipunctatus,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DACIN0100,Actinoptychus undulatus,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DNAVI0080,Navicula hennedyi,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DTHAA0300,Thalassiosira pacifica,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DNITZ0010,Nitzschia sp.,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DBACT0020,Bacteriastrum hyalinum,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DASTR0081,Asteromphalus flabellatus (q),PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DASTR0130,Asteromphalus imbricatus,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DASTR0110,Asteromphalus hookeri,PRESENT,  ,1
+54,425,,5,2,99.0,101.0,62.50,65.00,10,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DHEMD0010,Hemidiscus cuneiformis,PRESENT,  ,1
+54,425,,6,1,74.0,76.0,72.00,72.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,550,DLIOS0010,Liostephania sp.,PRESENT,  ,1
+54,425,,6,2,99.0,101.0,72.00,74.50, 1,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,464,DACTI0090,Actinocyclus ellipticus,PRESENT,  ,1

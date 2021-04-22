@@ -1,0 +1,4 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+9,84,,30,1,55.0,253.60,254.15,  254.30,"COOK, H. E.",BASALT,PCE NO PCE NUMBERS ASSIGNED,FINE-GRAINED,,,BLACK,,,,,,
+9,84,,30,CC,0.0,253.60,255.20,  255.17,"COOK, H. E.",NANNO CHALK,,,,,,,,,,,
+9,84,,30,CC,0.0,253.60,255.20,  255.35,"COOK, H. E.",BASALT,PCE NO PCE NUMBERS ASSIGNED,"CHILLED BASALTIC GLASS, FINE-GRAINED",,,"BLACK, BASALT INTRUSION, CHILLED ALTERED CONTACT BETWEEN CHALK AND BASALT",,,,,,

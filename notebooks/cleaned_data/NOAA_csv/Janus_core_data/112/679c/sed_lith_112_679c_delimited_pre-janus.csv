@@ -1,0 +1,32 @@
+leg,site,hole,core,coretype,section,observer,top interval,piece number top,sub piece top,bottom interval,piece number bottom,sub piece bottom,lithology,color,color number,structures,drilling deformities,unusual occurrences,minerals,paleontology,other,induration,more data available,code,latitude,longitude,depth,top interval depth below sea floor,bottom interval depth below sea floor
+112,679,C,001,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,"core was not opened; personal sample-par (130-140cm), interstitial water sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0000.00,0,150
+112,679,C,001,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,"core was not opened; personal sample-par (70-80cm), interstitial water sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0001.50,150,300
+112,679,C,001,Hydraulic (Advanced) Piston Core,03,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0003.00,300,450
+112,679,C,001,Hydraulic (Advanced) Piston Core,04,,000,,,150,,,"core was not opened, personal sample and interstitial water sample (130-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0004.50,450,600
+112,679,C,002,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0009.00,900,1050
+112,679,C,002,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,"core was not opened; personal sample-par (120-140cm), interstitial water sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0009.27,927,1077
+112,679,C,003,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,"core was not opened; personal sample-par & physical properties (mas) (120-140cm), interstitial water sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0018.50,1850,2000
+112,679,C,003,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0020.00,2000,2150
+112,679,C,003,Hydraulic (Advanced) Piston Core,03,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0021.50,2150,2300
+112,679,C,003,Hydraulic (Advanced) Piston Core,04,,000,,,150,,,core was not opened; physical properties sample (90-150cm),,,,,,,,,,,H,-11.06350,-78.27217,0023.00,2300,2450
+112,679,C,003,Hydraulic (Advanced) Piston Core,05,,000,,,150,,,core was not opened; physical properties sample (135-150cm),,,,,,,,,,,H,-11.06350,-78.27217,0024.50,2450,2600
+112,679,C,004,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,"core was not opened;physical properties (115-130cm),personal sample-par (130-140cm),interstitial water sample(140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0028.00,2800,2950
+112,679,C,004,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0029.50,2950,3100
+112,679,C,004,Hydraulic (Advanced) Piston Core,03,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0031.00,3100,3250
+112,679,C,004,Hydraulic (Advanced) Piston Core,04,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0032.50,3250,3400
+112,679,C,004,Hydraulic (Advanced) Piston Core,05,,000,,,150,,,"core was not opened, personal sample-par (130-140cm), interstitial water sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0034.00,3400,3550
+112,679,C,005,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,"core was not opened, physical properties sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0037.50,3750,3900
+112,679,C,006,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,"core was not opened, physical properties sample (135-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0047.00,4700,4850
+112,679,C,006,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0048.50,4850,5000
+112,679,C,006,Hydraulic (Advanced) Piston Core,03,,000,,,150,,,"core was not opened,physical properties(65-125cm), personal sample-par(125-135cm),interstitial water sample (135-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0050.00,5000,5150
+112,679,C,007,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0056.50,5650,5800
+112,679,C,007,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,"core was not opened, physical properties sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0058.00,5800,5950
+112,679,C,007,Hydraulic (Advanced) Piston Core,03,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0059.50,5950,6100
+112,679,C,007,Hydraulic (Advanced) Piston Core,04,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0061.00,6100,6250
+112,679,C,007,Hydraulic (Advanced) Piston Core,05,,000,,,150,,,"core was not opened, physical properties sample (135-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0062.50,6250,6400
+112,679,C,008,Hydraulic (Advanced) Piston Core,01,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0066.00,6600,6750
+112,679,C,008,Hydraulic (Advanced) Piston Core,02,,000,,,150,,,"core was not opened, physical properties sample (135-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0067.50,6750,6900
+112,679,C,008,Hydraulic (Advanced) Piston Core,03,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0069.00,6900,7050
+112,679,C,008,Hydraulic (Advanced) Piston Core,04,,000,,,150,,,core was not opened,,,,,,,,,,,H,-11.06350,-78.27217,0070.50,7050,7200
+112,679,C,008,Hydraulic (Advanced) Piston Core,05,,000,,,150,,,"core was not opened; physical properties sample (70-130cm), interstitial water sample (140-150cm)",,,,,,,,,,,H,-11.06350,-78.27217,0072.00,7200,7350
+112,679,C,008,Hydraulic (Advanced) Piston Core,06,,000,,,150,,,"core was not opened, personal sample-par (130-140cm)",,,,,,,,,,,H,-11.06350,-78.27217,0073.50,7350,7500

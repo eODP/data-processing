@@ -1,0 +1,11 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0019,Globorotalia acutispira (q),PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0098,Globorotalia compressa,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0354,Globorotalia occlusa,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0412,Globorotalia praecursoria,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0430,Globorotalia pseudobulloides,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0464,Globorotalia pusilla pusilla,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0538,Globorotalia trinidadensis,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOG0735,Globigerina spiralis,PRESENT,  ,1
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FTURB0500,Turborotalia unicinata,PRESENT,  ,1

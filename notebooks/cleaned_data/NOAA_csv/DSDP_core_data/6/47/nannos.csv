@@ -1,0 +1,47 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,47,,1,1,2.0,3.0,0.00,0.03, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,1,2.0,3.0,0.00,0.03, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+6,47,,1,1,2.0,3.0,0.00,0.03, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,1,2.0,3.0,0.00,0.03, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+6,47,,1,2,8.0,9.0,0.00,1.59, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,2,8.0,9.0,0.00,1.59, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+6,47,,1,2,8.0,9.0,0.00,1.59, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,2,8.0,9.0,0.00,1.59, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0101,Gephyrocapsa sp. small,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NHELI0200,Helicopontosphaera sellii,PRESENT,  ,1
+6,47,,1,2,73.0,74.0,0.00,2.24, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1
+6,47,,1,3,9.0,10.0,0.00,3.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,3,9.0,10.0,0.00,3.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+6,47,,1,3,9.0,10.0,0.00,3.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,3,9.0,10.0,0.00,3.10, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+6,47,,1,4,1.0,2.0,0.00,4.52, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,4,1.0,2.0,0.00,4.52, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+6,47,,1,4,1.0,2.0,0.00,4.52, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,4,1.0,2.0,0.00,4.52, 4,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0010,Gephyrocapsa aperta,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0080,Gephyrocapsa producta,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0090,Gephyrocapsa protohuxleyi,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NHELI0200,Helicopontosphaera sellii,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NSYRA0070,Syracosphaera pulchra,PRESENT,  ,2
+6,47,,1,4,77.0,78.0,0.00,5.28,12,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NUMBI0030,Umbilicosphaera mirabilis,PRESENT,  ,2
+6,47,,1,5,9.0,10.0,0.00,6.10, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,5,9.0,10.0,0.00,6.10, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+6,47,,1,5,9.0,10.0,0.00,6.10, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+6,47,,1,6,24.0,25.0,0.00,7.75, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+6,47,,1,6,24.0,25.0,0.00,7.75, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NGEPH0020,Gephyrocapsa caribbeanica,PRESENT,  ,1
+6,47,,1,6,24.0,25.0,0.00,7.75, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+6,47,,1,6,79.0,80.0,0.00,8.30, 5,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCOCO0092,Coccolithus doronocoides (q),PRESENT,  ,1
+6,47,,1,6,79.0,80.0,0.00,8.30, 5,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NCYCT0010,Cyclolithella annula,PRESENT,  ,1
+6,47,,1,6,79.0,80.0,0.00,8.30, 5,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+6,47,,1,6,79.0,80.0,0.00,8.30, 5,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+6,47,,1,6,79.0,80.0,0.00,8.30, 5,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,975,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1

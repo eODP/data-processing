@@ -1,0 +1,13 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+84,569,A,1,2,30.0,31.0,246.00,247.81, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,523,DACTI0212,Actinocyclus radionovae,RARE,  ,1
+84,569,A,1,2,30.0,31.0,246.00,247.81, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,523,DCOSC0790,Coscinodiscus rhombicus,RARE,  ,1
+84,569,A,1,2,30.0,31.0,246.00,247.81, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,523,DROCE0040,Rocella vigilans,RARE,  ,1
+84,569,A,1,2,39.0,40.0,246.00,247.89, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,523,DACTI0212,Actinocyclus radionovae,RARE,  ,1
+84,569,A,1,2,39.0,40.0,246.00,247.89, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,523,DCOSC0790,Coscinodiscus rhombicus,RARE,  ,1
+84,569,A,1,2,39.0,40.0,246.00,247.89, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,523,DROCE0040,Rocella vigilans,RARE,  ,1
+84,569,A,9,CC,0.0,0.0,332.30,334.18, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,523,DARCH0020,Archaeomonas dubia,RARE,  ,1
+84,569,A,9,CC,0.0,0.0,332.30,334.18, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,523,DHEMI0160,Hemiaulus polymorphus,RARE,  ,1
+84,569,A,9,CC,0.0,0.0,332.30,334.18, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,523,DMONO0010,Monobrachia simplex,RARE,  ,1
+84,569,A,11,CC,0.0,0.0,360.90,361.36, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,523,DARCH0020,Archaeomonas dubia,RARE,  ,1
+84,569,A,11,CC,0.0,0.0,360.90,361.36, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,523,DHEMI0160,Hemiaulus polymorphus,RARE,  ,1
+84,569,A,11,CC,0.0,0.0,360.90,361.36, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,523,DMONO0010,Monobrachia simplex,RARE,  ,1

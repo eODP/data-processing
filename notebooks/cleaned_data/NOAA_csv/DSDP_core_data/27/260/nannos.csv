@@ -1,0 +1,17 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NBRAM0010,Bramletteius serraculoides,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NCOCO0100,Coccolithus eopelagicus,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NCYCI0010,Cyclicargolithus abisectus,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NCYCI0040,Cyclicargolithus floridanus,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NCYCO0030,Cyclococcolithina floridana,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NCYCO0070,Cyclococcolithina kingii,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NDICT0030,Dictyococcites bisectus,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NDISC0315,Discoaster nodifer,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NDISC0475,Discoaster tanii,PRESENT,  ,1
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NPERI0010,Peritrachelina joidesa,PRESENT,  ,2
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NRETI0100,Reticulofenestra hillae,PRESENT,  ,2
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NSPHN0040,Sphenolithus capricornutas,PRESENT,  ,2
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NSPHN0100,Sphenolithus distentus,PRESENT,  ,2
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NSPHN0190,Sphenolithus predistentus,PRESENT,  ,2
+27,260,,4,5,63.0,64.0,129.50,136.14,16,"BUKRY,DAVID",09/1974,27,NANNOFOSSILS,,,,,NO AGE GIVEN,624,NSPHN0200,Sphenolithus pseudoradians,PRESENT,  ,2

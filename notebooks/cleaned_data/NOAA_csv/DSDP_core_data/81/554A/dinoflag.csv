@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+81,554,A,1,1,23.0,25.0,76.00,76.24, 4,EDWARDS,12/1984,81,DINOFLAGELLATES,,,,POOL,NO AGE GIVEN,584,CBATI0050,Batiacasphaera sphaerica,PRESENT,  ,1
+81,554,A,1,1,23.0,25.0,76.00,76.24, 4,EDWARDS,12/1984,81,DINOFLAGELLATES,,,,POOL,NO AGE GIVEN,584,CFIBR0025,Fibrocysta fusiforma (q),PRESENT,  ,1
+81,554,A,1,1,23.0,25.0,76.00,76.24, 4,EDWARDS,12/1984,81,DINOFLAGELLATES,,,,POOL,NO AGE GIVEN,584,CIMPA0010,Impagidinium sp.,PRESENT,  ,1
+81,554,A,1,1,23.0,25.0,76.00,76.24, 4,EDWARDS,12/1984,81,DINOFLAGELLATES,,,,POOL,NO AGE GIVEN,584,CNEMA0020,Nematosphaeropsis labyrinthea,PRESENT,  ,1

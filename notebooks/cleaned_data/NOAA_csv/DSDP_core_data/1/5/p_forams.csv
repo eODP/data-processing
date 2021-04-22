@@ -1,0 +1,18 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+1,5,,1,1,74.0,76.0,0.00,0.75, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0546,Globorotalia truncatulinoides pachytheca,PRESENT,  ,1
+1,5,,1,1,74.0,76.0,0.00,0.75, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1
+1,5,,1,1,74.0,76.0,0.00,0.75, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0410,Globigerinoides ruber,PRESENT,  ,1
+1,5,,1,1,74.0,76.0,0.00,0.75, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0460,Globigerinoides rubescens,PRESENT,  ,1
+1,5,,1,1,74.0,76.0,0.00,0.75, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FTRUN0055,Truncorotaloides sp.,PRESENT,  ,1
+1,5,,1,2,100.0,100.0,0.00,2.50, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0310,Globigerinoides quadrilobatus,PRESENT,  ,1
+1,5,,1,2,100.0,100.0,0.00,2.50, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0410,Globigerinoides ruber,PRESENT,  ,1
+1,5,,1,2,100.0,100.0,0.00,2.50, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0015,Globigerina angiporoides,PRESENT,  ,1
+1,5,,1,2,100.0,100.0,0.00,2.50, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0421,Globigerina martini scandretti,PRESENT,  ,1
+1,5,,1,2,100.0,100.0,0.00,2.50, 5,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FTRUN0050,Truncorotaloides rohri,PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0140,Globigerinoides elongatus,PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0310,Globigerinoides quadrilobatus,PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0410,Globigerinoides ruber,PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0010,Globigerina ampliapertura,PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0615,Globigerina prasaepis,PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOQ0061,Globoquadrina altispira globosa (q),PRESENT,  ,1
+1,5,,1,3,74.0,74.0,0.00,3.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FTRUN0055,Truncorotaloides sp.,PRESENT,  ,1

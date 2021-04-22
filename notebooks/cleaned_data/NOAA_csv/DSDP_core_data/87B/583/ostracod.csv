@@ -1,0 +1,18 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+87,583,,3,5,55.0,56.0,15.00,21.56, 5,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OACAN0010,Acanthocythereis sp. (q),PRESENT,  ,1
+87,583,,3,5,55.0,56.0,15.00,21.56, 5,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OCYTP0020,Cytheropteron miurense,PRESENT,  ,1
+87,583,,3,5,55.0,56.0,15.00,21.56, 5,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OCYTU0010,Cytherura miii (q),PRESENT,  ,1
+87,583,,3,5,55.0,56.0,15.00,21.56, 5,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OLOXO0014,Loxoconcha japonica,PRESENT,  ,1
+87,583,,3,5,55.0,56.0,15.00,21.56, 5,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,ONEOM0010,Neomonoceratina microreticulata,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OCYTP0005,Cytheropteron eremitum,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OCYTP0020,Cytheropteron miurense,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OCYTU0010,Cytherura miii (q),PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OHEMI0030,Hemicytherura kajiyamai,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OLOXO0014,Loxoconcha japonica,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OLOXO0040,Loxoconcna laeta,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OPARY0011,Paracytheridae neolongicaudata (q),PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OPONC0010,Pontocythere japonica,PRESENT,  ,1
+87,583,,4,1,46.0,47.0,23.00,23.89, 9,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OPONC0020,Pontocythere subjaponica,PRESENT,  ,1
+87,583,,8,3,80.0,81.0,55.40,59.21, 3,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OAMPH0010,Amphileberis nipponica,PRESENT,  ,1
+87,583,,8,3,80.0,81.0,55.40,59.21, 3,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,ONIPP0010,Nipponoythere bicarinata,PRESENT,  ,1
+87,583,,8,3,80.0,81.0,55.40,59.21, 3,YAJIMA,02/1986,87,OSTRACODES,,,,,NO AGE GIVEN,605,OROBU0010,Robustaurila ishizakii,PRESENT,  ,1

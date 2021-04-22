@@ -1,0 +1,21 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCHIA0040,Chiasmolithus consuetus,PRESENT,  ,1
+9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NDISC0041,Discoaster barbadiensis (q),PRESENT,  ,1
+9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NHELI0221,Helicopontosphaera sp.,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0040,Cyclococcolithina formosa,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0080,Discoaster brouweri,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0127,Discoaster deflandrei (q),PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0140,Discoaster dilatus,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0351,Discoaster pentaradiatus (q),PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NSPHN0215,Sphenolithus sp.,PRESENT,  ,1
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NDISC0200,Discoaster hamatus,PRESENT,  ,1
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NBRAM0010,Bramletteius serraculoides,PRESENT,  ,1
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCOCO0100,Coccolithus eopelagicus,PRESENT,  ,1
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0115,Cyclococcolithina neogammation,PRESENT,  ,1
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0127,Discoaster deflandrei (q),PRESENT,  ,1

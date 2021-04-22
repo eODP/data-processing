@@ -1,0 +1,14 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+78,543,,18,6,40.0,41.0,162.50,170.41, 1,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDICT0570,Dictyocha pulchella,TRACE,  ,1
+78,543,,19,1,23.0,24.0,172.00,172.24, 2,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDICT0570,Dictyocha pulchella,TRACE,  ,1
+78,543,,19,1,23.0,24.0,172.00,172.24, 2,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDIST0162,Distephanus crux parvus,TRACE,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SCORB0380,Corbisema triacantha,2%,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDICT0115,Dictyocha brevispina ausonia (q),TRACE,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDICT0170,Dictyocha fibula,1%,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDICT0570,Dictyocha pulchella,34%,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDICT0571,Dictyocha pulchella (deflandroid),42%,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDIST0162,Distephanus crux parvus,PRESENT,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDIST0482,Distephanus speculum patulus,1%,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SDIST0580,Distephanus speculum speculum,2%,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SMACR0030,Macrora stella,TRACE,  ,1
+78,543,,19,2,23.0,24.0,172.00,173.74,10,BUKRY,08/1984,78,SILICOFLAGELLATES,,,,,NO AGE GIVEN,463,SMESO0010,Mesocena apiculata,17%,  ,1

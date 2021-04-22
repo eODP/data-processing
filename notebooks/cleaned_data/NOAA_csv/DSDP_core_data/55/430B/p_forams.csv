@@ -1,0 +1,13 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0246,Globorotalia inflata,COMMON,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0486,Globorotalia scitula,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0544,Globorotalia truncatulinoides,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0080,Globigerinoides bulloides,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0170,Globigerinoides glutinata,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0410,Globigerinoides ruber,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0480,Globigerinoides sacculifer,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOG0370,Globigerina hexagona,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FNEOG0040,Neogloboquadrina dutertrei,RARE,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FNEOG0112,Neogloboquadrina pachyderma (right-coiling),COMMON,  ,1
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FNEOG0114,Neogloboquadrina pachyderma (left-coiling),RARE,  ,2
+55,430,B,1,CC,0.0,0.0,0.00,0.20,12,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FORBU0040,Orbulina universa,RARE,  ,2

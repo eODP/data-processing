@@ -1,0 +1,8 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+19,193,,1,1,122.0,124.0,0.00,1.23, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SDIST0420,Distephanus speculum,PRESENT,  ,1
+19,193,,1,CC,0.0,0.0,0.00,3.10, 4,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SDIST0260,Distephanus octangulatus,PRESENT,  ,1
+19,193,,1,CC,0.0,0.0,0.00,3.10, 4,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SDIST0420,Distephanus speculum,RARE,  ,1
+19,193,,1,CC,0.0,0.0,0.00,3.10, 4,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SMESO0090,Mesocena diodon,PRESENT,  ,1
+19,193,,1,CC,0.0,0.0,0.00,3.10, 4,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SMESO0100,Mesocena elliptica,PRESENT,  ,1
+19,193,,2,1,117.0,119.0,2.00,3.18, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SDIST0280,Distephanus octonarius,PRESENT,  ,1
+19,193,,2,3,40.0,42.0,2.00,5.41, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,765,SDIST0280,Distephanus octonarius,PRESENT,  ,1

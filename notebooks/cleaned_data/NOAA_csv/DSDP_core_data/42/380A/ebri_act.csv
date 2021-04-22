@@ -1,0 +1,13 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+42,380,A,1,1,137.0,137.0,332.50,333.87, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,34%,  ,1
+42,380,A,1,2,88.0,88.0,332.50,334.88, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,72%,  ,1
+42,380,A,55,3,30.0,30.0,836.00,839.30, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,4%,  ,1
+42,380,A,55,3,70.0,72.0,836.00,839.71, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,6%,  ,1
+42,380,A,55,4,74.0,76.0,836.00,841.25, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,3%,  ,1
+42,380,A,55,4,83.0,83.0,836.00,841.33, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,7%,  ,1
+42,380,A,56,1,76.0,78.0,845.50,846.27, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,17%,  ,1
+42,380,A,56,3,40.0,40.0,845.50,848.90, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,10%,  ,1
+42,380,A,56,3,56.0,58.0,845.50,849.07, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,5%,  ,1
+42,380,A,56,4,81.0,81.0,845.50,850.81, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,5%,  ,1
+42,380,A,56,4,128.0,128.0,845.50,851.28, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,22%,  ,1
+42,380,A,56,4,138.0,140.0,845.50,851.39, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,806,QHERE0020,Hermesium adriaticum,7%,  ,1

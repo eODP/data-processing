@@ -1,0 +1,23 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+14,144,,3,2,110.0,112.0,162.00,164.61, 1,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDINO0020,Dinogymnium microgranulosum,PRESENT,  ,1
+14,144,,4,2,23.0,25.0,213.00,214.74, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDEFL0020,Deflandrea acuminata,PRESENT,  ,1
+14,144,,4,2,23.0,25.0,213.00,214.74, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDEFL0271,Deflandrea suspecta (q),PRESENT,  ,1
+14,144,,4,2,23.0,25.0,213.00,214.74, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CELAT0010,Elaterosporites verrucatus,PRESENT,  ,1
+14,144,,4,2,23.0,25.0,213.00,214.74, 4,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CPALA0010,Palaeohystrichophora infusorioides,PRESENT,  ,1
+14,144,,5,1,95.0,97.0,264.00,264.96, 2,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDEFL0150,Deflandrea echinoidea,PRESENT,  ,1
+14,144,,5,1,95.0,97.0,264.00,264.96, 2,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CELAT0010,Elaterosporites verrucatus,PRESENT,  ,1
+14,144,,6,1,130.0,132.0,295.00,296.31, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCHLA0020,Chlamydophorella nyei,PRESENT,  ,1
+14,144,,6,1,130.0,132.0,295.00,296.31, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCORO0010,Coronifera oceanica,PRESENT,  ,1
+14,144,,6,1,130.0,132.0,295.00,296.31, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDRUG0020,Druggidium deflandrei,PRESENT,  ,1
+14,144,,6,1,130.0,132.0,295.00,296.31, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CELAT0010,Elaterosporites verrucatus,PRESENT,  ,1
+14,144,,6,1,130.0,132.0,295.00,296.31, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CPALA0010,Palaeohystrichophora infusorioides,PRESENT,  ,1
+14,144,,7,1,98.0,100.0,298.00,298.99, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCHLA0020,Chlamydophorella nyei,PRESENT,  ,1
+14,144,,7,1,98.0,100.0,298.00,298.99, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCORO0010,Coronifera oceanica,PRESENT,  ,1
+14,144,,7,1,98.0,100.0,298.00,298.99, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDRUG0020,Druggidium deflandrei,PRESENT,  ,1
+14,144,,7,1,98.0,100.0,298.00,298.99, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CELAT0010,Elaterosporites verrucatus,PRESENT,  ,1
+14,144,,7,1,98.0,100.0,298.00,298.99, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CPALA0010,Palaeohystrichophora infusorioides,PRESENT,  ,1
+14,144,,8,2,119.0,121.0,324.00,326.70, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCHLA0020,Chlamydophorella nyei,PRESENT,  ,1
+14,144,,8,2,119.0,121.0,324.00,326.70, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CCORO0010,Coronifera oceanica,PRESENT,  ,1
+14,144,,8,2,119.0,121.0,324.00,326.70, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CDRUG0020,Druggidium deflandrei,PRESENT,  ,1
+14,144,,8,2,119.0,121.0,324.00,326.70, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CELAT0010,Elaterosporites verrucatus,PRESENT,  ,1
+14,144,,8,2,119.0,121.0,324.00,326.70, 5,"HABIB,D.",,14,DINOFLAGELLATES,,,,,NO AGE GIVEN,649,CPALA0010,Palaeohystrichophora infusorioides,PRESENT,  ,1

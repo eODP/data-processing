@@ -1,0 +1,7 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+55,430,,2,3,10.0,20.0,2.50,5.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0490,Coscinodiscus marginatus,33%,  ,1
+55,430,,2,3,10.0,20.0,2.50,5.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0100,Thalassiosira excentrica,33%,  ,1
+55,430,,2,3,10.0,20.0,2.50,5.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,33%,  ,1
+55,430,,2,5,30.0,35.0,2.50,8.82, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DASTR0180,Asteromphalus robustus,33%,  ,1
+55,430,,2,5,30.0,35.0,2.50,8.82, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,33%,  ,1
+55,430,,2,5,30.0,35.0,2.50,8.82, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,33%,  ,1

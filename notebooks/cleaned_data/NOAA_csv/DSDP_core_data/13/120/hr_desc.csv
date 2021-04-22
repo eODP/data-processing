@@ -1,0 +1,3 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+13,120,,8,1,50.0,251.70,252.20,  253.20,"NESTEROFF, W. D.",GABBRO,"PCE 1 (58-69), 2 (69-79), 3 (79-90), 4 (90-100), 5 (104-113), 6 (113-123), 7 (125-131), 8 (132-138), 9 (140-150)","COARSE-GRAINED, BROKEN IN PCES",,comments: GABBRO SERPENTINIZED,"TWO PCES OF RADIOLARITE FOUND, PCE 9 FOUND IN CORE BIT",,,,,,
+13,120,,8,CC,0.0,251.70,253.30,  253.30,"NESTEROFF, W. D.",GABBRO,PCE NO PCE NUMBERS ASSIGNED,,,,CORE CATCHER VERY SIMILAR TO CORE 8-1,,,,,,

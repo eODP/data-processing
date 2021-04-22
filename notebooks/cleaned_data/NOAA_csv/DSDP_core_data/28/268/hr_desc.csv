@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+28,268,,6,1,92.0,134.50,135.42,  135.53,"PIPER, D. J. W.",MICRODIORITE,"PCES 1 (93-97), 2 (97-101), 3 (101-103)",,,,,,,,,,
+28,268,,6,1,103.0,134.50,135.53,  135.57,"PIPER, D. J. W.",GRANITE,PCE 4 (103-107),,,,,,,,,,
+28,268,,6,1,107.0,134.50,135.57,  135.67,"PIPER, D. J. W.",GNEISS,"PCES 5 (107-109), 6 (110-117)",,,,,,,,,,
+28,268,,6,1,117.0,134.50,135.67,  135.95,"PIPER, D. J. W.",GRANITE,"PCES 7 (117-123), 8 (123-130), 9 (131-141), 10 (141-145)",,,,,,,,,,
+28,268,,6,1,145.0,134.50,135.95,  136.00,"PIPER, D. J. W.",MICRODIORITE,"PCES 11 (145-147), 12 (147-150)",,,,"FOR MORE INFORMATION ON CORE 6 SECTION 1 SEE THE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS, PRESUMED TO BE ERRATIC BOULDERS",,,,,,

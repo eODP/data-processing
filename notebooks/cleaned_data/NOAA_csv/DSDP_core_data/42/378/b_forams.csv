@@ -1,0 +1,15 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BHAYL0010,Haylinea balthica,PRESENT,  ,1
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BPSED0015,Pseudoclavulina crustata,PRESENT,  ,1
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BQUIN0090,Quinqueloculina venusta,PRESENT,  ,1
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BSEAB0020,Seabrookia earlandi,PRESENT,  ,1
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BSIGM0050,Sigmoilina tenuis,PRESENT,  ,1
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BSIGO0010,Sigmoilopsis schlumbergeri,PRESENT,  ,1
+42,378,,1,2,80.0,80.0,84.00,86.30, 7,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BUVIG0150,Uvigerina peregrina dirupta,PRESENT,  ,1
+42,378,,1,CC,0.0,0.0,84.00,87.10, 3,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,719,BBOLI0045,Bolivina albatrossi,PRESENT,  ,1
+42,378,,1,CC,0.0,0.0,84.00,87.10, 3,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,719,BSPHE0010,Sphaeroidina bulloides,PRESENT,  ,1
+42,378,,1,CC,0.0,0.0,84.00,87.10, 3,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,719,BTRIF0025,Trifarina angulosa angulosa,PRESENT,  ,1
+42,378,,2,CC,0.0,0.0,93.50,101.10, 1,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,723,BHOEG0010,Hoeglundia elegans,PRESENT,  ,1
+42,378,,3,CC,0.0,0.0,103.00,107.60, 1,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,719,BBOLI0025,Bolivina alata,PRESENT,  ,1
+42,378,,11,4,110.0,110.0,302.50,308.10, 2,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BGAVL0010,Gavelinopsis praegeri,PRESENT,  ,1
+42,378,,11,4,110.0,110.0,302.50,308.10, 2,"WRIGHT,R.",04/1978,42,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BUVIG0133,Uvigerina mediterranea,PRESENT,  ,1

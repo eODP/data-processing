@@ -1,0 +1,10 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Tylostrongyle taxa,Tripod taxa,Sigmas taxa,Orthostyle taxa,Amphityle taxa,Amphiox taxa,Acanthotylostyles taxa,Diancister taxa,Tylostyle taxa,Tylaster taxa,Diactine taxa,Caltrop taxa,Comment
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,                  ,              ,112, 685,A,  2,H, 2, 135.00,      6.9500,Martini  ,Sponge Spicules                              ,               ,                  ,R                 ,R          ,R          ,R              ,R             ,A           ,R                     ,R              ,R             ,R            ,R            ,R           ,from ODP Leg 112 SR Chapter 11 Table 1 p 177
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,                  ,              ,112, 685,A,  4,H, 1,  88.00,     23.9800,Martini  ,Sponge Spicules                              ,               ,                  ,C                 ,           ,R          ,R              ,R             ,A           ,R                     ,R              ,              ,             ,             ,            ,from ODP Leg 112 SR Chapter 11 Table 1 p 177
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,                  ,              ,112, 685,A,  4,H, 3,  71.00,     26.8100,Martini  ,Sponge Spicules                              ,               ,                  ,C                 ,R          ,R          ,R              ,R             ,A           ,R                     ,               ,              ,             ,             ,            ,from ODP Leg 112 SR Chapter 11 Table 1 p 177
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

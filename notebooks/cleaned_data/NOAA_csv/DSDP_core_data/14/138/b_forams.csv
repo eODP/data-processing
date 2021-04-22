@@ -1,0 +1,9 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+14,138,,5,1,118.0,120.0,332.00,333.19, 1,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BAMMD0075,Ammodiscus sp.,RARE,  ,1
+14,138,,6,1,121.0,122.0,425.00,426.22, 4,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BBATH0010,Bathysiphon sp.,RARE,  ,1
+14,138,,6,1,121.0,122.0,425.00,426.22, 4,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BLITO0010,Lituotuba sp.,RARE,  ,1
+14,138,,6,1,121.0,122.0,425.00,426.22, 4,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BPSAO0030,Psammosphaera sp.,RARE,  ,1
+14,138,,6,1,121.0,122.0,425.00,426.22, 4,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BREOP0010,Reophax sp.,RARE,  ,1
+14,138,,6,3,10.0,12.0,425.00,428.11, 2,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BBATH0010,Bathysiphon sp.,RARE,  ,1
+14,138,,6,3,10.0,12.0,425.00,428.11, 2,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BLITO0010,Lituotuba sp.,RARE,  ,1
+14,138,,6,3,120.0,122.0,425.00,429.21, 1,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,403,BBATH0010,Bathysiphon sp.,RARE,  ,1

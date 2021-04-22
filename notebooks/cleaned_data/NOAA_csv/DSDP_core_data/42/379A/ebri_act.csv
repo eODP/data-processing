@@ -1,0 +1,9 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+42,379,A,24,2,54.0,54.0,216.00,218.44, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,2%,  ,1
+42,379,A,24,4,141.0,141.0,216.00,222.31, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,4%,  ,1
+42,379,A,24,6,37.0,37.0,216.00,224.27, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,1%,  ,1
+42,379,A,24,6,95.0,95.0,216.00,224.85, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,1%,  ,1
+42,379,A,25,1,140.0,140.0,225.50,226.90, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,33%,  ,1
+42,379,A,25,2,137.0,137.0,225.50,228.37, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,45%,  ,1
+42,379,A,25,2,140.0,140.0,225.50,228.40, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,61%,  ,1
+42,379,A,25,3,14.0,14.0,225.50,228.64, 1,"SCHRADER,H.J.",04/1978,42,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,794,QHERE0020,Hermesium adriaticum,47%,  ,1

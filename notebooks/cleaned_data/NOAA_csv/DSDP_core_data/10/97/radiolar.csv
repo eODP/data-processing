@@ -1,0 +1,19 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+10,97,,2,1,42.0,44.0,105.00,105.43, 3,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RARTP0030,Artophormis gracilis,RARE,  ,1
+10,97,,2,1,42.0,44.0,105.00,105.43, 3,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RARTS0021,Artostrobium doliolum (q),TRACE,  ,1
+10,97,,2,1,42.0,44.0,105.00,105.43, 3,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RCYCA0040,Cyclampterium longiventer,RARE,  ,1
+10,97,,2,2,42.0,44.0,105.00,106.93, 1,"FOREMAN,H.P.",,10,RADIOLARIA,FEW,,,GOOD,NO AGE GIVEN,416,RARTP0030,Artophormis gracilis,RARE,  ,1
+10,97,,2,3,42.0,44.0,105.00,108.43, 1,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RCYCA0074,Cyclampterium pegetrum (q),RARE,  ,1
+10,97,,2,4,42.0,44.0,105.00,109.93, 4,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RARTP0030,Artophormis gracilis,FEW,  ,1
+10,97,,2,4,42.0,44.0,105.00,109.93, 4,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RARTS0021,Artostrobium doliolum (q),TRACE,  ,1
+10,97,,2,4,42.0,44.0,105.00,109.93, 4,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RCYCA0074,Cyclampterium pegetrum (q),FEW,  ,1
+10,97,,2,4,42.0,44.0,105.00,109.93, 4,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RLITT0081,Lithomitra lineata (q),TRACE,  ,1
+10,97,,2,CC,0.0,0.0,105.00,111.10, 3,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RARTP0030,Artophormis gracilis,FEW,  ,1
+10,97,,2,CC,0.0,0.0,105.00,111.10, 3,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RARTS0021,Artostrobium doliolum (q),TRACE,  ,1
+10,97,,2,CC,0.0,0.0,105.00,111.10, 3,"FOREMAN,H.P.",,10,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,416,RCYCA0074,Cyclampterium pegetrum (q),FEW,  ,1
+10,97,,4,CC,0.0,0.0,200.00,207.60, 3,"FOREMAN,H.P.",,10,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,416,RARTP0030,Artophormis gracilis,FEW,  ,1
+10,97,,4,CC,0.0,0.0,200.00,207.60, 3,"FOREMAN,H.P.",,10,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,416,RARTS0021,Artostrobium doliolum (q),TRACE,  ,1
+10,97,,4,CC,0.0,0.0,200.00,207.60, 3,"FOREMAN,H.P.",,10,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,416,RTHER0090,Theocorys spongoconus,RARE,  ,1
+10,97,,5,CC,0.0,0.0,250.00,251.60, 1,"FOREMAN,H.P.",,10,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,416,RLYCO0020,Lychnocanoma amphitrite,RARE,  ,1
+10,97,,11,CC,0.0,0.0,330.00,331.60, 2,"FOREMAN,H.P.",,10,RADIOLARIA,,,,,NO AGE GIVEN,470,RCRUC0010,Crucella sp.,PRESENT,  ,1
+10,97,,11,CC,0.0,0.0,330.00,331.60, 2,"FOREMAN,H.P.",,10,RADIOLARIA,,,,,NO AGE GIVEN,470,RDICM0285,Dictyomitra sp.,PRESENT,  ,1

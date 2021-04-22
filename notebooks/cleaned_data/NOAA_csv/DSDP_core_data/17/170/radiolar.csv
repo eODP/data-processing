@@ -1,0 +1,7 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+17,170,,1,CC,0.0,0.0,0.00,0.10, 5,"MOORE,TC",08/1973,17,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,818,RCYCL0030,Cycladophora hispida,RARE,  ,1
+17,170,,1,CC,0.0,0.0,0.00,0.10, 5,"MOORE,TC",08/1973,17,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,818,RDORC0200,Dorcadospyris triceros,FEW,  ,1
+17,170,,1,CC,0.0,0.0,0.00,0.10, 5,"MOORE,TC",08/1973,17,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,818,ROMMA0070,Ommatartus tetrathalamus,RARE,  ,1
+17,170,,1,CC,0.0,0.0,0.00,0.10, 5,"MOORE,TC",08/1973,17,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,818,RPODY0160,Podocyrtis mitra,FEW,  ,1
+17,170,,1,CC,0.0,0.0,0.00,0.10, 5,"MOORE,TC",08/1973,17,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,818,RTHEM0160,Theocampe mongolfieri,FEW,  ,1
+17,170,,2,CC,0.0,0.0,1.00,10.10, 1,"MOORE,TC",08/1973,17,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,818,RDORC0030,Dorcadospyris ateuchus,RARE,  ,1

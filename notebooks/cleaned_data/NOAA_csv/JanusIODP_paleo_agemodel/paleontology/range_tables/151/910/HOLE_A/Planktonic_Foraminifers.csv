@@ -1,0 +1,54 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Neogloboquadrina pachyderma (sinistral),Neogloboquadrina pachyderma (dextral),Globigerina cf. bulloides,Neogloboquadrina cf. dutertrei,Comment
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  1,H, 1,  24.00,      0.2400,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,A                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  1,H, 2,  24.00,      1.7400,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  1,H, 3,   4.00,      3.0400,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  1,H, 4,   8.00,      4.5800,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  1,H,CC,  19.00,      5.4500,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,A                                      ,R                                    ,F                        ,C                             ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H, 1,  20.00,      5.7000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H, 2,  20.00,      7.2000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H, 3,  20.00,      8.7000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H, 4,  20.00,     10.2000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,R                             ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H, 5,  20.00,     11.7000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H, 6,  20.00,     13.2000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,R                                    ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H,CC,  20.00,     14.2900,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  2,H,CC,  33.00,     14.4200,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,A                                      ,R                                    ,                         ,R                             ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  3,H, 1,  15.00,     15.1500,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,R                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  3,H, 2,  15.00,     16.6500,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  3,H, 3,  15.00,     18.1500,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  3,H,CC,  14.00,     19.1500,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  3,H,CC,  47.00,     19.4800,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  4,H, 1,  13.00,     19.6300,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  4,H, 2,  24.00,     21.2400,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  4,H, 3,  13.00,     22.6300,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,R                        ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  4,H, 4,   4.00,     24.0400,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  4,H,CC,  27.00,     24.5000,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  5,X,CC,   9.00,     24.5900,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,                                     ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,
+  SR,Quaternary       ,                 ,N. pachyderma (sin.),              ,151, 910,A,  5,X,CC,  16.00,     24.6600,Spiegler ,Planktonic Foraminifers                      ,               ,G                 ,C                                      ,R                                    ,                         ,                              ,From Leg 151SR; Ch 8; Table 4; p. 160
+,,,,,,,,,,,,,,,,,,,,,

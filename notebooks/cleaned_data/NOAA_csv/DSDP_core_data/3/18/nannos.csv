@@ -1,0 +1,36 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+3,18,,1,5,9.0,10.0,0.00,6.10, 1,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+3,18,,1,5,74.0,75.0,0.00,6.75, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1
+3,18,,1,5,74.0,75.0,0.00,6.75, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
+3,18,,1,5,74.0,75.0,0.00,6.75, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NSPHN0030,Sphenolithus belemnos,PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NTRIQ0011,Triquetrorhabdulus carinatus (q),PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCYCC0102,Cyclococcolithus leptoporus (q),PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NSPHN0030,Sphenolithus belemnos,PRESENT,  ,1
+3,18,,2,1,0.0,2.0,121.00,121.01, 4,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NSPHN0120,Sphenolithus heteromorphus,PRESENT,  ,1
+3,18,,2,6,0.0,0.0,121.00,128.50, 1,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,2,6,148.0,150.0,121.00,129.99, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
+3,18,,2,6,148.0,150.0,121.00,129.99, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+3,18,,2,6,148.0,150.0,121.00,129.99, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NDISC0155,Discoaster druggii,PRESENT,  ,1
+3,18,,2,6,148.0,150.0,121.00,129.99, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NORTH0010,Orthorhabdus serratus,PRESENT,  ,1
+3,18,,3,1,150.0,150.0,141.20,142.70, 1,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,3,6,148.0,150.0,141.20,150.19, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,3,6,148.0,150.0,141.20,150.19, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NSPHN0035,Sphenolithus belemnos (q),PRESENT,  ,1
+3,18,,4,2,0.0,2.0,150.30,151.81, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,620,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,4,2,0.0,2.0,150.30,151.81, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,620,NSPHN0035,Sphenolithus belemnos (q),PRESENT,  ,1
+3,18,,4,5,148.0,150.0,150.30,157.79, 1,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,5,1,148.0,150.0,159.80,161.29, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,5,1,148.0,150.0,159.80,161.29, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NDISC0475,Discoaster tanii,PRESENT,  ,1
+3,18,,5,6,0.0,2.0,159.80,167.31, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,5,6,0.0,2.0,159.80,167.31, 2,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NHELI0090,Helicopontosphaera intermedia,PRESENT,  ,1
+3,18,,6,1,2.0,3.0,168.90,168.93, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1
+3,18,,6,1,2.0,3.0,168.90,168.93, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NHELI0140,Helicopontosphaera parallela,PRESENT,  ,1
+3,18,,6,1,2.0,3.0,168.90,168.93, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NSPHN0035,Sphenolithus belemnos (q),PRESENT,  ,1
+3,18,,6,3,148.0,150.0,168.90,173.39, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCOCO0030,Coccolithus bisectus,PRESENT,  ,1
+3,18,,6,3,148.0,150.0,168.90,173.39, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCOCO0032,Coccolithus bisectus (q),PRESENT,  ,1
+3,18,,6,3,148.0,150.0,168.90,173.39, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
+3,18,,6,3,148.0,150.0,168.90,173.39, 4,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,607,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+3,18,,6,6,2.0,3.0,168.90,176.43, 1,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,623,NCOCO0260,Coccolithus neogammation,PRESENT,  ,1

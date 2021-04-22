@@ -1,0 +1,15 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BADER0010,Adercotryma glomeratum,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BAMMD0050,Ammodiscus incertus,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BAMML0010,Ammolagena clavata,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BAMMO0020,Ammobaculites agglutinans,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BCRIR0035,Cribrostomoides nitidus,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BCRIR0040,Cribrostomoides subglobosus,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BCYCL0085,Cyclammina trullisata,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BHORM0005,Hormosina carpenteri,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BPSAO0010,Psammosphaera fusca,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHAB0020,Rhabdammina abyssorum,PRESENT,  ,1
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHAB0025,Rhabdammina discreta,PRESENT,  ,2
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BSACO0020,Saccorhiza ramosa,PRESENT,  ,2
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BSIGO0010,Sigmoilopsis schlumbergeri,PRESENT,  ,2
+96,620,,1,1,0.0,1.0,0.00,0.01,14,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BTOLY0030,Tolypammina vagans,PRESENT,  ,2

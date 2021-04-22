@@ -1,0 +1,4 @@
+leg,site,hole,core,coretype,section,observer,top interval,piece number top,sub piece top,bottom interval,piece number bottom,sub piece bottom,lithology,color,color number,structures,drilling deformities,unusual occurrences,minerals,paleontology,other,induration,more data available,code,latitude,longitude,depth,top interval depth below sea floor,bottom interval depth below sea floor
+119,740,B,001,Rotary,01,EHR,000,,,146,,,diatom ooze,olive(0-55cm);olive gray(55-146cm),5y 4/3(0-55cm);5y 4/2(55-146cm),,soupy,,,diatoms,gradational contact(55cm),,,R,-68.76357,76.68188,0000.00,0,146
+119,740,B,001,Rotary,01,EHR,146,,,150,,,whole round sample?,,,,,,,,,,,R,-68.76357,76.68188,0000.00,146,150
+119,740,B,001,Rotary,CC,HAM,000,,,007,,,diatom ooze,olive gray,5y 4/2,,soupy,,,diatoms,,,,R,-68.76357,76.68188,0001.50,150,157

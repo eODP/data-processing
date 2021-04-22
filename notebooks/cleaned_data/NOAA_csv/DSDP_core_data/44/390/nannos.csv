@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+44,390,,1,6,75.0,77.0,0.00,8.26, 4,"BUKRY,D.",,44,NANNOFOSSILS,,,,,NO AGE GIVEN,842,NBRAA0055,Braarudosphaera sp.,PRESENT,  ,1
+44,390,,1,6,75.0,77.0,0.00,8.26, 4,"BUKRY,D.",,44,NANNOFOSSILS,,,,,NO AGE GIVEN,842,NBRAM0010,Bramletteius serraculoides,PRESENT,  ,1
+44,390,,1,6,75.0,77.0,0.00,8.26, 4,"BUKRY,D.",,44,NANNOFOSSILS,,,,,NO AGE GIVEN,842,NMICR0120,Micrantholithus procerus,PRESENT,  ,1
+44,390,,1,6,75.0,77.0,0.00,8.26, 4,"BUKRY,D.",,44,NANNOFOSSILS,,,,,NO AGE GIVEN,842,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1

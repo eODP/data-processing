@@ -1,0 +1,18 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+29,282,,4,3,70.0,70.0,28.00,31.70, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PPROT0020,Proteacidites annularis,PRESENT,  ,1
+29,282,,4,3,80.0,80.0,28.00,31.80, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PSTRA0010,Striatites sp.,PRESENT,  ,1
+29,282,,8,2,87.0,87.0,75.50,77.87, 2,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PLYCO0020,Lycopodiumsporites austroclavatidites,PRESENT,  ,1
+29,282,,8,2,87.0,87.0,75.50,77.87, 2,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PSTRA0010,Striatites sp.,PRESENT,  ,1
+29,282,,8,3,70.0,70.0,75.50,79.20, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PPROT0050,Proteacidites franktonensis,PRESENT,  ,1
+29,282,,9,1,115.0,115.0,85.00,86.15, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PPROT0030,Proteacidites clintonensis,PRESENT,  ,1
+29,282,,12,2,90.0,90.0,113.50,115.90, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PMYRT0040,Myrtaceidites parvus,PRESENT,  ,1
+29,282,,13,3,67.0,67.0,132.50,136.17, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PPROT0020,Proteacidites annularis,PRESENT,  ,1
+29,282,,13,3,70.0,70.0,132.50,136.20, 5,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,738,PBEAU0010,Beaupreaeidites elegansiformis,PRESENT,  ,1
+29,282,,13,3,70.0,70.0,132.50,136.20, 5,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,738,PCYAT0030,Cyathidites minor,PRESENT,  ,1
+29,282,,13,3,70.0,70.0,132.50,136.20, 5,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,738,PNOTH0010,Nothofagidites sp.,PRESENT,  ,1
+29,282,,13,3,70.0,70.0,132.50,136.20, 5,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,738,PNOTH0050,Nothofagidites flemingii,PRESENT,  ,1
+29,282,,13,3,70.0,70.0,132.50,136.20, 5,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,738,PPHYL0020,Phyllocladidites mawsonii,PRESENT,  ,1
+29,282,,14,3,70.0,70.0,161.00,164.70, 2,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PPROT0111,Proteacidites retiformis (q),PRESENT,  ,1
+29,282,,14,3,70.0,70.0,161.00,164.70, 2,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PPROT0121,Proteacidites subscabratus (q),PRESENT,  ,1
+29,282,,17,1,135.0,135.0,256.00,257.35, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PZONA0010,Zonalapollenites trilobatus,PRESENT,  ,1
+29,282,,18,1,85.0,85.0,294.00,294.85, 1,"HASKELL,T.R.;WILSON,G.J.",,29,POLLEN AND SPORES,,,,,NO AGE GIVEN,740,PTRIC0095,Tricolpites sabulosus (q),PRESENT,  ,1

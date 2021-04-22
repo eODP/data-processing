@@ -1,0 +1,16 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+59,449,,6,4,90.0,92.0,38.00,43.41, 1,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0005,Globigerina sp.,RARE,  ,1
+59,449,,11,2,12.0,14.0,85.50,87.13, 1,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0005,Globigerina sp.,RARE,  ,1
+59,449,,13,6,10.0,12.0,104.50,112.11, 5,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FCATA0160,Catapsydrax unicavus,RARE,  ,1
+59,449,,13,6,10.0,12.0,104.50,112.11, 5,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOA0498,Globorotalia siakensis,RARE,  ,1
+59,449,,13,6,10.0,12.0,104.50,112.11, 5,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0346,Globigerina gortanii (q),PRESENT,  ,1
+59,449,,13,6,10.0,12.0,104.50,112.11, 5,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0775,Globigerina tripartita,FEW,  ,1
+59,449,,13,6,10.0,12.0,104.50,112.11, 5,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0810,Globigerina venezuelana,RARE,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FCATA0160,Catapsydrax unicavus,RARE,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOA0362,Globorotalia opima nana,RARE,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOA0498,Globorotalia siakensis,FEW,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0005,Globigerina sp.,FEW,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0165,Globigerina ciperoensis,RARE,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0706,Globigerina selli (q),RARE,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOG0775,Globigerina tripartita,RARE,  ,1
+59,449,,13,CC,,,104.50,113.50, 8,"HEIMAN,M.E.",01/1981,59,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,575,FGLOQ0345,Globoquadrina sp.,RARE,  ,1

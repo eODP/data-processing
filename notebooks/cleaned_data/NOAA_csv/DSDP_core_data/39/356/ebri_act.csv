@@ -1,0 +1,15 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+39,356,,6,1,130.0,130.0,114.00,115.30, 2,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QAMMO0030,Ammodochium rectangulare,FEW,  ,1
+39,356,,6,1,130.0,130.0,114.00,115.30, 2,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QPSEU0020,Pseudammopochium dictyoides,RARE,  ,1
+39,356,,6,3,70.0,70.0,114.00,117.70, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QAMMO0030,Ammodochium rectangulare,RARE,  ,1
+39,356,,6,3,70.0,70.0,114.00,117.70, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QEBRO0040,Ebriopsis crenulata,FEW,  ,1
+39,356,,6,3,70.0,70.0,114.00,117.70, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QHERS0010,Hermesinopsis caulleryi,FEW,  ,1
+39,356,,6,5,70.0,70.0,114.00,120.70, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QAMMO0030,Ammodochium rectangulare,FEW,  ,1
+39,356,,6,5,70.0,70.0,114.00,120.70, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QEBRO0040,Ebriopsis crenulata,RARE,  ,1
+39,356,,6,5,70.0,70.0,114.00,120.70, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QHERS0010,Hermesinopsis caulleryi,RARE,  ,1
+39,356,,8,2,71.0,71.0,161.50,163.71, 1,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QHERS0010,Hermesinopsis caulleryi,RARE,  ,1
+39,356,,9,1,114.0,114.0,190.00,191.14, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QAMMO0030,Ammodochium rectangulare,FEW,  ,1
+39,356,,9,1,114.0,114.0,190.00,191.14, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QEBRO0040,Ebriopsis crenulata,FEW,  ,1
+39,356,,9,1,114.0,114.0,190.00,191.14, 3,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QHERS0010,Hermesinopsis caulleryi,RARE,  ,1
+39,356,,9,2,70.0,70.0,190.00,192.20, 2,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QAMMO0030,Ammodochium rectangulare,RARE,  ,1
+39,356,,9,2,70.0,70.0,190.00,192.20, 2,"PERCH-NIELSEN,K.",08/1977,39,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,864,QEBRO0040,Ebriopsis crenulata,RARE,  ,1

@@ -1,0 +1,12 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+66,493,A,1,1,0.0,65.0,0.00,0.00,0.65,, SANDY MUDDY SILT, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOUPY, 33233000
+66,493,A,1,1,66.0,150.0,0.00,0.66,1.50,, MUDDY SILT, OLIVE GRAY," LAMINAE,BEDDING",,  *,, PLANT DEBRIS,, SOFT,
+66,493,A,1,2,0.0,83.0,0.00,1.50,2.33,, MUDDY SILT, OLIVE GRAY, BEDDING,,  *,, PLANT DEBRIS,, SOFT,
+66,493,A,1,2,86.0,90.0,0.00,2.36,2.40,, MUDDY SILT, OLIVE GRAY, BEDDING,,  *,, PLANT DEBRIS,, SOFT,
+66,493,A,1,CC,0.0,15.0,0.00,2.58,2.63,, MUDDY SILT, OLIVE GRAY,,,  *,,,, SOFT,
+66,493,A,2,1,0.0,150.0,2.50,2.50,4.00,, MUDDY SILT, OLIVE GRAY, LAMINAE, MODERATELY DISTURBED,  *,, PLANT DEBRIS,, SOFT,
+66,493,A,2,2,0.0,115.0,2.50,4.00,5.15,, MUDDY SILT, OLIVE GRAY,, MODERATELY DISTURBED,  *,, PLANT DEBRIS,, SOFT,
+66,493,A,2,3,0.0,135.0,2.50,5.50,6.85,, MUDDY SILT, OLIVE GRAY,, MODERATELY DISTURBED,  *,,,, SOFT,
+66,493,A,2,4,0.0,35.0,2.50,7.00,7.35,, MUDDY SILT, OLIVE GRAY,, MODERATELY DISTURBED,,,,, SOFT, 33213000.3311.3450
+66,493,A,2,CC,0.0,18.0,2.50,7.45,7.53,, MUDDY SILT, OLIVE GRAY,  Z 33213000.3311.3450*,,,,,, SOFT,
+66,493,A,3,1,0.0,1.0,12.00,12.00,12.01,, MUDDY SILT,,,,,,,, SOFT, 33213000.3311.3450

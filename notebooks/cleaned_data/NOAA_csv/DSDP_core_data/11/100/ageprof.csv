@@ -1,0 +1,6 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+11,100,,VALANGINIAN,TITHONIAN,203.0,212.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  126,  141,133.5,DSDP INITIAL REPORTS
+11,100,,UPPER JURASSIC,,237.0,276.0,,NO AGE GIVEN,,NO AGE GIVEN,  135,  149,  142,DSDP INITIAL REPORTS
+11,100,,OXFORDIAN,,276.0,286.0,,NO AGE GIVEN,,NO AGE GIVEN,  143,  149,  146,DSDP INITIAL REPORTS
+11,100,,OXFORDIAN,CALLOVIAN,286.0,317.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  143,  156,149.5,DSDP INITIAL REPORTS
+11,100,,UPPER JURASSIC,MIDDLE JURASSIC,317.0,321.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  135,  171,  153,DSDP INITIAL REPORTS

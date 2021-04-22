@@ -1,0 +1,16 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+39,358,,1,CC,0.0,0.0,47.50,57.00, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,RARE,  ,1
+39,358,,2,2,90.0,90.0,123.50,125.90, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,2,3,90.0,90.0,123.50,127.40, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,2,4,90.0,90.0,123.50,128.90, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,RARE,  ,1
+39,358,,2,CC,0.0,0.0,123.50,129.60, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,4,1,120.0,120.0,275.50,276.70, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,RARE,  ,1
+39,358,,4,2,130.0,130.0,275.50,278.30, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,5,CC,0.0,0.0,351.50,354.60, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,6,1,46.0,46.0,418.00,418.46, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,6,1,46.0,46.0,418.00,418.46, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0030,Actiniscus radicula,FEW,  ,1
+39,358,,6,2,139.0,139.0,418.00,420.89, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,RARE,  ,1
+39,358,,6,3,69.0,69.0,418.00,421.69, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,RARE,  ,1
+39,358,,6,CC,0.0,0.0,418.00,422.60, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,FEW,  ,1
+39,358,,6,CC,0.0,0.0,418.00,422.60, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0030,Actiniscus radicula,FEW,  ,1
+39,358,,7,1,58.0,58.0,484.50,485.08, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,865,CACTI0020,Actiniscus pentasterias,RARE,  ,1

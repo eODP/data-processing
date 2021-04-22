@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+20,202,,1,1,0.0,150.0,49.00,49.00,50.50,," FORAMINIFERAL SAND,NANNO BEARING", -TAN,,,,,," CORE WAT ERY,MIXED", WATERY, 11111210
+20,202,,3,1,105.0,150.0,74.00,75.05,75.50,, LIMESTONE," -TAN,-GRAYISH",,,,,, UPPER 10 CM GRAYISH,, 12130000
+20,202,,3,CC,0.0,0.0,74.00,75.60,75.60,, LIMESTONE," -TAN,-GRAYISH",,,,,, UPPER 10 CM GRAYISH,, 12130000
+20,202,,4,CC,0.0,0.0,96.50,96.60,96.60,, DOLITIC LIMESTONE, -TAN,,,,, OCCASIONAL SHELL FRAGME NTS OF BIVALVES AND GASTROPODS,,, 12130000

@@ -1,0 +1,33 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,58,B,1,1,72.0,74.0,136.60,137.33, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,1,72.0,74.0,136.60,137.33, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCALC0112,Calocycletta virginis (q),COMMON,  ,1
+6,58,B,1,1,72.0,74.0,136.60,137.33, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,RARE,  ,1
+6,58,B,1,1,72.0,74.0,136.60,137.33, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
+6,58,B,1,1,72.0,74.0,136.60,137.33, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
+6,58,B,1,1,72.0,74.0,136.60,137.33, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,RARE,  ,1
+6,58,B,1,2,26.0,28.0,136.60,138.37, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,2,26.0,28.0,136.60,138.37, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCANN0070,Cannartus prismaticus,RARE,  ,1
+6,58,B,1,2,26.0,28.0,136.60,138.37, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
+6,58,B,1,2,26.0,28.0,136.60,138.37, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
+6,58,B,1,2,26.0,28.0,136.60,138.37, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RLYCN0040,Lychnocanium bipes,RARE,  ,1
+6,58,B,1,3,20.0,22.0,136.60,139.81, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,3,20.0,22.0,136.60,139.81, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCANN0070,Cannartus prismaticus,RARE,  ,1
+6,58,B,1,3,20.0,22.0,136.60,139.81, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
+6,58,B,1,3,20.0,22.0,136.60,139.81, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
+6,58,B,1,4,35.0,37.0,136.60,141.46, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,4,35.0,37.0,136.60,141.46, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCANN0070,Cannartus prismaticus,RARE,  ,1
+6,58,B,1,4,35.0,37.0,136.60,141.46, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
+6,58,B,1,4,35.0,37.0,136.60,141.46, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
+6,58,B,1,4,35.0,37.0,136.60,141.46, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RLYCN0040,Lychnocanium bipes,RARE,  ,1
+6,58,B,1,5,10.0,12.0,136.60,142.71, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,5,10.0,12.0,136.60,142.71, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCANN0070,Cannartus prismaticus,FEW,  ,1
+6,58,B,1,5,10.0,12.0,136.60,142.71, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RDORC0030,Dorcadospyris ateuchus,RARE,  ,1
+6,58,B,1,6,60.0,62.0,136.60,144.71, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,6,60.0,62.0,136.60,144.71, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCANN0070,Cannartus prismaticus,FEW,  ,1
+6,58,B,1,6,60.0,62.0,136.60,144.71, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
+6,58,B,1,6,60.0,62.0,136.60,144.71, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RDORC0030,Dorcadospyris ateuchus,RARE,  ,1
+6,58,B,1,CC,0.0,0.0,136.60,145.70, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0110,Calocycletta virginis,COMMON,  ,1
+6,58,B,1,CC,0.0,0.0,136.60,145.70, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCALC0112,Calocycletta virginis (q),COMMON,  ,1
+6,58,B,1,CC,0.0,0.0,136.60,145.70, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCANN0070,Cannartus prismaticus,FEW,  ,1
+6,58,B,1,CC,0.0,0.0,136.60,145.70, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
+6,58,B,1,CC,0.0,0.0,136.60,145.70, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1082,RDORC0030,Dorcadospyris ateuchus,RARE,  ,1

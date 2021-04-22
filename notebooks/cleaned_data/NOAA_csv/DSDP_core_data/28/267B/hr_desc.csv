@@ -1,0 +1,4 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+28,267,B,10,1,77.0,313.50,314.27,  314.76,"PIPER, D. J. W.",SEDIMENT (NANNO CHALK),,,,,LIGHT BROWN (5 YR 6/4),,,,,,
+28,267,B,10,1,126.0,313.50,314.76,  315.00,"PIPER, D. J. W.",BASALT,"PCES 1 (126-129), 2 (130-136), 3 (138-140), 4 (142-144), 5 (146-150)",,,,SEE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS FOR FURTHER INFORMATION,,,,,,
+28,267,B,10,CC,16.0,313.50,315.16,  315.36,"PIPER, D. J. W.",BASALT,,,,,"FOUR BLOCKS OF BASALT WITH EACH 5 CM, TWO ARE ORIENTED, SEE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS FOR FURTHER INFORMATION",,,,,,

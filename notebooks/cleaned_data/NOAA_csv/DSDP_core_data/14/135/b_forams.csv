@@ -1,0 +1,5 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+14,135,,5,CC,0.0,0.0,335.00,336.60, 1,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNUMU0010,Nummulites sp.,RARE,  ,1
+14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BGYRO0070,Gyroidina florealis,RARE,  ,1
+14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNEOF0040,Neoflabellina numismalis,RARE,  ,1
+14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNUMU0010,Nummulites sp.,RARE,  ,1

@@ -1,0 +1,15 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+6,45,A,1,5,3.0,3.0,0.00,6.03, 2,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NDISC0170,Discoaster extensus,PRESENT,  ,1
+6,45,A,1,5,3.0,3.0,0.00,6.03, 2,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1005,NWATZ0155,Watznaueria sp.,PRESENT,  ,1
+6,45,A,1,5,60.0,60.0,0.00,6.60, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NCOCO0035,Coccolithus bisulcus (q),PRESENT,  ,1
+6,45,A,1,5,60.0,60.0,0.00,6.60, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
+6,45,A,1,5,60.0,60.0,0.00,6.60, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NDISC0125,Discoaster deflandrei,PRESENT,  ,1
+6,45,A,1,5,60.0,60.0,0.00,6.60, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NRETI0231,Reticulofenestra umbilica (q),PRESENT,  ,1
+6,45,A,1,5,60.0,60.0,0.00,6.60, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NSPHN0055,Sphenolithus ciperoensis (q),PRESENT,  ,1
+6,45,A,1,5,60.0,60.0,0.00,6.60, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NSPHN0140,Sphenolithus moriformis,PRESENT,  ,1
+6,45,A,2,CC,0.0,0.0,46.90,47.00, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NBRAM0010,Bramletteius serraculoides,PRESENT,  ,1
+6,45,A,2,CC,0.0,0.0,46.90,47.00, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NCYCC0060,Cyclococcolithus formosus,PRESENT,  ,1
+6,45,A,2,CC,0.0,0.0,46.90,47.00, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
+6,45,A,2,CC,0.0,0.0,46.90,47.00, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1
+6,45,A,2,CC,0.0,0.0,46.90,47.00, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NDISC0490,Discoaster tanii tanii,PRESENT,  ,1
+6,45,A,2,CC,0.0,0.0,46.90,47.00, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,973,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1

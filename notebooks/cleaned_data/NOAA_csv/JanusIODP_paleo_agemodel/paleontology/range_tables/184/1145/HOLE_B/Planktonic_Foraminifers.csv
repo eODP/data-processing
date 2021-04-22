@@ -1,0 +1,14 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Globigerinoides ruber,Globigerinoides ruber (pink),Comment
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+  IR,Pleistocene      ,Pleistocene      ,N22               ,N22           ,184,1145,B,  2,H,CC,  11.00,     14.8000,forams   ,Planktonic Foraminifers                      ,A              ,VG                ,A                    ,                            ,<0.12 Ma
+,,,,,,,,,,,,,,,,,,,
+  IR,Pleistocene      ,Pleistocene      ,N22               ,N22           ,184,1145,B,  3,H,CC,  16.00,     25.7800,forams   ,Planktonic Foraminifers                      ,A              ,VG                ,A                    ,P                           ,>0.12 Ma
+,,,,,,,,,,,,,,,,,,,
+  IR,Pleistocene      ,Pleistocene      ,N22               ,N22           ,184,1145,B,  4,H,CC,   0.00,     34.6600,forams   ,Planktonic Foraminifers                      ,A              ,VG                ,A                    ,R                           ,>0.12
+,,,,,,,,,,,,,,,,,,,
+  IR,Pleistocene      ,Pleistocene      ,N22               ,N22           ,184,1145,B,  7,H,CC,  19.00,     63.8800,forams   ,Planktonic Foraminifers                      ,A              ,VG                ,A                    ,P                           ,<0.4 Ma
+,,,,,,,,,,,,,,,,,,,
+  IR,Pleistocene      ,Pleistocene      ,N22               ,N22           ,184,1145,B,  8,H,CC,  13.00,     72.5000,forams   ,Planktonic Foraminifers                      ,A              ,VG                ,A                    ,                            ,>0.4 Ma
+,,,,,,,,,,,,,,,,,,,

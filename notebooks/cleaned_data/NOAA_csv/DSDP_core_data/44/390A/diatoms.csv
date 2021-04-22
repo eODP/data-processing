@@ -1,0 +1,20 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DACIN0010,Actinoptychus sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DARAC0040,Arachnodiscus sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DBRIG0020,Brightwellia sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DHEMI0010,Hemiaulus sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DMELO0010,Melosira sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DRHAP0010,Rhaphoneis sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DRHAP0010,Rhaphoneis sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DSTEA0010,Stephanopyxis sp.,PRESENT,  ,1
+44,390,A,2,2,75.0,77.0,19.00,21.26, 9,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DTRIC0010,Triceratium sp.,PRESENT,  ,1
+44,390,A,4,1,78.0,80.0,38.00,39.19, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,856,DSTIC0012,Stichodiscus sp. (q),PRESENT,  ,1
+44,390,A,6,3,75.0,77.0,57.00,61.16, 4,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,842,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,1
+44,390,A,6,3,75.0,77.0,57.00,61.16, 4,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,842,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,1
+44,390,A,6,3,75.0,77.0,57.00,61.16, 4,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,842,DCOSC0610,Coscinodiscus oblongus,PRESENT,  ,1
+44,390,A,6,3,75.0,77.0,57.00,61.16, 4,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,842,DTRIC0010,Triceratium sp.,PRESENT,  ,1
+44,390,A,6,4,75.0,77.0,57.00,62.66, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,842,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,1
+44,390,A,7,2,88.0,90.0,66.50,68.89, 3,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DAULA0010,Aulacodiscus sp.,PRESENT,  ,1
+44,390,A,7,2,88.0,90.0,66.50,68.89, 3,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DHEMI0010,Hemiaulus sp.,PRESENT,  ,1
+44,390,A,7,2,88.0,90.0,66.50,68.89, 3,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DTRIC0010,Triceratium sp.,PRESENT,  ,1
+44,390,A,7,3,79.0,81.0,66.50,70.30, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,854,DPYXL0090,Pyxilla sp.,PRESENT,  ,1

@@ -1,0 +1,16 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+48,404,,2,CC,,,21.50,30.82, 1,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OPOSE0010,Poseidonamicus sp.,PRESENT,  ,1
+48,404,,3,CC,,,104.00,104.86, 1,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OPOSE0010,Poseidonamicus sp.,PRESENT,  ,1
+48,404,,5,CC,,,180.00,182.95, 1,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OPOSE0010,Poseidonamicus sp.,PRESENT,  ,1
+48,404,,6,CC,,,189.50,191.25, 6,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+48,404,,6,CC,,,189.50,191.25, 6,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OCYTE0014,Cytherella consueta,PRESENT,  ,1
+48,404,,6,CC,,,189.50,191.25, 6,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OEUCY0010,Eucythere declivis,PRESENT,  ,1
+48,404,,6,CC,,,189.50,191.25, 6,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OHENR0020,Henryhowella asperrima,RARE,  ,1
+48,404,,6,CC,,,189.50,191.25, 6,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OKRIT0010,Krithe sp.,RARE,  ,1
+48,404,,6,CC,,,189.50,191.25, 6,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OPOSE0010,Poseidonamicus sp.,PRESENT,  ,1
+48,404,,10,CC,,,227.50,228.34, 1,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+48,404,,17,CC,,,294.00,301.60, 4,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OHERM0011,Hermanites sp. (q),PRESENT,  ,1
+48,404,,17,CC,,,294.00,301.60, 4,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OLOXO0020,Loxoconcha sp.,PRESENT,  ,1
+48,404,,17,CC,,,294.00,301.60, 4,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OPARA0010,Paracypris sp.,PRESENT,  ,1
+48,404,,17,CC,,,294.00,301.60, 4,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OPARK0010,Parakrithe sp.,PRESENT,  ,1
+48,404,,25,CC,,,370.00,371.40, 1,DUCASSE,08/1979,48,OSTRACODES,,,,,NO AGE GIVEN,345,OHERM0011,Hermanites sp. (q),PRESENT,  ,1

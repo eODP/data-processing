@@ -1,0 +1,7 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+15,150,,PLIOCENE,,49.0,58.0,,NO AGE GIVEN,,NO AGE GIVEN,  1.8,    5,  3.4,DSDP INITIAL REPORTS
+15,150,,MIDDLE MIOCENE,,93.5,94.0,,NO AGE GIVEN,,NO AGE GIVEN, 10.5,   16,13.25,DSDP INITIAL REPORTS
+15,150,,LOWER MIOCENE,,95.0,114.0,,NO AGE GIVEN,,NO AGE GIVEN,   16, 22.5,19.25,DSDP INITIAL REPORTS
+15,150,,LOWER EOCENE,,132.0,141.0,,NO AGE GIVEN,,NO AGE GIVEN,   49, 53.5,51.25,DSDP INITIAL REPORTS
+15,150,,SANTONIAN,CONIACIAN,150.0,159.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,   78,   86,   82,DSDP INITIAL REPORTS
+15,150,,CONIACIAN,TURONIAN,159.0,168.0,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,   82,   92,   87,DSDP INITIAL REPORTS

@@ -1,0 +1,20 @@
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
+87,583,C,1,1,0.0,10.0,25.00,25.00,25.10,AJS, MUD,,,,,,,, SOFT, 33213000
+87,583,C,1,CC,0.0,15.0,25.00,25.21,25.26,AJS, MUD,,,,,,,, SOFT, 33213000
+87,583,C,2,1,0.0,145.0,30.00,30.00,31.45,JC," MUD,SILT",,,,,,,, SOFT, 33213000
+87,583,C,2,2,0.0,120.0,30.00,31.50,32.70,CLS," MUD,SILT",,,,,,,, SOFT, 33213000
+87,583,C,2,3,0.0,135.0,30.00,33.00,34.35,CLS," MUD,SANDY SILT",,,,,,,, SOFT, 00000000
+87,583,C,2,4,0.0,60.0,30.00,34.50,35.10,CLS," MUD,SAND",,,,,,,, SOFT, 00000000
+87,583,C,2,CC,0.0,24.0,30.00,35.22,35.36,CLS," MUD,SAND",,,,,,,, SOFT, 00000000
+87,583,C,3,1,0.0,150.0,35.00,35.00,36.50,CLS," MUD,SILTY TURBIDITES",,,,,,,, SOFT, 00000000
+87,583,C,3,2,0.0,150.0,35.00,36.50,38.00,CLS," MUD, TURBIDITES",,,,,,,, SOFT, 00000000
+87,583,C,3,3,0.0,150.0,35.00,38.00,39.50,AT," MUD, TURBIDITES",,,,,,,, SOFT, 00000000
+87,583,C,3,4,0.0,43.0,35.00,39.50,39.93,AT," MUD,SAND",,,,,,,, SOFT, 00000000
+87,583,C,4,1,0.0,150.0,40.00,40.00,41.50,COUL," MUD,SILT,SAND",,,,,,,, SOFT, 00000000
+87,583,C,4,2,0.0,135.0,40.00,41.50,42.85,COUL," MUD,SILT,SAND",,,,,,,, SOFT, 00000000
+87,583,C,4,3,0.0,12.0,40.00,43.00,43.12,COUL, MUD,,,,,,,, SOFT, 00000000
+87,583,C,4,CC,0.0,33.0,40.00,43.22,43.45,COUL, MUD,,,,,,,, SOFT, 00000000
+87,583,C,5,1,0.0,150.0,45.00,45.00,46.50,JC, MUD,,,,,,,, SOFT, 00000000
+87,583,C,5,2,0.0,150.0,45.00,46.50,48.00,JC, MUD,,,,,,,, SOFT, 00000000
+87,583,C,5,3,0.0,80.0,45.00,48.00,48.80,JC, MUD,,,,,,,, SOFT, 33213000
+87,583,C,5,CC,0.0,15.0,45.00,48.90,48.95,JC, MUD,,,,,,,, SOFT, 33213000

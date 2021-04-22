@@ -1,0 +1,66 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DACTI0200,Actinocyclus octonarius tenella,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DACIN0050,Actinoptychus reinholdii,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0280,Coscinodiscus excentricus,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DDIME0050,Dimerogramma marinum,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0080,Grammatophora oceanica macilenta,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DHYAL0020,Hyalodiscus scoticus,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DRHIZ0010,Rhizosolenia sp.,PRESENT,  ,1
+13,128,,3,6,97.0,100.0,79.00,98.50, 9,"HAJOS,M.",,13,DIATOMS,,,,,,945,DTHAL0005,Thalassionema sp.,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DACTI0170,Actinocyclus octonarius,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DACIN0070,Actinoptychus senarius minor,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DBACT0010,Bacteriastrum sp.,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCHAE0060,Chaetoceros lauderi,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCHAE0010,Chaetoceros sp.,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0170,Coscinodiscus curvatulus,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0190,Coscinodiscus curvatulus macropunctata,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0380,Coscinodiscus hustedtii,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0570,Coscinodiscus nitidus,PRESENT,  ,1
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DFRAI0020,Fragilariopsis pliocena,PRESENT,  ,2
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0020,Grammatophora angulosa,PRESENT,  ,2
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0060,Grammatophora marina adriatica,PRESENT,  ,2
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DRHIZ0010,Rhizosolenia sp.,PRESENT,  ,2
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DTHAA0070,Thalassiosira decipiens,PRESENT,  ,2
+13,128,,10,3,5.0,8.0,415.00,6.50,16,"HAJOS,M.",,13,DIATOMS,,,,,,945,DTHAS0005,Thalassiothrix sp.,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DACTI0200,Actinocyclus octonarius tenella,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DACIN0060,Actinoptychus senarius,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DASTR0180,Asteromphalus robustus,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0050,Coscinodiscus apiculatus,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0180,Coscinodiscus curvatulus arcuata,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0190,Coscinodiscus curvatulus macropunctata,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0200,Coscinodiscus curvatulus minor,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0280,Coscinodiscus excentricus,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0370,Coscinodiscus globosus,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0472,Coscinodiscus lineatus (q),PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DCOSC0490,Coscinodiscus marginatus,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DDIPL0160,Diploneis smithii,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DFRAI0020,Fragilariopsis pliocena,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGLYP0010,Glyphodesmis williamsonii,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0020,Grammatophora angulosa,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0030,Grammatophora angulosa islandica,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0070,Grammatophora maxima,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0080,Grammatophora oceanica macilenta,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0090,Grammatophora stricta fossilis,PRESENT,  ,2
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0100,Grammatophora undulata,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DHYAL0025,Hyalodiscus sp.,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DISTH0010,Isthmia sp.,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DLIRA0015,Liradiscus sp.(q),PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DMELO0180,Melosira westii,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DPARA0010,Paralia sulcata,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DPARA0020,Paralia sulcata biseriata,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DPARA0030,Paralia sulcata crenulata radiata,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DPLAG0010,Plagiogramma staurophorum,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DRHAP0120,Rhaphoneis nitida,PRESENT,  ,3
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DRHIZ0050,Rhizosolenia bergonii,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DSCEP0020,Sceptroneis caducea,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DSTEA0290,Stephanopyxis turris,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DSTIC0070,Stictodiscus paralellus balearica,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DSYNE0070,Synedra van heuckii,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DTRIC0070,Triceratium balearicum biquadrata,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DXANT0010,Xanthiopyxis sp.,PRESENT,  ,4
+13,128,,10,3,59.0,62.0,415.00,60.50,39,"HAJOS,M.",,13,DIATOMS,,,,,,945,DNITZ0010,Nitzschia sp.,PRESENT,  ,4
+13,128,,11,3,148.0,150.0,474.00,149.00, 1,"HAJOS,M.",,13,DIATOMS,,,,,,945,DGRAM0010,Grammatophora sp.,PRESENT,  ,1

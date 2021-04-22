@@ -1,0 +1,6 @@
+leg,site,hole,age mnemonic,auxiliary age mnemonic,top of section depth(m),bottom of section depth(m),special condition,age,auxiliary age,averaged age,age top of section(million years),age bottom of section(million years),average age(million years)t,data source
+44,392,A,UPPER CAMPANIAN,,50.5,60.0,,NO AGE GIVEN,,NO AGE GIVEN,   70,   74,   72,DSDP INITIAL REPORTS
+44,392,A,UPPER ALBIAN,MIDDLE ALBIAN,66.0,69.5,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  100,  106,  103,DSDP INITIAL REPORTS
+44,392,A,MIDDLE ALBIAN,LOWER ALBIAN,79.0,80.5,,NO AGE GIVEN,NO AGE GIVEN,NO AGE GIVEN,  104,  108,  106,DSDP INITIAL REPORTS
+44,392,A,UPPER APTIAN,,80.5,88.5,,NO AGE GIVEN,,NO AGE GIVEN,  108,  112,  110,DSDP INITIAL REPORTS
+44,392,A,BARREMIAN,,88.5,98.0,,NO AGE GIVEN,,NO AGE GIVEN,  115,  121,  118,DSDP INITIAL REPORTS

@@ -1,0 +1,30 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SCORB0382,Corbisema triacantha (q),4%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0022,Dictyocha aspera (q),1%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0114,Dictyocha brevispina ausonia,1%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0116,Dictyocha brevispina brevispina,5%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0175,Dictyocha fibula s. ampl.,2%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0210,Dictyocha fibula fibula,4%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0570,Dictyocha pulchella,3%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0132,Distephanus crux crux s.ampl.,68%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0202,Distephanus longispinus (q),5%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0490,Distephanus speculum pentagonus,1%,  ,1
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0580,Distephanus speculum speculum,2%,  ,2
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0650,Distephanus stradneri (q),1%,  ,2
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SMESO0097,Mesocena diodon s.ampl.,2%,  ,2
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SMESO0282,Mesocena quadrangula s.ampl,1%,  ,2
+44,394,A,5,3,73.0,76.0,279.00,282.75,15,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SMESO0300,Mesocena triodon,1%,  ,2
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SCANN0030,Cannopilus depressus,TRACE,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SCANN0142,Cannopilus schulzii (q),TRACE,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SCORB0382,Corbisema triacantha (q),3%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0114,Dictyocha brevispina ausonia,1%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0116,Dictyocha brevispina brevispina,7%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0210,Dictyocha fibula fibula,13%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDICT0570,Dictyocha pulchella,3%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0132,Distephanus crux crux s.ampl.,65%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0452,Distephanus speculum haliomma,1%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0460,Distephanus speculum hemisphaericus,1%,  ,1
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0580,Distephanus speculum speculum,TRACE,  ,2
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SDIST0590,Distephanus speculum triommata,2%,  ,2
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SMESO0097,Mesocena diodon s.ampl.,TRACE,  ,2
+44,394,A,6,6,74.0,76.0,355.00,363.70,14,"BUKRY,D.",,44,SILICOFLAGELLATES,,,,,NO AGE GIVEN,813,SMESO0282,Mesocena quadrangula s.ampl,4%,  ,2

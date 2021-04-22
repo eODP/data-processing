@@ -1,0 +1,4 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+36,327,A,1,2,0.0,4.00,5.50,    5.65,"VON DER BORCH, C.",SEDIMENT (SANDY GRAVEL),,,,,,,,,,,
+36,327,A,1,2,15.0,4.00,5.65,    6.10,"VON DER BORCH, C.",SEDIMENT (SILTY SAND),,,,,,,,,,,
+36,327,A,1,2,60.0,4.00,6.10,    7.00,"VON DER BORCH, C.",SEDIMENT (CLAYEY DIATOM OOZE)GNEISSBASALTSCHIST,,,,,CONSISTS OF DETRITAL CLAY DIATOM OOZE WITH CLASTS OF GARNET-BIOTITE GNEISS AT 87-90CM & ACIDIC GNEISS AT 123-125CM & BASALT AT 137-142CM & QUARTZ-MUSCOVITE SCHIST AT 143-146CM,,,GARNET | BIOTITE | QUARTZ | MUSC,,,

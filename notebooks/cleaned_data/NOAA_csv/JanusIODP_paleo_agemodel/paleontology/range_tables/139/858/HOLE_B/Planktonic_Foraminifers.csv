@@ -1,0 +1,10 @@
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group                                 ,Group Abundance,Group Preservation,Turborotalita quinqueloba,Neogloboquadrina pachyderma (sin.),Globigerina bulloides,Neogloboquadrina pachyderma (sinistral),Neogloboquadrina pachyderma (dextral),Comment
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+  IR,Holocene         ,                 ,CD1               ,              ,139, 858,B,  1,H, 1,   0.00,      0.0000,Brunner  ,Planktonic Foraminifers                      ,R              ,M                 ,                         ,+                                 ,+                    ,0                                      ,0                                    ,from ODP Leg 139 IR; Chapter 8; Tables 6 & 8; p 460-463 + 466
+,,,,,,,,,,,,,,,,,,,,,,
+  SR,Pleistocene      ,                 ,                  ,              ,139, 858,B,  1,H, 1,  89.00,      0.8900,Brunner  ,Planktonic Foraminifers                      ,               ,                  ,                         ,                                  ,                     ,30                                     ,0                                    ,from Leg 139 SR; Chapter 4; Table 5; p. 47
+,,,,,,,,,,,,,,,,,,,,,,
+  IR,Late Pleistocene ,                 ,CD2               ,              ,139, 858,B,  1,H,CC,  19.00,      7.0900,Brunner  ,Planktonic Foraminifers                      ,R              ,P                 ,+                        ,+                                 ,+                    ,                                       ,                                     ,from ODP Leg 139 IR; Chapter 8; Tables 6 & 8; p 460-463 + 466
+,,,,,,,,,,,,,,,,,,,,,,

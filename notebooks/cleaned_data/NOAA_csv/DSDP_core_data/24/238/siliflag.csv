@@ -1,0 +1,12 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+24,238,,2,3,75.0,75.0,9.50,13.25, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,RARE,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,2,4,70.0,70.0,9.50,14.70, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,RARE,,,MODERATE,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,2,5,75.0,75.0,9.50,16.25, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,,,,,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,2,6,65.0,65.0,9.50,17.65, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,FEW,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,2,CC,0.0,0.0,9.50,18.60, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,FEW,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,3,1,75.0,75.0,19.00,20.25, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,,,,,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,3,2,75.0,75.0,19.00,21.75, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,COMMON,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,COMMON,  ,1
+24,238,,3,3,75.0,75.0,19.00,23.25, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,FEW,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,FEW,  ,1
+24,238,,3,4,100.0,100.0,19.00,25.00, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,RARE,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,RARE,  ,1
+24,238,,3,5,95.0,95.0,19.00,26.45, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,COMMON,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,FEW,  ,1
+24,238,,3,6,75.0,75.0,19.00,27.75, 1,"SCHRADER,H.J.",10/1974,24,SILICOFLAGELLATES,FEW,,,GOOD,NO AGE GIVEN,900,SMESO0100,Mesocena elliptica,COMMON,  ,1

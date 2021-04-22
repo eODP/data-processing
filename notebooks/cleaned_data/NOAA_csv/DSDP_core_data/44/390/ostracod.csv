@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OBAIR0010,Bairdia sp.,PRESENT,  ,1
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OBYTO0012,Bythocypris sp.(q),PRESENT,  ,1
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OAPAR0010,Aparchitocythere sp.(q),PRESENT,  ,1
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OXEST0010,Xestolebris sp.(q),PRESENT,  ,1
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OREHA0010,Rehacythereis sp.(q),PRESENT,  ,1

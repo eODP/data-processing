@@ -1,0 +1,21 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0036,Asterolampra crenata,PRESENT,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0070,Coscinodiscus argus,RARE,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0214,Coscinodiscus demergitus,PRESENT,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0225,Coscinodiscus descrescens,RARE,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0660,Coscinodiscus oligocenicus,COMMON,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0820,Coscinodiscus spiralis,PRESENT,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0861,Coscinodiscus symbolophorus group,FEW,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCYMO0010,Cymatosira sp.,RARE,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0014,Hemiaulus affinis,FEW,  ,1
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0035,Hemiaulus barbadensis,FEW,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0083,Hemiaulus hastatus,FEW,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0146,Hemiaulus polycystinorum asymmetrica,COMMON,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,COMMON,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DMELO0040,Melosira architecturalis,RARE,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DPARA0010,Paralia sulcata,RARE,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DRHIZ0190,Rhizosolenia interposita,PRESENT,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DRIED0064,Riedelia pacifica,RARE,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DSKEL0013,Skeletonema barbadiense,RARE,  ,2
+8,69,,6,1,72.0,76.0,187.00,187.74,20,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DSTEA0290,Stephanopyxis turris,FEW,  ,2

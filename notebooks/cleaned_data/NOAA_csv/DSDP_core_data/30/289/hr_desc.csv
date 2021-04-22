@@ -1,0 +1,6 @@
+leg,site,hole,core,section,top interval depth(cm),top of core depth(cm),top of section(m),sample midpoint depth(m),describer,rock name,piece numbers,texture data,structure data,alteration data,other information data,vesicle data,phenocryst data,groundmass mineral data,replacement mineral data,comments,unknown code
+30,289,,132,2,0.0,1259.50,1261.00, 1261.88,"STOESER, D.",SEDIMENT,,,,,,,,,,,
+30,289,,132,2,88.0,1259.50,1261.88, 1262.50,"STOESER, D.",BASALT,,,,,FOR ADDITIONAL INFORMATION SEE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS,,,,,,
+30,289,,132,3,0.0,1259.50,1262.50, 1264.00,"STOESER, D.",BASALT,,,,,FOR ADDITIONAL INFORMATION SEE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS,,,,,,
+30,289,,132,4,0.0,1259.50,1264.00, 1265.50,"STOESER, D.",BASALT,,,,,FOR ADDITIONAL INFORMATION SEE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS,,,,,,
+30,289,,133,1,105.0,1269.00,1270.05, 1270.50,"STOESER, D.",BASALT,,,,,FOR ADDITIONAL INFORMATION SEE CORE FORM AND LITHOLOGIC DESCRIPTION IN THE INITIAL REPORTS,,,,,,

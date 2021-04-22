@@ -1,0 +1,34 @@
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
+19,191,A,1,1,0.0,2.0,14.00,14.01, 5,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RARTT0020,Artostrobus annulatus,PRESENT,  ,1
+19,191,A,1,1,0.0,2.0,14.00,14.01, 5,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0010,Cycladophora davisiana,RARE,  ,1
+19,191,A,1,1,0.0,2.0,14.00,14.01, 5,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0020,Cycladophora davisiana cornutoides,RARE,  ,1
+19,191,A,1,1,0.0,2.0,14.00,14.01, 5,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RLITT0020,Lithomitra arachnea,PRESENT,  ,1
+19,191,A,1,1,0.0,2.0,14.00,14.01, 5,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RSTYO0020,Stylochlamidium venustum,PRESENT,  ,1
+19,191,A,1,CC,0.0,0.0,14.00,23.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RARTT0020,Artostrobus annulatus,PRESENT,  ,1
+19,191,A,1,CC,0.0,0.0,14.00,23.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0010,Cycladophora davisiana,FEW,  ,1
+19,191,A,1,CC,0.0,0.0,14.00,23.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0020,Cycladophora davisiana cornutoides,RARE,  ,1
+19,191,A,1,CC,0.0,0.0,14.00,23.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RLITT0020,Lithomitra arachnea,PRESENT,  ,1
+19,191,A,2,2,80.0,82.0,23.00,25.31, 6,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RARTT0020,Artostrobus annulatus,RARE,  ,1
+19,191,A,2,2,80.0,82.0,23.00,25.31, 6,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0010,Cycladophora davisiana,RARE,  ,1
+19,191,A,2,2,80.0,82.0,23.00,25.31, 6,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0020,Cycladophora davisiana cornutoides,RARE,  ,1
+19,191,A,2,2,80.0,82.0,23.00,25.31, 6,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RLITT0020,Lithomitra arachnea,FEW,  ,1
+19,191,A,2,2,80.0,82.0,23.00,25.31, 6,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RSTYO0020,Stylochlamidium venustum,PRESENT,  ,1
+19,191,A,2,2,80.0,82.0,23.00,25.31, 6,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RTRIE0011,Triceraspyris sp. (q),RARE,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RARTT0020,Artostrobus annulatus,RARE,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0010,Cycladophora davisiana,FEW,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0020,Cycladophora davisiana cornutoides,RARE,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,REUCY0190,Eucyrtidium tumidulum,RARE,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RLITT0020,Lithomitra arachnea,FEW,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RSTYO0020,Stylochlamidium venustum,FEW,  ,1
+19,191,A,2,CC,0.0,0.0,23.00,27.60, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RTRIE0011,Triceraspyris sp. (q),FEW,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RARTT0020,Artostrobus annulatus,PRESENT,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0010,Cycladophora davisiana,RARE,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0020,Cycladophora davisiana cornutoides,RARE,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,REUCY0190,Eucyrtidium tumidulum,RARE,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RLITT0020,Lithomitra arachnea,RARE,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RSTYO0020,Stylochlamidium venustum,FEW,  ,1
+19,191,A,4,1,137.0,139.0,41.00,42.38, 7,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RTRIE0011,Triceraspyris sp. (q),PRESENT,  ,1
+19,191,A,4,CC,0.0,0.0,41.00,50.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0010,Cycladophora davisiana,RARE,  ,1
+19,191,A,4,CC,0.0,0.0,41.00,50.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RCYCL0020,Cycladophora davisiana cornutoides,RARE,  ,1
+19,191,A,4,CC,0.0,0.0,41.00,50.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RLITT0020,Lithomitra arachnea,RARE,  ,1
+19,191,A,4,CC,0.0,0.0,41.00,50.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,787,RTRIE0011,Triceraspyris sp. (q),RARE,  ,1
