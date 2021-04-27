@@ -13,6 +13,7 @@ def unique_filenames(paths):
 
     return files
 
+
 def unique_columns(paths):
     """Find all the unique column names for a list of paths"""
     columns = set()
@@ -22,15 +23,17 @@ def unique_columns(paths):
 
     return columns
 
+
 def filename_index(path):
     """Find the index for the filename for a given path string"""
     return len(Path(path).parts) - 1
 
+
 def format_filepaths_set(data, type):
     """Convert a set of filepaths into a string"""
     if data[type]:
-        value = ','.join(list(data[type]))
+        value = ",".join(list(data[type]))
     else:
-        value = ''
+        value = ""
 
     return value
