@@ -1,5 +1,10 @@
 # convert random space-separated txt file to tab delimited
 
+# this script works only for the problematic files from legs 180/181.
+# the other files from legs 149,172,174,175 (6 total files) were organized
+# differently (from legs 180/181 and from each other) so I wrote small
+# scripts for each (6 total) and had to manually edit some.
+
 import pandas as pd
 import csv, re, os
 import numpy as np
@@ -70,6 +75,7 @@ def get_csv(coord):
             all_lines[1 : len(all_lines)], index=None, columns=stripped_hl
         )
         ext = coord.split("space_delim_check", 1)[1]
+        # created a new directory for the cleaned files
         fix = "/Users/morga/PycharmProjects/clean_up/space_delim" + ext
         df.to_csv(fix, sep="\t", index=False)
         # return fix --- for testing
@@ -78,8 +84,8 @@ def get_csv(coord):
 # --- main ---
 
 # I saved a local copy of all of the original problematic space_delim files
-# Traversing the directory to get to the txt files
-root_dir = "/Users/morga/PycharmProjects/clean_up/space_delim_check/175"
+# Traversing the directory to get to txt files
+root_dir = "/Users/morga/PycharmProjects/clean_up/space_delim_check/180"
 site_list = os.listdir(root_dir)
 for site in site_list:
     site_path = os.path.join(root_dir, str(site))
