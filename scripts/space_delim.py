@@ -1,8 +1,9 @@
 # convert random space-separated txt file to tab delimited
 
 import pandas as pd
-import csv,re,os
+import csv, re, os
 import numpy as np
+
 
 def split(word):
     return [char for char in word]
@@ -14,13 +15,20 @@ def getindices(s):
 
 def get_headers(first_line):
     # --- getting a separate list of all headers ---
-    header_list = re.findall('[A-Z][^A-Z]*', first_line)
-    trigger_headers = ["From (oldest) ", "To (youngest) ", "From (bottom) ", "To  (top) ",
-                       "Group                                  ", "Abundance ", "Preservation "]
+    header_list = re.findall("[A-Z][^A-Z]*", first_line)
+    trigger_headers = [
+        "From (oldest) ",
+        "To (youngest) ",
+        "From (bottom) ",
+        "To  (top) ",
+        "Group                                  ",
+        "Abundance ",
+        "Preservation ",
+    ]
     for i in range(0, len(header_list)):
         if header_list[i] in trigger_headers:
             header_list[i - 1] = header_list[i - 1] + header_list[i]
-            header_list[i] = ' '
+            header_list[i] = " "
     header_list = [i for i in header_list if i.strip()]
     # header_list = [s.rstrip() for s in header_list]
     return header_list
@@ -49,7 +57,7 @@ def get_csv(coord):
                     else:
                         work_vals.append(app)
                 else:
-                    app = work[start:len(work)].strip()
+                    app = work[start : len(work)].strip()
                     if "," in app:
                         work_vals.append(app.strip(","))
                     else:
@@ -58,10 +66,12 @@ def get_csv(coord):
             flattened = [val for sublist in reformat for val in sublist]
             all_lines.append(flattened)
         stripped_hl = [s.rstrip() for s in headers_list]
-        df = pd.DataFrame(all_lines[1:len(all_lines)], index=None, columns=stripped_hl)
-        ext = coord.split("space_delim_check",1)[1]
+        df = pd.DataFrame(
+            all_lines[1 : len(all_lines)], index=None, columns=stripped_hl
+        )
+        ext = coord.split("space_delim_check", 1)[1]
         fix = "/Users/morga/PycharmProjects/clean_up/space_delim" + ext
-        df.to_csv(fix, sep='\t', index=False)
+        df.to_csv(fix, sep="\t", index=False)
         # return fix --- for testing
 
 
