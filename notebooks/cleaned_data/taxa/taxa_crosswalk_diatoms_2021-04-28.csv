@@ -2,7 +2,7 @@ Any taxon above genus,genus modifier,genus name,subgenera modifier,subgenera nam
 ,,Pseudammodochium,,,,lingii,,,,Pseudammodochium lingii,diatoms,Pseudammodochium lingii,this is an ebridian,"in PBDB, so it will be classified correctly",
 ,,Pseudammodochium,,,,sphericum,,,,Pseudammodochium sphericum,diatoms,Pseudammodochium sphericum,this is an ebridian,"in PBDB, so it will be classified correctly",
 """Phytolith""",,,,,,,,,,"""Phytolith""",diatoms,Phytolith,not a taxa,"Summer 2020: go in as ""Plantae indet."", ""phytolith"" as a comment? Deal with later, ask Ellen and co LL: yes, ask Ellen's phytolith friend",
-Skeletonemaceae indet.,,,,,,,,,,Skeletonemaceae indet.,diatoms,"Summer 2020: deal with later? LL: both are in the family Skelentonematacea. Would could list this as the family and include the text as a comment. AF: is there a good way to flag these for specialists to address later w/in the database, or do we need to do that within a sheet like this? Mar 2021: JAS & CRS talked, CRS will ask Marina P; Marina says to use Skeletonemaceae.  CRS: I think I’m going to have to cite diatombase for Skeletonemopsis’ placement in Skeletonemaceae. The original author placed the genus in Trochosiraceae, but Marina says to go with Diatombase because there have been disagreements.",group,"Summer 2020: deal with later? LL: both are in the family Skelentonematacea. Would could list this as the family and include the text as a comment. AF: is there a good way to flag these for specialists to address later w/in the database, or do we need to do that within a sheet like this? Mar 2021: JAS & CRS talked, CRS will ask Marina P; Marina says to use Skeletonemaceae",Skeletonemopsis and Skeletonema grp
+Skeletonemaceae indet.,,,,,,,,,,Skeletonemaceae indet.,diatoms,Skeletonemopsis and Skeletonema grp,group,"Summer 2020: deal with later? LL: both are in the family Skelentonematacea. Would could list this as the family and include the text as a comment. AF: is there a good way to flag these for specialists to address later w/in the database, or do we need to do that within a sheet like this? Mar 2021: JAS & CRS talked, CRS will ask Marina P; Marina says to use Skeletonemaceae CRS: I think I’m going to have to cite diatombase for Skeletonemopsis’ placement in Skeletonemaceae. The original author placed the genus in Trochosiraceae, but Marina says to go with Diatombase because there have been disagreements.",Skeletonemopsis and Skeletonema grp
 Skeletonemaceae indet.,,,,,,,,,,Skeletonemaceae indet.,diatoms,Skeletonemopsis and Skeletonema grp.,group,Summer 2020: deal with later? LL: same as above,Skeletonemopsis and Skeletonema grp.
 Centrales indet.,,,,,,,,,,Centrales indet.,diatoms,other Centric,"group, not a taxa",Summer 2020: IDK this one; deal with later?,other Centric
 Pennales indet.,,,,,,,,,,Pennales indet.,diatoms,other Pennate,"group, not a taxa",Summer 2020: IDK this one; deal with later?,other Pennate
@@ -127,6 +127,7 @@ Above this level - Haptophyta incertae sedis (Algaebase)",
 ,,Actinocyclus,,,,ingens,,,,Actinocyclus ingens,diatoms,Actinocyclus ingens,,"in PBDB, so it will be classified correctly",
 ,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens nodus,diatoms,Actinocyclus ingens f. nodus,,"in PBDB, so it will be classified correctly",Actinocyclus ingens f. nodus
 ,,Actinocyclus,,,,ingens,,ingens,,Actinocyclus ingens ingens,diatoms,Actinocyclus ingens var. ingens,,"in PBDB, so it will be classified correctly",Actinocyclus ingens var. ingens
+,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens nodus,diatoms,Actinocyclus ingens  var. nodus,,"in PBDB, so it will be classified correctly",Actinocyclus ingens var. nodus
 ,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens nodus,diatoms,Actinocyclus ingens var. nodus,,"in PBDB, so it will be classified correctly",Actinocyclus ingens var. nodus
 ,,Actinocyclus,,,,ingens,,ovalis,,Actinocyclus ingens ovalis,diatoms,Actinocyclus ingens var. ovalis,,"in PBDB, so it will be classified correctly",Actinocyclus ingens var. ovalis
 ,,Actinocyclus,,,,karstenii,,,,Actinocyclus karstenii,diatoms,Actinocyclus karstenii,,"in PBDB, so it will be classified correctly",
@@ -233,7 +234,7 @@ Bacillariophyceae indet.,,,,,,,,,,Bacillariophyceae indet.,diatoms,Bacteriostria
 ,,Chaetoceros,,,,spp.,,,,Chaetoceros spp.,diatoms,Chaetoceros spp.,,"in PBDB, so it will be classified correctly",
 ,,Chaetoceros,,,,spp.,,,,Chaetoceros spp.,diatoms,Chaetoceros spp. (resting spores),,"in PBDB, so it will be classified correctly",Chaetoceros spp. (resting spores)
 ,,Chaetoceros,,,,spp.,,,,Chaetoceros spp.,diatoms,Chaetoceros spp. and similar spores,,"in PBDB, so it will be classified correctly",Chaetoceros spp. and similar spores
-,,Charcotia,,,,actinochilus,,,,Charcotia actinochilus,diatoms,Charcotia actinochilus,,need to enter into PBDB,
+,,Charcotia,,,,actinochilus,,,,Charcotia actinochilus,diatoms,Charcotia actinochilus,,"in PBDB, so it will be classified correctly",
 ,,Cocconeis ,,,,californica,,,,Cocconeis californica,diatoms,Cocconeis californica,,"in PBDB, so it will be classified correctly",
 ,,Cocconeis ,,,,costata,,,,Cocconeis costata,diatoms,Cocconeis costata,,"in PBDB, so it will be classified correctly",
 ,,Cocconeis ,,,,disculus,,,,Cocconeis disculus,diatoms,Cocconeis disculus,,"in PBDB, so it will be classified correctly",
@@ -284,7 +285,7 @@ Bacillariophyceae indet.,,,,,,,,,,Bacillariophyceae indet.,diatoms,Bacteriostria
 ,,Delphineis,,,,surirella,,,,Delphineis surirella,diatoms,Delphineis surirella,,"in PBDB, so it will be classified correctly",
 ,,Neodenticula,,,,seminae,,,,Neodenticula seminae,diatoms,Denticulopsis aff. Seminae = Neodenticula seminae,,"in PBDB, so it will be classified correctly",Denticulopsis aff. Seminae = Neodenticula seminae
 ,,Denticulopsis,,,,barronii,,,,Denticulopsis barronii,diatoms,Denticulopsis barronii,,"in PBDB, so it will be classified correctly",
-,,Denticulopsis,,,cf.,katayamae,,,,Denticulopsis cf. katayamae,diatoms,Denticulopsis cf. katayamae,,"in PBDB, so it will be classified correctly",
+,,Denticulopsis,,,cf.,katayamae,,,,Denticulopsis cf. katayamae,diatoms,Denticulopsis  cf. katayamae,,"in PBDB, so it will be classified correctly",
 ,,Denticulopsis,,,,crassa,,,,Denticulopsis crassa,diatoms,Denticulopsis crassa,,"in PBDB, so it will be classified correctly",
 ,,Denticulopsis,,,,crassa,,,,Denticulopsis crassa,diatoms,Denticulopsis crassa (closed copula),,"in PBDB, so it will be classified correctly",Denticulopsis crassa (closed copula)
 ,,Denticulopsis,,,,delicata,,,,Denticulopsis delicata,diatoms,Denticulopsis delicata,,"in PBDB, so it will be classified correctly",
@@ -377,8 +378,8 @@ Bacillariophyceae indet.,,,,,,,,,,Bacillariophyceae indet.,diatoms,Bacteriostria
 ,,Fragilariopsis,,,,truncata,,,,Fragilariopsis truncata,diatoms,Fragilariopsis truncata,,"in PBDB, so it will be classified correctly",
 ,,Fragilariopsis,,,,weaveri,,,,Fragilariopsis weaveri,diatoms,Fragilariopsis weaveri,,"in PBDB, so it will be classified correctly",
 ,,Gomphonema,,,,olivacium,,,,Gomphonema olivacium,diatoms,Gomphonema olivacium,,"in PBDB, so it will be classified correctly",
-,,Goniothecium,,,,odontella,,,,Goniothecium odontella,diatoms,Goniothecium odontella,,"in PBDB, so it will be classified correctly; note that it is currently only linked to the Phylum Bacillariophyta",
-,,Grammatophora,,,,spp.,,,,Grammatophora spp.,diatoms,Grammatophora spp.,,"in PBDB, so it will be classified correctly; note that it is currently only linked to the Phylum Bacillariophyta",
+,,Goniothecium,,,,odontella,,,,Goniothecium odontella,diatoms,Goniothecium odontella,,"in PBDB, so it will be classified correctly",
+,,Grammatophora,,,,spp.,,,,Grammatophora spp.,diatoms,Grammatophora spp.,,"in PBDB, so it will be classified correctly",
 ,,Halamphora,,,,costata,,,,Halamphora costata,diatoms,Halamphora costata,,"in PBDB, so it will be classified correctly",
 ,,Halamphora,,,,spp.,,,,Halamphora spp.,diatoms,Halamphora spp.,,"in PBDB, so it will be classified correctly",
 ,,Haslea,,,,sp.,,,,Haslea sp.,diatoms,Haslea sp.,,"in PBDB, so it will be classified correctly; note that it is currently only linked to the Phylum Bacillariophyta",
@@ -592,6 +593,7 @@ Thalassiosiraceae indet.,,,,,,,,,,Thalassiosiraceae indet.,diatoms,Lioloma spp. 
 ,,Thalassionema,,,,nitzschioides,var.,inflata,,Thalassionema nitzschioides var. inflata,diatoms,Thalassionema nitzschioides var. inflata,,"in PBDB, so it will be classified correctly",
 ,,Thalassionema,,,,nitzschioides,var.,inflatum,,Thalassionema nitzschioides var. inflatum,diatoms,Thalassionema nitzschioides var. inflatum,,"in PBDB, so it will be classified correctly",
 ,,Thalassionema,,,,nitzschioides,var.,nitzschioides,,Thalassionema nitzschioides var. nitzschioides,diatoms,Thalassionema nitzschioides var. nitzschioides,,"in PBDB, so it will be classified correctly",
+,,Thalassionema,,,,nitzschioides,var.,parva,,Thalassionema nitzschioides var. parva,diatoms,Thalassionema nitzschioides  var. parva,,"in PBDB, so it will be classified correctly",
 ,,Thalassionema,,,,nitzschioides,var.,parva,,Thalassionema nitzschioides var. parva,diatoms,Thalassionema nitzschioides var. parva,,"in PBDB, so it will be classified correctly",
 ,,Thalassionema,,,,nitzschioides,var.,parvum,,Thalassionema nitzschioides var. parvum,diatoms,Thalassionema nitzschioides var. parvum,,"in PBDB, so it will be classified correctly",
 ,,Thalassionema,,,,nitzschioides,,,,Thalassionema nitzschioides,diatoms,Thalassionema nitzschoides (Grunow),,"in PBDB, so it will be classified correctly",Thalassionema nitzschoides (Grunow)

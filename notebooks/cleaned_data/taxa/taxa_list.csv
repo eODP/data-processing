@@ -57,8 +57,8 @@ Achnanthes lanceolata,Achnanthes lanceolata,diatoms,Achnanthes
 Achnanthes sp.,Achnanthes sp.,diatoms,Achnanthes
 Achnanthes spp.,Achnanthes spp.,diatoms,Achnanthes
 Achomosphaera spp.,Achomosphaera spp.,palynology,Achomosphaera
-Acritarchs,Acritarchs,palynology,
 Acritarchs,Acritarchs,dinoflagellates,
+Acritarchs,Acritarchs,palynology,
 Acrobotris tritubus,Acrobotris tritubus,radiolarians,Acrobotris
 Acrobotrys tritubus,Acrobotrys tritubus,radiolarians,Acrobotrys
 Acrocubus octopylus,Acrocubus octopylus,radiolarians,Acrocubus
@@ -153,10 +153,10 @@ Alveus marina,Alveus marina,diatoms,Alveus
 Alveus marinus,Alveus marinus,diatoms,Alveus
 Amaurolithus amplificus,Amaurolithus amplificus,nannofossils,Amaurolithus
 Amaurolithus bizarrus,Amaurolithus bizarrus,nannofossils,Amaurolithus
-Amaurolithus delicatus,Amaurolithus delicatus,nannofossils,Amaurolithus
 Amaurolithus delicatus,Amaurolithus delicatus,diatoms,Amaurolithus
-Amaurolithus primus,Amaurolithus primus,diatoms,Amaurolithus
+Amaurolithus delicatus,Amaurolithus delicatus,nannofossils,Amaurolithus
 Amaurolithus primus,Amaurolithus primus,nannofossils,Amaurolithus
+Amaurolithus primus,Amaurolithus primus,diatoms,Amaurolithus
 Amaurolithus spp.,Amaurolithus spp.,nannofossils,Amaurolithus
 Amaurolithus tricorniculatus,Amaurolithus tricorniculatus,nannofossils,Amaurolithus
 Amaurolithus tricorniculatus,Amaurolithus tricorniculatus,diatoms,Amaurolithus
@@ -178,8 +178,8 @@ Ammonia spp.,Ammonia spp.,benthic_forams,Ammonia
 Ammonia tepida,Ammonia tepida,benthic_forams,Ammonia
 Ammoshpaeroidina,Ammoshpaeroidina,benthic_forams,
 Ammosphaeroidina pseudopauciloculata,Ammosphaeroidina pseudopauciloculata,benthic_forams,Ammosphaeroidina
-Amorphous organic matter,Amorphous organic matter,palynology,Amorphous
 Amorphous organic matter,Amorphous organic matter,dinoflagellates,Amorphous
+Amorphous organic matter,Amorphous organic matter,palynology,Amorphous
 Amphicoryna scalaris,Amphicoryna scalaris,benthic_forams,Amphicoryna
 Amphicoryna separans,Amphicoryna separans,benthic_forams,Amphicoryna
 Amphicoryna sp.,Amphicoryna sp.,benthic_forams,Amphicoryna
@@ -247,8 +247,8 @@ Anthemis type,Anthemis type,palynology,Anthemis
 Anthocyrtella (?) callopisma,Anthocyrtella (?) callopisma,radiolarians,
 Anthocyrtidium angulare,Anthocyrtidium angulare,radiolarians,Anthocyrtidium
 Anthocyrtidium jenghisi,Anthocyrtidium jenghisi,radiolarians,Anthocyrtidium
-Anthocyrtidium marieae,Anthocyrtidium marieae,radiolarians,Anthocyrtidium
 Anthocyrtidium  marieae,Anthocyrtidium marieae,radiolarians,Anthocyrtidium
+Anthocyrtidium marieae,Anthocyrtidium marieae,radiolarians,Anthocyrtidium
 Anthocyrtidium ophirense,Anthocyrtidium ophirense,radiolarians,Anthocyrtidium
 Anthocyrtidium pliocenica,Anthocyrtidium pliocenica,radiolarians,Anthocyrtidium
 Anthocyrtidium sp.,Anthocyrtidium sp.,radiolarians,Anthocyrtidium
@@ -414,8 +414,8 @@ Biscutum magnum,Biscutum magnum,nannofossils,Biscutum
 Biscutum spp.,Biscutum spp.,nannofossils,Biscutum
 Biscutum ubiquens,Biscutum ubiquens,nannofossils,Biscutum
 Biticinella breggiensis,Biticinella breggiensis,planktic_forams,Biticinella
-Black phytoclasts,Black phytoclasts,palynology,Black
 Black phytoclasts,Black phytoclasts,dinoflagellates,Black
+Black phytoclasts,Black phytoclasts,palynology,Black
 Black woody phytoclasts,Black woody phytoclasts,palynology,Black
 Blackites amplus bases,Blackites amplus bases,nannofossils,Blackites
 Blackites creber,Blackites creber,nannofossils,Blackites
@@ -591,8 +591,8 @@ Calcidiscus premacintyrei,Calcidiscus premacintyrei,nannofossils,Calcidiscus
 Calcidiscus protoannulus,Calcidiscus protoannulus,nannofossils,Calcidiscus
 Calcidiscus quadriperforatus,Calcidiscus quadriperforatus,nannofossils,Calcidiscus
 Calcidiscus spp.,Calcidiscus spp.,nannofossils,Calcidiscus
-Calcidiscus tropicus,Calcidiscus tropicus,diatoms,Calcidiscus
 Calcidiscus tropicus,Calcidiscus tropicus,nannofossils,Calcidiscus
+Calcidiscus tropicus,Calcidiscus tropicus,diatoms,Calcidiscus
 Calcidiscus tropicus +grill,Calcidiscus tropicus +grill,nannofossils,Calcidiscus
 Calciosolenia aperta,Calciosolenia aperta,nannofossils,Calciosolenia
 Calciosolenia brasiliensis,Calciosolenia brasiliensis,nannofossils,Calciosolenia
@@ -629,8 +629,8 @@ Cancris inflatus,Cancris inflatus,benthic_forams,Cancris
 Cancris oblonga,Cancris oblonga,benthic_forams,Cancris
 Cancris sp.,Cancris sp.,benthic_forams,Cancris
 Cancris spp.,Cancris spp.,benthic_forams,Cancris
-Candeina nitida,Candeina nitida,benthic_forams,Candeina
 Candeina nitida,Candeina nitida,planktic_forams,Candeina
+Candeina nitida,Candeina nitida,benthic_forams,Candeina
 Candeina praenitida,Candeina praenitida,planktic_forams,Candeina
 Carpinus,Carpinus,palynology,
 Carpocanarium papillosum,Carpocanarium papillosum,radiolarians,Carpocanarium
@@ -686,10 +686,10 @@ Catapsydrax stainforthi,Catapsydrax stainforthi,planktic_forams,Catapsydrax
 Catapsydrax taroubaensis,Catapsydrax taroubaensis,planktic_forams,Catapsydrax
 Catapsydrax unicavus,Catapsydrax unicavus,planktic_forams,Catapsydrax
 "Catapsydrax unicavus Bolli, Loeblich & Tappan, 1957 p.37, pl.7, figs.9a-c","Catapsydrax unicavus Bolli, Loeblich & Tappan, 1957 p.37, pl.7, figs.9a-c",planktic_forams,Catapsydrax
-Catinaster calyculus,Catinaster calyculus,diatoms,Catinaster
 Catinaster calyculus,Catinaster calyculus,nannofossils,Catinaster
-Catinaster coalitus,Catinaster coalitus,nannofossils,Catinaster
+Catinaster calyculus,Catinaster calyculus,diatoms,Catinaster
 Catinaster coalitus,Catinaster coalitus,diatoms,Catinaster
+Catinaster coalitus,Catinaster coalitus,nannofossils,Catinaster
 Catinaster mexicanus,Catinaster mexicanus,nannofossils,Catinaster
 Catinaster spp.,Catinaster spp.,nannofossils,Catinaster
 Caudamina spp.,Caudamina spp.,benthic_forams,Caudamina
@@ -720,13 +720,13 @@ Ceratolithina naturalisteplateauensis,Ceratolithina naturalisteplateauensis,nann
 Ceratolithoides,Ceratolithoides,nannofossils,
 Ceratolithoides kamptneri,Ceratolithoides kamptneri,nannofossils,Ceratolithoides
 Ceratolithoides spp.,Ceratolithoides spp.,nannofossils,Ceratolithoides
-Ceratolithus acutus,Ceratolithus acutus,diatoms,Ceratolithus
 Ceratolithus acutus,Ceratolithus acutus,nannofossils,Ceratolithus
+Ceratolithus acutus,Ceratolithus acutus,diatoms,Ceratolithus
 Ceratolithus armatus,Ceratolithus armatus,nannofossils,Ceratolithus
 Ceratolithus armatus (acutus),Ceratolithus armatus (acutus),nannofossils,Ceratolithus
 Ceratolithus atlanticus,Ceratolithus atlanticus,nannofossils,Ceratolithus
-Ceratolithus cristatus,Ceratolithus cristatus,diatoms,Ceratolithus
 Ceratolithus cristatus,Ceratolithus cristatus,nannofossils,Ceratolithus
+Ceratolithus cristatus,Ceratolithus cristatus,diatoms,Ceratolithus
 Ceratolithus cristatus (rugosus),Ceratolithus cristatus (rugosus),nannofossils,Ceratolithus
 Ceratolithus cristatus var. telesmus,Ceratolithus cristatus var. telesmus,nannofossils,Ceratolithus
 Ceratolithus larrymayeri,Ceratolithus larrymayeri,nannofossils,Ceratolithus
@@ -897,8 +897,8 @@ Coccolithus eopelagicus,Coccolithus eopelagicus,nannofossils,Coccolithus
 Coccolithus eopelagicus ( >14µm),Coccolithus eopelagicus ( >14µm),nannofossils,Coccolithus
 Coccolithus formosus,Coccolithus formosus,nannofossils,Coccolithus
 Coccolithus gigas,Coccolithus gigas,nannofossils,Coccolithus
-Coccolithus miopelagicus,Coccolithus miopelagicus,diatoms,Coccolithus
 Coccolithus miopelagicus,Coccolithus miopelagicus,nannofossils,Coccolithus
+Coccolithus miopelagicus,Coccolithus miopelagicus,diatoms,Coccolithus
 Coccolithus pelagicus,Coccolithus pelagicus,nannofossils,Coccolithus
 Coccolithus pelagicus,Coccolithus pelagicus,diatoms,Coccolithus
 Coccolithus pelagicus (w/bar),Coccolithus pelagicus (w/bar),nannofossils,Coccolithus
@@ -1020,8 +1020,8 @@ Cussia lancettula,Cussia lancettula,diatoms,Cussia
 Cycladophora bicornis,Cycladophora bicornis,radiolarians,Cycladophora
 Cycladophora conica,Cycladophora conica,radiolarians,Cycladophora
 Cycladophora cornutoides,Cycladophora cornutoides,radiolarians,Cycladophora
-Cycladophora  davisiana,Cycladophora davisiana,radiolarians,Cycladophora
 Cycladophora davisiana,Cycladophora davisiana,radiolarians,Cycladophora
+Cycladophora  davisiana,Cycladophora davisiana,radiolarians,Cycladophora
 Cycladophora funakawai,Cycladophora funakawai,radiolarians,Cycladophora
 Cycladophora golli golli,Cycladophora golli golli,radiolarians,Cycladophora
 Cycladophora golli regipileus,Cycladophora golli regipileus,radiolarians,Cycladophora
@@ -1043,8 +1043,8 @@ Cyclicargolithus abisectus,Cyclicargolithus abisectus,diatoms,Cyclicargolithus
 Cyclicargolithus abisectus (11 µm),Cyclicargolithus abisectus (11 µm),nannofossils,Cyclicargolithus
 Cyclicargolithus abisectus (>11 microns),Cyclicargolithus abisectus (>11 microns),nannofossils,Cyclicargolithus
 Cyclicargolithus cf. floridanus,Cyclicargolithus cf. floridanus,nannofossils,Cyclicargolithus
-Cyclicargolithus floridanus,Cyclicargolithus floridanus,diatoms,Cyclicargolithus
 Cyclicargolithus floridanus,Cyclicargolithus floridanus,nannofossils,Cyclicargolithus
+Cyclicargolithus floridanus,Cyclicargolithus floridanus,diatoms,Cyclicargolithus
 Cyclicargolithus floridanus (5-11µm),Cyclicargolithus floridanus (5-11µm),nannofossils,Cyclicargolithus
 Cyclicargolithus floridanus small (<5µm),Cyclicargolithus floridanus small (<5µm),nannofossils,Cyclicargolithus
 Cyclicargolithus luminis,Cyclicargolithus luminis,nannofossils,Cyclicargolithus
@@ -1140,8 +1140,8 @@ Denticulopsis spp.,Denticulopsis spp.,diatoms,Denticulopsis
 Denticulopsis vulgaris,Denticulopsis vulgaris,diatoms,Denticulopsis
 Denticulopsos lauta s.l.,Denticulopsos lauta s.l.,diatoms,Denticulopsos
 "Dentoglobigerina ""conglomerata""","Dentoglobigerina ""conglomerata""",planktic_forams,
-Dentoglobigerina altispira,Dentoglobigerina altispira,benthic_forams,Dentoglobigerina
 Dentoglobigerina altispira,Dentoglobigerina altispira,planktic_forams,Dentoglobigerina
+Dentoglobigerina altispira,Dentoglobigerina altispira,benthic_forams,Dentoglobigerina
 Dentoglobigerina altispira _T_ _PL5,Dentoglobigerina altispira _T_ _PL5,planktic_forams,Dentoglobigerina
 Dentoglobigerina altispira _T_ _PL5_,Dentoglobigerina altispira _T_ _PL5_,planktic_forams,Dentoglobigerina
 Dentoglobigerina altispira globosa,Dentoglobigerina altispira globosa,planktic_forams,Dentoglobigerina
@@ -1238,8 +1238,8 @@ Didymocyrtis tetrathalamus tetrathalamus,Didymocyrtis tetrathalamus tetrathalamu
 Didymocyrtis tetratharamus,Didymocyrtis tetratharamus,radiolarians,Didymocyrtis
 Didymocyrtis tubaria,Didymocyrtis tubaria,radiolarians,Didymocyrtis
 Didymocyrtis violina,Didymocyrtis violina,radiolarians,Didymocyrtis
-Dinocysts,Dinocysts,palynology,
 Dinocysts,Dinocysts,dinoflagellates,
+Dinocysts,Dinocysts,palynology,
 Dinocysts reworked,Dinocysts reworked,palynology,Dinocysts
 Diplomenora cocconeisformis,Diplomenora cocconeisformis,diatoms,Diplomenora
 Diploneis aestuari,Diploneis aestuari,diatoms,Diploneis
@@ -1260,14 +1260,14 @@ Discoaster altus,Discoaster altus,nannofossils,Discoaster
 Discoaster anartios,Discoaster anartios,nannofossils,Discoaster
 Discoaster araneus,Discoaster araneus,nannofossils,Discoaster
 Discoaster asymetricus,Discoaster asymetricus,nannofossils,Discoaster
-Discoaster asymmetricus,Discoaster asymmetricus,diatoms,Discoaster
 Discoaster asymmetricus,Discoaster asymmetricus,nannofossils,Discoaster
+Discoaster asymmetricus,Discoaster asymmetricus,diatoms,Discoaster
 Discoaster backmanii,Discoaster backmanii,nannofossils,Discoaster
 Discoaster barbadiensis,Discoaster barbadiensis,nannofossils,Discoaster
 Discoaster bellus,Discoaster bellus,nannofossils,Discoaster
 Discoaster bergenii,Discoaster bergenii,nannofossils,Discoaster
-Discoaster berggrenii,Discoaster berggrenii,diatoms,Discoaster
 Discoaster berggrenii,Discoaster berggrenii,nannofossils,Discoaster
+Discoaster berggrenii,Discoaster berggrenii,diatoms,Discoaster
 Discoaster bifax,Discoaster bifax,nannofossils,Discoaster
 Discoaster binodosus,Discoaster binodosus,nannofossils,Discoaster
 Discoaster blackstockae,Discoaster blackstockae,nannofossils,Discoaster
@@ -1275,8 +1275,8 @@ Discoaster bollii,Discoaster bollii,nannofossils,Discoaster
 Discoaster bollii,Discoaster bollii,diatoms,Discoaster
 Discoaster braarudi,Discoaster braarudi,nannofossils,Discoaster
 Discoaster braarudii,Discoaster braarudii,nannofossils,Discoaster
-Discoaster brouweri,Discoaster brouweri,nannofossils,Discoaster
 Discoaster brouweri,Discoaster brouweri,diatoms,Discoaster
+Discoaster brouweri,Discoaster brouweri,nannofossils,Discoaster
 Discoaster brouwerii,Discoaster brouwerii,nannofossils,Discoaster
 Discoaster broweri,Discoaster broweri,nannofossils,Discoaster
 Discoaster calcaris,Discoaster calcaris,nannofossils,Discoaster
@@ -1289,20 +1289,20 @@ Discoaster deflandrei (small),Discoaster deflandrei (small),nannofossils,Discoas
 Discoaster delicatus,Discoaster delicatus,nannofossils,Discoaster
 Discoaster diastypus,Discoaster diastypus,nannofossils,Discoaster
 Discoaster distinctus,Discoaster distinctus,nannofossils,Discoaster
-Discoaster druggii,Discoaster druggii,nannofossils,Discoaster
 Discoaster druggii,Discoaster druggii,diatoms,Discoaster
+Discoaster druggii,Discoaster druggii,nannofossils,Discoaster
 Discoaster druggii (< 15 microns),Discoaster druggii (< 15 microns),nannofossils,Discoaster
 Discoaster elegans,Discoaster elegans,nannofossils,Discoaster
 Discoaster exilis,Discoaster exilis,nannofossils,Discoaster
 Discoaster falcatus,Discoaster falcatus,nannofossils,Discoaster
 Discoaster gr. variabilis,Discoaster gr. variabilis,nannofossils,Discoaster
-Discoaster hamatus,Discoaster hamatus,nannofossils,Discoaster
 Discoaster hamatus,Discoaster hamatus,diatoms,Discoaster
+Discoaster hamatus,Discoaster hamatus,nannofossils,Discoaster
 Discoaster hamatus/bellus,Discoaster hamatus/bellus,nannofossils,Discoaster
 Discoaster intercalaris,Discoaster intercalaris,nannofossils,Discoaster
 Discoaster kuepperi,Discoaster kuepperi,nannofossils,Discoaster
-Discoaster kugleri,Discoaster kugleri,nannofossils,Discoaster
 Discoaster kugleri,Discoaster kugleri,diatoms,Discoaster
+Discoaster kugleri,Discoaster kugleri,nannofossils,Discoaster
 Discoaster kuglerii,Discoaster kuglerii,nannofossils,Discoaster
 Discoaster lenticularis,Discoaster lenticularis,nannofossils,Discoaster
 Discoaster lodoensis,Discoaster lodoensis,nannofossils,Discoaster
@@ -1311,8 +1311,8 @@ Discoaster mahmoudii,Discoaster mahmoudii,nannofossils,Discoaster
 Discoaster mediosus,Discoaster mediosus,nannofossils,Discoaster
 Discoaster mendomobensis,Discoaster mendomobensis,nannofossils,Discoaster
 Discoaster mohleri,Discoaster mohleri,nannofossils,Discoaster
-Discoaster moorei,Discoaster moorei,nannofossils,Discoaster
 Discoaster moorei,Discoaster moorei,diatoms,Discoaster
+Discoaster moorei,Discoaster moorei,nannofossils,Discoaster
 Discoaster moori,Discoaster moori,nannofossils,Discoaster
 Discoaster multiradiatus,Discoaster multiradiatus,nannofossils,Discoaster
 Discoaster musicus,Discoaster musicus,nannofossils,Discoaster
@@ -1329,11 +1329,11 @@ Discoaster pentaradiatus,Discoaster pentaradiatus,nannofossils,Discoaster
 Discoaster pentaradiatus,Discoaster pentaradiatus,diatoms,Discoaster
 Discoaster petaliformis,Discoaster petaliformis,diatoms,Discoaster
 Discoaster petaliformis,Discoaster petaliformis,nannofossils,Discoaster
-Discoaster prepentaradiatus,Discoaster prepentaradiatus,nannofossils,Discoaster
 Discoaster prepentaradiatus,Discoaster prepentaradiatus,diatoms,Discoaster
+Discoaster prepentaradiatus,Discoaster prepentaradiatus,nannofossils,Discoaster
 Discoaster quadramus,Discoaster quadramus,nannofossils,Discoaster
-Discoaster quinqueramus,Discoaster quinqueramus,nannofossils,Discoaster
 Discoaster quinqueramus,Discoaster quinqueramus,diatoms,Discoaster
+Discoaster quinqueramus,Discoaster quinqueramus,nannofossils,Discoaster
 Discoaster quintatus,Discoaster quintatus,nannofossils,Discoaster
 Discoaster saipanensis,Discoaster saipanensis,nannofossils,Discoaster
 Discoaster salisburgensis,Discoaster salisburgensis,nannofossils,Discoaster
@@ -1360,8 +1360,8 @@ Discoaster tanii,Discoaster tanii,nannofossils,Discoaster
 Discoaster tanii,Discoaster tanii,diatoms,Discoaster
 Discoaster triradiatus,Discoaster triradiatus,nannofossils,Discoaster
 Discoaster tristellifer,Discoaster tristellifer,nannofossils,Discoaster
-Discoaster variabilis,Discoaster variabilis,nannofossils,Discoaster
 Discoaster variabilis,Discoaster variabilis,diatoms,Discoaster
+Discoaster variabilis,Discoaster variabilis,nannofossils,Discoaster
 Discoaster variabilis group,Discoaster variabilis group,nannofossils,Discoaster
 Discoaster wemmelensis,Discoaster wemmelensis,nannofossils,Discoaster
 Discoaster williamsii,Discoaster williamsii,nannofossils,Discoaster
@@ -1491,8 +1491,8 @@ Elphidium novozealandicum,Elphidium novozealandicum,benthic_forams,Elphidium
 Elphidium saginatum,Elphidium saginatum,benthic_forams,Elphidium
 Elphidium sp.,Elphidium sp.,benthic_forams,Elphidium
 Elphidium spp.,Elphidium spp.,benthic_forams,Elphidium
-Emiliania huxleyi,Emiliania huxleyi,nannofossils,Emiliania
 Emiliania huxleyi,Emiliania huxleyi,diatoms,Emiliania
+Emiliania huxleyi,Emiliania huxleyi,nannofossils,Emiliania
 Emiliania huxleyi (<5 microns),Emiliania huxleyi (<5 microns),nannofossils,Emiliania
 Emiliania huxleyi (>5 microns),Emiliania huxleyi (>5 microns),nannofossils,Emiliania
 Endictya robusta,Endictya robusta,diatoms,Endictya
@@ -1615,8 +1615,8 @@ Fissurina sp.,Fissurina sp.,benthic_forams,Fissurina
 Fissurina spp.,Fissurina spp.,benthic_forams,Fissurina
 Fissurina wiesneri,Fissurina wiesneri,benthic_forams,Fissurina
 Flagilariopsis cylindrus,Flagilariopsis cylindrus,diatoms,Flagilariopsis
-Florisphaera profunda,Florisphaera profunda,nannofossils,Florisphaera
 Florisphaera profunda,Florisphaera profunda,diatoms,Florisphaera
+Florisphaera profunda,Florisphaera profunda,nannofossils,Florisphaera
 Florisphaera profunda var. elongata,Florisphaera profunda var. elongata,nannofossils,Florisphaera
 "Fohsella ""praefohsi"" _B_ _M8","Fohsella ""praefohsi"" _B_ _M8",planktic_forams,
 "Fohsella ""praefohsi"" _B_ _M8_","Fohsella ""praefohsi"" _B_ _M8_",planktic_forams,
@@ -1759,10 +1759,10 @@ Gephyrocapsa omega,Gephyrocapsa omega,nannofossils,Gephyrocapsa
 Gephyrocapsa parallela,Gephyrocapsa parallela,nannofossils,Gephyrocapsa
 Gephyrocapsa sinuosa,Gephyrocapsa sinuosa,nannofossils,Gephyrocapsa
 Gephyrocapsa sp.,Gephyrocapsa sp.,nannofossils,Gephyrocapsa
-Gephyrocapsa sp. (4-5.5 microns),Gephyrocapsa sp. (4-5.5 microns),diatoms,Gephyrocapsa
 Gephyrocapsa sp. (4-5.5 microns),Gephyrocapsa sp. (4-5.5 microns),nannofossils,Gephyrocapsa
-Gephyrocapsa sp. (<4 microns),Gephyrocapsa sp. (<4 microns),diatoms,Gephyrocapsa
+Gephyrocapsa sp. (4-5.5 microns),Gephyrocapsa sp. (4-5.5 microns),diatoms,Gephyrocapsa
 Gephyrocapsa sp. (<4 microns),Gephyrocapsa sp. (<4 microns),nannofossils,Gephyrocapsa
+Gephyrocapsa sp. (<4 microns),Gephyrocapsa sp. (<4 microns),diatoms,Gephyrocapsa
 Gephyrocapsa sp. (>5.5 microns),Gephyrocapsa sp. (>5.5 microns),nannofossils,Gephyrocapsa
 Gephyrocapsa sp. (closed >4 microns),Gephyrocapsa sp. (closed >4 microns),nannofossils,Gephyrocapsa
 Gephyrocapsa sp. (large),Gephyrocapsa sp. (large),nannofossils,Gephyrocapsa
@@ -1860,8 +1860,8 @@ Globigerinatheka sp.,Globigerinatheka sp.,planktic_forams,Globigerinatheka
 Globigerinatheka subconglobata,Globigerinatheka subconglobata,planktic_forams,Globigerinatheka
 Globigerinatheka tropicalis,Globigerinatheka tropicalis,planktic_forams,Globigerinatheka
 Globigerinella aequilateralis,Globigerinella aequilateralis,planktic_forams,Globigerinella
-Globigerinella calida,Globigerinella calida,benthic_forams,Globigerinella
 Globigerinella calida,Globigerinella calida,planktic_forams,Globigerinella
+Globigerinella calida,Globigerinella calida,benthic_forams,Globigerinella
 Globigerinella calida _B,Globigerinella calida _B,planktic_forams,Globigerinella
 Globigerinella calida _B_,Globigerinella calida _B_,planktic_forams,Globigerinella
 Globigerinella obesa,Globigerinella obesa,planktic_forams,Globigerinella
@@ -1897,21 +1897,21 @@ Globigerinoides altiaperturus _B_,Globigerinoides altiaperturus _B_,planktic_for
 Globigerinoides bisphericus,Globigerinoides bisphericus,planktic_forams,Globigerinoides
 Globigerinoides bolli,Globigerinoides bolli,planktic_forams,Globigerinoides
 Globigerinoides bollii,Globigerinoides bollii,planktic_forams,Globigerinoides
-Globigerinoides bulloideus,Globigerinoides bulloideus,benthic_forams,Globigerinoides
 Globigerinoides bulloideus,Globigerinoides bulloideus,planktic_forams,Globigerinoides
-Globigerinoides conglobatus,Globigerinoides conglobatus,planktic_forams,Globigerinoides
+Globigerinoides bulloideus,Globigerinoides bulloideus,benthic_forams,Globigerinoides
 Globigerinoides conglobatus,Globigerinoides conglobatus,benthic_forams,Globigerinoides
+Globigerinoides conglobatus,Globigerinoides conglobatus,planktic_forams,Globigerinoides
 Globigerinoides conglobatus _B,Globigerinoides conglobatus _B,planktic_forams,Globigerinoides
 Globigerinoides conglobatus _B_,Globigerinoides conglobatus _B_,planktic_forams,Globigerinoides
 Globigerinoides conglobatus _pink_,Globigerinoides conglobatus _pink_,planktic_forams,Globigerinoides
 Globigerinoides diminutus,Globigerinoides diminutus,planktic_forams,Globigerinoides
 Globigerinoides elongatus,Globigerinoides elongatus,planktic_forams,Globigerinoides
-Globigerinoides extremus,Globigerinoides extremus,benthic_forams,Globigerinoides
 Globigerinoides extremus,Globigerinoides extremus,planktic_forams,Globigerinoides
+Globigerinoides extremus,Globigerinoides extremus,benthic_forams,Globigerinoides
 Globigerinoides extremus _T and B,Globigerinoides extremus _T and B,planktic_forams,Globigerinoides
 Globigerinoides extremus _T and B_,Globigerinoides extremus _T and B_,planktic_forams,Globigerinoides
-Globigerinoides fistulosus,Globigerinoides fistulosus,planktic_forams,Globigerinoides
 Globigerinoides fistulosus,Globigerinoides fistulosus,benthic_forams,Globigerinoides
+Globigerinoides fistulosus,Globigerinoides fistulosus,planktic_forams,Globigerinoides
 Globigerinoides immaturus,Globigerinoides immaturus,benthic_forams,Globigerinoides
 Globigerinoides immaturus,Globigerinoides immaturus,planktic_forams,Globigerinoides
 Globigerinoides kennetti,Globigerinoides kennetti,planktic_forams,Globigerinoides
@@ -1923,24 +1923,24 @@ Globigerinoides obliquus _T,Globigerinoides obliquus _T,planktic_forams,Globiger
 Globigerinoides obliquus _T_,Globigerinoides obliquus _T_,planktic_forams,Globigerinoides
 Globigerinoides parawoodi,Globigerinoides parawoodi,planktic_forams,Globigerinoides
 Globigerinoides primordius,Globigerinoides primordius,planktic_forams,Globigerinoides
-Globigerinoides pyramidalis,Globigerinoides pyramidalis,planktic_forams,Globigerinoides
 Globigerinoides pyramidalis,Globigerinoides pyramidalis,benthic_forams,Globigerinoides
+Globigerinoides pyramidalis,Globigerinoides pyramidalis,planktic_forams,Globigerinoides
 Globigerinoides quadrilobatus,Globigerinoides quadrilobatus,planktic_forams,Globigerinoides
 Globigerinoides ruber,Globigerinoides ruber,planktic_forams,Globigerinoides
 Globigerinoides ruber (pink),Globigerinoides ruber (pink),planktic_forams,Globigerinoides
 Globigerinoides ruber (pyramidalis),Globigerinoides ruber (pyramidalis),planktic_forams,Globigerinoides
-Globigerinoides ruber (white),Globigerinoides ruber (white),benthic_forams,Globigerinoides
 Globigerinoides ruber (white),Globigerinoides ruber (white),planktic_forams,Globigerinoides
+Globigerinoides ruber (white),Globigerinoides ruber (white),benthic_forams,Globigerinoides
 Globigerinoides ruber _pink_ T,Globigerinoides ruber _pink_ T,planktic_forams,Globigerinoides
 Globigerinoides ruber _pink_ _T_,Globigerinoides ruber _pink_ _T_,planktic_forams,Globigerinoides
 "Globigerinoides ruber s.l. Wang, 2000","Globigerinoides ruber s.l. Wang, 2000",planktic_forams,Globigerinoides
 "Globigerinoides ruber s.l. Wang, 2000","Globigerinoides ruber s.l. Wang, 2000",benthic_forams,Globigerinoides
 Globigerinoides ruber s.s.,Globigerinoides ruber s.s.,benthic_forams,Globigerinoides
 Globigerinoides ruber s.s.,Globigerinoides ruber s.s.,planktic_forams,Globigerinoides
-Globigerinoides sacculifer,Globigerinoides sacculifer,planktic_forams,Globigerinoides
 Globigerinoides sacculifer,Globigerinoides sacculifer,benthic_forams,Globigerinoides
-Globigerinoides sacculifer (without sac),Globigerinoides sacculifer (without sac),planktic_forams,Globigerinoides
+Globigerinoides sacculifer,Globigerinoides sacculifer,planktic_forams,Globigerinoides
 Globigerinoides sacculifer (without sac),Globigerinoides sacculifer (without sac),benthic_forams,Globigerinoides
+Globigerinoides sacculifer (without sac),Globigerinoides sacculifer (without sac),planktic_forams,Globigerinoides
 Globigerinoides sacculifer (without sack),Globigerinoides sacculifer (without sack),planktic_forams,Globigerinoides
 Globigerinoides seiglei,Globigerinoides seiglei,planktic_forams,Globigerinoides
 Globigerinoides seigliei,Globigerinoides seigliei,planktic_forams,Globigerinoides
@@ -1982,8 +1982,8 @@ Globocassidulina  sp.,Globocassidulina  sp.,benthic_forams,
 Globocassidulina? sp. 1,Globocassidulina? sp. 1,benthic_forams,
 Globoconella conoidea,Globoconella conoidea,planktic_forams,Globoconella
 Globoconella conomiozea,Globoconella conomiozea,planktic_forams,Globoconella
-Globoconella inflata,Globoconella inflata,benthic_forams,Globoconella
 Globoconella inflata,Globoconella inflata,planktic_forams,Globoconella
+Globoconella inflata,Globoconella inflata,benthic_forams,Globoconella
 Globoconella miotumida,Globoconella miotumida,planktic_forams,Globoconella
 Globoconella miotumida (DEX),Globoconella miotumida (DEX),planktic_forams,Globoconella
 Globoconella miotumida (SIN),Globoconella miotumida (SIN),planktic_forams,Globoconella
@@ -2080,8 +2080,8 @@ Globorotalia decoraperta,Globorotalia decoraperta,planktic_forams,Globorotalia
 Globorotalia excelsa _B_,Globorotalia excelsa _B_,planktic_forams,Globorotalia
 Globorotalia exilis,Globorotalia exilis,planktic_forams,Globorotalia
 Globorotalia fimbriata,Globorotalia fimbriata,planktic_forams,Globorotalia
-Globorotalia flexuosa,Globorotalia flexuosa,planktic_forams,Globorotalia
 Globorotalia flexuosa,Globorotalia flexuosa,benthic_forams,Globorotalia
+Globorotalia flexuosa,Globorotalia flexuosa,planktic_forams,Globorotalia
 Globorotalia flexuosa _T and B_,Globorotalia flexuosa _T and B_,planktic_forams,Globorotalia
 Globorotalia fohsi fohsi,Globorotalia fohsi fohsi,planktic_forams,Globorotalia
 Globorotalia hessi,Globorotalia hessi,planktic_forams,Globorotalia
@@ -2100,18 +2100,18 @@ Globorotalia juanai,Globorotalia juanai,planktic_forams,Globorotalia
 Globorotalia juanai _B,Globorotalia juanai _B,planktic_forams,Globorotalia
 Globorotalia juanai _B_,Globorotalia juanai _B_,planktic_forams,Globorotalia
 Globorotalia lenguaensis,Globorotalia lenguaensis,planktic_forams,Globorotalia
-Globorotalia limbata,Globorotalia limbata,planktic_forams,Globorotalia
 Globorotalia limbata,Globorotalia limbata,benthic_forams,Globorotalia
+Globorotalia limbata,Globorotalia limbata,planktic_forams,Globorotalia
 Globorotalia limbata _B,Globorotalia limbata _B,planktic_forams,Globorotalia
 Globorotalia limbata _B_,Globorotalia limbata _B_,planktic_forams,Globorotalia
 Globorotalia limbata _T_,Globorotalia limbata _T_,planktic_forams,Globorotalia
-Globorotalia margaritae,Globorotalia margaritae,planktic_forams,Globorotalia
 Globorotalia margaritae,Globorotalia margaritae,benthic_forams,Globorotalia
+Globorotalia margaritae,Globorotalia margaritae,planktic_forams,Globorotalia
 Globorotalia margaritae _T and B_ _PL3,Globorotalia margaritae _T and B_ _PL3,planktic_forams,Globorotalia
 Globorotalia margaritae _T and B_ _PL3_,Globorotalia margaritae _T and B_ _PL3_,planktic_forams,Globorotalia
 Globorotalia mayeri,Globorotalia mayeri,planktic_forams,Globorotalia
-Globorotalia menardii,Globorotalia menardii,benthic_forams,Globorotalia
 Globorotalia menardii,Globorotalia menardii,planktic_forams,Globorotalia
+Globorotalia menardii,Globorotalia menardii,benthic_forams,Globorotalia
 Globorotalia menardii (dex),Globorotalia menardii (dex),planktic_forams,Globorotalia
 Globorotalia menardii (sin),Globorotalia menardii (sin),planktic_forams,Globorotalia
 Globorotalia merotumida,Globorotalia merotumida,planktic_forams,Globorotalia
@@ -2124,8 +2124,8 @@ Globorotalia multicamerata _T,Globorotalia multicamerata _T,planktic_forams,Glob
 Globorotalia multicamerata _T_,Globorotalia multicamerata _T_,planktic_forams,Globorotalia
 Globorotalia munda,Globorotalia munda,planktic_forams,Globorotalia
 Globorotalia peripheroacuta,Globorotalia peripheroacuta,planktic_forams,Globorotalia
-Globorotalia pertenuis,Globorotalia pertenuis,benthic_forams,Globorotalia
 Globorotalia pertenuis,Globorotalia pertenuis,planktic_forams,Globorotalia
+Globorotalia pertenuis,Globorotalia pertenuis,benthic_forams,Globorotalia
 Globorotalia pertenuis _T and B_,Globorotalia pertenuis _T and B_,planktic_forams,Globorotalia
 Globorotalia pertenuis _T_,Globorotalia pertenuis _T_,planktic_forams,Globorotalia
 Globorotalia plesiotumida,Globorotalia plesiotumida,planktic_forams,Globorotalia
@@ -2160,8 +2160,8 @@ Globorotalia truncatulinoides (dex),Globorotalia truncatulinoides (dex),planktic
 Globorotalia truncatulinoides (sin),Globorotalia truncatulinoides (sin),planktic_forams,Globorotalia
 Globorotalia truncatulinoides _B,Globorotalia truncatulinoides _B,planktic_forams,Globorotalia
 Globorotalia truncatulinoides _B_,Globorotalia truncatulinoides _B_,planktic_forams,Globorotalia
-Globorotalia tumida,Globorotalia tumida,planktic_forams,Globorotalia
 Globorotalia tumida,Globorotalia tumida,benthic_forams,Globorotalia
+Globorotalia tumida,Globorotalia tumida,planktic_forams,Globorotalia
 Globorotalia tumida _B_ _PL1a_,Globorotalia tumida _B_ _PL1a_,planktic_forams,Globorotalia
 Globorotalia tumida flexuosa,Globorotalia tumida flexuosa,planktic_forams,Globorotalia
 Globorotalia ungulata,Globorotalia ungulata,planktic_forams,Globorotalia
@@ -2193,8 +2193,8 @@ Globotruncanita calcarata,Globotruncanita calcarata,planktic_forams,Globotruncan
 Globotruncanita elevata,Globotruncanita elevata,planktic_forams,Globotruncanita
 Globotruncanita stuarti,Globotruncanita stuarti,planktic_forams,Globotruncanita
 Globotruncanita stuartiformis,Globotruncanita stuartiformis,planktic_forams,Globotruncanita
-Globoturborotalita apertura,Globoturborotalita apertura,benthic_forams,Globoturborotalita
 Globoturborotalita apertura,Globoturborotalita apertura,planktic_forams,Globoturborotalita
+Globoturborotalita apertura,Globoturborotalita apertura,benthic_forams,Globoturborotalita
 "Globoturborotalita apertura (Cushman, 1918)","Globoturborotalita apertura (Cushman, 1918)",planktic_forams,Globoturborotalita
 Globoturborotalita apertura _T and B,Globoturborotalita apertura _T and B,planktic_forams,Globoturborotalita
 Globoturborotalita apertura _T and B_,Globoturborotalita apertura _T and B_,planktic_forams,Globoturborotalita
@@ -2210,8 +2210,8 @@ Globoturborotalita nepenthes _T and B_PL2 and M11,Globoturborotalita nepenthes _
 Globoturborotalita obliquus,Globoturborotalita obliquus,planktic_forams,Globoturborotalita
 Globoturborotalita rubescens,Globoturborotalita rubescens,planktic_forams,Globoturborotalita
 Globoturborotalita tenella,Globoturborotalita tenella,planktic_forams,Globoturborotalita
-Globoturborotalita woodi,Globoturborotalita woodi,planktic_forams,Globoturborotalita
 Globoturborotalita woodi,Globoturborotalita woodi,benthic_forams,Globoturborotalita
+Globoturborotalita woodi,Globoturborotalita woodi,planktic_forams,Globoturborotalita
 "Globoturborotalita woodi (Jenkins, 1960)","Globoturborotalita woodi (Jenkins, 1960)",planktic_forams,Globoturborotalita
 Globoturborotalita woodi connecta,Globoturborotalita woodi connecta,planktic_forams,Globoturborotalita
 Globulina gibba,Globulina gibba,benthic_forams,Globulina
@@ -2339,11 +2339,11 @@ Helicosphaera carteri,Helicosphaera carteri,diatoms,Helicosphaera
 Helicosphaera carteri,Helicosphaera carteri,nannofossils,Helicosphaera
 Helicosphaera carteri var. walichii,Helicosphaera carteri var. walichii,nannofossils,Helicosphaera
 Helicosphaera clarissima,Helicosphaera clarissima,nannofossils,Helicosphaera
-Helicosphaera compacta,Helicosphaera compacta,nannofossils,Helicosphaera
 Helicosphaera compacta,Helicosphaera compacta,diatoms,Helicosphaera
+Helicosphaera compacta,Helicosphaera compacta,nannofossils,Helicosphaera
 Helicosphaera ethologa,Helicosphaera ethologa,nannofossils,Helicosphaera
-Helicosphaera euphratis,Helicosphaera euphratis,diatoms,Helicosphaera
 Helicosphaera euphratis,Helicosphaera euphratis,nannofossils,Helicosphaera
+Helicosphaera euphratis,Helicosphaera euphratis,diatoms,Helicosphaera
 Helicosphaera euphratis (< 8 microns),Helicosphaera euphratis (< 8 microns),nannofossils,Helicosphaera
 Helicosphaera granulata,Helicosphaera granulata,nannofossils,Helicosphaera
 Helicosphaera hyalina,Helicosphaera hyalina,nannofossils,Helicosphaera
@@ -2551,8 +2551,8 @@ Lamptonium fabaeforme,Lamptonium fabaeforme,radiolarians,Lamptonium
 Lamptonium fabaeforme fabaeforme,Lamptonium fabaeforme fabaeforme,radiolarians,Lamptonium
 Lamptonium pennatum,Lamptonium pennatum,radiolarians,Lamptonium
 Lamptonium sanfilippoae,Lamptonium sanfilippoae,radiolarians,Lamptonium
-Lanternithus minutus,Lanternithus minutus,diatoms,Lanternithus
 Lanternithus minutus,Lanternithus minutus,nannofossils,Lanternithus
+Lanternithus minutus,Lanternithus minutus,diatoms,Lanternithus
 Lapideacassis sp.,Lapideacassis sp.,nannofossils,Lapideacassis
 Larcopyle buetschlii,Larcopyle buetschlii,radiolarians,Larcopyle
 Larcopyle hayesi,Larcopyle hayesi,radiolarians,Larcopyle
@@ -2880,8 +2880,8 @@ Neoeponides spp.,Neoeponides spp.,benthic_forams,Neoeponides
 Neoeponides spp.?,Neoeponides spp.?,benthic_forams,Neoeponides
 Neoflabellina semireticulata,Neoflabellina semireticulata,benthic_forams,Neoflabellina
 Neoflabellina sp.,Neoflabellina sp.,benthic_forams,Neoflabellina
-Neogloboquadrina acostaensis,Neogloboquadrina acostaensis,benthic_forams,Neogloboquadrina
 Neogloboquadrina acostaensis,Neogloboquadrina acostaensis,planktic_forams,Neogloboquadrina
+Neogloboquadrina acostaensis,Neogloboquadrina acostaensis,benthic_forams,Neogloboquadrina
 Neogloboquadrina acostaensis (D),Neogloboquadrina acostaensis (D),planktic_forams,Neogloboquadrina
 Neogloboquadrina acostaensis (S),Neogloboquadrina acostaensis (S),planktic_forams,Neogloboquadrina
 Neogloboquadrina acostaensis (dextral),Neogloboquadrina acostaensis (dextral),planktic_forams,Neogloboquadrina
@@ -2893,10 +2893,10 @@ Neogloboquadrina atlantica (sin),Neogloboquadrina atlantica (sin),planktic_foram
 Neogloboquadrina atlantica atlantica,Neogloboquadrina atlantica atlantica,planktic_forams,Neogloboquadrina
 Neogloboquadrina cf. pachyderma,Neogloboquadrina cf. pachyderma,planktic_forams,Neogloboquadrina
 Neogloboquadrina continuosa,Neogloboquadrina continuosa,planktic_forams,Neogloboquadrina
-Neogloboquadrina dutertrei,Neogloboquadrina dutertrei,planktic_forams,Neogloboquadrina
 Neogloboquadrina dutertrei,Neogloboquadrina dutertrei,benthic_forams,Neogloboquadrina
-Neogloboquadrina humerosa,Neogloboquadrina humerosa,benthic_forams,Neogloboquadrina
+Neogloboquadrina dutertrei,Neogloboquadrina dutertrei,planktic_forams,Neogloboquadrina
 Neogloboquadrina humerosa,Neogloboquadrina humerosa,planktic_forams,Neogloboquadrina
+Neogloboquadrina humerosa,Neogloboquadrina humerosa,benthic_forams,Neogloboquadrina
 Neogloboquadrina humerosa _B,Neogloboquadrina humerosa _B,planktic_forams,Neogloboquadrina
 Neogloboquadrina humerosa _B_,Neogloboquadrina humerosa _B_,planktic_forams,Neogloboquadrina
 Neogloboquadrina incompta,Neogloboquadrina incompta,planktic_forams,Neogloboquadrina
@@ -2924,8 +2924,8 @@ Neorotalia spp.,Neorotalia spp.,benthic_forams,Neorotalia
 Neosphaera coccolithomorpha,Neosphaera coccolithomorpha,nannofossils,Neosphaera
 Nephrolithus frequens,Nephrolithus frequens,nannofossils,Nephrolithus
 Nephrospyris renilla,Nephrospyris renilla,radiolarians,Nephrospyris
-Nicklithus amplificus,Nicklithus amplificus,nannofossils,Nicklithus
 Nicklithus amplificus,Nicklithus amplificus,diatoms,Nicklithus
+Nicklithus amplificus,Nicklithus amplificus,nannofossils,Nicklithus
 Nitzschia bicapitata,Nitzschia bicapitata,diatoms,Nitzschia
 Nitzschia braarudii,Nitzschia braarudii,diatoms,Nitzschia
 Nitzschia capuluspalae,Nitzschia capuluspalae,diatoms,Nitzschia
@@ -3045,14 +3045,14 @@ Operculodinium janduchenei,Operculodinium janduchenei,palynology,Operculodinium
 Operculodinium sp.,Operculodinium sp.,palynology,Operculodinium
 Operculodinium? eirikianum,Operculodinium? eirikianum,palynology,
 Ophthalmidium circularis,Ophthalmidium circularis,benthic_forams,Ophthalmidium
-Orbulina bilobata,Orbulina bilobata,planktic_forams,Orbulina
 Orbulina bilobata,Orbulina bilobata,benthic_forams,Orbulina
+Orbulina bilobata,Orbulina bilobata,planktic_forams,Orbulina
 Orbulina sp.,Orbulina sp.,planktic_forams,Orbulina
 Orbulina suturalis,Orbulina suturalis,planktic_forams,Orbulina
 Orbulina suturalis _B_ _M6,Orbulina suturalis _B_ _M6,planktic_forams,Orbulina
 Orbulina suturalis _B_ _M6_,Orbulina suturalis _B_ _M6_,planktic_forams,Orbulina
-Orbulina universa,Orbulina universa,planktic_forams,Orbulina
 Orbulina universa,Orbulina universa,benthic_forams,Orbulina
+Orbulina universa,Orbulina universa,planktic_forams,Orbulina
 Orbulina universa (juvenile),Orbulina universa (juvenile),planktic_forams,Orbulina
 Orbulinoides beckmanni,Orbulinoides beckmanni,planktic_forams,Orbulinoides
 Organic matter,Organic matter,planktic_forams,Organic
@@ -3067,8 +3067,8 @@ Orthomorphina perversa,Orthomorphina perversa,benthic_forams,Orthomorphina
 Orthomorphina sp.,Orthomorphina sp.,benthic_forams,Orthomorphina
 Orthomorphina spp.,Orthomorphina spp.,benthic_forams,Orthomorphina
 Orthorhabdus rugosus,Orthorhabdus rugosus,nannofossils,Orthorhabdus
-Orthorhabdus serratus,Orthorhabdus serratus,diatoms,Orthorhabdus
 Orthorhabdus serratus,Orthorhabdus serratus,nannofossils,Orthorhabdus
+Orthorhabdus serratus,Orthorhabdus serratus,diatoms,Orthorhabdus
 Orthorhabdus striatus,Orthorhabdus striatus,nannofossils,Orthorhabdus
 Ortomorphina spp.,Ortomorphina spp.,benthic_forams,Ortomorphina
 Osangularia,Osangularia,benthic_forams,
@@ -3384,10 +3384,10 @@ Prunopyle tetrapila,Prunopyle tetrapila,radiolarians,Prunopyle
 Prunopyle titan,Prunopyle titan,radiolarians,Prunopyle
 Psammosiphonella cylindrica,Psammosiphonella cylindrica,benthic_forams,Psammosiphonella
 Psammosiphonella sp.,Psammosiphonella sp.,benthic_forams,Psammosiphonella
-Pseudammodochium lingii,Pseudammodochium lingii,ebridians,Pseudammodochium
 Pseudammodochium lingii,Pseudammodochium lingii,diatoms,Pseudammodochium
-Pseudammodochium sphericum,Pseudammodochium sphericum,ebridians,Pseudammodochium
+Pseudammodochium lingii,Pseudammodochium lingii,ebridians,Pseudammodochium
 Pseudammodochium sphericum,Pseudammodochium sphericum,diatoms,Pseudammodochium
+Pseudammodochium sphericum,Pseudammodochium sphericum,ebridians,Pseudammodochium
 Pseudoclavulina anglica,Pseudoclavulina anglica,benthic_forams,Pseudoclavulina
 Pseudoclavulina juncea,Pseudoclavulina juncea,benthic_forams,Pseudoclavulina
 Pseudoclavulina sp.,Pseudoclavulina sp.,benthic_forams,Pseudoclavulina
@@ -3473,8 +3473,8 @@ Pulleniatina obliquiloculata (D),Pulleniatina obliquiloculata (D),planktic_foram
 Pulleniatina obliquiloculata (S),Pulleniatina obliquiloculata (S),planktic_forams,Pulleniatina
 Pulleniatina praecursor,Pulleniatina praecursor,planktic_forams,Pulleniatina
 Pulleniatina praespectabilis,Pulleniatina praespectabilis,planktic_forams,Pulleniatina
-Pulleniatina primalis,Pulleniatina primalis,planktic_forams,Pulleniatina
 Pulleniatina primalis,Pulleniatina primalis,benthic_forams,Pulleniatina
+Pulleniatina primalis,Pulleniatina primalis,planktic_forams,Pulleniatina
 Pulleniatina primalis (D),Pulleniatina primalis (D),planktic_forams,Pulleniatina
 Pulleniatina primalis (S),Pulleniatina primalis (S),planktic_forams,Pulleniatina
 Pulleniatina primalis  _Tand B,Pulleniatina primalis _Tand B,planktic_forams,Pulleniatina
@@ -3586,11 +3586,11 @@ Reticulofenestra asanoi (>6 microns),Reticulofenestra asanoi (>6 microns),nannof
 Reticulofenestra bisecta,Reticulofenestra bisecta,nannofossils,Reticulofenestra
 Reticulofenestra bisecta (5-10 microns),Reticulofenestra bisecta (5-10 microns),nannofossils,Reticulofenestra
 Reticulofenestra bisecta (5-10 microns),Reticulofenestra bisecta (5-10 microns),diatoms,Reticulofenestra
-Reticulofenestra bisecta (>10 microns),Reticulofenestra bisecta (>10 microns),nannofossils,Reticulofenestra
 Reticulofenestra bisecta (>10 microns),Reticulofenestra bisecta (>10 microns),diatoms,Reticulofenestra
+Reticulofenestra bisecta (>10 microns),Reticulofenestra bisecta (>10 microns),nannofossils,Reticulofenestra
 Reticulofenestra callida,Reticulofenestra callida,nannofossils,Reticulofenestra
-Reticulofenestra circus,Reticulofenestra circus,diatoms,Reticulofenestra
 Reticulofenestra circus,Reticulofenestra circus,nannofossils,Reticulofenestra
+Reticulofenestra circus,Reticulofenestra circus,diatoms,Reticulofenestra
 Reticulofenestra cisnerosii,Reticulofenestra cisnerosii,nannofossils,Reticulofenestra
 Reticulofenestra daviesii,Reticulofenestra daviesii,nannofossils,Reticulofenestra
 Reticulofenestra dictyoda,Reticulofenestra dictyoda,nannofossils,Reticulofenestra
@@ -3616,8 +3616,8 @@ Reticulofenestra oamaruensis,Reticulofenestra oamaruensis,nannofossils,Reticulof
 Reticulofenestra perplexa,Reticulofenestra perplexa,nannofossils,Reticulofenestra
 Reticulofenestra producta,Reticulofenestra producta,nannofossils,Reticulofenestra
 Reticulofenestra pseudoumbilica,Reticulofenestra pseudoumbilica,nannofossils,Reticulofenestra
-Reticulofenestra pseudoumbilicus,Reticulofenestra pseudoumbilicus,diatoms,Reticulofenestra
 Reticulofenestra pseudoumbilicus,Reticulofenestra pseudoumbilicus,nannofossils,Reticulofenestra
+Reticulofenestra pseudoumbilicus,Reticulofenestra pseudoumbilicus,diatoms,Reticulofenestra
 Reticulofenestra pseudoumbilicus (5-7 microns),Reticulofenestra pseudoumbilicus (5-7 microns),nannofossils,Reticulofenestra
 Reticulofenestra pseudoumbilicus (5-7 um),Reticulofenestra pseudoumbilicus (5-7 um),nannofossils,Reticulofenestra
 Reticulofenestra pseudoumbilicus (5-7 µm),Reticulofenestra pseudoumbilicus (5-7 µm),nannofossils,Reticulofenestra
@@ -3638,12 +3638,12 @@ Reticulofenestra sp. (<3 microns),Reticulofenestra sp. (<3 microns),nannofossils
 Reticulofenestra sp. (>7 microns),Reticulofenestra sp. (>7 microns),nannofossils,Reticulofenestra
 Reticulofenestra sp. 1,Reticulofenestra sp. 1,nannofossils,Reticulofenestra
 Reticulofenestra spp.,Reticulofenestra spp.,nannofossils,Reticulofenestra
-Reticulofenestra spp. small,Reticulofenestra spp. small,nannofossils,Reticulofenestra
 Reticulofenestra spp. small,Reticulofenestra spp. small,diatoms,Reticulofenestra
+Reticulofenestra spp. small,Reticulofenestra spp. small,nannofossils,Reticulofenestra
 Reticulofenestra stavensis,Reticulofenestra stavensis,nannofossils,Reticulofenestra
 Reticulofenestra umbilica,Reticulofenestra umbilica,nannofossils,Reticulofenestra
-Reticulofenestra umbilicus,Reticulofenestra umbilicus,diatoms,Reticulofenestra
 Reticulofenestra umbilicus,Reticulofenestra umbilicus,nannofossils,Reticulofenestra
+Reticulofenestra umbilicus,Reticulofenestra umbilicus,diatoms,Reticulofenestra
 Reticulofenestra umbilicus (>14 microns),Reticulofenestra umbilicus (>14 microns),nannofossils,Reticulofenestra
 Reticulofenestra umbilicus (>14um),Reticulofenestra umbilicus (>14um),nannofossils,Reticulofenestra
 Reticulofenestra umbilicus (>14µm),Reticulofenestra umbilicus (>14µm),nannofossils,Reticulofenestra
@@ -3968,15 +3968,15 @@ Sphaeropyle robusta,Sphaeropyle robusta,radiolarians,Sphaeropyle
 Sphaeropyle tetrapila,Sphaeropyle tetrapila,radiolarians,Sphaeropyle
 Sphaerozoum punctatum,Sphaerozoum punctatum,radiolarians,Sphaerozoum
 Sphagnum,Sphagnum,palynology,
-Sphenolithus abies,Sphenolithus abies,diatoms,Sphenolithus
 Sphenolithus abies,Sphenolithus abies,nannofossils,Sphenolithus
+Sphenolithus abies,Sphenolithus abies,diatoms,Sphenolithus
 Sphenolithus akropodus,Sphenolithus akropodus,nannofossils,Sphenolithus
 Sphenolithus anarrhopus,Sphenolithus anarrhopus,nannofossils,Sphenolithus
 Sphenolithus arthurii,Sphenolithus arthurii,nannofossils,Sphenolithus
 Sphenolithus belemnos,Sphenolithus belemnos,diatoms,Sphenolithus
 Sphenolithus belemnos,Sphenolithus belemnos,nannofossils,Sphenolithus
-Sphenolithus calyculus,Sphenolithus calyculus,diatoms,Sphenolithus
 Sphenolithus calyculus,Sphenolithus calyculus,nannofossils,Sphenolithus
+Sphenolithus calyculus,Sphenolithus calyculus,diatoms,Sphenolithus
 Sphenolithus capricornutus,Sphenolithus capricornutus,nannofossils,Sphenolithus
 Sphenolithus capricornutus,Sphenolithus capricornutus,diatoms,Sphenolithus
 Sphenolithus celsus,Sphenolithus celsus,nannofossils,Sphenolithus
@@ -3989,8 +3989,8 @@ Sphenolithus delphix,Sphenolithus delphix,diatoms,Sphenolithus
 Sphenolithus delphix,Sphenolithus delphix,nannofossils,Sphenolithus
 Sphenolithus disbelemnos,Sphenolithus disbelemnos,nannofossils,Sphenolithus
 Sphenolithus disbelemnos,Sphenolithus disbelemnos,diatoms,Sphenolithus
-Sphenolithus dissimilis,Sphenolithus dissimilis,diatoms,Sphenolithus
 Sphenolithus dissimilis,Sphenolithus dissimilis,nannofossils,Sphenolithus
+Sphenolithus dissimilis,Sphenolithus dissimilis,diatoms,Sphenolithus
 Sphenolithus distentus,Sphenolithus distentus,nannofossils,Sphenolithus
 Sphenolithus editus,Sphenolithus editus,nannofossils,Sphenolithus
 Sphenolithus furcatolithoides,Sphenolithus furcatolithoides,nannofossils,Sphenolithus
@@ -4008,8 +4008,8 @@ Sphenolithus obtusus,Sphenolithus obtusus,nannofossils,Sphenolithus
 Sphenolithus orphanknollensis,Sphenolithus orphanknollensis,nannofossils,Sphenolithus
 Sphenolithus pospichalii,Sphenolithus pospichalii,diatoms,Sphenolithus
 Sphenolithus pospichalii,Sphenolithus pospichalii,nannofossils,Sphenolithus
-Sphenolithus predistentus,Sphenolithus predistentus,diatoms,Sphenolithus
 Sphenolithus predistentus,Sphenolithus predistentus,nannofossils,Sphenolithus
+Sphenolithus predistentus,Sphenolithus predistentus,diatoms,Sphenolithus
 Sphenolithus primus,Sphenolithus primus,nannofossils,Sphenolithus
 Sphenolithus pseudoheteromorphus,Sphenolithus pseudoheteromorphus,nannofossils,Sphenolithus
 Sphenolithus pseudoradians,Sphenolithus pseudoradians,nannofossils,Sphenolithus
@@ -4022,8 +4022,8 @@ Sphenolithus strigosus,Sphenolithus strigosus,nannofossils,Sphenolithus
 Sphenolithus tribulosus,Sphenolithus tribulosus,nannofossils,Sphenolithus
 Sphenolithus villae,Sphenolithus villae,nannofossils,Sphenolithus
 Sphynctolethus pacificus,Sphynctolethus pacificus,diatoms,Sphynctolethus
-Spinidinium macmurdoense,Spinidinium macmurdoense,dinoflagellates,Spinidinium
 Spinidinium macmurdoense,Spinidinium macmurdoense,palynology,Spinidinium
+Spinidinium macmurdoense,Spinidinium macmurdoense,dinoflagellates,Spinidinium
 Spinidinium schellenbergii,Spinidinium schellenbergii,dinoflagellates,Spinidinium
 Spiniferites elongatus,Spiniferites elongatus,palynology,Spiniferites
 Spiniferites mirabilis,Spiniferites mirabilis,palynology,Spiniferites
@@ -4491,13 +4491,13 @@ Triquetrorhabdulus carinatus,Triquetrorhabdulus carinatus,nannofossils,Triquetro
 Triquetrorhabdulus carinatus,Triquetrorhabdulus carinatus,diatoms,Triquetrorhabdulus
 Triquetrorhabdulus challengeri,Triquetrorhabdulus challengeri,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus finifer,Triquetrorhabdulus finifer,nannofossils,Triquetrorhabdulus
-Triquetrorhabdulus longus,Triquetrorhabdulus longus,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus longus,Triquetrorhabdulus longus,diatoms,Triquetrorhabdulus
+Triquetrorhabdulus longus,Triquetrorhabdulus longus,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus millowii,Triquetrorhabdulus millowii,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus milowii,Triquetrorhabdulus milowii,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus rioi,Triquetrorhabdulus rioi,nannofossils,Triquetrorhabdulus
-Triquetrorhabdulus rugosus,Triquetrorhabdulus rugosus,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus rugosus,Triquetrorhabdulus rugosus,diatoms,Triquetrorhabdulus
+Triquetrorhabdulus rugosus,Triquetrorhabdulus rugosus,nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus sp. (long needle like),Triquetrorhabdulus sp. (long needle like),nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus sp. (long needle-like),Triquetrorhabdulus sp. (long needle-like),nannofossils,Triquetrorhabdulus
 Triquetrorhabdulus sp. (long),Triquetrorhabdulus sp. (long),nannofossils,Triquetrorhabdulus
@@ -4565,8 +4565,8 @@ Turborotalia pseudoampliapertura,Turborotalia pseudoampliapertura,planktic_foram
 Turborotalia quinqueloba,Turborotalia quinqueloba,planktic_forams,Turborotalia
 Turborotalita humilis,Turborotalita humilis,planktic_forams,Turborotalita
 Turborotalita iota,Turborotalita iota,planktic_forams,Turborotalita
-Turborotalita quinqueloba,Turborotalita quinqueloba,benthic_forams,Turborotalita
 Turborotalita quinqueloba,Turborotalita quinqueloba,planktic_forams,Turborotalita
+Turborotalita quinqueloba,Turborotalita quinqueloba,benthic_forams,Turborotalita
 Turrilina brevispira,Turrilina brevispira,benthic_forams,Turrilina
 Turrilina sp.,Turrilina sp.,benthic_forams,Turrilina
 Tympanomma sp.,Tympanomma sp.,radiolarians,Tympanomma
@@ -4580,10 +4580,10 @@ Umbilicosphaera foliosa,Umbilicosphaera foliosa,nannofossils,Umbilicosphaera
 Umbilicosphaera hulburtiana,Umbilicosphaera hulburtiana,nannofossils,Umbilicosphaera
 Umbilicosphaera jafari,Umbilicosphaera jafari,nannofossils,Umbilicosphaera
 Umbilicosphaera jordanii,Umbilicosphaera jordanii,nannofossils,Umbilicosphaera
-Umbilicosphaera rotula,Umbilicosphaera rotula,nannofossils,Umbilicosphaera
 Umbilicosphaera rotula,Umbilicosphaera rotula,diatoms,Umbilicosphaera
-Umbilicosphaera sibogae,Umbilicosphaera sibogae,diatoms,Umbilicosphaera
+Umbilicosphaera rotula,Umbilicosphaera rotula,nannofossils,Umbilicosphaera
 Umbilicosphaera sibogae,Umbilicosphaera sibogae,nannofossils,Umbilicosphaera
+Umbilicosphaera sibogae,Umbilicosphaera sibogae,diatoms,Umbilicosphaera
 Umbilicosphaera sibogae var. foliosa,Umbilicosphaera sibogae var. foliosa,nannofossils,Umbilicosphaera
 Umbilicosphaera sigbogae,Umbilicosphaera sigbogae,nannofossils,Umbilicosphaera
 Umbilicosphaera sp.,Umbilicosphaera sp.,nannofossils,Umbilicosphaera
@@ -4666,8 +4666,8 @@ Virgulina cf texturata,Virgulina cf texturata,benthic_forams,Virgulina
 Virgulina sp.,Virgulina sp.,benthic_forams,Virgulina
 Virgulinella spp.,Virgulinella spp.,benthic_forams,Virgulinella
 Virgulopsis spp.,Virgulopsis spp.,benthic_forams,Virgulopsis
-Vozzhennikovia apertura,Vozzhennikovia apertura,palynology,Vozzhennikovia
 Vozzhennikovia apertura,Vozzhennikovia apertura,dinoflagellates,Vozzhennikovia
+Vozzhennikovia apertura,Vozzhennikovia apertura,palynology,Vozzhennikovia
 Vozzhennikovia rohliae,Vozzhennikovia rohliae,dinoflagellates,Vozzhennikovia
 Vulvulina bortonica,Vulvulina bortonica,benthic_forams,Vulvulina
 Vulvulina bueningi,Vulvulina bueningi,benthic_forams,Vulvulina
@@ -4724,8 +4724,8 @@ Zygocircus cimelium,Zygocircus cimelium,radiolarians,Zygocircus
 Zygocircus productus,Zygocircus productus,radiolarians,Zygocircus
 Zygocircus sp.,Zygocircus sp.,radiolarians,Zygocircus
 Zygodiscus plectopons,Zygodiscus plectopons,nannofossils,Zygodiscus
-Zygrhablithus bijugatus,Zygrhablithus bijugatus,diatoms,Zygrhablithus
 Zygrhablithus bijugatus,Zygrhablithus bijugatus,nannofossils,Zygrhablithus
+Zygrhablithus bijugatus,Zygrhablithus bijugatus,diatoms,Zygrhablithus
 calcispheres,calcispheres,nannofossils,
 fossil,fossil,benthic_forams,
 fossil_group,fossil_group,benthic_forams,

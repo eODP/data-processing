@@ -85,17 +85,17 @@ benthic_forams,Globigerinoides trilobus,Globigerinoides trilobus,,,this is a pla
 benthic_forams,Globoconella inflata,Globoconella inflata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globoconella,,,,inflata,,,,,,,
 benthic_forams,Globorotalia crassaformis,Globorotalia crassaformis,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,crassaformis,,,,,,,
 benthic_forams,Globorotalia flexuosa,Globorotalia flexuosa,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,flexuosa,,,,,,,
-benthic_forams,Globorotalia humerosa,Globorotalia humerosa,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,humerosa,,,,,,,
-benthic_forams,Globorotalia limbata,Globorotalia limbata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,limbata,,,,,,,
-benthic_forams,Globorotalia margaritae,Globorotalia margaritae,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,margaritae,,,,,,,
-benthic_forams,Globorotalia menardii,Globorotalia menardii,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,menardii,,,,,,,
-benthic_forams,Globorotalia multicamerata,Globorotalia multicamerata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,multicamerata,,,,,,,
-benthic_forams,Globorotalia pertenuis,Globorotalia pertenuis,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,pertenuis,,,,,,,
-benthic_forams,Globorotalia plesiotumida,Globorotalia plesiotumida,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,plesiotumida,,,,,,,
-benthic_forams,Globorotalia tosaensis,Globorotalia tosaensis,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,tosaensis,,,,,,,
-benthic_forams,Globorotalia truncatulinoides,Globorotalia truncatulinoides,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,truncatulinoides,,,,,,,
-benthic_forams,Globorotalia tumida,Globorotalia tumida,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,tumida,,,,,,,
-benthic_forams,Globorotalia ungulata,Globorotalia ungulata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,Globorotalia,ungulata,,,,,,,
+benthic_forams,Globorotalia humerosa,Globorotalia humerosa,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,humerosa,,,,,,,
+benthic_forams,Globorotalia limbata,Globorotalia limbata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,limbata,,,,,,,
+benthic_forams,Globorotalia margaritae,Globorotalia margaritae,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,margaritae,,,,,,,
+benthic_forams,Globorotalia menardii,Globorotalia menardii,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,menardii,,,,,,,
+benthic_forams,Globorotalia multicamerata,Globorotalia multicamerata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,multicamerata,,,,,,,
+benthic_forams,Globorotalia pertenuis,Globorotalia pertenuis,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,pertenuis,,,,,,,
+benthic_forams,Globorotalia plesiotumida,Globorotalia plesiotumida,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,plesiotumida,,,,,,,
+benthic_forams,Globorotalia tosaensis,Globorotalia tosaensis,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,tosaensis,,,,,,,
+benthic_forams,Globorotalia truncatulinoides,Globorotalia truncatulinoides,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,truncatulinoides,,,,,,,
+benthic_forams,Globorotalia tumida,Globorotalia tumida,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,tumida,,,,,,,
+benthic_forams,Globorotalia ungulata,Globorotalia ungulata,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globorotalia,,,,ungulata,,,,,,,
 benthic_forams,Globoturborotalita apertura,Globoturborotalita apertura,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globoturborotalita,,,,apertura,,,,,,,
 benthic_forams,Globoturborotalita woodi,Globoturborotalita woodi,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Globoturborotalita,,,,woodi,,,,,,,
 benthic_forams,Neogloboquadrina acostaensis,Neogloboquadrina acostaensis,,,this is a planktic foram,"in PBDB, so it will be classified correctly",,,Neogloboquadrina,,,,acostaensis,,,,,,,
@@ -230,7 +230,7 @@ benthic_forams,Astrononion spp.,Astrononion spp.,,,,"in PBDB, but classification
 benthic_forams,Awhea spp.,Awhea spp.,,,,"Not accepted? Accepted as Staffia (Schubert, 1911)",,,Awhea,,,,spp.,,,,,,,
 benthic_forams,Baculogypsina sphaerulata,Baculogypsina sphaerulata,,,,"in PBDB, but classification differs to WoRMS",,,Baculogypsina,,,,sphaerulata,,,,,,,
 benthic_forams,Bathysiphon sp.,Bathysiphon sp.,,,,"in PBDB, so it will be classified correctly",,,Bathysiphon,,,,sp.,,,,,,,
-benthic_forams,Berthelina intermedia,Berthelina intermedia,,,,"in PBDB, so it will be classified correctly",,,Berthelina,,,,intermedia,,,,,,,
+benthic_forams,Berthelina  intermedia,Berthelina intermedia,,,,"in PBDB, so it will be classified correctly",,,Berthelina,,,,intermedia,,,,,,,
 benthic_forams,Berthelina sp. 2,Berthelina sp. 2,Berthelina <sp. 2>,,,"in PBDB, so it will be classified correctly",,,Berthelina,,,,sp. 2,,,,,,,
 benthic_forams,Bigenerina nodosaria,Bigenerina nodosaria,,,,"in PBDB, but some taxonomic ranks are missing",,,Bigenerina,,,,nodosaria,,,,,,,
 benthic_forams,Bigenerina sp.,Bigenerina sp.,,,,"in PBDB, but some taxonomic ranks are missing",,,Bigenerina,,,,sp.,,,,,,,
@@ -383,12 +383,12 @@ benthic_forams,Chilostomella spp.,Chilostomella spp.,,,,"in PBDB, so it will be 
 benthic_forams,Chilostomellina frimbriata,Chilostomellina frimbriata,Chilostomellina fimbriata,,,"in PBDB, but classification differs to WoRMS",,,Chilostomellina,,,,fimbriata,,,,,,,
 benthic_forams,Chrysalogonium calomorphum,Chrysalogonium calomorphum,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,calomorphum,,,,,,,
 benthic_forams,Chrysalogonium crassitestum,Chrysalogonium crassitestum,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,crassitestum,,,,,,,
-benthic_forams,Chrysalogonium equisetiformis,Chrysalogonium equisetiformis,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,equisetiformis,,,,,,,
+benthic_forams,Chrysalogonium  equisetiformis,Chrysalogonium equisetiformis,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,equisetiformis,,,,,,,
 benthic_forams,Chrysalogonium intertenuatum,Chrysalogonium intertenuatum,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,intertenuatum,,,,,,,
 benthic_forams,Chrysalogonium sp.,Chrysalogonium sp.,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,sp.,,,,,,,
 benthic_forams,Chrysalogonium spp.,Chrysalogonium spp.,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,spp.,,,,,,,
 benthic_forams,Chrysalogonium tenuicostatum,Chrysalogonium tenuicostatum,,,,"in PBDB, but classification differs to WoRMS",,,Chrysalogonium,,,,tenuicostatum,,,,,,,
-benthic_forams,Cibicides bradyi,Cibicides bradyi,Cibicides bradyi,,,"in PBDB, so it will be classified correctly (Monfort 1808)",,,Cibicides ,,,,bradyi,,,,,,,
+benthic_forams,Cibicides  bradyi,Cibicides bradyi,Cibicides bradyi,,,"in PBDB, so it will be classified correctly (Monfort 1808)",,,Cibicides ,,,,bradyi,,,,,,,
 benthic_forams,Cibicides bradyi,Cibicides bradyi,,,,"in PBDB, so it will be classified correctly (Monfort 1808)",,,Cibicides,,,,bradyi,,,,,,,
 benthic_forams,Cibicides cf. lobatulus,Cibicides cf. lobatulus,,,,"in PBDB, so it will be classified correctly (Monfort 1808)",,,Cibicides,,,cf.,lobatulus,,,,,,,
 benthic_forams,Cibicides collinsi,Cibicides collinsi,,,,"in PBDB, so it will be classified correctly (Monfort 1808)",,,Cibicides,,,,collinsi,,,,,,,
@@ -539,7 +539,7 @@ benthic_forams,Discorotalia spp.,Discorotalia spp.,,,,"in PBDB, so it will be cl
 benthic_forams,Dorothia,Dorothia,Dorothia sp.,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,sp.,,,,,,,
 benthic_forams,Dorothia bradyana,Dorothia bradyana,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,bradyana,,,,,,,
 benthic_forams,Dorothia brevis,Dorothia brevis,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,brevis,,,,,,,
-benthic_forams,Dorothia bulleta,Dorothia bulleta,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,bulleta,,,,,,,
+benthic_forams,Dorothia  bulleta,Dorothia bulleta,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,bulleta,,,,,,,
 benthic_forams,Dorothia elongata,Dorothia elongata,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,elongata,,,,,,,
 benthic_forams,Dorothia exilis,Dorothia exilis,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,exilis,,,,,,,
 benthic_forams,Dorothia goesi,Dorothia goesi,,,,"in PBDB, but classification differs to WoRMS",,,Dorothia,,,,goesi,,,,,,,
@@ -574,7 +574,7 @@ benthic_forams,Elhpidium craticulatum,Elhpidium craticulatum,Elphidium craticula
 benthic_forams,Ellipsodimorphina macrocephala,Ellipsodimorphina macrocephala,,,,"Unaccepted? Accepted as Nodosarella (Rzehak, 1895)",,,Ellipsodimorphina,,,,macrocephala,,,,,,,
 benthic_forams,Ellipsodimorphina spp.,Ellipsodimorphina spp.,,,,"Unaccepted? Accepted as Nodosarella (Rzehak, 1895)",,,Ellipsodimorphina,,,,spp.,,,,,,,
 benthic_forams,Ellipsoglandulina sp.,Ellipsoglandulina sp.,,,,"in PBDB, so it will be classified correctly",,,Ellipsoglandulina,,,,sp.,,,,,,,
-benthic_forams,Ellipsoidella sp.,Ellipsoidella sp.,,,,"in PBDB, so it will be classified correctly",,,Ellipsoidella,,,,sp.,,,,,,,
+benthic_forams,Ellipsoidella  sp.,Ellipsoidella sp.,,,,"in PBDB, so it will be classified correctly",,,Ellipsoidella,,,,sp.,,,,,,,
 benthic_forams,Ellipsoidina sp.,Ellipsoidina sp.,,,,"in PBDB, so it will be classified correctly",,,Ellipsoidina,,,,sp.,,,,,,,
 benthic_forams,Elongobula parallela,Elongobula parallela,,,,"in PBDB, but higher taxonomic ranks are missing",,,Elongobula,,,,parallela,,,,,,,
 benthic_forams,Elphidiella sp.,Elphidiella sp.,,,,"in PBDB, so it will be classified correctly",,,Elphidiella,,,,sp.,,,,,,,
@@ -703,7 +703,7 @@ benthic_forams,Globocassidulina punctata,Globocassidulina punctata,,,,"in PBDB, 
 benthic_forams,Globocassidulina sp.,Globocassidulina sp.,,,,"in PBDB, but higher taxonomic ranks are missing",,,Globocassidulina ,,,,sp.,,,,,,,
 benthic_forams,Globocassidulina spp.,Globocassidulina spp.,,,,"in PBDB, but higher taxonomic ranks are missing",,,Globocassidulina,,,,spp.,,,,,,,
 benthic_forams,Globocassidulina subglobosa,Globocassidulina subglobosa,,,,"in PBDB, but higher taxonomic ranks are missing",,,Globocassidulina,,,,subglobosa,,,,,,,
-benthic_forams,Globocassidulina ¬†sp.,Globocassidulina ¬†sp.,Globocassidulina sp.,,,"in PBDB, but higher taxonomic ranks are missing",,,Globocassidulina,,,,sp.,,,,,,,
+benthic_forams,Globocassidulina  sp.,Globocassidulina ¬†sp.,Globocassidulina sp.,,,"in PBDB, but higher taxonomic ranks are missing",,,Globocassidulina,,,,sp.,,,,,,,
 benthic_forams,Globocassidulina? sp. 1,Globocassidulina? sp. 1,? Globocassidulina sp. 1,,,"in PBDB, but higher taxonomic ranks are missing",,?,Globocassidulina,,,,sp. 1,,,,,,,
 benthic_forams,Globorotalites,Globorotalites,Globorotalites sp.,,,"in PBDB, but classification differs to WoRMS",,,Globorotalites,,,,sp.,,,,,,,
 benthic_forams,Globorotalites conicus,Globorotalites conicus,,,,"in PBDB, but classification differs to WoRMS",,,Globorotalites,,,,conicus,,,,,,,
@@ -829,7 +829,7 @@ benthic_forams,Laevidentalina communis,Laevidentalina communis,,,,"in PBDB, so i
 benthic_forams,Laevidentalina inflexa,Laevidentalina inflexa,,,,"in PBDB, so it will be classified correctly",,,Laevidentalina,,,,inflexa,,,,,,,
 benthic_forams,Laevidentalina sp.,Laevidentalina sp.,,,,"in PBDB, so it will be classified correctly",,,Laevidentalina,,,,sp.,,,,,,,
 benthic_forams,Laevidentalina spp.,Laevidentalina spp.,,,,"in PBDB, so it will be classified correctly",,,Laevidentalina,,,,spp.,,,,,,,
-benthic_forams,Laevidentalina ¬†spp.,Laevidentalina spp.,,,,"in PBDB, so it will be classified correctly",,,Laevidentalina,,,,spp.,,,,,,,
+benthic_forams,Laevidentalina  spp.,Laevidentalina spp.,,,,"in PBDB, so it will be classified correctly",,,Laevidentalina,,,,spp.,,,,,,,
 benthic_forams,Lagena caudata,Lagena caudata,,,,"in PBDB, so it will be classified correctly",,,Lagena,,,,caudata,,,,,,,
 benthic_forams,Lagena elongata,Lagena elongata,,,,"in PBDB, so it will be classified correctly",,,Lagena,,,,elongata,,,,,,,
 benthic_forams,Lagena gracilis,Lagena gracilis,,,,"in PBDB, so it will be classified correctly",,,Lagena ,,,,gracilis,,,,,,,
@@ -860,12 +860,12 @@ benthic_forams,Lenticulina sp.,Lenticulina sp.,,,,"in PBDB, so it will be classi
 benthic_forams,Lenticulina spp.,Lenticulina spp.,,,,"in PBDB, so it will be classified correctly",,,Lenticulina,,,,spp.,,,,,,,
 benthic_forams,Lenticulinella sp.,Lenticulinella sp.,,,,"in PBDB, so it will be classified correctly",,,Lenticulinella,,,,sp.,,,,,,,
 benthic_forams,Lepidocyclina sp.,Lepidocyclina sp.,,,,"in PBDB, but classification differs to WoRMS",,,Lepidocyclina,,,,sp.,,,,,,,
-benthic_forams,Liebusella soldanii,Liebusella soldanii,,,,"In PBDB, unresolved relationships, no occurences ",,,Liebusella,,,,soldanii,,,,,,,
+benthic_forams,Liebusella soldanii,Liebusella soldanii,,,,"In PBDB, unresolved relationships, no occurrences ",,,Liebusella,,,,soldanii,,,,,,,
 benthic_forams,Lingulina seminuda,Lingulina seminuda,,,,"in PBDB, so it will be classified correctly",,,Lingulina,,,,seminuda,,,,,,,
 benthic_forams,Lingulina spp.,Lingulina spp.,,,,"in PBDB, so it will be classified correctly",,,Lingulina ,,,,spp.,,,,,,,
 benthic_forams,Lobatula Lobatula,Lobatula Lobatula,,,,"Summer 2020: Should we enter the old taxonomy since that's what is in the report, and then update the taxonomy. LL: yes, I think this is the way we should go since the PBDB handles multiple taxonomies. Cibicidoides lobatulus (Cibicidoides is in PBDB)",,,Cibicidoides,,,,lobatulus,,,,,,,
-benthic_forams,Loxostomina cf. major,Loxostomina cf. major,,,,"In PBDB, unresolved relationships, no occurences ",,,Loxostomina,,,cf.,major,,,,,,,
-benthic_forams,Loxostomina major,Loxostomina major,,,,"In PBDB, unresolved relationships, no occurences ",,,Loxostomina,,,,major,,,,,,,
+benthic_forams,Loxostomina cf. major,Loxostomina cf. major,,,,"In PBDB, unresolved relationships, no occurrences ",,,Loxostomina,,,cf.,major,,,,,,,
+benthic_forams,Loxostomina major,Loxostomina major,,,,"In PBDB, unresolved relationships, no occurrences ",,,Loxostomina,,,,major,,,,,,,
 benthic_forams,Loxostomum karrerianum,Loxostomum karrerianum,,,,"in PBDB, so it will be classified correctly",,,Loxostomum,,,,karrerianum,,,,,,,
 benthic_forams,Loxostomum limonense,Loxostomum limonense,,,,"in PBDB, so it will be classified correctly",,,Loxostomum,,,,limonense,,,,,,,
 benthic_forams,Loxostomum pseudobeyrichi,Loxostomum pseudobeyrichi,,,,"in PBDB, so it will be classified correctly",,,Loxostomum,,,,pseudobeyrichi,,,,,,,
@@ -886,7 +886,7 @@ benthic_forams,Martinottiella communis,Martinottiella communis,,,,"in PBDB as Ma
 benthic_forams,Martinottiella hosoyaensis,Martinottiella hosoyaensis,,,,"in PBDB as Martinottiella, but classification differs to WoRMS",,,Martinottiella,,,,hosoyaensis,,,,,,,
 benthic_forams,Martinottiella sp. N/A,Martinottiella sp. N/A,Martinottiella sp.,,,"in PBDB as Martinottiella, but classification differs to WoRMS",,,Martinottiella,,,,sp.,,,,,,,
 benthic_forams,Martinottiella spp.,Martinottiella spp.,,,,"in PBDB as Martinottiella, but classification differs to WoRMS",,,Martinottiella,,,,spp.,,,,,,,
-benthic_forams,Martinottiella ¬†sp.,Martinottiella ¬†sp.,Martinottiella sp.,,,"in PBDB as Martinottiella, but classification differs to WoRMS",,,Martinottiella,,,,sp.,,,,,,,
+benthic_forams,Martinottiella  sp.,Martinottiella ¬†sp.,Martinottiella sp.,,,"in PBDB as Martinottiella, but classification differs to WoRMS",,,Martinottiella,,,,sp.,,,,,,,
 benthic_forams,Matanzia varians,Matanzia varians,Remesella varians,,,"in PBDB, but classification differs to WoRMS",,,Matanzia,,,,varians,,,,,,,
 benthic_forams,Melonis affine,Melonis affine,Melonis affinis,,,"in PBDB, but classification differs to WoRMS",,,Melonis ,,,,affine,,,,,,,
 benthic_forams,Melonis affinis,Melonis affinis,,,,"in PBDB, but classification differs to WoRMS",,,Melonis,,,,affinis,,,,,,,
@@ -905,8 +905,8 @@ benthic_forams,Migros flintii,Migros flintii,,,,"in PBDB, but classification dif
 benthic_forams,Miliammina arenacea,Miliammina arenacea,,,,"in PBDB, but classification differs to WoRMS",,,Miliammina,,,,arenacea,,,,,,,
 benthic_forams,Miliammina echigoensis,Miliammina echigoensis,,,,"in PBDB, but classification differs to WoRMS",,,Miliammina,,,,echigoensis,,,,,,,
 benthic_forams,Miliammina sp.,Miliammina sp.,,,,"in PBDB, but classification differs to WoRMS",,,Miliammina,,,,sp.,,,,,,,
-benthic_forams,Miliolina sp.,Miliolina sp.,,,,Summer 2020: This is a suborder? It is in PBDB,Miliolina,,,,,,sp.,,,,,,,
-benthic_forams,Miliolina spp.,Miliolina spp.,,,,Summer 2020: This is a suborder? It is in PBDB,Miliolina,,,,,,spp.,,,,,,,
+benthic_forams,Miliolina sp.,Miliolina sp.,,,,Summer 2020: This is a suborder? It is in PBDB,Miliolina indet.,,,,,,,,,,,,,
+benthic_forams,Miliolina spp.,Miliolina spp.,,,,Summer 2020: This is a suborder? It is in PBDB,Miliolina indet.,,,,,,,,,,,,,
 benthic_forams,Miliolinella oceanica,Miliolinella oceanica,,,,"in PBDB, so it will be classified correctly",,,Miliolinella,,,,oceanica,,,,,,,
 benthic_forams,Miliolinella sp. 1,Miliolinella sp. 1,,,,"in PBDB, so it will be classified correctly",,,Miliolinella,,,,sp. 1,,,,,,,
 benthic_forams,Miliolinella subrotunda,Miliolinella subrotunda,,,,"in PBDB, so it will be classified correctly",,,Miliolinella,,,,subrotunda,,,,,,,
@@ -1368,7 +1368,7 @@ benthic_forams,Spirosigmoilina distorta,Spirosigmoilina distorta,,,,"in PBDB, so
 benthic_forams,Spirosigmoilina pusilla,Spirosigmoilina pusilla,,,,"in PBDB, so it will be classified correctly",,,Spirosigmoilina,,,,pusilla,,,,,,,
 benthic_forams,Spirosigmoilina tenuis,Spirosigmoilina tenuis,,,,"in PBDB, so it will be classified correctly",,,Spirosigmoilina,,,,tenuis,,,,,,,
 benthic_forams,Spirosigmoilinella compressa,Spirosigmoilinella compressa,,,,"in PBDB, but classification differs from WoRMS",,,Spirosigmoilinella,,,,compressa,,,,,,,
-benthic_forams,Spirosigmoilinella ¬†sp.,Spirosigmoilinella ¬†sp.,Spirosigmoilinella sp.,,,"in PBDB, but classification differs from WoRMS",,,Spirosigmoilinella,,,,sp.,,,,,,,
+benthic_forams,Spirosigmoilinella  sp.,Spirosigmoilinella ¬†sp.,Spirosigmoilinella sp.,,,"in PBDB, but classification differs from WoRMS",,,Spirosigmoilinella,,,,sp.,,,,,,,
 benthic_forams,Spirotextularia fistulosa,Spirotextularia fistulosa,,,,"in PBDB, so it will be classified correctly",,,Spirotextularia,,,,fistulosa,,,,,,,
 benthic_forams,Spirotextularia spp.,Spirotextularia spp.,,,,"in PBDB, so it will be classified correctly",,,Spirotextularia,,,,spp.,,,,,,,
 benthic_forams,Spirotextularia tubulosa,Spirotextularia tubulosa,,,,"in PBDB, so it will be classified correctly",,,Spirotextularia,,,,tubulosa,,,,,,,
@@ -1537,7 +1537,7 @@ chrysophyte_cysts,Archaeosphaeridium australensis,Archaeosphaeridium australensi
 diatoms,Pseudammodochium lingii,Pseudammodochium lingii,,,this is an ebridian,"in PBDB, so it will be classified correctly",,,Pseudammodochium,,,,lingii,,,,,,,
 diatoms,Pseudammodochium sphericum,Pseudammodochium sphericum,,,this is an ebridian,"in PBDB, so it will be classified correctly",,,Pseudammodochium,,,,sphericum,,,,,,,
 diatoms,Phytolith,Phytolith,,,not a taxa,"Summer 2020: go in as ""Plantae indet."", ""phytolith"" as a comment? Deal with later, ask Ellen and co LL: yes, ask Ellen's phytolith friend","""Phytolith""",,,,,,,,,,,,,
-diatoms,"Summer 2020: deal with later? LL: both are in the family Skelentonematacea. Would could list this as the family and include the text as a comment. AF: is there a good way to flag these for specialists to address later w/in the database, or do we need to do that within a sheet like this? Mar 2021: JAS & CRS talked, CRS will ask Marina P; Marina says to use Skeletonemaceae.  CRS: I think I’m going to have to cite diatombase for Skeletonemopsis’ placement in Skeletonemaceae. The original author placed the genus in Trochosiraceae, but Marina says to go with Diatombase because there have been disagreements.",Skeletonemopsis and Skeletonema grp,Skeletonemaceae indet.,,group,"Summer 2020: deal with later? LL: both are in the family Skelentonematacea. Would could list this as the family and include the text as a comment. AF: is there a good way to flag these for specialists to address later w/in the database, or do we need to do that within a sheet like this? Mar 2021: JAS & CRS talked, CRS will ask Marina P; Marina says to use Skeletonemaceae",Skeletonemaceae indet.,,,,,,,,,,Skeletonemopsis and Skeletonema grp,,,
+diatoms,Skeletonemopsis and Skeletonema grp,Skeletonemopsis and Skeletonema grp,Skeletonemaceae indet.,,group,"Summer 2020: deal with later? LL: both are in the family Skelentonematacea. Would could list this as the family and include the text as a comment. AF: is there a good way to flag these for specialists to address later w/in the database, or do we need to do that within a sheet like this? Mar 2021: JAS & CRS talked, CRS will ask Marina P; Marina says to use Skeletonemaceae CRS: I think I’m going to have to cite diatombase for Skeletonemopsis’ placement in Skeletonemaceae. The original author placed the genus in Trochosiraceae, but Marina says to go with Diatombase because there have been disagreements.",Skeletonemaceae indet.,,,,,,,,,,Skeletonemopsis and Skeletonema grp,,,
 diatoms,Skeletonemopsis and Skeletonema grp.,Skeletonemopsis and Skeletonema grp.,Skeletonemaceae indet.,,group,Summer 2020: deal with later? LL: same as above,Skeletonemaceae indet.,,,,,,,,,,Skeletonemopsis and Skeletonema grp.,,,
 diatoms,other Centric,other Centric,,,"group, not a taxa",Summer 2020: IDK this one; deal with later?,Centrales indet.,,,,,,,,,,other Centric,,,
 diatoms,other Pennate,other Pennate,,,"group, not a taxa",Summer 2020: IDK this one; deal with later?,Pennales indet.,,,,,,,,,,other Pennate,,,
@@ -1662,7 +1662,7 @@ diatoms,Actinocyclus fryxellae,Actinocyclus fryxellae,,,,"in PBDB, so it will be
 diatoms,Actinocyclus ingens,Actinocyclus ingens,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,,,,,,
 diatoms,Actinocyclus ingens f. nodus,Actinocyclus ingens f. nodus,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens f. nodus,,,
 diatoms,Actinocyclus ingens var. ingens,Actinocyclus ingens var. ingens,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,ingens,,Actinocyclus ingens var. ingens,,,
-diatoms,Actinocyclus ingens var. nodus,Actinocyclus ingens var. nodus,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens var. nodus,,,
+diatoms,Actinocyclus ingens  var. nodus,Actinocyclus ingens var. nodus,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens var. nodus,,,
 diatoms,Actinocyclus ingens var. nodus,Actinocyclus ingens var. nodus,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,nodus,,Actinocyclus ingens var. nodus,,,
 diatoms,Actinocyclus ingens var. ovalis,Actinocyclus ingens var. ovalis,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,ingens,,ovalis,,Actinocyclus ingens var. ovalis,,,
 diatoms,Actinocyclus karstenii,Actinocyclus karstenii,,,,"in PBDB, so it will be classified correctly",,,Actinocyclus,,,,karstenii,,,,,,,
@@ -1769,7 +1769,7 @@ diatoms,Cestodiscus trochus,Cestodiscus trochus,,,,"in PBDB, so it will be class
 diatoms,Chaetoceros spp.,Chaetoceros spp.,,,,"in PBDB, so it will be classified correctly",,,Chaetoceros,,,,spp.,,,,,,,
 diatoms,Chaetoceros spp. (resting spores),Chaetoceros spp. (resting spores),Chaetoceros spp.,,,"in PBDB, so it will be classified correctly",,,Chaetoceros,,,,spp.,,,,Chaetoceros spp. (resting spores),,,
 diatoms,Chaetoceros spp. and similar spores,Chaetoceros spp. and similar spores,Chaetoceros spp.,,,"in PBDB, so it will be classified correctly",,,Chaetoceros,,,,spp.,,,,Chaetoceros spp. and similar spores,,,
-diatoms,Charcotia actinochilus,Charcotia actinochilus,,,,need to enter into PBDB,,,Charcotia,,,,actinochilus,,,,,,,
+diatoms,Charcotia actinochilus,Charcotia actinochilus,,,,"in PBDB, so it will be classified correctly",,,Charcotia,,,,actinochilus,,,,,,,
 diatoms,Cocconeis californica,Cocconeis californica,,,,"in PBDB, so it will be classified correctly",,,Cocconeis ,,,,californica,,,,,,,
 diatoms,Cocconeis costata,Cocconeis costata,,,,"in PBDB, so it will be classified correctly",,,Cocconeis ,,,,costata,,,,,,,
 diatoms,Cocconeis disculus,Cocconeis disculus,,,,"in PBDB, so it will be classified correctly",,,Cocconeis ,,,,disculus,,,,,,,
@@ -1820,7 +1820,7 @@ diatoms,Delphineis spp.,Delphineis spp.,,,,"in PBDB, so it will be classified co
 diatoms,Delphineis surirella,Delphineis surirella,,,,"in PBDB, so it will be classified correctly",,,Delphineis,,,,surirella,,,,,,,
 diatoms,Denticulopsis aff. Seminae = Neodenticula seminae,Denticulopsis aff. Seminae = Neodenticula seminae,Neodenticula seminae,,,"in PBDB, so it will be classified correctly",,,Neodenticula,,,,seminae,,,,Denticulopsis aff. Seminae = Neodenticula seminae,,,
 diatoms,Denticulopsis barronii,Denticulopsis barronii,,,,"in PBDB, so it will be classified correctly",,,Denticulopsis,,,,barronii,,,,,,,
-diatoms,Denticulopsis cf. katayamae,Denticulopsis cf. katayamae,,,,"in PBDB, so it will be classified correctly",,,Denticulopsis,,,cf.,katayamae,,,,,,,
+diatoms,Denticulopsis  cf. katayamae,Denticulopsis cf. katayamae,,,,"in PBDB, so it will be classified correctly",,,Denticulopsis,,,cf.,katayamae,,,,,,,
 diatoms,Denticulopsis crassa,Denticulopsis crassa,,,,"in PBDB, so it will be classified correctly",,,Denticulopsis,,,,crassa,,,,,,,
 diatoms,Denticulopsis crassa (closed copula),Denticulopsis crassa (closed copula),,,,"in PBDB, so it will be classified correctly",,,Denticulopsis,,,,crassa,,,,Denticulopsis crassa (closed copula),,,
 diatoms,Denticulopsis delicata,Denticulopsis delicata,,,,"in PBDB, so it will be classified correctly",,,Denticulopsis,,,,delicata,,,,,,,
@@ -1913,8 +1913,8 @@ diatoms,Fragilariopsis tigris,Fragilariopsis tigris,,,,"in PBDB, so it will be c
 diatoms,Fragilariopsis truncata,Fragilariopsis truncata,,,,"in PBDB, so it will be classified correctly",,,Fragilariopsis,,,,truncata,,,,,,,
 diatoms,Fragilariopsis weaveri,Fragilariopsis weaveri,,,,"in PBDB, so it will be classified correctly",,,Fragilariopsis,,,,weaveri,,,,,,,
 diatoms,Gomphonema olivacium,Gomphonema olivacium,,,,"in PBDB, so it will be classified correctly",,,Gomphonema,,,,olivacium,,,,,,,
-diatoms,Goniothecium odontella,Goniothecium odontella,,,,"in PBDB, so it will be classified correctly; note that it is currently only linked to the Phylum Bacillariophyta",,,Goniothecium,,,,odontella,,,,,,,
-diatoms,Grammatophora spp.,Grammatophora spp.,,,,"in PBDB, so it will be classified correctly; note that it is currently only linked to the Phylum Bacillariophyta",,,Grammatophora,,,,spp.,,,,,,,
+diatoms,Goniothecium odontella,Goniothecium odontella,,,,"in PBDB, so it will be classified correctly",,,Goniothecium,,,,odontella,,,,,,,
+diatoms,Grammatophora spp.,Grammatophora spp.,,,,"in PBDB, so it will be classified correctly",,,Grammatophora,,,,spp.,,,,,,,
 diatoms,Halamphora costata,Halamphora costata,,,,"in PBDB, so it will be classified correctly",,,Halamphora,,,,costata,,,,,,,
 diatoms,Halamphora spp.,Halamphora spp.,,,,"in PBDB, so it will be classified correctly",,,Halamphora,,,,spp.,,,,,,,
 diatoms,Haslea sp.,Haslea sp.,,,,"in PBDB, so it will be classified correctly; note that it is currently only linked to the Phylum Bacillariophyta",,,Haslea,,,,sp.,,,,,,,
@@ -2128,7 +2128,7 @@ diatoms,Thalassionema nitzschioides var. incurvatum,Thalassionema nitzschioides 
 diatoms,Thalassionema nitzschioides var. inflata,Thalassionema nitzschioides var. inflata,,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,inflata,,,,,
 diatoms,Thalassionema nitzschioides var. inflatum,Thalassionema nitzschioides var. inflatum,,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,inflatum,,,,,
 diatoms,Thalassionema nitzschioides var. nitzschioides,Thalassionema nitzschioides var. nitzschioides,,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,nitzschioides,,,,,
-diatoms,Thalassionema nitzschioides var. parva,Thalassionema nitzschioides var. parva,,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,parva,,,,,
+diatoms,Thalassionema nitzschioides  var. parva,Thalassionema nitzschioides var. parva,,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,parva,,,,,
 diatoms,Thalassionema nitzschioides var. parva,Thalassionema nitzschioides var. parva,Thalassionema nitzschioides var. parva,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,parva,,,,,
 diatoms,Thalassionema nitzschioides var. parvum,Thalassionema nitzschioides var. parvum,Thalassionema nitzschioides var. parva,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,var.,parvum,,,,,
 diatoms,Thalassionema nitzschoides (Grunow),Thalassionema nitzschoides (Grunow),Thalassionema nitzschioides,,,"in PBDB, so it will be classified correctly",,,Thalassionema,,,,nitzschioides,,,,Thalassionema nitzschoides (Grunow),,,
@@ -2374,7 +2374,7 @@ nannofossils,Ceratolithus telesmus,Ceratolithus telesmus,,,,"in PBDB, so it will
 nannofossils,Ceratolithus tricorniculatus,Ceratolithus tricorniculatus,,,,"in PBDB, so it will be classified correctly",,,Ceratolithus,,,,tricorniculatus,,,,,424499,Ceratolithus,genus
 nannofossils,Chiasmolithus altus,Chiasmolithus altus,,,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,altus,,,,,424051,Chiasmolithus,genus
 nannofossils,Chiasmolithus bidens,Chiasmolithus bidens,,,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,bidens,,,,,424051,Chiasmolithus,genus
-nannofossils,Chiasmolithus californicus (>13¬µm),Chiasmolithus californicus (>13¬µm),Chiasmolithus californicus (>13 microns),,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,californicus,,,>13 microns,,424051,Chiasmolithus,genus
+nannofossils,Chiasmolithus californicus (>13µm),Chiasmolithus californicus (>13¬µm),Chiasmolithus californicus (>13 microns),,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,californicus,,,>13 microns,,424051,Chiasmolithus,genus
 nannofossils,Chiasmolithus consuetus,Chiasmolithus consuetus,,,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,consuetus,,,,,424051,Chiasmolithus,genus
 nannofossils,Chiasmolithus danicus,Chiasmolithus danicus,,,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,danicus,,,,,424051,Chiasmolithus,genus
 nannofossils,Chiasmolithus expansus,Chiasmolithus expansus,,,,"in PBDB, so it will be classified correctly",,,Chiasmolithus,,,,expansus,,,,,424051,Chiasmolithus,genus
@@ -2403,7 +2403,7 @@ nannofossils,Coccolithus braarudii,Coccolithus braarudii,,,,"in PBDB, so it will
 nannofossils,Coccolithus cachaoi,Coccolithus cachaoi,,,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,cachaoi,,,,,87684,Coccolithus,genus
 nannofossils,Coccolithus crassus,Coccolithus crassus,,,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,crassus,,,,,87684,Coccolithus,genus
 nannofossils,Coccolithus eopelagicus,Coccolithus eopelagicus,,,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,eopelagicus,,,,,87684,Coccolithus,genus
-nannofossils,Coccolithus eopelagicus ( >14¬µm),Coccolithus eopelagicus ( >14¬µm),Coccolithus eopelagicus ( >14 microns),,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,eopelagicus,,, >14 microns,,87684,Coccolithus,genus
+nannofossils,Coccolithus eopelagicus ( >14µm),Coccolithus eopelagicus ( >14¬µm),Coccolithus eopelagicus ( >14 microns),,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,eopelagicus,,, >14 microns,,87684,Coccolithus,genus
 nannofossils,Coccolithus formosus,Coccolithus formosus,,,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,formosus,,,,,87684,Coccolithus,genus
 nannofossils,Coccolithus gigas,Coccolithus gigas,,,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,gigas,,,,,87684,Coccolithus,genus
 nannofossils,Coccolithus miopelagicus,Coccolithus miopelagicus,,,,"in PBDB, so it will be classified correctly",,,Coccolithus,,,,miopelagicus,,,,,87684,Coccolithus,genus
@@ -2444,11 +2444,11 @@ nannofossils,Cyclagelosphaera margerelii,Cyclagelosphaera margerelii,,,,"in PBDB
 nannofossils,Cyclagelosphaera reinhardtii,Cyclagelosphaera reinhardtii,,,,"in PBDB, so it will be classified correctly",,,Cyclagelosphaera,,,,reinhardtii,,,,,88226,Cyclagelosphaera reinhardtii,species
 nannofossils,Cyclagelosphaera spp.,Cyclagelosphaera spp.,,,,"in PBDB, so it will be classified correctly",,,Cyclagelosphaera,,,,spp.,,,,,87800,Cyclagelosphaera,genus
 nannofossils,Cyclicargolithus abisectus,Cyclicargolithus abisectus,,,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,abisectus,,,,,366219,Cyclicargolithus,genus
-nannofossils,Cyclicargolithus abisectus (11 ¬µm),Cyclicargolithus abisectus (11 ¬µm),Cyclicargolithus abisectus (11 microns),,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,abisectus,,,11 microns,,366219,Cyclicargolithus,genus
+nannofossils,Cyclicargolithus abisectus (11 µm),Cyclicargolithus abisectus (11 ¬µm),Cyclicargolithus abisectus (11 microns),,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,abisectus,,,11 microns,,366219,Cyclicargolithus,genus
 nannofossils,Cyclicargolithus abisectus (>11 microns),Cyclicargolithus abisectus (>11 microns),,,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,abisectus,,,>11 microns,,366219,Cyclicargolithus,genus
 nannofossils,Cyclicargolithus floridanus,Cyclicargolithus floridanus,,,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,floridanus,,,,,366222,Cyclicargolithus floridanus,species
-nannofossils,Cyclicargolithus floridanus (5-11¬µm),Cyclicargolithus floridanus (5-11¬µm),Cyclicargolithus floridanus (5-11microns),,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,floridanus,,,5-11 microns,,366222,Cyclicargolithus floridanus,species
-nannofossils,Cyclicargolithus floridanus small (<5¬µm),Cyclicargolithus floridanus small (<5¬µm),Cyclicargolithus floridanus small (<5 microns),,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,floridanus,,,small <5 microns,,366219,Cyclicargolithus,genus
+nannofossils,Cyclicargolithus floridanus (5-11µm),Cyclicargolithus floridanus (5-11¬µm),Cyclicargolithus floridanus (5-11microns),,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,floridanus,,,5-11 microns,,366222,Cyclicargolithus floridanus,species
+nannofossils,Cyclicargolithus floridanus small (<5µm),Cyclicargolithus floridanus small (<5¬µm),Cyclicargolithus floridanus small (<5 microns),,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,floridanus,,,small <5 microns,,366219,Cyclicargolithus,genus
 nannofossils,Cyclicargolithus luminis,Cyclicargolithus luminis,,,,"in PBDB, so it will be classified correctly",,,Cyclicargolithus,,,,luminis,,,,,366219,Cyclicargolithus,genus
 nannofossils,Cyclicargolithus? luminis,Cyclicargolithus ? luminis,Cyclicargolithus ? luminis,,,"in PBDB, so it will be classified correctly",,?,Cyclicargolithus,,,,luminis,,,,,366219,Cyclicargolithus,genus
 nannofossils,Cylindralithus nudus,Cylindralithus nudus,,,,"in PBDB, so it will be classified correctly",,,Cylindralithus,,,,nudus,,,,,88216,Cylindralithus nudus,species
@@ -2460,13 +2460,13 @@ nannofossils,Dictyococcites (<3 microns),Dictyococcites sp. (<3 microns),,,,"in 
 nannofossils,Dictyococcites antarcticus,Dictyococcites antarcticus,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,antarcticus,,,,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites bisectus,Dictyococcites bisectus,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,bisectus,,,,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites bisectus (>10 microns),Dictyococcites bisectus (>10 microns),,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,bisectus,,,>10 microns,,255393,Dictyococcites,genus
-nannofossils,Dictyococcites bisectus (>10 ¬µm),Dictyococcites bisectus (>10 ¬µm),Dictyococcites bisectus (>10 microns),,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,bisectus,,,>10 microns,,255393,Dictyococcites,genus
-nannofossils,Dictyococcites bisectus (>10¬µm),Dictyococcites bisectus (>10¬µm),Dictyococcites bisectus (>10 microns),,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,bisectus,,,>10 microns,,255393,Dictyococcites,genus
+nannofossils,Dictyococcites bisectus (>10 µm),Dictyococcites bisectus (>10 ¬µm),Dictyococcites bisectus (>10 microns),,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,bisectus,,,>10 microns,,255393,Dictyococcites,genus
+nannofossils,Dictyococcites bisectus (>10µm),Dictyococcites bisectus (>10¬µm),Dictyococcites bisectus (>10 microns),,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,bisectus,,,>10 microns,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites haqii,Dictyococcites haqii,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,haqii,,,,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites perplexus,Dictyococcites perplexus,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,perplexus,,,,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites productus,Dictyococcites productus,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,productus,,,,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites scrippsae,Dictyococcites scrippsae,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,scrippsae,,,,,255393,Dictyococcites,genus
-nannofossils,Dictyococcites scrippsae (<10¬µm),Dictyococcites scrippsae (<10¬µm),Dictyococcites scrippsae (<10 microns),,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,scrippsae,,,<10 microns,,255393,Dictyococcites,genus
+nannofossils,Dictyococcites scrippsae (<10µm),Dictyococcites scrippsae (<10¬µm),Dictyococcites scrippsae (<10 microns),,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,scrippsae,,,<10 microns,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites spp.,Dictyococcites spp.,,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,spp.,,,,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites spp. (<6 microns),Dictyococcites spp. (<6 microns),,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,spp.,,,<6 microns,,255393,Dictyococcites,genus
 nannofossils,Dictyococcites spp. (medium),Dictyococcites spp. (medium),,,,"in PBDB, so it will be classified correctly",,,Dictyococcites,,,,spp.,,,medium,,255393,Dictyococcites,genus
@@ -2614,10 +2614,10 @@ nannofossils,Gartnerago obliquum,Gartnerago obliquum,,,,"in PBDB, so it will be 
 nannofossils,Gartnerago segmentatum,Gartnerago segmentatum,,,,"in PBDB, so it will be classified correctly",,,Gartnerago,,,,segmentatum,,,,,88151,Gartnerago segmentatum,species
 nannofossils,Gartnerago theta,Gartnerago theta,,,,"in PBDB, so it will be classified correctly",,,Gartnerago,,,,theta,,,,,88149,Gartnerago theta,species
 nannofossils,Gephyrocapsa (<4 microns),Gephyrocapsa (<4 microns),Gephyrocapsa spp. (<4 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,<4 microns,,421973,Gephyrocapsa,genus
-nannofossils,Gephyrocapsa (<4 ¬µm),Gephyrocapsa (<4 ¬µm),Gephyrocapsa spp. (<4 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,<4 microns,,421973,Gephyrocapsa,genus
-nannofossils,Gephyrocapsa (>4 ¬µm),Gephyrocapsa (>4 ¬µm),Gephyrocapsa spp. (>4 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,>4 microns,,421973,Gephyrocapsa,genus
+nannofossils,Gephyrocapsa (<4 µm),Gephyrocapsa (<4 ¬µm),Gephyrocapsa spp. (<4 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,<4 microns,,421973,Gephyrocapsa,genus
+nannofossils,Gephyrocapsa (>4 µm),Gephyrocapsa (>4 ¬µm),Gephyrocapsa spp. (>4 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,>4 microns,,421973,Gephyrocapsa,genus
 nannofossils,Gephyrocapsa (>5.5 microns),Gephyrocapsa (>5.5 microns),Gephyrocapsa spp. (>5.5 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,>5.5 microns,,421973,Gephyrocapsa,genus
-nannofossils,Gephyrocapsa (>5.5 ¬µm),Gephyrocapsa (>5.5 ¬µm),Gephyrocapsa spp. (>5.5 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,>5.5 microns,,421973,Gephyrocapsa,genus
+nannofossils,Gephyrocapsa (>5.5 µm),Gephyrocapsa (>5.5 ¬µm),Gephyrocapsa spp. (>5.5 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,>5.5 microns,,421973,Gephyrocapsa,genus
 nannofossils,Gephyrocapsa (small <4 microns),Gephyrocapsa (small <4 microns),Gephyrocapsa spp. (<4 microns),,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,<4 microns,,421973,Gephyrocapsa,genus
 nannofossils,Gephyrocapsa aperta,Gephyrocapsa aperta,,,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,aperta,,,,,421973,Gephyrocapsa,genus
 nannofossils,Gephyrocapsa caribbeanica,Gephyrocapsa caribbeanica,,,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,caribbeanica,,,,,421973,Gephyrocapsa,genus
@@ -2768,10 +2768,10 @@ nannofossils,Monomarginatus quaternarius,Monomarginatus quaternarius,,,,"in PBDB
 nannofossils,Nannoconus,Nannoconus,Nannoconus sp.,,,"in PBDB, so it will be classified correctly",,,Nannoconus,,,,sp.,,,,,7554,Nannoconus,genus
 nannofossils,Nannoconus sp.,Nannoconus sp.,,,,"in PBDB, so it will be classified correctly",,,Nannoconus,,,,sp.,,,,,7554,Nannoconus,genus
 nannofossils,Nannotetrina alata,Nannotetrina alata,,,,"in PBDB, so it will be classified correctly",,,Nannotetrina,,,,alata,,,,,424341,Nannotetrina,genus
-nannofossils,Nannotetrina alata gr.,Nannotetrina alata gr.,Nannotetrina alata group,,,"why is this different from the way other groups are treated? e.g. Discoaster <variabilis group> - resolved; JAS was confused in PBDB, so it will be classified correctly",,,Nannotetrina,,,,alata,,group,,,424341,Nannotetrina,genus
+nannofossils,Nannotetrina  alata gr.,Nannotetrina alata gr.,Nannotetrina alata group,,,"why is this different from the way other groups are treated? e.g. Discoaster <variabilis group> - resolved; JAS was confused in PBDB, so it will be classified correctly",,,Nannotetrina,,,,alata,,group,,,424341,Nannotetrina,genus
 nannofossils,Nannotetrina cristata,Nannotetrina cristata,,,,"in PBDB, so it will be classified correctly",,,Nannotetrina,,,,cristata,,,,,424341,Nannotetrina,genus
 nannofossils,Nannotetrina fulgens,Nannotetrina fulgens,,,,"in PBDB, so it will be classified correctly",,,Nannotetrina,,,,fulgens,,,,,424341,Nannotetrina,genus
-nannofossils,Nannotetrina fulgens,Nannotetrina fulgens,,,,"in PBDB, so it will be classified correctly",,,Nannotetrina,,,,fulgens,,,,,424341,Nannotetrina,genus
+nannofossils,Nannotetrina  fulgens,Nannotetrina fulgens,,,,"in PBDB, so it will be classified correctly",,,Nannotetrina,,,,fulgens,,,,,424341,Nannotetrina,genus
 nannofossils,Nannotetrina spp.,Nannotetrina spp.,,,,"in PBDB, so it will be classified correctly",,,Nannotetrina,,,,spp.,,,,,424341,Nannotetrina,genus
 nannofossils,Neobiscutum spp.,Neobiscutum spp.,,,,"in PBDB, so it will be classified correctly",,,Neobiscutum,,,,spp.,,,,,424324,Neobiscutum,genus
 nannofossils,Neochiastozygus chiastus,Neochiastozygus chiastus,,,,"in PBDB, so it will be classified correctly",,,Neochiastozygus,,,,chiastus,,,,,87681,Neochiastozygus,genus
@@ -2865,9 +2865,9 @@ nannofossils,Reticulofenestra circus,Reticulofenestra circus,,,,"in PBDB, so it 
 nannofossils,Reticulofenestra cisnerosii,Reticulofenestra cisnerosii,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,cisnerosii,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra daviesii,Reticulofenestra daviesii,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,daviesii,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra dictyoda,Reticulofenestra dictyoda,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,,,255392,Reticulofenestra,genus
-nannofossils,Reticulofenestra dictyoda (10-14 microns),Reticulofenestra dictyoda (10-14 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,10-14 microns,,255392,Reticulofenestra,genus
-nannofossils,Reticulofenestra dictyoda (10-14¬µm),Reticulofenestra dictyoda (10-14¬µm),Reticulofenestra dictyoda (10-14 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,10-14 microns,,255392,Reticulofenestra,genus
-nannofossils,Reticulofenestra dictyoda (3-10¬µm),Reticulofenestra dictyoda (3-10¬µm),Reticulofenestra dictyoda (3-10 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,3-10 microns,,255392,Reticulofenestra,genus
+nannofossils,Reticulofenestra dictyoda  (10-14 microns),Reticulofenestra dictyoda (10-14 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,10-14 microns,,255392,Reticulofenestra,genus
+nannofossils,Reticulofenestra dictyoda  (10-14µm),Reticulofenestra dictyoda (10-14¬µm),Reticulofenestra dictyoda (10-14 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,10-14 microns,,255392,Reticulofenestra,genus
+nannofossils,Reticulofenestra dictyoda  (3-10µm),Reticulofenestra dictyoda (3-10¬µm),Reticulofenestra dictyoda (3-10 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,dictyoda,,,3-10 microns,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra erbae,Reticulofenestra erbae,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,erbae,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra gelida,Reticulofenestra gelida,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,gelida,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra hampdenensis,Reticulofenestra hampdenensis,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,hampdenensis,,,,,255392,Reticulofenestra,genus
@@ -2878,7 +2878,7 @@ nannofossils,Reticulofenestra lockeri,Reticulofenestra lockeri,,,,"in PBDB, so i
 nannofossils,Reticulofenestra lockerii,Reticulofenestra lockerii,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,lockeri,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra minuta,Reticulofenestra minuta,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,minuta,,,,,388325,Reticulofenestra minuta,species
 nannofossils,Reticulofenestra minuta (<3 microns),Reticulofenestra minuta (<3 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,minuta,,,<3 microns,,388325,Reticulofenestra minuta,species
-nannofossils,Reticulofenestra minuta (<3¬µm),Reticulofenestra minuta (<3¬µm),Reticulofenestra minuta (<3 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,minuta,,,<3 microns,,388325,Reticulofenestra minuta,species
+nannofossils,Reticulofenestra minuta (<3µm),Reticulofenestra minuta (<3¬µm),Reticulofenestra minuta (<3 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,minuta,,,<3 microns,,388325,Reticulofenestra minuta,species
 nannofossils,Reticulofenestra minutula,Reticulofenestra minutula,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,minutula,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra minutula (3-5 microns),Reticulofenestra minutula (3-5 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,minutula,,,3-5 microns,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra oamaruensis,Reticulofenestra oamaruensis,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,oamaruensis,,,,,255392,Reticulofenestra,genus
@@ -2888,12 +2888,12 @@ nannofossils,Reticulofenestra pseudoumbilica,Reticulofenestra pseudoumbilica,Ret
 nannofossils,Reticulofenestra pseudoumbilicus,Reticulofenestra pseudoumbilicus,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,,,255398,Reticulofenestra pseudoumbilicus,species
 nannofossils,Reticulofenestra pseudoumbilicus (5-7 microns),Reticulofenestra pseudoumbilicus (5-7 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,5-7 microns,,255398,Reticulofenestra pseudoumbilicus,species
 nannofossils,Reticulofenestra pseudoumbilicus (5-7 um),Reticulofenestra pseudoumbilicus (5-7 um),Reticulofenestra pseudoumbilicus (5-7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,5-7 microns,,255398,Reticulofenestra pseudoumbilicus,species
-nannofossils,Reticulofenestra pseudoumbilicus (5-7 ¬µm),Reticulofenestra pseudoumbilicus (5-7 ¬µm),Reticulofenestra pseudoumbilicus (5-7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,5-7 microns,,255398,Reticulofenestra pseudoumbilicus,species
-nannofossils,Reticulofenestra pseudoumbilicus (5-7¬µm),Reticulofenestra pseudoumbilicus (5-7¬µm),Reticulofenestra pseudoumbilicus (5-7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,5-7 microns,,255398,Reticulofenestra pseudoumbilicus,species
-nannofossils,Reticulofenestra pseudoumbilicus (> 7 Œºm),Reticulofenestra pseudoumbilicus (> 7 Œºm),Reticulofenestra pseudoumbilicus (>7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,>7 microns,,255398,Reticulofenestra pseudoumbilicus,species
+nannofossils,Reticulofenestra pseudoumbilicus (5-7 µm),Reticulofenestra pseudoumbilicus (5-7 ¬µm),Reticulofenestra pseudoumbilicus (5-7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,5-7 microns,,255398,Reticulofenestra pseudoumbilicus,species
+nannofossils,Reticulofenestra pseudoumbilicus  (5-7µm),Reticulofenestra pseudoumbilicus (5-7¬µm),Reticulofenestra pseudoumbilicus (5-7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,5-7 microns,,255398,Reticulofenestra pseudoumbilicus,species
+nannofossils,Reticulofenestra pseudoumbilicus (> 7 μm),Reticulofenestra pseudoumbilicus (> 7 Œºm),Reticulofenestra pseudoumbilicus (>7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,>7 microns,,255398,Reticulofenestra pseudoumbilicus,species
 nannofossils,Reticulofenestra pseudoumbilicus (>7 microns),Reticulofenestra pseudoumbilicus (>7 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,>7 microns,,255398,Reticulofenestra pseudoumbilicus,species
 nannofossils,Reticulofenestra pseudoumbilicus (>7 um),Reticulofenestra pseudoumbilicus (>7 um),Reticulofenestra pseudoumbilicus (>7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,>7 microns,,255398,Reticulofenestra pseudoumbilicus,species
-nannofossils,Reticulofenestra pseudoumbilicus (>7¬µm),Reticulofenestra pseudoumbilicus (>7¬µm),Reticulofenestra pseudoumbilicus (>7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,>7 microns,,255398,Reticulofenestra pseudoumbilicus,species
+nannofossils,Reticulofenestra pseudoumbilicus   (>7µm),Reticulofenestra pseudoumbilicus (>7¬µm),Reticulofenestra pseudoumbilicus (>7 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,pseudoumbilicus,,,>7 microns,,255398,Reticulofenestra pseudoumbilicus,species
 nannofossils,Reticulofenestra reticulata,Reticulofenestra reticulata,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,reticulata,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra rotaria,Reticulofenestra rotaria,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,rotaria,,,,,388324,Reticulofenestra rotaria,species
 nannofossils,Reticulofenestra samodurovii,Reticulofenestra samodurovii,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,samodurovii,,,,,255392,Reticulofenestra,genus
@@ -2911,9 +2911,9 @@ nannofossils,Reticulofenestra umbilica,Reticulofenestra umbilica,Reticulofenestr
 nannofossils,Reticulofenestra umbilicus,Reticulofenestra umbilicus,,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,umbilicus,,,,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra umbilicus (>14 microns),Reticulofenestra umbilicus (>14 microns),,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,umbilicus,,,>14 microns,,255392,Reticulofenestra,genus
 nannofossils,Reticulofenestra umbilicus (>14um),Reticulofenestra umbilicus (>14um),Reticulofenestra umbilicus (>14 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,umbilicus,,,>14 microns,,255392,Reticulofenestra,genus
-nannofossils,Reticulofenestra umbilicus (>14¬µm),Reticulofenestra umbilicus (>14¬µm),Reticulofenestra umbilicus (>14 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,umbilicus,,,>14 microns,,255392,Reticulofenestra,genus
-nannofossils,Reticulofenestra¬†erbae,Reticulofenestra¬†erbae,Reticulofenestra erbae,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,erbae,,,,,255392,Reticulofenestra,genus
-nannofossils,Reticulofenestra¬†isabellae,Reticulofenestra¬†isabellae,Reticulofenestra isabellae,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,isabellae,,,,,255392,Reticulofenestra,genus
+nannofossils,Reticulofenestra umbilicus (>14µm),Reticulofenestra umbilicus (>14¬µm),Reticulofenestra umbilicus (>14 microns),,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,umbilicus,,,>14 microns,,255392,Reticulofenestra,genus
+nannofossils,Reticulofenestra erbae,Reticulofenestra¬†erbae,Reticulofenestra erbae,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,erbae,,,,,255392,Reticulofenestra,genus
+nannofossils,Reticulofenestra isabellae,Reticulofenestra¬†isabellae,Reticulofenestra isabellae,,,"in PBDB, so it will be classified correctly",,,Reticulofenestra,,,,isabellae,,,,,255392,Reticulofenestra,genus
 nannofossils,Rhabdospaera claviger,Rhabdospaera claviger,Rhabdosphaera clavigera,,,"in PBDB, so it will be classified correctly",,,Rhabdosphaera,,,,clavigera,,,,,424334,Rhabdosphaera,genus
 nannofossils,Rhabdosphaera clavigera,Rhabdosphaera clavigera,,,,"in PBDB, so it will be classified correctly",,,Rhabdosphaera,,,,clavigera,,,,,424334,Rhabdosphaera,genus
 nannofossils,Rhabdosphaera sicca,Rhabdosphaera sicca,,,,"in PBDB, so it will be classified correctly",,,Rhabdosphaera,,,,sicca,,,,,424334,Rhabdosphaera,genus
@@ -3086,7 +3086,7 @@ nannofossils,Zeugrhabdotus xenotus,Zeugrhabdotus xenotus,,,,"in PBDB, so it will
 nannofossils,Zygodiscus plectopons,Zygodiscus plectopons,,,,"in PBDB, so it will be classified correctly",,,Zygodiscus,,,,plectopons,,,,,87678,Zygodiscus,genus
 nannofossils,Zygrhablithus bijugatus,Zygrhablithus bijugatus,,,,"in PBDB, so it will be classified correctly",,,Zygrhablithus,,,,bijugatus,,,,,416732,Zygrhablithus bijugatus,species
 nannofossils,medium Gephyrocapsa group,medium Gephyrocapsa group,Gephyrocapsa <spp. medium>,,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,medium,medium Gephyrocapsa group,,,
-nannofossils,small Gephyrocapsa (<4¬µm),small Gephyrocapsa (<4¬µm),Gephyrocapsa <spp. (<4 microns)>,,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,<4 microns,small Gephyrocapsa (<4 microns),,,
+nannofossils,small Gephyrocapsa (<4µm),small Gephyrocapsa (<4¬µm),Gephyrocapsa <spp. (<4 microns)>,,,"in PBDB, so it will be classified correctly",,,Gephyrocapsa,,,,spp.,,,<4 microns,small Gephyrocapsa (<4 microns),,,
 ,,,,,,,,,,,,,,,,,,,,
 ostracods,Sighted trachyleberidids,Sighted trachyleberidids,Trachyleberididae indet.,Sighted trachyleberidids,,"in PBDB, so it will be classified correctly",Trachyleberididae indet.,,,,,,,,,,,,,
 ostracods,Blind trachyleberidids,Blind trachyleberidids,Trachyleberididae indet.,Blind trachyleberidids,,"in PBDB, so it will be classified correctly",Trachyleberididae indet.,,,,,,,,,,,,,
@@ -3539,7 +3539,7 @@ planktic_forams,Globoconella puncticuloides (compressed),Globoconella puncticulo
 planktic_forams,Globoconella puncticuloides (vaulted),Globoconella puncticuloides (vaulted),Globoconella puncticuloides,Globoconella puncticuloides (vaulted),,"in PBDB, so it will be classified correctly",,,Globoconella,,,,puncticuloides,,,vaulted,,,,
 planktic_forams,Globoconella sphericomiozea,Globoconella sphericomiozea,,,,"in PBDB, so it will be classified correctly",,,Globoconella,,,,sphericomiozea,,,,,,,
 planktic_forams,Globoconella triangula,Globoconella triangula,,,,"in PBDB, so it will be classified correctly",,,Globoconella ,,,,triangula,,,,,,,
-planktic_forams,Globoconella triangula (cf.),Globoconella triangula (cf.),Globoconella cf. triangula,,,"in PBDB, so it will be classified correctly",,,Globoconella,,,cf.,triangula,,,,,,,
+planktic_forams,Globoconella triangula     (cf.),Globoconella triangula (cf.),Globoconella cf. triangula,,,"in PBDB, so it will be classified correctly",,,Globoconella,,,cf.,triangula,,,,,,,
 planktic_forams,Globoconella zealandica,Globoconella zealandica,,,,"in PBDB, so it will be classified correctly",,,Globoconella ,,,,zealandica,,,,,,,
 planktic_forams,Globoconusa daubjergensis,Globoconusa daubjergensis,,,,"in PBDB, so it will be classified correctly",,,Globoconusa ,,,,daubjergensis,,,,,,,
 planktic_forams,Globoquadrina altispira altispira,Globoquadrina altispira altispira,,,,"in PBDB, so it will be classified correctly",,,Globoquadrina ,,,,altispira,,altispira,,,,,
@@ -3922,7 +3922,7 @@ planktic_forams,Parasubbotina pseudowilsoni,Parasubbotina pseudowilsoni,,,,"in P
 planktic_forams,Parasubbotina varianta,Parasubbotina varianta,,,,"in PBDB, so it will be classified correctly",,,Parasubbotina,,,,varianta,,,,,,,
 planktic_forams,Parasubbotina variospira,Parasubbotina variospira,,,,"in PBDB, so it will be classified correctly",,,Parasubbotina ,,,,variospira,,,,,,,
 planktic_forams,Parvularugoglobigerina alabamensis,Parvularugoglobigerina alabamensis,,,,"in PBDB, so it will be classified correctly",,,Parvularugoglobigerina,,,,alabamensis,,,,,,,
-planktic_forams,Pearsonites broedermanni,Pearsonites broedermanni,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships/ source = unranked clade ",,,Pearsonites,,,,broedermanni,,,,,,,
+planktic_forams,Pearsonites broedermanni,Pearsonites broedermanni,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships/ source = unranked clade ",,,Pearsonites,,,,broedermanni,,,,,,,
 planktic_forams,Planoglobulina acervulinoides,Planoglobulina acervulinoides,,,,"in PBDB, so it will be classified correctly",,,Planoglobulina,,,,acervulinoides,,,,,,,
 planktic_forams,Planoglobulina multicamerata,Planoglobulina multicamerata,,,,"in PBDB, so it will be classified correctly",,,Planoglobulina,,,,multicamerata,,,,,,,
 planktic_forams,Planoheterohelix globulosa,Planoheterohelix globulosa,,,,"in PBDB, so it will be classified correctly",,,Planoheterohelix,,,,globulosa,,,,,,,
@@ -3984,8 +3984,8 @@ planktic_forams,Pulleniatina praespectabilis,Pulleniatina praespectabilis,,,,"in
 planktic_forams,Pulleniatina primalis,Pulleniatina primalis,,,,"in PBDB, so it will be classified correctly",,,Pulleniatina,,,,primalis,,,,,,,
 planktic_forams,Pulleniatina primalis (D),Pulleniatina primalis (D),Pulleniatina primalis (dextral),,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,primalis,,,dextral,,,,
 planktic_forams,Pulleniatina primalis (S),Pulleniatina primalis (S),Pulleniatina primalis (sinistral),,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,primalis,,,sinistral,,,,
-planktic_forams,Pulleniatina primalis _Tand B,Pulleniatina primalis _Tand B,Pulleniatina primalis,Pulleniatina primalis _Tand B,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,primalis,,,,,,,
-planktic_forams,Pulleniatina primalis _Tand B_,Pulleniatina primalis _Tand B_,Pulleniatina primalis,Pulleniatina primalis _Tand B_,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,primalis,,,,,,,
+planktic_forams,Pulleniatina primalis  _Tand B,Pulleniatina primalis _Tand B,Pulleniatina primalis,Pulleniatina primalis _Tand B,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,primalis,,,,,,,
+planktic_forams,Pulleniatina primalis  _Tand B_,Pulleniatina primalis _Tand B_,Pulleniatina primalis,Pulleniatina primalis _Tand B_,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,primalis,,,,,,,
 planktic_forams,Pulleniatina spectabilis,Pulleniatina spectabilis,,,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,spectabilis,,,,,,,
 planktic_forams,Pulleniatina spectabilis _T,Pulleniatina spectabilis _T,Pulleniatina spectabilis,,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,spectabilis,,,,,,,
 planktic_forams,Pulleniatina spectabilis _T_,Pulleniatina spectabilis _T_,Pulleniatina spectabilis,,,"in PBDB, so it will be classified correctly",,,Pulleniatina ,,,,spectabilis,,,,,,,
@@ -4061,7 +4061,7 @@ planktic_forams,Tenuitella clemenciae,Tenuitella clemenciae,,,,"in PBDB, so it w
 planktic_forams,Tenuitella gemma,Tenuitella gemma,,,,"in PBDB, so it will be classified correctly",,,Tenuitella,,,,gemma,,,,,,,
 planktic_forams,Tenuitella munda,Tenuitella munda,,,,"in PBDB, so it will be classified correctly",,,Tenuitella ,,,,munda,,,,,,,
 planktic_forams,Tenuitella munda _T_,Tenuitella munda _T_,Tenuitella munda,,,"in PBDB, so it will be classified correctly",,,Tenuitella,,,,munda,,,,,,,
-planktic_forams,Tenuitella spp.¬†N/A,Tenuitella spp.¬†N/A,Tenuitella spp.,,,"in PBDB, so it will be classified correctly",,,Tenuitella,,,,spp.,,,,,,,
+planktic_forams,Tenuitella spp. N/A,Tenuitella spp.¬†N/A,Tenuitella spp.,,,"in PBDB, so it will be classified correctly",,,Tenuitella,,,,spp.,,,,,,,
 planktic_forams,Tenuitellinata praestainforthi,Tenuitellinata praestainforthi,,,,"in PBDB, so it will be classified correctly",,,Tenuitellinata ,,,,praestainforthi,,,,,,,
 planktic_forams,Thalmanninella gandolfii,Thalmanninella gandolfii,,,,"in PBDB, so it will be classified correctly",,,Thalmanninella,,,,gandolfii,,,,,,,
 planktic_forams,Ticinella madecassiana,Ticinella madecassiana,,,,"in PBDB, so it will be classified correctly",,,Ticinella,,,,madecassiana,,,,,,,
@@ -4084,16 +4084,16 @@ planktic_forams,Truncorotalia crassacarinina (SIN),Truncorotalia crassacarinina 
 planktic_forams,Truncorotalia crassaconica,Truncorotalia crassaconica,,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,,crassaconica,,,,,,,
 planktic_forams,Truncorotalia crassaconica (DEX),Truncorotalia crassaconica (DEX),,,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,,crassaconica,,,dextral,,,,
 planktic_forams,Truncorotalia crassaconica (SIN),Truncorotalia crassaconica (SIN),,,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,,crassaconica,,,sinistral,,,,
-planktic_forams,Truncorotalia crassaconica (cf.),Truncorotalia crassaconica (cf.),Truncorotalia cf. crassacarina,,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,cf.,crassaconica,,,,,,,
-planktic_forams,Truncorotalia crassaconica (cf.) (DEX),Truncorotalia crassaconica (cf.) (DEX),Truncorotalia cf. crassacarina (dextral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,cf.,crassaconica,,,dextral,,,,
-planktic_forams,Truncorotalia crassaconica (cf.) (SIN),Truncorotalia crassaconica (cf.) (SIN),Truncorotalia cf. crassacarina (sinistral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassaconica,,,sinistral,,,,
+planktic_forams,Truncorotalia crassaconica     (cf.),Truncorotalia crassaconica (cf.),Truncorotalia cf. crassacarina,,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,cf.,crassaconica,,,,,,,
+planktic_forams,Truncorotalia crassaconica     (cf.) (DEX),Truncorotalia crassaconica (cf.) (DEX),Truncorotalia cf. crassacarina (dextral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,cf.,crassaconica,,,dextral,,,,
+planktic_forams,Truncorotalia crassaconica     (cf.) (SIN),Truncorotalia crassaconica (cf.) (SIN),Truncorotalia cf. crassacarina (sinistral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassaconica,,,sinistral,,,,
 planktic_forams,Truncorotalia crassaformis,Truncorotalia crassaformis,,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,,crassaformis,,,,,,,
 planktic_forams,Truncorotalia crassaformis (DEX),Truncorotalia crassaformis (DEX),,,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,,crassaformis,,,dextral,,,,
 planktic_forams,Truncorotalia crassaformis (SIN),Truncorotalia crassaformis (SIN),,,,"in PBDB, so it will be classified correctly",,,Truncorotalia ,,,,crassaformis,,,sinistral,,,,
 planktic_forams,Truncorotalia crassula,Truncorotalia crassula,,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,,crassula,,,,,,,
-planktic_forams,Truncorotalia crassula (cf.),Truncorotalia crassula (cf.),Truncorotalia cf. crassula,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassula,,,,,,,
-planktic_forams,Truncorotalia crassula (cf.) (DEX),Truncorotalia crassula (cf.) (DEX),Truncorotalia cf. crassula (dextral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassula,,,dextral,,,,
-planktic_forams,Truncorotalia crassula (cf.) (SIN),Truncorotalia crassula (cf.) (SIN),Truncorotalia cf. crassula (sinistral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassula,,,sinistral,,,,
+planktic_forams,Truncorotalia crassula     (cf.),Truncorotalia crassula (cf.),Truncorotalia cf. crassula,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassula,,,,,,,
+planktic_forams,Truncorotalia crassula     (cf.) (DEX),Truncorotalia crassula (cf.) (DEX),Truncorotalia cf. crassula (dextral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassula,,,dextral,,,,
+planktic_forams,Truncorotalia crassula     (cf.) (SIN),Truncorotalia crassula (cf.) (SIN),Truncorotalia cf. crassula (sinistral),,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,cf.,crassula,,,sinistral,,,,
 planktic_forams,Truncorotalia juanai,Truncorotalia juanai,,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,,juanai,,,,,,,
 planktic_forams,Truncorotalia tosaensis,Truncorotalia tosaensis,,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,,tosaensis,,,,,,,
 planktic_forams,Truncorotalia truncatulinoides,Truncorotalia truncatulinoides,,,,"in PBDB, so it will be classified correctly",,,Truncorotalia,,,,truncatulinoides,,,,,,,
@@ -4136,7 +4136,7 @@ radiolarians,Euchitonia furcata/elegans,Euchitonia furcata/elegans,Euchitonia el
 radiolarians,Bortyostrobus auritus/australis,Bortyostrobus auritus/australis,Botryostrobus auritus/australis group,,multiple taxa names,"Summer 2020: IDK these; deal with later? LL: B. auritus-australis is an accepted name (see WoRMS); AF what's with these, that's no sort of formal taxonomy i'm used to. Winter 2021: From David Lazarus: Best call this 'Euchitonia elegans/furcata group’  for now. It is in NSB at the moment as a valid taxon [id 2004045]. Some people believe furcata and elegans can be distinguished but others do not understand how.  So currently ‘elegans’ and ‘furcata’ by themselves are given as synonyms for the ‘group’ version in NSB.  Not elegan[t]\s but that’s what we’ve got.",,,Botryostrobus,,,,auritus-australis,,,group,,,,
 radiolarians,Botryostrobus auritus-australis (Ehrenberg) group,Botryostrobus auritus-australis (Ehrenberg) group,Botryostrobus auritus-australis,,multiple taxa names,Summer 2020: IDK these; deal with later? Winter 2021: From David Lazarus: Best call this 'Euchitonia elegans/furcata group’  for now. It is in NSB at the moment as a valid taxon [id 2004045]. Some people believe furcata and elegans can be distinguished but others do not understand how.  So currently ‘elegans’ and ‘furcata’ by themselves are given as synonyms for the ‘group’ version in NSB.  Not elegan[t]\s but that’s what we’ve got.,,,Botryostrobus,,,,auritus-australis,,,group,,,,
 radiolarians,Botryostrobus auritus/australis,Botryostrobus auritus/australis,Botryostrobus auritus-australis,,multiple taxa names,Summer 2020: IDK these; deal with later? Winter 2021: From David Lazarus: Best call this 'Euchitonia elegans/furcata group’  for now. It is in NSB at the moment as a valid taxon [id 2004045]. Some people believe furcata and elegans can be distinguished but others do not understand how.  So currently ‘elegans’ and ‘furcata’ by themselves are given as synonyms for the ‘group’ version in NSB.  Not elegan[t]\s but that’s what we’ve got.,,,Botryostrobus,,,,auritus-australis,,,group,,,,
-radiolarians,Summer 2020: IDK these; deal with later?a subclass? not a part of Radiolaria but is a part of Rhizaria infrakingdom. Apr 2021: ANS will enter full hierarchy. Subclass not genus.,Phaeodaria,Phaeodaria indet.,,,"in PBDB, so it will be classified correctly. Summer 2020: IDK these; deal with later?a subclass? not a part of Radiolaria but is a part of Rhizaria infrakingdom.",Phaeodaria indet.,,,,,,,,,,,,,
+radiolarians,Phaeodaria,Phaeodaria,Phaeodaria indet.,,,"in PBDB, so it will be classified correctly. Summer 2020: IDK these; deal with later?a subclass? not a part of Radiolaria but is a part of Rhizaria infrakingdom. Apr 2021: ANS will enter full hierarchy. Subclass not genus.",Phaeodaria indet.,,,,,,,,,,,,,
 radiolarians,Phorticium pylonium group,Phorticium pylonium group,Phorticium pylonium,Phorticium pylonium group,group,"Summer 2020: enter ""Phorticium pylonium"" and reproduce the entry as comment? LL: same as above Winter 2021: AF: From David Lazarus- just drop the ‘group’.  P.p. is a garbage bag and meaning is wildly inconsistent, so ‘group’ is frankly implicit anyway.",,,Phorticium,,,,pylonium,,,,,,,
 radiolarians,ADDITIONAL SPECIES,ADDITIONAL SPECIES,Radiolaria indet.,ADDITIONAL SPECIES,not a taxa name,"can we drop? LL: keep as Radiolaria species; AF agree; in PBDB, so it will be classified correctly",Radiolaria indet.,,,,,,,,,,,,,
 radiolarians,Acanthodesmia spp.,Acanthodesmia spp.,,,,"in PBDB, so it will be classified correctly",,,Acanthodesmia,,,,spp.,,,,,,,
@@ -4168,25 +4168,25 @@ radiolarians,Actinomma popofskii,Actinomma popofskii,,,,"in PBDB, so it will be 
 radiolarians,Actinomma sp.,Actinomma sp.,,,,"in PBDB, so it will be classified correctly",,,Actinomma,,,,sp.,,,,,,,
 radiolarians,Amphicraspedum murrayanum,Amphicraspedum murrayanum,,,,"in PBDB, so it will be classified correctly",,,Amphicraspedum,,,,murrayanum,,,,,,,
 radiolarians,Amphicraspedum prolixum group,Amphicraspedum prolixum group,,,,"in PBDB, so it will be classified correctly",,,Amphicraspedum,,,,prolixum,,,,,,,
-radiolarians,Amphimelissa setosa,Amphimelissa setosa,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships/ source = unranked clade ",,,Amphimelissa,,,,setosa,,,,,,,
+radiolarians,Amphimelissa setosa,Amphimelissa setosa,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships/ source = unranked clade ",,,Amphimelissa,,,,setosa,,,,,,,
 radiolarians,Amphipyndax stocki,Amphipyndax stocki,,,,"in PBDB, so it will be classified correctly",,,Amphipyndax,,,,stocki,,,,,,,
-radiolarians,Amphirhopalum ypsilon,Amphirhopalum ypsilon,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships/ source = unranked clade ",,,Amphirhopalum ,,,,ypsilon,,,,,,,
+radiolarians,Amphirhopalum ypsilon,Amphirhopalum ypsilon,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships/ source = unranked clade ",,,Amphirhopalum ,,,,ypsilon,,,,,,,
 radiolarians,Amphisphaera coronata,Amphisphaera coronata,,,,"in PBDB, so it will be classified correctly",,,Amphisphaera,,,,coronata,,,,,,,
 radiolarians,Amphisphaera coronata s.l.,Amphisphaera coronata s.l.,Amphisphaera coronata sensu lato,,,"in PBDB, so it will be classified correctly",,,Amphisphaera,,,s.l.,coronata,,,,,,,
 radiolarians,Amphisphaera goruna,Amphisphaera goruna,,,,"in PBDB, so it will be classified correctly",,,Amphisphaera,,,,goruna,,,,,,,
 radiolarians,Amphisphaera radiosa,Amphisphaera radiosa,,,,"in PBDB, so it will be classified correctly",,,Amphisphaera,,,,radiosa,,,,,,,
 radiolarians,Amphistylus angelinus,Amphistylus angelinus,,,,"in PBDB, so it will be classified correctly",,,Amphistylus,,,,angelinus,,,,,,,
 radiolarians,Amphymenium splendiarmatum,Amphymenium splendiarmatum,,,,"in PBDB, so it will be classified correctly",,,Amphymenium,,,,splendiarmatum,,,,,,,
-radiolarians,Anomalacantha dentata,Anomalacantha dentata,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Anomalacantha,,,,dentata,,,,,,,
-radiolarians,Antarctissa cylindrica,Antarctissa cylindrica,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Antarctissa,,,,cylindrica,,,,,,,
-radiolarians,Antarctissa deflandrei,Antarctissa deflandrei,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Antarctissa,,,,deflandrei,,,,,,,
-radiolarians,Antarctissa denticulata,Antarctissa denticulata,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Antarctissa,,,,denticulata,,,,,,,
-radiolarians,Antarctissa robusta,Antarctissa robusta,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Antarctissa,,,,robusta,,,,,,,
-radiolarians,Antarctissa strelkovi,Antarctissa strelkovi,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Antarctissa,,,,strelkovi,,,,,,,
-radiolarians,Anthocyrtella (?) callopisma,Anthocyrtella (?) callopisma,Anthocyrtella ? callopisma,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Anthocyrtella,,,?,callopisma,,,,,,,
+radiolarians,Anomalacantha dentata,Anomalacantha dentata,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Anomalacantha,,,,dentata,,,,,,,
+radiolarians,Antarctissa cylindrica,Antarctissa cylindrica,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Antarctissa,,,,cylindrica,,,,,,,
+radiolarians,Antarctissa deflandrei,Antarctissa deflandrei,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Antarctissa,,,,deflandrei,,,,,,,
+radiolarians,Antarctissa denticulata,Antarctissa denticulata,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Antarctissa,,,,denticulata,,,,,,,
+radiolarians,Antarctissa robusta,Antarctissa robusta,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Antarctissa,,,,robusta,,,,,,,
+radiolarians,Antarctissa strelkovi,Antarctissa strelkovi,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Antarctissa,,,,strelkovi,,,,,,,
+radiolarians,Anthocyrtella (?) callopisma,Anthocyrtella (?) callopisma,Anthocyrtella ? callopisma,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Anthocyrtella,,,?,callopisma,,,,,,,
 radiolarians,Anthocyrtidium angulare,Anthocyrtidium angulare,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,angulare,,,,,,,
 radiolarians,Anthocyrtidium jenghisi,Anthocyrtidium jenghisi,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,jenghisi,,,,,,,
-radiolarians,Anthocyrtidium marieae,Anthocyrtidium marieae,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,marieae,,,,,,,
+radiolarians,Anthocyrtidium  marieae,Anthocyrtidium marieae,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,marieae,,,,,,,
 radiolarians,Anthocyrtidium marieae,Anthocyrtidium marieae,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,marieae,,,,,,,
 radiolarians,Anthocyrtidium ophirense,Anthocyrtidium ophirense,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,ophirense,,,,,,,
 radiolarians,Anthocyrtidium pliocenica,Anthocyrtidium pliocenica,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,pliocenica,,,,,,,
@@ -4194,18 +4194,18 @@ radiolarians,Anthocyrtidium sp.,Anthocyrtidium sp.,,,,"in PBDB, so it will be cl
 radiolarians,Anthocyrtidium zanguebaricum,Anthocyrtidium zanguebaricum,,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,zanguebaricum,,,,,,,
 radiolarians,Anthocyrtidum ophirense,Anthocyrtidum ophirense,Anthocyrtidium ophirense,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,ophirense,,,,,,,
 radiolarians,Anthocyrtidum pliocenica,Anthocyrtidum pliocenica,Anthocyrtidium pliocenica,,,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,pliocenica,,,,,,,
-radiolarians,Anthocyrtis ehrenbergi var. pliocenica,Anthocyrtis ehrenbergi var. pliocenica,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Anthocyrtis,,,,ehrenbergi,var.,pliocenica,,,,,
-radiolarians,Anthocyrtoma sp.,Anthocyrtoma sp.,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Anthocyrtoma,,,,sp.,,,,,,,
-radiolarians,Anthocyrtoma spp.,Anthocyrtoma spp.,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Anthocyrtoma,,,,spp.,,,,,,,
+radiolarians,Anthocyrtis ehrenbergi var. pliocenica,Anthocyrtis ehrenbergi var. pliocenica,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Anthocyrtis,,,,ehrenbergi,var.,pliocenica,,,,,
+radiolarians,Anthocyrtoma sp.,Anthocyrtoma sp.,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Anthocyrtoma,,,,sp.,,,,,,,
+radiolarians,Anthocyrtoma spp.,Anthocyrtoma spp.,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Anthocyrtoma,,,,spp.,,,,,,,
 radiolarians,Anthocytidium sp.,Anthocytidium sp.,Anthocyrtidium sp.,,misspelling,"in PBDB, so it will be classified correctly",,,Anthocyrtidium,,,,sp.,,,,,,,
-radiolarians,Aphetocyrtis bianulus,Aphetocyrtis bianulus,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Aphetocyrtis,,,,bianulus,,,,,,,
-radiolarians,Aphetocyrtis gnomabax,Aphetocyrtis gnomabax,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Aphetocyrtis,,,,gnomabax,,,,,,,
-radiolarians,Aphetocyrtis rossi,Aphetocyrtis rossi,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Aphetocyrtis,,,,rossi,,,,,,,
-radiolarians,Artobotrys auriculaleporis,Artobotrys auriculaleporis,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Artobotrys,,,,auriculaleporis,,,,,,,
-radiolarians,Artobotrys biaurita,Artobotrys biaurita,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Artobotrys,,,,biaurita,,,,,,,
-radiolarians,Artophormis barbadensis,Artophormis barbadensis,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships; classification up to date according to microtax",,,Artophormis,,,,barbadensis,,,,,,,
-radiolarians,Artophormis gracilis,Artophormis gracilis,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships; classification up to date according to microtax",,,Artophormis,,,,gracilis,,,,,,,
-radiolarians,Astrophacus sp.,Astrophacus sp.,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Astrophacus,,,,sp.,,,,,,,
+radiolarians,Aphetocyrtis bianulus,Aphetocyrtis bianulus,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Aphetocyrtis,,,,bianulus,,,,,,,
+radiolarians,Aphetocyrtis gnomabax,Aphetocyrtis gnomabax,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Aphetocyrtis,,,,gnomabax,,,,,,,
+radiolarians,Aphetocyrtis rossi,Aphetocyrtis rossi,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Aphetocyrtis,,,,rossi,,,,,,,
+radiolarians,Artobotrys auriculaleporis,Artobotrys auriculaleporis,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Artobotrys,,,,auriculaleporis,,,,,,,
+radiolarians,Artobotrys biaurita,Artobotrys biaurita,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Artobotrys,,,,biaurita,,,,,,,
+radiolarians,Artophormis barbadensis,Artophormis barbadensis,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships; classification up to date according to microtax",,,Artophormis,,,,barbadensis,,,,,,,
+radiolarians,Artophormis gracilis,Artophormis gracilis,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships; classification up to date according to microtax",,,Artophormis,,,,gracilis,,,,,,,
+radiolarians,Astrophacus sp.,Astrophacus sp.,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Astrophacus,,,,sp.,,,,,,,
 radiolarians,Axoprunum acquilonium,Axoprunum acquilonium,,,,"in PBDB, so it will be classified correctly	",,,Axoprunum,,,,acquilonium,,,,,,,
 radiolarians,Axoprunum bispiculum,Axoprunum bispiculum,,,,"in PBDB, so it will be classified correctly	",,,Axoprunum,,,,bispiculum,,,,,,,
 radiolarians,"Axoprunum pierinae gr,","Axoprunum pierinae gr,",,,,"in PBDB, so it will be classified correctly	",,,Axoprunum,,,,pierinae,,,,"Axoprunum pierinae gr,",,,
@@ -4217,13 +4217,13 @@ radiolarians,Bekoma bidartensis,Bekoma bidartensis,,,,"in PBDB, so it will be cl
 radiolarians,Bekoma campechensis,Bekoma campechensis,,,,"in PBDB, so it will be classified correctly	",,,Bekoma,,,,campechensis,,,,,,,
 radiolarians,Bekoma divaricata,Bekoma divaricata,,,,"in PBDB, so it will be classified correctly	",,,Bekoma,,,,divaricata,,,,,,,
 radiolarians,Bekoma spp.,Bekoma spp.,,,,"in PBDB, so it will be classified correctly	",,,Bekoma,,,,spp.,,,,,,,
-radiolarians,Botryocella sp. gr.,Botryocella sp. gr.,,,,"in PBDB, but classification differs to WoRMS and Mikrotax. No family present. &  no occurences recorded currently/ no collections/relationships.",,,Botryocella,,,,sp.,,,,Botryocella sp. gr.,,,
-radiolarians,Botryocyrtis scutum,Botryocyrtis scutum,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Botryocyrtis,,,,scutum,,,,,,,
+radiolarians,Botryocella sp. gr.,Botryocella sp. gr.,,,,"in PBDB, but classification differs to WoRMS and Mikrotax. No family present. &  no occurrences recorded currently/ no collections/relationships.",,,Botryocella,,,,sp.,,,,Botryocella sp. gr.,,,
+radiolarians,Botryocyrtis scutum,Botryocyrtis scutum,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Botryocyrtis,,,,scutum,,,,,,,
 radiolarians,Botryostrobus aquilonaris,Botryostrobus aquilonaris,,,,"in PBDB, so it will be classified correctly (synonym)",,,Botryostrobus,,,,aquilonaris,,,,,,,
 radiolarians,Botryostrobus auritus,Botryostrobus auritus,,,,"in PBDB, so it will be classified correctly (synonym)",,,Botryostrobus,,,,auritus,,,,,,,
 radiolarians,Botryostrobus miralestensis,Botryostrobus miralestensis,,,,"in PBDB, so it will be classified correctly (synonym)",,,Botryostrobus,,,,miralestensis,,,,,,,
 radiolarians,Botryostrobus sp.,Botryostrobus sp.,,,,"in PBDB, so it will be classified correctly (synonym)",,,Botryostrobus,,,,sp.,,,,,,,
-radiolarians,Buccinosphaera invaginata,Buccinosphaera invaginata,,,,"in PBDB, but classification differs to WoRMS &  no occurences recorded currently/ no collections/relationships",,,Buccinosphaera ,,,,invaginata,,,,,,,
+radiolarians,Buccinosphaera invaginata,Buccinosphaera invaginata,,,,"in PBDB, but classification differs to WoRMS &  no occurrences recorded currently/ no collections/relationships",,,Buccinosphaera ,,,,invaginata,,,,,,,
 radiolarians,Buryella clinata,Buryella clinata,,,,"in PBDB, but classification differs to WoRMS and Mikrotax.",,,Buryella,,,,clinata,,,,,,,
 radiolarians,Buryella foremanae,Buryella foremanae,,,,"in PBDB, but classification differs to WoRMS and Mikrotax.",,,Buryella,,,,foremanae,,,,,,,
 radiolarians,Buryella pentadica,Buryella pentadica,,,,"in PBDB, but classification differs to WoRMS and Mikrotax.",,,Buryella,,,,pentadica,,,,,,,
@@ -4243,114 +4243,114 @@ radiolarians,Calocycletta virginis,Calocycletta virginis,,,,"In PBDB, so it will
 radiolarians,Calocycletta virginis.1,Calocycletta virginis.1,Calocycletta virginis,,,"In PBDB, so it will be classified correctly",,,Calocycletta,,,,virginis,,,,,,,
 radiolarians,Calocycloma ampulla,Calocycloma ampulla,,,,"in PBDB, but classification differs to Mikrotax",,,Calocycloma,,,,ampulla,,,,,,,
 radiolarians,Calocycloma castum,Calocycloma castum,,,,"in PBDB, but classification differs to Mikrotax",,,Calocycloma,,,,castum,,,,,,,
-radiolarians,Carpocanarium papillosum,Carpocanarium papillosum,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Carpocanarium,,,,papillosum,,,,,,,
-radiolarians,Carpocanarium sp.,Carpocanarium sp.,,,,"In PBDB, but no occurences recorded currently/ no collections/relationships",,,Carpocanarium,,,,sp.,,,,,,,
+radiolarians,Carpocanarium papillosum,Carpocanarium papillosum,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Carpocanarium,,,,papillosum,,,,,,,
+radiolarians,Carpocanarium sp.,Carpocanarium sp.,,,,"In PBDB, but no occurrences recorded currently/ no collections/relationships",,,Carpocanarium,,,,sp.,,,,,,,
 radiolarians,Carpocanistrum acutidentatum,Carpocanistrum acutidentatum,,,,"in PBDB, so it will be classified correctly	",,,Carpocanistrum,,,,acutidentatum,,,,,,,
 radiolarians,Carpocanistrum cephallum,Carpocanistrum cephallum,,,,"in PBDB, so it will be classified correctly	",,,Carpocanistrum,,,,cephallum,,,,,,,
 radiolarians,Carpocanistrum favosum,Carpocanistrum favosum,,,,"in PBDB, so it will be classified correctly	",,,Carpocanistrum,,,,favosum,,,,,,,
 radiolarians,Carpocanistrum sp.,Carpocanistrum sp.,,,,"in PBDB, so it will be classified correctly	",,,Carpocanistrum,,,,sp.,,,,,,,
-radiolarians,Carpocanium rubyae,Carpocanium rubyae,,,,"in PBDB, so it will be classified correctly	",,,,,,,,,,,,,,
-radiolarians,Carpocanopsis bramlettei,Carpocanopsis bramlettei,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Carpocanopsis cingulata,Carpocanopsis cingulata,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Carpocanopsis cristata,Carpocanopsis cristata,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Carpocanopsis sp.,Carpocanopsis sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Carposphaera annikae,Carposphaera annikae,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Carposphaera sp.,Carposphaera sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cenosphaera coronata,Cenosphaera coronata,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cenosphaera cristata,Cenosphaera cristata,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cenosphaera sp.,Cenosphaera sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Centrobotrys gravida,Centrobotrys gravida,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Centrobotrys petrushevskayae,Centrobotrys petrushevskayae,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Centrobotrys thermophila,Centrobotrys thermophila,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Ceratocyrtis cucullaris,Ceratocyrtis cucullaris,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Ceratocyrtis histricosa,Ceratocyrtis histricosa,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Ceratocyrtis mashae,Ceratocyrtis mashae,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Ceratocyrtis sp.,Ceratocyrtis sp.,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Ceratocyrtis spp.,Ceratocyrtis spp.,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Ceratospyris borealis,Ceratospyris borealis,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Circodiscus (Porodiscus) circularis,Circodiscus (Porodiscus) circularis,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Circodiscus microporus group,Circodiscus microporus group,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Cladococcus abietinus,Cladococcus abietinus,,,,"in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Clathrocyclas australis,Clathrocyclas australis,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Clathrocyclas universa,Clathrocyclas universa,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Clinorhabdus anantomus,Clinorhabdus anantomus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Collonosphaera cyrtodon,Collonosphaera cyrtodon,Collosphaera cyrtodon,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collonosphaera huxleyi,Collonosphaera huxleyi,Collosphaera huxleyi,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collonosphaera murrayana,Collonosphaera murrayana,Collosphaera murrayana,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera brattstroemi,Collosphaera brattstroemi,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera huxleyi,Collosphaera huxleyi,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera macropora,Collosphaera macropora,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera orthoconus,Collosphaera orthoconus,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera sp.,Collosphaera sp.,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera spinosa,Collosphaera spinosa,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Collosphaera tuberosa,Collosphaera tuberosa,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,,,,,,,,,,,,
-radiolarians,Cornutella clathrata,Cornutella clathrata,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cornutella profunda,Cornutella profunda,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Corocalyotra sp.,Corocalyotra sp.,Corocalyptra sp. ,,,Can't find this taxa documented? DL: typo. AF Fixed,,,,,,,,,,,,,,
-radiolarians,Corocalyptra cervus,Corocalyptra cervus,Corocalyptra cervus,,,Can't find this taxa documented? DL: Ehrenberg 1872 is the citation for the species. It's currently a junior synonym. Is in PBDB,,,,,,,,,,,,,,
-radiolarians,Cryptocarpium azyx,Cryptocarpium azyx,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cryptocarpium ornatum,Cryptocarpium ornatum,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cubotholus octaceras,Cubotholus octaceras,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora bicornis,Cycladophora bicornis,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora conica,Cycladophora conica,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora cornutoides,Cycladophora cornutoides,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora davisiana,Cycladophora davisiana,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora davisiana,Cycladophora davisiana,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora funakawai,Cycladophora funakawai,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora golli golli,Cycladophora golli golli,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora golli regipileus,Cycladophora golli regipileus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora humerus,Cycladophora humerus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora nakasekoi,Cycladophora nakasekoi,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora pliocenica,Cycladophora pliocenica,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora sakaii,Cycladophora sakaii,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cycladophora spongothorax,Cycladophora spongothorax,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cyrtocapsella cornuta,Cyrtocapsella cornuta,,,,"in PBDB, but does not come up when searched? AF: Fixed!",,,,,,,,,,,,,,
-radiolarians,Cyrtocapsella japonica,Cyrtocapsella japonica,,,,"in PBDB, but does not come up when searched? AF: Fixed!",,,,,,,,,,,,,,
-radiolarians,Cyrtocapsella sp.,Cyrtocapsella sp.,,,,"in PBDB, but does not come up when searched? AF: Fixed!",,,,,,,,,,,,,,
-radiolarians,Cyrtocapsella tetrapera,Cyrtocapsella tetrapera,,,,"in PBDB, but does not come up when searched? AF: Fixed!",,,,,,,,,,,,,,
-radiolarians,Cyrtopera languncula,Cyrtopera languncula,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Cystophormis brevispina,Cystophormis brevispina,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dendrospyris ? sakaii,Dendrospyris ? sakaii,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dendrospyris megalocephalis,Dendrospyris megalocephalis,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dendrospyris sakaii,Dendrospyris sakaii,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dendrospyris sp.,Dendrospyris sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dendrospyris uruyaensis,Dendrospyris uruyaensis,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Desmospyris rhodospyroides,Desmospyris rhodospyroides,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Desmospyris spongiosa,Desmospyris spongiosa,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Diartus hughesi,Diartus hughesi,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Diartus petterssoni,Diartus petterssoni,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dicty mongolferi,Dicty mongolferi,Dictyoprora mongolfieri,,,is this a genus? AF: Somebody got lazy. Fixed.,,,,,,,,,,,,,,
-radiolarians,Dictyocorine profunda,Dictyocorine profunda,,,,"in PBDB, but unsure this is meant to be Dictyocoryne?",,,,,,,,,,,,,,
-radiolarians,Dictyocorine truncatum,Dictyocorine truncatum,,,,"in PBDB, but unsure this is meant to be Dictyocoryne?",,,,,,,,,,,,,,
-radiolarians,Dictyocoryne profunda,Dictyocoryne profunda,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyocoryne sp.,Dictyocoryne sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyocoryne truncatum,Dictyocoryne truncatum,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyophimus bullatus,Dictyophimus bullatus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyophimus craticula,Dictyophimus craticula,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyophimus crisiae,Dictyophimus crisiae,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyophimus hirundo,Dictyophimus hirundo,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyophimus infabricatus,Dictyophimus infabricatus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyopodium aff. oxylophus,Dictyopodium aff. oxylophus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyoprora amphora,Dictyoprora amphora,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyoprora armadillo,Dictyoprora armadillo,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyoprora mongolfieri,Dictyoprora mongolfieri,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyoprora pirum,Dictyoprora pirum,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Dictyoprora urceolus,Dictyoprora urceolus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis antepenultima,Didymocyrtis antepenultima,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis antipenultima,Didymocyrtis antipenultima,Didymocyrtis antepenultima,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis avita,Didymocyrtis avita,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis bassanii,Didymocyrtis bassanii,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis laticonus,Didymocyrtis laticonus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis mammifera,Didymocyrtis mammifera,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis penultima,Didymocyrtis penultima,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis prismatica,Didymocyrtis prismatica,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis sp.,Didymocyrtis sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis tetrathalamus,Didymocyrtis tetrathalamus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis tetrathalamus tetrathalamus,Didymocyrtis tetrathalamus tetrathalamus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis tetrathalamus tetrathalamus,Didymocyrtis tetrathalamus tetrathalamus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis tetratharamus,Didymocyrtis tetratharamus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis tubaria,Didymocyrtis tubaria,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
-radiolarians,Didymocyrtis violina,Didymocyrtis violina,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
+radiolarians,Carpocanium rubyae,Carpocanium rubyae,,,,"in PBDB, so it will be classified correctly	",,,Carpocanium,,,,rubyae,,,,,,,
+radiolarians,Carpocanopsis bramlettei,Carpocanopsis bramlettei,,,,"in PBDB, so it will be classified correctly",,,Carpocanopsis,,,,bramlettei,,,,,,,
+radiolarians,Carpocanopsis cingulata,Carpocanopsis cingulata,,,,"in PBDB, so it will be classified correctly",,,Carpocanopsis,,,,cingulata,,,,,,,
+radiolarians,Carpocanopsis cristata,Carpocanopsis cristata,,,,"in PBDB, so it will be classified correctly",,,Carpocanopsis,,,,cristata,,,,,,,
+radiolarians,Carpocanopsis sp.,Carpocanopsis sp.,,,,"in PBDB, so it will be classified correctly",,,Carpocanopsis,,,,sp.,,,,,,,
+radiolarians,Carposphaera annikae,Carposphaera annikae,,,,"in PBDB, so it will be classified correctly",,,Carposphaera,,,,annikae,,,,,,,
+radiolarians,Carposphaera sp.,Carposphaera sp.,,,,"in PBDB, so it will be classified correctly",,,Carposphaera,,,,sp.,,,,,,,
+radiolarians,Cenosphaera coronata,Cenosphaera coronata,,,,"in PBDB, so it will be classified correctly",,,Cenosphaera,,,,coronata,,,,,,,
+radiolarians,Cenosphaera cristata,Cenosphaera cristata,,,,"in PBDB, so it will be classified correctly",,,Cenosphaera,,,,cristata,,,,,,,
+radiolarians,Cenosphaera sp.,Cenosphaera sp.,,,,"in PBDB, so it will be classified correctly",,,Cenosphaera,,,,sp.,,,,,,,
+radiolarians,Centrobotrys gravida,Centrobotrys gravida,,,,"in PBDB, so it will be classified correctly",,,Centrobotrys,,,,gravida,,,,,,,
+radiolarians,Centrobotrys petrushevskayae,Centrobotrys petrushevskayae,,,,"in PBDB, so it will be classified correctly",,,Centrobotrys,,,,petrushevskayae,,,,,,,
+radiolarians,Centrobotrys thermophila,Centrobotrys thermophila,,,,"in PBDB, so it will be classified correctly",,,Centrobotrys,,,,thermophila,,,,,,,
+radiolarians,Ceratocyrtis cucullaris,Ceratocyrtis cucullaris,,,,"in PBDB, but classification differs to WoRMS",,,Ceratocyrtis,,,,cucullaris,,,,,,,
+radiolarians,Ceratocyrtis histricosa,Ceratocyrtis histricosa,,,,"in PBDB, but classification differs to WoRMS",,,Ceratocyrtis,,,,histricosa,,,,,,,
+radiolarians,Ceratocyrtis mashae,Ceratocyrtis mashae,,,,"in PBDB, but classification differs to WoRMS",,,Ceratocyrtis,,,,mashae,,,,,,,
+radiolarians,Ceratocyrtis sp.,Ceratocyrtis sp.,,,,"in PBDB, but classification differs to WoRMS",,,Ceratocyrtis,,,,sp.,,,,,,,
+radiolarians,Ceratocyrtis spp.,Ceratocyrtis spp.,,,,"in PBDB, but classification differs to WoRMS",,,Ceratocyrtis,,,,spp.,,,,,,,
+radiolarians,Ceratospyris borealis,Ceratospyris borealis,,,,"in PBDB, so it will be classified correctly",,,Ceratospyris,,,,borealis,,,,,,,
+radiolarians,Circodiscus (Porodiscus) circularis,Circodiscus (Porodiscus) circularis,,,,"in PBDB, but classification differs to WoRMS",,,Circodiscus,,Porodiscus,,circularis,,,,,,,
+radiolarians,Circodiscus microporus group,Circodiscus microporus group,,,,"in PBDB, but classification differs to WoRMS",,,Circodiscus,,,,microporus,,,,Circodiscus microporus group,,,
+radiolarians,Cladococcus abietinus,Cladococcus abietinus,,,,"in PBDB, but classification differs to WoRMS",,,Cladococcus,,,,abietinus,,,,,,,
+radiolarians,Clathrocyclas australis,Clathrocyclas australis,,,,"in PBDB, so it will be classified correctly",,,Clathrocyclas,,,,australis,,,,,,,
+radiolarians,Clathrocyclas universa,Clathrocyclas universa,,,,"in PBDB, so it will be classified correctly",,,Clathrocyclas,,,,universa,,,,,,,
+radiolarians,Clinorhabdus anantomus,Clinorhabdus anantomus,,,,"in PBDB, so it will be classified correctly",,,Clinorhabdus,,,,anantomus,,,,,,,
+radiolarians,Collonosphaera cyrtodon,Collonosphaera cyrtodon,Collosphaera cyrtodon,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,cyrtodon,,,,,,,
+radiolarians,Collonosphaera huxleyi,Collonosphaera huxleyi,Collosphaera huxleyi,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,huxleyi,,,,,,,
+radiolarians,Collonosphaera murrayana,Collonosphaera murrayana,Collosphaera murrayana,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,murrayana,,,,,,,
+radiolarians,Collosphaera brattstroemi,Collosphaera brattstroemi,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,brattstroemi,,,,,,,
+radiolarians,Collosphaera huxleyi,Collosphaera huxleyi,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,huxleyi,,,,,,,
+radiolarians,Collosphaera macropora,Collosphaera macropora,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,macropora,,,,,,,
+radiolarians,Collosphaera orthoconus,Collosphaera orthoconus,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,orthoconus,,,,,,,
+radiolarians,Collosphaera  sp.,Collosphaera sp.,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,sp.,,,,,,,
+radiolarians,Collosphaera spinosa,Collosphaera spinosa,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,spinosa,,,,,,,
+radiolarians,Collosphaera tuberosa,Collosphaera tuberosa,,,,"Collosphaera is in PBDB, but classification differs to WoRMS",,,Collosphaera,,,,tuberosa,,,,,,,
+radiolarians,Cornutella clathrata,Cornutella clathrata,,,,"in PBDB, so it will be classified correctly",,,Cornutella,,,,clathrata,,,,,,,
+radiolarians,Cornutella profunda,Cornutella profunda,,,,"in PBDB, so it will be classified correctly",,,Cornutella,,,,profunda,,,,,,,
+radiolarians,Corocalyotra sp.,Corocalyotra sp.,Corocalyptra sp. ,,,"in PBDB, so it will be classified correctly",,,Corocalyptra,,,,sp.,,,,,,,
+radiolarians,Corocalyptra cervus,Corocalyptra cervus,Corocalyptra cervus,,,"in PBDB, so it will be classified correctly",,,Corocalyptra,,,,cervus,,,,,,,
+radiolarians,Cryptocarpium azyx,Cryptocarpium azyx,,,,"in PBDB, so it will be classified correctly",,,Cryptocarpium,,,,azyx,,,,,,,
+radiolarians,Cryptocarpium ornatum,Cryptocarpium ornatum,,,,"in PBDB, so it will be classified correctly",,,Cryptocarpium,,,,ornatum,,,,,,,
+radiolarians,Cubotholus octaceras,Cubotholus octaceras,,,,"in PBDB, so it will be classified correctly",,,Cubotholus,,,,octaceras,,,,,,,
+radiolarians,Cycladophora bicornis,Cycladophora bicornis,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,bicornis,,,,,,,
+radiolarians,Cycladophora conica,Cycladophora conica,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,conica,,,,,,,
+radiolarians,Cycladophora cornutoides,Cycladophora cornutoides,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,cornutoides,,,,,,,
+radiolarians,Cycladophora davisiana,Cycladophora davisiana,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,davisiana,,,,,,,
+radiolarians,Cycladophora  davisiana,Cycladophora davisiana,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,davisiana,,,,,,,
+radiolarians,Cycladophora funakawai,Cycladophora funakawai,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,funakawai,,,,,,,
+radiolarians,Cycladophora golli golli,Cycladophora golli golli,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,golli,,golli,,,,,
+radiolarians,Cycladophora golli regipileus,Cycladophora golli regipileus,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,golli,,regipileus,,,,,
+radiolarians,Cycladophora humerus,Cycladophora humerus,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,humerus,,,,,,,
+radiolarians,Cycladophora nakasekoi,Cycladophora nakasekoi,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,nakasekoi,,,,,,,
+radiolarians,Cycladophora pliocenica,Cycladophora pliocenica,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,pliocenica,,,,,,,
+radiolarians,Cycladophora sakaii,Cycladophora sakaii,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,sakaii,,,,,,,
+radiolarians,Cycladophora spongothorax,Cycladophora spongothorax,,,,"in PBDB, so it will be classified correctly",,,Cycladophora,,,,spongothorax,,,,,,,
+radiolarians,Cyrtocapsella cornuta,Cyrtocapsella cornuta,,,,"in PBDB, so it will be classified correctly",,,Cyrtocapsella,,,,cornuta,,,,,,,
+radiolarians,Cyrtocapsella japonica,Cyrtocapsella japonica,,,,"in PBDB, so it will be classified correctly",,,Cyrtocapsella,,,,japonica,,,,,,,
+radiolarians,Cyrtocapsella sp.,Cyrtocapsella sp.,,,,"in PBDB, so it will be classified correctly",,,Cyrtocapsella,,,,sp.,,,,,,,
+radiolarians,Cyrtocapsella tetrapera,Cyrtocapsella tetrapera,,,,"in PBDB, so it will be classified correctly",,,Cyrtocapsella,,,,tetrapera,,,,,,,
+radiolarians,Cyrtopera languncula,Cyrtopera languncula,,,,"in PBDB, so it will be classified correctly",,,Cyrtopera,,,,languncula,,,,,,,
+radiolarians,Cystophormis brevispina,Cystophormis brevispina,,,,"in PBDB, so it will be classified correctly",,,Cystophormis,,,,brevispina,,,,,,,
+radiolarians,Dendrospyris ? sakaii,Dendrospyris ? sakaii,,,,"in PBDB, so it will be classified correctly",,?,Dendrospyris,,,,sakaii,,,,,,,
+radiolarians,Dendrospyris megalocephalis,Dendrospyris megalocephalis,,,,"in PBDB, so it will be classified correctly",,,Dendrospyris,,,,megalocephalis,,,,,,,
+radiolarians,Dendrospyris sakaii,Dendrospyris sakaii,,,,"in PBDB, so it will be classified correctly",,,Dendrospyris,,,,sakaii,,,,,,,
+radiolarians,Dendrospyris sp.,Dendrospyris sp.,,,,"in PBDB, so it will be classified correctly",,,Dendrospyris,,,,sp.,,,,,,,
+radiolarians,Dendrospyris uruyaensis,Dendrospyris uruyaensis,,,,"in PBDB, so it will be classified correctly",,,Dendrospyris,,,,uruyaensis,,,,,,,
+radiolarians,Desmospyris rhodospyroides,Desmospyris rhodospyroides,,,,"in PBDB, so it will be classified correctly",,,Desmospyris,,,,rhodospyroides,,,,,,,
+radiolarians,Desmospyris spongiosa,Desmospyris spongiosa,,,,"in PBDB, so it will be classified correctly",,,Desmospyris,,,,spongiosa,,,,,,,
+radiolarians,Diartus hughesi,Diartus hughesi,,,,"in PBDB, so it will be classified correctly",,,Diartus,,,,hughesi,,,,,,,
+radiolarians,Diartus petterssoni,Diartus petterssoni,,,,"in PBDB, so it will be classified correctly",,,Diartus,,,,petterssoni,,,,,,,
+radiolarians,Dicty mongolferi,Dicty mongolferi,Dictyoprora mongolfieri,,,"in PBDB, so it will be classified correctly",,,Dictyoprora,,,,mongolfieri,,,,,,,
+radiolarians,Dictyocorine profunda,Dictyocorine profunda,,,,"in PBDB, so it will be classified correctly",,,Dictyocorine,,,,profunda,,,,,,,
+radiolarians,Dictyocorine truncatum,Dictyocorine truncatum,,,,"in PBDB, so it will be classified correctly",,,Dictyocorine,,,,truncatum,,,,,,,
+radiolarians,Dictyocoryne profunda,Dictyocoryne profunda,,,,"in PBDB, so it will be classified correctly",,,Dictyocorine,,,,profunda,,,,,,,
+radiolarians,Dictyocoryne sp.,Dictyocoryne sp.,,,,"in PBDB, so it will be classified correctly",,,Dictyocorine,,,,sp.,,,,,,,
+radiolarians,Dictyocoryne truncatum,Dictyocoryne truncatum,,,,"in PBDB, so it will be classified correctly",,,Dictyocorine,,,,truncatum,,,,,,,
+radiolarians,Dictyophimus bullatus,Dictyophimus bullatus,,,,"in PBDB, so it will be classified correctly",,,Dictyophimus,,,,bullatus,,,,,,,
+radiolarians,Dictyophimus craticula,Dictyophimus craticula,,,,"in PBDB, so it will be classified correctly",,,Dictyophimus,,,,craticula,,,,,,,
+radiolarians,Dictyophimus crisiae,Dictyophimus crisiae,,,,"in PBDB, so it will be classified correctly",,,Dictyophimus,,,,crisiae,,,,,,,
+radiolarians,Dictyophimus hirundo,Dictyophimus hirundo,,,,"in PBDB, so it will be classified correctly",,,Dictyophimus,,,,hirundo,,,,,,,
+radiolarians,Dictyophimus infabricatus,Dictyophimus infabricatus,,,,"in PBDB, so it will be classified correctly",,,Dictyophimus,,,,infabricatus,,,,,,,
+radiolarians,Dictyopodium aff. oxylophus,Dictyopodium aff. oxylophus,,,,"in PBDB, so it will be classified correctly",,,Dictyopodium,,,,oxylophus,,,,Dictyopodium aff. oxylophus,,,
+radiolarians,Dictyoprora amphora,Dictyoprora amphora,,,,"in PBDB, so it will be classified correctly",,,Dictyoprora,,,,amphora,,,,,,,
+radiolarians,Dictyoprora armadillo,Dictyoprora armadillo,,,,"in PBDB, so it will be classified correctly",,,Dictyoprora,,,,armadillo,,,,,,,
+radiolarians,Dictyoprora mongolfieri,Dictyoprora mongolfieri,,,,"in PBDB, so it will be classified correctly",,,Dictyoprora,,,,mongolfieri,,,,,,,
+radiolarians,Dictyoprora pirum,Dictyoprora pirum,,,,"in PBDB, so it will be classified correctly",,,Dictyoprora,,,,pirum,,,,,,,
+radiolarians,Dictyoprora urceolus,Dictyoprora urceolus,,,,"in PBDB, so it will be classified correctly",,,Dictyoprora,,,,urceolus,,,,,,,
+radiolarians,Didymocyrtis antepenultima,Didymocyrtis antepenultima,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,antepenultima,,,,,,,
+radiolarians,Didymocyrtis antipenultima,Didymocyrtis antipenultima,Didymocyrtis antepenultima,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,antepenultima,,,,,,,
+radiolarians,Didymocyrtis avita,Didymocyrtis avita,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,avita,,,,,,,
+radiolarians,Didymocyrtis bassanii,Didymocyrtis bassanii,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,bassanii,,,,,,,
+radiolarians,Didymocyrtis laticonus,Didymocyrtis laticonus,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,laticonus,,,,,,,
+radiolarians,Didymocyrtis mammifera,Didymocyrtis mammifera,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,mammifera,,,,,,,
+radiolarians,Didymocyrtis penultima,Didymocyrtis penultima,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,penultima,,,,,,,
+radiolarians,Didymocyrtis prismatica,Didymocyrtis prismatica,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,prismatica,,,,,,,
+radiolarians,Didymocyrtis sp.,Didymocyrtis sp.,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,sp.,,,,,,,
+radiolarians,Didymocyrtis tetrathalamus,Didymocyrtis tetrathalamus,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,tetrathalamus,,,,,,,
+radiolarians,Didymocyrtis tetrathalamus  tetrathalamus,Didymocyrtis tetrathalamus tetrathalamus,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,tetrathalamus,,tetrathalamus,,,,,
+radiolarians,Didymocyrtis tetrathalamus tetrathalamus,Didymocyrtis tetrathalamus tetrathalamus,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,tetrathalamus,,tetrathalamus,,,,,
+radiolarians,Didymocyrtis tetratharamus,Didymocyrtis tetratharamus,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,tetratharamus,,,,,,,
+radiolarians,Didymocyrtis tubaria,Didymocyrtis tubaria,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,tubaria,,,,,,,
+radiolarians,Didymocyrtis violina,Didymocyrtis violina,,,,"in PBDB, so it will be classified correctly",,,Didymocyrtis,,,,violina,,,,,,,
 radiolarians,Diploplegma somphum,Diploplegma somphum,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
 radiolarians,Disolenia sp.,Disolenia sp.,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
 radiolarians,Dorcadospyris alata,Dorcadospyris alata,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
@@ -4676,7 +4676,7 @@ radiolarians,Stylatractus plato?,Stylatractus plato?,Stylatractus ? plato,,,"in 
 radiolarians,Stylatractus santaeannae,Stylatractus santaeannae,,,,"in PBDB, but classification differs to WoRMS and Mikrotax",,,,,,,,,,,,,,
 radiolarians,Stylatractus sp.,Stylatractus sp.,,,,"in PBDB, but classification differs to WoRMS and Mikrotax",,,,,,,,,,,,,,
 radiolarians,Stylatractus universus,Stylatractus universus,,,,"in PBDB, but classification differs to WoRMS and Mikrotax",,,,,,,,,,,,,,
-radiolarians,Stylochlamidium venustum,Stylochlamidium venustum,Stylochlamydium asteriscus,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
+radiolarians,Stylochlamidium  venustum,Stylochlamidium venustum,Stylochlamydium asteriscus,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
 radiolarians,Stylochlamydium asteriscus,Stylochlamydium asteriscus,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
 radiolarians,Stylochlamydium bensoni,Stylochlamydium bensoni,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
 radiolarians,Stylochlamydium venustum,Stylochlamydium venustum,,,,"in PBDB, so it will be classified correctly",,,,,,,,,,,,,,
