@@ -1,25 +1,19 @@
-# convert random space-separated txt file to tab delimited
+import pandas as pd
+import re
+import os
+import glob
 
-# this script works only for the problematic files from legs 180/181.
+
+"""convert random space-separated txt file to tab delimited"""
+
+"""this script works only for the problematic files from legs 180/181.
 # the other files from legs 149,172,174,175 (6 total files) were organized
 # differently (from legs 180/181 and from each other) so I wrote small
-# scripts for each (6 total) and had to manually edit some.
-
-import pandas as pd
-import csv, re, os
-import numpy as np
-
-
-def split(word):
-    return [char for char in word]
-
-
-def getindices(s):
-    return [i for i, c in enumerate(s) if c.isupper()]
+# scripts for each (6 total) and had to manually edit some."""
 
 
 def get_headers(first_line):
-    # --- getting a separate list of all headers ---
+    """getting a separate list of all headers"""
     header_list = re.findall("[A-Z][^A-Z]*", first_line)
     trigger_headers = [
         "From (oldest) ",
@@ -34,13 +28,11 @@ def get_headers(first_line):
         if header_list[i] in trigger_headers:
             header_list[i - 1] = header_list[i - 1] + header_list[i]
             header_list[i] = " "
-    header_list = [i for i in header_list if i.strip()]
-    # header_list = [s.rstrip() for s in header_list]
-    return header_list
+    return [i for i in header_list if i.strip()]
 
 
-def get_csv(coord):
-    # --- converting txt file to tab delimited txt file ---
+def get_csv(coord, dir_name):
+    """converting txt file to tab delimited txt file"""
     with open(coord) as infile:
         first_line = infile.readline()
         headers_list = get_headers(first_line)
@@ -74,29 +66,16 @@ def get_csv(coord):
         df = pd.DataFrame(
             all_lines[1 : len(all_lines)], index=None, columns=stripped_hl
         )
-        ext = coord.split("space_delim_check", 1)[1]
-        # created a new directory for the cleaned files
-        fix = "/Users/morga/PycharmProjects/clean_up/space_delim" + ext
+        ext = coord.split("space_delim_original", 1)[1]
+        # upload cleaned files to cleaned_data/...
+        fix = os.path.join(
+            dir_name, "notebooks/cleaned_data/odp_all_paleontology/range_tables" + ext
+        )
         df.to_csv(fix, sep="\t", index=False)
-        # return fix --- for testing
 
 
-# --- main ---
-
-# I saved a local copy of all of the original problematic space_delim files
-# Traversing the directory to get to txt files
-root_dir = "/Users/morga/PycharmProjects/clean_up/space_delim_check/180"
-site_list = os.listdir(root_dir)
-for site in site_list:
-    site_path = os.path.join(root_dir, str(site))
-    hole_list = os.listdir(site_path)
-    for hole in hole_list:
-        hole_path = os.path.join(site_path, hole)
-        data_list = os.listdir(hole_path)
-        for data in data_list:
-            data_path = os.path.join(hole_path, data)
-            fixed_path = get_csv(data_path)
-            # --- to test the file ouput in csv form ---
-            # test_df = pd.read_csv(fixed_path,sep='\t')
-            # curr_dir = os.path.splitext(fixed_path)
-            # test_df.to_csv(curr_dir[0] + ".csv", index=False)
+""""--- main ---"""
+dir_name = os.path.split(os.path.dirname(__file__))[0]
+filename = os.path.join(dir_name, "tests/space_delim_original/**/**/**/*.txt")
+for name in glob.glob(filename):
+    get_csv(name, dir_name)
