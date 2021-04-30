@@ -1,7 +1,0 @@
-Data     Age From (oldest)     Age To (youngest)     Zone From (bottom)     Zone To (top)     Leg     Site     H     Cor     T     Sc     Top(cm)     Depth (mbsf)     Scientist     Fossil Group              Group Abundance     Group Preservation     planktonics miscellaneous     Comment 
-
-IR                                                                                   174     1071     B      2     X     CC      0.00          41.8500        Olson      Planktonic Foraminifers          T                                            1              P/B=0 benthics=A glauconite=F pyrite nodules=F 
-
-IR                                                                                   174     1071     B      3     X     CC      10.00         49.7400        Olson      Planktonic Foraminifers          T                 G                          2              P/B=.01 benthics=C glauconite=F pyrite nodules=VR 
-
-    
