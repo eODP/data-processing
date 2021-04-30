@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 import os
-import glob
 
 
 """convert random space-separated txt file to tab delimited"""
@@ -75,7 +74,66 @@ def get_csv(coord, dir_name):
 
 
 """"--- main ---"""
+
+problem_files = [
+    "raw_data/odp_all_paleontology/range_tables/180/1109/HOLE_C/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1109/HOLE_C/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1109/HOLE_D/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1109/HOLE_D/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1110/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1110/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1110/HOLE_B/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1110/HOLE_B/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1111/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1111/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1112/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1112/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1114/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1114/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1115/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1115/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1115/HOLE_B/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1115/HOLE_B/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1115/HOLE_C/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1115/HOLE_C/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1116/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1116/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1117/HOLE_C/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1118/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/180/1118/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_A/Diatoms.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_A/Radiolarians.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_B/Benthic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_B/Diatoms.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_B/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_B/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_B/Radiolarians.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_C/Benthic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_C/Diatoms.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_C/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_C/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1119/HOLE_C/Radiolarians.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_A/Diatoms.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_A/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_A/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_A/Radiolarians.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_B/Benthic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_B/Diatoms.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_B/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_B/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_B/Radiolarians.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_C/Benthic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_C/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_D/Diatoms.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_D/Nannofossils.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_D/Planktonic_Foraminifers.txt",
+    "raw_data/odp_all_paleontology/range_tables/181/1120/HOLE_D/Radiolarians.txt",
+]
+
 dir_name = os.path.split(os.path.dirname(__file__))[0]
-filename = os.path.join(dir_name, "tests/space_delim_original/**/**/**/*.txt")
-for name in glob.glob(filename):
-    get_csv(name, dir_name)
+for file in problem_files:
+    add_ext = "notebooks/" + file
+    filename = os.path.join(dir_name, add_ext)
+    get_csv(filename, dir_name)
