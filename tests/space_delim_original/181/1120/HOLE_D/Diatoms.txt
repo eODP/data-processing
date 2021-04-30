@@ -1,0 +1,10 @@
+Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Stephanopyxis turris turris Sponge spicules Biddulphia tuomeyi Comment
+
+
+
+  IR                                                                       181 1120 D   1 X CC    5.00     166.9300 diatoms   Diatoms                                                                                                      T                                         
+
+  IR                                                                       181 1120 D   2 X CC   24.00     176.6800 diatoms   Diatoms                                                                                                      R                                         
+
+  IR                                                                       181 1120 D   3 X CC   21.00     184.9300 diatoms   Diatoms                                                                          T                           F               T                         
+
