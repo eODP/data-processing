@@ -81,7 +81,7 @@ def create_sample_name_for_row(row, columns):
 
 
 def create_sample_name(df):
-    """ Uses Exp...A/W columns to create a name for a sample """
+    """Uses Exp...A/W columns to create a name for a sample"""
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"}
     if names.issubset(df.columns):
         df["Sample"] = df.apply(
@@ -116,7 +116,7 @@ def get_expedition_from_csv(df):
 
 
 def normalize_expedition_section_cols(df):
-    """ Create Exp...Section columns using Sample or Label ID """
+    """Create Exp...Section columns using Sample or Label ID"""
     # NOTE: There was one file that did not have A/W column
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section"}
     if names.issubset(df.columns):
@@ -182,7 +182,7 @@ def extract_sample_parts(name):
 
 
 def create_sample_cols(series):
-    """ Extract Exp...A/W info from a panda series """
+    """Extract Exp...A/W info from a panda series"""
     df = pd.DataFrame(
         {
             "Exp": [],
@@ -230,7 +230,7 @@ def restore_integer_columns(df):
 
 
 def update_metadata(metadata, new_col_dict):
-    """ Only update metadata if column doesn't exist """
+    """Only update metadata if column doesn't exist"""
     new_metadata = pd.DataFrame(new_col_dict)
     new_col_name = list(new_col_dict.keys())[0]
 
@@ -290,7 +290,7 @@ def csv_cleanup(df, csv_path):
 
 
 def normalize_columns(old_cols, new_col, all_cols):
-    """ Replace variations of column name with a standard column name """
+    """Replace variations of column name with a standard column name"""
     return [new_col if column in old_cols else column for column in all_cols]
 
 
@@ -332,7 +332,7 @@ def filter_existing_set(my_set, regex):
 
 
 def add_missing_columns(path, normalized_columns):
-    """ Add columns to dataframe so every dataframe has the same columns """
+    """Add columns to dataframe so every dataframe has the same columns"""
     content = pd.read_csv(path)
     columns = list(content.columns)
 

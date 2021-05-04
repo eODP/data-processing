@@ -1,8 +1,7 @@
-Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Uvigerina ongleyi Sigmoilopsis schlumbergeri Rectuvigerina ongleyi Planulina wuellerstorfi Laticarinina altocamerata Eggerella bradyi Comment
-
-
-
-  IR                                                                       181 1120 B   4 H  3   35.00      25.6500 forams    Benthic Foraminifers                          F               G                  T                 T                          T                     T                       T                         T                       
-
-  IR                                                                       181 1120 B   4 H  3  129.00      26.5900 forams    Benthic Foraminifers                          F               G                  T                 T                          T                     T                       T                         T                       
-
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Uvigerina ongleyi	Sigmoilopsis schlumbergeri	Rectuvigerina ongleyi	Planulina wuellerstorfi	Laticarinina altocamerata	Eggerella bradyi	Comment
+																							
+																							
+IR					181	1120	B	4	H	3	35.00	25.6500	forams	Benthic Foraminifers	F	G	T	T	T	T	T	T	
+																							
+IR					181	1120	B	4	H	3	129.00	26.5900	forams	Benthic Foraminifers	F	G	T	T	T	T	T	T	
+																							
