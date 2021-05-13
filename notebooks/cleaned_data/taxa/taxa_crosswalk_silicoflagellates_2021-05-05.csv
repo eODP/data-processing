@@ -1,4 +1,5 @@
 Any taxon above genus,genus modifier,genus name,subgenera modifier,subgenera name,species modifier,species name,subspecies modifier,subspecies name,non-taxa descriptor,normalized_name,taxon_group,verbatim_name,initial_comments,processing_notes,comments
+,,Bachmannocena,,,,pappii,,,,Bachmannocena pappii,silicoflagellates,Bachmannocena pappii,,"in PBDB, so it will be classified correctly; Silicoflagellate, not diatom",
 ,,Corbisema,,,,flexuosa,,,,Corbisema flexuosa,silicoflagellates,Corbisema flexuosa,,"in PBDB, so it will be classified correctly",
 ,,Dictyocha,,,,deflandrei,,,,Dictyocha deflandrei,silicoflagellates,Dictyocha deflandrei,,"in PBDB, so it will be classified correctly",
 ,,Dictyocha,,,,frenguellii,,,,Dictyocha frenguellii,silicoflagellates,Dictyocha frenguellii,,"in PBDB, so it will be classified correctly",
@@ -6,5 +7,5 @@ Any taxon above genus,genus modifier,genus name,subgenera modifier,subgenera nam
 ,,Distephanus,,,,crux,,,,Distephanus crux,silicoflagellates,Distephanus crux group,,"in PBDB, so it will be classified correctly",
 ,,Distephanus,,,,pseudofibulua,,,,Distephanus pseudofibulua,silicoflagellates,Distephanus pseudofibulua,,"in PBDB, so it will be classified correctly",
 ,,Distephanus,,,,speculum,,,,Distephanus speculum,silicoflagellates,Distephanus speculum,,"in PBDB, so it will be classified correctly",
-,,Mesocena,,,,diodon,,diodon,,Mesocena diodon diodon,silicoflagellates,Mesocena diadon diadon,,"in PBDB, so it will be classified correctly",
+,,Mesocena,,,,diodon,,diodon,,Mesocena diodon diodon,silicoflagellates,Mesocena diadon diadon,misspelling,"in PBDB, so it will be classified correctly",
 ,,Naviculopsis,,,,foliacea,,,,Naviculopsis foliacea,silicoflagellates,Naviculopsis foliacea,,"in PBDB, so it will be classified correctly",
