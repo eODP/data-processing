@@ -14,8 +14,10 @@ TAXON_GROUPS = [
     "diatoms",
     "planktic_forams",
     "radiolarians",
+    "dinoflagellates",
+    "palynology",
 ]
-DATE = "2021-05-05"
+DATE = "2021-05-13"
 
 taxa_rank_fields = [
     "Any taxon above genus",

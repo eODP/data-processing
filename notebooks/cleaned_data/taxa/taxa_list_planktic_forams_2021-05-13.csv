@@ -1,7 +1,4 @@
 Any taxon above genus,genus modifier,genus name,subgenera modifier,subgenera name,species modifier,species name,subspecies modifier,subspecies name,non-taxa descriptor,normalized_name,taxon_group
-,,Candeina,,,,nitida,,,,Candeina nitida,planktic_forams
-,,Dentoglobigerina,,,,altispira,,,,Dentoglobigerina altispira,planktic_forams
-,,Dentoglobigerina,,,,baroemoenensis,,,,Dentoglobigerina baroemoenensis,planktic_forams
 ,,Globigerina,,,,bulloides,,,,Globigerina bulloides,planktic_forams
 ,,Globigerina,,,,falconensis,,,,Globigerina falconensis,planktic_forams
 ,,Globigerina,,,,rubescens,,,,Globigerina rubescens,planktic_forams
@@ -113,6 +110,7 @@ Globigerinina indet.,,,,,,,,,,Globigerinina indet.,planktic_forams
 ,,Beella,,,,digitata,,,,Beella digitata,planktic_forams
 ,,Biticinella,,,,breggiensis,,,,Biticinella breggiensis,planktic_forams
 ,,Bolliella,,,,calida,,,,Bolliella calida,planktic_forams
+,,Candeina,,,,nitida,,,,Candeina nitida,planktic_forams
 ,,Candeina,,,,praenitida,,,,Candeina praenitida,planktic_forams
 ,,Cassigerinella,,,,chipolensis,,,,Cassigerinella chipolensis,planktic_forams
 ,,Cassigerinella ,,,,chipolensis,,,,Cassigerinella chipolensis,planktic_forams
@@ -147,6 +145,7 @@ Globigerinina indet.,,,,,,,,,,Globigerinina indet.,planktic_forams
 ,,Costellagerina ,,,,pilula,,,,Costellagerina pilula,planktic_forams
 ,,Cribrohantkenina ,,,,inflata,,,,Cribrohantkenina inflata,planktic_forams
 ,,Dentoglobigerina,,,,"""conglomerata""",,,,"Dentoglobigerina ""conglomerata""",planktic_forams
+,,Dentoglobigerina,,,,altispira,,,,Dentoglobigerina altispira,planktic_forams
 ,,Dentoglobigerina ,,,,altispira,,,,Dentoglobigerina altispira,planktic_forams
 ,,Dentoglobigerina ,,,,altispira ,,globosa,,Dentoglobigerina altispira globosa,planktic_forams
 ,,Dentoglobigerina ,,,,baroemoenensis,,,,Dentoglobigerina baroemoenensis,planktic_forams
