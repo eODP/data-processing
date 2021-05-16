@@ -6,6 +6,4 @@ Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top De
 329-U1366E-1H,329,U1366,E,1,,H,,A,0,150,0.0,1.5,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,
 329-U1366E-2H,329,U1366,E,2,,H,,A,0,150,1.5,3.0,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,
 329-U1366E-3H,329,U1366,E,3,,H,,A,0,110,3.0,4.1,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
 329-U1366E-1H-CC-A,329,U1366,E,1,1-CC,H,CC,A,0,12,4.59,4.71,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
