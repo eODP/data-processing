@@ -1,7 +1,7 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
-375-U1526A-1R-CC-PAL-FORAM,0,5,0.0,0.05,VG,,,,,,,x,,,,,,,,,x,x,,,,,,,375,U1526,A,1,R,CC,PAL,
-375-U1526A-2R-CC-PAL-FORAM,0,5,10.09,10.14,VG,,,,,,,x,,,,,,,,x,,x,,,,,,,375,U1526,A,2,R,CC,PAL,
-375-U1526A-3R-1-W 45/47-PAL-FORAM,0,2,19.85,19.87,G,,,,,,,x,,,,,,,,,,x,,,,,,,375,U1526,A,3,R,1,W,
-375-U1526A-3R-1-W 54/56-PAL-FORAM,0,2,19.94,19.96,VG,,,,,,,x,,,,,,,,x,x,,,,,,,,375,U1526,A,3,R,1,W,
-375-U1526A-3R-2-W 14/16-PAL-FORAM,0,2,20.46,20.48,G,,,,,,,,,,,,,,,,,,,,,,,,375,U1526,A,3,R,2,W,
-375-U1526A-3R-CC-PAL-FORAM,0,5,21.04,21.09,G,,,,,,,x,,,,,,,,x,x,x,,,,,,,375,U1526,A,3,R,CC,PAL,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data,Zone name,Zone name (short)
+375-U1526A-1R-CC-PAL-FORAM,0,5,0.0,0.05,VG,,,,,,,x,,,,,,,,,x,x,,,,,,,375,U1526,A,1,R,CC,PAL,,,
+375-U1526A-2R-CC-PAL-FORAM,0,5,10.09,10.14,VG,,,,,,,x,,,,,,,,x,,x,,,,,,,375,U1526,A,2,R,CC,PAL,,,
+375-U1526A-3R-1-W 45/47-PAL-FORAM,0,2,19.85,19.87,G,,,,,,,x,,,,,,,,,,x,,,,,,,375,U1526,A,3,R,1,W,,,
+375-U1526A-3R-1-W 54/56-PAL-FORAM,0,2,19.94,19.96,VG,,,,,,,x,,,,,,,,x,x,,,,,,,,375,U1526,A,3,R,1,W,,,
+375-U1526A-3R-2-W 14/16-PAL-FORAM,0,2,20.46,20.48,G,,,,,,,,,,,,,,,,,,,,,,,,375,U1526,A,3,R,2,W,,,
+375-U1526A-3R-CC-PAL-FORAM,0,5,21.04,21.09,G,,,,,,,x,,,,,,,,x,x,x,,,,,,,375,U1526,A,3,R,CC,PAL,,,
