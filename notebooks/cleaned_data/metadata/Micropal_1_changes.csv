@@ -1,7 +1,6 @@
 file,taxon_group,add_expedition_section_cols,update_sample_col,update_top_bottom,add_missing_cols,clean_up_taxa_values,fix_expedition_aw_cols,add_extra_sample_data,clean_up_taxa_metadata_values
 363-U1482A-Benthic_Forams.csv,benthic_forams,True,False,False,False,False,True,False,True
 320_U1336A_Nannofossils_2.csv,nannofossils,False,True,False,False,True,False,False,True
-363-U1482A-nannofossils.csv,nannofossils,True,False,False,False,True,True,False,True
 375_U1518F_planktic_forams.csv,planktic_forams,True,False,False,False,False,True,False,False
 320_U1334A_Nannofossils_1.csv,nannofossils,False,True,False,False,True,False,False,True
 318_U1358B_Palynology.csv,palynology,False,True,False,False,True,False,False,False

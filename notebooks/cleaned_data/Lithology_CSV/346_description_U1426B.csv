@@ -1,45 +1,45 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],TEPHRA type,Amount of ash in lithology,Amount of ash in lithology rank [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Lith. accessory shell fragment,Lith. accessory cement,Lith. accessory nodule/concretion,Lith. accessory sulfide,Lithological accessories comment,Macrofossil,MAJ Lith. prefix + name,MAJ Lith. name+suffix,MAJ Lith. abundance [%],MAJ Lith. ave. grain size ,MAJ Lith. ave. grain size rank [read only],MAJ Lith. max. grain size,MAJ Lith. max. grain size rank [read only],Diagenetic constituent,Diagenetic constituent composition,Deformational structures,structure,General interval comment,Minor Lithology Prefix,Minor Lithology Name,Minor Lithology Suffix,MIN Lith. prefix + name,MIN Lith. prefix+name+suffix,MIN Lith. name+suffix,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-346-U1426B-1H-1-A,0.0,150.0,0.0,1.5,diatom rich,clay ,,diatom rich clay ,,,,,10Y 4/1 (dark greenish gray),slight ,1,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,1,A
-346-U1426B-1H-2-A,0.0,150.0,1.5,3.0,,clay ,,clay ,,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,2,A
-346-U1426B-1H-3-A,0.0,61.0,3.0,3.61,,clay ,,clay ,,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,3,A
-346-U1426B-1H-3-A,61.0,67.0,3.61,3.67,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,3,A
-346-U1426B-1H-3-A,67.0,150.0,3.67,4.5,foraminifer rich,silty clay ,,foraminifer rich silty clay ,,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,,,,foraminifer rich  silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,3,A
-346-U1426B-1H-4-A,0.0,22.0,4.5,4.72,,clay ,,clay ,,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,4,A
-346-U1426B-1H-4-A,22.0,24.0,4.72,4.74,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,4,A
-346-U1426B-1H-4-A,24.0,150.0,4.74,6.0,,clay ,,clay ,,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,4,A
-346-U1426B-1H-CC-A,0.0,21.0,6.0,6.21,foraminifer rich,silty clay ,,foraminifer rich silty clay ,,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,,,,foraminifer rich  silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,CC,A
-346-U1426B-3H-1-A,0.0,93.0,15.7,16.63,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A
-346-U1426B-3H-1-A,36.0,98.0,16.06,16.68,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A
-346-U1426B-3H-1-A,93.0,94.0,16.63,16.64,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A
-346-U1426B-3H-1-A,94.0,150.0,16.64,17.2,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A
-346-U1426B-3H-2-A,0.0,150.0,17.2,18.7,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,2,A
-346-U1426B-3H-2-A,124.0,130.0,18.44,18.5,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,2,A
-346-U1426B-3H-3-A,0.0,147.0,18.7,20.17,foraminifer rich,clay ,,foraminifer rich clay ,,,,,10YR 3/1 (very dark gray),heavy ,3,,,,,,,,,,,,,,,foraminifer rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,3,A
-346-U1426B-3H-4-A,0.0,150.0,20.17,21.67,foraminifer rich,clay ,,foraminifer rich clay ,,,,,10YR 3/1 (very dark gray),slight ,1,,,,,,,,,,,,,,,foraminifer rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,4,A
-346-U1426B-3H-5-A,0.0,150.0,21.67,23.17,foraminifer rich,clay ,,foraminifer rich clay ,,,,,10YR 3/1 (very dark gray),slight ,1,,,,,,,,,,,,,,,foraminifer rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,5,A
-346-U1426B-3H-5-A,24.0,30.0,21.91,21.97,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,5,A
-346-U1426B-3H-5-A,97.0,139.0,22.64,23.06,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,5,A
-346-U1426B-3H-6-A,0.0,23.5,23.17,23.405,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,6,A
-346-U1426B-3H-6-A,23.5,24.0,23.405,23.41,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,6,A
-346-U1426B-3H-6-A,24.0,145.0,23.41,24.62,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,6,A
-346-U1426B-3H-7-A,0.0,78.0,24.62,25.4,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),heavy ,3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,7,A
-346-U1426B-3H-CC-A,0.0,32.0,25.4,25.72,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),heavy ,3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,CC,A
-346-U1426B-4H-1-A,0.0,53.0,25.2,25.73,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,1,A
-346-U1426B-4H-1-A,53.0,55.0,25.73,25.75,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,1,A
-346-U1426B-4H-1-A,55.0,150.0,25.75,26.7,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,1,A
-346-U1426B-4H-2-A,0.0,150.0,26.7,28.2,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,2,A
-346-U1426B-4H-3-A,0.0,150.0,28.2,29.7,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,80,,,,,,,,,,,clay ,,clay ,clay ,clay ,10G 4/1 (dark greenish gray),,,,,,80,,,,,,346,U1426,B,4,H,3,A
-346-U1426B-4H-3-A,71.0,75.0,28.91,28.95,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,3,A
-346-U1426B-4H-4-A,0.0,150.0,29.7,31.2,calcareous bearing,clay ,,calcareous bearing clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,4,A
-346-U1426B-4H-4-A,18.0,24.0,29.88,29.94,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,4,A
-346-U1426B-4H-5-A,0.0,150.0,31.2,32.7,,clay ,,clay ,,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,5,A
-346-U1426B-4H-6-A,0.0,11.3,32.7,32.813,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,0.0,32.0,32.7,33.02,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,11.3,11.5,32.813,32.815,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,11.5,21.5,32.815,32.915,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,21.5,22.0,32.915,32.92,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,22.0,69.0,32.92,33.39,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,69.0,70.0,33.39,33.4,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-6-A,70.0,141.0,33.4,34.11,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A
-346-U1426B-4H-7-A,0.0,67.0,34.11,34.78,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),heavy ,3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,7,A
-346-U1426B-4H-CC-A,0.0,38.0,34.78,35.16,,clay ,,clay ,,,,,,,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,CC,A
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],TEPHRA type,Amount of ash in lithology,Amount of ash in lithology rank [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Lith. accessory shell fragment,Lith. accessory cement,Lith. accessory nodule/concretion,Lith. accessory sulfide,Lithological accessories comment,Macrofossil,MAJ Lith. prefix + name,MAJ Lith. name+suffix,MAJ Lith. abundance [%],MAJ Lith. ave. grain size ,MAJ Lith. ave. grain size rank [read only],MAJ Lith. max. grain size,MAJ Lith. max. grain size rank [read only],Diagenetic constituent,Diagenetic constituent composition,Deformational structures,structure,General interval comment,Minor Lithology Prefix,Minor Lithology Name,Minor Lithology Suffix,MIN Lith. prefix + name,MIN Lith. prefix+name+suffix,MIN Lith. name+suffix,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+346-U1426B-1H-1-A,0.0,150.0,0.0,1.5,diatom rich,clay ,,diatom rich clay ,,,,,10Y 4/1 (dark greenish gray),slight ,1,,,,,,,,,,,,,,,diatom rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,1,A,
+346-U1426B-1H-2-A,0.0,150.0,1.5,3.0,,clay ,,clay ,,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,2,A,
+346-U1426B-1H-3-A,0.0,61.0,3.0,3.61,,clay ,,clay ,,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,3,A,
+346-U1426B-1H-3-A,61.0,67.0,3.61,3.67,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,3,A,
+346-U1426B-1H-3-A,67.0,150.0,3.67,4.5,foraminifer rich,silty clay ,,foraminifer rich silty clay ,,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,,,,foraminifer rich  silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,3,A,
+346-U1426B-1H-4-A,0.0,22.0,4.5,4.72,,clay ,,clay ,,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,4,A,
+346-U1426B-1H-4-A,22.0,24.0,4.72,4.74,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,4,A,
+346-U1426B-1H-4-A,24.0,150.0,4.74,6.0,,clay ,,clay ,,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,4,A,
+346-U1426B-1H-CC-A,0.0,21.0,6.0,6.21,foraminifer rich,silty clay ,,foraminifer rich silty clay ,,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,,,,foraminifer rich  silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,1,H,CC,A,
+346-U1426B-3H-1-A,0.0,93.0,15.7,16.63,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A,
+346-U1426B-3H-1-A,36.0,98.0,16.06,16.68,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A,
+346-U1426B-3H-1-A,93.0,94.0,16.63,16.64,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A,
+346-U1426B-3H-1-A,94.0,150.0,16.64,17.2,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,1,A,
+346-U1426B-3H-2-A,0.0,150.0,17.2,18.7,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,2,A,
+346-U1426B-3H-2-A,124.0,130.0,18.44,18.5,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,2,A,
+346-U1426B-3H-3-A,0.0,147.0,18.7,20.17,foraminifer rich,clay ,,foraminifer rich clay ,,,,,10YR 3/1 (very dark gray),heavy ,3,,,,,,,,,,,,,,,foraminifer rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,3,A,
+346-U1426B-3H-4-A,0.0,150.0,20.17,21.67,foraminifer rich,clay ,,foraminifer rich clay ,,,,,10YR 3/1 (very dark gray),slight ,1,,,,,,,,,,,,,,,foraminifer rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,4,A,
+346-U1426B-3H-5-A,0.0,150.0,21.67,23.17,foraminifer rich,clay ,,foraminifer rich clay ,,,,,10YR 3/1 (very dark gray),slight ,1,,,,,,,,,,,,,,,foraminifer rich  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,5,A,
+346-U1426B-3H-5-A,24.0,30.0,21.91,21.97,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,5,A,
+346-U1426B-3H-5-A,97.0,139.0,22.64,23.06,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,5,A,
+346-U1426B-3H-6-A,0.0,23.5,23.17,23.405,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,6,A,
+346-U1426B-3H-6-A,23.5,24.0,23.405,23.41,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,6,A,
+346-U1426B-3H-6-A,24.0,145.0,23.41,24.62,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,6,A,
+346-U1426B-3H-7-A,0.0,78.0,24.62,25.4,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),heavy ,3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,7,A,
+346-U1426B-3H-CC-A,0.0,32.0,25.4,25.72,,clay ,,clay ,,,,color banding,10Y 5/1 (greenish gray),heavy ,3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,3,H,CC,A,
+346-U1426B-4H-1-A,0.0,53.0,25.2,25.73,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,1,A,
+346-U1426B-4H-1-A,53.0,55.0,25.73,25.75,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,1,A,
+346-U1426B-4H-1-A,55.0,150.0,25.75,26.7,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,1,A,
+346-U1426B-4H-2-A,0.0,150.0,26.7,28.2,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,2,A,
+346-U1426B-4H-3-A,0.0,150.0,28.2,29.7,,clay ,,clay ,,,,,10YR 3/1 (very dark gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,80,,,,,,,,,,,clay ,,clay ,clay ,clay ,10G 4/1 (dark greenish gray),,,,,,80,,,,,,346,U1426,B,4,H,3,A,
+346-U1426B-4H-3-A,71.0,75.0,28.91,28.95,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,3,A,
+346-U1426B-4H-4-A,0.0,150.0,29.7,31.2,calcareous bearing,clay ,,calcareous bearing clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,4,A,
+346-U1426B-4H-4-A,18.0,24.0,29.88,29.94,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,4,A,
+346-U1426B-4H-5-A,0.0,150.0,31.2,32.7,,clay ,,clay ,,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,5,A,
+346-U1426B-4H-6-A,0.0,11.3,32.7,32.813,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,0.0,32.0,32.7,33.02,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,11.3,11.5,32.813,32.815,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,11.5,21.5,32.815,32.915,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,21.5,22.0,32.915,32.92,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,22.0,69.0,32.92,33.39,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,69.0,70.0,33.39,33.4,,tephra ,,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-6-A,70.0,141.0,33.4,34.11,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),slight ,1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,6,A,
+346-U1426B-4H-7-A,0.0,67.0,34.11,34.78,,clay ,,clay ,,,,,10Y 5/1 (greenish gray),heavy ,3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,7,A,
+346-U1426B-4H-CC-A,0.0,38.0,34.78,35.16,,clay ,,clay ,,,,,,,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1426,B,4,H,CC,A,

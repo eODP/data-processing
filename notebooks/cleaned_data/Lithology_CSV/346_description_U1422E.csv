@@ -1,351 +1,351 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],TEPHRA type,Amount of ash in lithology,Amount of ash in lithology rank [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Lith. accessory shell fragment,Lith. accessory cement,Lith. accessory nodule/concretion,Lith. accessory sulfide,Lithological accessories comment,Macrofossil,MAJ Lith. prefix + name,MAJ Lith. name+suffix,MAJ Lith. abundance [%],MAJ Lith. ave. grain size ,MAJ Lith. ave. grain size rank [read only],MAJ Lith. max. grain size,MAJ Lith. max. grain size rank [read only],Diagenetic constituent,Diagenetic constituent composition,Deformational structures,structure,General interval comment,Minor Lithology Prefix,Minor Lithology Name,Minor Lithology Suffix,MIN Lith. prefix + name,MIN Lith. prefix+name+suffix,MIN Lith. name+suffix,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-346-U1422E-1H-1-A,0.0,150.0,0.0,1.5,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,1,A
-346-U1422E-1H-2-A,0.0,150.0,1.5,3.0,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,2,A
-346-U1422E-1H-3-A,0.0,150.0,3.0,4.5,,silty clay [MMK88],,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,3,A
-346-U1422E-1H-4-A,0.0,150.0,4.5,6.0,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,4,A
-346-U1422E-1H-5-A,0.0,150.0,6.0,7.5,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,5,A
-346-U1422E-1H-6-A,0.0,122.0,7.5,8.72,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,6,A
-346-U1422E-1H-7-A,0.0,68.0,8.72,9.4,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,7,A
-346-U1422E-1H-CC-A,0.0,23.0,9.4,9.63,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,CC,A
-346-U1422E-2H-1-A,0.0,11.0,9.5,9.61,,clay ,,clay ,,,,color banding,10G 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,11.0,38.0,9.61,9.88,,silty clay ,,silty clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,38.0,40.0,9.88,9.9,,tephra ,,tephra ,vitric,,,,10YR 4/1 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,40.0,58.0,9.9,10.08,,clay ,,clay ,,,,color banding,5BG 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,58.0,62.0,10.08,10.12,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 4/1 (dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,62.0,64.0,10.12,10.14,,tephra ,,tephra ,vitric,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,64.0,82.0,10.14,10.32,,silty clay ,,silty clay ,,,,lamination,10YR 4/1 (dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,82.0,97.0,10.32,10.47,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,97.0,98.0,10.47,10.48,,tephra ,,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,98.0,150.0,10.48,11.0,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,105.0,106.0,10.55,10.56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,114.0,126.0,10.64,10.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-1-A,137.0,138.0,10.87,10.88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,1,A
-346-U1422E-2H-2-A,0.0,56.0,11.0,11.56,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,2,A
-346-U1422E-2H-2-A,56.0,106.0,11.56,12.06,,silty clay [MMK88],,silty clay ,,,,inter-stratification,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,80,,,,,,,,,,,clay [Leg210],,clay ,clay ,clay ,5Y 3/2 (dark olive gray),20,,,,,100,,,,,,346,U1422,E,2,H,2,A
-346-U1422E-2H-2-A,106.0,108.0,12.06,12.08,foraminifer rich,silt ,,foraminifer rich silt ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silt ,silt ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,2,A
-346-U1422E-2H-2-A,108.0,111.0,12.08,12.11,,silty clay ,,silty clay ,,,,inter-stratification,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,80,,,,,,,,,,,clay ,,clay ,clay ,clay ,5Y 3/2 (dark olive gray),20,,,,,100,,,,,,346,U1422,E,2,H,2,A
-346-U1422E-2H-2-A,111.0,150.0,12.11,12.5,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,2,A
-346-U1422E-2H-2-A,130.0,137.0,12.3,12.37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,2,A
-346-U1422E-2H-3-A,0.0,101.0,12.5,13.51,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,101.0,112.0,13.51,13.62,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,112.0,125.5,13.62,13.755,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,125.5,136.5,13.755,13.865,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,136.5,137.0,13.865,13.87,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,137.0,138.5,13.87,13.885,,tephra ,,tephra ,,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,138.5,147.7,13.885,13.977,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-3-A,147.7,150.0,13.977,14.0,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A
-346-U1422E-2H-4-A,0.0,34.0,14.0,14.34,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A
-346-U1422E-2H-4-A,34.0,35.0,14.34,14.35,,silty sand ,,silty sand ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A
-346-U1422E-2H-4-A,35.0,132.0,14.35,15.32,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A
-346-U1422E-2H-4-A,132.0,136.0,15.32,15.36,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A
-346-U1422E-2H-4-A,136.0,137.0,15.36,15.37,,silty sand ,,silty sand ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A
-346-U1422E-2H-4-A,137.0,150.0,15.37,15.5,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A
-346-U1422E-2H-5-A,0.0,22.0,15.5,15.72,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A
-346-U1422E-2H-5-A,22.0,23.0,15.72,15.73,,silty sand [MMK88],,silty sand ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A
-346-U1422E-2H-5-A,23.0,30.0,15.73,15.8,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A
-346-U1422E-2H-5-A,30.0,150.0,15.8,17.0,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A
-346-U1422E-2H-5-A,72.0,79.0,16.22,16.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,5,A
-346-U1422E-2H-6-A,0.0,4.0,17.0,17.04,,silty clay ,,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A
-346-U1422E-2H-6-A,4.0,11.0,17.04,17.11,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A
-346-U1422E-2H-6-A,11.0,20.0,17.11,17.2,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A
-346-U1422E-2H-6-A,20.0,39.0,17.2,17.39,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A
-346-U1422E-2H-6-A,34.0,35.0,17.34,17.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,6,A
-346-U1422E-2H-6-A,39.0,150.0,17.39,18.5,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A
-346-U1422E-2H-7-A,0.0,6.0,18.5,18.56,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A
-346-U1422E-2H-7-A,6.0,15.5,18.56,18.655,calcareous bearing,clay ,,calcareous bearing clay ,,,,,2.5Y 6/2 (light brownish gray),,,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A
-346-U1422E-2H-7-A,15.5,42.0,18.655,18.92,,silty clay [MMK88],,silty clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A
-346-U1422E-2H-7-A,42.0,51.0,18.92,19.01,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A
-346-U1422E-2H-CC-A,0.0,12.0,19.01,19.13,,silty clay ,,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,CC,A
-346-U1422E-3H-1-A,0.0,20.0,19.0,19.2,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,19.0,27.0,19.19,19.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,20.0,60.0,19.2,19.6,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,42.0,45.0,19.42,19.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,60.0,61.0,19.6,19.61,foraminifer rich,silt [Leg210],,foraminifer rich silt ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silt ,silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,61.0,75.0,19.61,19.75,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,75.0,92.0,19.75,19.92,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,92.0,93.0,19.92,19.93,foraminifer rich,silt ,,foraminifer rich silt ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silt ,silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,93.0,114.0,19.93,20.14,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,99.0,100.0,19.99,20.0,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,114.0,119.0,20.14,20.19,,silty clay ,,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,119.0,122.0,20.19,20.22,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,122.0,123.0,20.22,20.23,,tephra [FS84],,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,123.0,129.0,20.23,20.29,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,129.0,136.0,20.29,20.36,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,136.0,137.0,20.36,20.37,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,137.0,138.0,20.37,20.38,,tephra ,,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-1-A,138.0,150.0,20.38,20.5,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A
-346-U1422E-3H-2-A,0.0,6.0,20.5,20.56,,clay [Leg210],,clay ,,,,lamination,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A
-346-U1422E-3H-2-A,6.0,17.0,20.56,20.67,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A
-346-U1422E-3H-2-A,17.0,18.0,20.67,20.68,,tephra [FS84],,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A
-346-U1422E-3H-2-A,18.0,21.0,20.68,20.71,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,2,A
-346-U1422E-3H-2-A,21.0,33.0,20.71,20.83,,,,,,,,,,slight [DB86],1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,2,A
-346-U1422E-3H-2-A,21.0,150.0,20.71,22.0,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A
-346-U1422E-3H-3-A,0.0,50.0,22.0,22.5,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bands are dark greenish gray.,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,0.0,59.0,22.0,22.59,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,59.0,60.0,22.59,22.6,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,60.0,88.0,22.6,22.88,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,88.0,102.0,22.88,23.02,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,102.0,103.0,23.02,23.03,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,102.0,115.0,23.02,23.15,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,115.0,116.0,23.15,23.16,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-3-A,116.0,150.0,23.16,23.5,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A
-346-U1422E-3H-4-A,0.0,4.0,23.5,23.54,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,4.0,10.5,23.54,23.605,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,10.5,23.0,23.605,23.73,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,23.0,24.5,23.73,23.745,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,24.5,25.0,23.745,23.75,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,25.0,26.0,23.75,23.76,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,26.0,65.0,23.76,24.15,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,65.0,67.0,24.15,24.17,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,67.0,95.0,24.17,24.45,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,95.0,98.0,24.45,24.48,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,98.0,101.0,24.48,24.51,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,101.0,103.0,24.51,24.53,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,103.0,112.0,24.53,24.62,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,112.0,134.0,24.62,24.84,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-4-A,134.0,150.0,24.84,25.0,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A
-346-U1422E-3H-5-A,0.0,6.0,25.0,25.06,,clay [Leg210],,clay ,,,,lamination,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-5-A,6.0,11.0,25.06,25.11,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-5-A,11.0,39.0,25.11,25.39,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-5-A,39.0,44.0,25.39,25.44,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-5-A,44.0,125.0,25.44,26.25,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-5-A,56.0,57.0,25.56,25.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-5-A,125.0,150.0,26.25,26.5,,silty clay [MMK88],,silty clay ,,,,lamination,5GY 5/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A
-346-U1422E-3H-6-A,0.0,9.0,26.5,26.59,,clay [Leg210],,clay ,,,,lamination,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,9.0,29.0,26.59,26.79,calcareous bearing,clayey silt [MMK88],,calcareous bearing clayey silt ,,,,,10YR 5/8 (yellowish brown),,,,,,,,,,,,,,,,,calcareous bearing  clayey silt ,clayey silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,24.0,29.0,26.74,26.79,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,29.0,115.0,26.79,27.65,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,115.0,116.0,27.65,27.66,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,116.0,119.0,27.66,27.69,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,119.0,132.0,27.69,27.82,calcareous bearing,clayey silt [MMK88],,calcareous bearing clayey silt ,,,,,10YR 5/8 (yellowish brown),,,,,,,,,,,,,,,,,calcareous bearing  clayey silt ,clayey silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-6-A,132.0,150.0,27.82,28.0,,silty clay [MMK88],,silty clay ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A
-346-U1422E-3H-7-A,0.0,18.0,28.0,28.18,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,18.0,23.0,28.18,28.23,,clay [Leg210],,clay ,,,,lamination,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,23.0,26.0,28.23,28.26,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,26.0,44.0,28.26,28.44,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,44.0,45.0,28.44,28.45,,tephra [FS84],,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,45.0,52.0,28.45,28.52,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,52.0,56.0,28.52,28.56,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,56.0,57.0,28.56,28.57,foraminifer bearing,silt [Leg210],,foraminifer bearing silt ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,foraminifer bearing  silt ,silt ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-7-A,57.0,64.0,28.57,28.64,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A
-346-U1422E-3H-CC-A,0.0,16.0,28.64,28.8,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,CC,A
-346-U1422E-4H-1-A,0.0,27.0,28.5,28.77,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,27.0,28.0,28.77,28.78,,silty sand [MMK88],,silty sand ,,,,,,,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,28.0,33.0,28.78,28.83,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,33.0,34.0,28.83,28.84,,silty sand [MMK88],,silty sand ,,,,,,,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,34.0,97.0,28.84,29.47,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,95.0,96.0,29.45,29.46,,,,,,,,,,,,,,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,97.0,136.0,29.47,29.86,,silty clay [MMK88],,silty clay ,,,,color banding,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,136.0,138.0,29.86,29.88,foraminifer rich,sand [Leg210],,foraminifer rich sand ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  sand ,sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-1-A,138.0,150.0,29.88,30.0,,silty clay [MMK88],,silty clay ,,,,color banding,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A
-346-U1422E-4H-2-A,0.0,12.0,30.0,30.12,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-2-A,12.0,31.0,30.12,30.31,,silty clay [MMK88],,silty clay ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-2-A,31.0,76.0,30.31,30.76,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-2-A,76.0,77.0,30.76,30.77,foraminifer rich,silty sand [MMK88],,foraminifer rich silty sand ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-2-A,77.0,138.0,30.77,31.38,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-2-A,138.0,139.0,31.38,31.39,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-2-A,139.0,150.0,31.39,31.5,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A
-346-U1422E-4H-3-A,0.0,17.0,31.5,31.67,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A
-346-U1422E-4H-3-A,17.0,17.2,31.67,31.672,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A
-346-U1422E-4H-3-A,17.2,70.0,31.672,32.2,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A
-346-U1422E-4H-3-A,70.0,78.0,32.2,32.28,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A
-346-U1422E-4H-3-A,78.0,150.0,32.28,33.0,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A
-346-U1422E-4H-4-A,0.0,20.0,33.0,33.2,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A
-346-U1422E-4H-4-A,20.0,41.0,33.2,33.41,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A
-346-U1422E-4H-4-A,41.0,131.0,33.41,34.31,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A
-346-U1422E-4H-4-A,131.0,138.0,34.31,34.38,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,present [A79],,pebble [W22_2],,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A
-346-U1422E-4H-4-A,138.0,150.0,34.38,34.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A
-346-U1422E-4H-5-A,0.0,120.0,34.5,35.7,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A
-346-U1422E-4H-5-A,120.0,124.0,35.7,35.74,,silty clay [MMK88],,silty clay ,,,,,10YR 5/2 (grayish brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A
-346-U1422E-4H-5-A,124.0,124.2,35.74,35.742,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,5,A
-346-U1422E-4H-5-A,124.2,129.5,35.742,35.795,,silty clay [MMK88],,silty clay ,,,,,10YR 5/2 (grayish brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A
-346-U1422E-4H-5-A,129.5,130.0,35.795,35.8,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,5,A
-346-U1422E-4H-5-A,130.0,150.0,35.8,36.0,,silty clay [MMK88],,silty clay ,,,,,10YR 5/2 (grayish brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A
-346-U1422E-4H-6-A,0.0,27.0,36.0,36.27,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A
-346-U1422E-4H-6-A,27.0,27.2,36.27,36.272,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A
-346-U1422E-4H-6-A,27.2,69.0,36.272,36.69,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A
-346-U1422E-4H-6-A,69.0,84.0,36.69,36.84,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A
-346-U1422E-4H-6-A,84.0,150.0,36.84,37.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A
-346-U1422E-4H-7-A,0.0,30.0,37.5,37.8,,silty clay [MMK88],,silty clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A
-346-U1422E-4H-7-A,30.0,49.0,37.8,37.99,foraminifer bearing,silty clay [MMK88],,foraminifer bearing silty clay ,,,,,,,,,,,,,,,,,,,,,,foraminifer bearing  silty clay ,silty clay ,97,,,,,,,,,,foraminifer rich,sand [Leg210],,foraminifer rich  sand ,foraminifer rich sand ,sand ,,3,,,,,100,,,,,,346,U1422,E,4,H,7,A
-346-U1422E-4H-7-A,33.0,34.0,37.83,37.84,,,,,,,,,,,,present [A79],,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,7,A
-346-U1422E-4H-7-A,49.0,52.0,37.99,38.02,,silty clay [MMK88],,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A
-346-U1422E-4H-7-A,52.0,53.0,38.02,38.03,,tephra [FS84],,tephra ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A
-346-U1422E-4H-7-A,53.0,67.0,38.03,38.17,,silty clay [MMK88],,silty clay ,,,,color banding,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A
-346-U1422E-4H-CC-A,0.0,21.0,38.17,38.38,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,CC,A
-346-U1422E-5H-1-A,0.0,6.0,38.0,38.06,,clay [Leg210],,clay ,,,,,10YR 4/3 (brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,6.0,9.0,38.06,38.09,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,9.0,11.0,38.09,38.11,,clay [Leg210],,clay ,,,,,10YR 4/3 (brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,11.0,12.0,38.11,38.12,foraminifer bearing,silty sand [MMK88],,foraminifer bearing silty sand ,,,,,,,,,,,,,,,,,,,,,,foraminifer bearing  silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,12.0,35.0,38.12,38.35,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,35.0,46.0,38.35,38.46,foraminifer bearing,silty clay [MMK88],,foraminifer bearing silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,foraminifer bearing  silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,46.0,64.0,38.46,38.64,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,64.0,80.0,38.64,38.8,,clay [Leg210],,clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,80.0,110.0,38.8,39.1,,clay [Leg210],,clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,110.0,110.5,39.1,39.105,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-1-A,110.5,150.0,39.105,39.5,,clay [Leg210],,clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A
-346-U1422E-5H-2-A,0.0,7.0,39.5,39.57,,clay [Leg210],,clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,7.0,9.0,39.57,39.59,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,9.0,28.5,39.59,39.785,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,28.5,29.0,39.785,39.79,,clay [Leg210],,clay ,,,,,,,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,29.0,46.5,39.79,39.965,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,46.5,47.0,39.965,39.97,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,47.0,57.0,39.97,40.07,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,57.0,74.0,40.07,40.24,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,74.0,80.5,40.24,40.305,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,80.5,81.0,40.305,40.31,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,81.0,115.0,40.31,40.65,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,115.0,125.0,40.65,40.75,,silty clay [MMK88],,silty clay ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-2-A,125.0,150.0,40.75,41.0,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A
-346-U1422E-5H-3-A,0.0,47.0,41.0,41.47,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,47.0,48.0,41.47,41.48,,tephra [FS84],,tephra ,vitric,,,,10B 4/1 (dark bluish gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,48.0,64.0,41.48,41.64,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,64.0,66.5,41.64,41.665,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,66.5,95.0,41.665,41.95,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,95.0,96.0,41.95,41.96,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,96.0,114.0,41.96,42.14,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-3-A,114.0,150.0,42.14,42.5,,clay [Leg210],,clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A
-346-U1422E-5H-4-A,0.0,31.5,42.5,42.815,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,31.5,32.0,42.815,42.82,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,32.0,52.0,42.82,43.02,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,52.0,53.0,43.02,43.03,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,53.0,68.0,43.03,43.18,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,68.0,70.0,43.18,43.2,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,70.0,115.0,43.2,43.65,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,115.0,118.0,43.65,43.68,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-4-A,118.0,150.0,43.68,44.0,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A
-346-U1422E-5H-5-A,0.0,14.5,44.0,44.145,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,0.0,150.0,44.0,45.5,,,,,,,,,,slight [DB86],1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,14.5,14.7,44.145,44.147,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,14.7,59.0,44.147,44.59,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,59.0,59.5,44.59,44.595,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,59.5,94.5,44.595,44.945,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,94.5,95.0,44.945,44.95,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-5-A,95.0,150.0,44.95,45.5,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A
-346-U1422E-5H-6-A,0.0,150.0,45.5,47.0,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,"color banding typically in 2 to 10 cm bands, dark brown, greenish gray and light greenish gray",,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,6,A
-346-U1422E-5H-6-A,41.0,42.0,45.91,45.92,,,,,,,,,,,,present [A79],,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,5,H,6,A
-346-U1422E-5H-7-A,0.0,58.0,47.0,47.58,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,"color banding typically in 2 to 10 cm bands, dark brown, greenish gray and light greenish gray",,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,7,A
-346-U1422E-5H-CC-A,0.0,22.0,47.58,47.8,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,"color banding typically in 2 to 10 cm bands, dark brown, greenish gray and light greenish gray",,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,CC,A
-346-U1422E-6H-1-A,0.0,45.0,47.5,47.95,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A
-346-U1422E-6H-1-A,45.0,140.0,47.95,48.9,,silty clay [MMK88],,silty clay ,,,,color banding,2.5Y 5/4 (light olive brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A
-346-U1422E-6H-1-A,107.0,139.0,48.57,48.89,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,1,A
-346-U1422E-6H-1-A,140.0,142.0,48.9,48.92,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A
-346-U1422E-6H-1-A,142.0,150.0,48.92,49.0,,silty clay [MMK88],,silty clay ,,,,color banding,2.5Y 5/4 (light olive brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A
-346-U1422E-6H-2-A,0.0,11.0,49.0,49.11,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,11.0,11.5,49.11,49.115,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,11.5,44.5,49.115,49.445,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,44.5,45.0,49.445,49.45,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,45.0,49.0,49.45,49.49,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,49.0,112.5,49.49,50.125,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,107.0,108.0,50.07,50.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,112.5,113.0,50.125,50.13,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-2-A,113.0,150.0,50.13,50.5,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A
-346-U1422E-6H-3-A,0.0,30.0,50.5,50.8,,silty clay [MMK88],,silty clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,30.0,64.0,50.8,51.14,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,64.0,103.0,51.14,51.53,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,103.0,107.0,51.53,51.57,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,107.0,125.0,51.57,51.75,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,125.0,125.5,51.75,51.755,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,125.5,138.5,51.755,51.885,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,138.5,139.5,51.885,51.895,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,139.5,143.0,51.895,51.93,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,143.0,145.0,51.93,51.95,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-3-A,145.0,150.0,51.95,52.0,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A
-346-U1422E-6H-4-A,0.0,74.0,52.0,52.74,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,4,A
-346-U1422E-6H-4-A,7.0,65.0,52.07,52.65,,,,,,,,,,heavy [DB86],3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,4,A
-346-U1422E-6H-4-A,65.0,129.0,52.65,53.29,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,4,A
-346-U1422E-6H-4-A,74.0,74.5,52.74,52.745,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,4,A
-346-U1422E-6H-4-A,74.5,150.0,52.745,53.5,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,4,A
-346-U1422E-6H-4-A,129.0,150.0,53.29,53.5,,,,,,,,,,heavy [DB86],3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,4,A
-346-U1422E-6H-5-A,0.0,46.0,53.5,53.96,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,46.0,51.5,53.96,54.015,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,51.5,77.5,54.015,54.275,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,77.5,79.0,54.275,54.29,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,79.0,102.0,54.29,54.52,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,102.0,102.5,54.52,54.525,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,102.5,103.0,54.525,54.53,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,103.0,106.0,54.53,54.56,volcaniclastic rich,silty sand [MMK88],,volcaniclastic rich silty sand ,,,,normal grading,,,,,,,,,,,,,,,,,,volcaniclastic rich  silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,sharp contact,erosive,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,105.0,136.0,54.55,54.86,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-5-A,106.0,150.0,54.56,55.0,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A
-346-U1422E-6H-6-A,0.0,43.0,55.0,55.43,,silty clay [MMK88],,silty clay ,,,,,,heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,6,A
-346-U1422E-6H-CC-A,0.0,16.0,56.5,56.66,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,CC,A
-346-U1422E-6H-CC-A,16.0,18.0,56.66,56.68,,silty sand [MMK88],,silty sand ,,,,,,,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,CC,A
-346-U1422E-6H-CC-A,18.0,23.0,56.68,56.73,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,CC,A
-346-U1422E-7H-1-A,0.0,103.5,57.0,58.035,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A
-346-U1422E-7H-1-A,103.5,104.0,58.035,58.04,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A
-346-U1422E-7H-1-A,104.0,130.0,58.04,58.3,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A
-346-U1422E-7H-1-A,130.0,150.0,58.3,58.5,silty [Leg339],diatom ooze [Leg339],,silty  diatom ooze ,,,,lamination,10YR 5/4 (yellowish brown),,,,,,,,,,,,,,,,,silty   diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A
-346-U1422E-7H-2-A,0.0,9.0,58.5,58.59,silty [Leg339],diatom ooze [Leg339],,silty  diatom ooze ,,,,lamination,10YR 5/4 (yellowish brown),,,,,,,,,,,,,,,,,silty   diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A
-346-U1422E-7H-2-A,9.0,42.0,58.59,58.92,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 5/3 (brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A
-346-U1422E-7H-2-A,42.0,81.0,58.92,59.31,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A
-346-U1422E-7H-2-A,81.0,82.0,59.31,59.32,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A
-346-U1422E-7H-2-A,82.0,150.0,59.32,60.0,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A
-346-U1422E-7H-3-A,0.0,150.0,60.0,61.5,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,3,A
-346-U1422E-7H-3-A,146.0,148.0,61.46,61.48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,3,A
-346-U1422E-7H-4-A,0.0,150.0,61.5,63.0,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,4,A
-346-U1422E-7H-5-A,0.0,150.0,63.0,64.5,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,5,A
-346-U1422E-7H-5-A,60.0,80.0,63.6,63.8,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,5,A
-346-U1422E-7H-6-A,0.0,35.0,64.5,64.85,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A
-346-U1422E-7H-6-A,35.0,36.0,64.85,64.86,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A
-346-U1422E-7H-6-A,35.0,73.0,64.85,65.23,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A
-346-U1422E-7H-6-A,36.0,54.0,64.86,65.04,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A
-346-U1422E-7H-6-A,54.0,57.0,65.04,65.07,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A
-346-U1422E-7H-6-A,57.0,150.0,65.07,66.0,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A
-346-U1422E-7H-7-A,0.0,68.0,66.0,66.68,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,7,A
-346-U1422E-7H-CC-A,0.0,14.0,66.68,66.82,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,CC,A
-346-U1422E-8H-1-A,0.0,150.0,66.5,68.0,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,1,A
-346-U1422E-8H-1-A,0.0,150.0,66.5,68.0,,,,,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,1,A
-346-U1422E-8H-2-A,0.0,77.0,68.0,68.77,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,2,A
-346-U1422E-8H-2-A,77.0,80.0,68.77,68.8,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,2,A
-346-U1422E-8H-2-A,80.0,150.0,68.8,69.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,2,A
-346-U1422E-8H-3-A,0.0,95.0,69.5,70.45,,clay [Leg210],,clay,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay,clay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,3,A
-346-U1422E-8H-3-A,95.0,150.0,70.45,71.0,,clay [Leg210],,clay ,,,,,10G 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,3,A
-346-U1422E-8H-4-A,0.0,24.0,71.0,71.24,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A
-346-U1422E-8H-4-A,6.0,22.0,71.06,71.22,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A
-346-U1422E-8H-4-A,24.0,32.0,71.24,71.32,,tephra [FS84],,tephra,vitric,,,,,,,,,,,,,,,,,,,,,tephra,tephra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A
-346-U1422E-8H-4-A,32.0,150.0,71.32,72.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A
-346-U1422E-8H-5-A,2.0,6.0,72.52,72.56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,5,A
-346-U1422E-8H-5-A,109.0,117.0,73.59,73.67,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,5,A
-346-U1422E-8H-6-A,0.0,4.0,74.0,74.04,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A
-346-U1422E-8H-6-A,4.0,6.0,74.04,74.06,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A
-346-U1422E-8H-6-A,6.0,101.0,74.06,75.01,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A
-346-U1422E-8H-6-A,23.0,26.0,74.23,74.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A
-346-U1422E-8H-6-A,101.0,150.0,75.01,75.5,sandy [Leg339],tephra [FS84],,sandy  tephra ,,,,,N 8 (white),,,,,,,,,,,,,,,,,sandy   tephra ,tephra ,60,,,,,,,,,,,silty clay [MMK88],,silty clay ,silty clay ,silty clay ,10G 5/1 (greenish gray),40,,,,,100,,,,,,346,U1422,E,8,H,6,A
-346-U1422E-8H-7-A,0.0,18.0,75.5,75.68,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,80,,,,,,,,,,,tephra [FS84],,tephra ,tephra ,tephra ,,20,,,,,100,,,,,,346,U1422,E,8,H,7,A
-346-U1422E-8H-7-A,18.0,30.0,75.68,75.8,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A
-346-U1422E-8H-7-A,30.0,69.0,75.8,76.19,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A
-346-U1422E-8H-7-A,69.0,70.5,76.19,76.205,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A
-346-U1422E-8H-7-A,70.5,71.0,76.205,76.21,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A
-346-U1422E-8H-CC-A,0.0,24.0,76.21,76.45,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,CC,A
-346-U1422E-9H,0.0,170.0,76.0,77.7,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,9,H,,
-346-U1422E-10H-1-A,0.0,116.0,80.7,81.86,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A
-346-U1422E-10H-1-A,111.0,112.0,81.81,81.82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cement,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A
-346-U1422E-10H-1-A,116.0,129.0,81.86,81.99,sandy-silty [Leg339],tephra [FS84],,sandy-silty  tephra ,vitric,,,,,,,,,,,,,,,,,,,,,sandy-silty   tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A
-346-U1422E-10H-1-A,129.0,150.0,81.99,82.2,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,,10BG 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A
-346-U1422E-10H-2-A,0.0,150.0,82.2,83.7,,,,,,,,mottling [BJ80],,complete [DB86],4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,2,A
-346-U1422E-10H-3-A,0.0,8.0,83.7,83.78,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,3,A
-346-U1422E-10H-3-A,8.0,16.0,83.78,83.86,,tephra [FS84],,tephra ,,,,,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,3,A
-346-U1422E-10H-3-A,16.0,100.0,83.86,84.7,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,3,A
-346-U1422E-10H-4-A,0.0,64.0,84.7,85.34,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,4,A
-346-U1422E-10H-CC-A,0.0,17.0,85.34,85.51,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,CC,A
-346-U1422E-11H-1-A,0.0,57.0,85.4,85.97,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A
-346-U1422E-11H-1-A,57.0,58.0,85.97,85.98,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A
-346-U1422E-11H-1-A,58.0,84.0,85.98,86.24,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A
-346-U1422E-11H-1-A,84.0,88.0,86.24,86.28,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,sharp contact,erosive,,,,346,U1422,E,11,H,1,A
-346-U1422E-11H-1-A,88.0,150.0,86.28,86.9,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A
-346-U1422E-11H-2-A,0.0,150.0,86.9,88.4,,silty clay [MMK88],,silty clay ,,,,,10GY 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,2,A
-346-U1422E-11H-2-A,0.0,150.0,86.9,88.4,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,2,A
-346-U1422E-11H-2-A,0.0,150.0,86.9,88.4,,,,,,,,mottling [BJ80],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,2,A
-346-U1422E-11H-3-A,0.0,150.0,88.4,89.9,,silty clay [MMK88],,silty clay ,,,,color banding,10GY 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,3,A
-346-U1422E-11H-4-A,0.0,150.0,89.9,91.4,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,4,A
-346-U1422E-11H-5-A,0.0,150.0,91.4,92.9,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,5,A
-346-U1422E-11H-6-A,0.0,150.0,92.9,94.4,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,6,A
-346-U1422E-11H-7-A,0.0,58.0,94.4,94.98,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,7,A
-346-U1422E-11H-CC-A,0.0,13.0,94.98,95.11,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,CC,A
-346-U1422E-12H,0.0,992.0,94.9,104.82,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,90,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,10,,,,,100,,,,,,346,U1422,E,12,H,,
-346-U1422E-13H,0.0,162.0,104.4,106.02,diatom rich,silty clay [MMK88],,diatom rich silty clay,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay,silty clay,95,,,,,,,,,,,silty sand [MMK88],,silty sand,silty sand,silty sand,,5,,,,,100,,,,,,346,U1422,E,13,H,,
-346-U1422E-14H-1-A,0.0,141.0,106.0,107.41,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,14,H,1,A
-346-U1422E-14H-2-A,0.0,105.0,107.41,108.46,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,14,H,2,A
-346-U1422E-14H-3-A,0.0,140.0,108.46,109.86,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,14,H,3,A
-346-U1422E-14H-4-A,0.0,95.0,109.86,110.81,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,14,H,4,A
-346-U1422E-14H-5-A,0.0,86.0,110.81,111.67,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,14,H,5,A
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],TEPHRA type,Amount of ash in lithology,Amount of ash in lithology rank [read only],Sediment structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Lith. accessory shell fragment,Lith. accessory cement,Lith. accessory nodule/concretion,Lith. accessory sulfide,Lithological accessories comment,Macrofossil,MAJ Lith. prefix + name,MAJ Lith. name+suffix,MAJ Lith. abundance [%],MAJ Lith. ave. grain size ,MAJ Lith. ave. grain size rank [read only],MAJ Lith. max. grain size,MAJ Lith. max. grain size rank [read only],Diagenetic constituent,Diagenetic constituent composition,Deformational structures,structure,General interval comment,Minor Lithology Prefix,Minor Lithology Name,Minor Lithology Suffix,MIN Lith. prefix + name,MIN Lith. prefix+name+suffix,MIN Lith. name+suffix,MIN Lith. color,MIN Lith. abundance [%],MIN Lith. ave. grain size ,MIN Lith. ave. grain size rank,MIN Lith. max. grain size ,MIN Lith. max. grain size rank,Lith. abundance sum [%],Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+346-U1422E-1H-1-A,0.0,150.0,0.0,1.5,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,1,A,
+346-U1422E-1H-2-A,0.0,150.0,1.5,3.0,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,2,A,
+346-U1422E-1H-3-A,0.0,150.0,3.0,4.5,,silty clay [MMK88],,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,3,A,
+346-U1422E-1H-4-A,0.0,150.0,4.5,6.0,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,4,A,
+346-U1422E-1H-5-A,0.0,150.0,6.0,7.5,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,5,A,
+346-U1422E-1H-6-A,0.0,122.0,7.5,8.72,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,6,A,
+346-U1422E-1H-7-A,0.0,68.0,8.72,9.4,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,7,A,
+346-U1422E-1H-CC-A,0.0,23.0,9.4,9.63,,silty clay ,,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,1,H,CC,A,
+346-U1422E-2H-1-A,0.0,11.0,9.5,9.61,,clay ,,clay ,,,,color banding,10G 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,11.0,38.0,9.61,9.88,,silty clay ,,silty clay ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,38.0,40.0,9.88,9.9,,tephra ,,tephra ,vitric,,,,10YR 4/1 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,40.0,58.0,9.9,10.08,,clay ,,clay ,,,,color banding,5BG 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,58.0,62.0,10.08,10.12,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 4/1 (dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,62.0,64.0,10.12,10.14,,tephra ,,tephra ,vitric,,,,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,64.0,82.0,10.14,10.32,,silty clay ,,silty clay ,,,,lamination,10YR 4/1 (dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,82.0,97.0,10.32,10.47,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,97.0,98.0,10.47,10.48,,tephra ,,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,98.0,150.0,10.48,11.0,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,105.0,106.0,10.55,10.56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,114.0,126.0,10.64,10.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-1-A,137.0,138.0,10.87,10.88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,1,A,
+346-U1422E-2H-2-A,0.0,56.0,11.0,11.56,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,2,A,
+346-U1422E-2H-2-A,56.0,106.0,11.56,12.06,,silty clay [MMK88],,silty clay ,,,,inter-stratification,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,80,,,,,,,,,,,clay [Leg210],,clay ,clay ,clay ,5Y 3/2 (dark olive gray),20,,,,,100,,,,,,346,U1422,E,2,H,2,A,
+346-U1422E-2H-2-A,106.0,108.0,12.06,12.08,foraminifer rich,silt ,,foraminifer rich silt ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silt ,silt ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,2,A,
+346-U1422E-2H-2-A,108.0,111.0,12.08,12.11,,silty clay ,,silty clay ,,,,inter-stratification,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,80,,,,,,,,,,,clay ,,clay ,clay ,clay ,5Y 3/2 (dark olive gray),20,,,,,100,,,,,,346,U1422,E,2,H,2,A,
+346-U1422E-2H-2-A,111.0,150.0,12.11,12.5,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,2,A,
+346-U1422E-2H-2-A,130.0,137.0,12.3,12.37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,2,A,
+346-U1422E-2H-3-A,0.0,101.0,12.5,13.51,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,101.0,112.0,13.51,13.62,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,112.0,125.5,13.62,13.755,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,125.5,136.5,13.755,13.865,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,136.5,137.0,13.865,13.87,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,137.0,138.5,13.87,13.885,,tephra ,,tephra ,,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,138.5,147.7,13.885,13.977,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-3-A,147.7,150.0,13.977,14.0,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,3,A,
+346-U1422E-2H-4-A,0.0,34.0,14.0,14.34,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A,
+346-U1422E-2H-4-A,34.0,35.0,14.34,14.35,,silty sand ,,silty sand ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A,
+346-U1422E-2H-4-A,35.0,132.0,14.35,15.32,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A,
+346-U1422E-2H-4-A,132.0,136.0,15.32,15.36,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A,
+346-U1422E-2H-4-A,136.0,137.0,15.36,15.37,,silty sand ,,silty sand ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A,
+346-U1422E-2H-4-A,137.0,150.0,15.37,15.5,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,4,A,
+346-U1422E-2H-5-A,0.0,22.0,15.5,15.72,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A,
+346-U1422E-2H-5-A,22.0,23.0,15.72,15.73,,silty sand [MMK88],,silty sand ,,,,,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A,
+346-U1422E-2H-5-A,23.0,30.0,15.73,15.8,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A,
+346-U1422E-2H-5-A,30.0,150.0,15.8,17.0,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,5,A,
+346-U1422E-2H-5-A,72.0,79.0,16.22,16.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,5,A,
+346-U1422E-2H-6-A,0.0,4.0,17.0,17.04,,silty clay ,,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A,
+346-U1422E-2H-6-A,4.0,11.0,17.04,17.11,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A,
+346-U1422E-2H-6-A,11.0,20.0,17.11,17.2,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A,
+346-U1422E-2H-6-A,20.0,39.0,17.2,17.39,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A,
+346-U1422E-2H-6-A,34.0,35.0,17.34,17.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,2,H,6,A,
+346-U1422E-2H-6-A,39.0,150.0,17.39,18.5,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,6,A,
+346-U1422E-2H-7-A,0.0,6.0,18.5,18.56,,silty clay ,,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A,
+346-U1422E-2H-7-A,6.0,15.5,18.56,18.655,calcareous bearing,clay ,,calcareous bearing clay ,,,,,2.5Y 6/2 (light brownish gray),,,,,,,,,,,,,,,,,calcareous bearing  clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A,
+346-U1422E-2H-7-A,15.5,42.0,18.655,18.92,,silty clay [MMK88],,silty clay ,,,,color banding,5Y 5/1 (gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A,
+346-U1422E-2H-7-A,42.0,51.0,18.92,19.01,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,7,A,
+346-U1422E-2H-CC-A,0.0,12.0,19.01,19.13,,silty clay ,,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,2,H,CC,A,
+346-U1422E-3H-1-A,0.0,20.0,19.0,19.2,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/1 (very dark gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,19.0,27.0,19.19,19.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,20.0,60.0,19.2,19.6,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,42.0,45.0,19.42,19.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,microfault,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,60.0,61.0,19.6,19.61,foraminifer rich,silt [Leg210],,foraminifer rich silt ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silt ,silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,61.0,75.0,19.61,19.75,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,75.0,92.0,19.75,19.92,,silty clay ,,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,92.0,93.0,19.92,19.93,foraminifer rich,silt ,,foraminifer rich silt ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silt ,silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,93.0,114.0,19.93,20.14,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,99.0,100.0,19.99,20.0,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,114.0,119.0,20.14,20.19,,silty clay ,,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,119.0,122.0,20.19,20.22,,silty clay ,,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,122.0,123.0,20.22,20.23,,tephra [FS84],,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,123.0,129.0,20.23,20.29,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,129.0,136.0,20.29,20.36,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,136.0,137.0,20.36,20.37,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,137.0,138.0,20.37,20.38,,tephra ,,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-1-A,138.0,150.0,20.38,20.5,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,1,A,
+346-U1422E-3H-2-A,0.0,6.0,20.5,20.56,,clay [Leg210],,clay ,,,,lamination,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A,
+346-U1422E-3H-2-A,6.0,17.0,20.56,20.67,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A,
+346-U1422E-3H-2-A,17.0,18.0,20.67,20.68,,tephra [FS84],,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A,
+346-U1422E-3H-2-A,18.0,21.0,20.68,20.71,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,2,A,
+346-U1422E-3H-2-A,21.0,33.0,20.71,20.83,,,,,,,,,,slight [DB86],1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,2,A,
+346-U1422E-3H-2-A,21.0,150.0,20.71,22.0,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,2,A,
+346-U1422E-3H-3-A,0.0,50.0,22.0,22.5,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bands are dark greenish gray.,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,0.0,59.0,22.0,22.59,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,59.0,60.0,22.59,22.6,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,60.0,88.0,22.6,22.88,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,88.0,102.0,22.88,23.02,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,102.0,103.0,23.02,23.03,,,,,,,,,,,,present [A79],1,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,102.0,115.0,23.02,23.15,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,115.0,116.0,23.15,23.16,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-3-A,116.0,150.0,23.16,23.5,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,3,A,
+346-U1422E-3H-4-A,0.0,4.0,23.5,23.54,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,4.0,10.5,23.54,23.605,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,10.5,23.0,23.605,23.73,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,23.0,24.5,23.73,23.745,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,24.5,25.0,23.745,23.75,,tephra [FS84],,tephra ,vitric,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,25.0,26.0,23.75,23.76,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,26.0,65.0,23.76,24.15,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,65.0,67.0,24.15,24.17,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,67.0,95.0,24.17,24.45,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,95.0,98.0,24.45,24.48,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,98.0,101.0,24.48,24.51,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,101.0,103.0,24.51,24.53,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,103.0,112.0,24.53,24.62,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,112.0,134.0,24.62,24.84,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-4-A,134.0,150.0,24.84,25.0,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,4,A,
+346-U1422E-3H-5-A,0.0,6.0,25.0,25.06,,clay [Leg210],,clay ,,,,lamination,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-5-A,6.0,11.0,25.06,25.11,,silty clay [MMK88],,silty clay ,,,,,5Y 3/2 (dark olive gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-5-A,11.0,39.0,25.11,25.39,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-5-A,39.0,44.0,25.39,25.44,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-5-A,44.0,125.0,25.44,26.25,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-5-A,56.0,57.0,25.56,25.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,Pyrite nodule.,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-5-A,125.0,150.0,26.25,26.5,,silty clay [MMK88],,silty clay ,,,,lamination,5GY 5/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,5,A,
+346-U1422E-3H-6-A,0.0,9.0,26.5,26.59,,clay [Leg210],,clay ,,,,lamination,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,9.0,29.0,26.59,26.79,calcareous bearing,clayey silt [MMK88],,calcareous bearing clayey silt ,,,,,10YR 5/8 (yellowish brown),,,,,,,,,,,,,,,,,calcareous bearing  clayey silt ,clayey silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,24.0,29.0,26.74,26.79,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,29.0,115.0,26.79,27.65,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,115.0,116.0,27.65,27.66,,tephra [FS84],,tephra ,vitric,,,,N 7 (light gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,116.0,119.0,27.66,27.69,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,119.0,132.0,27.69,27.82,calcareous bearing,clayey silt [MMK88],,calcareous bearing clayey silt ,,,,,10YR 5/8 (yellowish brown),,,,,,,,,,,,,,,,,calcareous bearing  clayey silt ,clayey silt ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-6-A,132.0,150.0,27.82,28.0,,silty clay [MMK88],,silty clay ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,6,A,
+346-U1422E-3H-7-A,0.0,18.0,28.0,28.18,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,18.0,23.0,28.18,28.23,,clay [Leg210],,clay ,,,,lamination,5G 5/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,23.0,26.0,28.23,28.26,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,26.0,44.0,28.26,28.44,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,44.0,45.0,28.44,28.45,,tephra [FS84],,tephra ,vitric,,,,N 6 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,45.0,52.0,28.45,28.52,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,52.0,56.0,28.52,28.56,,silty clay [MMK88],,silty clay ,,,,lamination,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,56.0,57.0,28.56,28.57,foraminifer bearing,silt [Leg210],,foraminifer bearing silt ,,,,,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,foraminifer bearing  silt ,silt ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-7-A,57.0,64.0,28.57,28.64,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,7,A,
+346-U1422E-3H-CC-A,0.0,16.0,28.64,28.8,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,3,H,CC,A,
+346-U1422E-4H-1-A,0.0,27.0,28.5,28.77,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,27.0,28.0,28.77,28.78,,silty sand [MMK88],,silty sand ,,,,,,,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,28.0,33.0,28.78,28.83,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,33.0,34.0,28.83,28.84,,silty sand [MMK88],,silty sand ,,,,,,,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,34.0,97.0,28.84,29.47,,clay [Leg210],,clay ,,,,,10BG 6/1 (greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,95.0,96.0,29.45,29.46,,,,,,,,,,,,,,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,97.0,136.0,29.47,29.86,,silty clay [MMK88],,silty clay ,,,,color banding,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,136.0,138.0,29.86,29.88,foraminifer rich,sand [Leg210],,foraminifer rich sand ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  sand ,sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-1-A,138.0,150.0,29.88,30.0,,silty clay [MMK88],,silty clay ,,,,color banding,5Y 3/2 (dark olive gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,1,A,
+346-U1422E-4H-2-A,0.0,12.0,30.0,30.12,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-2-A,12.0,31.0,30.12,30.31,,silty clay [MMK88],,silty clay ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-2-A,31.0,76.0,30.31,30.76,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-2-A,76.0,77.0,30.76,30.77,foraminifer rich,silty sand [MMK88],,foraminifer rich silty sand ,,,,,,,,,,,,,,,,,,,,,,foraminifer rich  silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-2-A,77.0,138.0,30.77,31.38,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-2-A,138.0,139.0,31.38,31.39,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-2-A,139.0,150.0,31.39,31.5,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,2,A,
+346-U1422E-4H-3-A,0.0,17.0,31.5,31.67,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A,
+346-U1422E-4H-3-A,17.0,17.2,31.67,31.672,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A,
+346-U1422E-4H-3-A,17.2,70.0,31.672,32.2,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A,
+346-U1422E-4H-3-A,70.0,78.0,32.2,32.28,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A,
+346-U1422E-4H-3-A,78.0,150.0,32.28,33.0,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,3,A,
+346-U1422E-4H-4-A,0.0,20.0,33.0,33.2,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A,
+346-U1422E-4H-4-A,20.0,41.0,33.2,33.41,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A,
+346-U1422E-4H-4-A,41.0,131.0,33.41,34.31,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A,
+346-U1422E-4H-4-A,131.0,138.0,34.31,34.38,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,present [A79],,pebble [W22_2],,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A,
+346-U1422E-4H-4-A,138.0,150.0,34.38,34.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,4,A,
+346-U1422E-4H-5-A,0.0,120.0,34.5,35.7,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A,
+346-U1422E-4H-5-A,120.0,124.0,35.7,35.74,,silty clay [MMK88],,silty clay ,,,,,10YR 5/2 (grayish brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A,
+346-U1422E-4H-5-A,124.0,124.2,35.74,35.742,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,5,A,
+346-U1422E-4H-5-A,124.2,129.5,35.742,35.795,,silty clay [MMK88],,silty clay ,,,,,10YR 5/2 (grayish brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A,
+346-U1422E-4H-5-A,129.5,130.0,35.795,35.8,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,5,A,
+346-U1422E-4H-5-A,130.0,150.0,35.8,36.0,,silty clay [MMK88],,silty clay ,,,,,10YR 5/2 (grayish brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,5,A,
+346-U1422E-4H-6-A,0.0,27.0,36.0,36.27,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A,
+346-U1422E-4H-6-A,27.0,27.2,36.27,36.272,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A,
+346-U1422E-4H-6-A,27.2,69.0,36.272,36.69,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A,
+346-U1422E-4H-6-A,69.0,84.0,36.69,36.84,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A,
+346-U1422E-4H-6-A,84.0,150.0,36.84,37.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,6,A,
+346-U1422E-4H-7-A,0.0,30.0,37.5,37.8,,silty clay [MMK88],,silty clay ,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A,
+346-U1422E-4H-7-A,30.0,49.0,37.8,37.99,foraminifer bearing,silty clay [MMK88],,foraminifer bearing silty clay ,,,,,,,,,,,,,,,,,,,,,,foraminifer bearing  silty clay ,silty clay ,97,,,,,,,,,,foraminifer rich,sand [Leg210],,foraminifer rich  sand ,foraminifer rich sand ,sand ,,3,,,,,100,,,,,,346,U1422,E,4,H,7,A,
+346-U1422E-4H-7-A,33.0,34.0,37.83,37.84,,,,,,,,,,,,present [A79],,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,4,H,7,A,
+346-U1422E-4H-7-A,49.0,52.0,37.99,38.02,,silty clay [MMK88],,silty clay ,,,,,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A,
+346-U1422E-4H-7-A,52.0,53.0,38.02,38.03,,tephra [FS84],,tephra ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A,
+346-U1422E-4H-7-A,53.0,67.0,38.03,38.17,,silty clay [MMK88],,silty clay ,,,,color banding,,,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,7,A,
+346-U1422E-4H-CC-A,0.0,21.0,38.17,38.38,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,4,H,CC,A,
+346-U1422E-5H-1-A,0.0,6.0,38.0,38.06,,clay [Leg210],,clay ,,,,,10YR 4/3 (brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,6.0,9.0,38.06,38.09,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,9.0,11.0,38.09,38.11,,clay [Leg210],,clay ,,,,,10YR 4/3 (brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,11.0,12.0,38.11,38.12,foraminifer bearing,silty sand [MMK88],,foraminifer bearing silty sand ,,,,,,,,,,,,,,,,,,,,,,foraminifer bearing  silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,12.0,35.0,38.12,38.35,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,35.0,46.0,38.35,38.46,foraminifer bearing,silty clay [MMK88],,foraminifer bearing silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,foraminifer bearing  silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,46.0,64.0,38.46,38.64,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,64.0,80.0,38.64,38.8,,clay [Leg210],,clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,80.0,110.0,38.8,39.1,,clay [Leg210],,clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,110.0,110.5,39.1,39.105,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-1-A,110.5,150.0,39.105,39.5,,clay [Leg210],,clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,1,A,
+346-U1422E-5H-2-A,0.0,7.0,39.5,39.57,,clay [Leg210],,clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,7.0,9.0,39.57,39.59,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,9.0,28.5,39.59,39.785,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,28.5,29.0,39.785,39.79,,clay [Leg210],,clay ,,,,,,,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,29.0,46.5,39.79,39.965,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,46.5,47.0,39.965,39.97,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,47.0,57.0,39.97,40.07,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,57.0,74.0,40.07,40.24,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,74.0,80.5,40.24,40.305,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,80.5,81.0,40.305,40.31,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,81.0,115.0,40.31,40.65,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,115.0,125.0,40.65,40.75,,silty clay [MMK88],,silty clay ,,,,,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-2-A,125.0,150.0,40.75,41.0,,silty clay [MMK88],,silty clay ,,,,color banding,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,2,A,
+346-U1422E-5H-3-A,0.0,47.0,41.0,41.47,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,47.0,48.0,41.47,41.48,,tephra [FS84],,tephra ,vitric,,,,10B 4/1 (dark bluish gray),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,48.0,64.0,41.48,41.64,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,64.0,66.5,41.64,41.665,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,66.5,95.0,41.665,41.95,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,95.0,96.0,41.95,41.96,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,96.0,114.0,41.96,42.14,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-3-A,114.0,150.0,42.14,42.5,,clay [Leg210],,clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,3,A,
+346-U1422E-5H-4-A,0.0,31.5,42.5,42.815,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,31.5,32.0,42.815,42.82,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,32.0,52.0,42.82,43.02,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,52.0,53.0,43.02,43.03,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,53.0,68.0,43.03,43.18,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,68.0,70.0,43.18,43.2,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,70.0,115.0,43.2,43.65,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,115.0,118.0,43.65,43.68,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-4-A,118.0,150.0,43.68,44.0,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,4,A,
+346-U1422E-5H-5-A,0.0,14.5,44.0,44.145,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,0.0,150.0,44.0,45.5,,,,,,,,,,slight [DB86],1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,14.5,14.7,44.145,44.147,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,14.7,59.0,44.147,44.59,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,59.0,59.5,44.59,44.595,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,59.5,94.5,44.595,44.945,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,94.5,95.0,44.945,44.95,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-5-A,95.0,150.0,44.95,45.5,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,5,A,
+346-U1422E-5H-6-A,0.0,150.0,45.5,47.0,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,"color banding typically in 2 to 10 cm bands, dark brown, greenish gray and light greenish gray",,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,6,A,
+346-U1422E-5H-6-A,41.0,42.0,45.91,45.92,,,,,,,,,,,,present [A79],,pebble [W22_2],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,5,H,6,A,
+346-U1422E-5H-7-A,0.0,58.0,47.0,47.58,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,"color banding typically in 2 to 10 cm bands, dark brown, greenish gray and light greenish gray",,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,7,A,
+346-U1422E-5H-CC-A,0.0,22.0,47.58,47.8,,clay [Leg210],,clay ,,,,color banding,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,"color banding typically in 2 to 10 cm bands, dark brown, greenish gray and light greenish gray",,,,,,,,,,,,,100,,,,,,346,U1422,E,5,H,CC,A,
+346-U1422E-6H-1-A,0.0,45.0,47.5,47.95,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A,
+346-U1422E-6H-1-A,45.0,140.0,47.95,48.9,,silty clay [MMK88],,silty clay ,,,,color banding,2.5Y 5/4 (light olive brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A,
+346-U1422E-6H-1-A,107.0,139.0,48.57,48.89,,,,,,,,lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,1,A,
+346-U1422E-6H-1-A,140.0,142.0,48.9,48.92,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A,
+346-U1422E-6H-1-A,142.0,150.0,48.92,49.0,,silty clay [MMK88],,silty clay ,,,,color banding,2.5Y 5/4 (light olive brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,1,A,
+346-U1422E-6H-2-A,0.0,11.0,49.0,49.11,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,11.0,11.5,49.11,49.115,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,11.5,44.5,49.115,49.445,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,44.5,45.0,49.445,49.45,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,45.0,49.0,49.45,49.49,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,49.0,112.5,49.49,50.125,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,107.0,108.0,50.07,50.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,sulfide,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,112.5,113.0,50.125,50.13,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-2-A,113.0,150.0,50.13,50.5,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,2,A,
+346-U1422E-6H-3-A,0.0,30.0,50.5,50.8,,silty clay [MMK88],,silty clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,30.0,64.0,50.8,51.14,,silty clay [MMK88],,silty clay ,,,,lamination,10YR 3/3 (dark brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,64.0,103.0,51.14,51.53,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,103.0,107.0,51.53,51.57,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,107.0,125.0,51.57,51.75,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,125.0,125.5,51.75,51.755,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,125.5,138.5,51.755,51.885,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,138.5,139.5,51.885,51.895,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,139.5,143.0,51.895,51.93,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,143.0,145.0,51.93,51.95,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-3-A,145.0,150.0,51.95,52.0,,silty clay [MMK88],,silty clay ,,,,color banding,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,3,A,
+346-U1422E-6H-4-A,0.0,74.0,52.0,52.74,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,4,A,
+346-U1422E-6H-4-A,7.0,65.0,52.07,52.65,,,,,,,,,,heavy [DB86],3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,4,A,
+346-U1422E-6H-4-A,65.0,129.0,52.65,53.29,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,4,A,
+346-U1422E-6H-4-A,74.0,74.5,52.74,52.745,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,4,A,
+346-U1422E-6H-4-A,74.5,150.0,52.745,53.5,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,4,A,
+346-U1422E-6H-4-A,129.0,150.0,53.29,53.5,,,,,,,,,,heavy [DB86],3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,4,A,
+346-U1422E-6H-5-A,0.0,46.0,53.5,53.96,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,46.0,51.5,53.96,54.015,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,51.5,77.5,54.015,54.275,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,77.5,79.0,54.275,54.29,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,79.0,102.0,54.29,54.52,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,102.0,102.5,54.52,54.525,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,102.5,103.0,54.525,54.53,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,103.0,106.0,54.53,54.56,volcaniclastic rich,silty sand [MMK88],,volcaniclastic rich silty sand ,,,,normal grading,,,,,,,,,,,,,,,,,,volcaniclastic rich  silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,sharp contact,erosive,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,105.0,136.0,54.55,54.86,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-5-A,106.0,150.0,54.56,55.0,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,5,A,
+346-U1422E-6H-6-A,0.0,43.0,55.0,55.43,,silty clay [MMK88],,silty clay ,,,,,,heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,6,A,
+346-U1422E-6H-CC-A,0.0,16.0,56.5,56.66,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,CC,A,
+346-U1422E-6H-CC-A,16.0,18.0,56.66,56.68,,silty sand [MMK88],,silty sand ,,,,,,,,,,,,,,,,,,,,,,silty sand ,silty sand ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,CC,A,
+346-U1422E-6H-CC-A,18.0,23.0,56.68,56.73,,silty clay [MMK88],,silty clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,6,H,CC,A,
+346-U1422E-7H-1-A,0.0,103.5,57.0,58.035,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A,
+346-U1422E-7H-1-A,103.5,104.0,58.035,58.04,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A,
+346-U1422E-7H-1-A,104.0,130.0,58.04,58.3,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A,
+346-U1422E-7H-1-A,130.0,150.0,58.3,58.5,silty [Leg339],diatom ooze [Leg339],,silty  diatom ooze ,,,,lamination,10YR 5/4 (yellowish brown),,,,,,,,,,,,,,,,,silty   diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,1,A,
+346-U1422E-7H-2-A,0.0,9.0,58.5,58.59,silty [Leg339],diatom ooze [Leg339],,silty  diatom ooze ,,,,lamination,10YR 5/4 (yellowish brown),,,,,,,,,,,,,,,,,silty   diatom ooze ,diatom ooze ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A,
+346-U1422E-7H-2-A,9.0,42.0,58.59,58.92,,silty clay [MMK88],,silty clay ,,,,color banding,10YR 5/3 (brown),,,,,,,,,,,,,,,,,silty clay ,silty clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A,
+346-U1422E-7H-2-A,42.0,81.0,58.92,59.31,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A,
+346-U1422E-7H-2-A,81.0,82.0,59.31,59.32,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A,
+346-U1422E-7H-2-A,82.0,150.0,59.32,60.0,,clay [Leg210],,clay ,,,,,10G 7/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,2,A,
+346-U1422E-7H-3-A,0.0,150.0,60.0,61.5,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,100,,,,,,,,,,,,,,,,,,,,,,100,,,,,,346,U1422,E,7,H,3,A,
+346-U1422E-7H-3-A,146.0,148.0,61.46,61.48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,3,A,
+346-U1422E-7H-4-A,0.0,150.0,61.5,63.0,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,4,A,
+346-U1422E-7H-5-A,0.0,150.0,63.0,64.5,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,5,A,
+346-U1422E-7H-5-A,60.0,80.0,63.6,63.8,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,5,A,
+346-U1422E-7H-6-A,0.0,35.0,64.5,64.85,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A,
+346-U1422E-7H-6-A,35.0,36.0,64.85,64.86,,tephra [FS84],,tephra ,vitric,,,,2.5Y 8/1 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A,
+346-U1422E-7H-6-A,35.0,73.0,64.85,65.23,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A,
+346-U1422E-7H-6-A,36.0,54.0,64.86,65.04,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A,
+346-U1422E-7H-6-A,54.0,57.0,65.04,65.07,,tephra [FS84],,tephra ,vitric,,,,N 5 (gray),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A,
+346-U1422E-7H-6-A,57.0,150.0,65.07,66.0,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,6,A,
+346-U1422E-7H-7-A,0.0,68.0,66.0,66.68,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,7,A,
+346-U1422E-7H-CC-A,0.0,14.0,66.68,66.82,,clay [Leg210],,clay ,,,,structureless,10G 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,7,H,CC,A,
+346-U1422E-8H-1-A,0.0,150.0,66.5,68.0,,clay [Leg210],,clay ,,,,,10BG 8/1 (light greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,1,A,
+346-U1422E-8H-1-A,0.0,150.0,66.5,68.0,,,,,,,,,10BG 7/1 (light greenish gray),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,1,A,
+346-U1422E-8H-2-A,0.0,77.0,68.0,68.77,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,2,A,
+346-U1422E-8H-2-A,77.0,80.0,68.77,68.8,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,2,A,
+346-U1422E-8H-2-A,80.0,150.0,68.8,69.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,2,A,
+346-U1422E-8H-3-A,0.0,95.0,69.5,70.45,,clay [Leg210],,clay,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay,clay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,3,A,
+346-U1422E-8H-3-A,95.0,150.0,70.45,71.0,,clay [Leg210],,clay ,,,,,10G 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,3,A,
+346-U1422E-8H-4-A,0.0,24.0,71.0,71.24,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A,
+346-U1422E-8H-4-A,6.0,22.0,71.06,71.22,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A,
+346-U1422E-8H-4-A,24.0,32.0,71.24,71.32,,tephra [FS84],,tephra,vitric,,,,,,,,,,,,,,,,,,,,,tephra,tephra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A,
+346-U1422E-8H-4-A,32.0,150.0,71.32,72.5,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,4,A,
+346-U1422E-8H-5-A,2.0,6.0,72.52,72.56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,5,A,
+346-U1422E-8H-5-A,109.0,117.0,73.59,73.67,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,5,A,
+346-U1422E-8H-6-A,0.0,4.0,74.0,74.04,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A,
+346-U1422E-8H-6-A,4.0,6.0,74.04,74.06,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A,
+346-U1422E-8H-6-A,6.0,101.0,74.06,75.01,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A,
+346-U1422E-8H-6-A,23.0,26.0,74.23,74.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nodule,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,6,A,
+346-U1422E-8H-6-A,101.0,150.0,75.01,75.5,sandy [Leg339],tephra [FS84],,sandy  tephra ,,,,,N 8 (white),,,,,,,,,,,,,,,,,sandy   tephra ,tephra ,60,,,,,,,,,,,silty clay [MMK88],,silty clay ,silty clay ,silty clay ,10G 5/1 (greenish gray),40,,,,,100,,,,,,346,U1422,E,8,H,6,A,
+346-U1422E-8H-7-A,0.0,18.0,75.5,75.68,,silty clay [MMK88],,silty clay ,,,,,10BG 6/1 (greenish gray),,,,,,,,,,,,,,,,,silty clay ,silty clay ,80,,,,,,,,,,,tephra [FS84],,tephra ,tephra ,tephra ,,20,,,,,100,,,,,,346,U1422,E,8,H,7,A,
+346-U1422E-8H-7-A,18.0,30.0,75.68,75.8,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A,
+346-U1422E-8H-7-A,30.0,69.0,75.8,76.19,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A,
+346-U1422E-8H-7-A,69.0,70.5,76.19,76.205,,tephra [FS84],,tephra ,,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A,
+346-U1422E-8H-7-A,70.5,71.0,76.205,76.21,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,7,A,
+346-U1422E-8H-CC-A,0.0,24.0,76.21,76.45,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,8,H,CC,A,
+346-U1422E-9H,0.0,170.0,76.0,77.7,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),slight [DB86],1,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,9,H,,,
+346-U1422E-10H-1-A,0.0,116.0,80.7,81.86,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A,
+346-U1422E-10H-1-A,111.0,112.0,81.81,81.82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cement,carbonate,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A,
+346-U1422E-10H-1-A,116.0,129.0,81.86,81.99,sandy-silty [Leg339],tephra [FS84],,sandy-silty  tephra ,vitric,,,,,,,,,,,,,,,,,,,,,sandy-silty   tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A,
+346-U1422E-10H-1-A,129.0,150.0,81.99,82.2,diatom bearing,clay [Leg210],,diatom bearing clay ,,,,,10BG 5/1 (greenish gray),,,,,,,,,,,,,,,,,diatom bearing  clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,1,A,
+346-U1422E-10H-2-A,0.0,150.0,82.2,83.7,,,,,,,,mottling [BJ80],,complete [DB86],4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,2,A,
+346-U1422E-10H-3-A,0.0,8.0,83.7,83.78,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,3,A,
+346-U1422E-10H-3-A,8.0,16.0,83.78,83.86,,tephra [FS84],,tephra ,,,,,N 8 (white),,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,3,A,
+346-U1422E-10H-3-A,16.0,100.0,83.86,84.7,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,3,A,
+346-U1422E-10H-4-A,0.0,64.0,84.7,85.34,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,4,A,
+346-U1422E-10H-CC-A,0.0,17.0,85.34,85.51,,clay [Leg210],,clay ,,,,,10BG 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,10,H,CC,A,
+346-U1422E-11H-1-A,0.0,57.0,85.4,85.97,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A,
+346-U1422E-11H-1-A,57.0,58.0,85.97,85.98,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A,
+346-U1422E-11H-1-A,58.0,84.0,85.98,86.24,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A,
+346-U1422E-11H-1-A,84.0,88.0,86.24,86.28,,tephra [FS84],,tephra ,vitric,,,,,,,,,,,,,,,,,,,,,tephra ,tephra ,,,,,,,,,,,,,,,,,,,,,,,,sharp contact,erosive,,,,346,U1422,E,11,H,1,A,
+346-U1422E-11H-1-A,88.0,150.0,86.28,86.9,,clay [Leg210],,clay ,,,,,10BG 7/1 (light greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,clay ,clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,1,A,
+346-U1422E-11H-2-A,0.0,150.0,86.9,88.4,,silty clay [MMK88],,silty clay ,,,,,10GY 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,2,A,
+346-U1422E-11H-2-A,0.0,150.0,86.9,88.4,,,,,,,,color banding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,2,A,
+346-U1422E-11H-2-A,0.0,150.0,86.9,88.4,,,,,,,,mottling [BJ80],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,2,A,
+346-U1422E-11H-3-A,0.0,150.0,88.4,89.9,,silty clay [MMK88],,silty clay ,,,,color banding,10GY 5/1 (greenish gray),heavy [DB86],3,,,,,,,,,,,,,,,silty clay ,silty clay ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,11,H,3,A,
+346-U1422E-11H-4-A,0.0,150.0,89.9,91.4,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,4,A,
+346-U1422E-11H-5-A,0.0,150.0,91.4,92.9,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,5,A,
+346-U1422E-11H-6-A,0.0,150.0,92.9,94.4,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,6,A,
+346-U1422E-11H-7-A,0.0,58.0,94.4,94.98,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,7,A,
+346-U1422E-11H-CC-A,0.0,13.0,94.98,95.11,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,color banding,,heavy [DB86],3,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,11,H,CC,A,
+346-U1422E-12H,0.0,992.0,94.9,104.82,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,90,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,10,,,,,100,,,,,,346,U1422,E,12,H,,,
+346-U1422E-13H,0.0,162.0,104.4,106.02,diatom rich,silty clay [MMK88],,diatom rich silty clay,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay,silty clay,95,,,,,,,,,,,silty sand [MMK88],,silty sand,silty sand,silty sand,,5,,,,,100,,,,,,346,U1422,E,13,H,,,
+346-U1422E-14H-1-A,0.0,141.0,106.0,107.41,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,14,H,1,A,
+346-U1422E-14H-2-A,0.0,105.0,107.41,108.46,diatom rich,silty clay [MMK88],,diatom rich silty clay ,,,,mottling [BJ80],10G 4/1 (dark greenish gray),complete [DB86],4,,,,,,,,,,,,,,,diatom rich  silty clay ,silty clay ,94,,,,,,,,,,,silty sand [MMK88],,silty sand ,silty sand ,silty sand ,,6,,,,,100,,,,,,346,U1422,E,14,H,2,A,
+346-U1422E-14H-3-A,0.0,140.0,108.46,109.86,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,14,H,3,A,
+346-U1422E-14H-4-A,0.0,95.0,109.86,110.81,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,14,H,4,A,
+346-U1422E-14H-5-A,0.0,86.0,110.81,111.67,,sand [Leg210],,sand ,,,,,,,,,,,,,,,,,,,,,,sand ,sand ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,346,U1422,E,14,H,5,A,

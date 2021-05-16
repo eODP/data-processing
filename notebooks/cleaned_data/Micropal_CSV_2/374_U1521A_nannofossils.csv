@@ -1,27 +1,27 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group Abundance,Calcidiscus leptoporus,Chiasmolithus spp.,Coccolithus pelagicus,Cyclicargolithus cf. floridanus,Cyclicargolithus floridanus,Dictyococcites antarcticus,Reticulofenestra daviesii,Reticulofenestra hampdenensis,Reticulofenestra lockeri ,Reticulofenestra minuta,Reticulofenestra minutula,Reticulofenestra umbilicus,Thoracosphaera spp.,Nannofossil fragments,Comments,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-374-U1521A-1R-1-A 13/13-SS1,0,0,0.13,0.13,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,1,R,1,A
-374-U1521A-1R-4-A 34/34-SS5,0,0,3.84,3.84,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,1,R,4,A
-374-U1521A-2R-CC-PAL-NANNO,0,5,8.51,8.56,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,2,R,CC,PAL
-374-U1521A-3R-CC-PAL-NANNO,0,7,19.36,19.43,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,3,R,CC,PAL
-374-U1521A-9R-CC-PAL-NANNO,0,5,77.69,77.74,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,9,R,CC,PAL
-374-U1521A-11R-CC-PAL-NANNO,0,5,95.48,95.53,,,,,,,,,,,,,,,?,,,,,,374,U1521,A,11,R,CC,PAL
-374-U1521A-14R-CC-PAL-NANNO,0,7,122.86,122.93,M,VR,,,,,,,,,,,,*,,,Reworked R. umbilicus fragment,,,,374,U1521,A,14,R,CC,PAL
-374-U1521A-18R-CC-PAL-NANNO,0,5,167.83,167.88,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,18,R,CC,PAL
-374-U1521A-20R-CC-PAL-NANNO,0,7,189.42,189.49,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,20,R,CC,PAL
-374-U1521A-21R-CC-PAL-NANNO,0,5,198.5,198.55,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,21,R,CC,PAL
-374-U1521A-26R-CC-PAL-NANNO,0,5,244.6,244.65,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,26,R,CC,PAL
-374-U1521A-28R-CC-PAL-NANNO,0,5,262.96,263.01,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,28,R,CC,PAL
-374-U1521A-30R-CC-PAL-NANNO,0,5,282.38,282.43,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,30,R,CC,PAL
-374-U1521A-49R-CC-PAL-NANNO,0,5,438.89,438.94,P,VR,,,,,,,,,,,,,,VR,,,,,374,U1521,A,49,R,CC,PAL
-374-U1521A-54R-CC-PAL-NANNO,0,5,487.35,487.4,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,54,R,CC,PAL
-374-U1521A-56R-CC-PAL-NANNO,0,5,504.38,504.43,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,56,R,CC,PAL
-374-U1521A-57R-CC-PAL-NANNO,0,5,515.08,515.13,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,57,R,CC,PAL
-374-U1521A-58R-2-W 82/82-NANNO,0,0,517.82,517.82,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,58,R,2,W
-374-U1521A-58R-6-W 46/46-NANNO,0,0,523.2,523.2,M,VR,,,fr,,,,,,,,,,,,Glauconite,,,,374,U1521,A,58,R,6,W
-374-U1521A-58R-CC-PAL-NANNO,0,5,524.38,524.43,M,VR,,?,fr,VR,,,,,,,,,,,Possible Chiasmolithus rim fragment (reworked),,,,374,U1521,A,58,R,CC,PAL
-374-U1521A-59R-1-W 63/63-NANNO,0,0,525.93,525.93,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,59,R,1,W
-374-U1521A-59R-CC-PAL-NANNO,0,5,532.74,532.79,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,59,R,CC,PAL
-374-U1521A-60R-CC-PAL-NANNO,0,5,543.89,543.94,M,VR,,,,,,VR,,,VR,,,,fr,,,,,,374,U1521,A,60,R,CC,PAL
-374-U1521A-64R-CC-PAL-NANNO,0,5,581.16,581.21,M,VR,,,,,,VR,,VR,,,,,,,,,,,374,U1521,A,64,R,CC,PAL
-374-U1521A-65R-CC-PAL-NANNO,0,5,589.69,589.74,M,VR,,,VR,,,,VR,,,,,,fr,VR,Discoaster-like fragment (image taken); foram fragment,,,,374,U1521,A,65,R,CC,PAL
-374-U1521A-70R-CC-PAL-NANNO,0,6,639.39,639.45,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,70,R,CC,PAL
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group Abundance,Calcidiscus leptoporus,Chiasmolithus spp.,Coccolithus pelagicus,Cyclicargolithus cf. floridanus,Cyclicargolithus floridanus,Dictyococcites antarcticus,Reticulofenestra daviesii,Reticulofenestra hampdenensis,Reticulofenestra lockeri ,Reticulofenestra minuta,Reticulofenestra minutula,Reticulofenestra umbilicus,Thoracosphaera spp.,Nannofossil fragments,Comments,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+374-U1521A-1R-1-A 13/13-SS1,0,0,0.13,0.13,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,1,R,1,A,
+374-U1521A-1R-4-A 34/34-SS5,0,0,3.84,3.84,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,1,R,4,A,
+374-U1521A-2R-CC-PAL-NANNO,0,5,8.51,8.56,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,2,R,CC,PAL,
+374-U1521A-3R-CC-PAL-NANNO,0,7,19.36,19.43,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,3,R,CC,PAL,
+374-U1521A-9R-CC-PAL-NANNO,0,5,77.69,77.74,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,9,R,CC,PAL,
+374-U1521A-11R-CC-PAL-NANNO,0,5,95.48,95.53,,,,,,,,,,,,,,,?,,,,,,374,U1521,A,11,R,CC,PAL,
+374-U1521A-14R-CC-PAL-NANNO,0,7,122.86,122.93,M,VR,,,,,,,,,,,,*,,,Reworked R. umbilicus fragment,,,,374,U1521,A,14,R,CC,PAL,
+374-U1521A-18R-CC-PAL-NANNO,0,5,167.83,167.88,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,18,R,CC,PAL,
+374-U1521A-20R-CC-PAL-NANNO,0,7,189.42,189.49,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,20,R,CC,PAL,
+374-U1521A-21R-CC-PAL-NANNO,0,5,198.5,198.55,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,21,R,CC,PAL,
+374-U1521A-26R-CC-PAL-NANNO,0,5,244.6,244.65,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,26,R,CC,PAL,
+374-U1521A-28R-CC-PAL-NANNO,0,5,262.96,263.01,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,28,R,CC,PAL,
+374-U1521A-30R-CC-PAL-NANNO,0,5,282.38,282.43,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,30,R,CC,PAL,
+374-U1521A-49R-CC-PAL-NANNO,0,5,438.89,438.94,P,VR,,,,,,,,,,,,,,VR,,,,,374,U1521,A,49,R,CC,PAL,
+374-U1521A-54R-CC-PAL-NANNO,0,5,487.35,487.4,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,54,R,CC,PAL,
+374-U1521A-56R-CC-PAL-NANNO,0,5,504.38,504.43,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,56,R,CC,PAL,
+374-U1521A-57R-CC-PAL-NANNO,0,5,515.08,515.13,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,57,R,CC,PAL,
+374-U1521A-58R-2-W 82/82-NANNO,0,0,517.82,517.82,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,58,R,2,W,
+374-U1521A-58R-6-W 46/46-NANNO,0,0,523.2,523.2,M,VR,,,fr,,,,,,,,,,,,Glauconite,,,,374,U1521,A,58,R,6,W,
+374-U1521A-58R-CC-PAL-NANNO,0,5,524.38,524.43,M,VR,,?,fr,VR,,,,,,,,,,,Possible Chiasmolithus rim fragment (reworked),,,,374,U1521,A,58,R,CC,PAL,
+374-U1521A-59R-1-W 63/63-NANNO,0,0,525.93,525.93,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,59,R,1,W,
+374-U1521A-59R-CC-PAL-NANNO,0,5,532.74,532.79,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,59,R,CC,PAL,
+374-U1521A-60R-CC-PAL-NANNO,0,5,543.89,543.94,M,VR,,,,,,VR,,,VR,,,,fr,,,,,,374,U1521,A,60,R,CC,PAL,
+374-U1521A-64R-CC-PAL-NANNO,0,5,581.16,581.21,M,VR,,,,,,VR,,VR,,,,,,,,,,,374,U1521,A,64,R,CC,PAL,
+374-U1521A-65R-CC-PAL-NANNO,0,5,589.69,589.74,M,VR,,,VR,,,,VR,,,,,,fr,VR,Discoaster-like fragment (image taken); foram fragment,,,,374,U1521,A,65,R,CC,PAL,
+374-U1521A-70R-CC-PAL-NANNO,0,6,639.39,639.45,,B,,,,,,,,,,,,,,,,,,,374,U1521,A,70,R,CC,PAL,

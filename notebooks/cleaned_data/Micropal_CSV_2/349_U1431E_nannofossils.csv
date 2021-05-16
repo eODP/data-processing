@@ -1,51 +1,51 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Preservation,Group Abundance,Calcidiscus leptoporus,Calcidiscus macintyrei,Catinaster coalitus,Coccolithus miopelagicus,Coccolithus pelagicus,Coronocyclus nitescens,Cyclicargolithus floridanus,Discoaster adamanteus,Discoaster asymmetricus,Discoaster bellus,Discoaster berggrenii,Discoaster bollii,Discoaster brouweri,Discoaster calcaris,Discoaster calculosus,Discoaster deflandrei,Discoaster druggii,Discoaster exilis,Discoaster hamatus,Discoaster kugleri,Discoaster loeblichii,Discoaster moorei,Discoaster neohamatus,Discoaster pentaradiatus,Discoaster petaliformis,Discoaster prepentaradiatus,Discoaster quinqueramus,Discoaster spp.,Discoaster surculus,Discoaster tamalis,Discoaster triradiatus,Discoaster variabilis,Florisphaera profunda,Helicosphaera carteri,Helicosphaera sellii,Minylitha convallis,Nicklithus amplificus,Pontosphaera spp.,Reticulofenestra pseudoumbilicus,Reticulofenestra sp. (5-7 microns),Reticulofenestra spp. small,Rhabdosphaera spp.,Scyphosphaera spp.,Sphenolithus abies,Sphenolithus conicus,Sphenolithus dissimilis,Sphenolithus heteromorphus,Sphenolithus moriformis,Syracosphaera spp.,Triquetrorhabdulus rugosus,Umbilicosphaera sibogae,Comments,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-349-U1431E-7R-1-A 2/2-NANNO,0,0,603.32,603.32,NN11,M,C,F,F,,R,R,,R,,,R,C,,F,,,C,,,,R,R,,,C,,,F,C,F,,,F,C,F,,,,F,R,,,F,R,C,,,,F,R,R,,,,,349,U1431,E,7,R,1,A
-349-U1431E-8R-1-W 10/12-NANNO,0,2,613.1,613.12,NN11,P,F,,R,,,,,,,,,F,,R,,,R,,,,,,,,R,,,,F,,,,F,F,R,,,,,F,,,,,F,,,,R,,,,,,,349,U1431,E,8,R,1,W
-349-U1431E-8R-5-PAL-NANNO,0,7,619.53,619.6,NN11,P,R,R,R,,,,,,,,,F,,F,,,F,,,,,,,,F,R,,R,F,,,,F,F,F,,,,R,R,,,,,C,,,,R,,,,,,,349,U1431,E,8,R,5,PAL
-349-U1431E-9R-5-W 39/40-NANNO,0,1,628.84,628.85,NN11,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,,,R,F,,,,,,,,,,,,"overgrown, Discoaster unidentified",,,349,U1431,E,9,R,5,W
-349-U1431E-9R-6-PAL-NANNO,0,5,630.86,630.91,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,R,,,,R,,,,"overgrown, Discoaster unidentified",,,349,U1431,E,9,R,6,PAL
-349-U1431E-10R-4-W 12/12-NANNO,0,0,636.51,636.51,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Calcite debris,,,349,U1431,E,10,R,4,W
-349-U1431E-10R-4-W 13/15-NANNO,0,2,636.52,636.54,NN11,R,P,R,R,,,,,,,,R,R,,,,,,,,,,,,,R,,,,R,,,,R,,R,,,,,,,,,,R,,,,R,,,,,,,349,U1431,E,10,R,4,W
-349-U1431E-10R-4-W 145/146-NANNO-NANNO,0,1,637.91,637.92,NN11,P,R,,R,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,349,U1431,E,10,R,4,W
-349-U1431E-11R-1-W 52/54-NANNO39,0,2,642.62,642.64,NN11,P,F,,,,,,,,,,,F,,F,,,,,,,,,,,,,,F,F,,,,F,,,,,,,,,,,,F,,,,R,,,,,,,349,U1431,E,11,R,1,W
-349-U1431E-11R-3-PAL-NANNO,0,5,644.99,645.04,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,349,U1431,E,11,R,3,PAL
-349-U1431E-12R-1-W 134/134-NANNO,0,0,653.14,653.14,NN11,P,R,,R,,,,,,,,R,R,,R,,,,,,,,,,,R,,,,R,,,,R,,R,,,,,,,,,,R,,,,R,,,,,,,349,U1431,E,12,R,1,W
-349-U1431E-12R-7-PAL-NANNO,0,5,660.47,660.52,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,R,,,,R,,,,,,,349,U1431,E,12,R,7,PAL
-349-U1431E-13R-1-W 52/53-NANNO,0,1,662.02,662.03,NN11,P,F,,R,,R,,,R,,,,R,R,R,,,,,,,,R,,,R,,,,R,,,,R,,R,,,,,R,R,,,,R,,,,,,R,,Fossils are mainly in broken pieces,,,349,U1431,E,13,R,1,W
-349-U1431E-13R-6-PAL-NANNO,0,5,670.04,670.09,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,C,,,,F,,,,,,,349,U1431,E,13,R,6,PAL
-349-U1431E-14R-6-W 90/91-NANNO,0,1,679.24,679.25,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,14,R,6,W
-349-U1431E-14R-7-PAL-NANNO,0,5,680.31,680.36,NN11,P,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,14,R,7,PAL
-349-U1431E-15R-4-PAL-NANNO,0,5,685.64,685.69,NN11,M,F,,,,,,,,,,R,R,,,,,,,,F,,R,,R,R,,,R,,,,,,,,,R,,,,,,,,R,,,,,,,,,,,349,U1431,E,15,R,4,PAL
-349-U1431E-16R-1-W 87/89-PAL-NANNO,0,2,691.47,691.49,NN11,M,F,,,,,,,,,,F,,R,C,,,,R,,,,R,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,16,R,1,W
-349-U1431E-16R-7-A 6/7-NANNO,0,1,699.22,699.23,NN11,G,F,,,,,,,,,,F,F,,C,,,,,,,,,,F,F,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,349,U1431,E,16,R,7,A
-349-U1431E-16R-8-PAL-NANNO,0,5,701.06,701.11,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,16,R,8,PAL
-349-U1431E-17R-7-W 4/6-PAL-NANNO,0,2,707.4,707.42,NN11,G,F,,,,,,,,,,R,C,,C,,,,,,,,,,F,F,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,349,U1431,E,17,R,7,W
-349-U1431E-17R-8-PAL-NANNO,0,5,709.87,709.92,NN10,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,17,R,8,PAL
-349-U1431E-18R-2-W 0/2-PAL-NANNO,0,2,711.39,711.41,,P,R,,,,,,,,R,,,,,,,,,R,,,,R,,,R,,,,,,,,R,,,,R,,,R,,,,,R,,,,F,,,,overgrown and fragmented discoasters,,,349,U1431,E,18,R,2,W
-349-U1431E-18R-3-PAL-NANNO,0,5,713.86,713.91,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,18,R,3,PAL
-349-U1431E-19R-6-PAL-NANNO,0,6,726.32,726.38,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,19,R,6,PAL
-349-U1431E-20R-1-W 102/103-PAL-NANNO,0,1,730.42,730.43,,M,C,,,,R,,,,,,R,,,R,,,,R,,R,,,,R,R,,,,,,,,R,,,,R,,,F,,,,,C,,,,,,,,overgrown discoasters,,,349,U1431,E,20,R,1,W
-349-U1431E-20R-5-PAL-NANNO,0,6,735.33,735.39,NN9,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,20,R,5,PAL
-349-U1431E-21R-1-W 25/26-NANNO10,0,1,739.35,739.36,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,349,U1431,E,21,R,1,W
-349-U1431E-21R-2-PAL-NANNO,0,7,741.06,741.13,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,21,R,2,PAL
-349-U1431E-22R-3-W 0/2-NANNO3,0,2,750.9,750.92,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,calcite fragment and overgrown of nannofossils,,,349,U1431,E,22,R,3,W
-349-U1431E-22R-7-PAL-NANNO,0,7,756.42,756.49,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,22,R,7,PAL
-349-U1431E-23R-3-PAL-NANNO,0,6,762.34,762.4,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,23,R,3,PAL
-349-U1431E-24R-4-PAL-NANNO,0,7,773.31,773.38,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,24,R,4,PAL
-349-U1431E-25R-1-PAL-NANNO,0,8,779.32,779.4,NN7,P,F,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,R,,,,,,,,,,,349,U1431,E,25,R,1,PAL
-349-U1431E-26R-3-PAL-NANNO,0,7,791.33,791.4,NN7,P,R,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,R,,,,,349,U1431,E,26,R,3,PAL
-349-U1431E-27R-5-W 0/2-PAL-NANNO,0,2,801.54,801.56,NN7,M,F,,,,,,R,,,,,,,R,F,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,F,,overgrown discoasters which are often visible under crossed polars,,,349,U1431,E,27,R,5,W
-349-U1431E-27R-9-PAL-NANNO,0,6,807.28,807.34,NN7,M,R,,,,,,,,,,,,,,,,,R,,,F,,,,F,,,,,,,,,,,,,,,C,,,,,C,,,,R,,,,,,,349,U1431,E,27,R,9,PAL
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Preservation,Group Abundance,Calcidiscus leptoporus,Calcidiscus macintyrei,Catinaster coalitus,Coccolithus miopelagicus,Coccolithus pelagicus,Coronocyclus nitescens,Cyclicargolithus floridanus,Discoaster adamanteus,Discoaster asymmetricus,Discoaster bellus,Discoaster berggrenii,Discoaster bollii,Discoaster brouweri,Discoaster calcaris,Discoaster calculosus,Discoaster deflandrei,Discoaster druggii,Discoaster exilis,Discoaster hamatus,Discoaster kugleri,Discoaster loeblichii,Discoaster moorei,Discoaster neohamatus,Discoaster pentaradiatus,Discoaster petaliformis,Discoaster prepentaradiatus,Discoaster quinqueramus,Discoaster spp.,Discoaster surculus,Discoaster tamalis,Discoaster triradiatus,Discoaster variabilis,Florisphaera profunda,Helicosphaera carteri,Helicosphaera sellii,Minylitha convallis,Nicklithus amplificus,Pontosphaera spp.,Reticulofenestra pseudoumbilicus,Reticulofenestra sp. (5-7 microns),Reticulofenestra spp. small,Rhabdosphaera spp.,Scyphosphaera spp.,Sphenolithus abies,Sphenolithus conicus,Sphenolithus dissimilis,Sphenolithus heteromorphus,Sphenolithus moriformis,Syracosphaera spp.,Triquetrorhabdulus rugosus,Umbilicosphaera sibogae,Comments,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+349-U1431E-7R-1-A 2/2-NANNO,0,0,603.32,603.32,NN11,M,C,F,F,,R,R,,R,,,R,C,,F,,,C,,,,R,R,,,C,,,F,C,F,,,F,C,F,,,,F,R,,,F,R,C,,,,F,R,R,,,,,349,U1431,E,7,R,1,A,
+349-U1431E-8R-1-W 10/12-NANNO,0,2,613.1,613.12,NN11,P,F,,R,,,,,,,,,F,,R,,,R,,,,,,,,R,,,,F,,,,F,F,R,,,,,F,,,,,F,,,,R,,,,,,,349,U1431,E,8,R,1,W,
+349-U1431E-8R-5-PAL-NANNO,0,7,619.53,619.6,NN11,P,R,R,R,,,,,,,,,F,,F,,,F,,,,,,,,F,R,,R,F,,,,F,F,F,,,,R,R,,,,,C,,,,R,,,,,,,349,U1431,E,8,R,5,PAL,
+349-U1431E-9R-5-W 39/40-NANNO,0,1,628.84,628.85,NN11,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,,,R,F,,,,,,,,,,,,"overgrown, Discoaster unidentified",,,349,U1431,E,9,R,5,W,
+349-U1431E-9R-6-PAL-NANNO,0,5,630.86,630.91,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,R,,,,R,,,,"overgrown, Discoaster unidentified",,,349,U1431,E,9,R,6,PAL,
+349-U1431E-10R-4-W 12/12-NANNO,0,0,636.51,636.51,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Calcite debris,,,349,U1431,E,10,R,4,W,
+349-U1431E-10R-4-W 13/15-NANNO,0,2,636.52,636.54,NN11,R,P,R,R,,,,,,,,R,R,,,,,,,,,,,,,R,,,,R,,,,R,,R,,,,,,,,,,R,,,,R,,,,,,,349,U1431,E,10,R,4,W,
+349-U1431E-10R-4-W 145/146-NANNO-NANNO,0,1,637.91,637.92,NN11,P,R,,R,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,349,U1431,E,10,R,4,W,
+349-U1431E-11R-1-W 52/54-NANNO39,0,2,642.62,642.64,NN11,P,F,,,,,,,,,,,F,,F,,,,,,,,,,,,,,F,F,,,,F,,,,,,,,,,,,F,,,,R,,,,,,,349,U1431,E,11,R,1,W,
+349-U1431E-11R-3-PAL-NANNO,0,5,644.99,645.04,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,349,U1431,E,11,R,3,PAL,
+349-U1431E-12R-1-W 134/134-NANNO,0,0,653.14,653.14,NN11,P,R,,R,,,,,,,,R,R,,R,,,,,,,,,,,R,,,,R,,,,R,,R,,,,,,,,,,R,,,,R,,,,,,,349,U1431,E,12,R,1,W,
+349-U1431E-12R-7-PAL-NANNO,0,5,660.47,660.52,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,R,,,,R,,,,,,,349,U1431,E,12,R,7,PAL,
+349-U1431E-13R-1-W 52/53-NANNO,0,1,662.02,662.03,NN11,P,F,,R,,R,,,R,,,,R,R,R,,,,,,,,R,,,R,,,,R,,,,R,,R,,,,,R,R,,,,R,,,,,,R,,Fossils are mainly in broken pieces,,,349,U1431,E,13,R,1,W,
+349-U1431E-13R-6-PAL-NANNO,0,5,670.04,670.09,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,C,,,,F,,,,,,,349,U1431,E,13,R,6,PAL,
+349-U1431E-14R-6-W 90/91-NANNO,0,1,679.24,679.25,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,14,R,6,W,
+349-U1431E-14R-7-PAL-NANNO,0,5,680.31,680.36,NN11,P,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,14,R,7,PAL,
+349-U1431E-15R-4-PAL-NANNO,0,5,685.64,685.69,NN11,M,F,,,,,,,,,,R,R,,,,,,,,F,,R,,R,R,,,R,,,,,,,,,R,,,,,,,,R,,,,,,,,,,,349,U1431,E,15,R,4,PAL,
+349-U1431E-16R-1-W 87/89-PAL-NANNO,0,2,691.47,691.49,NN11,M,F,,,,,,,,,,F,,R,C,,,,R,,,,R,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,16,R,1,W,
+349-U1431E-16R-7-A 6/7-NANNO,0,1,699.22,699.23,NN11,G,F,,,,,,,,,,F,F,,C,,,,,,,,,,F,F,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,349,U1431,E,16,R,7,A,
+349-U1431E-16R-8-PAL-NANNO,0,5,701.06,701.11,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,16,R,8,PAL,
+349-U1431E-17R-7-W 4/6-PAL-NANNO,0,2,707.4,707.42,NN11,G,F,,,,,,,,,,R,C,,C,,,,,,,,,,F,F,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,349,U1431,E,17,R,7,W,
+349-U1431E-17R-8-PAL-NANNO,0,5,709.87,709.92,NN10,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,17,R,8,PAL,
+349-U1431E-18R-2-W 0/2-PAL-NANNO,0,2,711.39,711.41,,P,R,,,,,,,,R,,,,,,,,,R,,,,R,,,R,,,,,,,,R,,,,R,,,R,,,,,R,,,,F,,,,overgrown and fragmented discoasters,,,349,U1431,E,18,R,2,W,
+349-U1431E-18R-3-PAL-NANNO,0,5,713.86,713.91,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,18,R,3,PAL,
+349-U1431E-19R-6-PAL-NANNO,0,6,726.32,726.38,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,19,R,6,PAL,
+349-U1431E-20R-1-W 102/103-PAL-NANNO,0,1,730.42,730.43,,M,C,,,,R,,,,,,R,,,R,,,,R,,R,,,,R,R,,,,,,,,R,,,,R,,,F,,,,,C,,,,,,,,overgrown discoasters,,,349,U1431,E,20,R,1,W,
+349-U1431E-20R-5-PAL-NANNO,0,6,735.33,735.39,NN9,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,20,R,5,PAL,
+349-U1431E-21R-1-W 25/26-NANNO10,0,1,739.35,739.36,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,349,U1431,E,21,R,1,W,
+349-U1431E-21R-2-PAL-NANNO,0,7,741.06,741.13,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,21,R,2,PAL,
+349-U1431E-22R-3-W 0/2-NANNO3,0,2,750.9,750.92,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,calcite fragment and overgrown of nannofossils,,,349,U1431,E,22,R,3,W,
+349-U1431E-22R-7-PAL-NANNO,0,7,756.42,756.49,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,22,R,7,PAL,
+349-U1431E-23R-3-PAL-NANNO,0,6,762.34,762.4,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,23,R,3,PAL,
+349-U1431E-24R-4-PAL-NANNO,0,7,773.31,773.38,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,24,R,4,PAL,
+349-U1431E-25R-1-PAL-NANNO,0,8,779.32,779.4,NN7,P,F,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,R,,,,,,,,,,,349,U1431,E,25,R,1,PAL,
+349-U1431E-26R-3-PAL-NANNO,0,7,791.33,791.4,NN7,P,R,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,R,,,,,349,U1431,E,26,R,3,PAL,
+349-U1431E-27R-5-W 0/2-PAL-NANNO,0,2,801.54,801.56,NN7,M,F,,,,,,R,,,,,,,R,F,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,F,,overgrown discoasters which are often visible under crossed polars,,,349,U1431,E,27,R,5,W,
+349-U1431E-27R-9-PAL-NANNO,0,6,807.28,807.34,NN7,M,R,,,,,,,,,,,,,,,,,R,,,F,,,,F,,,,,,,,,,,,,,,C,,,,,C,,,,R,,,,,,,349,U1431,E,27,R,9,PAL,
 349-U1431E-28R-8-PAL-NANNO,0,6,815.62,815.68,NN7,P,R,,,,,,,,,,,,,,,,,F,,,F,,,,R,,,,R,,,,F,,,,,,,,,,,,,,,,,,R,,"medium to large sized coccolith forms absent, while calcite debris abundant,
-a few of Faciculithus",,,349,U1431,E,28,R,8,PAL
-349-U1431E-29R-7-PAL-NANNO,0,7,825.34,825.41,NN7,P,R,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,Very rare nannofossils,,,349,U1431,E,29,R,7,PAL
-349-U1431E-30R-8-PAL-NANNO,0,7,834.9,834.97,NN7,P,R,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,,,R,,,,,,,R,,,,,R,,,,,,,,"Rare to Barren of nannofossils, Discoasters overgrown. Calcite debris common.",,,349,U1431,E,30,R,8,PAL
-349-U1431E-31R-9-PAL-NANNO,0,8,845.91,845.99,NN7,P,F,,,,R,,,R,,,,,,F,,,R,R,,,,,,,R,,,,F,,,,R,,,,,,,F,,,,,F,,,,,,R,,"Small sized nannofossils absent, nannofossil debris common",,,349,U1431,E,31,R,9,PAL
-349-U1431E-32R-9-PAL-NANNO,0,5,855.79,855.84,NN7,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rare calcite debris ,,,349,U1431,E,32,R,9,PAL
-349-U1431E-33R-8-PAL-NANNO,0,5,864.1,864.15,NN6,M,F,,R,,F,,,,,,,,,,,,,R,,,F,,,,R,,,,,,,,R,,,,,,,F,,,,,,,,,,,R,,,,,349,U1431,E,33,R,8,PAL
-349-U1431E-34R-7-PAL-NANNO,0,5,873.74,873.79,NN6,M,F,,R,,,,,,R,,,,,,,,,R,,,,,,,R,,,,,,,,R,,,,,,,F,F,,,,F,,,,R,,,,,,,349,U1431,E,34,R,7,PAL
-349-U1431E-35R-6-PAL-NANNO,0,5,882.54,882.59,NN6,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,35,R,6,PAL
-349-U1431E-36R-1-A 7/7-NANNO,0,0,884.67,884.67,NN6,R,P,,R,,,,,R,R,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,349,U1431,E,36,R,1,A
-349-U1431E-36R-5-PAL-NANNO,0,4,889.83,889.87,NN6,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,36,R,5,PAL
-349-U1431E-45R-4-PAL-NANNO,0,23,966.33,966.56,?,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,45,R,4,PAL
-349-U1431E-46R-4-PAL-NANNO,0,5,976.62,976.67,?,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reworked Paleocene fossils,,,349,U1431,E,46,R,4,PAL
+a few of Faciculithus",,,349,U1431,E,28,R,8,PAL,
+349-U1431E-29R-7-PAL-NANNO,0,7,825.34,825.41,NN7,P,R,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,Very rare nannofossils,,,349,U1431,E,29,R,7,PAL,
+349-U1431E-30R-8-PAL-NANNO,0,7,834.9,834.97,NN7,P,R,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,,,R,,,,,,,R,,,,,R,,,,,,,,"Rare to Barren of nannofossils, Discoasters overgrown. Calcite debris common.",,,349,U1431,E,30,R,8,PAL,
+349-U1431E-31R-9-PAL-NANNO,0,8,845.91,845.99,NN7,P,F,,,,R,,,R,,,,,,F,,,R,R,,,,,,,R,,,,F,,,,R,,,,,,,F,,,,,F,,,,,,R,,"Small sized nannofossils absent, nannofossil debris common",,,349,U1431,E,31,R,9,PAL,
+349-U1431E-32R-9-PAL-NANNO,0,5,855.79,855.84,NN7,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rare calcite debris ,,,349,U1431,E,32,R,9,PAL,
+349-U1431E-33R-8-PAL-NANNO,0,5,864.1,864.15,NN6,M,F,,R,,F,,,,,,,,,,,,,R,,,F,,,,R,,,,,,,,R,,,,,,,F,,,,,,,,,,,R,,,,,349,U1431,E,33,R,8,PAL,
+349-U1431E-34R-7-PAL-NANNO,0,5,873.74,873.79,NN6,M,F,,R,,,,,,R,,,,,,,,,R,,,,,,,R,,,,,,,,R,,,,,,,F,F,,,,F,,,,R,,,,,,,349,U1431,E,34,R,7,PAL,
+349-U1431E-35R-6-PAL-NANNO,0,5,882.54,882.59,NN6,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,35,R,6,PAL,
+349-U1431E-36R-1-A 7/7-NANNO,0,0,884.67,884.67,NN6,R,P,,R,,,,,R,R,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,349,U1431,E,36,R,1,A,
+349-U1431E-36R-5-PAL-NANNO,0,4,889.83,889.87,NN6,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,36,R,5,PAL,
+349-U1431E-45R-4-PAL-NANNO,0,23,966.33,966.56,?,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,E,45,R,4,PAL,
+349-U1431E-46R-4-PAL-NANNO,0,5,976.62,976.67,?,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reworked Paleocene fossils,,,349,U1431,E,46,R,4,PAL,
