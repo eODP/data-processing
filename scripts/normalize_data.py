@@ -318,7 +318,7 @@ def extract_taxon_group_from_filename(filename):
 
 
 def fetch_unique_column_names(path, columns_set):
-    content = pd.read_csv(path)
+    content = pd.read_csv(path, nrows=1)
     content = csv_cleanup(content, path)
     return columns_set.update(set(content.columns))
 
@@ -333,7 +333,7 @@ def filter_existing_set(my_set, regex):
 
 def add_missing_columns(path, normalized_columns):
     """Add columns to dataframe so every dataframe has the same columns"""
-    content = pd.read_csv(path)
+    content = pd.read_csv(path, dtype=str)
     columns = list(content.columns)
 
     missing_columns = list(set(normalized_columns) - set(columns))
