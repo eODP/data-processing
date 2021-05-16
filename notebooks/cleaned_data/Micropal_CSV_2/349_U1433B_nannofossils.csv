@@ -1,92 +1,92 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Preservation,Group Abundance,Calcidiscus leptoporus,Calcidiscus macintyrei,Catinaster coalitus,Coccolithus miopelagicus,Coccolithus pelagicus,Coronocyclus nitescens,Cyclicargolithus floridanus,Discoaster adamanteus,Discoaster asymmetricus,Discoaster bellus,Discoaster berggrenii,Discoaster bollii,Discoaster brouweri,Discoaster calcaris,Discoaster calculosus,Discoaster deflandrei,Discoaster druggii,Discoaster exilis,Discoaster hamatus,Discoaster kugleri,Discoaster loeblichii,Discoaster moorei,Discoaster neohamatus,Discoaster pentaradiatus,Discoaster petaliformis,Discoaster prepentaradiatus,Discoaster quinqueramus,Discoaster spp.,Discoaster surculus,Discoaster tamalis,Discoaster triradiatus,Discoaster variabilis,Florisphaera profunda,Helicosphaera carteri,Helicosphaera sellii,Minylitha convallis,Nicklithus amplificus,Pontosphaera spp.,Reticulofenestra pseudoumbilicus,Reticulofenestra sp. (5-7 microns),Reticulofenestra spp. small,Rhabdosphaera spp.,Scyphosphaera spp.,Sphenolithus abies,Sphenolithus conicus,Sphenolithus dissimilis,Sphenolithus heteromorphus,Sphenolithus moriformis,Syracosphaera spp.,Triquetrorhabdulus rugosus,Umbilicosphaera sibogae,Comments,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-349-U1433B-2R-CC-PAL-NANNO,0,5,187.79,187.84,NN19,G,A,F,F,,,,,R,,,,,,,,,,,,,,,,,F,,,F,,,,R,,A,F,,,,F,,,,,,F,,,,,F,,R,many ascidian spicules; reworked species,,,349,U1433,B,2,R,CC,PAL
-349-U1433B-3R-CC-PAL-NANNO,0,5,197.13,197.18,NN19,G,A,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,,,,,,,,,,,,,,,,,,349,U1433,B,3,R,CC,PAL
-349-U1433B-4R-CC-PAL-NANNO,0,11,205.74,205.85,NN19,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,F,,,,,,,,,,,,,,,,,349,U1433,B,4,R,CC,PAL
-349-U1433B-5R-CC-PAL-NANNO,0,11,220.52,220.63,NN19,G,A,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,,,F,,,,,,,,,,,F,,,,,,349,U1433,B,5,R,CC,PAL
-349-U1433B-6R-CC-PAL-NANNO,0,11,229.07,229.18,NN19,G,A,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,F,,,,,,,,,,,,,,,,,349,U1433,B,6,R,CC,PAL
-349-U1433B-7R-CC-PAL-NANNO,0,10,237.84,237.94,NN19,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,7,R,CC,PAL
-349-U1433B-8R-CC-PAL-NANNO,0,12,249.28,249.4,NN19,G,A,C,R,,,,,,,,,,,F,,,,,,,,,,,C,,,,,F,,,,A,F,,,,F,,,,,,C,,,,,C,,,,,,349,U1433,B,8,R,CC,PAL
-349-U1433B-9R-CC-PAL-NANNO,0,13,258.65,258.78,NN19,M,C,F,F,,,,,,,,,,,F,,,,,,,,,,,C,,,,,,,,,A,F,,,,F,,,,,,F,,,,,,,,overgrown discoasters; abundant non-nannofossil calcareous particles; lots of ascidian spicules,,,349,U1433,B,9,R,CC,PAL
-349-U1433B-10R-CC-PAL-NANNO,0,11,268.89,269.0,NN18,G,A,,C,,,,,,,R,,F,,F,,,,R,,,,,,R,F,,,,,,,R,,A,C,R,,,F,,,,,,,,,,,F,,,,,,349,U1433,B,10,R,CC,PAL
-349-U1433B-11R-CC-PAL-NANNO,0,11,275.05,275.16,,G,A,F,F,,F,,,F,,,,F,,R,,,,,,,,,,,F,,,R,,,,F,,,C,R,,,,F,,,,,,,,,,F,,F,,,,349,U1433,B,11,R,CC,PAL
-349-U1433B-12R-CC-PAL-NANNO,0,10,286.14,286.24,,G,A,F,C,,,,,F,,,,F,,C,,,,R,,,,,,R,C,,,,,F,,F,,C,F,F,,,F,F,,,,,C,,,,F,F,,,abundant overgrown non-nannofossil calcareous particles; overgrown discoasters,,,349,U1433,B,12,R,CC,PAL
-349-U1433B-13R-CC-PAL-NANNO,0,10,299.2,299.3,,G,A,F,F,,,,,,,,,,,F,,,,,,,,,,,C,,,,,R,,,R,D,F,R,,,R,R,C,,F,,F,,,,,F,,F,Common broken rays of Discoaster ,,,349,U1433,B,13,R,CC,PAL
-349-U1433B-14R-CC-PAL-NANNO,0,10,309.0,309.1,,M,C,F,F,,,F,,,,,,,,C,,,,,,,,,,,C,,,,,R,,,,A,F,R,,,R,,C,,F,,F,,,,,F,,F,,,,349,U1433,B,14,R,CC,PAL
-349-U1433B-15R-CC-PAL-NANNO,0,5,317.66,317.71,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,F,R,,,,,,R,,R,,,,,,,,,,Rare Discoaster broken rays present,,,349,U1433,B,15,R,CC,PAL
-349-U1433B-16R-CC-PAL-NANNO,0,5,328.43,328.48,,M,A,F,R,,,,,,,,,,,C,,,,,,,,,,,C,,,R,R,R,,,,D,F,R,,,R,,C,,F,,R,R,,R,,F,,,Frequent reworked Miocene fossils,,,349,U1433,B,16,R,CC,PAL
-349-U1433B-17R-CC-PAL-NANNO,0,6,338.3,338.36,,M,A,R,R,,,,,,,,,,,C,,,,,,,,,,,C,,,R,,F,,,R,A,F,F,,,,,C,,F,,R,,,,,F,,R,Medium to good preservation,,,349,U1433,B,17,R,CC,PAL
-349-U1433B-18R-CC-PAL-NANNO,0,5,345.76,345.81,,M,D,,F,,,,,,,R,,,,C,,,,,,,,,,,C,,,R,R,F,,R,R,A,C,R,,,,,C,,C,,R,,,,,C,,F,Medium to good preservation,,,349,U1433,B,18,R,CC,PAL
-349-U1433B-19R-CC-PAL-NANNO,0,5,355.91,355.96,,M,A,F,F,,,R,,,R,R,,F,,C,,,,,,,,,,,C,,,F,F,F,,,F,C,F,R,,,F,C,C,,F,F,C,,,F,C,F,,,Nannofossil ooze with common reworked Miocene fossils,,,349,U1433,B,19,R,CC,PAL
-349-U1433B-20R-CC-PAL-NANNO,0,5,367.31,367.36,,M,R,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,R,,,,,,,R,,,,,,,,,,,,Almost barren of nannofossils,,,349,U1433,B,20,R,CC,PAL
-349-U1433B-21R-CC-PAL-NANNO,0,5,377.54,377.59,NN16,M,A,C,F,,,,,,,R,,,,C,,,,,,,,,,,C,,,,F,F,,R,R,A,C,C,,,F,,C,,F,,F,,,,R,F,,,,,,349,U1433,B,21,R,CC,PAL
-349-U1433B-22R-CC-PAL-NANNO,0,5,383.07,383.12,,M,A,F,F,,,,,F,,,,,,C,,,,,,,,,,,C,,,C,F,F,,,R,F,,,,,,C,C,,,,C,,,F,F,,,,Nannofossil ooze with common reworked Miocene fossils,,,349,U1433,B,22,R,CC,PAL
-349-U1433B-23R-CC-PAL-NANNO,0,5,393.59,393.64,,M,R,,R,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,349,U1433,B,23,R,CC,PAL
-349-U1433B-24R-CC-PAL-NANNO,0,5,404.18,404.23,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,24,R,CC,PAL
-349-U1433B-25R-CC-PAL-NANNO,0,5,415.69,415.74,,M,A,,F,,,,,F,,,,C,,C,,,,,,,,,,,C,,,,,,,,,,,,,,,C,C,,,,A,,,,,,,,,,,349,U1433,B,25,R,CC,PAL
-349-U1433B-26R-CC-PAL-NANNO,0,12,424.82,424.94,,M,A,,R,,,,,F,,R,,,,C,,,,,,,,,,,C,,,R,,R,,,,,,,,,,C,F,,,,C,,,,,,,,,,,349,U1433,B,26,R,CC,PAL
-349-U1433B-27R-CC-PAL-NANNO,0,12,431.91,432.03,,P,A,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,,,,A,,,R,,,,,Discoasters are heavily overgrown,,,349,U1433,B,27,R,CC,PAL
-349-U1433B-28R-CC-PAL-NANNO,0,12,441.87,441.99,NN13,M,A,,F,,,,,C,,,,F,,C,,,,,,,,,,,F,,,,,F,,,,,,,,,,C,C,,,,C,,,R,,,,,,,,349,U1433,B,28,R,CC,PAL
-349-U1433B-29R-CC-PAL-NANNO,0,12,453.36,453.48,NN12,M,A,,F,,R,,,C,,C,,,,C,,,,,,,,,,,F,,,C,,F,,,,,,,,,,F,C,,,,A,,,R,,,R,,,,,349,U1433,B,29,R,CC,PAL
-349-U1433B-30R-CC-PAL-NANNO,0,10,463.43,463.53,NN12,M,A,,F,,,,,C,,C,,,,C,,,,,,,,,,,F,,,F,,,,,,,,,,,,F,C,,,,A,,,,,,R,,,,,349,U1433,B,30,R,CC,PAL
-349-U1433B-31R-CC-PAL-NANNO,0,12,474.31,474.43,NN12,M,A,,F,,,,,C,,C,,,,F,,,,,,,,,,,R,,,,,,,,,,,,,,,F,A,,,,A,,,,,,R,,,,,349,U1433,B,31,R,CC,PAL
-349-U1433B-32R-CC-PAL-NANNO,0,13,482.79,482.92,NN12,P,A,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,F,C,,,,A,,,,,,R,,Discoasters are heavily overgrown; abundant ascidian spicules,,,349,U1433,B,32,R,CC,PAL
-349-U1433B-33R-CC-PAL-NANNO,0,11,491.59,491.7,NN12,M,A,F,F,,,,,,,,,F,,F,,,,,,,,,,,C,,,C,C,R,,,F,F,,,,,,F,C,,,F,A,,,R,,,,,Nannofossil ooze with common reworked Miocene fossils; ascidian spicules present,,,349,U1433,B,33,R,CC,PAL
-349-U1433B-34R-CC-PAL-NANNO,0,11,499.3,499.41,,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,,C,,,C,C,F,,,F,C,F,F,,R,,F,C,,R,,C,,,,,,R,,,,,349,U1433,B,34,R,CC,PAL
-349-U1433B-35R-CC-PAL-NANNO,0,7,510.44,510.51,,M,A,F,F,,,,,,,,,F,,,,,,,,,,,,,C,,,C,,F,,R,F,C,C,,,,R,C,C,,,R,C,,,,F,R,R,,Nannofossil ooze with common reworked Miocene fossils,,,349,U1433,B,35,R,CC,PAL
-349-U1433B-36R-CC-PAL-NANNO,0,7,520.74,520.81,,M,A,F,F,,,R,,,,R,,R,,F,,,,,,,,,,R,C,,,C,C,F,,R,R,C,C,R,,R,,F,A,,,,C,,,,R,,R,,Medium to good preservation,,,349,U1433,B,36,R,CC,PAL
-349-U1433B-37R-CC-PAL-NANNO,0,8,530.51,530.59,,G,A,F,F,,,F,,,,R,,C,,F,,,,,,R,,,,,C,,,C,C,F,,,R,C,F,,,,,F,C,,R,,C,,,,R,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,37,R,CC,PAL
-349-U1433B-38R-CC-PAL-NANNO,0,6,539.46,539.52,NN11,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,R,C,,,C,C,F,,,F,C,F,,,R,,F,C,,R,,C,,,,R,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,38,R,CC,PAL
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Preservation,Group Abundance,Calcidiscus leptoporus,Calcidiscus macintyrei,Catinaster coalitus,Coccolithus miopelagicus,Coccolithus pelagicus,Coronocyclus nitescens,Cyclicargolithus floridanus,Discoaster adamanteus,Discoaster asymmetricus,Discoaster bellus,Discoaster berggrenii,Discoaster bollii,Discoaster brouweri,Discoaster calcaris,Discoaster calculosus,Discoaster deflandrei,Discoaster druggii,Discoaster exilis,Discoaster hamatus,Discoaster kugleri,Discoaster loeblichii,Discoaster moorei,Discoaster neohamatus,Discoaster pentaradiatus,Discoaster petaliformis,Discoaster prepentaradiatus,Discoaster quinqueramus,Discoaster spp.,Discoaster surculus,Discoaster tamalis,Discoaster triradiatus,Discoaster variabilis,Florisphaera profunda,Helicosphaera carteri,Helicosphaera sellii,Minylitha convallis,Nicklithus amplificus,Pontosphaera spp.,Reticulofenestra pseudoumbilicus,Reticulofenestra sp. (5-7 microns),Reticulofenestra spp. small,Rhabdosphaera spp.,Scyphosphaera spp.,Sphenolithus abies,Sphenolithus conicus,Sphenolithus dissimilis,Sphenolithus heteromorphus,Sphenolithus moriformis,Syracosphaera spp.,Triquetrorhabdulus rugosus,Umbilicosphaera sibogae,Comments,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+349-U1433B-2R-CC-PAL-NANNO,0,5,187.79,187.84,NN19,G,A,F,F,,,,,R,,,,,,,,,,,,,,,,,F,,,F,,,,R,,A,F,,,,F,,,,,,F,,,,,F,,R,many ascidian spicules; reworked species,,,349,U1433,B,2,R,CC,PAL,
+349-U1433B-3R-CC-PAL-NANNO,0,5,197.13,197.18,NN19,G,A,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,,,,,,,,,,,,,,,,,,349,U1433,B,3,R,CC,PAL,
+349-U1433B-4R-CC-PAL-NANNO,0,11,205.74,205.85,NN19,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,F,,,,,,,,,,,,,,,,,349,U1433,B,4,R,CC,PAL,
+349-U1433B-5R-CC-PAL-NANNO,0,11,220.52,220.63,NN19,G,A,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,,,F,,,,,,,,,,,F,,,,,,349,U1433,B,5,R,CC,PAL,
+349-U1433B-6R-CC-PAL-NANNO,0,11,229.07,229.18,NN19,G,A,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,F,,,,,,,,,,,,,,,,,349,U1433,B,6,R,CC,PAL,
+349-U1433B-7R-CC-PAL-NANNO,0,10,237.84,237.94,NN19,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,7,R,CC,PAL,
+349-U1433B-8R-CC-PAL-NANNO,0,12,249.28,249.4,NN19,G,A,C,R,,,,,,,,,,,F,,,,,,,,,,,C,,,,,F,,,,A,F,,,,F,,,,,,C,,,,,C,,,,,,349,U1433,B,8,R,CC,PAL,
+349-U1433B-9R-CC-PAL-NANNO,0,13,258.65,258.78,NN19,M,C,F,F,,,,,,,,,,,F,,,,,,,,,,,C,,,,,,,,,A,F,,,,F,,,,,,F,,,,,,,,overgrown discoasters; abundant non-nannofossil calcareous particles; lots of ascidian spicules,,,349,U1433,B,9,R,CC,PAL,
+349-U1433B-10R-CC-PAL-NANNO,0,11,268.89,269.0,NN18,G,A,,C,,,,,,,R,,F,,F,,,,R,,,,,,R,F,,,,,,,R,,A,C,R,,,F,,,,,,,,,,,F,,,,,,349,U1433,B,10,R,CC,PAL,
+349-U1433B-11R-CC-PAL-NANNO,0,11,275.05,275.16,,G,A,F,F,,F,,,F,,,,F,,R,,,,,,,,,,,F,,,R,,,,F,,,C,R,,,,F,,,,,,,,,,F,,F,,,,349,U1433,B,11,R,CC,PAL,
+349-U1433B-12R-CC-PAL-NANNO,0,10,286.14,286.24,,G,A,F,C,,,,,F,,,,F,,C,,,,R,,,,,,R,C,,,,,F,,F,,C,F,F,,,F,F,,,,,C,,,,F,F,,,abundant overgrown non-nannofossil calcareous particles; overgrown discoasters,,,349,U1433,B,12,R,CC,PAL,
+349-U1433B-13R-CC-PAL-NANNO,0,10,299.2,299.3,,G,A,F,F,,,,,,,,,,,F,,,,,,,,,,,C,,,,,R,,,R,D,F,R,,,R,R,C,,F,,F,,,,,F,,F,Common broken rays of Discoaster ,,,349,U1433,B,13,R,CC,PAL,
+349-U1433B-14R-CC-PAL-NANNO,0,10,309.0,309.1,,M,C,F,F,,,F,,,,,,,,C,,,,,,,,,,,C,,,,,R,,,,A,F,R,,,R,,C,,F,,F,,,,,F,,F,,,,349,U1433,B,14,R,CC,PAL,
+349-U1433B-15R-CC-PAL-NANNO,0,5,317.66,317.71,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,F,R,,,,,,R,,R,,,,,,,,,,Rare Discoaster broken rays present,,,349,U1433,B,15,R,CC,PAL,
+349-U1433B-16R-CC-PAL-NANNO,0,5,328.43,328.48,,M,A,F,R,,,,,,,,,,,C,,,,,,,,,,,C,,,R,R,R,,,,D,F,R,,,R,,C,,F,,R,R,,R,,F,,,Frequent reworked Miocene fossils,,,349,U1433,B,16,R,CC,PAL,
+349-U1433B-17R-CC-PAL-NANNO,0,6,338.3,338.36,,M,A,R,R,,,,,,,,,,,C,,,,,,,,,,,C,,,R,,F,,,R,A,F,F,,,,,C,,F,,R,,,,,F,,R,Medium to good preservation,,,349,U1433,B,17,R,CC,PAL,
+349-U1433B-18R-CC-PAL-NANNO,0,5,345.76,345.81,,M,D,,F,,,,,,,R,,,,C,,,,,,,,,,,C,,,R,R,F,,R,R,A,C,R,,,,,C,,C,,R,,,,,C,,F,Medium to good preservation,,,349,U1433,B,18,R,CC,PAL,
+349-U1433B-19R-CC-PAL-NANNO,0,5,355.91,355.96,,M,A,F,F,,,R,,,R,R,,F,,C,,,,,,,,,,,C,,,F,F,F,,,F,C,F,R,,,F,C,C,,F,F,C,,,F,C,F,,,Nannofossil ooze with common reworked Miocene fossils,,,349,U1433,B,19,R,CC,PAL,
+349-U1433B-20R-CC-PAL-NANNO,0,5,367.31,367.36,,M,R,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,R,,,,,,,R,,,,,,,,,,,,Almost barren of nannofossils,,,349,U1433,B,20,R,CC,PAL,
+349-U1433B-21R-CC-PAL-NANNO,0,5,377.54,377.59,NN16,M,A,C,F,,,,,,,R,,,,C,,,,,,,,,,,C,,,,F,F,,R,R,A,C,C,,,F,,C,,F,,F,,,,R,F,,,,,,349,U1433,B,21,R,CC,PAL,
+349-U1433B-22R-CC-PAL-NANNO,0,5,383.07,383.12,,M,A,F,F,,,,,F,,,,,,C,,,,,,,,,,,C,,,C,F,F,,,R,F,,,,,,C,C,,,,C,,,F,F,,,,Nannofossil ooze with common reworked Miocene fossils,,,349,U1433,B,22,R,CC,PAL,
+349-U1433B-23R-CC-PAL-NANNO,0,5,393.59,393.64,,M,R,,R,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,349,U1433,B,23,R,CC,PAL,
+349-U1433B-24R-CC-PAL-NANNO,0,5,404.18,404.23,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,24,R,CC,PAL,
+349-U1433B-25R-CC-PAL-NANNO,0,5,415.69,415.74,,M,A,,F,,,,,F,,,,C,,C,,,,,,,,,,,C,,,,,,,,,,,,,,,C,C,,,,A,,,,,,,,,,,349,U1433,B,25,R,CC,PAL,
+349-U1433B-26R-CC-PAL-NANNO,0,12,424.82,424.94,,M,A,,R,,,,,F,,R,,,,C,,,,,,,,,,,C,,,R,,R,,,,,,,,,,C,F,,,,C,,,,,,,,,,,349,U1433,B,26,R,CC,PAL,
+349-U1433B-27R-CC-PAL-NANNO,0,12,431.91,432.03,,P,A,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,,,,A,,,R,,,,,Discoasters are heavily overgrown,,,349,U1433,B,27,R,CC,PAL,
+349-U1433B-28R-CC-PAL-NANNO,0,12,441.87,441.99,NN13,M,A,,F,,,,,C,,,,F,,C,,,,,,,,,,,F,,,,,F,,,,,,,,,,C,C,,,,C,,,R,,,,,,,,349,U1433,B,28,R,CC,PAL,
+349-U1433B-29R-CC-PAL-NANNO,0,12,453.36,453.48,NN12,M,A,,F,,R,,,C,,C,,,,C,,,,,,,,,,,F,,,C,,F,,,,,,,,,,F,C,,,,A,,,R,,,R,,,,,349,U1433,B,29,R,CC,PAL,
+349-U1433B-30R-CC-PAL-NANNO,0,10,463.43,463.53,NN12,M,A,,F,,,,,C,,C,,,,C,,,,,,,,,,,F,,,F,,,,,,,,,,,,F,C,,,,A,,,,,,R,,,,,349,U1433,B,30,R,CC,PAL,
+349-U1433B-31R-CC-PAL-NANNO,0,12,474.31,474.43,NN12,M,A,,F,,,,,C,,C,,,,F,,,,,,,,,,,R,,,,,,,,,,,,,,,F,A,,,,A,,,,,,R,,,,,349,U1433,B,31,R,CC,PAL,
+349-U1433B-32R-CC-PAL-NANNO,0,13,482.79,482.92,NN12,P,A,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,F,C,,,,A,,,,,,R,,Discoasters are heavily overgrown; abundant ascidian spicules,,,349,U1433,B,32,R,CC,PAL,
+349-U1433B-33R-CC-PAL-NANNO,0,11,491.59,491.7,NN12,M,A,F,F,,,,,,,,,F,,F,,,,,,,,,,,C,,,C,C,R,,,F,F,,,,,,F,C,,,F,A,,,R,,,,,Nannofossil ooze with common reworked Miocene fossils; ascidian spicules present,,,349,U1433,B,33,R,CC,PAL,
+349-U1433B-34R-CC-PAL-NANNO,0,11,499.3,499.41,,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,,C,,,C,C,F,,,F,C,F,F,,R,,F,C,,R,,C,,,,,,R,,,,,349,U1433,B,34,R,CC,PAL,
+349-U1433B-35R-CC-PAL-NANNO,0,7,510.44,510.51,,M,A,F,F,,,,,,,,,F,,,,,,,,,,,,,C,,,C,,F,,R,F,C,C,,,,R,C,C,,,R,C,,,,F,R,R,,Nannofossil ooze with common reworked Miocene fossils,,,349,U1433,B,35,R,CC,PAL,
+349-U1433B-36R-CC-PAL-NANNO,0,7,520.74,520.81,,M,A,F,F,,,R,,,,R,,R,,F,,,,,,,,,,R,C,,,C,C,F,,R,R,C,C,R,,R,,F,A,,,,C,,,,R,,R,,Medium to good preservation,,,349,U1433,B,36,R,CC,PAL,
+349-U1433B-37R-CC-PAL-NANNO,0,8,530.51,530.59,,G,A,F,F,,,F,,,,R,,C,,F,,,,,,R,,,,,C,,,C,C,F,,,R,C,F,,,,,F,C,,R,,C,,,,R,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,37,R,CC,PAL,
+349-U1433B-38R-CC-PAL-NANNO,0,6,539.46,539.52,NN11,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,R,C,,,C,C,F,,,F,C,F,,,R,,F,C,,R,,C,,,,R,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,38,R,CC,PAL,
 349-U1433B-39R-CC-PAL-NANNO,0,7,551.47,551.54,NN11,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,R,C,,,F,C,F,,,F,C,F,,,,R,C,C,,,,A,,,,F,,R,,"Nannofossil ooze with common reworked Miocene fossils,
-Overgrown and fragmented",,,349,U1433,B,39,R,CC,PAL
-349-U1433B-40R-CC-PAL-NANNO,0,9,561.73,561.82,NN11,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,,C,,,C,C,F,,,F,A,C,,,,R,C,C,,R,,C,,,,F,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,40,R,CC,PAL
-349-U1433B-41R-CC-PAL-NANNO,0,12,569.82,569.94,NN11,M,A,,,,,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,C,C,,,,A,,,,,,,,light gray nannofossil ooze; overgrown discoasters,,,349,U1433,B,41,R,CC,PAL
-349-U1433B-42R-CC-PAL-NANNO,0,9,580.86,580.95,NN11,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,silty-sandy samples; overgrown discoasters and sphenoliths,,,349,U1433,B,42,R,CC,PAL
-349-U1433B-43R-CC-PAL-NANNO,0,6,590.68,590.74,NN11,G,A,,,,R,,,,,,,F,,F,F,,,,,,,,,F,,,,C,,F,,,,,F,,,,F,C,C,,,F,A,,,,,,,,better preserved nannos,,,349,U1433,B,43,R,CC,PAL
-349-U1433B-44R-CC-PAL-NANNO,0,13,598.24,598.37,NN11,M,C,,,,R,,,,,R,,F,,C,,,,,,,,,,,F,,,C,,,,,,,,,,,,C,C,,,,A,,,,,,,,abundant non-calcareous particles,,,349,U1433,B,44,R,CC,PAL
-349-U1433B-45R-2-W 44/44-NANNO,0,0,603.44,603.44,NN11,G,C,C,F,R,,F,R,,,,,C,,F,,,,,,F,,F,,F,,,,C,,F,,,,,F,,,,,F,C,,,,A,,,,,,F,,Well preserved nannofossils,,,349,U1433,B,45,R,2,W
-349-U1433B-45R-CC-PAL-NANNO,0,12,608.42,608.54,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lots of clay minerals,,,349,U1433,B,45,R,CC,PAL
-349-U1433B-46R-2-W 72/72-NANNO,0,0,613.42,613.42,NN11,G,A,,,F,,,,,,,,C,,C,,,,,,,,,,F,F,,,F,,F,,,,,,,,,,F,A,,,,A,,,,,,F,,Well preserved nannofossils,,,349,U1433,B,46,R,2,W
-349-U1433B-46R-3-W 33/33-NANNO,0,0,614.53,614.53,NN11,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,46,R,3,W
-349-U1433B-46R-CC-PAL-NANNO,0,10,617.31,617.41,NN11,M,C,,,,,,,,,,,C,,F,F,,,,,,,,,,,,,C,,,,,,,F,F,,,,C,C,,,,A,,,,,,,,very dark gray lithified rock; wood fragments found in sieved samples; overgrown discoasters present,,,349,U1433,B,46,R,CC,PAL
-349-U1433B-47R-CC-PAL-NANNO,0,8,622.65,622.73,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcarenite-calcisiltite; lots of non-nannofossil calcareous particles,,,349,U1433,B,47,R,CC,PAL
-349-U1433B-48R-CC-PAL-NANNO,0,12,633.22,633.34,NN11,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,overgrown sphenoliths and discoasters,,,349,U1433,B,48,R,CC,PAL
-349-U1433B-49R-CC-PAL-NANNO,0,9,643.67,643.76,NN11,M,C,,R,,,F,,,,,,C,,C,F,,,,,,,,,,F,,,F,,F,,,F,,F,R,,,F,F,,,,F,A,,,,,,,,large calcareous particles; ascidian spicules,,,349,U1433,B,49,R,CC,PAL
-349-U1433B-50R-CC-PAL-NANNO,0,17,653.47,653.64,NN11,M,C,F,F,,,,,,R,R,R,C,,C,,R,,,,,,F,,R,F,,,C,C,R,,,F,C,F,,,,F,F,F,,F,,A,,,,F,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,50,R,CC,PAL
-349-U1433B-51R-CC-PAL-NANNO,0,21,664.3,664.51,NN11,M,C,R,R,,F,,F,,,R,,C,,C,,R,,,,,,F,,,C,,,C,C,F,,,F,A,C,,,,F,F,F,,F,,A,,,,F,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,51,R,CC,PAL
-349-U1433B-52R-CC-PAL-NANNO,0,6,672.0,672.06,NN11,M,C,R,R,,F,,F,,,R,F,C,,C,,,,,,,,R,,R,C,,,C,C,F,,,F,A,C,,,,R,R,F,,F,,A,,,,C,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,52,R,CC,PAL
-349-U1433B-53R-CC-PAL-NANNO,0,6,687.25,687.31,NN11,M,C,R,R,,R,,,,,,,F,,C,,,,,,,,F,,R,C,,,C,C,R,,,F,C,C,,,,,F,F,,R,,C,,,,F,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,53,R,CC,PAL
-349-U1433B-54R-CC-PAL-NANNO,0,6,697.73,697.79,NN10 - NN11,M,C,R,R,,F,,,,,,,R,R,F,,,,R,,,,F,,R,C,,,R,C,,,,F,C,F,,,,,C,C,,,,C,,,,F  ,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,54,R,CC,PAL
-349-U1433B-55R-CC-PAL-NANNO,0,6,707.65,707.71,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,R,,,,,,,349,U1433,B,55,R,CC,PAL
-349-U1433B-56R-CC-PAL-NANNO,0,10,710.98,711.08,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,,,,C,,,,F,,,,,,,349,U1433,B,56,R,CC,PAL
-349-U1433B-57R-CC-PAL-NANNO,0,11,726.59,726.7,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,349,U1433,B,57,R,CC,PAL
-349-U1433B-58R-CC-PAL-NANNO,0,12,736.18,736.3,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,,,,C,,,,C,,,,"Discoasters are common, but heavily overgrown",,,349,U1433,B,58,R,CC,PAL
-349-U1433B-59R-3-W 115/115-NANNO,0,0,741.45,741.45,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals,,,349,U1433,B,59,R,3,W
-349-U1433B-59R-7-W 40/40-NANNO,0,0,746.7,746.7,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,almost barren of nannofossils; full of clay minerals,,,349,U1433,B,59,R,7,W
-349-U1433B-59R-CC-PAL-NANNO,0,10,747.11,747.21,NN10,P,C,,R,R,R,,,,,,F,,,,,,,,,,,R,,R,,,,,,,,,,,,,,,,C,,,,,C,,,,C,,,,"Discoasters are common, but heavily overgrown",,,349,U1433,B,59,R,CC,PAL
-349-U1433B-60R-3-W 139/139-NANNO,0,0,751.29,751.29,,P,R,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals; reworked nannofossils,,,349,U1433,B,60,R,3,W
-349-U1433B-60R-6-W 66/66-NANNO,0,0,755.06,755.06,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals,,,349,U1433,B,60,R,6,W
-349-U1433B-60R-CC-PAL-NANNO,0,10,756.18,756.28,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,60,R,CC,PAL
-349-U1433B-61R-1-W 0/1-NANNO,0,1,756.7,756.71,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals like Sample 61R-3W,,,349,U1433,B,61,R,1,W
-349-U1433B-61R-3-W 69/69-NANNO,0,0,760.33,760.33,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"full of clay minerals like Sample 59R-7W, 40cm",,,349,U1433,B,61,R,3,W
-349-U1433B-61R-CC-PAL-NANNO,0,6,761.85,761.91,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,61,R,CC,PAL
+Overgrown and fragmented",,,349,U1433,B,39,R,CC,PAL,
+349-U1433B-40R-CC-PAL-NANNO,0,9,561.73,561.82,NN11,M,A,F,F,,,,,,,R,,F,,F,,,,,,,,,,,C,,,C,C,F,,,F,A,C,,,,R,C,C,,R,,C,,,,F,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,40,R,CC,PAL,
+349-U1433B-41R-CC-PAL-NANNO,0,12,569.82,569.94,NN11,M,A,,,,,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,C,C,,,,A,,,,,,,,light gray nannofossil ooze; overgrown discoasters,,,349,U1433,B,41,R,CC,PAL,
+349-U1433B-42R-CC-PAL-NANNO,0,9,580.86,580.95,NN11,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,silty-sandy samples; overgrown discoasters and sphenoliths,,,349,U1433,B,42,R,CC,PAL,
+349-U1433B-43R-CC-PAL-NANNO,0,6,590.68,590.74,NN11,G,A,,,,R,,,,,,,F,,F,F,,,,,,,,,F,,,,C,,F,,,,,F,,,,F,C,C,,,F,A,,,,,,,,better preserved nannos,,,349,U1433,B,43,R,CC,PAL,
+349-U1433B-44R-CC-PAL-NANNO,0,13,598.24,598.37,NN11,M,C,,,,R,,,,,R,,F,,C,,,,,,,,,,,F,,,C,,,,,,,,,,,,C,C,,,,A,,,,,,,,abundant non-calcareous particles,,,349,U1433,B,44,R,CC,PAL,
+349-U1433B-45R-2-W 44/44-NANNO,0,0,603.44,603.44,NN11,G,C,C,F,R,,F,R,,,,,C,,F,,,,,,F,,F,,F,,,,C,,F,,,,,F,,,,,F,C,,,,A,,,,,,F,,Well preserved nannofossils,,,349,U1433,B,45,R,2,W,
+349-U1433B-45R-CC-PAL-NANNO,0,12,608.42,608.54,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lots of clay minerals,,,349,U1433,B,45,R,CC,PAL,
+349-U1433B-46R-2-W 72/72-NANNO,0,0,613.42,613.42,NN11,G,A,,,F,,,,,,,,C,,C,,,,,,,,,,F,F,,,F,,F,,,,,,,,,,F,A,,,,A,,,,,,F,,Well preserved nannofossils,,,349,U1433,B,46,R,2,W,
+349-U1433B-46R-3-W 33/33-NANNO,0,0,614.53,614.53,NN11,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,46,R,3,W,
+349-U1433B-46R-CC-PAL-NANNO,0,10,617.31,617.41,NN11,M,C,,,,,,,,,,,C,,F,F,,,,,,,,,,,,,C,,,,,,,F,F,,,,C,C,,,,A,,,,,,,,very dark gray lithified rock; wood fragments found in sieved samples; overgrown discoasters present,,,349,U1433,B,46,R,CC,PAL,
+349-U1433B-47R-CC-PAL-NANNO,0,8,622.65,622.73,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calcarenite-calcisiltite; lots of non-nannofossil calcareous particles,,,349,U1433,B,47,R,CC,PAL,
+349-U1433B-48R-CC-PAL-NANNO,0,12,633.22,633.34,NN11,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,overgrown sphenoliths and discoasters,,,349,U1433,B,48,R,CC,PAL,
+349-U1433B-49R-CC-PAL-NANNO,0,9,643.67,643.76,NN11,M,C,,R,,,F,,,,,,C,,C,F,,,,,,,,,,F,,,F,,F,,,F,,F,R,,,F,F,,,,F,A,,,,,,,,large calcareous particles; ascidian spicules,,,349,U1433,B,49,R,CC,PAL,
+349-U1433B-50R-CC-PAL-NANNO,0,17,653.47,653.64,NN11,M,C,F,F,,,,,,R,R,R,C,,C,,R,,,,,,F,,R,F,,,C,C,R,,,F,C,F,,,,F,F,F,,F,,A,,,,F,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,50,R,CC,PAL,
+349-U1433B-51R-CC-PAL-NANNO,0,21,664.3,664.51,NN11,M,C,R,R,,F,,F,,,R,,C,,C,,R,,,,,,F,,,C,,,C,C,F,,,F,A,C,,,,F,F,F,,F,,A,,,,F,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,51,R,CC,PAL,
+349-U1433B-52R-CC-PAL-NANNO,0,6,672.0,672.06,NN11,M,C,R,R,,F,,F,,,R,F,C,,C,,,,,,,,R,,R,C,,,C,C,F,,,F,A,C,,,,R,R,F,,F,,A,,,,C,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,52,R,CC,PAL,
+349-U1433B-53R-CC-PAL-NANNO,0,6,687.25,687.31,NN11,M,C,R,R,,R,,,,,,,F,,C,,,,,,,,F,,R,C,,,C,C,R,,,F,C,C,,,,,F,F,,R,,C,,,,F,,R,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,53,R,CC,PAL,
+349-U1433B-54R-CC-PAL-NANNO,0,6,697.73,697.79,NN10 - NN11,M,C,R,R,,F,,,,,,,R,R,F,,,,R,,,,F,,R,C,,,R,C,,,,F,C,F,,,,,C,C,,,,C,,,,F  ,,,,"Medium to poor preservation, abundant fragments",,,349,U1433,B,54,R,CC,PAL,
+349-U1433B-55R-CC-PAL-NANNO,0,6,707.65,707.71,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,R,,,,,,,349,U1433,B,55,R,CC,PAL,
+349-U1433B-56R-CC-PAL-NANNO,0,10,710.98,711.08,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,,,,C,,,,F,,,,,,,349,U1433,B,56,R,CC,PAL,
+349-U1433B-57R-CC-PAL-NANNO,0,11,726.59,726.7,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,349,U1433,B,57,R,CC,PAL,
+349-U1433B-58R-CC-PAL-NANNO,0,12,736.18,736.3,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,,,,C,,,,C,,,,"Discoasters are common, but heavily overgrown",,,349,U1433,B,58,R,CC,PAL,
+349-U1433B-59R-3-W 115/115-NANNO,0,0,741.45,741.45,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals,,,349,U1433,B,59,R,3,W,
+349-U1433B-59R-7-W 40/40-NANNO,0,0,746.7,746.7,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,almost barren of nannofossils; full of clay minerals,,,349,U1433,B,59,R,7,W,
+349-U1433B-59R-CC-PAL-NANNO,0,10,747.11,747.21,NN10,P,C,,R,R,R,,,,,,F,,,,,,,,,,,R,,R,,,,,,,,,,,,,,,,C,,,,,C,,,,C,,,,"Discoasters are common, but heavily overgrown",,,349,U1433,B,59,R,CC,PAL,
+349-U1433B-60R-3-W 139/139-NANNO,0,0,751.29,751.29,,P,R,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals; reworked nannofossils,,,349,U1433,B,60,R,3,W,
+349-U1433B-60R-6-W 66/66-NANNO,0,0,755.06,755.06,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals,,,349,U1433,B,60,R,6,W,
+349-U1433B-60R-CC-PAL-NANNO,0,10,756.18,756.28,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,60,R,CC,PAL,
+349-U1433B-61R-1-W 0/1-NANNO,0,1,756.7,756.71,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full of clay minerals like Sample 61R-3W,,,349,U1433,B,61,R,1,W,
+349-U1433B-61R-3-W 69/69-NANNO,0,0,760.33,760.33,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"full of clay minerals like Sample 59R-7W, 40cm",,,349,U1433,B,61,R,3,W,
+349-U1433B-61R-CC-PAL-NANNO,0,6,761.85,761.91,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,61,R,CC,PAL,
 349-U1433B-62R-1-W 45/45-NANNO,0,0,766.85,766.85,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Common unidentified calcite grains or debris,
-abundant sponge needles and volcanic glass",,,349,U1433,B,62,R,1,W
-349-U1433B-62R-4-W 91/91-NANNO,0,0,771.83,771.83,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,62,R,4,W
-349-U1433B-62R-CC-PAL-NANNO,0,8,775.24,775.32,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,R,,,,,,,,,,,,Contaminated?,,,349,U1433,B,62,R,CC,PAL
-349-U1433B-63R-4-W 105/105-NANNO,0,0,781.59,781.59,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greenish clay, barren of calcite grains, abundant sponge needles and volcanic glass",,,349,U1433,B,63,R,4,W
-349-U1433B-63R-5-W 67/67-NANNO,0,0,782.68,782.68,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greenish clay, barren of calcite grains, abundant volcanic glass",,,349,U1433,B,63,R,5,W
-349-U1433B-63R-CC-PAL-NANNO,0,8,785.09,785.17,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,63,R,CC,PAL
-349-U1433B-64R-2-W 35/35-NANNO,0,0,787.39,787.39,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greenish clay, few unidentified calcite grains, common sponge needles and volcanic glass",,,349,U1433,B,64,R,2,W
-349-U1433B-64R-CC-PAL-NANNO,0,10,794.23,794.33,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Almost barren, only 1 Sphenolithus sp. present",,,349,U1433,B,64,R,CC,PAL
-349-U1433B-65R-1-A 116/117-NANNO,0,1,796.66,796.67,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,"One piece light yellow claystone between overlying red clay and underlying basalts, nannofossils strongly overgrown",,,349,U1433,B,65,R,1,A
-349-U1433B-65R-2-A 1/2-NANNO,0,1,796.68,796.69,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,R,R,,R,,,,From yellow vein on the top of basalt,,,349,U1433,B,65,R,2,A
-349-U1433B-65R-2-A 45/51-NANNO,0,6,797.12,797.18,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,R,,,,From green clay between basalt and carbonate. 1  Helicosphaera obliqua present,,,349,U1433,B,65,R,2,A
-349-U1433B-65R-2-A 57/60-NANNO,0,3,797.24,797.27,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"White clay in the vein of basalt, calcite crystal abundant",,,349,U1433,B,65,R,2,A
-349-U1433B-65R-2-W 49/51-NANNO,0,2,797.16,797.18,,M,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,"sample is from green ""clasts"" within the white calcareous pebble found between the pillow basalt samples; 1 Discoaster berggrenii = contaminated?",,,349,U1433,B,65,R,2,W
-349-U1433B-65R-4-PAL-NANNO,0,7,799.62,799.69,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,65,R,4,PAL
-349-U1433B-68R-2-A 8/10-NANNO,0,2,821.16,821.18,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"sample is from a white ""inclusion"" at the bottom of a basalt sample; full of white birefringent fibrous mineral",,,349,U1433,B,68,R,2,A
-349-U1433B-68R-3-W 133/134-NANNO,0,1,823.83,823.84,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,R,,,,"F. tympaniformis?; polycyclolith (see Bown, 1998)",,,349,U1433,B,68,R,3,W
-349-U1433B-69R-1-W 120/121-NANNO,0,1,825.8,825.81,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sphenolith-looking particle,,,349,U1433,B,69,R,1,W
-349-U1433B-69R-3-W 78/82-NANNO,0,4,827.97,828.01,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"fishbone-looking particle, mineral?",,,349,U1433,B,69,R,3,W
-349-U1433B-70R-1-W 80/90-NANNO,0,10,830.2,830.3,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,"From a carbonate layer interbedded with basalt, nannofossil strongly overgrown",,,349,U1433,B,70,R,1,W
-349-U1433B-71R-1-W 0/2-NANNO,0,2,834.2,834.22,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,349,U1433,B,71,R,1,W
+abundant sponge needles and volcanic glass",,,349,U1433,B,62,R,1,W,
+349-U1433B-62R-4-W 91/91-NANNO,0,0,771.83,771.83,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,62,R,4,W,
+349-U1433B-62R-CC-PAL-NANNO,0,8,775.24,775.32,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,R,,,,,,,,,,,,Contaminated?,,,349,U1433,B,62,R,CC,PAL,
+349-U1433B-63R-4-W 105/105-NANNO,0,0,781.59,781.59,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greenish clay, barren of calcite grains, abundant sponge needles and volcanic glass",,,349,U1433,B,63,R,4,W,
+349-U1433B-63R-5-W 67/67-NANNO,0,0,782.68,782.68,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greenish clay, barren of calcite grains, abundant volcanic glass",,,349,U1433,B,63,R,5,W,
+349-U1433B-63R-CC-PAL-NANNO,0,8,785.09,785.17,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,63,R,CC,PAL,
+349-U1433B-64R-2-W 35/35-NANNO,0,0,787.39,787.39,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Greenish clay, few unidentified calcite grains, common sponge needles and volcanic glass",,,349,U1433,B,64,R,2,W,
+349-U1433B-64R-CC-PAL-NANNO,0,10,794.23,794.33,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Almost barren, only 1 Sphenolithus sp. present",,,349,U1433,B,64,R,CC,PAL,
+349-U1433B-65R-1-A 116/117-NANNO,0,1,796.66,796.67,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,"One piece light yellow claystone between overlying red clay and underlying basalts, nannofossils strongly overgrown",,,349,U1433,B,65,R,1,A,
+349-U1433B-65R-2-A 1/2-NANNO,0,1,796.68,796.69,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,R,R,,R,,,,From yellow vein on the top of basalt,,,349,U1433,B,65,R,2,A,
+349-U1433B-65R-2-A 45/51-NANNO,0,6,797.12,797.18,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,R,,,,From green clay between basalt and carbonate. 1  Helicosphaera obliqua present,,,349,U1433,B,65,R,2,A,
+349-U1433B-65R-2-A 57/60-NANNO,0,3,797.24,797.27,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"White clay in the vein of basalt, calcite crystal abundant",,,349,U1433,B,65,R,2,A,
+349-U1433B-65R-2-W 49/51-NANNO,0,2,797.16,797.18,,M,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,"sample is from green ""clasts"" within the white calcareous pebble found between the pillow basalt samples; 1 Discoaster berggrenii = contaminated?",,,349,U1433,B,65,R,2,W,
+349-U1433B-65R-4-PAL-NANNO,0,7,799.62,799.69,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1433,B,65,R,4,PAL,
+349-U1433B-68R-2-A 8/10-NANNO,0,2,821.16,821.18,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"sample is from a white ""inclusion"" at the bottom of a basalt sample; full of white birefringent fibrous mineral",,,349,U1433,B,68,R,2,A,
+349-U1433B-68R-3-W 133/134-NANNO,0,1,823.83,823.84,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,R,,,,"F. tympaniformis?; polycyclolith (see Bown, 1998)",,,349,U1433,B,68,R,3,W,
+349-U1433B-69R-1-W 120/121-NANNO,0,1,825.8,825.81,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sphenolith-looking particle,,,349,U1433,B,69,R,1,W,
+349-U1433B-69R-3-W 78/82-NANNO,0,4,827.97,828.01,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"fishbone-looking particle, mineral?",,,349,U1433,B,69,R,3,W,
+349-U1433B-70R-1-W 80/90-NANNO,0,10,830.2,830.3,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,"From a carbonate layer interbedded with basalt, nannofossil strongly overgrown",,,349,U1433,B,70,R,1,W,
+349-U1433B-71R-1-W 0/2-NANNO,0,2,834.2,834.22,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,349,U1433,B,71,R,1,W,
