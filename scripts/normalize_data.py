@@ -3,29 +3,33 @@ import os
 import numpy as np
 import pandas as pd
 
-# HACK: (@)? are meaningless matches so each regex has 7 capture groups
+# HACK: (@)? are meaningless matches so each regex has 8 capture groups
 # (1)-(U1)(A)
 # (Exp)-(Site)(Hole)
-sample_hole_regex = r"(^\d+)-(U\d+)([a-zA-Z])(@)?(@)?(@)?(@)?$"
+sample_hole_regex = r"(^\d+)-(U\d+)([a-zA-Z])(@)?(@)?(@)?(@)?(@)?$"
 # (1)-(U1)(A)-(1)
 # (Exp)-(Site)(Hole)-(Core)
-sample_core_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)(@)?(@)?(@)?$"
+sample_core_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)(@)?(@)?(@)?(@)?$"
 # (1)-(U1)(A)-(1)(A)
 # (Exp)-(Site)(Hole)-(Core)(Type)
-sample_type_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])(@)?(@)?$"
+sample_type_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])(@)?(@)?(@)?$"
 # (1)-(U1)(A)-(1)(A)-(1)
 # (1)-(U1)(A)-(1)(A)-(A)
 # (Exp)-(Site)(Hole)-(Core)(Type)-(Section)
-sample_sect_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)(@)?$"
+sample_sect_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)(@)?(@)?$"
 # (1)-(U1)(A)-(1)(A)-(1)-(1)
 # (1)-(U1)(A)-(1)(A)-(A)-(A)
 # (Exp)-(Site)(Hole)-(Core)(Type)-(Section)-(AW)
-sample_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+)"
+sample_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+)(@)?$"
+# (1)-(U1)(A)-(1)(A)-(1)-(1)
+# (1)-(U1)(A)-(1)(A)-(A)-(A)
+# (Exp)-(Site)(Hole)-(Core)(Type)-(Section)-(AW)
+sample_extra_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+)(.*?)$"
 # (1)-(U1)(A)-(1)-(1)-(1)
 # (1)-(U1)(A)-(1)-(A)-(A)
 # (Exp)-(Site)(Hole)-(Core)-(Section)-(AW)
-sample_no_type_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)(@)?-(\w+)-(\w+)"
-invalid_sample_regex = r"(-)?(-)?(-)?(-)?(-)?(-)?(-)?"
+sample_no_type_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)(@)?-(\w+)-(\w+)(@)?"
+invalid_sample_regex = r"(-)?(-)?(-)?(-)?(-)?(-)?(-)?(-)?"
 
 
 def tablerize(word):
@@ -152,6 +156,8 @@ def valid_sample_value(name):
         return True
     elif re.search(sample_aw_regex, name):
         return True
+    elif re.search(sample_extra_regex, name):
+        return True
     else:
         # print("bad", name)
         return False
@@ -175,6 +181,8 @@ def extract_sample_parts(name):
         result = re.search(sample_no_type_aw_regex, name)
     elif re.search(sample_aw_regex, name):
         result = re.search(sample_aw_regex, name)
+    elif re.search(sample_extra_regex, name):
+        result = re.search(sample_extra_regex, name)
     else:
         result = re.search(invalid_sample_regex, name)
 
@@ -192,11 +200,18 @@ def create_sample_cols(series):
             "Type": [],
             "Section": [],
             "A/W": [],
+            "Extra Sample ID Data": [],
         }
     )
 
     for item in series.to_list():
         parts = extract_sample_parts(item)
+
+        extra = parts[7]
+        if extra:
+            extra = extra.strip()
+            extra = re.sub("^-", "", extra, 1)
+
         parts_dict = {
             "Exp": parts[0],
             "Site": parts[1],
@@ -205,6 +220,7 @@ def create_sample_cols(series):
             "Type": parts[4],
             "Section": parts[5],
             "A/W": parts[6],
+            "Extra Sample ID Data": extra,
         }
         df = df.append(parts_dict, ignore_index=True)
 

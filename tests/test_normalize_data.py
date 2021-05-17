@@ -436,6 +436,7 @@ class TestNormalizeExpeditionSectionCols:
             "Type": ["t", "T"],
             "Section": ["3", "3"],
             "A/W": ["a", "A"],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -460,6 +461,7 @@ class TestNormalizeExpeditionSectionCols:
             "Type": ["t", "T"],
             "Section": ["3", "3"],
             "A/W": ["a", "A"],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -502,6 +504,7 @@ class TestNormalizeExpeditionSectionCols:
             "Type": [None],
             "Section": [None],
             "A/W": [None],
+            "Extra Sample ID Data": [None],
         }
         expected = pd.DataFrame(data)
 
@@ -532,6 +535,49 @@ class TestCreateSampleCols:
             "Type": ["t", "T"],
             "Section": ["3", "Sec"],
             "A/W": ["a", "4AA"],
+            "Extra Sample ID Data": [None, None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Label ID"])
+        assert_frame_equal(df, expected)
+
+    def test_exp_site_hole_core_type_section_aw_extra_string(self):
+        data = {
+            "Label ID": ["1-U1h-2t-3-a e", "10-U20H-20T-Sec-4AA-E"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U20"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "Sec"],
+            "A/W": ["a", "4AA"],
+            "Extra Sample ID Data": ["e", "E"],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Label ID"])
+        assert_frame_equal(df, expected)
+
+    def test_extracts_complex_extra(self):
+        data = {
+            "Label ID": ["1-U1h-2t-3-a(81-91)-FORAM"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1"],
+            "Site": ["U1"],
+            "Hole": ["h"],
+            "Core": ["2"],
+            "Type": ["t"],
+            "Section": ["3"],
+            "A/W": ["a"],
+            "Extra Sample ID Data": ["(81-91)-FORAM"],
         }
         expected = pd.DataFrame(data)
 
@@ -612,6 +658,7 @@ class TestCreateSampleCols:
             "Type": [None],
             "Section": ["3"],
             "A/W": ["a"],
+            "Extra Sample ID Data": [None],
         }
         expected = pd.DataFrame(data)
 
@@ -642,6 +689,7 @@ class TestCreateSampleCols:
             "Type": ["t", "T"],
             "Section": ["3", "3"],
             "A/W": [None, None],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -662,6 +710,7 @@ class TestCreateSampleCols:
             "Type": ["t", "T"],
             "Section": [None, None],
             "A/W": [None, None],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -682,6 +731,7 @@ class TestCreateSampleCols:
             "Type": [None, None],
             "Section": [None, None],
             "A/W": [None, None],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -702,6 +752,7 @@ class TestCreateSampleCols:
             "Type": [None, None],
             "Section": [None, None],
             "A/W": [None, None],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -742,6 +793,7 @@ class TestCreateSampleCols:
             "Type": ["R", "R"],
             "Section": ["1", "1"],
             "A/W": ["A", None],
+            "Extra Sample ID Data": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -762,6 +814,7 @@ class TestCreateSampleCols:
             "Type": [None],
             "Section": [None],
             "A/W": [None],
+            "Extra Sample ID Data": [None],
         }
         expected = pd.DataFrame(data)
 
@@ -782,6 +835,7 @@ class TestCreateSampleCols:
             "Type": [None],
             "Section": [None],
             "A/W": [None],
+            "Extra Sample ID Data": [None],
         }
         expected = pd.DataFrame(data)
 
