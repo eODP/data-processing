@@ -328,7 +328,14 @@ def extract_taxon_group_from_filename(filename):
         )
 
     if filename_parts is not None:
-        return filename_parts.groups()[0].lower()
+        taxon_group = filename_parts.groups()[0].lower()
+        if taxon_group == "nannofossil":
+            taxon_group = "nannofossils"
+        elif taxon_group == "radiolarians_events":
+            taxon_group = "radiolarians"
+        elif taxon_group == "nannofossils_revised":
+            taxon_group = "nannofossils"
+        return taxon_group
     else:
         raise ValueError("Cannot extract taxon group.")
 
