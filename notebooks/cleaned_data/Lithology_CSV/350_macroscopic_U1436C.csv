@@ -1,4 +1,4 @@
-﻿Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Drilling disturbance type,Drilling disturbance intensity,Drilling disturbance intensity rank (read only),Drilling disturbance comment,File Data,Shore File Links
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Drilling disturbance type,Drilling disturbance intensity,Drilling disturbance intensity rank (read only),Drilling disturbance comment,File Data,Shore File Links
 350-U1436C-2H-4-A,350,U1436,C,2,2-4,H,4,A,0,67,9.02,9.69,sediment flowage,severe [drilling disturbance],7,,,
 350-U1436C-4H-1-A,350,U1436,C,4,4-1,H,1,A,102,150,12.62,13.1,sediment flowage,moderate [drilling disturbance],4,,,
 350-U1436C-4H-2-A,350,U1436,C,4,4-2,H,2,A,0,48,13.1,13.58,sediment flowage,moderate [drilling disturbance],4,,,
