@@ -1,5 +1,5 @@
 Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Ebridian group abundance,Ebridian preservation dissolution,Ebridian preservation fragmentation,Ammodochium rectangulare,Ebridulina paradoxa,Hovassebria ampulla,Micromarsupium anceps,Micromarsupium curticannum,Pseudammodochium dictyoides,Pseudammodochium lingii,Pseudammodochium sphericum,Zone name,Zone name (short)
-318-U1359B-12H-CC-W 19/23-PAL-DIAT4,318,U1359,B,12,12-CC,H,CC,W,19/23-PAL-DIAT4,0,5,112.51,112.56,X[318_Si],,,,,,,,,X[318_Si],,,
+318-U1359B-12H-CC-W 19/23-PAL-DIAT4,318,U1359,B,12,12-CC,H,CC,W,19/23-PAL-DIAT4,0,5,112.51,112.56,X[318_Si],,,,,,,,,X,,,
 318-U1359B-13H-CC-W 0/0-DIAT1,318,U1359,B,13,13-CC,H,CC,W,0/0-DIAT1,0,0,120.03,120.03,R[318_Si],,,,,,,,,,,,
-318-U1359B-16H-CC-W 19/22-PAL-DIAT2,318,U1359,B,16,16-CC,H,CC,W,19/22-PAL-DIAT2,0,0,146.32,146.32,X[318_Si],,,,,,,,,,X[318_Si],,
+318-U1359B-16H-CC-W 19/22-PAL-DIAT2,318,U1359,B,16,16-CC,H,CC,W,19/22-PAL-DIAT2,0,0,146.32,146.32,X[318_Si],,,,,,,,,,X,,
 318-U1359B-20H-CC-W 18/21-PAL-DIAT,318,U1359,B,20,20-CC,H,CC,W,18/21-PAL-DIAT,0,0,188.06,188.06,X[318_Si],,,,,,,,,,,,
