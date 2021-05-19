@@ -59,12 +59,15 @@ def create_directory(newpath):
         os.makedirs(newpath)
 
 
-def normalize_sample_col(df):
-    if "Sample" in df.columns:
-        pass
-    elif "Label ID" in df.columns:
+def rename_label_id(df):
+    if "Label ID" in df.columns:
         cols = {"Label ID": "Sample"}
         df.rename(columns=cols, inplace=True)
+
+
+def add_sample_col(df):
+    if "Sample" in df.columns:
+        pass
     else:
         create_sample_name(df)
 
