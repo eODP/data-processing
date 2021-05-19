@@ -1,14 +1,14 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Saccate pollen,Nothofagus pollen,other pollen,spores,fungal spores
-318-U1359A-1H-CC-PAL-PALY-PALYA,318,U1359,A,1,1-CC,H,CC,PAL,PALY-PALYA,0,0,0.62,0.62,F [Default],B [Default],B [Default],B [Default],B [Default]
-318-U1359A-2H-CC-PAL-PALY-PALYA,318,U1359,A,2,2-CC,H,CC,PAL,PALY-PALYA,0,0,9.49,9.49,F [Default],B [Default],B [Default],A [Default],B [Default]
-318-U1359A-3H-CC-PAL-PALY-PALYA,318,U1359,A,3,3-CC,H,CC,PAL,PALY-PALYA,0,0,19.27,19.27,F [Default],B [Default],B [Default],A [Default],B [Default]
-318-U1359A-4H-CC-PAL-PALY-PALYA,318,U1359,A,4,4-CC,H,CC,PAL,PALY-PALYA,0,0,28.51,28.51,B [Default],B [Default],B [Default],B [Default],B [Default]
-318-U1359A-5H-CC-PAL-PALY-PALYA,318,U1359,A,5,5-CC,H,CC,PAL,PALY-PALYA,0,0,29.28,29.28,B [Default],B [Default],B [Default],T [Default],B [Default]
-318-U1359A-6H-CC-PAL-PALY-PALYA,318,U1359,A,6,6-CC,H,CC,PAL,PALY-PALYA,0,0,47.68,47.68,B [Default],T [Default],B [Default],F [Default],B [Default]
-318-U1359A-7H-CC-PAL-PALY-PALYA,318,U1359,A,7,7-CC,H,CC,PAL,PALY-PALYA,0,0,55.32,55.32,T [Default],B [Default],T [Default],F [Default],B [Default]
-318-U1359A-8H-CC-PAL-PALY-PALYA,318,U1359,A,8,8-CC,H,CC,PAL,PALY-PALYA,0,0,66.55,66.55,T [Default],B [Default],T [Default],F [Default],B [Default]
-318-U1359A-9H-CC-PAL-PALY-PALYA,318,U1359,A,9,9-CC,H,CC,PAL,PALY-PALYA,0,0,75.75,75.75,T [Default],B [Default],T [Default],B [Default],B [Default]
-318-U1359A-12H-CC-PAL-PALY-PALYA,318,U1359,A,12,12-CC,H,CC,PAL,PALY-PALYA,0,0,104.84,104.84,T [Default],B [Default],T [Default],F [Default],B [Default]
-318-U1359A-15H-CC-PAL-PALY-PALYA,318,U1359,A,15,15-CC,H,CC,PAL,PALY-PALYA,0,0,133.645,133.645,T [Default],B [Default],T [Default],F [Default],B [Default]
-318-U1359A-18X-CC-PAL-PALY-PALYA,318,U1359,A,18,18-CC,X,CC,PAL,PALY-PALYA,0,0,153.915,153.915,F [Default],B [Default],T [Default],C [Default],T [Default]
-318-U1359A-21X-CC-PAL-PALY-PALYA,318,U1359,A,21,21-CC,X,CC,PAL,PALY-PALYA,0,0,182.02,182.02,B [Default],B [Default],B [Default],T [Default],B [Default]
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Saccate pollen,Nothofagus pollen,other pollen,spores,fungal spores,Zone name,Zone name (short)
+318-U1359A-1H-CC-PAL-PALY-PALYA,318,U1359,A,1,1-CC,H,CC,PAL,PALY-PALYA,0,0,0.62,0.62,F [Default],B [Default],B [Default],B [Default],B [Default],,
+318-U1359A-2H-CC-PAL-PALY-PALYA,318,U1359,A,2,2-CC,H,CC,PAL,PALY-PALYA,0,0,9.49,9.49,F [Default],B [Default],B [Default],A [Default],B [Default],,
+318-U1359A-3H-CC-PAL-PALY-PALYA,318,U1359,A,3,3-CC,H,CC,PAL,PALY-PALYA,0,0,19.27,19.27,F [Default],B [Default],B [Default],A [Default],B [Default],,
+318-U1359A-4H-CC-PAL-PALY-PALYA,318,U1359,A,4,4-CC,H,CC,PAL,PALY-PALYA,0,0,28.51,28.51,B [Default],B [Default],B [Default],B [Default],B [Default],,
+318-U1359A-5H-CC-PAL-PALY-PALYA,318,U1359,A,5,5-CC,H,CC,PAL,PALY-PALYA,0,0,29.28,29.28,B [Default],B [Default],B [Default],T [Default],B [Default],,
+318-U1359A-6H-CC-PAL-PALY-PALYA,318,U1359,A,6,6-CC,H,CC,PAL,PALY-PALYA,0,0,47.68,47.68,B [Default],T [Default],B [Default],F [Default],B [Default],,
+318-U1359A-7H-CC-PAL-PALY-PALYA,318,U1359,A,7,7-CC,H,CC,PAL,PALY-PALYA,0,0,55.32,55.32,T [Default],B [Default],T [Default],F [Default],B [Default],,
+318-U1359A-8H-CC-PAL-PALY-PALYA,318,U1359,A,8,8-CC,H,CC,PAL,PALY-PALYA,0,0,66.55,66.55,T [Default],B [Default],T [Default],F [Default],B [Default],,
+318-U1359A-9H-CC-PAL-PALY-PALYA,318,U1359,A,9,9-CC,H,CC,PAL,PALY-PALYA,0,0,75.75,75.75,T [Default],B [Default],T [Default],B [Default],B [Default],,
+318-U1359A-12H-CC-PAL-PALY-PALYA,318,U1359,A,12,12-CC,H,CC,PAL,PALY-PALYA,0,0,104.84,104.84,T [Default],B [Default],T [Default],F [Default],B [Default],,
+318-U1359A-15H-CC-PAL-PALY-PALYA,318,U1359,A,15,15-CC,H,CC,PAL,PALY-PALYA,0,0,133.645,133.645,T [Default],B [Default],T [Default],F [Default],B [Default],,
+318-U1359A-18X-CC-PAL-PALY-PALYA,318,U1359,A,18,18-CC,X,CC,PAL,PALY-PALYA,0,0,153.915,153.915,F [Default],B [Default],T [Default],C [Default],T [Default],,
+318-U1359A-21X-CC-PAL-PALY-PALYA,318,U1359,A,21,21-CC,X,CC,PAL,PALY-PALYA,0,0,182.02,182.02,B [Default],B [Default],B [Default],T [Default],B [Default],,

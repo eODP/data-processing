@@ -1,3 +1,3 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Ebridian group abundance,Ebridian preservation dissolution,Ebridian preservation fragmentation,Ammodochium rectangulare,Ebridulina paradoxa,Micromarsupium anceps,Micromarsupium curticannum,Pseudammodochium dictyoides,Pseudammodochium lingii,Pseudammodochium sphericum
-318-U1355A-4R-CC-PAL-DIAT1,318,U1355,A,4,4-CC,R,CC,PAL,DIAT1,0,2,24.85,24.87,X[318_Si],,,,,,,,X[318_Si],
-318-U1355A-4R-CC-PAL-DIAT2,318,U1355,A,4,4-CC,R,CC,PAL,DIAT2,0,2,24.85,24.87,X[318_Si],,,,,,,,X[318_Si],
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Ebridian group abundance,Ebridian preservation dissolution,Ebridian preservation fragmentation,Ammodochium rectangulare,Ebridulina paradoxa,Micromarsupium anceps,Micromarsupium curticannum,Pseudammodochium dictyoides,Pseudammodochium lingii,Pseudammodochium sphericum,Zone name,Zone name (short)
+318-U1355A-4R-CC-PAL-DIAT1,318,U1355,A,4,4-CC,R,CC,PAL,DIAT1,0,2,24.85,24.87,X[318_Si],,,,,,,,X[318_Si],,,
+318-U1355A-4R-CC-PAL-DIAT2,318,U1355,A,4,4-CC,R,CC,PAL,DIAT2,0,2,24.85,24.87,X[318_Si],,,,,,,,X[318_Si],,,
