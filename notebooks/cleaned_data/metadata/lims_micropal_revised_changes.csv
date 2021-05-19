@@ -1,2 +1,2 @@
-file,path,taxon_group,empty_rows_columns,remove_identical_rows,remove_identical_columns,add_expedition_section_cols
-363-U1482A-nannofossils_revised.csv,Micropal_CSV_revised/363-U1482A-nannofossils_revised.csv,nannofossils,False,False,False,True
+file,path,taxon_group,empty_rows_columns,remove_identical_rows,remove_identical_columns,add_expedition_section_cols,rename_label_id
+363-U1482A-nannofossils_revised.csv,Micropal_CSV_revised/363-U1482A-nannofossils_revised.csv,nannofossils,False,False,False,True,False

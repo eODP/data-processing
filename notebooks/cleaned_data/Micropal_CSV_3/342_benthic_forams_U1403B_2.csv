@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
 342-U1403B-19H-3-W 84/86-FORAM,342,U1403,B,19,19-3,H,3,W,84/86-FORAM,0,2,154.24,154.26,G [P21],R [A60],B [A60],R [A60],B [A60],D [A60],P [A60],,
 342-U1403B-19H-4-W 32/34-FORAM,342,U1403,B,19,19-4,H,4,W,32/34-FORAM,0,2,154.65,154.67,G [P21],R [A60],B [A60],P [A60],B [A60],D [A60],P [A60],,
 342-U1403B-29X-4-W 25/27-FORAM,342,U1403,B,29,29-4,X,4,W,25/27-FORAM,0,2,231.05,231.07,G [P21],D [A60],P [A60],B [A60],R [A60],D [A60],P [A60],,

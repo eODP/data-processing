@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Saccate pollen,Nothofagus pollen,other pollen,spores,fungal spores
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Saccate pollen,Nothofagus pollen,other pollen,spores,fungal spores
 318-U1359A-1H-CC-PAL-PALY-PALYA,318,U1359,A,1,1-CC,H,CC,PAL,PALY-PALYA,0,0,0.62,0.62,F [Default],B [Default],B [Default],B [Default],B [Default]
 318-U1359A-2H-CC-PAL-PALY-PALYA,318,U1359,A,2,2-CC,H,CC,PAL,PALY-PALYA,0,0,9.49,9.49,F [Default],B [Default],B [Default],A [Default],B [Default]
 318-U1359A-3H-CC-PAL-PALY-PALYA,318,U1359,A,3,3-CC,H,CC,PAL,PALY-PALYA,0,0,19.27,19.27,F [Default],B [Default],B [Default],A [Default],B [Default]
