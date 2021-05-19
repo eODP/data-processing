@@ -1,2 +1,2 @@
-file,path,taxon_group,empty_rows_columns
-363-U1482A-nannofossils_revised.csv,Micropal_CSV_revised/363-U1482A-nannofossils_revised.csv,nannofossils,False
+file,path,taxon_group,empty_rows_columns,remove_identical_rows
+363-U1482A-nannofossils_revised.csv,Micropal_CSV_revised/363-U1482A-nannofossils_revised.csv,nannofossils,False,False
