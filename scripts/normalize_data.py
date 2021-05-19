@@ -21,10 +21,13 @@ sample_sect_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)(@)?(@)?$"
 # (1)-(U1)(A)-(1)(A)-(A)-(A)
 # (Exp)-(Site)(Hole)-(Core)(Type)-(Section)-(AW)
 sample_aw_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+)(@)?$"
-# (1)-(U1)(A)-(1)(A)-(1)-(1)
-# (1)-(U1)(A)-(1)(A)-(A)-(A)
-# (Exp)-(Site)(Hole)-(Core)(Type)-(Section)-(AW)
-sample_extra_regex = r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+)(.*?)$"
+# (1)-(U1)(A)-(1)(A)-(1)-(1)-(1)
+# (1)-(U1)(A)-(1)(A)-(A)-(A)-(A)
+# (1)-(U1)(A)-(1)(A)-(A)-(A(A))-(A)
+# (Exp)-(Site)(Hole)-(Core)(Type)-(Section)-(AW)-(Extra)
+sample_extra_regex = (
+    r"(^\d+)-(U\d+)([a-zA-Z])-(\d+)([a-zA-Z])-(\w+)-(\w+(\([\w\-]+\))?)(.*?)$"
+)
 # (1)-(U1)(A)-(1)-(1)-(1)
 # (1)-(U1)(A)-(1)-(A)-(A)
 # (Exp)-(Site)(Hole)-(Core)-(Section)-(AW)
@@ -72,13 +75,15 @@ def create_sample_name_for_row(row, columns):
         f"{row['Core']}{row['Type']}-{row['Section']}-{row['A/W']}"
     )
 
-    extra = "Extra Sample ID Data"
-    if extra in columns and row[extra] is not None and row[extra] is not np.NaN:
+    if "Extra Sample ID Data" in columns and isinstance(
+        row["Extra Sample ID Data"], str
+    ):
         if row["A/W"] == "PAL":
-            name = name + "-" + row[extra]
+            name = name + "-" + row["Extra Sample ID Data"]
         else:
-            name = name + " " + row[extra]
+            name = name + " " + row["Extra Sample ID Data"]
 
+    name = re.sub("nan", "", name)
     name = re.sub("None", "", name)
     name = re.sub("-{2,}", "-", name)
     return re.sub("-$", "", name)
@@ -207,10 +212,14 @@ def create_sample_cols(series):
     for item in series.to_list():
         parts = extract_sample_parts(item)
 
-        extra = parts[7]
+        if len(parts) == 9:
+            extra = parts[8]
+        else:
+            extra = parts[7]
+
         if extra:
             extra = extra.strip()
-            extra = re.sub("^-", "", extra, 1)
+            extra = re.sub("^, -|^-|^,", "", extra).strip()
 
         parts_dict = {
             "Exp": parts[0],
