@@ -1,15 +1,15 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],No. specimens/tray,Preservation,Comment,Argilloecia spp.,Bairdoppilata spp.,Blind trachyleberidids,Bradleya spp.,Cletocythereis rastromarginata,Cytheralison sp. ,Cytherella sp.,Cytheropteron spp.,Dutoitella crassinodosa ,Dutoitella suhmi,Glencoeleberis? sp.,Krithe spp.,Legitimocythere acanthoderma,Oertliella? sp.,Philoneptunus paragravezia,Philoneptunus cf. tricolonos,Poseidonamicus spp.,Pseudobosquetina mucronalata,Sighted trachyleberidids,Xestolebris spp.,Ship File Links,Shore File Links,File Data
-371-U1508A-1H-CC-PAL-OSTRA,0,10,1.25,1.35,15.6,2,,,,,11,,,0,10,,,,2,,,,,0,,,0,,,
-371-U1508A-2H-CC-PAL-OSTRA,0,10,8.64,8.74,14,2,,,,,12,,,0,5,,,,0,,,,,0,,,8,,,
-371-U1508A-4H-CC-PAL-OSTRA,0,10,29.5,29.6,14.6,3,,,,,9,,,0,14,,,,9,,,,,0,,,1,,,
-371-U1508A-6H-CC-PAL-OSTRA,0,10,46.04,46.14,7.4,3,,,,,4,,,1,1,,,,3,,,,,4,,,6,,,
-371-U1508A-8H-CC-PAL-OSTRA,0,10,66.35,66.45,16,4,,,,,3,,,0,8,,,,0,,,,,0,,,5,,,
-371-U1508A-10H-CC-PAL-OSTRA,0,4,84.68,84.72,8.3,4,,,,,2,,,0,6,,,,0,,,,,0,,,5,,,
-371-U1508A-11H-CC-PAL-OSTRA,0,10,95.65,95.75,2.8,5,,,,,4,,,0,1,,,,3,,,,,0,,,0,,,
-371-U1508A-12H-CC-PAL-OSTRA,0,10,106.02,106.12,1.2,5,,,,,1,,,0,0,,,,2,,,,,0,,,0,,,
-371-U1508A-13H-CC-PAL-OSTRA,0,10,115.47,115.57,1.6,5,,,,,3,,,0,0,,,,3,,,,,0,,,0,,,
-371-U1508A-15H-CC-PAL-OSTRA,0,10,133.86,133.96,3.5,5,,,,,2,,,0,3,,,,6,,,,,0,,,0,,,
-371-U1508A-17H-CC-PAL-OSTRA,0,10,153.71,153.81,1,5,,,,,2,,,0,1,,,,4,,,,,0,,,0,,,
-371-U1508A-19H-CC-PAL-OSTRA,0,10,172.28,172.38,2.5,6,,,,,0,,,0,0,,,,8,,,,,0,,,0,,,
-371-U1508A-21H-CC-PAL-OSTRA,0,10,191,191.1,1.2,6,,,,,1,,,0,0,,,,3,,,,,0,,,0,,,
-371-U1508A-23H-CC-PAL-OSTRA,0,10,210.11,210.21,1.8,6,,,,,6,,,0,2,,,,5,,,,,2,,,0,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],No. specimens/tray,Preservation,Comment,Argilloecia spp.,Bairdoppilata spp.,Blind trachyleberidids,Bradleya spp.,Cletocythereis rastromarginata,Cytheralison sp. ,Cytherella sp.,Cytheropteron spp.,Dutoitella crassinodosa ,Dutoitella suhmi,Glencoeleberis? sp.,Krithe spp.,Legitimocythere acanthoderma,Oertliella? sp.,Philoneptunus paragravezia,Philoneptunus cf. tricolonos,Poseidonamicus spp.,Pseudobosquetina mucronalata,Sighted trachyleberidids,Xestolebris spp.,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+371-U1508A-1H-CC-PAL-OSTRA,0,10,1.25,1.35,15.6,2,,,,,11,,,0,10,,,,2,,,,,0,,,0,,,,371,U1508,A,1,H,CC,PAL,OSTRA
+371-U1508A-2H-CC-PAL-OSTRA,0,10,8.64,8.74,14,2,,,,,12,,,0,5,,,,0,,,,,0,,,8,,,,371,U1508,A,2,H,CC,PAL,OSTRA
+371-U1508A-4H-CC-PAL-OSTRA,0,10,29.5,29.6,14.6,3,,,,,9,,,0,14,,,,9,,,,,0,,,1,,,,371,U1508,A,4,H,CC,PAL,OSTRA
+371-U1508A-6H-CC-PAL-OSTRA,0,10,46.04,46.14,7.4,3,,,,,4,,,1,1,,,,3,,,,,4,,,6,,,,371,U1508,A,6,H,CC,PAL,OSTRA
+371-U1508A-8H-CC-PAL-OSTRA,0,10,66.35,66.45,16,4,,,,,3,,,0,8,,,,0,,,,,0,,,5,,,,371,U1508,A,8,H,CC,PAL,OSTRA
+371-U1508A-10H-CC-PAL-OSTRA,0,4,84.68,84.72,8.3,4,,,,,2,,,0,6,,,,0,,,,,0,,,5,,,,371,U1508,A,10,H,CC,PAL,OSTRA
+371-U1508A-11H-CC-PAL-OSTRA,0,10,95.65,95.75,2.8,5,,,,,4,,,0,1,,,,3,,,,,0,,,0,,,,371,U1508,A,11,H,CC,PAL,OSTRA
+371-U1508A-12H-CC-PAL-OSTRA,0,10,106.02,106.12,1.2,5,,,,,1,,,0,0,,,,2,,,,,0,,,0,,,,371,U1508,A,12,H,CC,PAL,OSTRA
+371-U1508A-13H-CC-PAL-OSTRA,0,10,115.47,115.57,1.6,5,,,,,3,,,0,0,,,,3,,,,,0,,,0,,,,371,U1508,A,13,H,CC,PAL,OSTRA
+371-U1508A-15H-CC-PAL-OSTRA,0,10,133.86,133.96,3.5,5,,,,,2,,,0,3,,,,6,,,,,0,,,0,,,,371,U1508,A,15,H,CC,PAL,OSTRA
+371-U1508A-17H-CC-PAL-OSTRA,0,10,153.71,153.81,1,5,,,,,2,,,0,1,,,,4,,,,,0,,,0,,,,371,U1508,A,17,H,CC,PAL,OSTRA
+371-U1508A-19H-CC-PAL-OSTRA,0,10,172.28,172.38,2.5,6,,,,,0,,,0,0,,,,8,,,,,0,,,0,,,,371,U1508,A,19,H,CC,PAL,OSTRA
+371-U1508A-21H-CC-PAL-OSTRA,0,10,191,191.1,1.2,6,,,,,1,,,0,0,,,,3,,,,,0,,,0,,,,371,U1508,A,21,H,CC,PAL,OSTRA
+371-U1508A-23H-CC-PAL-OSTRA,0,10,210.11,210.21,1.8,6,,,,,6,,,0,2,,,,5,,,,,2,,,0,,,,371,U1508,A,23,H,CC,PAL,OSTRA
