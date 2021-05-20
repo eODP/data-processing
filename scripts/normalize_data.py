@@ -78,7 +78,9 @@ def create_sample_name_for_row(row, columns):
         f"{row['Core']}{row['Type']}-{row['Section']}-{row['A/W']}"
     )
 
-    if isinstance(row["Extra Sample ID Data"], str):
+    if "Extra Sample ID Data" in columns and isinstance(
+        row["Extra Sample ID Data"], str
+    ):
         if row["A/W"] == "PAL":
             name = name + "-" + row["Extra Sample ID Data"]
         else:
