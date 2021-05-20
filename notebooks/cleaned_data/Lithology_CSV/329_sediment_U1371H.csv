@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Major prefix modifier before principal,Principal lithology name,Minor suffix modifier after principal,Lithology name,Lithology classification,Lithology (%),Grain size max (mm),Lithification,Comment,File Data,Extra Sample ID Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,Lithology name,Lithology classification,Lithology (%),Grain size max (mm),Lithification,Comment,File Data,Extra Sample ID Data
 329-U1371H-1H-1-A,329,U1371,H,1,1-1,H,1,A,0,44,0,0.44,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,
 329-U1371H-1H-1-A,329,U1371,H,1,1-1,H,1,A,44,150,0.44,1.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,
 329-U1371H-1H-2-A,329,U1371,H,1,1-2,H,2,A,0,150,1.5,3,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,
