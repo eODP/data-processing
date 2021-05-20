@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top depth [m],Bottom depth [m],Major prefix modifier before principal,Principal lithology name,Minor suffix modifier after principal,Lithology name,Lithology classification,Lithology (5),Grain size max (mm),Lithification,Comment,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Major prefix modifier before principal,Principal lithology name,Minor suffix modifier after principal,Lithology name,Lithology classification,Lithology (5),Grain size max (mm),Lithification,Comment,File Data
 329-U1367C-1H-1-A,329,U1367,C,1,1-1,H,1,A,10,50,0.1,0.5,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,
 329-U1367C-1H-1-A,329,U1367,C,1,1-1,H,1,A,60,70,0.6,0.7,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,
 329-U1367C-1H-1-A,329,U1367,C,1,1-1,H,1,A,110,140,1.1,1.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,
