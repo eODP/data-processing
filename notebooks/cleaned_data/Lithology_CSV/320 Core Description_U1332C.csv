@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Principal lithology,Lithology classification,Lithology prefix,Lithology suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Principal lithology,Lithology classification,Lithology prefix,Lithology suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data
 320-U1332C-1H-1-A,320,U1332,C,1,1-1,H,1,A,0,3,0,0.03,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarians,Clay with radiolarians,100,soft,10YR 4/3,,
 320-U1332C-1H-2-A,320,U1332,C,1,1-1,H,1,A,3,150,0.03,1.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Zeolite,with radiolarians,Zeolite Clay with radiolarians,100,soft,10YR 6/4,,
 320-U1332C-1H-3-A,320,U1332,C,1,1-2,H,2,A,0,150,1.5,3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Zeolite,with radiolarians,Zeolite Clay with radiolarians,100,soft,10YR 6/4,,

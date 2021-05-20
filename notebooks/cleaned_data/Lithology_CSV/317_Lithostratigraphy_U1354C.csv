@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data
 317-U1354C-2H-1-A,317,U1354,C,2,2-1,H,1,A,0,45,65,65.45,,Marl [Leg210],,Marl,,,,,Leg 210,"micaceous, homogeneous v.f. sandy marl; partly mottled with mud color (5GY 4/1)",
 317-U1354C-2H-1-A,317,U1354,C,2,2-1,H,1,A,45,150,65.45,66.5,,Muddy Sand [S54-Leg183],,Muddy Sand,,,,,"Shepard, 1954 - Leg 183 revision","micaceous, homogeneous marly v.f. sand.",
 317-U1354C-2H-2-A,317,U1354,C,2,2-2,H,2,A,0,20,66.5,66.7,,Muddy Sand [S54-Leg183],,Muddy Sand,,,,,"Shepard, 1954 - Leg 183 revision","micaceous, homogeneous marly v.f. sand.",
