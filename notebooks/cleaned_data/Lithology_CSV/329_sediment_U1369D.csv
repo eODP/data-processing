@@ -1,2 +1,2 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,LITHOLOGY NAME,lithology_classification,Lithology [%],GrainSizemaximum(mm),Lithification,COMMENT,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
-No data this hole,,,,,,,,,,,,,,,,,,,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,LITHOLOGY NAME,lithology_classification,Lithology [%],GrainSizemaximum(mm),Lithification,COMMENT,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data,Minor Lithology Prefix,Minor Lithology Name,Lithology Suffix
+No data this hole,,,,,,,,,,,,,,,,,,,,,,,,
