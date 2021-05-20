@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,Extra Sample ID Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,Extra Sample ID Data
 317-U1352C-2R-1-A,317,U1352,C,2,2-1,R,1,A,0,20,574.7,574.9,,Marlstone [Leg210],,Marlstone,,,,,Leg210,massive + calcareous,,
 317-U1352C-2R-1-A,317,U1352,C,2,2-1,R,1,A,0,20,574.7,574.9,,Very fine-fine sandstone [S54-W22],,Very fine-fine sandstone,,,,,"Shepard, 1954; Wentworth, 1922",massive + calcareous,,
 317-U1352C-2R-1-A,317,U1352,C,2,2-1,R,1,A,20,84,574.9,575.54,,Marlstone [Leg210],,Marlstone,,,,,Leg210,massive + calcareous,,
