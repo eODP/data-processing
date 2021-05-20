@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color(name),Prefix,Principal lithology,Suffix,Complete name,Lithology [%],"Dominant grain size (Wentworth, 1922)",Dominant grain size rank,Clastic grain roundness,Lithification,Lithology comments,File Data
+Sample,Exp,Site,Hole,Core,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color(name),Prefix,Principal lithology,Suffix,Complete name,Lithology [%],"Dominant grain size (Wentworth, 1922)",Dominant grain size rank,Clastic grain roundness,Lithification,Lithology comments,File Data
 330-U1374A-1R-1-A,330,U1374,A,1,R,1,A,0,132,0,1.32,brownish yellow,sandy foraminiferal,ooze [MMK88],,sandy foraminiferal ooze,,medium sand [U14W22],4,,unlithified,,
 330-U1374A-1R-1-A,330,U1374,A,1,R,1,A,132,144,1.32,1.44,dark yellowish brown,sandy foraminiferal,ooze [MMK88],,sandy foraminiferal ooze,,medium sand [U14W22],4,,unlithified,,
 330-U1374A-1R-1-A,330,U1374,A,1,R,1,A,144,150,1.44,1.5,brownish yellow,sandy foraminiferal,ooze [MMK88],,sandy foraminiferal ooze,,medium sand [U14W22],4,,unlithified,,
