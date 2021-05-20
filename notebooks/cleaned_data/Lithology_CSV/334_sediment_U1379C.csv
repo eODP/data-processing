@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top[cm] [cm],Bottom[cm] [cm],Top Depth[m] [m],Bottom Depth[m] [m],Color(name),PREFIX,PRINCIPALLITHOLOGY,Classification,SUFFIX,COMPLETE NAME,"Dominantgrain size(Wentworth, 1922)",Clastic grainRoundness,LITHIFICATION,LITHOLOGY COMMENTS,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color(name),PREFIX,PRINCIPALLITHOLOGY,Classification,SUFFIX,COMPLETE NAME,"Dominantgrain size(Wentworth, 1922)",Clastic grainRoundness,LITHIFICATION,LITHOLOGY COMMENTS,File Data
 334-U1379C-1H-1-A,334,U1379,C,1,1-1,H,1,A,0,102,0,1.02,5YR 4/3,,sand [S54],"Shepard, 1954",,sand,medium sand [U14W22],subangular (Default),soupy,shell-rich,
 334-U1379C-1H-1-A,334,U1379,C,1,1-1,H,1,A,102,115,1.02,1.15,10GY 3/1,sandy,silty clay [S54],"Shepard, 1954",,sandy silty clay,clay [U14W22],subangular (Default),soft,"shell-rich, mottled texture visible",
 334-U1379C-1H-1-A,334,U1379,C,1,1-1,H,1,A,115,138,1.15,1.38,10GY 3/1,silty,clay [S54],"Shepard, 1954",,silty clay,clay [U14W22],,soft,some shell fragments,
