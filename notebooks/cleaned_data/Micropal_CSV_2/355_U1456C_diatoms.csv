@@ -1,22 +1,22 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Sample preparation comment,General comment,Group Abundance,Preservation,Actinocyclus curvatulus,Actinocyclus octonarius,Actinocyclus octonarius var. tenellus,Actinocyclus spp.,Actinoptychus senarius,Actinoptychus splendens,Alveus marinus,Amphora spp.,Asterolampra spp.,Asteromphalus elegans,Asteromphalus flabellatus,Aulacoseira spp.,Azpeitia africana,Azpeitia barronii,Azpeitia nodulifera,Azpeitia tabularis,Bacteriastrum spp.,Chaetoceros spp. (resting spores),Coscinodiscus asteromphalus,Coscinodiscus oculus-iridis,Diploneis bombus ,Ethmodiscus sp. fragments,Fragilariopsis doliolus,Fragilariopsis fossilis,Fragilariopsis reinholdii,Grammatophora spp.,Hemidiscus cuneiformis,Navicula spp. ,Odontella spp.,Paralia sulcata,Pinnularia spp.,Planktoniella sol,Pseudotriceratium cinnamomeum ,Rhizosolenia matuyamai,Rhizosolenia praebergonii,Rhizosolenia praebergonii var. robusta,Rhizosolenia setigera,Rhizosolenia spp.,Rhizosolenia styliformis,Roperia tesselata,Shionodiscus oestrupii,Stephanopyxis spp.,Thalassionema bacillaris,Thalassionema frauenfeldii,Thalassionema nitzschioides,Thalassionema nitzschioides var. parvum,Thalassiosira convexa,Thalassiosira convexa var. aspinosa,Thalassiosira convexa var. convexa,Thalassiosira eccentrica,Thalassiosira leptopus s. ampl.,Thalassiosira lineata,Thalassiosira miocenica,Thalassiosira spp.,Thalassiothrix longissima,Triceratium favus,Triceratium spp.,other Centric,other Pennate,other Centric or Pennate comment,Ship File Links,Shore File Links,File Data
-355-U1456C-1H-1-A 80/80-DIAT,0,0,0.8,0.8,smear,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-1H-3-A 12/12-DIAT,0,0,3.12,3.12,strewn,,F,M,,,,,,,,,,,,,,,,,,R,,,X,,,,,,,X,,R,X,,,,,,,,X,,,X,X,,,X,,,,,,,,,,X,X,,,,,,
-355-U1456C-1H-CC-PAL-DIAT,0,5,7.33,7.38,smear,,R,M,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-3H-CC-PAL-DIAT,0,5,17.7,17.75,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-4H-CC-PAL-DIAT,0,5,27.9,27.95,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-10H-3-A 30/30-SED,0,0,70.1,70.1,smear,,X,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-12H-CC-PAL-DIAT,0,5,86.62,86.67,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-13H-CC-PAL-DIAT,0,5,95.64,95.69,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-14H-CC-PAL-DIAT,0,5,105.27,105.32,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-15H-CC-PAL-DIAT,0,5,115.49,115.54,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-16H-CC-PAL-DIAT,0,5,122.19,122.24,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-38X-CC-PAL-DIAT,0,5,409.05,409.1,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-39X-CC-PAL-DIAT,0,5,414.86,414.91,processed,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-39X-CC-PAL-DIAT,0,5,414.86,414.91,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-40X-CC-PAL-DIAT,0,5,421.01,421.06,strewn,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-41X-CC-PAL-DIAT,0,5,432.69,432.74,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-42X-1-PAL-DIAT,0,5,438.2,438.25,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-43X-1-PAL-DIAT,0,5,438.93,438.98,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-44X-1-PAL-DIAT,0,5,446.5,446.55,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-45X-CC-PAL-DIAT,0,5,459.49,459.54,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355-U1456C-46X-1-PAL-DIAT,0,5,463.75,463.8,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Sample preparation comment,General comment,Group Abundance,Preservation,Actinocyclus curvatulus,Actinocyclus octonarius,Actinocyclus octonarius var. tenellus,Actinocyclus spp.,Actinoptychus senarius,Actinoptychus splendens,Alveus marinus,Amphora spp.,Asterolampra spp.,Asteromphalus elegans,Asteromphalus flabellatus,Aulacoseira spp.,Azpeitia africana,Azpeitia barronii,Azpeitia nodulifera,Azpeitia tabularis,Bacteriastrum spp.,Chaetoceros spp. (resting spores),Coscinodiscus asteromphalus,Coscinodiscus oculus-iridis,Diploneis bombus ,Ethmodiscus sp. fragments,Fragilariopsis doliolus,Fragilariopsis fossilis,Fragilariopsis reinholdii,Grammatophora spp.,Hemidiscus cuneiformis,Navicula spp. ,Odontella spp.,Paralia sulcata,Pinnularia spp.,Planktoniella sol,Pseudotriceratium cinnamomeum ,Rhizosolenia matuyamai,Rhizosolenia praebergonii,Rhizosolenia praebergonii var. robusta,Rhizosolenia setigera,Rhizosolenia spp.,Rhizosolenia styliformis,Roperia tesselata,Shionodiscus oestrupii,Stephanopyxis spp.,Thalassionema bacillaris,Thalassionema frauenfeldii,Thalassionema nitzschioides,Thalassionema nitzschioides var. parvum,Thalassiosira convexa,Thalassiosira convexa var. aspinosa,Thalassiosira convexa var. convexa,Thalassiosira eccentrica,Thalassiosira leptopus s. ampl.,Thalassiosira lineata,Thalassiosira miocenica,Thalassiosira spp.,Thalassiothrix longissima,Triceratium favus,Triceratium spp.,other Centric,other Pennate,other Centric or Pennate comment,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+355-U1456C-1H-1-A 80/80-DIAT,0,0,0.8,0.8,smear,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,1,H,1,A,80/80-DIAT
+355-U1456C-1H-3-A 12/12-DIAT,0,0,3.12,3.12,strewn,,F,M,,,,,,,,,,,,,,,,,,R,,,X,,,,,,,X,,R,X,,,,,,,,X,,,X,X,,,X,,,,,,,,,,X,X,,,,,,,355,U1456,C,1,H,3,A,12/12-DIAT
+355-U1456C-1H-CC-PAL-DIAT,0,5,7.33,7.38,smear,,R,M,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,1,H,CC,PAL,DIAT
+355-U1456C-3H-CC-PAL-DIAT,0,5,17.7,17.75,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,3,H,CC,PAL,DIAT
+355-U1456C-4H-CC-PAL-DIAT,0,5,27.9,27.95,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,4,H,CC,PAL,DIAT
+355-U1456C-10H-3-A 30/30-SED,0,0,70.1,70.1,smear,,X,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,10,H,3,A,30/30-SED
+355-U1456C-12H-CC-PAL-DIAT,0,5,86.62,86.67,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,12,H,CC,PAL,DIAT
+355-U1456C-13H-CC-PAL-DIAT,0,5,95.64,95.69,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,13,H,CC,PAL,DIAT
+355-U1456C-14H-CC-PAL-DIAT,0,5,105.27,105.32,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,14,H,CC,PAL,DIAT
+355-U1456C-15H-CC-PAL-DIAT,0,5,115.49,115.54,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,15,H,CC,PAL,DIAT
+355-U1456C-16H-CC-PAL-DIAT,0,5,122.19,122.24,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,16,H,CC,PAL,DIAT
+355-U1456C-38X-CC-PAL-DIAT,0,5,409.05,409.1,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,38,X,CC,PAL,DIAT
+355-U1456C-39X-CC-PAL-DIAT,0,5,414.86,414.91,processed,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,39,X,CC,PAL,DIAT
+355-U1456C-39X-CC-PAL-DIAT,0,5,414.86,414.91,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,39,X,CC,PAL,DIAT
+355-U1456C-40X-CC-PAL-DIAT,0,5,421.01,421.06,strewn,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,40,X,CC,PAL,DIAT
+355-U1456C-41X-CC-PAL-DIAT,0,5,432.69,432.74,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,41,X,CC,PAL,DIAT
+355-U1456C-42X-1-PAL-DIAT,0,5,438.2,438.25,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,42,X,1,PAL,DIAT
+355-U1456C-43X-1-PAL-DIAT,0,5,438.93,438.98,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,43,X,1,PAL,DIAT
+355-U1456C-44X-1-PAL-DIAT,0,5,446.5,446.55,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,44,X,1,PAL,DIAT
+355-U1456C-45X-CC-PAL-DIAT,0,5,459.49,459.54,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,45,X,CC,PAL,DIAT
+355-U1456C-46X-1-PAL-DIAT,0,5,463.75,463.8,smear,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,355,U1456,C,46,X,1,PAL,DIAT
