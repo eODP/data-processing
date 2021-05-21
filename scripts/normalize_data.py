@@ -413,7 +413,6 @@ def check_duplicate_columns(df, filename):
                 )
                 source = f"{filename}, {original_name}"
                 if duplicate_columns_are_equal:
-                    print(f"{source}: duplicate columns have same values")
                     return True
                 else:
                     print(f"{source}: duplicate columns have different values")
