@@ -392,28 +392,23 @@ def check_duplicate_columns(df, filename):
 
     This function checks if duplicate columns have the same values.
     """
+    dups = []
+
     for column in df.columns:
         # looks for columns renamed by pandas ("foo bar.1")
         if re.match(".*\.\d+$", column):
             # gets original name of the column ("foo bar")
             original_name = re.sub("\.\d+$", "", column)
             if original_name in df.columns:
-                # compare the values in the duplicate columns
-                compare_duplicate_columns = df[original_name].fillna(0) == df[
-                    column
-                ].fillna(0)
-
-                # determines if the two columns have the same values
-                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
-                    compare_duplicate_columns
-                )
                 source = f"{filename}, {original_name}"
-                if duplicate_columns_are_equal:
-                    print(f"{source}: duplicate columns have same values")
-                    return True
+                # check if values are equal
+                if df[original_name].equals(df[column]):
+                    dups.append(column)
                 else:
                     print(f"{source}: duplicate columns have different values")
-                    return False
+
+    df.drop(dups, axis=1, inplace=True)
+    return df
 
 
 def get_taxonomy_columns(columns, skip_columns):
