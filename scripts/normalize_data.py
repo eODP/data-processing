@@ -73,6 +73,9 @@ def add_sample_col(df):
 
 
 def create_sample_name_for_row(row, columns):
+    if len(row) == 0:
+        return np.nan
+
     name = (
         f"{row['Exp']}-{row['Site']}{row['Hole']}-"
         f"{row['Core']}{row['Type']}-{row['Section']}-{row['A/W']}"
@@ -81,7 +84,8 @@ def create_sample_name_for_row(row, columns):
     if "Extra Sample ID Data" in columns and isinstance(
         row["Extra Sample ID Data"], str
     ):
-        if row["A/W"] == "PAL":
+
+        if row["A/W"] is not np.nan and row["A/W"].startswith("PAL"):
             name = name + "-" + row["Extra Sample ID Data"]
         else:
             name = name + " " + row["Extra Sample ID Data"]
