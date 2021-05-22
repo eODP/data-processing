@@ -387,7 +387,7 @@ def add_missing_columns(path, normalized_columns):
     return changed
 
 
-def check_duplicate_columns(df, filename):
+def check_duplicate_columns(df, file_path, needs_review):
     """
     Pandas do not allow duplicate column names. If there are duplicate columns
     in a csv, pd.read_csv keeps the first appearance of a column name, and
@@ -396,7 +396,7 @@ def check_duplicate_columns(df, filename):
 
     This function checks if duplicate columns have the same values.
     """
-    dups = []
+    duplicate_columns = []
 
     for column in df.columns:
         # looks for columns renamed by pandas ("foo bar.1")
@@ -404,14 +404,17 @@ def check_duplicate_columns(df, filename):
             # gets original name of the column ("foo bar")
             original_name = re.sub("\.\d+$", "", column)
             if original_name in df.columns:
-                source = f"{filename}, {original_name}"
                 # check if values are equal
                 if df[original_name].equals(df[column]):
-                    dups.append(column)
+                    duplicate_columns.append(column)
                 else:
-                    print(f"{source}: duplicate columns have different values")
+                    needs_review.append({"path": file_path, "field": original_name})
+                    print(
+                        f"""{file_path}, {original_name}: duplicate columns
+                        have different values"""
+                    )
 
-    df.drop(dups, axis=1, inplace=True)
+    df.drop(duplicate_columns, axis=1, inplace=True)
     return df
 
 
