@@ -18,10 +18,9 @@ for taxon_group in nt.taxon_groups:
 
     # skip and drop rows with bad data
     df = pd.read_csv(input_file, skiprows=9)
-    df = df.drop(list(range(28)))
 
     # setup the columns
-    dict = {"Comment": "initial_comments", "notes": "processing_notes"}
+    dict = {"Comment": "initial_comments"}
     df.rename(columns=dict, inplace=True)
     df["normalized_name"] = np.nan
 

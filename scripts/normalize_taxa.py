@@ -15,9 +15,10 @@ taxon_groups = [
     "radiolarians",
     "dinoflagellates",
     "palynology",
+    "benthic_forams",
 ]
 
-date = "2021-05-13"
+date = "2021-05-24"
 
 taxa_rank_fields = [
     "Any taxon above genus",
@@ -36,7 +37,6 @@ taxa_fields = ["non-taxa descriptor", "normalized_name", "taxon_group"]
 metadata_fields = [
     "verbatim_name",
     "initial_comments",
-    "processing_notes",
     "comments",
 ]
 
