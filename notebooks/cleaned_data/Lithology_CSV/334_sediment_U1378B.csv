@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top[cm] [cm],Bottom[cm] [cm],Top Depth[m] [m],Bottom Depth[m] [m],Color(name),PREFIX,PRINCIPALLITHOLOGY,Classification,SUFFIX,COMPLETE NAME,"Dominantgrain size(Wentworth, 1922)",Clastic grainRoundness,LITHIFICATION,LITHOLOGY COMMENTS,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Color(name),PREFIX,PRINCIPALLITHOLOGY,Classification,SUFFIX,COMPLETE NAME,"Dominantgrain size(Wentworth, 1922)",Clastic grainRoundness,LITHIFICATION,LITHOLOGY COMMENTS,File Data
 "334-U1378B-1H-1-A, 0-150",334,U1378,B,1,1-1,H,1,A,0,150,0,1.5,5Y 3/1,sandy,clay [S54],"Shepard, 1954",,sandy clay,clay [U14W22],,soft, Sandy practical are formed from foraminifera.,
 "334-U1378B-1H-2-A, 0-150",334,U1378,B,1,1-2,H,2,A,0,150,1.5,3,5Y 3/1,silty,clay [S54],"Shepard, 1954",,silty clay,clay [U14W22],,soft,,
 "334-U1378B-1H-3-A, 0-150",334,U1378,B,1,1-3,H,3,A,0,150,3,4.5,5Y 3/1,silty,clay [S54],"Shepard, 1954",,silty clay,clay [U14W22],,soft,,

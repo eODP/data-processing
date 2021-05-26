@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],lithology classification,Comment,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],lithology classification,Comment,File Data
 317-U1351B-1H-1-A,317,U1351,B,1,1-1,H,1,A,0,150,0,1.5,,Mud [S54-Leg210],,Sandy mud,,,,,"Shepard, 1954 - Leg 210 revision",Fine sandy calcareous mud with rare broken shells,
 317-U1351B-1H-2-A,317,U1351,B,1,1-2,H,2,A,0,72,1.5,2.22,Calcareous,Mud [S54-Leg210],,Calcareous Mud,,,,,"Shepard, 1954 - Leg 210 revision",Slightly shelly fine sandy calcareous mud,
 317-U1351B-1H-2-A,317,U1351,B,1,1-2,H,2,A,72,129,2.22,2.79,,Mud [S54-Leg210],,Sandy mud,,,,,"Shepard, 1954 - Leg 210 revision",Shelly fine to very fine sandy mud,

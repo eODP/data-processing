@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top depth [m],Bottom depth [m],Major prefix modifier before principal,Principal lithology name,Minor suffix modifier after principal,Lithology name,Lithology classification,Lithology (%),Grain size max ,Lithification,Comment,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Major prefix modifier before principal,Principal lithology name,Minor suffix modifier after principal,Lithology name,Lithology classification,Lithology (%),Grain size max ,Lithification,Comment,File Data
 329-U1368F-1R-1-A,329,U1368,F,1,1-1,R,1,A,0,78,0,0.78,clay-bearing nannofossil,ooze [MMK88],,clay-bearing nannofossil ooze,"Mazullo, Meyer & Kidd, 1988",,,,,
 329-U1368F-1R-1-A,329,U1368,F,1,1-1,R,1,A,78,108,0.78,1.08,nannofossil,ooze [MMK88],,nannofossil ooze,"Mazullo, Meyer & Kidd, 1988",,,,,
 329-U1368F-1R-1-A,329,U1368,F,1,1-1,R,1,A,108,150,1.08,1.5,clay-bearing nannofossil,ooze [MMK88],,clay-bearing nannofossil ooze,"Mazullo, Meyer & Kidd, 1988",,,,,

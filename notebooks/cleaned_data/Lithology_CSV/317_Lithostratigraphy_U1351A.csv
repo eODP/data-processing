@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top[cm] [cm],Bottom[cm] [cm],Top Depth[m] [m],Bottom Depth[m] [m],Lithology PREFIX,PRINCIPAL Lithology,Lithology SUFFIX,LITHOLOGY NAME,GRAIN SIZE MAX. (mm),Lithification,Lithification rank,Lithology [%],lithology_classification,COMMENT,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology PREFIX,PRINCIPAL Lithology,Lithology SUFFIX,LITHOLOGY NAME,GRAIN SIZE MAX. (mm),Lithification,Lithification rank,Lithology [%],lithology_classification,COMMENT,File Data
 317-U1351A-1H-1-A,317,U1351,A,1,1-1,H,1,A,0,55,0,0.55,,Sandy Mud [S54-Leg183],,Sandy Mud,,very slightly consolidated,,,"Shepard, 1954 - Leg 183 revision",,
 317-U1351A-1H-1-A,317,U1351,A,1,1-1,H,1,A,55,60,0.55,0.6,,Sandy Mud [S54-Leg183],,Sandy Mud,,,,,"Shepard, 1954 - Leg 183 revision",,
 317-U1351A-1H-2-A,317,U1351,A,1,1-2,H,2,A,0,90,1.5,2.4,,Mud [S54-Leg210],,Mud,,,,,"Shepard, 1954 - Leg 210 revision",0 to 90 cm homogeneous mud,

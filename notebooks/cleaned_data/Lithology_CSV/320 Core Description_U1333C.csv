@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Principal lithology,Lithology classification,Lithology prefix,Lithology suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Principal lithology,Lithology classification,Lithology prefix,Lithology suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data
 320-U1333C-1H-1-A,320,U1333,C,1,1-1,H,1,A,0,9,0,0.09,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarians,Clay with radiolarians,100,soft,10YR 4/3,,
 320-U1333C-1H-1-A,320,U1333,C,1,1-1,H,1,A,9,150,0.09,1.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,100,soft,10YR 3/3,,
 320-U1333C-1H-CC-A,320,U1333,C,1,1-CC,H,CC,A,0,9,1.5,1.59,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,100,soft,10YR 3/3,,
