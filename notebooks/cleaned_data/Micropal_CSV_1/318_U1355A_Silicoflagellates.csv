@@ -1,7 +1,7 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Silicoflagellates group abundance,Silicoflagellate preservation dissolution,Silicoflagellate preservation fragmentation,Corbisema apiculata,Corbisema flexuosa,Corbisema hastata,Corbisema regina,Corbisema sp.,Corbisema triacantha,Dictyocha deflandrei,Dictyocha fibula,Dictyocha frenguellii,Dictyocha hexacantha,Dictyocha pentagona,Distephanus pseudofibulua,Distephanus speculum,Mesocena diadon diadon,Naviculopsis constricta,Naviculopsis foliacea,Septamesocena apiculata,Septamesocena pappii,Silicoflagellate species
-318-U1355A-1R-1-PAL-DIAT4,318,U1355,A,1,1-1,R,1,PAL,DIAT4,0,1,0,0.01,X,,,,,,,,,,,,,,,,,,,,,
-318-U1355A-1R-1-PAL-DIAT5,318,U1355,A,1,1-1,R,1,PAL,DIAT5,0,1,0,0.01,R,,,,R,,,,,,,,,,,,,,,,,
-318-U1355A-2R-1-PAL-DIAT2,318,U1355,A,2,2-1,R,1,PAL,DIAT2,0,1,4.99,5,X,,,,X,,,,,,,,,,,,,,,,,
-318-U1355A-2R-1-PAL-DIAT3,318,U1355,A,2,2-1,R,1,PAL,DIAT3,0,1,4.99,5,X,,,,X,,,,,,,,,,,,,,,,,
-318-U1355A-2R-1-W 77/77-DIAT2,318,U1355,A,2,2-1,R,1,W,77/77-DIAT2,0,0,4.27,4.27,X,,,,,,,,,,,,,,,,,,,,,
-318-U1355A-4R-CC-PAL-DIAT1,318,U1355,A,4,4-CC,R,CC,PAL,DIAT1,0,2,24.85,24.87,X,,,,X,,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Silicoflagellates group abundance,Silicoflagellate preservation dissolution,Silicoflagellate preservation fragmentation,Corbisema apiculata,Corbisema flexuosa,Corbisema hastata,Corbisema regina,Corbisema sp.,Corbisema triacantha,Dictyocha deflandrei,Dictyocha fibula,Dictyocha frenguellii,Dictyocha hexacantha,Dictyocha pentagona,Distephanus pseudofibulua,Distephanus speculum,Mesocena diadon diadon,Naviculopsis constricta,Naviculopsis foliacea,Septamesocena apiculata,Septamesocena pappii,Silicoflagellate species,Zone name,Zone name (short)
+318-U1355A-1R-1-PAL-DIAT4,318,U1355,A,1,1-1,R,1,PAL,DIAT4,0,1,0,0.01,X,,,,,,,,,,,,,,,,,,,,,,,
+318-U1355A-1R-1-PAL-DIAT5,318,U1355,A,1,1-1,R,1,PAL,DIAT5,0,1,0,0.01,R,,,,R,,,,,,,,,,,,,,,,,,,
+318-U1355A-2R-1-PAL-DIAT2,318,U1355,A,2,2-1,R,1,PAL,DIAT2,0,1,4.99,5,X,,,,X,,,,,,,,,,,,,,,,,,,
+318-U1355A-2R-1-PAL-DIAT3,318,U1355,A,2,2-1,R,1,PAL,DIAT3,0,1,4.99,5,X,,,,X,,,,,,,,,,,,,,,,,,,
+318-U1355A-2R-1-W 77/77-DIAT2,318,U1355,A,2,2-1,R,1,W,77/77-DIAT2,0,0,4.27,4.27,X,,,,,,,,,,,,,,,,,,,,,,,
+318-U1355A-4R-CC-PAL-DIAT1,318,U1355,A,4,4-CC,R,CC,PAL,DIAT1,0,2,24.85,24.87,X,,,,X,,,,,,,,,,,,,,,,,,,

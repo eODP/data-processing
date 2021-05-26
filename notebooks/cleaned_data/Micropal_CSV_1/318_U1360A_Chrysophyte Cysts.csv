@@ -1,5 +1,5 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Chrysophyte cyst group abundance,Chrysophyte cyst preservation fragmentation,Chrysophyte cyst preservation dissolution,Archaeosphaeridium australensis,Archaeosphaeridium tasmaniae
-318-U1360A-1R-1-W 9/9-DIAT1,318,U1360,A,1,1-1,R,1,W,9/9-DIAT1,0,0,0.09,0.09,X,,,,
-318-U1360A-3R-1-W 8/8-DIAT1,318,U1360,A,3,3-1,R,1,W,8/8-DIAT1,0,0,23.38,23.38,X,,,,
-318-U1360A-3R-CC-PAL-DIAT1,318,U1360,A,3,3-CC,R,CC,PAL,DIAT1,0,0 ,23.735,23.735,X,,,,
-318-U1360A-3R-CC-PAL-DIAT2,318,U1360,A,3,3-CC,R,CC,PAL,DIAT2,0,0 ,23.735,23.735,X,,,X,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Chrysophyte cyst group abundance,Chrysophyte cyst preservation fragmentation,Chrysophyte cyst preservation dissolution,Archaeosphaeridium australensis,Archaeosphaeridium tasmaniae,Zone name,Zone name (short)
+318-U1360A-1R-1-W 9/9-DIAT1,318,U1360,A,1,1-1,R,1,W,9/9-DIAT1,0,0,0.09,0.09,X,,,,,,
+318-U1360A-3R-1-W 8/8-DIAT1,318,U1360,A,3,3-1,R,1,W,8/8-DIAT1,0,0,23.38,23.38,X,,,,,,
+318-U1360A-3R-CC-PAL-DIAT1,318,U1360,A,3,3-CC,R,CC,PAL,DIAT1,0,0 ,23.735,23.735,X,,,,,,
+318-U1360A-3R-CC-PAL-DIAT2,318,U1360,A,3,3-CC,R,CC,PAL,DIAT2,0,0 ,23.735,23.735,X,,,X,,,
