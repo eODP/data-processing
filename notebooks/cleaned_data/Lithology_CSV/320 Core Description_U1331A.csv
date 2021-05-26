@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Principal lithology,Lithology classification,Lithology prefix,Lithology suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data,Extra Sample ID Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,Lithology classification,Lithology Prefix,Lithology Suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data,Extra Sample ID Data
 320-U1331A-1H-1-A,320,U1331,A,1,1-1,H,1,A,0,9,0,0.09,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarians and micronodules,Clay with radiolarians and micronodules,100,soft,10YR 4/3,mudline,,
 320-U1331A-1H-1-A,320,U1331,A,1,1-1,H,1,A,9,74,0.09,0.74,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarians and micronodules,clay with radiolarians and micronodules,100,soft,10YR 6/3,,,
 320-U1331A-1H-1-A,320,U1331,A,1,1-1,H,1,A,74,85,0.74,0.85,Clay [MMK88],,,with radiolarians,,100,firm,10YR 2.5/1,manganese crust-bioturbated,,

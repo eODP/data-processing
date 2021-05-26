@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal  lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,Extra Sample ID Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,Extra Sample ID Data
 317-U1352B-1H-1-A,317,U1352,B,1,1-1,H,1,A,0,120,0,1.2,,Sandy Mud [S54-Leg183],,Sandy Mud,,,,,"Shepard, 1954 - Leg 183 revision",v.f. to m. poorly sorted bioclastic sandy mud,,
 317-U1352B-1H-1-A,317,U1352,B,1,1-1,H,1,A,120,150,1.2,1.5,,Mud [S54-Leg210],,Mud,,,,,"Shepard, 1954 - Leg 210 revision",,,
 317-U1352B-1H-2-A,317,U1352,B,1,1-2,H,2,A,0,60,1.5,2.1,,Interbedded sand and mud  [Exp.317],,Interbedded sand and mud ,,,,,Expedition 317,,,

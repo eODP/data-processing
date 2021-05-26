@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology prefix,Principal lithology,Lithology suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,Extra Sample ID Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology name,Grain size max. [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,Extra Sample ID Data
 327-U1363G-1H-1-A,327,U1363,G,1,1-1,H,1,A,0,150,0,1.5,,clayey sand [S54],,clayey sand,,,,,"Shepard, 1954",,,
 327-U1363G-1H-2-A,327,U1363,G,1,1-2,H,2,A,0,33,1.5,1.83,,clayey sand [S54],,clayey sand,,,,,"Shepard, 1954",,,
 327-U1363G-1H-2-A,327,U1363,G,1,1-2,H,2,A,34,136,1.84,2.86,,sand-silt-clay [S54],,sand-silt-clay,,,,,"Shepard, 1954",,,
