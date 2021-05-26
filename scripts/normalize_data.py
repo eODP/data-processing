@@ -59,12 +59,6 @@ def create_directory(newpath):
         os.makedirs(newpath)
 
 
-def rename_label_id(df):
-    if "Label ID" in df.columns:
-        cols = {"Label ID": "Sample"}
-        df.rename(columns=cols, inplace=True)
-
-
 def add_sample_col(df):
     if "Sample" in df.columns:
         pass
@@ -100,10 +94,32 @@ def create_sample_name(df):
     """Uses Exp...A/W columns to create a name for a sample"""
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section", "A/W"}
     if names.issubset(df.columns):
-        df["Sample"] = df.apply(
+        # create a series of sample names
+        samples_temp = df.apply(
             lambda row: create_sample_name_for_row(row, df.columns), axis=1
         )
 
+        # look for any column that has sample name values
+        duplicate_columns = []
+        for x in range(df.shape[1]):
+            if samples_temp.equals(df.iloc[:, x]):
+                duplicate_columns.append(df.columns.values[x])
+
+        # if there is one column with sample name values, change the name of
+        # of the column to Sample
+        if len(duplicate_columns) == 1:
+            df.rename(columns={duplicate_columns[0]: "Sample"}, inplace=True)
+        # if there is no columns with sample name values, create a Sample
+        # column and populate the column
+        elif len(duplicate_columns) == 0:
+            df["Sample"] = samples_temp
+        # if there are multiple columns with sample name values, drop the
+        # existing columns, and create a Sample column
+        else:
+            df["Sample"] = samples_temp
+            df.drop(duplicate_columns, axis=1, inplace=True)
+
+        return df
     else:
         raise ValueError("File does not have the expected columns.")
 
@@ -131,14 +147,17 @@ def get_expedition_from_csv(df):
         return expeditions[0]
 
 
-def normalize_expedition_section_cols(df):
-    """Create Exp...Section columns using Sample or Label ID"""
+def add_expedition_aw_cols(df):
+    """Create Exp...A/W columns using Sample"""
+    # check if Exp...A/W columns exist
     # NOTE: There was one file that did not have A/W column
     names = {"Exp", "Site", "Hole", "Core", "Type", "Section"}
     if names.issubset(df.columns):
         pass
+    # convert Sample into Exp...A/W columns
     elif "Sample" in df.columns:
         df = df.join(create_sample_cols(df["Sample"]))
+    # convert Label ID into Exp...A/W columns
     elif "Label ID" in df.columns:
         df = df.join(create_sample_cols(df["Label ID"]))
     else:
@@ -171,7 +190,6 @@ def valid_sample_value(name):
     elif re.search(sample_extra_regex, name):
         return True
     else:
-        # print("bad", name)
         return False
 
 
@@ -203,6 +221,7 @@ def extract_sample_parts(name):
 
 def create_sample_cols(series):
     """Extract Exp...A/W info from a panda series"""
+
     df = pd.DataFrame(
         {
             "Exp": [],

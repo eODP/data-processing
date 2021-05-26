@@ -8,10 +8,9 @@ import pytest
 from scripts.normalize_data import (
     tablerize,
     convert_column_names,
-    normalize_sample_col,
     get_expedition_from_csv,
     create_sample_name,
-    normalize_expedition_section_cols,
+    add_expedition_aw_cols,
     create_sample_cols,
     restore_integer_columns,
     update_metadata,
@@ -57,51 +56,8 @@ class TestConvertColumnNames:
         assert convert_column_names(names) == {}
 
 
-class TestNormalizeSampleCol:
-    def test_dataframe_does_not_change_if_Sample_column_exist(self):
-        df = pd.DataFrame({"Sample": ["abc"]})
-        expected = pd.DataFrame({"Sample": ["abc"]})
-
-        normalize_sample_col(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_changes_Label_ID_to_Sample(self):
-        df = pd.DataFrame({"Label ID": ["abc"]})
-        expected = pd.DataFrame({"Sample": ["abc"]})
-
-        normalize_sample_col(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_adds_Sample_if_correct_columns_exist(self):
-        data = {
-            "Exp": [1, 10],
-            "Site": ["s", "S"],
-            "Hole": ["h", "H"],
-            "Core": [2, 20],
-            "Type": ["t", "T"],
-            "Section": [3, 30],
-            "A/W": ["a", "A"],
-        }
-        df = pd.DataFrame(data)
-        data["Sample"] = ["1-sh-2t-3-a", "10-SH-20T-30-A"]
-        expected = pd.DataFrame(data)
-
-        normalize_sample_col(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_otherwise_raise_error(self):
-        df = pd.DataFrame({"foo": [1]})
-
-        message = "File does not have the expected columns."
-        with pytest.raises(ValueError, match=message):
-            normalize_sample_col(df)
-
-
 class TestCreateSampleName:
-    def test_returns_Sample_if_all_columns_are_present(self):
+    def test_add_Sample_if_all_columns_are_present(self):
         data = {
             "Exp": [1],
             "Site": ["s"],
@@ -112,12 +68,9 @@ class TestCreateSampleName:
             "A/W": ["a"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-sh-2t-3-a"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-sh-2t-3-a"]
 
     def test_adds_dash_extra_sample_data_if_PAL_aw(self):
         data = {
@@ -131,12 +84,9 @@ class TestCreateSampleName:
             "Extra Sample ID Data": ["e"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-sh-2t-3-PAL-e"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-sh-2t-3-PAL-e"]
 
     def test_adds_space_extra_sample_data_if_any_aw(self):
         data = {
@@ -150,12 +100,9 @@ class TestCreateSampleName:
             "Extra Sample ID Data": ["e"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-sh-2t-3-a e"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-sh-2t-3-a e"]
 
     def test_creates_Sample_string_if_column_are_null(self):
         data = {
@@ -168,12 +115,9 @@ class TestCreateSampleName:
             "A/W": ["a"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-h-2t-3-a"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-h-2t-3-a"]
 
     def test_creates_Sample_string_if_column_are_null_2(self):
         data = {
@@ -186,12 +130,9 @@ class TestCreateSampleName:
             "A/W": ["a"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-2t-3-a"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-2t-3-a"]
 
     def test_creates_Sample_string_if_column_are_null_3(self):
         data = {
@@ -204,12 +145,9 @@ class TestCreateSampleName:
             "A/W": ["a"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-t-3-a"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-t-3-a"]
 
     def test_creates_Sample_string_if_column_are_null_4(self):
         data = {
@@ -222,12 +160,9 @@ class TestCreateSampleName:
             "A/W": ["a"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-3-a"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-3-a"]
 
     def test_creates_Sample_string_if_column_are_null_5(self):
         data = {
@@ -240,12 +175,9 @@ class TestCreateSampleName:
             "A/W": ["a"],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-a"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-a"]
 
     def test_creates_Sample_string_if_column_are_null_6(self):
         data = {
@@ -258,12 +190,9 @@ class TestCreateSampleName:
             "A/W": [None],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1"]
 
     def test_removes_dash_from_end_of_string(self):
         data = {
@@ -276,12 +205,9 @@ class TestCreateSampleName:
             "A/W": [None],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-3"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-3"]
 
     def test_removes_dash_from_end_of_string_2(self):
         data = {
@@ -294,12 +220,9 @@ class TestCreateSampleName:
             "A/W": [None],
         }
         df = pd.DataFrame(data)
-        data["Sample"] = ["1-t"]
-        expected = pd.DataFrame(data)
-
         create_sample_name(df)
 
-        assert_frame_equal(df, expected)
+        assert df["Sample"].values == ["1-t"]
 
     def test_raise_error_if_some_columns_are_missing(self):
         data = {
@@ -315,6 +238,44 @@ class TestCreateSampleName:
         message = "File does not have the expected columns."
         with pytest.raises(ValueError, match=message):
             create_sample_name(df)
+
+    def test_renames_misnamed_column_that_has_sample_names(self):
+        data = {
+            "Exp": [1],
+            "Site": ["s"],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+            "misnamed_column": ["1-sh-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+        create_sample_name(df)
+
+        assert "misnamed_column" not in df.columns
+        assert "Sample" in df.columns
+        assert df["Sample"].values == ["1-sh-2t-3-a"]
+
+    def test_creates_Sample_column_when_multiple_columns_have_sample_names(self):
+        data = {
+            "Exp": [1],
+            "Site": ["s"],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+            "misnamed_column_1": ["1-sh-2t-3-a"],
+            "misnamed_column_2": ["1-sh-2t-3-a"],
+        }
+        df = pd.DataFrame(data)
+        create_sample_name(df)
+
+        assert "misnamed_column_1" not in df.columns
+        assert "misnamed_column_2" not in df.columns
+        assert "Sample" in df.columns
+        assert df["Sample"].values == ["1-sh-2t-3-a"]
 
     def test_otherwise_raise_error(self):
         df = pd.DataFrame({"foo": [1]})
@@ -362,8 +323,8 @@ class TestGetExpeditionFromCsv:
             get_expedition_from_csv(df)
 
 
-class TestNormalizeExpeditionSectionCols:
-    def test_dataframe_does_not_change_if_expection_section_columns_exist(self):
+class TestAddExpeditionAwCols:
+    def test_dataframe_does_not_change_if_expection_aw_columns_exist(self):
         data = {
             "Col": [0, 1],
             "Exp": ["1", "10"],
@@ -375,235 +336,227 @@ class TestNormalizeExpeditionSectionCols:
             "A/W": ["a", "A"],
         }
         df = pd.DataFrame(data)
-        expected = pd.DataFrame(data)
+        new_df = add_expedition_aw_cols(df)
 
-        df = normalize_expedition_section_cols(df)
+        assert_frame_equal(df, new_df)
 
-        assert_frame_equal(df, expected)
-
-    def test_dataframe_does_not_change_if_expection_section_Sample_exist(self):
+    def test_adds_missing_expection_aw_columns_using_Sample(self):
         data = {
             "Col": [0, 1],
-            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": ["a", "A"],
+            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A E"],
         }
         df = pd.DataFrame(data)
-        expected = pd.DataFrame(data)
+        new_df = add_expedition_aw_cols(df)
 
-        df = normalize_expedition_section_cols(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_dataframe_does_not_change_if_expection_section_Label_exist(self):
-        data = {
-            "Col": [0, 1],
-            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": ["a", "A"],
-        }
-        df = pd.DataFrame(data)
-        expected = pd.DataFrame(data)
-
-        df = normalize_expedition_section_cols(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_adds_missing_expection_section_using_Label(self):
-        data = {
-            "Col": [0, 1],
-            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Col": [0, 1],
-            "Label ID": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": ["a", "A"],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = normalize_expedition_section_cols(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_adds_missing_expection_section_using_Sample(self):
-        data = {
-            "Col": [0, 1],
-            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Col": [0, 1],
-            "Sample": ["1-U1h-2t-3-a", "10-U2H-20T-3-A"],
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": ["a", "A"],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = normalize_expedition_section_cols(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_handles_missing_aw_col(self):
-        data = {
-            "Col": [0, 1],
-            "Sample": ["1-U1h-2t-3", "10-U2H-20T-3"],
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "3"],
-        }
-        df = pd.DataFrame(data)
-        expected = pd.DataFrame(data)
-
-        df = normalize_expedition_section_cols(df)
-
-        assert_frame_equal(df, expected)
-
-    def test_handles_no_data(self):
-        data = {
-            "Col": [0],
-            "Sample": ["No data this hole"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Col": [0],
-            "Sample": ["No data this hole"],
-            "Exp": [None],
-            "Site": [None],
-            "Hole": [None],
-            "Core": [None],
-            "Type": [None],
-            "Section": [None],
-            "A/W": [None],
-            "Extra Sample ID Data": [None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = normalize_expedition_section_cols(df)
-
-        assert_frame_equal(df, expected)
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U2"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "3"]).all
+        assert (new_df["A/W"].values == ["a", "A"]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, "E"]).all
 
     def test_otherwise_raise_error(self):
         df = pd.DataFrame({"foo": [1]})
 
         message = "File does not have the expected columns."
         with pytest.raises(ValueError, match=message):
-            normalize_expedition_section_cols(df)
+            add_expedition_aw_cols(df)
 
 
 class TestCreateSampleCols:
-    def test_extracts_parts_from_exp_site_hole_core_type_section_aw_string(self):
+    def test_accepts_exp_to_extra_string(self):
         data = {
-            "Label ID": ["1-U1h-2t-3-a", "10-U20H-20T-Sec-4AA"],
+            "Sample": ["1-U1h-2t-3-a e", "10-U20H-20T-Sec-4AA-E"],
         }
         df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
 
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U20"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "Sec"]).all
+        assert (new_df["A/W"] == ["a", "4AA"]).all
+        assert (new_df["Extra Sample ID Data"].values == ["e", "E"]).all
+
+    def test_accepts_exp_to_aw_string(self):
         data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U20"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "Sec"],
-            "A/W": ["a", "4AA"],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Label ID"])
-        assert_frame_equal(df, expected)
-
-    def test_exp_site_hole_core_type_section_aw_extra_string(self):
-        data = {
-            "Label ID": ["1-U1h-2t-3-a e", "10-U20H-20T-Sec-4AA-E"],
+            "Sample": ["1-U1h-2t-3-a", "10-U20H-20T-Sec-4AA"],
         }
         df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
 
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U20"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "Sec"]).all
+        assert (new_df["A/W"] == ["a", "4AA"]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+
+    def test_accepts_exp_to_section_string(self):
         data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U20"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "Sec"],
-            "A/W": ["a", "4AA"],
-            "Extra Sample ID Data": ["e", "E"],
+            "Sample": ["1-U1h-2t-3", "10-U2H-20T-3"],
         }
-        expected = pd.DataFrame(data)
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
 
-        df = create_sample_cols(df["Label ID"])
-        assert_frame_equal(df, expected)
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U2"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "3"]).all
+        assert (new_df["A/W"] == [None, None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+
+    def test_accepts_exp_to_type_string(self):
+        data = {
+            "Sample": ["1-U1h-2t", "10-U2H-20T"],
+        }
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
+
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U2"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == [None, None]).all
+        assert (new_df["A/W"] == [None, None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+
+    def test_accepts_exp_to_core_string(self):
+        data = {
+            "Sample": ["1-U1h-2", "10-U2H-20"],
+        }
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
+
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U2"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == [None, None]).all
+        assert (new_df["Section"].values == [None, None]).all
+        assert (new_df["A/W"] == [None, None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+
+    def test_accepts_exp_to_hole_string(self):
+        data = {
+            "Sample": ["1-U1h", "10-U2H"],
+        }
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
+
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U2"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == [None, None]).all
+        assert (new_df["Type"].values == [None, None]).all
+        assert (new_df["Section"].values == [None, None]).all
+        assert (new_df["A/W"] == [None, None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+
+    def test_handles_no_data(self):
+        data = {
+            "Sample": ["No data this hole"],
+        }
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
+
+        assert (new_df["Exp"].values == [None]).all
+        assert (new_df["Site"].values == [None]).all
+        assert (new_df["Hole"].values == [None]).all
+        assert (new_df["Core"].values == [None]).all
+        assert (new_df["Type"].values == [None]).all
+        assert (new_df["Section"].values == [None]).all
+        assert (new_df["A/W"] == [None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None]).all
 
     def test_extracts_complex_extra(self):
         data = {
-            "Label ID": ["1-U1h-2t-3-a(81-91)-FORAM", "1-U1h-2t-3-PAL(81-91)-FORAM"],
+            "Sample": ["1-U1h-2t-3-a(81-91)-e f", "10-U10H-20T-30-PAL(8-9)-E F"],
         }
         df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
 
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U10"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "30"]).all
+        assert (new_df["A/W"] == ["a(81-91)", "PAL(8-9)"]).all
+        assert (new_df["Extra Sample ID Data"].values == ["e f", "E F"]).all
+
+    def test_extracts_extra_with_comma(self):
         data = {
-            "Exp": ["1", "1"],
-            "Site": ["U1", "U1"],
-            "Hole": ["h", "h"],
-            "Core": ["2", "2"],
-            "Type": ["t", "t"],
-            "Section": ["3", "3"],
-            "A/W": ["a(81-91)", "PAL(81-91)"],
-            "Extra Sample ID Data": ["FORAM", "FORAM"],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Label ID"])
-        assert_frame_equal(df, expected)
-
-    def test_extra_string_with_comma(self):
-        data = {
-            "Label ID": ["1-U1h-2t-3-a, 0-9", "10-U20H-20T-Sec-4AA, -"],
+            "Sample": ["1-U1h-2t-3-a, 0-9", "10-U20H-20T-Sec-4AA, -"],
         }
         df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
 
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U20"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "Sec"]).all
+        assert (new_df["A/W"] == ["a", "4AA"]).all
+        assert (new_df["Extra Sample ID Data"].values == ["0-9", ""]).all
+
+    def test_ignores_hash_symbol_element_in_sample_name(self):
         data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U20"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "Sec"],
-            "A/W": ["a", "4AA"],
-            "Extra Sample ID Data": ["0-9", ""],
+            "Sample": ["1-U1h-2t-3-#1-a", "10-U20H-20T-Sec-#1"],
         }
-        expected = pd.DataFrame(data)
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
 
-        df = create_sample_cols(df["Label ID"])
-        assert_frame_equal(df, expected)
+        assert (new_df["Exp"].values == ["1", "10"]).all
+        assert (new_df["Site"].values == ["U1", "U20"]).all
+        assert (new_df["Hole"].values == ["h", "H"]).all
+        assert (new_df["Core"].values == ["2", "20"]).all
+        assert (new_df["Type"].values == ["t", "T"]).all
+        assert (new_df["Section"].values == ["3", "Sec"]).all
+        assert (new_df["A/W"] == ["a", None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+
+    def test_returns_None_when_input_is_None(self):
+        data = {
+            "Sample": [None],
+        }
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
+
+        assert (new_df["Exp"].values == [None]).all
+        assert (new_df["Site"].values == [None]).all
+        assert (new_df["Hole"].values == [None]).all
+        assert (new_df["Core"].values == [None]).all
+        assert (new_df["Type"].values == [None]).all
+        assert (new_df["Section"].values == [None]).all
+        assert (new_df["A/W"] == [None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None]).all
+
+    def test_returns_none_when_input_is_No_data_this_hole(self):
+        data = {
+            "Sample": ["No data this hole"],
+        }
+        df = pd.DataFrame(data)
+        new_df = create_sample_cols(df["Sample"])
+
+        assert (new_df["Exp"].values == [None]).all
+        assert (new_df["Site"].values == [None]).all
+        assert (new_df["Hole"].values == [None]).all
+        assert (new_df["Core"].values == [None]).all
+        assert (new_df["Type"].values == [None]).all
+        assert (new_df["Section"].values == [None]).all
+        assert (new_df["A/W"] == [None]).all
+        assert (new_df["Extra Sample ID Data"].values == [None]).all
 
     def test_raises_error_if_exp_is_letters(self):
         data = {
@@ -665,27 +618,6 @@ class TestCreateSampleCols:
         with pytest.raises(ValueError, match=message):
             create_sample_cols(df["Sample"])
 
-    def test_handles_missing_type(self):
-        data = {
-            "Sample": ["1-U1h-11-3-a"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": ["1"],
-            "Site": ["U1"],
-            "Hole": ["h"],
-            "Core": ["11"],
-            "Type": [None],
-            "Section": ["3"],
-            "A/W": ["a"],
-            "Extra Sample ID Data": [None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
-
     def test_raises_error_if_type_has_multiple_letters(self):
         data = {
             "Sample": ["1-U1h-1tt-3-a"],
@@ -696,91 +628,7 @@ class TestCreateSampleCols:
         with pytest.raises(ValueError, match=message):
             create_sample_cols(df["Sample"])
 
-    def test_accepts_exp_site_hole_core_type_section_string(self):
-        data = {
-            "Label ID": ["1-U1h-2t-3", "10-U2H-20T-3"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": ["3", "3"],
-            "A/W": [None, None],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Label ID"])
-        assert_frame_equal(df, expected)
-
-    def test_accepts_exp_site_hole_core_type_string(self):
-        data = {
-            "Sample": ["1-U1h-2t", "10-U2H-20T"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": ["t", "T"],
-            "Section": [None, None],
-            "A/W": [None, None],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
-
-    def test_accepts_exp_site_hole_core_string(self):
-        data = {
-            "Sample": ["1-U1h-2", "10-U2H-20"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": ["2", "20"],
-            "Type": [None, None],
-            "Section": [None, None],
-            "A/W": [None, None],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
-
-    def test_accepts_exp_site_hole_string(self):
-        data = {
-            "Sample": ["1-U1h", "10-U2H"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": ["1", "10"],
-            "Site": ["U1", "U2"],
-            "Hole": ["h", "H"],
-            "Core": [None, None],
-            "Type": [None, None],
-            "Section": [None, None],
-            "A/W": [None, None],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
-
-    def test_rejects_exp_site_string(self):
+    def test_raises_error_if_exp_site_string(self):
         data = {
             "Sample": ["1-U1", "10-U2"],
         }
@@ -790,7 +638,7 @@ class TestCreateSampleCols:
         with pytest.raises(ValueError, match=message):
             df = create_sample_cols(df["Sample"])
 
-    def test_rejects_exp_string(self):
+    def test_raises_error_if_exp_string(self):
         data = {
             "Sample": ["1", "10"],
         }
@@ -799,69 +647,6 @@ class TestCreateSampleCols:
         message = "Sample name uses wrong format."
         with pytest.raises(ValueError, match=message):
             df = create_sample_cols(df["Sample"])
-
-    def test_ignores_hash_symbol_element_in_sample_name(self):
-        data = {
-            "Sample": ["349-U1431E-7R-1-#1-A", "349-U1431E-7R-1-#1"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": ["349", "349"],
-            "Site": ["U1431", "U1431"],
-            "Hole": ["E", "E"],
-            "Core": ["7", "7"],
-            "Type": ["R", "R"],
-            "Section": ["1", "1"],
-            "A/W": ["A", None],
-            "Extra Sample ID Data": [None, None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
-
-    def test_returns_None_when_input_is_None(self):
-        data = {
-            "Sample": [None],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": [None],
-            "Site": [None],
-            "Hole": [None],
-            "Core": [None],
-            "Type": [None],
-            "Section": [None],
-            "A/W": [None],
-            "Extra Sample ID Data": [None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
-
-    def test_returns_none_when_input_is_No_data_this_hole(self):
-        data = {
-            "Sample": ["No data this hole"],
-        }
-        df = pd.DataFrame(data)
-
-        data = {
-            "Exp": [None],
-            "Site": [None],
-            "Hole": [None],
-            "Core": [None],
-            "Type": [None],
-            "Section": [None],
-            "A/W": [None],
-            "Extra Sample ID Data": [None],
-        }
-        expected = pd.DataFrame(data)
-
-        df = create_sample_cols(df["Sample"])
-        assert_frame_equal(df, expected)
 
     def test_otherwise_raise_error(self):
         data = {
@@ -1082,29 +867,48 @@ class TestExtractTaxonGroupFromFilename:
 
 
 class TestCompareDuplicateColumns:
-    def test_returns_True_if_duplicate_columns_have_same_value(self):
+    def test_removes_duplicate_columns_that_have_same_value(self):
         csv_data = "a,a,a\n" "1,1,1\n" "2,2,2\n"
 
         df = pd.read_csv(StringIO(csv_data))
-        assert list(df.columns) == ["a", "a.1", "a.2"]
+        assert df.columns.to_list() == ["a", "a.1", "a.2"]
 
-        assert check_duplicate_columns(df, "file") is True
+        new_df = check_duplicate_columns(df, "file", [])
+        assert new_df.columns.to_list() == ["a"]
 
-    def test_returns_False_if_duplicate_columns_have_different_values(self):
+    def test_does_not_remove_duplicate_columns_with_different_values(self):
         csv_data = "a,a,a\n" "1,3,3\n" "2,4,4\n"
+        cols = ["a", "a.1", "a.2"]
 
         df = pd.read_csv(StringIO(csv_data))
-        assert list(df.columns) == ["a", "a.1", "a.2"]
+        assert df.columns.to_list() == cols
 
-        assert check_duplicate_columns(df, "file") is False
+        new_df = check_duplicate_columns(df, "file", [])
+        assert new_df.columns.to_list() == cols
 
-    def test_returns_None_if_column_end_with_number_but_is_not_duplicate(self):
+    def test_returns_list_of_duplicate_columns_with_different_values(self):
+        csv_data = "a,a,a\n" "1,3,3\n" "2,4,4\n"
+        cols = ["a", "a.1", "a.2"]
+        needs_review = []
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert df.columns.to_list() == cols
+
+        check_duplicate_columns(df, "file", needs_review)
+        assert needs_review == [
+            {"field": "a", "path": "file"},
+            {"field": "a", "path": "file"},
+        ]
+
+    def test_does_not_change_dataframe_if_column_end_with_number_but_is_not_duplicate(
+        self,
+    ):
         csv_data = "taxon taxon,taxon taxon f.1\n" "1,1\n" "2,2\n"
 
         df = pd.read_csv(StringIO(csv_data))
-        assert list(df.columns) == ["taxon taxon", "taxon taxon f.1"]
+        assert df.columns.to_list() == ["taxon taxon", "taxon taxon f.1"]
 
-        assert check_duplicate_columns(df, "file") is None
+        assert check_duplicate_columns(df, "file", []).equals(df)
 
     def test_returns_None_for_unique_columns(self):
         csv_data = "aaa,bbb\n" "1,1\n" "2,2\n"
@@ -1112,7 +916,7 @@ class TestCompareDuplicateColumns:
         df = pd.read_csv(StringIO(csv_data))
         assert list(df.columns) == ["aaa", "bbb"]
 
-        assert check_duplicate_columns(df, "file") is None
+        assert check_duplicate_columns(df, "file", []).equals(df)
 
 
 class TestRestoreDuplicateColumnNames:
