@@ -11,11 +11,13 @@ taxon_groups = [
     "chrysophyte_cysts",
     "bolboformids",
     "diatoms",
-    "planktic_forams",
+    "planktic_foraminfera",
     "radiolarians",
     "dinoflagellates",
     "palynology",
-    "benthic_forams",
+    "phytoliths",
+    "pollen",
+    "benthic_foraminfera",
 ]
 
 date = "2021-05-24"
