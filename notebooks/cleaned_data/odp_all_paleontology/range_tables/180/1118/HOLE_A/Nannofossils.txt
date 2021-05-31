@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphenolithus abies	Helicosphaera carteri	Calcidiscus leptoporus	Reticulofenestra pseudoumbilicus	Pseudoemiliania lacunosa	Discoaster pentaradiatus	Discoaster brouweri	Coccolithus pelagicus	Calcidiscus macintyrei	Cyclicargolithus floridanus	Ceratolithus rugosus	Reticulofenestra minutula	Discoaster asymmetricus	Discoaster blackstockae	Thoracosphaera saxea	Syracosphaera histrica	Scyphosphaera apsteinii	Discoaster tamalis	Discoaster berggrenii	Discoaster variabilis	Discoaster quinqueramus	Helicosphaera sellii	Thoracosphaera heimii	Gephyrocapsa omega	Discoaster decorus	Discoaster surculus	Rhabdosphaera clavigera	Comment
 																																												
 																																												
+																																												
 IR				NN18	180	1118	A	1	R	CC	0.00	205.0000	Siesser	Nannofossils	C	M		F	F		C	rR	R	R	R			C					R					R				r1		
 																																												
 IR				NN18	180	1118	A	2	R	CC	3.00	214.4300	Siesser	Nannofossils	A	M		F	F		C	rR	R	F				C					R						R				R	

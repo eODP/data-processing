@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Reticulofenestra minuta	Reticulofenestra minutula	Discoaster pentaradiatus	Discoaster brouweri	Coccolithus pelagicus	Calcidiscus macintyrei	Reticulofenestra pseudoumbilicus	Ceratolithus rugosus	Helicosphaera carteri	Calcidiscus leptoporus	Discoaster braarudii	Discoaster variabilis	Scyphosphaera apsteinii	Helicosphaera sellii	Discoaster decorus	Discoaster asymmetricus	Thoracosphaera saxea	Ceratolithus armatus	Sphenolithus abies	Discoaster surculus	Pseudoemiliania lacunosa	Discoaster tamalis	Discoaster quinqueramus	Discoaster berggrenii	Pontosphaera japonica	Ceratolithus acutus	Thoracosphaera heimii	Braarudosphaera bigelowii	Comment
 																																													
 																																													
+																																													
 IR				NN16A	180	1109	D	1	R	CC	33.00	359.0100	Siesser	Nannofossils	A	VG		A		F	R	R			C	R				R		C			R2	R		R2							No R. psuedoumbilicus; U. mirabilis - F
 																																													
 IR				NN15	180	1109	D	2	R	1	94.50	360.0450	Siesser	Nannofossils	A	G			F	F			R									R			R										

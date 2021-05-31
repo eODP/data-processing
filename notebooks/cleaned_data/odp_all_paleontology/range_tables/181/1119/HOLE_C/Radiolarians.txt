@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Stylodictya sp.	Spongodiscus sp.	Actinomma sp.	Spongotrochus glacialis	Larcopyle sp.	Eucyrtidium calvertense	Antarctissa sp.	Euchitonia sp.	Lithelius nautiloides	Cycladophora sp.	Pylospira sp.	Pterocanium sp.	Phorticium clevei	Periphaena sp.	Triceraspyris antarctica	Pterocanium trilobum	Antarctissa denticulata	Carpocanistrum sp.	Antarctissa cylindrica	Ceratocyrtis sp.	Comment
 																																					
 																																					
+																																					
 IR					181	1119	C	1	H	CC	10.00	8.2200	rads	Radiolarians	T	G									T												1
 																																					
 IR					181	1119	C	3	H	CC	36.00	27.8300	rads	Radiolarians	T	G																				R	1

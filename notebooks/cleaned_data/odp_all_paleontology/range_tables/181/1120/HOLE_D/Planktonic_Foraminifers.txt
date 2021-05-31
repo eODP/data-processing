@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Globorotalia incognita	Globoquadrina dehiscens	Globigerina spp.	Globigerina praebulloides	Globigerina euapertura	Zeaglobigerina woodi	Globigerinita glutinata	Globigerina bulloides	Catapsydrax dissimilis	Sphaeroidinellopsis disjuncta	Catapsydrax unicavus	Globigerinoides trilobus	Paragloborotalia bella	Globorotalia zealandica	Globorotalia praescitula	Globoquadrina venezuelana	Globorotalia miozea	Globigerina umbilicata	Globigerina quinqueloba	Dentoglobigerina altispira altispira	Comment
 																																					
 																																					
+																																					
 IR					181	1120	D	2	X	1	50.00	167.5000	forams	Planktonic Foraminifers		VG		R	A							P								P	R	P	
 																																					
 IR					181	1120	D	2	X	6	126.00	175.7600	forams	Planktonic Foraminifers		VG			A			R					P	F			F	R	P				

@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Helicosphaera carteri	Reticulofenestra minutula	Pseudoemiliania lacunosa	Helicosphaera sellii	Discoaster brouweri	Coccolithus pelagicus	Calcidiscus macintyrei	Calcidiscus leptoporus	Sphenolithus abies	Thoracosphaera heimii	Gephyrocapsa caribbeanica	Discoaster pentaradiatus	Comment
 																													
 																													
+																													
 IR					180	1116	A	1	R	1	106.00	1.0600	Takahashi	Nannofossils	C	M	F		R14		R12	R		R				R1	NN18 or older?
 																													
 IR					180	1116	A	1	R	CC	14.00		Takahashi	Nannofossils	F	P	R		R3		R3	R		R					NN19 or older?

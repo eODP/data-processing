@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphenolithus moriformis	Reticulofenestra medium-sized	Pyrocyclus spp.	Discoaster druggii	Dictyococcites antarcticus	Cyclicargolithus floridanus	Coccolithus pelagicus	Discoaster dilatus	Discoaster deflandrei	Reticulofenestra Z	Pontosphaera spp.	Cyclicargolithus abisectus	Sphenolithus dissimilis	Reticulofenestra pseudoumbilicus	Helicosphaera euphratis	Helicosphaera carteri	Geminilithella rotula	Calcidiscus leptoporus	Helicosphaera ampliaperta	Calcidiscus premacintyrei	Helicosphaera obliqua	Helicosphaera intermedia	Sphenolithus heteromorphus	Sphenolithus compactus	Reticulofenestra small-sized	Calcidiscus tropicus	Comment
 																																											
 																																											
+																																											
 IR					181	1120	D	1	X	CC	5.00	166.9300	nannos	Nannofossils	A	G	C		R		F	A	D	F	R		C					C	F			C					C	R	many small-sized placoliths in background
 																																											
 IR					181	1120	D	2	X	1	50.00	167.5000	nannos	Nannofossils	A	G	C	A			C	A	C	R			C					C		R		A				F			big Pontosphaera

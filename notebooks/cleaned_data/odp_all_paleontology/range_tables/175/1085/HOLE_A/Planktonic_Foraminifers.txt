@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphaeroidinellopsis seminulina	Orbulina universa	Globorotalia sphericomiozea	Globorotalia margaritae	Globorotalia crassaformis	Globorotalia conomiozea	Neogloboquadrina humerosa	Neogloboquadrina acostaensis	Globigerina decoraperta	Globigerinoides ruber	Globigerinoides extremus	Globorotalia aequilaterus	Globigerinoides sacculifer	Dentoglobigerina altispira globosa	Dentoglobigerina altispira altispira	Neogloboquadrina pachyderma	Globigerina quinqueloba	Globigerina bulloides	Globorotalia crassaformis cf. viola	Globorotalia puncticulata	Globorotalia hirsuta	Globigerinoides obliquus	Globorotalia inflata	Neogloboquadrina dutertrei	Globorotalia crassaformis viola	Globigerinita glutinata	Globigerina umbilicata	Globigerinoides conglobatus	Globorotaloides hexagona	Globorotalia truncatulinoides	Globorotalia tosaensis	Globorotalia cavernula	Globigerinoides ruber (pink)	Globigerinella siphonifera	Globorotalia scitula	Comment
 																																																				
 																																																				
+																																																				
 IR		Pleistocene			175	1085	A	1	H	CC	9.00	3.5900	Christensen	Planktonic Foraminifers	A	VG		+			+					+			+			A	+	A			+		A	+			+			+			-	+	+	fragments common
 																																																				
 																																																				

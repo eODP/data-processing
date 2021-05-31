@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sponge spicules	Xanthiopyxis ovalis	Thalassiosira oestrupii	Stephanopyxis turris turris	Stephanopyxis turris intermedia	Rhizosolenia hebetata f. hiemalis	Rhaphoneis surirelloides	Proboscia alata	Paralia sulcata	Nitzschia panduriformis	Nitzschia kerguelenis	Hyalodiscus ?scotticus	Grammatophora sp.	Diploneis sp.	Actinocyclus ingens var. planus	Thalassiothrix longissima	Thalassiosira leptopus	Thalassiosira lentiginosa	Thalassionema nitzschioides  var. parva	Rhizosolenia styliformis	Pleurosigma sp.	Navicula directa	Azpeitia tabularis	Actinoptychus splendens	Actinoptychus senarius	Nitzschia bicapitata	Cavitatus lanceolatus	Coscinodiscus radiatus	Nitzschia ritscherii	Monaxons taxa	Diatom fragments	Comment
 																																																
 																																																
+																																																
 IR					181	1119	B	1	H	1	0.00	0.0000	diatoms	Diatoms	B		C																														R	
 																																																
 IR					181	1119	B	1	H	CC	10.00	4.6800	diatoms	Diatoms	T		C																													F	R	

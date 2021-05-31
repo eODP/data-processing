@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Reticulofenestra pseudoumbilicus	Pontosphaera spp.	Helicosphaera sellii	Helicosphaera carteri	Discoaster asymmetricus	Dictyococcites productus	Coccolithus pelagicus	Calcidiscus leptoporus	Pseudoemiliania lacunosa	Helicosphaera ampliaperta	Cyclicargolithus floridanus	Triquetrorhabdulus rugosus	Syracosphaera pulchra	Reticulofenestra small-sized	Gephyrocapsa (small)	Thoracosphaera spp.	Watznaueria barnesae	Dictyococcites bisectus	Gephyrocapsa medium-sized	Discoaster deflandrei	Gephyrocapsa large	Gephyrocapsa parallela	Braarudosphaera bigelowii	Sphenolithus heteromorphus	Reticulofenestra umbilica	Cyclicargolithus abisectus	Crenalithus sp.	Sphenolithus moriformis	Comment
 																																													
 																																													
+																																													
 IR	Pleistocene	Pleistocene			181	1119	C	17	H	CC	39.00	160.9600	nannos	Nannofossils	A	G				R			C	R	R		R			A	C				A			C							diatoms
 																																													
 IR	Pleistocene	Pleistocene			181	1119	C	18	X	CC	34.00	169.3800	nannos	Nannofossils	A	G	R	R		C			C	F	F		R			C	A													R	

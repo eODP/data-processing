@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Scyphosphaera procera	Discoaster pentaradiatus	Discoaster brouweri	Coccolithus pelagicus	Calcidiscus leptoporus	Helicosphaera carteri	Reticulofenestra minutula	Pseudoemiliania lacunosa	Helicosphaera sellii	Scyphosphaera apsteinii	Dictyococcites productus	Calcidiscus macintyrei	Thoracosphaera saxea	Discoaster asymmetricus	Gephyrocapsa caribbeanica	Syracosphaera histrica	Gephyrocapsa oceanica	Umbilicosphaera sibogae	Thoracosphaera heimii	Scapholithus fossilis	Gephyrocapsa omega	Emiliania huxleyi	Comment
 																																							
 																																							
+																																							
 IR			NN20	NN21A	180	1114	A	1	R	CC	37.00	0.3700	Siesser	Nannofossils	A	G					C	F	C		r							R	C	F		R	C	R	Sediment ; No P. lacunosa; small Gephyro.  -- all small forms have a cross-bar- F
 																																							
 IR				NN19C/D	180	1114	A	1	R	CC	37.00	0.3700	Siesser	Nannofossils	C	M				R	F	F	C	F	R3							R	F	R	R				Rock, under sediment in CC. No C. macintyrei

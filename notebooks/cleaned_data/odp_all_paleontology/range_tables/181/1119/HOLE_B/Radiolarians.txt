@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Spongodiscus sp.	Antarctissa sp.	Antarctissa cylindrica	Triceraspyris antarctica	Actinomma sp.	Cycladophora davisiana davisiana	Botryostrobus auritus/australis	Lithelius nautiloides	Phorticium clevei	Cycladophora sp.	Spumellaria Form A	Larcopyle sp.	Antarctissa strelkovi	Spongoplegma antarcticum	Cycladophora pliocenica	Triceraspyris sp.	Pylospira sp.	Comment
 																																		
 																																		
+																																		
 IR					181	1119	B	1	H	CC	10.00	4.6800	rads	Radiolarians	T	G	T								T	R		R				T	T	8
 																																		
 IR					181	1119	B	2	H	CC	11.00	14.5300	rads	Radiolarians	R	G	T								R				T					4

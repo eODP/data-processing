@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Thalassiothrix longissima	Thalassiosira oestrupii	Thalassiosira lentiginosa	Thalassiosira inura	Sponge spicules	Simonseniella barboi	Paralia sulcata	Nitzschia kerguelenis	Nitzschia barronii	Hyalodiscus sp.	Eucampia balaustium	Actinocyclus ingens	Thalassiosira insigna	Comment
 																														
 																														
+																														
 IR					181	1120	A	1	H	1	0.00	0.0000	diatoms	Diatoms							R									
 																														
 IR					181	1120	A	1	H	1	4.00	0.0400	diatoms	Diatoms							C									

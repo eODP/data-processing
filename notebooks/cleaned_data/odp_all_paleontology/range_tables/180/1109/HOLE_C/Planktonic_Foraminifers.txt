@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphaeroidinella dehiscens	Pulleniatina praecursor	Globorotalia tumida	Globorotalia crassaformis	Globigerinoides fistulosus	Dentoglobigerina altispira	Globorotalia tosaensis	Sphaeroidinella dehiscens s.l.	Neogloboquadrina humerosa	Neogloboquadrina acostaensis	Globorotalia tumida flexuosa	Globorotalia multicamerata	Globorotalia menardii	Globigerinoides trilobus	Globigerinoides ruber	Globigerinoides quadrilobatus	Globigerinoides extremus	Globigerinoides conglobatus	Dentoglobigerina globosa	Globigerinoides sacculifer	Orbulina universa	Globorotalia scitula	Globigerinella siphonifera	Pulleniatina obliquiloculata	Neogloboquadrina dutertrei	Globorotalia ungulata	Globorotalia truncatulinoides	Globigerinoides ruber (pink)	Zeaglobigerina rubescens	Bolliella calida	Bolliella adamsi	Comment
 																																																
 																																																
+																																																
 IR	Pleistocene	Holocene		N23	180	1109	C	1	H	CC	23.00	7.3400	Resig	Planktonic Foraminifers	A	VG			F	F							F		A		A	A		A		A	F	R	A	A	A	F			A		R	
 																																																
 IR	Pleistocene	Holocene		N23	180	1109	C	2	H	CC	11.00	17.2900	Resig	Planktonic Foraminifers	A	VG	R		F	F							F		A		A	A		F		A	R		A	A	A		R	A	A	R		

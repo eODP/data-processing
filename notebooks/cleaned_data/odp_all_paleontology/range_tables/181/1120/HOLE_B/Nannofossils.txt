@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphenolithus moriformis	Reticulofenestra small-sized	Reticulofenestra pseudoumbilicus	Reticulofenestra medium-sized	Pyrocyclus spp.	Helicosphaera paleocarteri	Geminilithella rotula	Discoaster dilatus	Discoaster deflandrei	Dictyococcites bisectus	Dictyococcites antarcticus	Cyclicargolithus floridanus	Cyclicargolithus abisectus	Coccolithus pelagicus	Calcidiscus premacintyrei	Calcidiscus leptoporus	Sphenolithus heteromorphus	Helicosphaera intermedia	Helicosphaera euphratis	Helicosphaera carteri	Pontosphaera spp.	Syracosphaera spp.	Calcidiscus tropicus	Calcidiscus macintyrei	Coccolithus miopelagicus	Reticulofenestra gelida	Dictyococcites productus	Scyphosphaera spp.	Gephyrocapsa (small)	Pseudoemiliania lacunosa	Comment
 																																															
 																																															
+																																															
 IR					181	1120	B	1	H	CC	11.00	3.3100	nannos	Nannofossils	A	VG		C												C		C				C									D	R	
 																																															
 IR					181	1120	B	2	H	CC	13.00	12.8300	nannos	Nannofossils	A	G	F	C	C						R		C			A		F				F	C						F	C	F		Late Miocene/Pliocene transition

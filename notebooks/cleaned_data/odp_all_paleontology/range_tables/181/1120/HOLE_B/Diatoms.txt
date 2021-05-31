@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sponge spicules	Xanthiopyxis ovalis	Paralia sulcata	Hemiaulus sp.	Cestodiscus reticulatus	Xanthiopyxis sp.	Pyxilla prolongata	Stephanopyxis turris intermedia	Coscinodiscus radiatus	Thalassiothrix longissima	Denticulopsis hustedtii	Denticulopsis dimorpha	Coscinodiscus marginatus	Azpeitia endoi	Actinocyclus ingens	Stephanopyxis turris turris	Actinocyclus ingens var. planus	Pseudopodosira sp.	Rhizosolenia hebetata f. hiemalis	Nitzschia kerguelenis	Azpeitia tabularis	Simonseniella barboi	Denticulopsis meridionalis	Thalassiosira inura	Hemidiscus karstenii f.1	Thalassionema nitzschioides  var. parva	Diploneis sp.	Thalassionema nitzschioides	Hyalodiscus sp.	Hemidiscus triangularus	Actinocyclus karstenii	Comment
 																																																
 																																																
+																																																
 IR					181	1120	B	1	H	CC	11.00	3.3100	diatoms	Diatoms			R																															
 																																																
 IR					181	1120	B	2	H	CC	13.00	12.8300	diatoms	Diatoms			R												T																			
