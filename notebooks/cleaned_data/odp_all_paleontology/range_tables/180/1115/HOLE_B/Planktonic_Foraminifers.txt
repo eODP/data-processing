@@ -67,5 +67,5 @@ IR		Pliocene		N20	180	1115	B	29	X	CC	32.00	274.0800	Perembo	Planktonic Foraminif
 																																																				
 IR	Late Pliocene	Pleistocene		N20	180	1115	B	30	X	CC	43.00	275.4000	Resig	Planktonic Foraminifers	R	P		R		R					R			R		R																						
 																																																				
-IR	Late Pliocene	Pleistocene		N20	180	1115	B	31	X	CC	38.00	293.3700	Resig	Planktonic Foraminifers	R	P		F                              F	F	R	F	A	A	F	F	F	R	A	A	A	A	F	F	F	F																	
+IR	Late Pliocene	Pleistocene		N20	180	1115	B	31	X	CC	38.00	293.3700	Resig	Planktonic Foraminifers	R	P	F	F	F	R	F	A	A	F	F	F	R	A	A	A	A	F	F	F	F																	
 																																																				

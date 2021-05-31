@@ -3,5 +3,5 @@ Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	S
 																																					
 IR		Pleistocene		N23	180	1112	A	1	R	CC	9.00	2.1300	Perembo	Planktonic Foraminifers	A	G	A	R	A	F	A	A	A			R	A		A	A	A	A	A	A	F	A	
 																																					
-IR		Pleistocene		N23	180	1112	A	2	R	CC	0.00	10.5000	Perembo	Planktonic Foraminifers	A	G	A	F	A	F	A	A	A	A	A	A	A		A                            A	A	A	A	A	F			
+IR		Pleistocene		N23	180	1112	A	2	R	CC	0.00	10.5000	Perembo	Planktonic Foraminifers	A	G	A	F	A	F	A	A	A	A	A	A	A	A	A	A	A	A	A	F			
 																																					

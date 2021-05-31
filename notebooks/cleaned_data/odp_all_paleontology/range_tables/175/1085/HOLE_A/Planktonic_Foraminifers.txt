@@ -36,3 +36,6 @@ IR					175	1085	A	25	H	CC	0.00	230.9900	Christensen	Planktonic Foraminifers				+
 IR					175	1085	A	27	H	CC	0.00	250.8700	Christensen	Planktonic Foraminifers				+		+			+	+	+																											
 																																																				
 IR		Early Pliocene			175	1085	A	29	H	CC	9.00	269.6400	Christensen	Planktonic Foraminifers	C	G	+	+	+	+	+	+																														pyrite
+																																																				
+																																																				
+																																																				

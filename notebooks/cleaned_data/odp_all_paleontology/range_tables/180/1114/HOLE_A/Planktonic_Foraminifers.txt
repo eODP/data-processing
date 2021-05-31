@@ -39,7 +39,7 @@ IR		Pleistocene		N21	180	1114	A	22	R	CC	24.00	200.4500	Perembo	Planktonic Forami
 																																													
 IR		Pleistocene	N20	N21	180	1114	A	23	R	CC	28.00	210.5500	Perembo	Planktonic Foraminifers	R	P					R		R	F									R						R						
 																																													
-IR		Pleistocene		N21	180	1114	A	25	R	CC	9.00	231.0100	Resig	Planktonic Foraminifers	C	P		R	F		R                            F	R	R	F	F				R		R	F	F		R	R	R	F							
+IR		Pleistocene		N21	180	1114	A	25	R	CC	9.00	231.0100	Resig	Planktonic Foraminifers	C	P		R	F	R	F	R	R	F	F				R		R	F	F		R	R	R	F							
 																																													
 IR		Pleistocene	N20	N21	180	1114	A	26	R	CC	18.00	238.9900	Resig	Planktonic Foraminifers	F	P	R	R	F		R	R	R	F	F			R					R	R											
 																																													
@@ -47,5 +47,5 @@ IR	Pliocene	Pleistocene		N21	180	1114	A	29	R	CC	12.00	266.6200	Resig	Planktonic 
 																																													
 IR	Pliocene	Pleistocene			180	1114	A	30	R	CC	23.00	277.2900	Resig	Planktonic Foraminifers	R	P						R			R						R	F													
 																																													
-IR	Pliocene	Pleistocene		N21	180	1114	A	31	R	1	22.00	286.0200	Perembo	Planktonic Foraminifers	A	P	R	R	F		F                            R	R	R	R	F	F	R	R	R	F															
+IR	Pliocene	Pleistocene		N21	180	1114	A	31	R	1	22.00	286.0200	Perembo	Planktonic Foraminifers	A	P	R	R	F	F	R	R	R	R	F	F	R	R	R	F															
 																																													
