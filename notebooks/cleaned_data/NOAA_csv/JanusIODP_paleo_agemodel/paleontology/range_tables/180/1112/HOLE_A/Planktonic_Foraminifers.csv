@@ -1,8 +1,8 @@
-Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Zeaglobigerina rubescens Sphaeroidinella dehiscens Pulleniatina obliquiloculata Orbulina universa Neogloboquadrina dutertrei Globorotalia ungulata Globorotalia tumida Globorotalia truncatulinoides Globorotalia menardii Globorotalia crassaformis Globigerinoides sacculifer Globigerinoides ruber (pink) Globigerinoides ruber Globigerinoides quadrilobatus Globigerinoides conglobatus Globigerinella siphonifera Candeina nitida Bolliella calida Globorotalia crassula Globigerinoides trilobus Comment
-""
-""
-""
-  IR                   Pleistocene                          N23            180 1112 A   1 R CC    9.00       2.1300 Perembo   Planktonic Foraminifers                       A               G                  A                        R                         A                            F                 A                          A                     A                                                                       R                         A                                                       A                     A                             A                           A                          A               A                F                     A                               
-""
-  IR                   Pleistocene                          N23            180 1112 A   2 R CC    0.00      10.5000 Perembo   Planktonic Foraminifers                       A               G                  A                        F                         A                            F                 A                          A                     A                   A                             A                     A                         A                          A                            A                     A                             A                           A                          A               F                                                                      
-""
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group,Group Abundance,Group Preservation,Zeaglobigerina rubescens,Sphaeroidinella dehiscens,Pulleniatina obliquiloculata,Orbulina universa,Neogloboquadrina dutertrei,Globorotalia ungulata,Globorotalia tumida,Globorotalia truncatulinoides,Globorotalia menardii,Globorotalia crassaformis,Globigerinoides sacculifer,Globigerinoides ruber (pink),Globigerinoides ruber,Globigerinoides quadrilobatus,Globigerinoides conglobatus,Globigerinella siphonifera,Candeina nitida,Bolliella calida,Globorotalia crassula,Globigerinoides trilobus,Comment
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,Pleistocene,,N23,180,1112,A,1,R,CC,9.00,2.1300,Perembo,Planktonic Foraminifers,A,G,A,R,A,F,A,A,A,,,R,A,,A,A,A,A,A,A,F,A,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,Pleistocene,,N23,180,1112,A,2,R,CC,0.00,10.5000,Perembo,Planktonic Foraminifers,A,G,A,F,A,F,A,A,A,A,A,A,A,A,A,A,A,A,A,F,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
