@@ -372,9 +372,11 @@ def extract_taxon_group_from_filename(filename):
 
 
 def fetch_unique_column_names(path, columns_set):
-    content = pd.read_csv(path, nrows=1)
+    content = pd.read_csv(path)
+    content = content.dropna(axis="columns", how="all")
     content = csv_cleanup(content, path)
-    return columns_set.update(set(content.columns))
+    columns = {col.strip() for col in content.columns}
+    return columns_set.update(columns)
 
 
 def append_set(my_set, regex, all_columns):
