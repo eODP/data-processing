@@ -1,0 +1,794 @@
+Any taxon above genus,genus modifier,genus name,subgenera modifier,subgenera name,species modifier,species name,subspecies modifier,subspecies name,non-taxa descriptor,normalized_name,taxon_group
+,,Candeina,,,,nitida,,,,Candeina nitida,planktic_foraminfera
+,,Dentoglobigerina,,,,altispira,,,,Dentoglobigerina altispira,planktic_foraminfera
+,,Dentoglobigerina,,,,baroemoenensis,,,,Dentoglobigerina baroemoenensis,planktic_foraminfera
+,,Globigerina,,,,bulloides,,,,Globigerina bulloides,planktic_foraminfera
+,,Globigerina,,,,falconensis,,,,Globigerina falconensis,planktic_foraminfera
+,,Globigerina,,,,rubescens,,,,Globigerina rubescens,planktic_foraminfera
+,,Globigerinella,,,,calida,,,,Globigerinella calida,planktic_foraminfera
+,,Globigerinella,,,,siphonifera,,,,Globigerinella siphonifera,planktic_foraminfera
+,,Globigerinita,,,,glutinata,,,,Globigerinita glutinata,planktic_foraminfera
+,,Globigerinoides,,,,bulloideus,,,,Globigerinoides bulloideus,planktic_foraminfera
+,,Globigerinoides,,,,conglobatus,,,,Globigerinoides conglobatus,planktic_foraminfera
+,,Globigerinoides,,,,extremus,,,,Globigerinoides extremus,planktic_foraminfera
+,,Globigerinoides,,,,fistulosus,,,,Globigerinoides fistulosus,planktic_foraminfera
+,,Globigerinoides,,,,immaturus,,,,Globigerinoides immaturus,planktic_foraminfera
+,,Globigerinoides,,,,obliquus,,,,Globigerinoides obliquus,planktic_foraminfera
+,,Globigerinoides,,,,pyramidalis,,,,Globigerinoides pyramidalis,planktic_foraminfera
+,,Globigerinoides,,,s.l.,ruber,,,,Globigerinoides s.l. ruber,planktic_foraminfera
+,,Globigerinoides,,,s.s.,ruber,,,,Globigerinoides s.s. ruber,planktic_foraminfera
+,,Globigerinoides,,,,sacculifer,,,,Globigerinoides sacculifer,planktic_foraminfera
+,,Globigerinoides,,,,sacculifer,,,without sac,Globigerinoides sacculifer (without sac),planktic_foraminfera
+,,Globigerinoides,,,,subquadratus,,,,Globigerinoides subquadratus,planktic_foraminfera
+,,Globigerinoides,,,,trilobus,,,,Globigerinoides trilobus,planktic_foraminfera
+,,Globoconella,,,,inflata,,,,Globoconella inflata,planktic_foraminfera
+,,Globorotalia,,,,crassaformis,,,,Globorotalia crassaformis,planktic_foraminfera
+,,Globorotalia,,,,flexuosa,,,,Globorotalia flexuosa,planktic_foraminfera
+,,Globorotalia,,,,humerosa,,,,Globorotalia humerosa,planktic_foraminfera
+,,Globorotalia,,,,limbata,,,,Globorotalia limbata,planktic_foraminfera
+,,Globorotalia,,,,margaritae,,,,Globorotalia margaritae,planktic_foraminfera
+,,Globorotalia,,,,menardii,,,,Globorotalia menardii,planktic_foraminfera
+,,Globorotalia,,,,multicamerata,,,,Globorotalia multicamerata,planktic_foraminfera
+,,Globorotalia,,,,pertenuis,,,,Globorotalia pertenuis,planktic_foraminfera
+,,Globorotalia,,,,plesiotumida,,,,Globorotalia plesiotumida,planktic_foraminfera
+,,Globorotalia,,,,tosaensis,,,,Globorotalia tosaensis,planktic_foraminfera
+,,Globorotalia,,,,truncatulinoides,,,,Globorotalia truncatulinoides,planktic_foraminfera
+,,Globorotalia,,,,tumida,,,,Globorotalia tumida,planktic_foraminfera
+,,Globorotalia,,,,ungulata,,,,Globorotalia ungulata,planktic_foraminfera
+,,Globoturborotalita,,,,apertura,,,,Globoturborotalita apertura,planktic_foraminfera
+,,Globoturborotalita,,,,woodi,,,,Globoturborotalita woodi,planktic_foraminfera
+,,Neogloboquadrina,,,,acostaensis,,,,Neogloboquadrina acostaensis,planktic_foraminfera
+,,Neogloboquadrina,,,,dutertrei,,,,Neogloboquadrina dutertrei,planktic_foraminfera
+,,Neogloboquadrina,,,,incompta,,,,Neogloboquadrina incompta,planktic_foraminfera
+,,Neogloboquadrina,,,,pachyderma,,,,Neogloboquadrina pachyderma,planktic_foraminfera
+,,Orbulina,,,,bilobata,,,,Orbulina bilobata,planktic_foraminfera
+,,Orbulina,,,,universa,,,,Orbulina universa,planktic_foraminfera
+,,Pulleniatina,,,,obliquiloculata,,,,Pulleniatina obliquiloculata,planktic_foraminfera
+,,Pulleniatina,,,,primalis,,,,Pulleniatina primalis,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,kochi,,,,Sphaeroidinellopsis kochi,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,seminulina,,,,Sphaeroidinellopsis seminulina,planktic_foraminfera
+,,Turborotalita,,,,quinqueloba,,,,Turborotalita quinqueloba,planktic_foraminfera
+,,Sphaeroidinella,,,,dehiscens,,,,Sphaeroidinella dehiscens,planktic_foraminfera
+,,Neogloboquadrina,,,,acostaensis,,,dextral,Neogloboquadrina acostaensis (dextral),planktic_foraminfera
+,,Neogloboquadrina,,,,acostaensis,,,sinistral,Neogloboquadrina acostaensis (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,finalis,,,dextral,Pulleniatina finalis (dextral),planktic_foraminfera
+,,Pulleniatina,,,,finalis,,,sinistral,Pulleniatina finalis (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,obliquiloculata,,,dextral,Pulleniatina obliquiloculata (dextral),planktic_foraminfera
+,,Pulleniatina,,,,obliquiloculata,,,sinistral,Pulleniatina obliquiloculata (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,praecursor,,,dextral,Pulleniatina praecursor (dextral),planktic_foraminfera
+,,Pulleniatina,,,,praecursor,,,sinistral,Pulleniatina praecursor (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,praespectabilis,,,dextral,Pulleniatina praespectabilis (dextral),planktic_foraminfera
+,,Pulleniatina,,,,praespectabilis,,,sinistral,Pulleniatina praespectabilis (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,primalis,,,dextral,Pulleniatina primalis (dextral),planktic_foraminfera
+,,Pulleniatina,,,,primalis,,,sinistral,Pulleniatina primalis (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,spectabilis,,,dextral,Pulleniatina spectabilis (dextral),planktic_foraminfera
+,,Pulleniatina,,,,spectabilis,,,sinistral,Pulleniatina spectabilis (sinistral),planktic_foraminfera
+,,Paragloborotalia,,,,sp.,,,Paragloborotalia continuosa/mayeri,Paragloborotalia sp. (Paragloborotalia continuosa/mayeri),planktic_foraminfera
+Foraminifera indet.,,,,,,,,,,Foraminifera indet.,planktic_foraminfera
+Globigerinina indet.,,,,,,,,,,Globigerinina indet.,planktic_foraminfera
+,,"""Globigerina""",,,,angulisuturalis,,,,"""Globigerina"" angulisuturalis",planktic_foraminfera
+,,"""Globigerina""",,,,angulisuturalis ,,,,"""Globigerina"" angulisuturalis",planktic_foraminfera
+,,"""Globigerina""",,,,ciperoensis ,,,,"""Globigerina"" ciperoensis",planktic_foraminfera
+,,"""Globigerina"" ",,,,ciperoensis,,,,"""Globigerina"" ciperoensis",planktic_foraminfera
+,,Dentoglobigerina,,,,pseudovenezuelana,,,,Dentoglobigerina pseudovenezuelana,planktic_foraminfera
+,?,Acarinina,,,,spp.,,,,? Acarinina spp.,planktic_foraminfera
+,?,Morozovella,,,,spp.,,,,? Morozovella spp.,planktic_foraminfera
+,,Abathomphalus,,,,intermedia,,,,Abathomphalus intermedia,planktic_foraminfera
+,,Abathomphalus ,,,,mayaroensis,,,,Abathomphalus mayaroensis,planktic_foraminfera
+,,Acarinina ,,,,acarinata,,,,Acarinina acarinata,planktic_foraminfera
+,,Acarinina,,,,alticonica,,,,Acarinina alticonica,planktic_foraminfera
+,,Acarinina,,,,angulosa,,,,Acarinina angulosa,planktic_foraminfera
+,,Acarinina ,,,,aspensis,,,,Acarinina aspensis,planktic_foraminfera
+,,Acarinina,,,,bullbrooki,,,,Acarinina bullbrooki,planktic_foraminfera
+,,Acarinina ,,,,coalingensis,,,,Acarinina coalingensis,planktic_foraminfera
+,,Acarinina,,,,collactea,,,,Acarinina collactea,planktic_foraminfera
+,,Acarinina,,,,cuneicamerata,,,,Acarinina cuneicamerata,planktic_foraminfera
+,,Acarinina,,,,densa,,,,Acarinina densa,planktic_foraminfera
+,,Acarinina,,,,esnehensis,,,,Acarinina esnehensis,planktic_foraminfera
+,,Acarinina,,,,mcgowrani,,,,Acarinina mcgowrani,planktic_foraminfera
+,,Acarinina,,,,mckannai,,,,Acarinina mckannai,planktic_foraminfera
+,,Acarinina ,,,,medizzai,,,,Acarinina medizzai,planktic_foraminfera
+,,Acarinina,,,,nitida,,,,Acarinina nitida,planktic_foraminfera
+,,Acarinina ,,,,pentacamerata,,,,Acarinina pentacamerata,planktic_foraminfera
+,,Acarinina,,,,praetopilensis,,,,Acarinina praetopilensis,planktic_foraminfera
+,,Acarinina,,,,primitiva,,,,Acarinina primitiva,planktic_foraminfera
+,,Acarinina ,,,,pseudosubsphaerica,,,,Acarinina pseudosubsphaerica,planktic_foraminfera
+,,Acarinina,,,,pseudotopilensis,,,,Acarinina pseudotopilensis,planktic_foraminfera
+,,Acarinina ,,,,punctocarinata,,,,Acarinina punctocarinata,planktic_foraminfera
+,,Acarinina,,,,quetra,,,,Acarinina quetra,planktic_foraminfera
+,,Acarinina ,,,,rohri,,,,Acarinina rohri,planktic_foraminfera
+,,Acarinina,,,,sibaiyaensis,,,,Acarinina sibaiyaensis,planktic_foraminfera
+,,Acarinina,,,,soldadoensis,,,,Acarinina soldadoensis,planktic_foraminfera
+,,Acarinina,,,,spp.,,,,Acarinina spp.,planktic_foraminfera
+,,Acarinina,,,,strabocella,,,,Acarinina strabocella,planktic_foraminfera
+,,Acarinina,,,,subsphaerica,,,,Acarinina subsphaerica,planktic_foraminfera
+,,Acarinina,,,,topilensis,,,,Acarinina topilensis,planktic_foraminfera
+,,Acarinina,,,,triplex,,,,Acarinina triplex,planktic_foraminfera
+,,Acarinina,,,,wilcoxensis,,,,Acarinina wilcoxensis,planktic_foraminfera
+,,Archaeoglobigerina,,,,australis,,,,Archaeoglobigerina australis,planktic_foraminfera
+,,Archaeoglobigerina,,,,blowi,,,,Archaeoglobigerina blowi,planktic_foraminfera
+,,Archaeoglobigerina,,,,bosquensis,,,,Archaeoglobigerina bosquensis,planktic_foraminfera
+,,Archaeoglobigerina ,,,,cretacea,,,,Archaeoglobigerina cretacea,planktic_foraminfera
+,,Archaeoglobigerina,,,,sp.,,,,Archaeoglobigerina sp.,planktic_foraminfera
+,,Beella,,,,digitata,,,,Beella digitata,planktic_foraminfera
+,,Biticinella,,,,breggiensis,,,,Biticinella breggiensis,planktic_foraminfera
+,,Bolliella,,,,calida,,,,Bolliella calida,planktic_foraminfera
+,,Candeina,,,,praenitida,,,,Candeina praenitida,planktic_foraminfera
+,,Cassigerinella,,,,chipolensis,,,,Cassigerinella chipolensis,planktic_foraminfera
+,,Cassigerinella ,,,,chipolensis,,,,Cassigerinella chipolensis,planktic_foraminfera
+,,Cassigerinella,,,,martinezpicoi,,,,Cassigerinella martinezpicoi,planktic_foraminfera
+,,Catapsydrax,,,,africanus,,,,Catapsydrax africanus,planktic_foraminfera
+,,Catapsydrax,,,cf.,howei,,,,Catapsydrax cf. howei,planktic_foraminfera
+,,Catapsydrax ,,,,dissimilis,,,,Catapsydrax dissimilis,planktic_foraminfera
+,,Catapsydrax,,,,dissimilis,,,,Catapsydrax dissimilis,planktic_foraminfera
+,,Catapsydrax ,,,,dissimillis,,,,Catapsydrax dissimillis,planktic_foraminfera
+,,Catapsydrax ,,,,globiformis,,,,Catapsydrax globiformis,planktic_foraminfera
+,,Catapsydrax ,,,,parvulus,,,,Catapsydrax parvulus,planktic_foraminfera
+,,Catapsydrax,,,,sp.,,,,Catapsydrax sp.,planktic_foraminfera
+,,Catapsydrax,,,,stainforthi,,,,Catapsydrax stainforthi,planktic_foraminfera
+,,Catapsydrax ,,,,taroubaensis,,,,Catapsydrax taroubaensis,planktic_foraminfera
+,,Catapsydrax ,,,,unicavus,,,,Catapsydrax unicavus,planktic_foraminfera
+,,Catapsydrax,,,,unicavus,,,,Catapsydrax unicavus,planktic_foraminfera
+,,Chiloguembelina,,,,crinita,,,,Chiloguembelina crinita,planktic_foraminfera
+,,Chiloguembelina,,,,cubensis,,,,Chiloguembelina cubensis,planktic_foraminfera
+,,Chiloguembelina ,,,,midwayensis,,,,Chiloguembelina midwayensis,planktic_foraminfera
+,,Chiloguembelina ,,,,morsei,,,,Chiloguembelina morsei,planktic_foraminfera
+,,Chiloguembelina,,,,sp.,,,,Chiloguembelina sp.,planktic_foraminfera
+,,Chiloguembelina ,,,,subtriangularis,,,,Chiloguembelina subtriangularis,planktic_foraminfera
+,,Chiloguembelina ,,,,trinitatensis,,,,Chiloguembelina trinitatensis,planktic_foraminfera
+,,Chiloguembelina ,,,,wilcoxensis,,,,Chiloguembelina wilcoxensis,planktic_foraminfera
+,,Clavatorella ,,,,bermudezi,,,,Clavatorella bermudezi,planktic_foraminfera
+,,Clavihedbergella,,,,simplex,,,,Clavihedbergella simplex,planktic_foraminfera
+,,Contusotruncana ,,,,contusa,,,,Contusotruncana contusa,planktic_foraminfera
+,,Contusotruncana ,,,,fornicata,,,,Contusotruncana fornicata,planktic_foraminfera
+,,Contusotruncana ,,,,patelliformis,,,,Contusotruncana patelliformis,planktic_foraminfera
+,,Contusotruncana ,,,,plicata,,,,Contusotruncana plicata,planktic_foraminfera
+,,Contusotruncana ,,,,walfischensis,,,,Contusotruncana walfischensis,planktic_foraminfera
+,,Costellagerina ,,,,pilula,,,,Costellagerina pilula,planktic_foraminfera
+,,Cribrohantkenina ,,,,inflata,,,,Cribrohantkenina inflata,planktic_foraminfera
+,,Dentoglobigerina,,,,"""conglomerata""",,,,"Dentoglobigerina ""conglomerata""",planktic_foraminfera
+,,Dentoglobigerina ,,,,altispira,,,,Dentoglobigerina altispira,planktic_foraminfera
+,,Dentoglobigerina ,,,,altispira ,,globosa,,Dentoglobigerina altispira globosa,planktic_foraminfera
+,,Dentoglobigerina ,,,,baroemoenensis,,,,Dentoglobigerina baroemoenensis,planktic_foraminfera
+,,Dentoglobigerina,,,,binaensis,,,,Dentoglobigerina binaensis,planktic_foraminfera
+,,Dentoglobigerina,,,,galavasi,,,,Dentoglobigerina galavasi,planktic_foraminfera
+,,Dentoglobigerina ,,,,galavisi,,,,Dentoglobigerina galavisi,planktic_foraminfera
+,,Dentoglobigerina ,,,,globosa,,,,Dentoglobigerina globosa,planktic_foraminfera
+,,Dentoglobigerina,,,,globularis,,,,Dentoglobigerina globularis,planktic_foraminfera
+,,Dentoglobigerina ,,,,juxtabinaiensis,,,,Dentoglobigerina juxtabinaiensis,planktic_foraminfera
+,,Dentoglobigerina,,,,larmeui,,,,Dentoglobigerina larmeui,planktic_foraminfera
+,,Dentoglobigerina ,,,,pseudovenezuelana,,,,Dentoglobigerina pseudovenezuelana,planktic_foraminfera
+,,Dentoglobigerina ,,,,sellii,,,,Dentoglobigerina sellii,planktic_foraminfera
+,,Dentoglobigerina,,,,sp.,,,,Dentoglobigerina sp.,planktic_foraminfera
+,,Dentoglobigerina,,,,spp.,,,,Dentoglobigerina spp.,planktic_foraminfera
+,,Dentoglobigerina,,,,tripartita,,,,Dentoglobigerina tripartita,planktic_foraminfera
+,,Dentoglobigerina,,,,venezuelana,,,,Dentoglobigerina venezuelana,planktic_foraminfera
+,,Dicarinella,,,,algeriana,,,,Dicarinella algeriana,planktic_foraminfera
+,,Dicarinella ,,,,asymetrica,,,,Dicarinella asymetrica,planktic_foraminfera
+,,Dicarinella ,,,,canaliculata,,,,Dicarinella canaliculata,planktic_foraminfera
+,,Dicarinella ,,,,concavata,,,,Dicarinella concavata,planktic_foraminfera
+,,Dicarinella,,,,hagni,,,,Dicarinella hagni,planktic_foraminfera
+,,Dicarinella,,,,sp.,,,,Dicarinella sp.,planktic_foraminfera
+,,Eoglobigerina ,,,,edita,,,,Eoglobigerina edita,planktic_foraminfera
+,,Eoglobigerina,,,,eobulloides,,,,Eoglobigerina eobulloides,planktic_foraminfera
+,,Eoglobigerina,,,,spiralis,,,,Eoglobigerina spiralis,planktic_foraminfera
+,,Falsotruncana,,,,maslakovae,,,,Falsotruncana maslakovae,planktic_foraminfera
+,,Fohsella,,,,"""praefohsi""",,,,"Fohsella ""praefohsi""",planktic_foraminfera
+,,Fohsella ,,,,birnageae,,,,Fohsella birnageae,planktic_foraminfera
+,,Fohsella,,,,fohsi,,,,Fohsella fohsi,planktic_foraminfera
+,,Fohsella,,,,fohsi,,fohsi,,Fohsella fohsi fohsi,planktic_foraminfera
+,,Fohsella,,,,fohsi,,lobata,,Fohsella fohsi lobata,planktic_foraminfera
+,,Fohsella,,,,kugleri,,,,Fohsella kugleri,planktic_foraminfera
+,,Fohsella,,,,lenguaensis,,,,Fohsella lenguaensis,planktic_foraminfera
+,,Fohsella,,,,lobata,,,,Fohsella lobata,planktic_foraminfera
+,,Fohsella,,,,peripheroacuta,,,,Fohsella peripheroacuta,planktic_foraminfera
+,,Fohsella,,,,peripheroronda,,,,Fohsella peripheroronda,planktic_foraminfera
+,,Fohsella,,,,praefohsi,,,,Fohsella praefohsi,planktic_foraminfera
+,,Fohsella,,,,robusta,,,,Fohsella robusta,planktic_foraminfera
+,,Gansserina,,,,gansseri,,,,Gansserina gansseri,planktic_foraminfera
+,,Globanomalina,,,,australiformis,,,,Globanomalina australiformis,planktic_foraminfera
+,,Globanomalina,,,,chapmani,,,,Globanomalina chapmani,planktic_foraminfera
+,,Globanomalina,,,,compressa,,,,Globanomalina compressa,planktic_foraminfera
+,,Globanomalina,,,,ehrenbergi,,,,Globanomalina ehrenbergi,planktic_foraminfera
+,,Globanomalina,,,,imitata,,,,Globanomalina imitata,planktic_foraminfera
+,,Globanomalina,,,,planocompressa,,,,Globanomalina planocompressa,planktic_foraminfera
+,,Globanomalina,,,,pseudomenardii,,,,Globanomalina pseudomenardii,planktic_foraminfera
+,,Globanomalina,,,,sp.,,,,Globanomalina sp.,planktic_foraminfera
+,,Globigerinatella,,,,insueta,,,,Globigerinatella insueta,planktic_foraminfera
+,,Globigerina,Zeaglobigerina,,,decoraperta,,,,Globigerina Zeaglobigerina decoraperta,planktic_foraminfera
+,,Globigerina,Zeaglobigerina,,,nepenthes,,,,Globigerina Zeaglobigerina nepenthes,planktic_foraminfera
+,,Globigerina ,,,,aequilateralis,,,,Globigerina aequilateralis,planktic_foraminfera
+,,Globigerina,,,,anguliofficinalis,,,,Globigerina anguliofficinalis,planktic_foraminfera
+,,Globigerina,,,,angulisuturalis,,,,Globigerina angulisuturalis,planktic_foraminfera
+,,Globigerina,,,,angustiumbilicata,,,,Globigerina angustiumbilicata,planktic_foraminfera
+,,Globigerina,,,,apertura,,,,Globigerina apertura,planktic_foraminfera
+,,Globigerina,,,,braziere,,,,Globigerina braziere,planktic_foraminfera
+,,Globigerina,,,,bulloides,,umbilicata,,Globigerina bulloides umbilicata,planktic_foraminfera
+,,Globigerina,,,,calida,,,,Globigerina calida,planktic_foraminfera
+,,Globigerina,,,cf.,woodi,,,,Globigerina cf. woodi,planktic_foraminfera
+,,Globigerina,,,,ciperoensis,,,,Globigerina ciperoensis,planktic_foraminfera
+,,Globigerina,,,,conglomerata,,,,Globigerina conglomerata,planktic_foraminfera
+,,Globigerina,,,,connecta,,,,Globigerina connecta,planktic_foraminfera
+,,Globigerina,,,,decoraperta,,,,Globigerina decoraperta,planktic_foraminfera
+,,Globigerina,,,,druryi,,,,Globigerina druryi,planktic_foraminfera
+,,Globigerina,,,,eamesi,,,,Globigerina eamesi,planktic_foraminfera
+,,Globigerina,,,,euapertura,,,,Globigerina euapertura,planktic_foraminfera
+,,Globigerina,,,,glutinata,,,,Globigerina glutinata,planktic_foraminfera
+,,Globigerina,,,,gnaucki,,,,Globigerina gnaucki,planktic_foraminfera
+,,Globigerina,,,,gortanii,,,,Globigerina gortanii,planktic_foraminfera
+,,Globigerina,,,,labiacrassata,,,,Globigerina labiacrassata,planktic_foraminfera
+,,Globigerina,,,,linaperta,,,,Globigerina linaperta,planktic_foraminfera
+,,Globigerina,,,,nepenthes,,,,Globigerina nepenthes,planktic_foraminfera
+,,Globigerina,,,,officinalis,,,,Globigerina officinalis,planktic_foraminfera
+,,Globigerina,,,,ouachitaensis,,,,Globigerina ouachitaensis,planktic_foraminfera
+,,Globigerina,,,,praebulloides,,,,Globigerina praebulloides,planktic_foraminfera
+,,Globigerina,,,,prasepis,,,,Globigerina prasepis,planktic_foraminfera
+,,Globigerina,,,,pseudodruryi,,,,Globigerina pseudodruryi,planktic_foraminfera
+,,Globigerina,,,,quinqueloba,,,,Globigerina quinqueloba,planktic_foraminfera
+,,Globigerina ,,,,rubescens,,,pink,Globigerina rubescens (pink),planktic_foraminfera
+,,Globigerina ,,,,rubescens,,,white,Globigerina rubescens (white),planktic_foraminfera
+,,Globigerina,,,,sellii,,,,Globigerina sellii,planktic_foraminfera
+,,Globigerina,,,,senni,,,,Globigerina senni,planktic_foraminfera
+,,Globigerina,,,,sp.,,,,Globigerina sp.,planktic_foraminfera
+,,Globigerina,,,,tripartita,,,,Globigerina tripartita,planktic_foraminfera
+,,Globigerina,,,,umbilicata,,,,Globigerina umbilicata,planktic_foraminfera
+,,Globigerina,,,,venezulana,,,,Globigerina venezulana,planktic_foraminfera
+,,Globigerina ,,,,woodi,,,,Globigerina woodi,planktic_foraminfera
+,,Globigerinatella,,,,sp.,,,,Globigerinatella sp.,planktic_foraminfera
+,,Globigerinatheka,,,,barri,,,,Globigerinatheka barri,planktic_foraminfera
+,,Globigerinatheka,,,,index,,,,Globigerinatheka index,planktic_foraminfera
+,,Globigerinatheka,,,,korotkovi,,,,Globigerinatheka korotkovi,planktic_foraminfera
+,,Globigerinatheka,,,,kugleri,,,,Globigerinatheka kugleri,planktic_foraminfera
+,,Globigerinatheka,,,,luterbacheri,,,,Globigerinatheka luterbacheri,planktic_foraminfera
+,,Globigerinatheka,,,,mexicana,,,,Globigerinatheka mexicana,planktic_foraminfera
+,,Globigerinatheka,,,,semiinvoluta,,,,Globigerinatheka semiinvoluta,planktic_foraminfera
+,,Globigerinatheka,,,,sp.,,,,Globigerinatheka sp.,planktic_foraminfera
+,,Globigerinatheka,,,,subconglobata,,,,Globigerinatheka subconglobata,planktic_foraminfera
+,,Globigerinatheka,,,,tropicalis,,,,Globigerinatheka tropicalis,planktic_foraminfera
+,,Globigerinella,,,,aequilateralis,,,,Globigerinella aequilateralis,planktic_foraminfera
+,,Globigerinella,,,,obesa,,,,Globigerinella obesa,planktic_foraminfera
+,,Globigerinella,,,,praesiphonifera,,,,Globigerinella praesiphonifera,planktic_foraminfera
+,,Globigerinella,,,,radians,,,,Globigerinella radians,planktic_foraminfera
+,,Globigerinella,,,,spp.,,,,Globigerinella spp.,planktic_foraminfera
+,,Globigerinelloides,,,,aptiensis,,,,Globigerinelloides aptiensis,planktic_foraminfera
+,,Globigerinelloides,,,,asper,,,,Globigerinelloides asper,planktic_foraminfera
+,,Globigerinelloides,,,,bentonensis,,,,Globigerinelloides bentonensis,planktic_foraminfera
+,,Globigerinelloides ,,,cf.,blowi,,,,Globigerinelloides cf. blowi,planktic_foraminfera
+,,Globigerinelloides,,,,bollii,,,,Globigerinelloides bollii,planktic_foraminfera
+,,Globigerinelloides,,,,ehrenbergi,,,,Globigerinelloides ehrenbergi,planktic_foraminfera
+,,Globigerinelloides,,,,impensus,,,,Globigerinelloides impensus,planktic_foraminfera
+,,Globigerinelloides,,,,maridalensis,,,,Globigerinelloides maridalensis,planktic_foraminfera
+,,Globigerinelloides,,,,paragottisi,,,,Globigerinelloides paragottisi,planktic_foraminfera
+,,Globigerinelloides,,,,praevolutus,,,,Globigerinelloides praevolutus,planktic_foraminfera
+,,Globigerinelloides,,,,prairiehillensis,,,,Globigerinelloides prairiehillensis,planktic_foraminfera
+,,Globigerinelloides,,,,sp.,,,,Globigerinelloides sp.,planktic_foraminfera
+,,Globigerinelloides,,,,ultramicrus,,,,Globigerinelloides ultramicrus,planktic_foraminfera
+,,Globigerinita,,,,boweni,,,,Globigerinita boweni,planktic_foraminfera
+,,Globigerinita,,,,iota,,,,Globigerinita iota,planktic_foraminfera
+,,Globigerinita,,,,parkerae,,,,Globigerinita parkerae,planktic_foraminfera
+,,Globigerinita,,,,uvula,,,,Globigerinita uvula,planktic_foraminfera
+,,Globigerinoides,,,,altiapertura,,,,Globigerinoides altiapertura,planktic_foraminfera
+,,Globigerinoides,,,,altiaperturus,,,,Globigerinoides altiaperturus,planktic_foraminfera
+,,Globigerinoides ,,,,altiaperturus,,,,Globigerinoides altiaperturus,planktic_foraminfera
+,,Globigerinoides,,,,bisphericus,,,,Globigerinoides bisphericus,planktic_foraminfera
+,,Globigerinoides,,,,bollii,,,,Globigerinoides bollii,planktic_foraminfera
+,,Globigerinoides,,,,conglobatus,,,pink,Globigerinoides conglobatus (pink),planktic_foraminfera
+,,Globigerinoides,,,,diminutus,,,,Globigerinoides diminutus,planktic_foraminfera
+,,Globigerinoides,,,,elongatus,,,,Globigerinoides elongatus,planktic_foraminfera
+,,Globigerinoides ,,,,kennetti,,,,Globigerinoides kennetti,planktic_foraminfera
+,,Globigerinoides,,,,mitra,,,,Globigerinoides mitra,planktic_foraminfera
+,,Globigerinoides,,,,obliquus,,,regular,Globigerinoides obliquus (regular),planktic_foraminfera
+,,Globigerinoides ,,,,obliquus,,,,Globigerinoides obliquus,planktic_foraminfera
+,,Globigerinoides,,,,parawoodi,,,,Globigerinoides parawoodi,planktic_foraminfera
+,,Globigerinoides,,,,primordius,,,,Globigerinoides primordius,planktic_foraminfera
+,,Globigerinoides,,,,quadrilobatus,,,,Globigerinoides quadrilobatus,planktic_foraminfera
+,,Globigerinoides,,,,ruber,,,,Globigerinoides ruber,planktic_foraminfera
+,,Globigerinoides,,,,ruber,,,pink,Globigerinoides ruber (pink),planktic_foraminfera
+,,Globigerinoides,,,,ruber,,pyramidalis,,Globigerinoides ruber pyramidalis,planktic_foraminfera
+,,Globigerinoides,,,,ruber,,,white,Globigerinoides ruber (white),planktic_foraminfera
+,,Globigerinoides,,,,seiglei,,,,Globigerinoides seiglei,planktic_foraminfera
+,,Globigerinoides,,,,seigliei,,,,Globigerinoides seigliei,planktic_foraminfera
+,,Globigerinoides,,,,sicanus,,,,Globigerinoides sicanus,planktic_foraminfera
+,,Globigerinoides,,,,sp.,,,,Globigerinoides sp.,planktic_foraminfera
+,,Globigerinoides,,,cf.,ruber,,,white,Globigerinoides cf. ruber (white),planktic_foraminfera
+,,Globigerinoides,,,,tenellus,,,,Globigerinoides tenellus,planktic_foraminfera
+,,Globigerinoides,,,s.l.,trilobus,,,,Globigerinoides s.l. trilobus,planktic_foraminfera
+,,Globigerinoidesella,,,,fistulosa,,,,Globigerinoidesella fistulosa,planktic_foraminfera
+,,Globigerinopsis,,,,obesa,,,,Globigerinopsis obesa,planktic_foraminfera
+,,Globoconella,,,,conoidea,,,,Globoconella conoidea,planktic_foraminfera
+,,Globoconella,,,,conomiozea,,,,Globoconella conomiozea,planktic_foraminfera
+,,Globoconella ,,,,miotumida,,,,Globoconella miotumida,planktic_foraminfera
+,,Globoconella,,,,miotumida,,,dextral,Globoconella miotumida (dextral),planktic_foraminfera
+,,Globoconella ,,,,miotumida,,,sinistral,Globoconella miotumida (sinistral),planktic_foraminfera
+,,Globoconella,,,,miozea,,,,Globoconella miozea,planktic_foraminfera
+,,Globoconella,,,s.l.,miozea,,,,Globoconella s.l. miozea,planktic_foraminfera
+,,Globoconella,,,,mons,,,,Globoconella mons,planktic_foraminfera
+,,Globoconella,,,,pliozea,,,,Globoconella pliozea,planktic_foraminfera
+,,Globoconella,,,,praescitula,,,,Globoconella praescitula,planktic_foraminfera
+,,Globoconella,,,,pseudospinosa,,,,Globoconella pseudospinosa,planktic_foraminfera
+,,Globoconella,,,,puncticulata,,,,Globoconella puncticulata,planktic_foraminfera
+,,Globoconella,,,,puncticuloides,,,compressed,Globoconella puncticuloides (compressed),planktic_foraminfera
+,,Globoconella,,,,puncticuloides,,,vaulted,Globoconella puncticuloides (vaulted),planktic_foraminfera
+,,Globoconella,,,,sphericomiozea,,,,Globoconella sphericomiozea,planktic_foraminfera
+,,Globoconella ,,,,triangula,,,,Globoconella triangula,planktic_foraminfera
+,,Globoconella,,,cf.,triangula,,,,Globoconella cf. triangula,planktic_foraminfera
+,,Globoconella ,,,,zealandica,,,,Globoconella zealandica,planktic_foraminfera
+,,Globoconusa ,,,,daubjergensis,,,,Globoconusa daubjergensis,planktic_foraminfera
+,,Globoquadrina ,,,,altispira,,altispira,,Globoquadrina altispira altispira,planktic_foraminfera
+,,Globoquadrina,,,,altispira,,globosa,,Globoquadrina altispira globosa,planktic_foraminfera
+,,Globoquadrina,,,,baroemoenensis,,,,Globoquadrina baroemoenensis,planktic_foraminfera
+,,Globoquadrina,,,,binaiensis,,,,Globoquadrina binaiensis,planktic_foraminfera
+,,Globoquadrina,,,cf.,binaiensis,,,,Globoquadrina cf. binaiensis,planktic_foraminfera
+,,Globoquadrina,,,,conglomerata,,,,Globoquadrina conglomerata,planktic_foraminfera
+,,Globoquadrina,,,,dehiscens,,,,Globoquadrina dehiscens,planktic_foraminfera
+,,Globoquadrina ,,,,dehiscens,,dehiscens,,Globoquadrina dehiscens dehiscens,planktic_foraminfera
+,,Globoquadrina,,,,globularis,,,,Globoquadrina globularis,planktic_foraminfera
+,,Globoquadrina,,,,praedehiscens,,,,Globoquadrina praedehiscens,planktic_foraminfera
+,,Globoquadrina,,,,rohri,,,,Globoquadrina rohri,planktic_foraminfera
+,,Globoquadrina,,,,sellii,,,,Globoquadrina sellii,planktic_foraminfera
+,,Globoquadrina ,,,,tapurensis,,,,Globoquadrina tapurensis,planktic_foraminfera
+,,Globoquadrina ,,,,tripartita,,,,Globoquadrina tripartita,planktic_foraminfera
+,,Globoquadrina,,,,venezuelana,,,,Globoquadrina venezuelana,planktic_foraminfera
+,,Globorotalia,,,,acrostoma,,,,Globorotalia acrostoma,planktic_foraminfera
+,,Globorotalia ,,,,anfracta,,,,Globorotalia anfracta,planktic_foraminfera
+,,Globorotalia ,,,,archeomenardii,,,,Globorotalia archeomenardii,planktic_foraminfera
+,,Globorotalia,,,,archeomenardii,,,,Globorotalia archeomenardii,planktic_foraminfera
+,,Globorotalia,,,,bermudezi,,,,Globorotalia bermudezi,planktic_foraminfera
+,,Globorotalia,,,,birnageae,,,,Globorotalia birnageae,planktic_foraminfera
+,,Globorotalia,,,cf.,crassula,,,,Globorotalia cf. crassula,planktic_foraminfera
+,,Globorotalia,,,,challengeri,,,,Globorotalia challengeri,planktic_foraminfera
+,,Globorotalia,,,,cibaoensis,,,,Globorotalia cibaoensis,planktic_foraminfera
+,,Globorotalia,,,,conica,,,,Globorotalia conica,planktic_foraminfera
+,,Globorotalia,,,,conoidea,,,,Globorotalia conoidea,planktic_foraminfera
+,,Globorotalia ,,,,conomiozea,,,,Globorotalia conomiozea,planktic_foraminfera
+,,Globorotalia,,,,continuosa,,,,Globorotalia continuosa,planktic_foraminfera
+,,Globorotalia,,,,continuousa,,,,Globorotalia continuousa,planktic_foraminfera
+,,Globorotalia ,,,,crassaformis,,crassaformis,,Globorotalia crassaformis crassaformis,planktic_foraminfera
+,,Globorotalia,,,s.l.,crassaformis,,,dextral,Globorotalia s.l. crassaformis (dextral),planktic_foraminfera
+,,Globorotalia,,,s.l.,crassaformis,,,sinistral,Globorotalia s.l. crassaformis (sinistral),planktic_foraminfera
+,,Globorotalia,,,s.l.,crassaformis,,,,Globorotalia s.l. crassaformis,planktic_foraminfera
+,,Globorotalia,,,,crassula,,,,Globorotalia crassula,planktic_foraminfera
+,,Globorotalia,,,,decoraperta,,,,Globorotalia decoraperta,planktic_foraminfera
+,,Globorotalia,,,,excelsa,,,,Globorotalia excelsa,planktic_foraminfera
+,,Globorotalia,,,,exilis,,,,Globorotalia exilis,planktic_foraminfera
+,,Globorotalia,,,,fimbriata,,,,Globorotalia fimbriata,planktic_foraminfera
+,,Globorotalia ,,,,flexuosa,,,,Globorotalia flexuosa,planktic_foraminfera
+,,Globorotalia ,,,,fohsi,,fohsi,,Globorotalia fohsi fohsi,planktic_foraminfera
+,,Globorotalia,,,,hessi,,,,Globorotalia hessi,planktic_foraminfera
+,,Globorotalia ,,,,hirsuta,,,,Globorotalia hirsuta,planktic_foraminfera
+,,Globorotalia ,,,,hirsuta,,,dextral,Globorotalia hirsuta (dextral),planktic_foraminfera
+,,Globorotalia ,,,,hirsuta,,,sinistral,Globorotalia hirsuta (sinistral),planktic_foraminfera
+,,Globorotalia,,,,ichinosekiensis,,,,Globorotalia ichinosekiensis,planktic_foraminfera
+,,Globorotalia,,,,ikbei,,,,Globorotalia ikbei,planktic_foraminfera
+,,Globorotalia,,,,inflata,,,,Globorotalia inflata,planktic_foraminfera
+,,Globorotalia,,,,iwaiensis,,,,Globorotalia iwaiensis,planktic_foraminfera
+,,Globorotalia,,,,juanai,,,,Globorotalia juanai,planktic_foraminfera
+,,Globorotalia,,,,lenguaensis,,,,Globorotalia lenguaensis,planktic_foraminfera
+,,Globorotalia ,,,,mayeri,,,,Globorotalia mayeri,planktic_foraminfera
+,,Globorotalia,,,,menardii,,,dextral,Globorotalia menardii (dextral),planktic_foraminfera
+,,Globorotalia,,,,menardii,,,sinistral,Globorotalia menardii (sinistral),planktic_foraminfera
+,,Globorotalia,,,,merotumida,,,,Globorotalia merotumida,planktic_foraminfera
+,,Globorotalia,,,,miocenica,,,,Globorotalia miocenica,planktic_foraminfera
+,,Globorotalia ,,,,miotumida,,,,Globorotalia miotumida,planktic_foraminfera
+,,Globorotalia,,,,miozea,,,,Globorotalia miozea,planktic_foraminfera
+,,Globorotalia,,,,munda,,,,Globorotalia munda,planktic_foraminfera
+,,Globorotalia,,,,peripheroacuta,,,,Globorotalia peripheroacuta,planktic_foraminfera
+,,Globorotalia,,,,pliozea,,,,Globorotalia pliozea,planktic_foraminfera
+,,Globorotalia,,,,praehumerosa,,,,Globorotalia praehumerosa,planktic_foraminfera
+,,Globorotalia,,,,praeinflata,,,,Globorotalia praeinflata,planktic_foraminfera
+,,Globorotalia,,,,praemenardii,,,,Globorotalia praemenardii,planktic_foraminfera
+,,Globorotalia,,,,praescitula,,,,Globorotalia praescitula,planktic_foraminfera
+,,Globorotalia,,,,pseudomiocenica,,,,Globorotalia pseudomiocenica,planktic_foraminfera
+,,Globorotalia,,,,puncticulata,,,,Globorotalia puncticulata,planktic_foraminfera
+,,Globorotalia ,,,,ronda,,,,Globorotalia ronda,planktic_foraminfera
+,,Globorotalia ,,,,scitula,,,,Globorotalia scitula,planktic_foraminfera
+,,Globorotalia ,,,,scitula,,,dextral,Globorotalia scitula (dextral),planktic_foraminfera
+,,Globorotalia,,,,scitula,,,sinistral,Globorotalia scitula (sinistral),planktic_foraminfera
+,,Globorotalia,,,,semivera,,,,Globorotalia semivera,planktic_foraminfera
+,,Globorotalia,,,,sp.,,,,Globorotalia sp.,planktic_foraminfera
+,,Globorotalia,,,,sphericomiozea,,,,Globorotalia sphericomiozea,planktic_foraminfera
+,,Globorotalia,,,,theyeri,,,,Globorotalia theyeri,planktic_foraminfera
+,,Globorotalia,,,,truncatulinoides,,,dextral,Globorotalia truncatulinoides (dextral),planktic_foraminfera
+,,Globorotalia,,,,truncatulinoides,,,sinistral,Globorotalia truncatulinoides (sinistral),planktic_foraminfera
+,,Globorotalia,,,,tumida,,flexuosa,,Globorotalia tumida flexuosa,planktic_foraminfera
+,,Globorotalia,,,,viola,,,,Globorotalia viola,planktic_foraminfera
+,,Globorotalia,,,,zealandica,,,,Globorotalia zealandica,planktic_foraminfera
+,,Globorotalia,,Fohsella,,fohsi,,,,Globorotalia Fohsella fohsi,planktic_foraminfera
+,,Globorotalia,,Fohsella,,fohsi,,robusta,,Globorotalia Fohsella fohsi robusta,planktic_foraminfera
+,,Globorotalia,,Fohsella,,peripheroacuta,,,,Globorotalia Fohsella peripheroacuta,planktic_foraminfera
+,,Globorotalia,,Fohsella,,peripheroronda,,,,Globorotalia Fohsella peripheroronda,planktic_foraminfera
+,,Globorotalia,,Fohsella,,praefohsi,,,,Globorotalia Fohsella praefohsi,planktic_foraminfera
+,,Globorotalia,,Fohsella,,fohsi,,lobata,,Globorotalia Fohsella fohsi lobata,planktic_foraminfera
+,,Globorotalia,,Globoconella,,conoidea,,,,Globorotalia Globoconella conoidea,planktic_foraminfera
+,,Globorotalia,,Globoconella,,inflata,,,,Globorotalia Globoconella inflata,planktic_foraminfera
+,,Globorotalia,,Globoconella,,miozea,,,,Globorotalia Globoconella miozea,planktic_foraminfera
+,,Globorotalia,,Globoconella,,puncticulata,,,,Globorotalia Globoconella puncticulata,planktic_foraminfera
+,,Globorotalia,,Globoconella,,merotumida,,,,Globorotalia Globoconella merotumida,planktic_foraminfera
+,,Globorotalia,,Globoconella,,tumida ,,flexosa,,Globorotalia Globoconella tumida flexosa,planktic_foraminfera
+,,Globorotalia,,Globoconella,,tumida,,tumida,,Globorotalia Globoconella tumida tumida,planktic_foraminfera
+,,Globorotalia,,Hirsutella,,cibaoenisis,,,,Globorotalia Hirsutella cibaoenisis,planktic_foraminfera
+,,Globorotalia,,Hirsutella,,hirsuta,,,,Globorotalia Hirsutella hirsuta,planktic_foraminfera
+,,Globorotalia,,Hirsutella,,margaritae,,,,Globorotalia Hirsutella margaritae,planktic_foraminfera
+,,Globorotalia,,Hirsutella,,praemargaritae,,,,Globorotalia Hirsutella praemargaritae,planktic_foraminfera
+,,Globorotalia,,Hirsutella,,scitula,,,,Globorotalia Hirsutella scitula,planktic_foraminfera
+,,Globorotalia,,Menardella,,archeomenardii,,,,Globorotalia Menardella archeomenardii,planktic_foraminfera
+,,Globorotalia,,Menardella,,cultrata,,,,Globorotalia Menardella cultrata,planktic_foraminfera
+,,Globorotalia,,Menardella,,exilis,,,,Globorotalia Menardella exilis,planktic_foraminfera
+,,Globorotalia,,Menardella,,fimbriata,,,,Globorotalia Menardella fimbriata,planktic_foraminfera
+,,Globorotalia,,Menardella,,limbata,,,,Globorotalia Menardella limbata,planktic_foraminfera
+,,Globorotalia,,Menardella,,menardii,,,,Globorotalia Menardella menardii,planktic_foraminfera
+,,Globorotalia,,Menardella,,multicamerata,,,,Globorotalia Menardella multicamerata,planktic_foraminfera
+,,Globorotalia,,Menardella,,pertenuis,,,,Globorotalia Menardella pertenuis,planktic_foraminfera
+,,Globorotalia,,Menardella,,praemenardii,,,,Globorotalia Menardella praemenardii,planktic_foraminfera
+,,Globorotalia,,Truncorotalia,,crossaformis,,,,Globorotalia Truncorotalia crossaformis,planktic_foraminfera
+,,Globorotalia,,Truncorotalia,,tosaensis,,,,Globorotalia Truncorotalia tosaensis,planktic_foraminfera
+,,Globorotalia,,Truncorotalia,,truncatulinoides,,,,Globorotalia Truncorotalia truncatulinoides,planktic_foraminfera
+,,Globorotaloides,,,,eovariabilis,,,,Globorotaloides eovariabilis,planktic_foraminfera
+,,Globorotaloides,,,,hexagonus,,,,Globorotaloides hexagonus,planktic_foraminfera
+,,Globorotaloides,,,,quadrocameratus,,,,Globorotaloides quadrocameratus,planktic_foraminfera
+,,Globorotaloides,,,,suteri,,,,Globorotaloides suteri,planktic_foraminfera
+,,Globorotaloides,,,,testarugosa,,,,Globorotaloides testarugosa,planktic_foraminfera
+,,Globorotaloides,,,,variabilis,,,,Globorotaloides variabilis,planktic_foraminfera
+,,Globotruncana,,,,aegyptiaca,,,,Globotruncana aegyptiaca,planktic_foraminfera
+,,Globotruncana,,,,arca,,,,Globotruncana arca,planktic_foraminfera
+,,Globotruncana,,,,bulloides,,,,Globotruncana bulloides,planktic_foraminfera
+,,Globotruncana,,,,lapparenti,,,,Globotruncana lapparenti,planktic_foraminfera
+,,Globotruncana,,,,linneiana,,,,Globotruncana linneiana,planktic_foraminfera
+,,Globotruncana,,,,morozovae,,,,Globotruncana morozovae,planktic_foraminfera
+,,Globotruncana,,,,neotricarinata,,,,Globotruncana neotricarinata,planktic_foraminfera
+,,Globotruncana,,,,orientalis,,,,Globotruncana orientalis,planktic_foraminfera
+,,Globotruncana,,,,ventricosa,,,,Globotruncana ventricosa,planktic_foraminfera
+,,Globotruncanella,,,,havanensis,,,,Globotruncanella havanensis,planktic_foraminfera
+,,Globotruncanella,,,,petaloidea,,,,Globotruncanella petaloidea,planktic_foraminfera
+,,Globotruncanita,,,,calcarata,,,,Globotruncanita calcarata,planktic_foraminfera
+,,Globotruncanita,,,,elevata,,,,Globotruncanita elevata,planktic_foraminfera
+,,Globotruncanita,,,,stuarti,,,,Globotruncanita stuarti,planktic_foraminfera
+,,Globotruncanita,,,,stuartiformis,,,,Globotruncanita stuartiformis,planktic_foraminfera
+,,Globoturborotalita,,,,brazieri,,,,Globoturborotalita brazieri,planktic_foraminfera
+,,Globoturborotalita,,,,connecta,,,,Globoturborotalita connecta,planktic_foraminfera
+,,Globoturborotalita,,,,decoraperta,,,,Globoturborotalita decoraperta,planktic_foraminfera
+,,Globoturborotalita,,,,druryi,,,,Globoturborotalita druryi,planktic_foraminfera
+,,Globoturborotalita,,,,nepenthes,,,,Globoturborotalita nepenthes,planktic_foraminfera
+,,Globoturborotalita,,,,obliquus,,,,Globoturborotalita obliquus,planktic_foraminfera
+,,Globoturborotalita,,,,rubescens,,,,Globoturborotalita rubescens,planktic_foraminfera
+,,Globoturborotalita,,,,tenella,,,,Globoturborotalita tenella,planktic_foraminfera
+,,Globoturborotalita,,,,woodi,,connecta,,Globoturborotalita woodi connecta,planktic_foraminfera
+,,Globoturborotalita,,,,sp.,,,,Globoturborotalita sp.,planktic_foraminfera
+,,Gublerina,,,,rajagopalani,,,,Gublerina rajagopalani,planktic_foraminfera
+,,Guembelitria ,,,,cenomana,,,,Guembelitria cenomana,planktic_foraminfera
+,,Guembelitria,,,,cretacea,,,,Guembelitria cretacea,planktic_foraminfera
+,,Guembelitrioides,,,,nuttali,,,,Guembelitrioides nuttali,planktic_foraminfera
+,,Hantkenina,,,,alabamensis,,,,Hantkenina alabamensis,planktic_foraminfera
+,,Hantkenina,,,,compressa,,,,Hantkenina compressa,planktic_foraminfera
+,,Hantkenina,,,,dumblei,,,,Hantkenina dumblei,planktic_foraminfera
+,,Hantkenina,,,,mexicana,,,,Hantkenina mexicana,planktic_foraminfera
+,,Hantkenina,,,,sp.,,,,Hantkenina sp.,planktic_foraminfera
+,,Hantkenina,,,,spp.,,,,Hantkenina spp.,planktic_foraminfera
+,,Hastigerina,,,,pelagica,,,,Hastigerina pelagica,planktic_foraminfera
+,,Hastigerinoides,,,,subdigitata,,,,Hastigerinoides subdigitata,planktic_foraminfera
+,,Hedbergella,,,,angolae,,,,Hedbergella angolae,planktic_foraminfera
+,,Hedbergella,,,,delrioensis,,,,Hedbergella delrioensis,planktic_foraminfera
+,,Hedbergella,,,,holmdelensis,,,,Hedbergella holmdelensis,planktic_foraminfera
+,,Hedbergella,,,,implicata,,,,Hedbergella implicata,planktic_foraminfera
+,,Hedbergella,,,,monmouthensis,,,,Hedbergella monmouthensis,planktic_foraminfera
+,,Hedbergella,,,,planispira,,,,Hedbergella planispira,planktic_foraminfera
+,,Hedbergella,,,,rischi,,,,Hedbergella rischi,planktic_foraminfera
+,,Hedbergella,,,,simplex,,,,Hedbergella simplex,planktic_foraminfera
+,,Hedbergella,,,,sp.,,,,Hedbergella sp.,planktic_foraminfera
+,,Hedbergella,,,,wondersi,,,,Hedbergella wondersi,planktic_foraminfera
+,,Helvetoglobotruncana,,,,helvetica,,,,Helvetoglobotruncana helvetica,planktic_foraminfera
+,,Helvetoglobotruncana,,,,praehelvetica,,,,Helvetoglobotruncana praehelvetica,planktic_foraminfera
+,,Heterohelix,,,,globulosa,,,,Heterohelix globulosa,planktic_foraminfera
+,,Heterohelix,,,cf.,globulosa,,,,Heterohelix cf. globulosa,planktic_foraminfera
+,,Heterohelix,,,,labellosa,,,,Heterohelix labellosa,planktic_foraminfera
+,,Heterohelix,,,,navarroensis,,,,Heterohelix navarroensis,planktic_foraminfera
+,,Heterohelix,,,,punctulata,,,,Heterohelix punctulata,planktic_foraminfera
+,,Heterohelix,,,,sp.,,,,Heterohelix sp.,planktic_foraminfera
+,,Hirsutella,,,,bermudezi,,,,Hirsutella bermudezi,planktic_foraminfera
+,,Hirsutella,,,,cibaoensis,,,,Hirsutella cibaoensis,planktic_foraminfera
+,,Hirsutella,,,,hirsuta,,,,Hirsutella hirsuta,planktic_foraminfera
+,,Hirsutella,,,,juanai,,,,Hirsutella juanai,planktic_foraminfera
+,,Hirsutella,,,,margaritae,,,,Hirsutella margaritae,planktic_foraminfera
+,,Hirsutella,,,,panda,,,,Hirsutella panda,planktic_foraminfera
+,,Hirsutella,,,cf.,panda,,,,Hirsutella cf. panda,planktic_foraminfera
+,,Hirsutella,,,,scitula,,,,Hirsutella scitula,planktic_foraminfera
+,,Hirsutella,,,cf.,scitula,,,,Hirsutella cf. scitula,planktic_foraminfera
+,,Igorina,,,,broedermanni,,,,Igorina broedermanni,planktic_foraminfera
+,,Igorina,,,,pusilla,,,,Igorina pusilla,planktic_foraminfera
+,,Igorina,,,,tadjikistanensis,,,,Igorina tadjikistanensis,planktic_foraminfera
+,,Laeviheterohelix,,,,dentata,,,,Laeviheterohelix dentata,planktic_foraminfera
+,,Laeviheterohelix,,,,pulchra,,,,Laeviheterohelix pulchra,planktic_foraminfera
+,,Marginotruncana,,,,angusticarenata,,,,Marginotruncana angusticarenata,planktic_foraminfera
+,,Marginotruncana,,,,coldreriensis,,,,Marginotruncana coldreriensis,planktic_foraminfera
+,,Marginotruncana,,,,coronata,,,,Marginotruncana coronata,planktic_foraminfera
+,,Marginotruncana,,,,marginata,,,,Marginotruncana marginata,planktic_foraminfera
+,,Marginotruncana,,,,pseudolinneiana,,,,Marginotruncana pseudolinneiana,planktic_foraminfera
+,,Marginotruncana,,,,renzi,,,,Marginotruncana renzi,planktic_foraminfera
+,,Marginotruncana,,,,schneegansi,,,,Marginotruncana schneegansi,planktic_foraminfera
+,,Marginotruncana,,,,sigali,,,,Marginotruncana sigali,planktic_foraminfera
+,,Marginotruncana,,,,sinuosa,,,,Marginotruncana sinuosa,planktic_foraminfera
+,,Marginotruncana,,,,spp.,,,,Marginotruncana spp.,planktic_foraminfera
+,,Menardella,,,,limbata,,,,Menardella limbata,planktic_foraminfera
+,,Menardella,,,,menardii,,,,Menardella menardii,planktic_foraminfera
+,,Menardella,,,,miocenica,,,,Menardella miocenica,planktic_foraminfera
+,,Menardella,,,,multicamerata,,,,Menardella multicamerata,planktic_foraminfera
+,,Menardella,,,,praemenardii,,,,Menardella praemenardii,planktic_foraminfera
+,,Microhedbergella,,,,praeplanispira,,,,Microhedbergella praeplanispira,planktic_foraminfera
+,,Microhedbergella,,,,pseudodelrioensis,,,,Microhedbergella pseudodelrioensis,planktic_foraminfera
+,,Microhedbergella,,,,pseudoplanispira,,,,Microhedbergella pseudoplanispira,planktic_foraminfera
+,,Microhedbergella,,,,renilaevis,,,,Microhedbergella renilaevis,planktic_foraminfera
+,,Microhedbergella,,,,rischi,,,,Microhedbergella rischi,planktic_foraminfera
+,,Microhedbergella,,,,sp.,,,,Microhedbergella sp.,planktic_foraminfera
+,,Morozovella,,,,acuta,,,,Morozovella acuta,planktic_foraminfera
+,,Morozovella,,,,acutispira,,,,Morozovella acutispira,planktic_foraminfera
+,,Morozovella,,,,aequa,,,,Morozovella aequa,planktic_foraminfera
+,,Morozovella,,,,angulata,,,,Morozovella angulata,planktic_foraminfera
+,,Morozovella,,,,aragonensis,,,,Morozovella aragonensis,planktic_foraminfera
+,,Morozovella,,,,caucasica,,,,Morozovella caucasica,planktic_foraminfera
+,,Morozovella,,,,conicotruncata,,,,Morozovella conicotruncata,planktic_foraminfera
+,,Morozovella,,,,crassata,,,,Morozovella crassata,planktic_foraminfera
+,,Morozovella,,,,crater,,,,Morozovella crater,planktic_foraminfera
+,,Morozovella,,,,edgari,,,,Morozovella edgari,planktic_foraminfera
+,,Morozovella,,,,formosa,,,,Morozovella formosa,planktic_foraminfera
+,,Morozovella,,,,gracilis,,,,Morozovella gracilis,planktic_foraminfera
+,,Morozovella,,,,lehneri,,,,Morozovella lehneri,planktic_foraminfera
+,,Morozovella,,,,lensiformis,,,,Morozovella lensiformis,planktic_foraminfera
+,,Morozovella,,,,marginodentata,,,,Morozovella marginodentata,planktic_foraminfera
+,,Morozovella,,,,occlusa,,,,Morozovella occlusa,planktic_foraminfera
+,,Morozovella ,,,,pasionensis,,,,Morozovella pasionensis,planktic_foraminfera
+,,Morozovella,,,,praeangulata,,,,Morozovella praeangulata,planktic_foraminfera
+,,Morozovella,,,,quetra,,,,Morozovella quetra,planktic_foraminfera
+,,Morozovella,,,,sp.,,,,Morozovella sp.,planktic_foraminfera
+,,Morozovella,,,,spinulosa,,,,Morozovella spinulosa,planktic_foraminfera
+,,Morozovella,,,,subbotinae,,,,Morozovella subbotinae,planktic_foraminfera
+,,Morozovella,,,,velascoensis,,,,Morozovella velascoensis,planktic_foraminfera
+,,Morozovelloides,,,,bandyi,,,,Morozovelloides bandyi,planktic_foraminfera
+,,Morozovelloides,,,,crassatus,,,,Morozovelloides crassatus,planktic_foraminfera
+,,Morozovelloides,,,,lehneri,,,,Morozovelloides lehneri,planktic_foraminfera
+,,Muricohedbergella,,,,delrioensis,,,,Muricohedbergella delrioensis,planktic_foraminfera
+,,Muricoglobigerina,,,,senni,,,,Muricoglobigerina senni,planktic_foraminfera
+,,Muricohedbergella,,,,crassa,,,,Muricohedbergella crassa,planktic_foraminfera
+,,Muricohedbergella ,,,,delrioensis,,,,Muricohedbergella delrioensis,planktic_foraminfera
+,,Muricohedbergella,,,,flandrini,,,,Muricohedbergella flandrini,planktic_foraminfera
+,,Muricohedbergella,,,,hoelzli,,,,Muricohedbergella hoelzli,planktic_foraminfera
+,,Muricohedbergella,,,,holmdelensis,,,,Muricohedbergella holmdelensis,planktic_foraminfera
+,,Muricohedbergella,,,,planispira,,,,Muricohedbergella planispira,planktic_foraminfera
+,,Muricohedbergella,,,,praelibyca,,,,Muricohedbergella praelibyca,planktic_foraminfera
+,,Muricohedbergella ,,,,sp.,,,,Muricohedbergella sp.,planktic_foraminfera
+,,Mutabella ,,,,mirabilis,,,,Mutabella mirabilis,planktic_foraminfera
+,,Neogloboquadrina ,,,,acostaensis,,,dextral,Neogloboquadrina acostaensis (dextral),planktic_foraminfera
+,,Neogloboquadrina,,,,asanoi,,,,Neogloboquadrina asanoi,planktic_foraminfera
+,,Neogloboquadrina ,,,,atlantica,,,dextral,Neogloboquadrina atlantica (dextral),planktic_foraminfera
+,,Neogloboquadrina,,,,atlantica,,,sinistral,Neogloboquadrina atlantica (sinistral),planktic_foraminfera
+,,Neogloboquadrina ,,,,atlantica,,atlantica,,Neogloboquadrina atlantica atlantica,planktic_foraminfera
+,,Neogloboquadrina,,,cf.,pachyderma,,,,Neogloboquadrina cf. pachyderma,planktic_foraminfera
+,,Neogloboquadrina,,,,continuosa,,,,Neogloboquadrina continuosa,planktic_foraminfera
+,,Neogloboquadrina,,,,humerosa,,,,Neogloboquadrina humerosa,planktic_foraminfera
+,,Neogloboquadrina,,,,incompta,,,dextral,Neogloboquadrina incompta (dextral),planktic_foraminfera
+,,Neogloboquadrina,,,,incompta,,,sinistral,Neogloboquadrina incompta (sinistral),planktic_foraminfera
+,,Neogloboquadrina,,,,inglei,,,,Neogloboquadrina inglei,planktic_foraminfera
+,,Neogloboquadrina,,,,kagaensis,,,,Neogloboquadrina kagaensis,planktic_foraminfera
+,,Neogloboquadrina ,,,,nympha,,,,Neogloboquadrina nympha,planktic_foraminfera
+,,Neogloboquadrina,,,,pachyderma,,,dextral,Neogloboquadrina pachyderma (dextral),planktic_foraminfera
+,,Neogloboquadrina,,,,pachyderma,,,sinistral,Neogloboquadrina pachyderma (sinistral),planktic_foraminfera
+,,Neogloboquadrina,,,,pachyderma,,A,"dextral, inflated form","Neogloboquadrina pachyderma A(dextral, inflated form)",planktic_foraminfera
+,,Neogloboquadrina,,,,pachyderma ,,B,"sinistral, inflated form","Neogloboquadrina pachyderma B(sinistral, inflated form)",planktic_foraminfera
+,,Neogloboquadrina ,,,,praeatlantica,,,,Neogloboquadrina praeatlantica,planktic_foraminfera
+,,Neogloboquadrina,,,,pseudopima,,,,Neogloboquadrina pseudopima,planktic_foraminfera
+,,Neogloboquadrina,,,,sp.,,,,Neogloboquadrina sp.,planktic_foraminfera
+,,Orbulina,,,,sp.,,,,Orbulina sp.,planktic_foraminfera
+,,Orbulina,,,,suturalis,,,,Orbulina suturalis,planktic_foraminfera
+,,Orbulina ,,,,universa,,,juvenile,Orbulina universa (juvenile),planktic_foraminfera
+,,Orbulinoides,,,,beckmanni,,,,Orbulinoides beckmanni,planktic_foraminfera
+,,Paragloborotalia,,,,acrostoma,,,,Paragloborotalia acrostoma,planktic_foraminfera
+,,Paragloborotalia,,,,bella,,,,Paragloborotalia bella,planktic_foraminfera
+,,Paragloborotalia,,,,continuosa,,,,Paragloborotalia continuosa,planktic_foraminfera
+,,Paragloborotalia,,,,griffinoides,,,,Paragloborotalia griffinoides,planktic_foraminfera
+,,Paragloborotalia,,,,kugleri,,,,Paragloborotalia kugleri,planktic_foraminfera
+,,Paragloborotalia ,,,,kugleri,,,,Paragloborotalia kugleri,planktic_foraminfera
+,,Paragloborotalia,,,,mayeri,,,,Paragloborotalia mayeri,planktic_foraminfera
+,,Paragloborotalia,,,,mayeri,,,dextral,Paragloborotalia mayeri (dextral),planktic_foraminfera
+,,Paragloborotalia,,,,mayeri,,,sinistral,Paragloborotalia mayeri (sinistral),planktic_foraminfera
+,,Paragloborotalia,,,,nana,,,,Paragloborotalia nana,planktic_foraminfera
+,,Paragloborotalia,,,,nana ,,,,Paragloborotalia nana,planktic_foraminfera
+,,Paragloborotalia,,,,opima,,,,Paragloborotalia opima,planktic_foraminfera
+,,Paragloborotalia,,,,partimlabiata,,,,Paragloborotalia partimlabiata,planktic_foraminfera
+,,Paragloborotalia,,,,pseudocontinuosa,,,,Paragloborotalia pseudocontinuosa,planktic_foraminfera
+,,Paragloborotalia,,,,pseudocontinuosa,,,dextral,Paragloborotalia pseudocontinuosa (dextral),planktic_foraminfera
+,,Paragloborotalia,,,,pseudocontinuosa,,,sinistral,Paragloborotalia pseudocontinuosa (sinistral),planktic_foraminfera
+,,Paragloborotalia,,,,pseudokugleri,,,,Paragloborotalia pseudokugleri,planktic_foraminfera
+,,Paragloborotalia ,,,,pseudokugleri,,,,Paragloborotalia pseudokugleri,planktic_foraminfera
+,,Paragloborotalia,,,,semivera,,,,Paragloborotalia semivera,planktic_foraminfera
+,,Paragloborotalia,,,,semivera,,,dextral,Paragloborotalia semivera (dextral),planktic_foraminfera
+,,Paragloborotalia,,,,semivera,,,sinistral,Paragloborotalia semivera (sinistral),planktic_foraminfera
+,,Paragloborotalia ,,,,siakensis,,,,Paragloborotalia siakensis,planktic_foraminfera
+,,Paragloborotalia,,,,siakensis,,,dextral,Paragloborotalia siakensis (dextral),planktic_foraminfera
+,,Paragloborotalia ,,,,siakensis,,,sinistral,Paragloborotalia siakensis (sinistral),planktic_foraminfera
+,,Paragloborotalia,,,,sp.,,,,Paragloborotalia sp.,planktic_foraminfera
+,,Parasubbotina ,,,,griffinae ,,,,Parasubbotina griffinae,planktic_foraminfera
+,,Parasubbotina,,,,inaequispira,,,,Parasubbotina inaequispira,planktic_foraminfera
+,,Parasubbotina,,,,inaquespira ,,,,Parasubbotina inaquespira,planktic_foraminfera
+,,Parasubbotina,,,,prebetica,,,,Parasubbotina prebetica,planktic_foraminfera
+,,Parasubbotina,,,,pseudobulloides,,,,Parasubbotina pseudobulloides,planktic_foraminfera
+,,Parasubbotina ,,,,pseudowilsoni,,,,Parasubbotina pseudowilsoni,planktic_foraminfera
+,,Parasubbotina,,,,varianta,,,,Parasubbotina varianta,planktic_foraminfera
+,,Parasubbotina ,,,,variospira,,,,Parasubbotina variospira,planktic_foraminfera
+,,Parvularugoglobigerina,,,,alabamensis,,,,Parvularugoglobigerina alabamensis,planktic_foraminfera
+,,Pearsonites,,,,broedermanni,,,,Pearsonites broedermanni,planktic_foraminfera
+,,Planoglobulina,,,,acervulinoides,,,,Planoglobulina acervulinoides,planktic_foraminfera
+,,Planoglobulina,,,,multicamerata,,,,Planoglobulina multicamerata,planktic_foraminfera
+,,Planoheterohelix,,,,globulosa,,,,Planoheterohelix globulosa,planktic_foraminfera
+,,Planoheterohelix,,,,moremani,,,,Planoheterohelix moremani,planktic_foraminfera
+,,Planoheterohelix,,,,papula,,,,Planoheterohelix papula,planktic_foraminfera
+,,Planoheterohelix,,,,planata,,,,Planoheterohelix planata,planktic_foraminfera
+,,Planoheterohelix ,,,,postmoremani,,,,Planoheterohelix postmoremani,planktic_foraminfera
+,,Planoheterohelix,,,,reussi,,,,Planoheterohelix reussi,planktic_foraminfera
+,,Planoheterohelix,,,,sp.,,,,Planoheterohelix sp.,planktic_foraminfera
+,,Planomalina,,,,buxtorfi,,,,Planomalina buxtorfi,planktic_foraminfera
+,,Planorotalites,,,,compressa,,,,Planorotalites compressa,planktic_foraminfera
+,,Planorotalites,,,,pseudoscitula,,,,Planorotalites pseudoscitula,planktic_foraminfera
+,,Praeglobotruncana ,,,,delrioensis,,,,Praeglobotruncana delrioensis,planktic_foraminfera
+,,Praeglobotruncana,,,,gibba,,,,Praeglobotruncana gibba,planktic_foraminfera
+,,Praeglobotruncana,,,,stephani,,,,Praeglobotruncana stephani,planktic_foraminfera
+,,Praehedbergella,,,,aptiana,,,,Praehedbergella aptiana,planktic_foraminfera
+,,Praehedbergella,,,,gorbachikae,,,,Praehedbergella gorbachikae,planktic_foraminfera
+,,Praehedbergella,,,,roblesae,,,,Praehedbergella roblesae,planktic_foraminfera
+,,Praemurica,,,,inconstans,,,,Praemurica inconstans,planktic_foraminfera
+,,Praemurica ,,,,pseudoinconstans,,,,Praemurica pseudoinconstans,planktic_foraminfera
+,,Praemurica,,,,taurica,,,,Praemurica taurica,planktic_foraminfera
+,,Praemurica,,,,uncinata,,,,Praemurica uncinata,planktic_foraminfera
+,,Praeorbulina,,,,glomerosa,,,,Praeorbulina glomerosa,planktic_foraminfera
+,,Praeorbulina,,,,circularis,,,,Praeorbulina circularis,planktic_foraminfera
+,,Praeorbulina,,,,curva,,,,Praeorbulina curva,planktic_foraminfera
+,,Praeorbulina ,,,,sicana,,,,Praeorbulina sicana,planktic_foraminfera
+,,Praeorbulina,,,,sicana,,,,Praeorbulina sicana,planktic_foraminfera
+,,Praeorbulina,,,,sp.,,,,Praeorbulina sp.,planktic_foraminfera
+,,Praeorbulina,,,,transitoria,,,,Praeorbulina transitoria,planktic_foraminfera
+,,Pseudoguembelina,,,cf.,costulata,,,,Pseudoguembelina cf. costulata,planktic_foraminfera
+,,Pseudoguembelina,,,,hariaensis,,,,Pseudoguembelina hariaensis,planktic_foraminfera
+,,Pseudohastigerina,,,cf.,naguewichiensis,,,,Pseudohastigerina cf. naguewichiensis,planktic_foraminfera
+,,Pseudohastigerina,,,,micra,,,,Pseudohastigerina micra,planktic_foraminfera
+,,Pseudohastigerina,,,,naguewichiensis,,,,Pseudohastigerina naguewichiensis,planktic_foraminfera
+,,Pseudohastigerina,,,,wilcoxensis,,,,Pseudohastigerina wilcoxensis,planktic_foraminfera
+,,Pseudoschackoina,,,,saundersi,,,,Pseudoschackoina saundersi,planktic_foraminfera
+,,Pseudotextularia,,,,elegans,,,,Pseudotextularia elegans,planktic_foraminfera
+,,Pseudotextularia,,,,nuttalli,,,,Pseudotextularia nuttalli,planktic_foraminfera
+,,Pulleniatina,,,,sp.,,,dextral,Pulleniatina sp. (dextral),planktic_foraminfera
+,,Pulleniatina,,,,sp.,,,sinistral ,Pulleniatina sp. (sinistral ),planktic_foraminfera
+,,Pulleniatina,,,,,,,dextral,Pulleniatina (dextral),planktic_foraminfera
+,,Pulleniatina,,,,,,,sinistral,Pulleniatina (sinistral),planktic_foraminfera
+,,Pulleniatina,,,,finalis,,,,Pulleniatina finalis,planktic_foraminfera
+,,Pulleniatina ,,,,obliquiloculata,,,sinistral,Pulleniatina obliquiloculata (sinistral),planktic_foraminfera
+,,Pulleniatina ,,,,praecursor,,,,Pulleniatina praecursor,planktic_foraminfera
+,,Pulleniatina,,,,praespectabilis,,,,Pulleniatina praespectabilis,planktic_foraminfera
+,,Pulleniatina ,,,,primalis,,,dextral,Pulleniatina primalis (dextral),planktic_foraminfera
+,,Pulleniatina ,,,,primalis,,,sinistral,Pulleniatina primalis (sinistral),planktic_foraminfera
+,,Pulleniatina ,,,,primalis,,,,Pulleniatina primalis,planktic_foraminfera
+,,Pulleniatina ,,,,spectabilis,,,,Pulleniatina spectabilis,planktic_foraminfera
+,,Racemiguembelina,,,,fructicosa,,,,Racemiguembelina fructicosa,planktic_foraminfera
+,,Rectoguembelina,,,,cretacea,,,,Rectoguembelina cretacea,planktic_foraminfera
+,,Rotalipora ,,,,appenninica,,,,Rotalipora appenninica,planktic_foraminfera
+,,Rotalipora,,,,cushmani,,,,Rotalipora cushmani,planktic_foraminfera
+,,Rotalipora ,,,,globotruncanoides,,,,Rotalipora globotruncanoides,planktic_foraminfera
+,,Rotalipora,,,,greenhornensis,,,,Rotalipora greenhornensis,planktic_foraminfera
+,,Rotalipora,,,,montsalvensis,,,,Rotalipora montsalvensis,planktic_foraminfera
+,,Rotalipora,,,,reicheli,,,,Rotalipora reicheli,planktic_foraminfera
+,,Rotalipora,,,,ticinensis,,,,Rotalipora ticinensis,planktic_foraminfera
+,,Rugoglobigerina,,,,pennyi,,,,Rugoglobigerina pennyi,planktic_foraminfera
+,,Rugoglobigerina,,,,rugosa,,,,Rugoglobigerina rugosa,planktic_foraminfera
+,,Schackoina,,,,cenomana,,,,Schackoina cenomana,planktic_foraminfera
+,,Schackoina,,,,multispinata,,,,Schackoina multispinata,planktic_foraminfera
+,,Sigalia,,,,deflaensis,,,,Sigalia deflaensis,planktic_foraminfera
+,,Sphaeroidinella,,,s.l.,dahiscens,,,,Sphaeroidinella s.l. dahiscens,planktic_foraminfera
+,,Sphaeroidinella,,,s.l.,dehiscens,,,,Sphaeroidinella s.l. dehiscens,planktic_foraminfera
+,,Sphaeroidinella,,,,disjuncta,,,,Sphaeroidinella disjuncta,planktic_foraminfera
+,,Sphaeroidinella,,,,excavata,,,,Sphaeroidinella excavata,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,disjuncta,,,,Sphaeroidinellopsis disjuncta,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,hancocki,,,,Sphaeroidinellopsis hancocki,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,multiloba,,,,Sphaeroidinellopsis multiloba,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,paenedehiscens,,,,Sphaeroidinellopsis paenedehiscens,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,sp.,,,,Sphaeroidinellopsis sp.,planktic_foraminfera
+,,Sphaeroidinellopsis,,,,subdehiscens,,,,Sphaeroidinellopsis subdehiscens,planktic_foraminfera
+,,Subbotina,,,,angiporoides,,,,Subbotina angiporoides,planktic_foraminfera
+,,Subbotina,,,,angiporoides,,minima,,Subbotina angiporoides minima,planktic_foraminfera
+,,Subbotina,,,,brevis,,,,Subbotina brevis,planktic_foraminfera
+,,Subbotina ,,,,cancellata,,,,Subbotina cancellata,planktic_foraminfera
+,,Subbotina,,,,corpulenta,,,,Subbotina corpulenta,planktic_foraminfera
+,,Subbotina,,,,crociapertura,,,,Subbotina crociapertura,planktic_foraminfera
+,,Subbotina ,,,,eocaena,,,,Subbotina eocaena,planktic_foraminfera
+,,Subbotina,,,s.l.,eocaena,,,,Subbotina s.l. eocaena,planktic_foraminfera
+,,Subbotina,,,,eocaenica,,,,Subbotina eocaenica,planktic_foraminfera
+,,Subbotina,,,,euapertura,,,,Subbotina euapertura,planktic_foraminfera
+,,Subbotina ,,,,gortanii,,,,Subbotina gortanii,planktic_foraminfera
+,,Subbotina,,,,hagni,,,,Subbotina hagni,planktic_foraminfera
+,,Subbotina,,,,hornibrooki,,,,Subbotina hornibrooki,planktic_foraminfera
+,,Subbotina,,,,inaequispira,,,,Subbotina inaequispira,planktic_foraminfera
+,,Subbotina,,,,jacksonensis,,,,Subbotina jacksonensis,planktic_foraminfera
+,,Subbotina,,,,linaperta,,,,Subbotina linaperta,planktic_foraminfera
+,,Subbotina,,,s.l.,linaperta,,,,Subbotina s.l. linaperta,planktic_foraminfera
+,,Subbotina,,,,lozanoi,,,,Subbotina lozanoi,planktic_foraminfera
+,,Subbotina,,,,patagonica,,,,Subbotina patagonica,planktic_foraminfera
+,,Subbotina,,,,pseudoeocaena,,,,Subbotina pseudoeocaena,planktic_foraminfera
+,,Subbotina,,,,roesnaesensis,,,,Subbotina roesnaesensis,planktic_foraminfera
+,,Subbotina,,,,senni,,,,Subbotina senni,planktic_foraminfera
+,,Subbotina,,,,triangularis,,,,Subbotina triangularis,planktic_foraminfera
+,,Subbotina,,,,triloculinoides,,,,Subbotina triloculinoides,planktic_foraminfera
+,,Subbotina,,,,trivialis,,,,Subbotina trivialis,planktic_foraminfera
+,,Subbotina,,,,utilisindex,,,,Subbotina utilisindex,planktic_foraminfera
+,,Subbotina ,,,,utilisindex,,,,Subbotina utilisindex,planktic_foraminfera
+,,Subbotina,,,,utilsindex,,,,Subbotina utilsindex,planktic_foraminfera
+,,Subbotina,,,,velascoensis,,,,Subbotina velascoensis,planktic_foraminfera
+,,Subbotina,,,,yeguaensis,,,,Subbotina yeguaensis,planktic_foraminfera
+,,Tenuitella,,,,sp.,,,,Tenuitella sp.,planktic_foraminfera
+,,Tenuitella,,,,anfracta,,,,Tenuitella anfracta,planktic_foraminfera
+,,Tenuitella ,,,,angustiumbilicata,,,,Tenuitella angustiumbilicata,planktic_foraminfera
+,,Tenuitella ,,,,clemenciae,,,,Tenuitella clemenciae,planktic_foraminfera
+,,Tenuitella,,,,gemma,,,,Tenuitella gemma,planktic_foraminfera
+,,Tenuitella ,,,,munda,,,,Tenuitella munda,planktic_foraminfera
+,,Tenuitella,,,,munda,,,,Tenuitella munda,planktic_foraminfera
+,,Tenuitella,,,,spp.,,,,Tenuitella spp.,planktic_foraminfera
+,,Tenuitellinata ,,,,praestainforthi,,,,Tenuitellinata praestainforthi,planktic_foraminfera
+,,Thalmanninella,,,,gandolfii,,,,Thalmanninella gandolfii,planktic_foraminfera
+,,Ticinella,,,,madecassiana,,,,Ticinella madecassiana,planktic_foraminfera
+,,Ticinella,,,,praeticinensis,,,,Ticinella praeticinensis,planktic_foraminfera
+,,Ticinella,,,,primula,,,,Ticinella primula,planktic_foraminfera
+,,Ticinella,,,,raynaudi,,,,Ticinella raynaudi,planktic_foraminfera
+,,Ticinella,,,,roberti,,,,Ticinella roberti,planktic_foraminfera
+,,Ticinella,,,,sp.,,,,Ticinella sp.,planktic_foraminfera
+,,Trilobatus,,,,bisphericus,,,,Trilobatus bisphericus,planktic_foraminfera
+,,Trilobatus ,,,,primordius,,,,Trilobatus primordius,planktic_foraminfera
+,,Trilobatus,,,,sacculifer,,,,Trilobatus sacculifer,planktic_foraminfera
+,,Trilobatus,,,,trilobus,,,,Trilobatus trilobus,planktic_foraminfera
+,,Trilobatus ,,,,trilobus,,,,Trilobatus trilobus,planktic_foraminfera
+,,Truncorotalia,,,,cavernula,,,,Truncorotalia cavernula,planktic_foraminfera
+,,Truncorotalia,,,cf.,crassacarina,,,,Truncorotalia cf. crassacarina,planktic_foraminfera
+,,Truncorotalia,,,,crassacarinina,,,,Truncorotalia crassacarinina,planktic_foraminfera
+,,Truncorotalia,,,,crassacarinina,,,dextral,Truncorotalia crassacarinina (dextral),planktic_foraminfera
+,,Truncorotalia,,,,crassacarinina,,,sinistral,Truncorotalia crassacarinina (sinistral),planktic_foraminfera
+,,Truncorotalia,,,,crassaconica,,,,Truncorotalia crassaconica,planktic_foraminfera
+,,Truncorotalia ,,,,crassaconica,,,dextral,Truncorotalia crassaconica (dextral),planktic_foraminfera
+,,Truncorotalia ,,,,crassaconica,,,sinistral,Truncorotalia crassaconica (sinistral),planktic_foraminfera
+,,Truncorotalia ,,,cf.,crassaconica,,,,Truncorotalia cf. crassaconica,planktic_foraminfera
+,,Truncorotalia ,,,cf.,crassaconica,,,dextral,Truncorotalia cf. crassaconica (dextral),planktic_foraminfera
+,,Truncorotalia,,,cf.,crassaconica,,,sinistral,Truncorotalia cf. crassaconica (sinistral),planktic_foraminfera
+,,Truncorotalia,,,,crassaformis,,,,Truncorotalia crassaformis,planktic_foraminfera
+,,Truncorotalia ,,,,crassaformis,,,dextral,Truncorotalia crassaformis (dextral),planktic_foraminfera
+,,Truncorotalia ,,,,crassaformis,,,sinistral,Truncorotalia crassaformis (sinistral),planktic_foraminfera
+,,Truncorotalia,,,,crassula,,,,Truncorotalia crassula,planktic_foraminfera
+,,Truncorotalia,,,cf.,crassula,,,,Truncorotalia cf. crassula,planktic_foraminfera
+,,Truncorotalia,,,cf.,crassula,,,dextral,Truncorotalia cf. crassula (dextral),planktic_foraminfera
+,,Truncorotalia,,,cf.,crassula,,,sinistral,Truncorotalia cf. crassula (sinistral),planktic_foraminfera
+,,Truncorotalia,,,,juanai,,,,Truncorotalia juanai,planktic_foraminfera
+,,Truncorotalia,,,,tosaensis,,,,Truncorotalia tosaensis,planktic_foraminfera
+,,Truncorotalia,,,,truncatulinoides,,,,Truncorotalia truncatulinoides,planktic_foraminfera
+,,Truncorotalia,,,,truncatulinoides,,,dextral,Truncorotalia truncatulinoides (dextral),planktic_foraminfera
+,,Truncorotalia,,,,truncatulinoides,,,sinistral,Truncorotalia truncatulinoides (sinistral),planktic_foraminfera
+,,Truncorotaloides,,,,rohri,,,,Truncorotaloides rohri,planktic_foraminfera
+,,Turborotalia,,Globorotalia,,continuosa,,,,Turborotalia Globorotalia continuosa,planktic_foraminfera
+,,Turborotalia ,,,,ampliapertura,,,,Turborotalia ampliapertura,planktic_foraminfera
+,,Turborotalia,,,,cerroazulensis,,,,Turborotalia cerroazulensis,planktic_foraminfera
+,,Turborotalia ,,,,frontosa,,,,Turborotalia frontosa,planktic_foraminfera
+,,Turborotalia,,,,increbescens,,,,Turborotalia increbescens,planktic_foraminfera
+,,Turborotalia,,,,pomeroli,,,,Turborotalia pomeroli,planktic_foraminfera
+,,Turborotalia,,,,possagnoensis,,,,Turborotalia possagnoensis,planktic_foraminfera
+,,Turborotalia ,,,,pseudoampliapertura,,,,Turborotalia pseudoampliapertura,planktic_foraminfera
+,,Turborotalia,,,,quinqueloba,,,,Turborotalia quinqueloba,planktic_foraminfera
+,,Turborotalita ,,,,humilis,,,,Turborotalita humilis,planktic_foraminfera
+,,Turborotalita ,,,,iota,,,,Turborotalita iota,planktic_foraminfera
+,,Whiteinella,,,,aprica,,,,Whiteinella aprica,planktic_foraminfera
+,,Whiteinella,,,,archaeocretacea,,,,Whiteinella archaeocretacea,planktic_foraminfera
+,,Whiteinella ,,,,aumalensis,,,,Whiteinella aumalensis,planktic_foraminfera
+,,Whiteinella,,,,baltica,,,,Whiteinella baltica,planktic_foraminfera
+,,Whiteinella,,,,brittonensis,,,,Whiteinella brittonensis,planktic_foraminfera
+,,Whiteinella,,,,paradubia,,,,Whiteinella paradubia,planktic_foraminfera
+,,Whiteinella,,,,sp.,,,,Whiteinella sp.,planktic_foraminfera
+,,Woodringina,,,,hornerstownensis,,,,Woodringina hornerstownensis,planktic_foraminfera
+,,Zeaglobigerina,,,,apertura,,,,Zeaglobigerina apertura,planktic_foraminfera
+,,Zeaglobigerina,,,,brazieri,,,,Zeaglobigerina brazieri,planktic_foraminfera
+,,Zeaglobigerina,,,,connecta,,,,Zeaglobigerina connecta,planktic_foraminfera
+,,Zeaglobigerina,,,,druryi,,,,Zeaglobigerina druryi,planktic_foraminfera
+,,Zeaglobigerina,,,,nepenthes,,,,Zeaglobigerina nepenthes,planktic_foraminfera
+,,Zeaglobigerina,,,,rubescens,,,,Zeaglobigerina rubescens,planktic_foraminfera
+,,Zeaglobigerina,,,,sp.,,,,Zeaglobigerina sp.,planktic_foraminfera
+,,Zeaglobigerina,,,,woodi,,,,Zeaglobigerina woodi,planktic_foraminfera
+,,Zeauvigerina,,,,waiparaensis,,,,Zeauvigerina waiparaensis,planktic_foraminfera

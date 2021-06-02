@@ -3,6 +3,8 @@ import os
 import numpy as np
 import pandas as pd
 
+import normalize_taxa as nt
+
 # HACK: (@)? are meaningless matches so each regex has 8 capture groups
 # (1)-(U1)(A)
 # (Exp)-(Site)(Hole)
@@ -364,13 +366,7 @@ def extract_taxon_group_from_filename(filename):
 
     if filename_parts is not None:
         taxon_group = filename_parts.groups()[0].lower()
-        if taxon_group == "nannofossil":
-            taxon_group = "nannofossils"
-        elif taxon_group == "radiolarians_events":
-            taxon_group = "radiolarians"
-        elif taxon_group == "nannofossils_revised":
-            taxon_group = "nannofossils"
-        return taxon_group
+        return nt.update_taxon_group(taxon_group)
     else:
         raise ValueError("Cannot extract taxon group.")
 

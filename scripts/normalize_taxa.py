@@ -4,18 +4,22 @@ import pandas as pd
 import numpy as np
 
 taxon_groups = [
-    "nannofossils",
-    "silicoflagellates",
-    "ostracods",
-    "ebridians",
-    "chrysophyte_cysts",
+    "benthic_foraminfera",
     "bolboformids",
+    "chrysophyte_cysts",
     "diatoms",
-    "planktic_forams",
-    "radiolarians",
     "dinoflagellates",
+    "dinoflagellates/acritarchs/prasinophytes",
+    "ebridians",
+    "nannofossils",
+    "ostracods",
     "palynology",
-    "benthic_forams",
+    "phytoliths",
+    "planktic_foraminfera",
+    "pollen",
+    "pteropods",
+    "radiolarians",
+    "silicoflagellates",
 ]
 
 date = "2021-05-24"
@@ -39,6 +43,23 @@ metadata_fields = [
     "initial_comments",
     "comments",
 ]
+
+
+def update_taxon_group(taxon_group):
+    """replace invalid taxon groups with valid taxon group"""
+    if isinstance(taxon_group, float):
+        return np.nan
+
+    invalid_groups = {
+        "benthic_forams": "benthic_foraminfera",
+        "planktic_forams": "planktic_foraminfera",
+        "nannofossil": "nannofossils",
+        "radiolarians_events": "radiolarians",
+        "nannofossils_revised": "nannofossils",
+    }
+
+    # replace taxon_group if it is invalid, otherwise use original taxon_group
+    return invalid_groups.get(taxon_group, taxon_group)
 
 
 def add_normalized_name_column(df):
