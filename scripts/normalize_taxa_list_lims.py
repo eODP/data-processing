@@ -8,7 +8,7 @@ import fire
 import normalize_taxa as nt
 
 input_file = f"notebooks/raw_data/taxa/Micropal_headers_PBDB_Taxonomy_notes_taxa_list_{nt.date}.csv"
-metadata_file = "notebooks/cleaned_data/metadata/lims_micropal_changes.csv"
+metadata_file = "notebooks/cleaned_data/metadata/LIMS/Micropal_changes.csv"
 taxa_dir = "notebooks/cleaned_data/taxa"
 
 df = pd.read_csv(metadata_file)
@@ -18,8 +18,10 @@ taxon_groups = df["taxon_group"].unique()
 class TaxaList:
     def generate_taxon_group_taxa_files(self):
         for taxon_group in taxon_groups:
-            crosswalk_file = f"{taxa_dir}/taxa_crosswalk_{taxon_group}_{nt.date}.csv"
-            taxa_list_file = f"{taxa_dir}/taxa_list_{taxon_group}_{nt.date}.csv"
+            crosswalk_file = (
+                f"{taxa_dir}/LIMS/taxa_crosswalk_{taxon_group}_{nt.date}.csv"
+            )
+            taxa_list_file = f"{taxa_dir}/LIMS/taxa_list_{taxon_group}_{nt.date}.csv"
 
             # skip and drop rows with bad data
             df = pd.read_csv(input_file, skiprows=9)
@@ -45,6 +47,26 @@ class TaxaList:
             nt.create_unique_taxa_csv(
                 data=crosswalk_taxa, path=taxa_list_file, columns=fields
             )
+
+    def generate_approved_taxa_list(self, mode="write"):
+        """create taxa list by combining the taxon group taxa lists"""
+        taxa_file = f"{taxa_dir}/approved_eodp_taxa_list.csv"
+
+        # append existing taxa file or create new taxa file
+        if mode == "append":
+            df = pd.read_csv(taxa_file)
+        else:
+            df = pd.DataFrame()
+
+        # combine all taxon group taxa lists
+        for taxon_group in taxon_groups:
+            crosswalk_file = (
+                f"{taxa_dir}/LIMS/taxa_crosswalk_{taxon_group}_{nt.date}.csv"
+            )
+            taxa_df = pd.read_csv(crosswalk_file)
+            df = pd.concat([df, taxa_df])
+
+        df.to_csv(taxa_file, index=False)
 
 
 if __name__ == "__main__":
