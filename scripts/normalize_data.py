@@ -455,3 +455,65 @@ def taxa_needs_review(string):
         return True
     else:
         return False
+
+
+def get_columns_from_disk(metadata, data_directory):
+    columns_all = set()
+    for file in metadata["path"]:
+        fetch_unique_column_names(f"{data_directory}/{file}", columns_all)
+
+    return columns_all
+
+
+def get_columns_from_file_or_disk(columns_file, metadata, data_directory, column_type):
+    # read existing csv
+    if os.path.isfile(columns_file):
+        cols_df = pd.read_csv(columns_file)
+        # get columns for column_type from csv
+        if column_type in cols_df["type"].unique():
+            columns_all = set(cols_df[cols_df["type"] == column_type]["column"])
+        # get columns from disk and append csv
+        else:
+            columns_all = get_columns_from_disk(metadata, data_directory)
+            new_cols_df = pd.DataFrame(
+                {"column": list(columns_all), "type": column_type}
+            )
+            cols_df.append(new_cols_df, ignore_index=True).to_csv(
+                columns_file, index=False
+            )
+    # get columns from disk and create csv
+    else:
+        columns_all = get_columns_from_disk(metadata, data_directory)
+        new_cols_df = pd.DataFrame({"column": list(columns_all), "type": column_type})
+        new_cols_df.to_csv(columns_file, index=False)
+
+    return columns_all
+
+
+def get_common_columns():
+    return {
+        "Sample",
+        "Labl ID",
+        "Label ID",
+        "Exp",
+        "Site",
+        "Hole",
+        "Core",
+        "Core-Sect",
+        "Type",
+        "Section",
+        "A/W",
+        "Extra Sample ID Data",
+        "Bottom Depth [m]",
+        "Bottom Depth[m] [m]",
+        "Bottom depth [m]",
+        "Bottom [cm]",
+        "Bottom offset [cm]",
+        "Bottom[cm] [cm]",
+        "Top Depth [m]",
+        "Top Depth[m] [m]",
+        "Top depth [m]",
+        "Top [cm]",
+        "Top offset [cm]",
+        "Top[cm] [cm]",
+    }
