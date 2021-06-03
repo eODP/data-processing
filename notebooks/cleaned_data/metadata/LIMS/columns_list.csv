@@ -1,0 +1,5189 @@
+column,type
+Subdominant Clasts max. grain size rank [read only],lithology
+Bedding thickness,lithology
+COLOR,lithology
+Color,lithology
+MAJ lithology comment,lithology
+Lithology max. grain size class,lithology
+LITH 2 prefix+name [read only],lithology
+Tephra,lithology
+Lithology comment,lithology
+Bottom contact or boundary attitude,lithology
+Secondary trace fossils,lithology
+Phenocryst 2 comments,lithology
+Vesicle roundness,lithology
+LITHOLOGY,lithology
+General comment,lithology
+MAJ Lith. max. grain size rank [read only],lithology
+Clast comment,lithology
+PREFIX,lithology
+LITH 1 lithification,lithology
+2ND lithic roundness,lithology
+LITHOLOGY NAME,lithology
+Sample domain name (if >1 domain),lithology
+Diatoms abundance,lithology
+Lithology,lithology
+Vitric clasts (>2 mm) 3RD ORDER,lithology
+MAJ Lith. Prefix,lithology
+Groundmass modal percentage [%],lithology
+GRAVEL SIZE CLASTROUNDNESS,lithology
+Lithology name+suffix [read only],lithology
+LITH 1 Clast 1 igneous -  roundness,lithology
+3RD volcanic clast roundness,lithology
+Lithology 2 suffix,lithology
+2ND vitric roundness,lithology
+lithology_classification,lithology
+Grading,lithology
+Microfossil abundance,lithology
+Skeletal components MAJOR,lithology
+COMPLETE NAME,lithology
+Rock fragment - plutonic lithic,lithology
+Groundmass crystal size [mm],lithology
+Site,lithology
+Crystals (>2 mm) 2ND ORDER,lithology
+"Layer, boundary, lamination, grading",lithology
+Lithology name,lithology
+Lithic clasts (>2 mm) 3RD ORDER,lithology
+Matrix 4 igneous - vesicular [%],lithology
+Lithology prefix,lithology
+Contact or boundary type,lithology
+Apparent dip azimuth 1 [deg],lithology
+DOMINANT crystal roundness,lithology
+LITH 1 Bioturbation intensity rank [read only],lithology
+LITH 1 Matrix alteration rank,lithology
+Suffix,lithology
+Matrix 3 igneous - massive [%],lithology
+Lithology suffix,lithology
+Clast lithology comment,lithology
+Subdominant Clasts max. grain size class,lithology
+Hornblende abundance,lithology
+Crystals (>2 mm) DOMINANT,lithology
+Dip azimuth measured in CRF [deg],lithology
+Minor components,lithology
+Skeletal components MINOR,lithology
+Sediment structures,lithology
+Biogenic material,lithology
+Clastic grain: roundness,lithology
+Major prefix modifier before principal,lithology
+Bottom contact geometry,lithology
+Lithological accessories comment,lithology
+Bedding thickness of MAJOR lithology,lithology
+Chalcedony abundance,lithology
+Bottom contact or boundary geometry+definition [read only],lithology
+Macrofossil abundance name,lithology
+Primary trace fossils,lithology
+Major modifier before principal,lithology
+Groundmass comments,lithology
+DOMINANT Clasts ave. grain size rank [read only],lithology
+LITH 1 Clast abundance,lithology
+Top [cm],lithology
+Biogenic carbonate,lithology
+Contact geometry,lithology
+Fresh glass,lithology
+Sample domain number (if >1 domain),lithology
+Hole,lithology
+LITH 1 Ash abundance rank (read only),lithology
+Lithology (5),lithology
+Principal  lithology,lithology
+General interval comment,lithology
+Lithology 1 prefix,lithology
+Clast roundness,lithology
+A/W,lithology
+Grain size rank [read only],lithology
+LITH 1 color,lithology
+Grain size max. [mm],lithology
+GROUNDMASS COLOUR,lithology
+Lithology prefix+name+suffix [read only],lithology
+MAJ Lith. ave. grain size rank [read only],lithology
+Vesicle size MODE [mm],lithology
+2ND crystal roundness,lithology
+Dominant grain size rank,lithology
+LITH 1 Clast 2 sediment - grain size,lithology
+Total matrix calculated LITH 1 [%],lithology
+Glass abundance,lithology
+Apparent dip angle 1 [deg],lithology
+LITH 1 Clast 3 metamorphic - grain size,lithology
+MAJ Lith. prefix + name,lithology
+Clast 4 igneous - vesicular grain size,lithology
+Vitric clasts (>2 mm) 2ND ORDER,lithology
+3RD lithic roundness,lithology
+LITHOLOGY COMMENTS,lithology
+Lithology 1 principal name,lithology
+Type,lithology
+MIN Lith. abundance [%],lithology
+"Calcite, allogenic  abundance",lithology
+Clasts (>2 mm) 3ND ORDER,lithology
+Clast sorting,lithology
+Clast color,lithology
+LITH 1 Matrix sorting,lithology
+DOMINANT Clasts max. grain size rank [read only],lithology
+DOMINANT lithic roundness,lithology
+2nd sedimentary structure,lithology
+Texture comment,lithology
+Clast roundness rank,lithology
+Bioturbation type,lithology
+Lithology principal name,lithology
+MAJ Lith. Principal name abundance Plot [%],lithology
+Clast size,lithology
+MIN lith color (simple),lithology
+Other mineral,lithology
+Color (name),lithology
+LITH 2 grain sorting,lithology
+Skeletal components INTERMEDIATE comment,lithology
+Phenocryst 1 comments,lithology
+Vesicle sphericity,lithology
+MAJ Principal lithology B,lithology
+MAJ Lith. principal name,lithology
+Lithologic unit (preliminary),lithology
+Calcareous nannofossils abundance,lithology
+Halite abundance,lithology
+Major  prefix modifier before principal,lithology
+Matrix alteration intensity,lithology
+Core,lithology
+Clast 2 sediment - grain size,lithology
+Vesicle abundance,lithology
+Phenocryst 2 size MODE [mm],lithology
+PHENOCRYST COMPOSITION,lithology
+LITH 1 max. grain size rank [read only],lithology
+Lithology 2 principal name,lithology
+Complete lithology name,lithology
+MAJ Lithology ABC,lithology
+Clast 2 sediment grain size,lithology
+MIN Lith. prefix+name+suffix,lithology
+Texture Rank,lithology
+Total phenocryst abundance [%],lithology
+Lithological Accessories 1,lithology
+Lithology ave. grain size rank [read only],lithology
+LITH 1 Matrix 6 sediment [%],lithology
+Phenocryst 2 shape,lithology
+Lithology 2 prefix,lithology
+Drilling disturbance type,lithology
+Clast 3 metamorphic - grain size,lithology
+Phenocryst 1 size MAX [mm],lithology
+LITH 2 max. grain size class,lithology
+MAJ Lith. prefix,lithology
+LITH 2 ave. grain size rank [read only],lithology
+MAJ Lithology color,lithology
+lithology classification,lithology
+Apparent dip azimuth 2 [deg],lithology
+Lithology color (simple),lithology
+Exp,lithology
+MAJ Lith. max. grain size rank,lithology
+Comment,lithology
+Subdominant Clasts % [%],lithology
+MAJ Lith. Principal name,lithology
+Clast/matrix texture,lithology
+MAJ Lith. color,lithology
+"Dominant grain size (Wentworth, 1922)",lithology
+Bottom contact definition,lithology
+LITH 1 abundance [%],lithology
+Top Depth[m] [m],lithology
+Altered glass (palagonite) abundance [%],lithology
+Dip angle calculated in CRF [deg],lithology
+Bottom contact or boundary geometry,lithology
+MIN Lith. color,lithology
+Clast 7 -other lithology [%],lithology
+Clast percentage [%],lithology
+Volcaniclastic grain minerals,lithology
+Top[cm] [cm],lithology
+LITH 1 ave. grain size rank [read only],lithology
+Lithology Prefix,lithology
+MAJ Lith. name+suffix,lithology
+Opaques abundance,lithology
+Lithology prefix + name,lithology
+Matrix biogenic carbonate [%],lithology
+LITH 1 Bioturbation intensity,lithology
+Primary sedimentary structure,lithology
+Lithology  abundance [%],lithology
+Lithology [%],lithology
+Clast 2 sediment - roundness,lithology
+Lithology Suffix,lithology
+MIN Lith. principal name,lithology
+Total clasts calculated LITH 1 [%],lithology
+MAJ Lith. prefix abundance plot [%],lithology
+MAJ Lith. prefix+name+suffix [read only],lithology
+LITH 1 prefix+name [read only],lithology
+Diagenetic constituent composition,lithology
+LITH 1 Layer or bedding thickness,lithology
+MIN Lith. suffix,lithology
+Lithologic accessories,lithology
+Clastic grain roundness,lithology
+Vesicle comments,lithology
+3rd sedimentary structure,lithology
+Matrix 6 sediment [%],lithology
+Feldspar abundance,lithology
+Lithology avg. grain size rank,lithology
+"Silicoflagellate, ebridian, actiniscidian abundance",lithology
+DOMINANT volcanic clast roundness,lithology
+Clasts (>2 mm) DOMINANT,lithology
+Lithic clasts (>2 mm) 2ND ORDER,lithology
+Complete name,lithology
+Clast 1 igneous - pumiceous [%],lithology
+LITH 2 Macrofossil,lithology
+Drilling disturbance intensity rank,lithology
+Minor suffix modifier after principal,lithology
+Rock fragment - volcanic lithic,lithology
+Sedimentary structure,lithology
+Clast morphology (shape),lithology
+LITH 1 Deformational structure attitude,lithology
+Interbed lithology,lithology
+Clast lith. abund. sum [%],lithology
+Accessory mineral 2 (<1 Vol. %),lithology
+VESICLE SHAPE,lithology
+Texture Rank [read only],lithology
+LITH 1 Clast 1 igneous -  grain size,lithology
+Clasts [%],lithology
+LITH 1 Macrofossil abundance name,lithology
+LITH 1 Macrofossil,lithology
+Structure comment,lithology
+Subdominant Clasts ave. grain size rank [read only],lithology
+Matrix sorting,lithology
+REFERENCE,lithology
+Core-Sect,lithology
+Volcaniclastic grain size name,lithology
+MIN Lith. Principal name,lithology
+Volcanic clasts (>2 mm) DOMINANT,lithology
+Bottom Depth [m],lithology
+VOLCANICLASTIC GRAINS,lithology
+LITH 1 Diagenetic constituent,lithology
+Degree of alteration,lithology
+Lithology color,lithology
+Non-skeletal components,lithology
+MAJ Lith. max. grain size,lithology
+"Dominantgrain size(Wentworth, 1922)",lithology
+Accessory mineral (comments),lithology
+Lithology (%),lithology
+3RD vitric roundness,lithology
+Clasts (>2 mm) 2ND ORDER,lithology
+Igneous texture 2,lithology
+MIN Lith. max. grain size rank,lithology
+VESICLE ABUNDANCE,lithology
+Bottom[cm] [cm],lithology
+Bottom Depth[m] [m],lithology
+Subdominant clast roundness,lithology
+Total LITH abundance [%],lithology
+Matrix 2 igneous - scoriaceous [%],lithology
+Sample,lithology
+Matrix 5 volcaniclastic [%],lithology
+Clast abundance,lithology
+Top depth [m],lithology
+Drilling disturbance intensity,lithology
+COMMENTS,lithology
+Matrix abundance [%],lithology
+DOMINANT Clasts ave. grain size class,lithology
+LITH 1 ave. grain size class,lithology
+2ND volcanic clast roundness,lithology
+LITH 1 Matrix comments,lithology
+LITH 2 Ash abundance name,lithology
+Layer or bedding thickness,lithology
+MIN Lith. ave. grain size rank,lithology
+MAJ Lith. abundance [%],lithology
+LITH 1 Clast 3 metamorphic - roundness,lithology
+DOMINANT Clasts max. grain size class,lithology
+Extra Sample ID Data,lithology
+Drilling disturbance intensity rank (read only),lithology
+Clay minerals abundance,lithology
+LITH 1 Clast 3 -other LITH [%],lithology
+LITH 2 max. grain size rank [read only],lithology
+Skeletal components INTERMEDIATE,lithology
+Clastic Grain roundness,lithology
+Phenocryst 2 abundance [%],lithology
+GRAVEL SIZE CLASTSHAPE,lithology
+Lithology SUFFIX,lithology
+Glauconite abundance,lithology
+Amount of ash in lithology rank [read only],lithology
+Biotite abundance,lithology
+Layer/Beddding,lithology
+"FACIES (neritic, hemipelagic, pelagic)",lithology
+Matrix detritical carbonate [%],lithology
+Matrix comments,lithology
+Bottom [cm],lithology
+LITH 1 Sedimentary structure,lithology
+Clasts abundance,lithology
+Principal Lithology,lithology
+Grain size distribution,lithology
+Clast 3 igneous - massive grain size,lithology
+Pyroxene abundance,lithology
+Upper boundary ave. grain size class,lithology
+LITH 1 prefix+name+suffix [read only],lithology
+Clast 3 -other lithology grain size,lithology
+MAJ Lith. Suffix,lithology
+Clastic grainRoundness,lithology
+Clast 5 volcaniclastic grain size,lithology
+Minor trace fossils,lithology
+Label ID,lithology
+LITHOLOGY [%],lithology
+MAJ Lith. principal name abundance plot [%],lithology
+Apparent dip angle 2 [deg],lithology
+MAJ Lith. ave. grain size,lithology
+Clast lithology,lithology
+GRAVEL SIZE CLAST,lithology
+Bottom contact or boundary type,lithology
+Bottom depth [m],lithology
+Detrital carbonate,lithology
+Dip azimuth calculated in CRF [deg],lithology
+Clast 3 igneous - massive [%],lithology
+MAJ Lith. Prefix abundance Plot [%],lithology
+Phenocryst 1 shape,lithology
+COMMENT,lithology
+INTERPRETATION - Turbiditic or Hemipelagic,lithology
+LITH 1 Clast 1 igneous [%],lithology
+Clast 6 sediment grain size,lithology
+MAJ Lithology prefix A,lithology
+Top Depth [m],lithology
+Clast 1 igneous - pumiceous grain size,lithology
+MIN Lith. prefix,lithology
+Lithology prefix+name [read only],lithology
+LITH 2 lithification,lithology
+Glass preservation comment,lithology
+LITH 2 Ash abundance rank (read only),lithology
+Principal lithology,lithology
+Volcanic clasts (>2 mm) 2ND ORDER,lithology
+Phenocryst 1 (most abundant),lithology
+Sorting,lithology
+LITH 1 grain sorting,lithology
+Matrix 7 -other lithology [%],lithology
+TEPHRA type,lithology
+Lith. abundance sum [%],lithology
+DOMINANT Clasts % [%],lithology
+Lithological unit number,lithology
+Rock fragment - sedimentary lithic,lithology
+Principal lithology name,lithology
+Lithology 1 suffix,lithology
+Matrix 1 igneous - pumiceous [%],lithology
+Clast 3 metamorphic - roundness,lithology
+Phenocryst 2 size MAX [mm],lithology
+Lithology avg. grain size,lithology
+MAJ Lith. prefix+name+suffix,lithology
+Bottom offset [cm],lithology
+Clast 5 volcaniclastic [%],lithology
+Lithological asseccories,lithology
+Accessory mineral 1 (<1 Vol. %),lithology
+Deformational structure dip [deg],lithology
+MIN Lith. ave. grain size,lithology
+Foraminifera abundance,lithology
+Sedimentary structure comment,lithology
+Bioturbation intensity rank,lithology
+Matrix comment,lithology
+LITH 1 comment,lithology
+Groundmass modal percent [%],lithology
+LITH 2 ave. grain size class,lithology
+Groundmass modal grain size [mm],lithology
+Clasts (>2 mm) Subdominant,lithology
+MIN lithology comment,lithology
+Bioturbation intensity,lithology
+Clast comments,lithology
+GROUNDMASS GRAIN SIZE (mm),lithology
+Number of clasts (>2mm),lithology
+dupes and comments,lithology
+GRAVEL SIZE CLASTLITHOLOGY,lithology
+Vesicle filling,lithology
+Other sedimentary feature,lithology
+Lithology name+suffix,lithology
+Diagenetic structure,lithology
+Clast 1 igneous -  roundness,lithology
+Matrix abund. sum [%],lithology
+MIN Lith. name+suffix,lithology
+PRINCIPAL Lithology,lithology
+MIN Lith. max. grain size,lithology
+structure,lithology
+Clast 1 igneous -  grain size,lithology
+Amount of ash in lithology,lithology
+PRINCIPALLITHOLOGY,lithology
+Igneous texture 1,lithology
+Clast -  grain size,lithology
+Clast 2 igneous - scoriaceous grain size,lithology
+Domain relative abundance [%],lithology
+"Dominant grain size(Wentworth, 1922)",lithology
+Skeletal components MAJOR comment,lithology
+Lamination,lithology
+Vesicle size MAX [mm],lithology
+Lithic clasts (>2 mm) DOMINANT,lithology
+PHENOCRYST GRAIN SIZE (mm),lithology
+Clast 7 -other lithology grain size,lithology
+Lowerr boundary ave. grain size class,lithology
+Phenocryst 1 size MODE [mm],lithology
+DOMINANT vitric roundness,lithology
+Bottom contact attitude,lithology
+Phenocryst 2 (2nd most abundant),lithology
+LITH 1 Deformational structure,lithology
+"Matrix, fines (<2 mm) DOMINANT",lithology
+Radiolarians abundance,lithology
+Lith. comment,lithology
+MAJ Lith. prefix+name [read only],lithology
+Bottom contact or boundary definition,lithology
+Volcanic clasts (>2 mm) 3RD ORDER,lithology
+MAJ lith color (simple),lithology
+Skeletal components MINOR comment,lithology
+Lithology lithification,lithology
+Fossil,lithology
+Clast 2 igneous - scoriaceous [%],lithology
+Clast 4 igneous - vesicular [%],lithology
+Color(name),lithology
+Phenocryst 1 abundance [%],lithology
+"Matrix, fines (<2 mm) 2ND ORDER",lithology
+Matrix carbonate [%],lithology
+Siliciclastic,lithology
+Diagenetic constituent,lithology
+MIN Lith. prefix + name,lithology
+Lithology classification,lithology
+LITH 1 max. grain size class,lithology
+Macrofossil,lithology
+Subdominant Clasts ave. grain size class,lithology
+LITH 1 Diagenetic structure,lithology
+Lithification,lithology
+MIN Lith. Suffix,lithology
+Lithology ave. grain size class,lithology
+MIN Lith. Prefix,lithology
+Dip angle measured in CRF [deg],lithology
+Lithology color (Munsell),lithology
+Sed. structures,lithology
+LITHIFICATION,lithology
+Section,lithology
+Matrix modifier,lithology
+LITH 1 Matrix alteration intensity,lithology
+LITH 2 prefix+name+suffix [read only],lithology
+MAJ Lith. ave. grain size rank,lithology
+Top offset [cm],lithology
+Sponge spicule fragments abundance,lithology
+Prefix,lithology
+MAJ Lith. suffix,lithology
+LITH 1 Diagenetic constituent composition,lithology
+Deformational structure comment,lithology
+Lithification [name],lithology
+Matrix alteration rank,lithology
+Lithology max. grain size rank [read only],lithology
+Thickness of interbeds,lithology
+Diagenetic structure comment,lithology
+LITH 2 abundance [%],lithology
+LITH 2 color,lithology
+LITH 1 Ash abundance name,lithology
+DOMINANT clast roundness,lithology
+LITH 1 Clast 2 sediment [%],lithology
+Deformational structures,lithology
+Clasts,lithology
+LITH 1 Clast 2 sediment - roundness,lithology
+Vitric clasts (>2 mm) DOMINANT,lithology
+Crystals (>2 mm) 3RD ORDER,lithology
+Quartz abundance,lithology
+Lithological Accessories 2,lithology
+Color code,lithology
+Non-skeletal components comment,lithology
+Lithology comments,lithology
+Lith. prefix+name+suffix,lithology
+Lithification rank [read only],lithology
+LITH 1 Clast 1 igneous -  lithology,lithology
+"Matrix, fines (<2 mm) 3ND ORDER",lithology
+Bioturbation intensity rank [read only],lithology
+Clast 6 sediment [%],lithology
+LITH 1 Number of clasts (>2mm),lithology
+Lithology Principal name,lithology
+Classification,lithology
+,taxa
+Thalassiosira 'palmeri',taxa
+Globocassidulina oblonga,taxa
+Stephanopyxis spp.,taxa
+Globoconusa daubjergensis,taxa
+Quinqueloculina spp.,taxa
+Dinocysts,taxa
+Azpeitia nodulifera (Schmidt),taxa
+Siphogerenina pacifica,taxa
+Discoaster nodifer,taxa
+Thalassiosira nordenskioeldii,taxa
+Toweius rotundus,taxa
+Discoaster kuepperi,taxa
+"Fohsella ""praefohsi"" _B_ _M8",taxa
+Zeauvigerina waiparaensis,taxa
+Larcopyle nebulum,taxa
+Fohsella lobata _B_,taxa
+Prinsius dimorphosus,taxa
+Globorotalia juanai _B_,taxa
+Dorcadospyris ombros n. sp.,taxa
+Elphidium spp.,taxa
+"Parasubbotina griffinae (Blow, 1979)",taxa
+Eggerella bradyi,taxa
+Rotalinoides compressiusculus,taxa
+Paragloborotalia sp.,taxa
+Igorina tadjikistanensis,taxa
+Bramletteius serraculoides,taxa
+Fursenkoina schreibersiana,taxa
+Pseudouvigerina sp.,taxa
+Triloculina insignis,taxa
+Cibicidoides renzi,taxa
+"Turborotalia increbescens (Bandy, 1949)",taxa
+Globoturborotalita woodi connecta,taxa
+Subbotina utilisindex,taxa
+Melonis pacificus,taxa
+Spirosigmoilinella compressa,taxa
+Wetzeliella gochtii/symmetrica,taxa
+Neogloboquadrina incompta (dextral),taxa
+Anthocyrtoma spp.,taxa
+Ellipsodimorphina spp.,taxa
+Phomostichoartus corbula,taxa
+Fragilariopsis sublinearis,taxa
+Cassidulina laevigata,taxa
+Discoaster broweri,taxa
+Octolithus multiplus,taxa
+Neogloboquadrina dutertrei,taxa
+Challengeria spp.,taxa
+Globorotalia (Fohsella) peripheroronda,taxa
+Planulina sp. (loosely coiled),taxa
+Tribrachiatus digitalis,taxa
+Loxostomina major,taxa
+Fragiariopsis evenescens,taxa
+Neocrepidolithus dirimosus,taxa
+Lithocyclia aristotelis gr.,taxa
+Pontosphaera indooceanica,taxa
+Discoaster gr. variabilis,taxa
+Ceratolithus rugosus,taxa
+Paralia sulcata,taxa
+Fursenkoina bradyi,taxa
+Coronocyclas nitescens,taxa
+Globorotalia scitula (dex),taxa
+Rhizosolenia hebetata,taxa
+Saracenaria latiforns,taxa
+Cryptococcolithus mediaperforate,taxa
+Spiniferites elongatus,taxa
+Bolivina pacifica,taxa
+Martinottiella  sp.,taxa
+Thalassiosira inura,taxa
+Discoaster quadramus,taxa
+Denticulopsis spp.,taxa
+Haynesina depressula,taxa
+Repagalum parvidentatum,taxa
+Bulimina alazanensis,taxa
+Blackites gladius,taxa
+Amphisorus hemprichii,taxa
+Pyrgo denticulata,taxa
+Thalassiosira manifesta,taxa
+Bulimina mexicana,taxa
+Cornuspira spp.,taxa
+Uvigerina akitaensis,taxa
+Sphenolithus belemnos,taxa
+Gavelinopsis? Sp.,taxa
+Lenticulina gibba,taxa
+Plectacantha oikiskos,taxa
+Placozygus spp.,taxa
+Amaurolithus primus,taxa
+Upper boundary age min [Ma],taxa
+Cibicides/Cibicidoides spp.,taxa
+Alabamminella weddellensis,taxa
+Globoconella sphericomiozea,taxa
+Pulleniatina finalis,taxa
+Pseudodictyophimus gracilipes,taxa
+Podocyrtis apeza,taxa
+Stilostomella abyssorum,taxa
+Uvigerina rippensis,taxa
+Lamprocyrtis nigrinae,taxa
+Prediscosphaera majungae,taxa
+Dictyococcites spp.,taxa
+Vulvulina bueningi,taxa
+Thalassiosira leptopus,taxa
+Annectina sp.,taxa
+Sacculinella sp.,taxa
+Valvulineria spp.,taxa
+Paragloborotalia semivera (S),taxa
+Blackites spp.,taxa
+Cylindralithus serratus,taxa
+Gavelinella complanata (cf.),taxa
+Gephyrocapsa caribbeanica (large),taxa
+Dorothia sp.,taxa
+Dictyophimus bullatus,taxa
+Fragilariopsis barronii/kerguelensis transtitional form,taxa
+Zealithapium anoectum,taxa
+Skeletonemopsis and Skeletonema grp,taxa
+Neoeponides procerus,taxa
+Corbisema triacantha,taxa
+Hexacontium pachydermum,taxa
+Lithraphidites carniolensis,taxa
+Lampromitra sp.,taxa
+Paracassidulina spp.,taxa
+Podocyrtis spp.,taxa
+Globoconella miotumida (DEX),taxa
+Ceratolithina copis,taxa
+Hyalina balthica,taxa
+Rectuvigerina multicostata,taxa
+Percentage of non-calcareous agglutinated forams in total foram assemblage [%],taxa
+Botryostrobus aquilonaris,taxa
+Helicosphaera euphratis,taxa
+Eucampia antactica var. twista,taxa
+Globorotalia (Globoconella) miozea,taxa
+Siphonodosaria insecta,taxa
+Planularia,taxa
+Rhizosolenia harwoodii,taxa
+Nuttalides florialis,taxa
+Neogloboquadrina humerosa,taxa
+Lychnocanoma sakaii,taxa
+Fragilariopsis claviceps,taxa
+Dictyoprora amphora,taxa
+Trilete ornamented,taxa
+Gartnerago obliquum,taxa
+Acrobotris tritubus,taxa
+Kisseleviella gaster,taxa
+Fragilariopsis praeinterfrigidaria,taxa
+Cocconeis fluminensis,taxa
+Collonosphaera murrayana,taxa
+Fragilariopsis separanda,taxa
+Thalassiosira sp. F 'glass w. bubbles',taxa
+Calcidiscus pacificanus,taxa
+Conorboides,taxa
+"""Globigerina"" ciperoensis _T",taxa
+Cavitatus jouseanus,taxa
+Sphenolithus furcatolithoides,taxa
+Globorotalia margaritae _T and B_ _PL3,taxa
+Siphocampe corbula (=Lithocampe corbula),taxa
+Microhedbergella renilaevis,taxa
+Morozovella lensiformis,taxa
+PF Zone,taxa
+Globoconella inflata,taxa
+Hastigerinoides subdigitata,taxa
+Rectoglandulina sp.,taxa
+Actinoptychus undulatus,taxa
+Helicosphaera burkei,taxa
+Valvulineria teuriensis,taxa
+Odontella aurita,taxa
+Biscutum dissimilis,taxa
+Bottom depth [m],taxa
+Rotelapillus,taxa
+Zone name (short),taxa
+Dorothia bradyana,taxa
+Peripyramis woodringi,taxa
+Spirillina sp.,taxa
+Brizalina cf. dilatata,taxa
+Rossiella paleacea,taxa
+Ilselithina fusa,taxa
+Actinocyclus ingens var. ovalis,taxa
+Textularia sp. 1,taxa
+Zeugrhabdotus embergeri,taxa
+Globigerina woodi,taxa
+Fissurina spp.,taxa
+Mesocena diadon diadon,taxa
+Dorcadospyris papilio,taxa
+Nonionella sp.,taxa
+Stylochlamidium  venustum,taxa
+Stainforthia sp.,taxa
+Stilostomella fistuca,taxa
+Carpocanistrum sp.,taxa
+Nonionoides spp.,taxa
+Cavitatus linearis,taxa
+Acrosphaera australis,taxa
+Globorotalia archeomenardii _T and B_,taxa
+Sphaeroidinella disjuncta,taxa
+Neogloboquadrina pachyderma (dex),taxa
+Clavatorella bermudezi,taxa
+Sigmoilina obesa,taxa
+Discoaster petaliformis,taxa
+Cassidulina minuta,taxa
+Hoeglundina elegans,taxa
+Quercus deciduous type,taxa
+Globorotalia plesiotumida _T_,taxa
+Asterigerinata sp.,taxa
+Proboscia sp.,taxa
+Globorotalia tosaensis,taxa
+Fragilariopsis pusilla,taxa
+Spores,taxa
+Morozovella formosa,taxa
+Antarctissa cylindrica,taxa
+Pistacia,taxa
+Psammosiphonella sp.,taxa
+Rouxia leventerae,taxa
+Lamprocyclas maritalis maritalis,taxa
+Pleurostomellids comment,taxa
+Clausicoccus vanheckiae,taxa
+Planulina exorna,taxa
+Liriospyris reticulata,taxa
+Globorotalia (Globoconella) conoidea,taxa
+Cibicidoides pseudoungerianus,taxa
+Fursenkoina texturata,taxa
+Archaeoglobigerina sp.,taxa
+Axopodorhabdus biramiculatus,taxa
+Sigmoidella spp.,taxa
+Globigerinoides primordius,taxa
+Anthocytidium sp.,taxa
+Globgerinatella insueta _B and T_,taxa
+Lanternithus minutus,taxa
+Subbotina patagonica,taxa
+Siphotextularia sp.,taxa
+Sphaeroidinellopsis disjuncta,taxa
+Gyroidinoides soldanii,taxa
+Zeaglobigerina woodi,taxa
+Amaurolithus tricorniculatus,taxa
+Reticulofenestra sp. (>7 microns),taxa
+Chiloguembelina sp.,taxa
+Operculinella venosa,taxa
+Botryostrobus auritus,taxa
+Cibicidoides sp. cf. laurisae,taxa
+Lithelius sp.,taxa
+Thalassiosira sp.9,taxa
+Epistominella pulchella,taxa
+Thalssiosira nodulolineata,taxa
+Thalassiosira jouseae,taxa
+Chiphragmolithus calathus,taxa
+Rhabdammina linearis,taxa
+Cocconeis scutellum,taxa
+Diatoms group abundance,taxa
+Skeletonemopsis and Skeletonema grp.,taxa
+Dictyocha pulchella,taxa
+Elphidium aculeatum,taxa
+Nuttallides florialis,taxa
+Cretarhabdus crenulatus,taxa
+Charltonina sp.,taxa
+Buccinosphaera invaginata,taxa
+Gyroidinoides (or: Hansenisca) altiformis,taxa
+Globigerinita uvula,taxa
+Alabamina creta,taxa
+Glomospira irregularis,taxa
+Globigerinatheka semiinvoluta,taxa
+Globigerinoides extremus,taxa
+Quinqueloculina patagonica,taxa
+Tenuitellinata praestainforthi,taxa
+Ceratocyrtis cucullaris,taxa
+Cymatosira biharensis,taxa
+Globoturborotalita brazieri,taxa
+Nitzschia miocenica,taxa
+Menardella limbata,taxa
+Chrysalogonium sp.,taxa
+Ortomorphina spp.,taxa
+Nodogenerina spp.,taxa
+Batiacasphaera cooperi,taxa
+Dorothia oxycona,taxa
+Rossiella elongata,taxa
+Fragilariopsis obliquecostata,taxa
+Thalassiosira sp. D 'paired row central processes',taxa
+Lithomelissa setosa,taxa
+Discanomalina sp.,taxa
+Marginotruncana spp.,taxa
+Abathomphalus mayaroensis,taxa
+Reticulofenestra haqii,taxa
+Zeugrhabdotus sisyphus,taxa
+Euuvigerina pliozea,taxa
+Discoaster barbadiensis,taxa
+Spongurus bilobatus,taxa
+Flagilariopsis cylindrus,taxa
+Planorbulina mediterranensis,taxa
+Protelphidium sp.,taxa
+Uvigerina juncea,taxa
+Globigerinoides trilobus,taxa
+Helicosphaera princei,taxa
+Helicosphaera euphratis (< 8 microns),taxa
+Cornuspira carinata,taxa
+Cassigerinella chipolensis,taxa
+Neogloboquadrina pseudopima,taxa
+Contusotruncana walfischensis,taxa
+Tappanina sp.,taxa
+Azpeitia africana,taxa
+Stilostomella holoserica,taxa
+Dictyophimus crisiae,taxa
+Oridorsalis tenera,taxa
+Quadrum intermedium,taxa
+Umbilicosphaera jordanii,taxa
+Islandiella sp.,taxa
+Globanomalina australiformis,taxa
+Haliommetta miocenica,taxa
+Sigalia deflaensis,taxa
+Helicopontosphaera hyalina,taxa
+Rhizosolenia alata,taxa
+Guembelitria cretacea,taxa
+Cocconeis disculus,taxa
+Thalassionema nitzschioides var. inflata,taxa
+Haplophragmoides sp.,taxa
+Schenkiella weymouthi,taxa
+Pteropod group abundance,taxa
+Pseudopodosira sp.,taxa
+Globobulimina sp.,taxa
+Toweius magnicrassus,taxa
+Fragilaria leptostauron,taxa
+Planoheterohelix sp.,taxa
+Siphonosphaera martensi,taxa
+Thalassiosira oliverana var. sparsa,taxa
+Lophocyrtis exitelus,taxa
+Brown phytoclasts,taxa
+Pyrgo murrhina,taxa
+Bolivina decussata,taxa
+Denticulopsis aff. Seminae = Neodenticula seminae,taxa
+Globigerinatheka mexicana,taxa
+Articulina alticostata,taxa
+Scallopostoma ovicula,taxa
+Uniplanarius trifidus,taxa
+Top Depth[m] [m],taxa
+Cibicidoides mckannai,taxa
+Gladiolithus flabellatus,taxa
+Hirsutella cibaoensis,taxa
+Sphenolithus strigosus,taxa
+Echigoina hataii,taxa
+Euuvigerina rodleyi (group) >50 m,taxa
+Gavelinella spp.,taxa
+Lepidocyclina sp.,taxa
+Cibicides robertsoninaus >1000 m,taxa
+Globorotalia crassula,taxa
+Thalassionema nitzschioides var. nitzschioides,taxa
+Globorotalia pertenuis _T_,taxa
+Nitzschia malinterpretaria,taxa
+Martinotiella sp.,taxa
+Araniscus spp.,taxa
+Ehrenbergina spp.,taxa
+Acanthodesmia spp.,taxa
+Plectofrondicularia lirata,taxa
+Anthocyrtis ehrenbergi var. pliocenica,taxa
+Quinqueloculina seminulum,taxa
+Globorotalia truncatulinoides _B,taxa
+Fragilariopsis cylindrus,taxa
+Calocycletta anekathen n. sp.,taxa
+Nonion germanicus,taxa
+Globoquadrina baroemoenensis,taxa
+Astrononion echolsi,taxa
+Procerolagena spp.,taxa
+Acarinina strabocella,taxa
+Hexacontium enthacanthus,taxa
+Group abundance (%),taxa
+Discorbina sp.,taxa
+Grigelis spp.,taxa
+Vulvulina pennatula >800 m,taxa
+Rotalipora cushmani,taxa
+BF preservation,taxa
+Dorcadospyris anastasis n. sp.,taxa
+Hedbergella implicata,taxa
+"Acarinina pseudosubsphaerica Pearson and Berggren, 2006",taxa
+Subbotina triangularis,taxa
+Pleurostomella spp.,taxa
+Impagidinium spp. indet.,taxa
+Chiasmolithus grandis,taxa
+Hexacontium parviakitaensis,taxa
+Globoquadrina sellii,taxa
+Lamprocyclas hadros,taxa
+Dictyococcites perplexus,taxa
+Paragloborotalia nana,taxa
+Siphonodosaria sp.,taxa
+Lobatula Lobatula,taxa
+Tholospyris scaphipes,taxa
+Tranolithus orionatus,taxa
+Ammodochium rectangulare,taxa
+Fursenkoina acuta,taxa
+Dorcadospyris pseudopapilio,taxa
+Coronocyclus spp.,taxa
+Heterohelix sp.,taxa
+Anthocyrtidum ophirense,taxa
+Lagena nebulosa,taxa
+Bulimina forticosta,taxa
+Loxostomum limonense,taxa
+Cibicides lobatulus,taxa
+Nonionella globosa,taxa
+Marginotruncana angusticarenata,taxa
+Pavonina flabelliformis,taxa
+Discoaster quintatus,taxa
+Nuttallides truempyi sensu Hancock et al. 2006,taxa
+Globorotalia crassaformis s.l. (sin),taxa
+Valvulineria sadonica,taxa
+Chiasmolithus danicus,taxa
+Umbilicosphaera sigbogae,taxa
+Coccolithus formosus,taxa
+Sphaeroidinellopsis seminulina _T_ _PL4,taxa
+Calocycloma ampulla,taxa
+Cryptococcolithus mediaperforatus,taxa
+Morozovelloides bandyi,taxa
+Actinomma antarcticum,taxa
+Gyroidinoides allani,taxa
+Siphonodosasria lepidula f. huagaensis,taxa
+Whiteinella sp.,taxa
+Globoconella pliozea,taxa
+Discoaster sp. cf. D. variabilis,taxa
+Ammonia spp.,taxa
+Amphirhopalum ypsilon,taxa
+Rectuvigerina royoi,taxa
+Reussella szajnochae,taxa
+Sphaeroidinellopsis kochi _T,taxa
+Pyramidulina sp.,taxa
+Zone group,taxa
+Discoaster challengerii,taxa
+Praeorbulina circularis _B,taxa
+Hanzawaia mantaensis,taxa
+Globorotalia flexuosa _T and B_,taxa
+Reticulofenestra asanoi (>6 microns),taxa
+Lingulina spp.,taxa
+Lower boundary age av. [Ma],taxa
+Arenodosaria antipoda,taxa
+Didymocyrtis laticonus,taxa
+Whiteinella baltica,taxa
+Heliolithus cantabriae,taxa
+Actinocyclus fryxellae,taxa
+Actynocyclus ellipticus fa. lanceolata,taxa
+Agglutinated,taxa
+Tribrachiatus contortus,taxa
+Calcispheres,taxa
+Shionodiscus gracilis var. expectus,taxa
+Triceratium spp.,taxa
+Axoprunum pierinae group,taxa
+Eiffellithus turriseiffelii,taxa
+Quinqueloculina stalkeri,taxa
+Cibicidoides spp,taxa
+Lenticulina peregrina,taxa
+Praemurica inconstans,taxa
+Thyrsocyrtis rhizodon,taxa
+Acarinina punctocarinata,taxa
+Stylatractus plato?,taxa
+Percentage of planktic forams in total foram assemblage [%],taxa
+Osangularia velascoensis,taxa
+Eouvigerina sp.,taxa
+Datum type,taxa
+Globoconella puncticuloides (compressed),taxa
+Chenopodiaceae,taxa
+Rhabdammina spp.,taxa
+Cenosphaera cristata,taxa
+Chiasmolithus expansus,taxa
+Orthomorphina cf. jedlitschkai,taxa
+Discoaster mendomobensis,taxa
+Reticulofenestra gelida,taxa
+Sigmoilinita spp.,taxa
+Pulleniatina spectabilis _T,taxa
+Cyrtocapsella cornuta,taxa
+Amphicraspedum prolixum group,taxa
+Thalassionema robusta,taxa
+Globigerinoides tenellus,taxa
+Prinsius dimorphus,taxa
+Sphenolithus heteromorpha,taxa
+Coccolithus abisectus,taxa
+Fohsella kugleri,taxa
+Oolithotus sp.,taxa
+Marginotruncana sigali,taxa
+(Duplicate) Dentoglobigerina pseudovenezuelana,taxa
+Datum region,taxa
+Stichocorys johnsoni,taxa
+Nonionella spp.,taxa
+Ostracoda spp.,taxa
+Solidopons petrae,taxa
+Isoetes,taxa
+Helicosphaera lophota,taxa
+"""Skeletonema"" utriculosa",taxa
+Allomorphina polonica,taxa
+Cibicidoides micrus,taxa
+Contusotruncana fornicata,taxa
+Nonionella turgida digitata,taxa
+Eucyrtidium cf. calvertense,taxa
+Nitzschia cylindrica,taxa
+Brizalina dilatata,taxa
+Hantkenina alabamensis,taxa
+Agglutinated gen. et sp. indet.,taxa
+Reticulofenestra umbilicus (>14 microns),taxa
+Globorotalia crassaformis sensu lato,taxa
+Woodringina hornerstownensis,taxa
+Actinoptychus vulgaris,taxa
+Thalassiosira symbolophora,taxa
+Actinocyclus ingens var. ingens,taxa
+Diatom preservation - pyritization2,taxa
+Stilostomella spp.,taxa
+Bolivina alata,taxa
+Neocrepidolithus cruciatus,taxa
+Corscinospora arietina,taxa
+Arcticacysta sp.,taxa
+Rotaliatina sulcigera,taxa
+Calciosolenia murrayi,taxa
+Dentoglobigerina larmeui,taxa
+Karreriella cylindrica,taxa
+Pyrgo depressa,taxa
+Pullenia simplex,taxa
+Trochospiral,taxa
+Lithochytris archaea,taxa
+Muricoglobigerina senni,taxa
+Mitrocalpis araneafera,taxa
+Gavelinella becarriformis,taxa
+Eunotia spp.,taxa
+Hayaster perplexus,taxa
+Gaudryina convexa,taxa
+Eilohedra vitrea,taxa
+Candeina nitida,taxa
+Actinocyclus karstenii,taxa
+Globocassidulina moluccensis,taxa
+Elongated,taxa
+Cycladophora bicornis,taxa
+Sighted trachyleberidids,taxa
+Shionodiscus trifultus,taxa
+Thalassiosira oestrupii var. venrickae,taxa
+Synedra sp.1,taxa
+Subbotina crociapertura,taxa
+Fissurina semimarginata,taxa
+Globigerinatella sp.,taxa
+Sphenolithus runus,taxa
+Paralabamina spp.,taxa
+Thalassiosira frauenfeldii,taxa
+Coccolithus eopelagicus ( >14µm),taxa
+Siphoniferoides siphonifera,taxa
+Eusyringium lagena,taxa
+Heterohelix labellosa,taxa
+Cibicidoides refulgens,taxa
+Actinocyclus curvatulus,taxa
+Sphenolithus moriformis,taxa
+Cruciplacolithus spp.,taxa
+Monomarginatus quaternarius,taxa
+Cibicidoides pachyderma,taxa
+Dentoglobigerina tripartita,taxa
+Tetrapodorhabdus decorus,taxa
+Helicosphaera mediterranea,taxa
+Pontosphaera spp.,taxa
+Cyclagelosphaera margerelii,taxa
+pc_fossil_group,taxa
+Denticulopsos lauta s.l.,taxa
+Turborotalia quinqueloba,taxa
+Hanzawaia? sp.,taxa
+Pseudononion auricula,taxa
+Globotruncana orientalis,taxa
+Florisphaera profunda,taxa
+Paragloborotalia siakensis (D),taxa
+Lychnocanium turgidum,taxa
+Spongurus cylindricus,taxa
+Cryptocarpium ornatum,taxa
+Eusyringium fistuligerum,taxa
+Alabamina dissonata,taxa
+Cycladophora davisiana,taxa
+Bolivina interjuncta var. bicostata,taxa
+Aragonia aragonensis,taxa
+Cassidulinoides spp.,taxa
+Calocyclas hispida,taxa
+Helicosphaera hyalina,taxa
+Orbulina universa,taxa
+Total in situ dinocysts,taxa
+Anomalina indica,taxa
+Allomorphina velascoensis,taxa
+Reussella spinulosa,taxa
+Amphistegina lobifera,taxa
+Thalassiosira sp. E 'patches of processes',taxa
+"Paragloborotalia nana (Bolli, 1957 p.118, pl.28, figs.3a-c as Globorotalia)",taxa
+Distephanus crux group,taxa
+Guttulina spp.,taxa
+Uvigerina cf. proboscidea,taxa
+Podocyrtis aphorma,taxa
+Actinocyclus ingens var. nodus,taxa
+Globocassidulina subglobosa,taxa
+Igorina pusilla,taxa
+Extra Sample ID Data,taxa
+Cibicidoides subspiratus,taxa
+Ceratolithoides spp.,taxa
+Triquetrorhabdulus striatus,taxa
+Chilostomella ovoidea,taxa
+Thalassiosira praefraga,taxa
+Globoquadrina tapurensis,taxa
+Globigerina venezulana,taxa
+Larcopyle polyacantha group,taxa
+Globotruncana arca,taxa
+Cycladophora sakaii,taxa
+Antarctissa denticulata,taxa
+Globigerinella calida _B,taxa
+Oridorsalis spp.,taxa
+Pyrgo simplex,taxa
+Catapsydrax sp.,taxa
+Lamarckina sp.,taxa
+Rossiella praepaleacea,taxa
+Quinqueloculina bicostata,taxa
+Discoaster araneus,taxa
+"Fohsella ""praefohsi"" _B_ _M8_",taxa
+Micula cubiformis,taxa
+Elphidium magellanicum,taxa
+Cibicidoides barnetti,taxa
+Fragilariopsis weaveri,taxa
+Subbotina gortanii,taxa
+Sphenolithus heteromorphus,taxa
+Astacolus spp.,taxa
+Eiffellithus sp.,taxa
+Dorcadospyris riedeli,taxa
+Subbotina linaperta,taxa
+Globigerina labiacrassata,taxa
+Krithe spp.,taxa
+Helicosphaera carteri,taxa
+Trilobatus bisphericus,taxa
+Bulimina translucens,taxa
+Nannoconus sp.,taxa
+Quinqueloculina candeiana,taxa
+Globigerina calida,taxa
+Saracenaria volpicelli,taxa
+"Catapsydrax unicavus Bolli, Loeblich & Tappan, 1957 p.37, pl.7, figs.9a-c",taxa
+Trilobatus trilobus _B,taxa
+Neochiastozygus chiastus,taxa
+Nonion japonicum,taxa
+Manivitella pemmatoidea,taxa
+Toddostomella hochstetteri,taxa
+Arkhangelskiella cymbiformis,taxa
+Rhabdosphaera spp.,taxa
+Pleurostomella alternans,taxa
+Bolliella calida,taxa
+Rosalia sp.,taxa
+Calocyclas turris,taxa
+Siphonodosaria spp.,taxa
+Bulimina cf. alazanensis,taxa
+Lamprocyclas cf. heteroporus,taxa
+COMMENTS,taxa
+Cretarhabdus striatus,taxa
+Grammatophora spp.,taxa
+Globorotalia multicamerata _T,taxa
+Lophocyrtis keraspera,taxa
+Ehrenbergina bicornis,taxa
+Parafissurina spp.,taxa
+Textularia agglutinans,taxa
+"Roperia tesselata (Roper) Grunow in Van Heurck, 1883",taxa
+Neoeponides spp.,taxa
+Microrhabdulus belgicus,taxa
+Globorotalia cibaoensis,taxa
+Rhizosolenia spp.,taxa
+Rhizammina algaeformis,taxa
+Muricohedbergella crassa,taxa
+Gephyrocapsa spp. medium,taxa
+Brizalina alata,taxa
+Leiosphaeridia sp.,taxa
+Podocyrtis ampla,taxa
+Fragilariopsis donahuensis,taxa
+Coscinodiscus oculus-iridis,taxa
+Hemiaulus dissimilis,taxa
+Actinocylus octonarius var. asteriscus,taxa
+Plantago,taxa
+Globigerinella spp.,taxa
+Reticulofenestra erbae,taxa
+Stylatractus neptunus,taxa
+Triquetrorhabdus carniatus,taxa
+Siphocampe sp.,taxa
+Asterorotalia gaimardii,taxa
+Praehedbergella gorbachikae,taxa
+Helotholus? haysi,taxa
+Discoaster mohleri,taxa
+Axoprunum acquilonium,taxa
+Zeugrhabdotus praesigmoides,taxa
+Unilocular species,taxa
+Rouxia californica,taxa
+Shore File Links,taxa
+Turrilina brevispira,taxa
+Lagena striata,taxa
+Globigerinoides obliquus (regular),taxa
+Pterocorys zancleus,taxa
+Sphenolithus obtusus,taxa
+Valvulineria sp. 2,taxa
+Fragilariopsis fossilis,taxa
+Globigerinoides ruber (pink),taxa
+Reticulofenestra pseudoumbilica,taxa
+Rhabdosphaera clavigera,taxa
+Dentoglobigerina altispira _T_ _PL5_,taxa
+Subbotina trivialis,taxa
+Nitzschia pliocena,taxa
+Gephyrocapsa omega,taxa
+Thalassiosira teres,taxa
+Dicarinella asymetrica,taxa
+Core,taxa
+Sigmoilina distorta,taxa
+Ammoelphidiella pustulosa,taxa
+Actinocyclus octonarius,taxa
+Pseudotextularia nuttalli,taxa
+Globigerina rubescens (pink),taxa
+Eucyrtidium hexagonatum,taxa
+Berthelina  intermedia,taxa
+Uvigerina yabei,taxa
+Tretomphaloides spp.,taxa
+Uvigerinidae indet.,taxa
+Actinocyclus ingens f. nodus,taxa
+Gyroidina cf. broeckhiana,taxa
+Rotliammina sp.,taxa
+Globigerina apertura,taxa
+Pullenia marssoni,taxa
+Rossiella paleaceae,taxa
+Nannotetrina  fulgens,taxa
+Globigerinelloides praevolutus,taxa
+Thalassiosira gravida,taxa
+Watznaueria,taxa
+Planularia sp.,taxa
+Bolboforma metzmacheri ornata,taxa
+Dorcadospyris quadripes,taxa
+Microhedbergella rischi,taxa
+Planoheterohelix papula,taxa
+Citharina plumoides,taxa
+Amphicoryna spp.,taxa
+Alabaminella weddellensis,taxa
+Melosira albicans,taxa
+Otosphaera polymorpha,taxa
+Larcopyle pylomaticus,taxa
+Orbulina suturalis,taxa
+Cruciplacolithus frequens,taxa
+Protoperidinium sp. 3,taxa
+Acarinina subsphaerica,taxa
+Eouvigerina spp.,taxa
+Globulina gibba,taxa
+Neocrepidolithus neocrassus,taxa
+Lagena gracilis,taxa
+Cibicidoides bradyi,taxa
+Buryella tetradica,taxa
+Planoheterohelix globulosa,taxa
+Haplophragmoides suborbicularis,taxa
+Globorotalia fohsi fohsi,taxa
+other Pennate,taxa
+Globorotalia puncticulata,taxa
+Rhizosolenia costata,taxa
+Florisphaera profunda var. elongata,taxa
+Cassigerinella martinezpicoi,taxa
+Genus/species lower zone),taxa
+Globoturborotalita druryi,taxa
+Theocorys puriri,taxa
+Turborotalita humilis,taxa
+Astrophacus sp.,taxa
+Truncorotalia truncatulinoides,taxa
+Fragilariopsis curta,taxa
+Thalassiosira nansenii,taxa
+Aphetocyrtis bianulus,taxa
+Lagena sulcata,taxa
+Schackoina cenomana,taxa
+Cymatiosphaera transparent sp. 1,taxa
+Menardella praemenardii,taxa
+Euchitonia furcata/elegans,taxa
+Oolina,taxa
+Triloculina trihedra,taxa
+Buccella sp.,taxa
+Discoaster paelikei,taxa
+Ceratolithus larrymayeri,taxa
+Theocyrtis perysinos n. sp.,taxa
+Fragilariopsis laqueus,taxa
+Eggerella decepta,taxa
+Umbilicosphaera jafari,taxa
+Numullites spp.,taxa
+Amphistylus angelinus,taxa
+Dictyopodium aff. oxylophus,taxa
+Tholospyris sp. group,taxa
+Anthocyrtidium zanguebaricum,taxa
+Didymocyrtis tetrathalamus tetrathalamus,taxa
+Discoaster sp. cf. D. brouweri,taxa
+Cibicioides mundulus,taxa
+Lophodolithus mochlophorus,taxa
+Staurolithites gausorhethium,taxa
+Pulleniatina (S),taxa
+Saccospyris praeantarctica,taxa
+Stylosphaera minor,taxa
+Siphouvigerina interrupta,taxa
+Globorotalia ronda,taxa
+Pylospira octopyle,taxa
+Notorotalia briggsi,taxa
+Nicklithus amplificus,taxa
+Pterocanium sp.,taxa
+Eurrosia irregularis var. irregularis,taxa
+Thyrsocyrtis hirsuta,taxa
+Globorotalia archeomenardii,taxa
+Poseidonamicus spp.,taxa
+Sphenolithus moriformis gr.,taxa
+Rhabdammina sp.,taxa
+Sphenolithus conspicuus,taxa
+Actinomma sp.,taxa
+Osangularia,taxa
+Reticulofenestra umbilicus (>14µm),taxa
+Toweius callosus,taxa
+Globigerina quinqueloba,taxa
+Vaginulinopsis bradyi,taxa
+Zygocircus sp.,taxa
+Globocassidulina  sp.,taxa
+Globigerinoides bisphericus,taxa
+Helicolithus trabeculatus (<7 um),taxa
+Halamphora spp.,taxa
+Globigerina tripartita,taxa
+Fohsella lenguaensis _T and B_ _M14_,taxa
+Spirophtalmidium cf. actuimargo,taxa
+Coccolithus pelagicus,taxa
+Azpeitia sp.,taxa
+Discoaster binodosus,taxa
+Brigantedinium spp. psilate,taxa
+Thalassiosira antiqua,taxa
+Lithostrobus hexagonalis,taxa
+Lioloma spp.,taxa
+Chilostomella sp.,taxa
+Praesphaerammina sp. aff. P. gerochi,taxa
+Cibicides collinsi,taxa
+Marginotruncana renzi,taxa
+Globigerinoides kennetti,taxa
+Globanomalina chapmani,taxa
+Glomospira charoides,taxa
+Uvigerina hispidocostata,taxa
+Nodosaria spp.,taxa
+Reinhardtites anthophorus,taxa
+Tenuitella spp. N/A,taxa
+Pullenia bulloides,taxa
+Biticinella breggiensis,taxa
+Fohsella praefohsi,taxa
+Denticulopsis praedimorpha v. intermedia,taxa
+Glandulina spp.,taxa
+Uvigerina schwageri,taxa
+Globorotalia (Fohsella) fohsi robusta,taxa
+Laevidentalina spp.,taxa
+Melonis spharoides,taxa
+Cibicidoides praemundulus,taxa
+Ceratolithus armatus (acutus),taxa
+Fohsella lobata _B,taxa
+Globorotalia pseudomiocenica,taxa
+Gephyrocapsa spp. small (<4 microns),taxa
+Thalassiosira minutissima,taxa
+Turborotalia ampliapertura,taxa
+Thoracosphaera sp.,taxa
+Watznaueria bayackii,taxa
+Syndedropsis spp.,taxa
+Pulleniatina finalis _B,taxa
+Strictocostella scharbergana,taxa
+Thalassiosira spp.,taxa
+Denticulopsis barronii,taxa
+Bulimina aculeata,taxa
+Quadrimorphina allomorphinoides,taxa
+Coscinodiscus gigas var. diorama,taxa
+Ellipsolithus distichus,taxa
+Cassidulina japonica,taxa
+Hymeniastrum euclidis,taxa
+Thalassiothrix flaugenferdii,taxa
+Glomospira sp.,taxa
+Actinocyclus oculatus,taxa
+Acarinina angulosa,taxa
+Calocycloma castum,taxa
+Dictyophimus infabricatus,taxa
+Globigerinoides immaturus,taxa
+Kamptnerius magnificus,taxa
+Globigerinoides diminutus,taxa
+Uvigerina senticosa,taxa
+Cassidulina californica,taxa
+Shionodiscus gracilis var. gracilis,taxa
+Pedinocyclus larvalis,taxa
+Lygeum spartum,taxa
+Thyrsocyrtis robusta,taxa
+Ehrenbergina pacifica,taxa
+Textulariella barrettii,taxa
+Rotalipora ticinensis,taxa
+Carpocanopsis bramlettei,taxa
+Bacterosira fragilis,taxa
+Thecosphaera pseudojaponica,taxa
+Globorotalia (Hirsutella) praemargaritae,taxa
+Globigerinoides parawoodi,taxa
+Reticulofenestra isabellae,taxa
+Phormocyrtis cubensis,taxa
+Naviculopsis eobiapiculata,taxa
+Truncorotalia crassaformis (SIN),taxa
+Lithocyclia crux,taxa
+Broinsonia signata,taxa
+Miliolinella sp. 1,taxa
+Reticulofenestra pseudoumbilicus   (>7µm),taxa
+Trisolenia megalactis,taxa
+Navicula salinarum,taxa
+Thyrsocyrtis tetracantha,taxa
+Cytherella sp.,taxa
+Pseudoglandulina spp.?,taxa
+Cruciplacolithus cruciformis,taxa
+Collosphaera orthoconus,taxa
+Pulleniatina primalis (D),taxa
+Halamphora costata,taxa
+Dorcadospyris praeforcipata,taxa
+Caryophyllaceae,taxa
+Tetrapyle sp.,taxa
+Planulina wuellerstorfi,taxa
+Lithocyclia ocellus gr.,taxa
+Cibicidoides incrassatus,taxa
+Vaginulinopsis spp.,taxa
+Gavelinella hyphalus,taxa
+Acarinina aspensis,taxa
+Rhizosolenia matuyamai,taxa
+Biscutum castrorum,taxa
+Bachmannocena pappii,taxa
+Virgulina sp.,taxa
+Planktonic Benthic ratio (P:B),taxa
+Reticulofenestra umbilicus (>14um),taxa
+Dictyoprora urceolus,taxa
+Ammoelphidiella sp.,taxa
+Theocorys perforalvus,taxa
+Lychnocanoma amphitrite,taxa
+Ehrenbergina trigona,taxa
+Globoquadrina venezuelana,taxa
+Hayella situliformis,taxa
+Nodosaria aspera,taxa
+Actinocyclus ingens  var. nodus,taxa
+Calcidiscus protoannulus,taxa
+Truncorotalia crassaformis,taxa
+Globobulimina pupoides,taxa
+Azpeitia gombosi,taxa
+Eiffellithus gorkae,taxa
+Denticulopsis hustedtii,taxa
+Coronocyclus nitescens (circular),taxa
+Chiasmolithus titus,taxa
+Globoturborotalita rubescens,taxa
+Uvigerina sp. 2,taxa
+Lychnocanoma apodora,taxa
+"Subbotina utilisindex (Jenkins and Orr, 1973)",taxa
+Hedbergella sp.,taxa
+Neogloboquadrina humerosa _B_,taxa
+Laticarinina pauperata,taxa
+Oridorsalis sp.,taxa
+Globorotalia pseudomiocenica _T_ _PL6,taxa
+Didymocyrtis tetrathalamus,taxa
+Rosalina globularis,taxa
+Rhizosolenia simplex,taxa
+Heliolithus riedelii,taxa
+Favocassidulina favus,taxa
+Distephanus crux,taxa
+Morozovella occlusa,taxa
+Globigerina sp.,taxa
+Selenopemphix nephroides,taxa
+Polymorphina spp.,taxa
+Lithelius minor,taxa
+Alabamina sp.,taxa
+Discoaster moorei,taxa
+Liliaceae,taxa
+Comment,taxa
+Acervulina mabahethi,taxa
+Theocotyle cryptocephala,taxa
+Cibicides fletcheri,taxa
+Quadrimorphina spp.,taxa
+Reticulofenestra minutula (3-5 microns),taxa
+Articulina cf. tubulosa,taxa
+Turborotalia possagnoensis,taxa
+Thalassionema spp.,taxa
+Fursenkoina complanata,taxa
+Otosphaera auriculata,taxa
+Uvigerina hispida,taxa
+Lithomelissa stigi,taxa
+Bolivina subaenariensis,taxa
+Dorothia  bulleta,taxa
+Calcidiscus carlae,taxa
+Pseudotriceratium radiosoreticulatum,taxa
+Pterocodon anteclinata,taxa
+Lagena semistriata,taxa
+Chaetoceros spp. and similar spores,taxa
+Globorotalia truncatulinoides _B_,taxa
+Hedbergella simplex,taxa
+Anomalina visenda,taxa
+Fissurina orbignyana,taxa
+Rotelapillus biarcus,taxa
+Miliammina arenacea,taxa
+Glaukolithus diplogrammus,taxa
+Hanzawaia concentrica,taxa
+Coscinodiscus lewisianus var. spiralis,taxa
+Diplomenora cocconeisformis,taxa
+Karreriella spp.,taxa
+Discoaster lenticularis,taxa
+Triquetrorhabdulus sp. (long needle like),taxa
+Globoturborotalita decoraperta,taxa
+Vozzhennikovia rohliae,taxa
+Uvigerina cf. canariensis,taxa
+Hanzawaia sp.,taxa
+Globorotalia pliozea,taxa
+Rzehakina epigona,taxa
+Globigerina nepenthes,taxa
+Dictyocha speculum,taxa
+Dyctyocoryne profunda,taxa
+"Globoturborotalita apertura (Cushman, 1918)",taxa
+Acarinina triplex,taxa
+Anthocyrtidum pliocenica,taxa
+Spirotextularia fistulosa,taxa
+Zealithapium mitra,taxa
+Rhabdospaera claviger,taxa
+Dorothia brevis,taxa
+Phormostichoartus sp.,taxa
+Thalassiosira insigna,taxa
+Reticulofenestra minuta (<3 microns),taxa
+Fohsella lenguaensis _T and B_ _M14,taxa
+Lophodolithus acutus,taxa
+Solenosphaera omnitubus,taxa
+Type (upper zone),taxa
+Brizalina cf. difformis,taxa
+Siphonodosaria sp. 2,taxa
+Aschemonella spp.,taxa
+Fohsella robusta,taxa
+Ellipsoidella  sp.,taxa
+Rotalia sp.,taxa
+Planomalina buxtorfi,taxa
+Spirosigmoilinella  sp.,taxa
+Laevidentalina,taxa
+Cibicides kullenbergi,taxa
+Amaurolithus amplificus,taxa
+Hole,taxa
+Vertebralina striata,taxa
+Eucyrtidium inflatum,taxa
+Biscutum constans,taxa
+Cibicides parki,taxa
+Datum age maximum [Ma],taxa
+Buliminella browni,taxa
+Type,taxa
+Neococcolithes protenus,taxa
+Spiroplectammina sp.,taxa
+Amphistegina spp.,taxa
+Pontosphaera pulchra,taxa
+Pseudoclavulina sp.,taxa
+Cassidulina norvangi,taxa
+Cibicides mundulus,taxa
+Zeugrhabdotus,taxa
+Biscutum,taxa
+Hughesius gizoensis,taxa
+Helicolithus turonicus,taxa
+Hirsutella hirsuta,taxa
+Periphaena delta,taxa
+Gyroidinoides spp.,taxa
+Dextral:Sinistral _P. obliquiloculata_,taxa
+Siphotextularia wairoana,taxa
+Oolithotus spp.,taxa
+Pseudoparrella exigua,taxa
+Cycladophora funakawai,taxa
+Discanomalina spp.,taxa
+Verneuilinoides sp.,taxa
+Azpeitia nodulifera f. cyclopa (Jouse),taxa
+Siphouvigerina ampullacea,taxa
+Cyrtocapsella sp.,taxa
+"Dentoglobigerina pseudovenezuelana (Blow and Banner, 1962)",taxa
+Periphaena tripyramis triangula,taxa
+Asteromphalus parvulus,taxa
+Dendrospyris sakaii,taxa
+Planctostoma luculenta,taxa
+Pyrulina cylindroides,taxa
+Siphonodosaria cf. holoserica,taxa
+Prunopyle tetrapila,taxa
+Cribrostomoides nonioininoides,taxa
+Globoturborotalita nepenthes,taxa
+Chiastozygus platyrhethus,taxa
+Dorcadospyris forcipata,taxa
+Anthocyrtidium pliocenica,taxa
+Stauroxiphos communis,taxa
+Thalassiosira tappanae,taxa
+Spirosigmoilina distorta,taxa
+Exotic,taxa
+Planulina spp.,taxa
+Cibicidoides grimsdalei,taxa
+Didymocyrtis violina,taxa
+Globigerinoides subquadratus _T,taxa
+Rhizosolenia styliformis,taxa
+Discoaster septemradiatus,taxa
+Globorotalia conomiozea,taxa
+Thalassionema nitzschioides var. parva,taxa
+Gephyrocapsa (>5.5 microns),taxa
+Didymocyrtis penultima,taxa
+Subbotina lozanoi,taxa
+Speetonia sp.,taxa
+Fohsella fohsi,taxa
+Spiroplectammina cubensis,taxa
+Thalassiosira spumellaroides,taxa
+Globigerinoides sacculifer (without sack),taxa
+Anomalinoides acutus,taxa
+Chiasmolithus spp.,taxa
+Stillostomellidae indet.,taxa
+Azpeitia neocrenulata,taxa
+Triquetrorhabdulus carinatus,taxa
+Pontesphaera multipora,taxa
+Textularia sp.,taxa
+Lamprocyrtis neoheteroporos,taxa
+Mixing,taxa
+Siphonodosaria cf. ketienziensis,taxa
+Ephedra fragilis type,taxa
+Collonosphaera cyrtodon,taxa
+Artemisia,taxa
+Globigerinoides sacculifer (without sac),taxa
+Praeglobotruncana stephani,taxa
+Laevidentalina  spp.,taxa
+Pleurostomella paleocenica,taxa
+Clavulina mexicana,taxa
+Botryocyrtis scutum,taxa
+Neogloboquadrina acostaensis (D),taxa
+Eiffellithus parallelus,taxa
+Stylosphaera sp.,taxa
+Karreriella cylindrica >400 m,taxa
+Rhopalocanium ornatum,taxa
+Globoturborotalita apertura _T and B,taxa
+Coccolithus crassus,taxa
+Cibicidoides dohmi,taxa
+Globocassidulina globosa,taxa
+Truncorotalia crassaformis (DEX),taxa
+Uvigerina carapitana,taxa
+Emiliania huxleyi,taxa
+Morozovella praeangulata,taxa
+Sphenolithus cuniculus,taxa
+Helianthemum,taxa
+Rhizosolenia oligocaenica,taxa
+Uvigerina mediterranea,taxa
+Lamptonium fabaeforme,taxa
+Ceratolithus spp.,taxa
+Eucyrtidium mariae,taxa
+Phormospyris sp.,taxa
+Hyalinonetrion gracillimum,taxa
+Martinottiella sp. N/A,taxa
+Nonionella stella,taxa
+Subbotina angiporoides minima,taxa
+Anaulus spp.,taxa
+Anthocyrtidium marieae,taxa
+Pulleniatina obliquiloculata (S),taxa
+Globorotalia (Menardella) menardii,taxa
+Tegumentum stradneri,taxa
+Subbotina euapertura,taxa
+Globorotalia miotumida,taxa
+Fursenkoina spp.,taxa
+Helicosphaera perch-nielseniae,taxa
+Cassidulina subglobosa,taxa
+Dictyocoryne truncatum,taxa
+Scyphosphaera cylindrica,taxa
+Kannoa hastata,taxa
+Markalius apertus,taxa
+Rhaphoneis miocenica,taxa
+Engelhardia,taxa
+Praehedbergella roblesae,taxa
+Proboscia curvirostris,taxa
+Angulogerina angulosa,taxa
+Siphogenerina sp.?,taxa
+Larcopyle buetschlii,taxa
+Globigerina gnaucki,taxa
+Gyroidinoides,taxa
+Siphonodosaria hispidula,taxa
+Brizalina spathulata,taxa
+Discorbis sp.,taxa
+Botryocella sp. gr.,taxa
+Globigerina glutinata,taxa
+Rhizosolenia minima,taxa
+Subbotina eocaena,taxa
+Globobulimina auriculata,taxa
+Campylosphaera eodela,taxa
+Eiffellithus eximius,taxa
+Bulimina jarvisi,taxa
+Micrantholithus flos,taxa
+Martinotiella communis,taxa
+Spongaster berminghami,taxa
+Cladococcus abietinus,taxa
+Grantarhabdus coronadventis,taxa
+Carpocanopsis sp.,taxa
+Cryptocarpium azyx,taxa
+Hemiaulus angustobrachiatus,taxa
+Ceratospyris borealis,taxa
+Helicosphaera scissura,taxa
+Triquetrorhabdulus finifer,taxa
+Protoperidinium sp.1,taxa
+Globorotalia sp.,taxa
+Bacteriostriata spp.,taxa
+Sceptroneis sp.,taxa
+Hughesius tasmaniae,taxa
+Globigerina braziere,taxa
+Staurolithites angustus,taxa
+Retecapsa surirella,taxa
+Paragloborotalia bella,taxa
+Amphisphaera radiosa,taxa
+Craspedodiscus elegans,taxa
+Gublerina rajagopalani,taxa
+Gyroidinoides altiformis,taxa
+Crucidenticula nicobarica,taxa
+Trifarina bradyi,taxa
+Cribronodosaria sp.,taxa
+Coryphostoma spp.,taxa
+Chiloguembelina crinita,taxa
+Proboscia barboi,taxa
+Siphonodosaria abyssorum,taxa
+Nitzschia sp. 1,taxa
+Distephanus boliviensis (binoculoid),taxa
+Bradleya spp.,taxa
+Didymocyrtis avita,taxa
+Gephyrocapsa margerelii/muellerae,taxa
+Globigerinoides elongatus,taxa
+Globorotalia crassaformis _B,taxa
+Circodiscus (Porodiscus) circularis,taxa
+Broinsonia furtiva,taxa
+Theocyrtis annosa,taxa
+Forma T,taxa
+Reticulofenestra spp. small,taxa
+Bulimina subbortonica,taxa
+Globoquadrina cf. binaiensis,taxa
+Tranolithus phacelosus,taxa
+Islandinium round brown/spiny,taxa
+Globocassidulina pseudocrassa,taxa
+XCorroded,taxa
+Melonis sphaeroides,taxa
+Cestodiscus pulchellus,taxa
+Cibicides perforatus,taxa
+Ceratolithus cristatus,taxa
+Gephyrocapsa oceanica (4-5.5 microns),taxa
+Umbellosphaera irregularis,taxa
+Hyalodiscus scoticus,taxa
+Stylatractus sp.,taxa
+Triquetrorhabdulus milowii,taxa
+Pseudoguembelina hariaensis,taxa
+Phormocyrtis turgida,taxa
+Additional zone name,taxa
+Anomalina aotea,taxa
+Stichocorys sp.,taxa
+Helicosphaera obliqua,taxa
+Reticulofenestra daviesii,taxa
+Sigmoilopsis schlumbergeri >600 m,taxa
+Spinidinium macmurdoense,taxa
+Plectofrondicularia advena,taxa
+Pterocanium prismatium,taxa
+Eucecryphalus sp.,taxa
+Globigerinoides ruber (white),taxa
+Asteromphalus cleveanus,taxa
+Ehrenbergina carinata,taxa
+Thalassiothrix miocenica,taxa
+Eucyrtidium acuminatum,taxa
+Thalassiosira lentiginosa,taxa
+Planularia spp.,taxa
+Karrerulina sp.,taxa
+Bortyostrobus auritus/australis,taxa
+Triloculina sp.,taxa
+Bottom Depth[m] [m],taxa
+Thalassiothrix frauenfeldii,taxa
+Cibicidoides cf. pachyderma,taxa
+Globorotalia praeinflata,taxa
+Top [cm],taxa
+Helicosphaera compacta,taxa
+Subbotina eocaenica,taxa
+Collosphaera macropora,taxa
+Peneroplis sp. ?,taxa
+Glabratella patelliformis,taxa
+Vulvulina sp.,taxa
+Octopyle stenozona,taxa
+Cibicidoides spp.,taxa
+Globoconella miotumida,taxa
+Helicosphaera clarissima,taxa
+Bulbobaculites problematicus,taxa
+Orbulina suturalis _B_ _M6_,taxa
+Sphaeroidinella dehiscens s.l.,taxa
+Glomospirella,taxa
+Prediscosphaera arkhangelskyi,taxa
+Helicolithus trabeculatus,taxa
+Nonion ?,taxa
+Bolivina huneri,taxa
+Dentoglobigerina tripartita s. str.,taxa
+Thyrsocyrtis bromia,taxa
+Acarinina mcgowrani,taxa
+Cribrohantkenina inflata,taxa
+Stephanopyxis palmeriana,taxa
+Laevidentalina advena,taxa
+Ceratolithus simplex,taxa
+Globigerina linaperta,taxa
+Spongurus sp.,taxa
+Rotalinoides gaimardii,taxa
+Cyclotella kutzingiana,taxa
+Polypodium vulgare type,taxa
+Thalassionema nitzschioides  var. parva,taxa
+Theocyrtis perpumila n. sp.,taxa
+Ammodiscus sp.,taxa
+Globorotalia tosaensis _T and B_ _Pt1b_,taxa
+Anomalinoides orbiculus,taxa
+Globigerina officinalis,taxa
+Selenopemphix kepion,taxa
+Valvulina spinosa?,taxa
+Discoaster mahmoudii,taxa
+Bathropyramis woodringi,taxa
+"Globigerinoides ruber s.l. Wang, 2000",taxa
+Spiroloculina depressa,taxa
+Actinocyclus actinochilus,taxa
+Theocyrtis setanios,taxa
+Ascidian spicules,taxa
+Pullenia bulloides >200 m,taxa
+Sphenolithus pseudoradians,taxa
+Helicosphaera reticulata,taxa
+Muircohedbergella delrioensis,taxa
+Caudamina spp.,taxa
+Octodendron spp. spines,taxa
+Orbulina universa (juvenile),taxa
+Gomphonema olivacium,taxa
+Pyrgo serrata,taxa
+Syracosphaera spp. (Paleogene),taxa
+Globigerina rubescens (white),taxa
+Operculina spp.,taxa
+Calocycletta serrata,taxa
+Cassidulina translucens,taxa
+Dentalina communis,taxa
+Globigerinoides seiglei,taxa
+Thalassiosira antarctica,taxa
+Actinomma leptodernum longispinum,taxa
+Rossiella paleaceae var. elongata,taxa
+Carpocanarium papillosum,taxa
+Epistominella smithi,taxa
+Miliammina echigoensis,taxa
+Bolivina pusilla,taxa
+Sigmopyrgo vespertilio,taxa
+Cystammina pauciloculata,taxa
+Ephedra distachya type,taxa
+Lychnocanoma magnacornuta,taxa
+Xestolebris spp.,taxa
+Comments,taxa
+Trochamminids,taxa
+Triceratium cinnamomeum,taxa
+Reticulofenestra minutula,taxa
+Amorphous organic matter,taxa
+Thyrsocyrtis lochites,taxa
+Bulimina tuxpamensis,taxa
+Umbilicosphaera rotula,taxa
+Acarinina sibaiyaensis,taxa
+Pseudoemiliania ovata,taxa
+Thalassiosira pacifica,taxa
+Cibicides neoperforatus,taxa
+Melonis barleeanum,taxa
+Denticulopsis katayamae,taxa
+Rhizosolenia hebetata f. hiemalis,taxa
+Didymocyrtis sp.,taxa
+Pseudoschackoina saundersi,taxa
+Quinqueloculina bosciana,taxa
+342-U1408A-2H-2-W 100/102-FORAM,taxa
+Botryostrobus sp.,taxa
+Cibicidoides robertsoniana,taxa
+Discosphaera tubifera,taxa
+Marginotruncana schneegansi,taxa
+Reticulofenestra samodurovii,taxa
+Siphonodosaria sargrinensis,taxa
+Stoverius achylosus,taxa
+Sagrinella jugosa,taxa
+Pterocorys hertwigii,taxa
+Elongobula parallela,taxa
+Cyclicargolithus floridanus (5-11µm),taxa
+Liriospyris longicornuta,taxa
+"Paragloborotalia opima (Bolli, 1957)",taxa
+Thalassionema frauenfeldii,taxa
+Quinqueloculina agglutinans,taxa
+Centrobotrys thermophila,taxa
+Heterostegina sp.,taxa
+Group abundance,taxa
+Arkhangelskiella sp.,taxa
+Syracosphaera histrica,taxa
+Glaukolithus bicrescenticus,taxa
+Stichocorys delmontensis,taxa
+Bathysiphon sp.,taxa
+Ceratocyrtis histricosa,taxa
+Cibicides spiralis,taxa
+Vallodiscus sp.,taxa
+Pleurostomella subnodosa,taxa
+Lophocyrtis biaurita,taxa
+Thyrsocyrtis triacantha,taxa
+Discoaster spp. (Paleogene),taxa
+Reticulofenestra hampdenensis,taxa
+Fasciculithus thomasii,taxa
+Asteromphalus hookeri,taxa
+Cymatiosphaera spp.,taxa
+Lophocyrtis longiventer,taxa
+Fissurina sp.,taxa
+Globotruncana aegyptiaca,taxa
+Triquetrorhabdulus rugosus,taxa
+Dyctiocha fibula,taxa
+Globotruncanita stuartiformis,taxa
+Globigerinoides ruber _pink_ T,taxa
+Liebusella soldanii,taxa
+Gephyrocapsa sp. (closed >4 microns),taxa
+Melonis affinis,taxa
+Cornutella clathrata,taxa
+Sphaeropyle langii,taxa
+Vozzhennikovia apertura,taxa
+Bulimina impendens,taxa
+Subbotina angiporoides,taxa
+Spongurus cf. elliptica,taxa
+Reticulofenestra bisecta (5-10 microns),taxa
+Hemidiscus cuneiformis,taxa
+Pterocodon ampla,taxa
+Emiliania huxleyi (<5 microns),taxa
+Didymocyrtis prismatica,taxa
+Theocotyle ficus,taxa
+Watznaueria biporta,taxa
+Sphaeroidina spp.,taxa
+Bulimina serratospina,taxa
+Truncorotalia crassaconica,taxa
+Globanomalina pseudomenardii,taxa
+Trochamminoides cf. variolarius,taxa
+Trilete psilate,taxa
+Discoaster calcaris,taxa
+Globorotalia praescitula,taxa
+Cymatiosphaera brown sp. 3,taxa
+Lagena laevis,taxa
+Coccolithus miopelagicus,taxa
+Cruciplacolithus asymmetricus,taxa
+Eurossia irregularis var. incurvatus,taxa
+Praeorbulina sicana,taxa
+Prunopyle hayesi,taxa
+Neogloboquadrina incompta,taxa
+Theocorys acroria,taxa
+Dextral:Sinistral _N. acostaensis_,taxa
+Denticulopsis okunoi,taxa
+Azpeitia endoi,taxa
+Bekoma bidartensis,taxa
+Uvigerina sp. 1,taxa
+Vulvulina spinosa,taxa
+Microhedbergella praeplanispira,taxa
+Gartnerago chiasta,taxa
+Thalassiosira grunowii,taxa
+Spongodiscus cruciferus,taxa
+Cyclammina sp.,taxa
+Globigerinelloides asper,taxa
+Quinqueloculina subpolygona,taxa
+Globorotalia crassaformis,taxa
+Corocalyptra cervus,taxa
+Ceratolithus atlanticus,taxa
+Perichlamydium praetextum,taxa
+Pullenia cf. jarvisis,taxa
+Martinottiella communis,taxa
+Druppatractus hastatus,taxa
+Cibicidoides globulosus,taxa
+Cyclicargolithus abisectus (>11 microns),taxa
+Globobulimina spinescens,taxa
+Heterolepa bradyi,taxa
+Whiteinella aprica,taxa
+Artobotrys auriculaleporis,taxa
+Diatom preservation fragmentation,taxa
+Stilostomella gracillima,taxa
+Baculogypsina sphaerulata,taxa
+Stichocorys peregrina,taxa
+Bottom [cm],taxa
+Nitzschia praereinholdii,taxa
+Globigerinoidesella fistulosa _T and B_ _Pt1a,taxa
+Dictyococcites bisectus,taxa
+Paragloborotalia pseudocontinuosa (D),taxa
+Sprioloculina corrugata,taxa
+Miliolids,taxa
+Actinocyclus sp. C H&M1992,taxa
+Frondicularia cf. bulla,taxa
+Subreophax scalaris,taxa
+Planispiral,taxa
+Rudigaudryina minor,taxa
+pc_fossil_name,taxa
+Sigmoilopsis spp.,taxa
+Globobulimina affinis,taxa
+Eiffellithus monechiae,taxa
+Globigerinoides altiapertura,taxa
+Globorotalia anfracta,taxa
+Allomorphina conica,taxa
+Gyroidinoides beisseli,taxa
+Ranunculaceae,taxa
+Oolithotus fragilis,taxa
+Pseudoglandulina glanduliformis,taxa
+Paragloborotalia pseudokugleri,taxa
+Botrychium type,taxa
+Contusotruncana contusa,taxa
+Reticulofenestra asanoi,taxa
+Carpinus,taxa
+Calcidiscus tropicus +grill,taxa
+Pyrulina spp.,taxa
+Stylodictya spp.,taxa
+Rosaceae,taxa
+Paragloborotalia partimlabiata,taxa
+PF Group Abundance,taxa
+Cycladophora humerus,taxa
+Globoconella miotumida (SIN),taxa
+Pterocanium trilobum,taxa
+Zeugrhabdotus kerguelenensis,taxa
+Uvigerina spp.,taxa
+Umbilicosphaera sibogae,taxa
+Helicosphaera bramlettei,taxa
+Discoaster mediosus,taxa
+Lophocyrtis jacchia hapsis,taxa
+Aragonia sp. 1,taxa
+Siphocampe lineata,taxa
+Globorotalites,taxa
+Thalassiosira nodulolineata,taxa
+Bulimina striata,taxa
+Dendrospyris uruyaensis,taxa
+Phelodinium sp.,taxa
+Hanzawaia turgida,taxa
+Fraxinus excelsior type,taxa
+Reticulofenestra asanoi (<6 microns),taxa
+Siphonosphaera tenera,taxa
+Caudammina ovula,taxa
+Alabammina spp.,taxa
+Pseudohastigerina wilcoxensis,taxa
+Nitzschia rolandii,taxa
+Lithastrinus grillii,taxa
+Amphymenium splendiarmatum,taxa
+Gephyrocapsa sinuosa,taxa
+Rhodospyris ?sp.,taxa
+Reticulofenestra bisecta (>10 microns),taxa
+Perchnielsenella stradneri,taxa
+Kalamopsis grzybowskii,taxa
+Pullenia sp.,taxa
+Neogloboquadrina nympha,taxa
+Neodenticula seminae,taxa
+Periphaena decora,taxa
+Globoturborotalita nepenthes _T and B_PL2 and M11,taxa
+Anomalina spp.,taxa
+Lithelius nautiloides,taxa
+Rutherfordoides mexicanus,taxa
+Antarcticella antarctica,taxa
+Praeglobobulimina cf. spinescens,taxa
+Euloxostomum pseudobeyrichi,taxa
+Coryphostoma midwayensis,taxa
+Hormosina velascoensis,taxa
+Discoaster neorectus,taxa
+Porosira glacialis,taxa
+Theocalyptra sp.,taxa
+Fasciculithus clinatus,taxa
+Acritarchs,taxa
+Reticulofenestra pseudoumbilicus,taxa
+Discoaster deflandrei (small),taxa
+Cricrostomoides spp.,taxa
+Carpocanistrum favosum,taxa
+Paragloborotalia incognita,taxa
+Kisseleviella cicatricata,taxa
+Nuttalides carinotruempyi,taxa
+Globorotalia conoidea,taxa
+Neoeponides hillebrandti,taxa
+Desmospyris rhodospyroides,taxa
+Allomorphina whangaia,taxa
+Lithraphidites quadratus,taxa
+Cibicides temperatus,taxa
+Elphidid taxa,taxa
+Rugoglobigerina rugosa,taxa
+Acrosphaera lappacea,taxa
+Globigerinoides sp.,taxa
+Bolivina spissa,taxa
+Cymbella tumida,taxa
+Stylodictya multispina,taxa
+Lithelius minor gr.,taxa
+Eucyrtidium cienkowskii,taxa
+Discoaster bellus,taxa
+Globorotalia pertenuis _T and B_,taxa
+Reussella sp.,taxa
+?Acarinina spp.,taxa
+Helenea chiastia,taxa
+Helicosphaera kamptnerii,taxa
+Dentalina inornata,taxa
+Praeglobobulimina pupoides,taxa
+Micula concava,taxa
+Sphaeroidnellopsis disjuncta,taxa
+Sahulia spp.,taxa
+Reusella spp.,taxa
+Morozovella subbotinae,taxa
+Ammobaculites wallalensis,taxa
+Helicosphaera spp.,taxa
+Olgia spp.,taxa
+Gyroidinoides neosoldanii,taxa
+Pleurostomella brevis,taxa
+Amphicoryna sp.,taxa
+Globorotalia scitula (sin),taxa
+Reticulofenestra lockeri,taxa
+Bolivina ordinaria,taxa
+Discoaster pansus,taxa
+Cibicides cf. lobatulus,taxa
+Cibicides grossepunctatus,taxa
+Globorotalia miozea,taxa
+Ericsonia subpertusa,taxa
+Buccella frigida,taxa
+Amphistegina hauerina,taxa
+Plumbaginaceae,taxa
+Hirsutella bermudezi,taxa
+Lejeunecysta rotunda,taxa
+Robertinoides spp.?,taxa
+Gephyrocapsa sp. (4-5.5 microns),taxa
+Pyxidinopsis sp.,taxa
+Globoconella pseudospinosa,taxa
+Neoflabellina semireticulata,taxa
+Bacterosira spp.,taxa
+Rotalina oblonga,taxa
+Prinsius tenuiculus,taxa
+Biscutum ubiquens,taxa
+Periphaena heliasteriscus,taxa
+Rotalipora globotruncanoides,taxa
+Uvigerina cf. auberiana,taxa
+Dictyocha frenguellii,taxa
+Kisseleviella tricoronata,taxa
+Prediscosphaera grandis,taxa
+Carpocanopsis cristata,taxa
+Globorotalia hirsuta (dex),taxa
+Retecapsa crenulata,taxa
+Brizalina semilineata,taxa
+Saccate pollen,taxa
+Lophospyris pentagona pentagona,taxa
+Top[cm] [cm],taxa
+Thalassiosira jacksonii,taxa
+Calocyclas bandyca,taxa
+Globorotalia merotumida,taxa
+Triceraspyris antarctica,taxa
+Neogloboquadrina acostaensis _B_ _M13a,taxa
+Parasubbotina prebetica,taxa
+Fohsella fohsi lobata,taxa
+Siphogerenina spp.,taxa
+Pyrgoella sphaera,taxa
+Porosononion sp.,taxa
+Discoaster distinctus,taxa
+Monolete psilate,taxa
+Cyclagelosphaera spp.,taxa
+Helicosphaera neogranulata,taxa
+Siphouvigerina sp.,taxa
+Globocassidulina punctata,taxa
+Melonis sp.,taxa
+Lipmanella dictyoceras,taxa
+Larcospira quadrangula,taxa
+Astrononion spp.,taxa
+Contusotruncana patelliformis,taxa
+Sethocytris chrysallis,taxa
+Radialiplicata clavigera,taxa
+Globigerina bulloides,taxa
+Paralabamina hillebrandti,taxa
+calcispheres,taxa
+Planulina renzi,taxa
+Anomalinoides spp.,taxa
+Praeorbulina curva _B_,taxa
+Delphineis angustata,taxa
+Thalassiosira fraga,taxa
+Globorotalia (Fohsella) fohsi,taxa
+Arenobulimina truncata,taxa
+Thalassionema nitzschoides (Grunow),taxa
+Seabrookia rugosa,taxa
+Morozovella caucasica,taxa
+Oridorsalis umbonatus,taxa
+Globotruncanita elevata,taxa
+Globorotalia (Menardella) exilis,taxa
+Miliolinella subrotunda,taxa
+Rocella gelida,taxa
+Pseudonodosaria obesa,taxa
+Hoeglundina ?,taxa
+Euchitonia furcata,taxa
+Globorotalia challengeri,taxa
+Mesocena elliptica,taxa
+Bekoma spp.,taxa
+Apiaceae,taxa
+Sphenolithus anarrhopus,taxa
+Hexacontium melpomene,taxa
+Cibicidoides cicatricosus,taxa
+Rhizosolenia imbricata,taxa
+Cancris sp.,taxa
+Heterolepa spp.,taxa
+Vaginulinidae indet.,taxa
+Gyroidinoides sp.,taxa
+Ammoshpaeroidina,taxa
+Reophax spp.,taxa
+Bolivina spathulata,taxa
+Thalassiosira oliverana,taxa
+Catapsydrax dissimilis _T_ _M4a_,taxa
+Orbulina sp.,taxa
+Asteromphalus symmetricus,taxa
+Dentalina subsoluta,taxa
+Planulina subtenuissima,taxa
+Globigerinelloides sp.,taxa
+Discoaster backmanii,taxa
+Globoconella praescitula,taxa
+Astrorhizids,taxa
+Favocassidulina subfavus,taxa
+Discorotalia spp.,taxa
+Gyroidinoides spp,taxa
+Oertliella? sp.,taxa
+Gephyrocapsa oceanica (3-4 microns),taxa
+Crucidenticula kanayae,taxa
+Hantkenina compressa,taxa
+Subbotina senni,taxa
+Globoturborotalita apertura _T and B_,taxa
+Sphaerozoum punctatum,taxa
+Acarinina medizzai,taxa
+Oolina globosa,taxa
+Proboscia sp,taxa
+Spongotrochus glacialis,taxa
+Amphimelissa setosa,taxa
+Nannotetrina cristata,taxa
+Globigerinelloides ehrenbergi,taxa
+Fissurina cf. staphyllearia,taxa
+Sample preparation comment,taxa
+Globoquadrina binaiensis,taxa
+Pontosphaera spp. (Neogene),taxa
+Pseudohastigerina micra,taxa
+Abyssamina poagi,taxa
+Pyxilla reticulata,taxa
+Sphagnum,taxa
+Actynocyclus elongatus,taxa
+Nitzschia denticuloides,taxa
+Siphocampe amygdala,taxa
+ADDITIONAL SPECIES,taxa
+Discoaster braarudi,taxa
+Nannofossil fragments,taxa
+Nitzschia interruptestriata,taxa
+Parasorites spp.,taxa
+Neoconorbina spp.,taxa
+Diploneis ovalis,taxa
+Nonionoides grateloupi,taxa
+Triceratium unguiculatum,taxa
+Dictyocoryne profunda,taxa
+Stoverius coronatus,taxa
+Bulimina barbata,taxa
+Tritaxia gaultina,taxa
+Globotruncanita calcarata,taxa
+Astacolus parallelus,taxa
+Marginulinopsis stephensoni,taxa
+Zeaflorilus parri,taxa
+Podocyrtis goetheana,taxa
+Marginulina sp.,taxa
+Bigerenina sp.,taxa
+Elphidium cf. jenseni,taxa
+Lychnodictyum audax,taxa
+Cymbaloporetta sp.,taxa
+Gaudryina spp.,taxa
+Triquetrorhabdus rugosus,taxa
+Gyroidinoides planulatus,taxa
+Globorotalia sphericomiozea,taxa
+Hemiaulus altus,taxa
+Seribiscutum primitivum,taxa
+Valkyria pukapuka,taxa
+Sphenolithus villae,taxa
+Coscinodiscus symbolophorus,taxa
+Catapsydrax dissimillis,taxa
+Pullenia quinqueloba,taxa
+Cymbaloporella taballaeformis,taxa
+Thalassiosira sancettae,taxa
+Rouxia isopolica,taxa
+Cenosphaera sp.,taxa
+Reticulofenestra dictyoda  (3-10µm),taxa
+Globorotalia tumida,taxa
+Actinocylus sp. F,taxa
+Subbotina yeguaensis,taxa
+Marinittiella sp.,taxa
+Operculina complanata,taxa
+Thalassiosira ferelineata,taxa
+Reticulofenestra circus,taxa
+Neoflabellina sp.,taxa
+Cassidulina tumida,taxa
+Dorcadospyris alata,taxa
+Notorotalia finlayi,taxa
+Muricohedbergella sp.,taxa
+"Globoturborotalita woodi (Jenkins, 1960)",taxa
+Ceratocancris sp.,taxa
+Prediscosphaera desiderograndis,taxa
+Acrosphaera cyrtodon,taxa
+Ceratolithus cristatus (rugosus),taxa
+Spirillina spp.,taxa
+Acarinina pseudosubsphaerica,taxa
+Cancris ?,taxa
+Zygocircus productus,taxa
+Miliolina spp.,taxa
+Nitzschia reinholdii,taxa
+Archaeosphaeridium australensis,taxa
+Karreriella parkerae,taxa
+Pinus,taxa
+Gaudryina,taxa
+Zone,taxa
+Microhedbergella pseudodelrioensis,taxa
+Dentalina sp.,taxa
+Cibicides praecinctus,taxa
+Heronallenia spp.,taxa
+Psuedoemiliania lacunosa,taxa
+Sphaeroidinellopsis sp.,taxa
+Scrippsiella sp.,taxa
+Quinqueloculina philippinensis,taxa
+Lithomelissa sphaerocephalis,taxa
+Calcidiscus leptoporus (>8 micron),taxa
+Nuttallides sp,taxa
+Siphonina australis,taxa
+Paragloborotalia siakensis (S),taxa
+Disolenia sp.,taxa
+Eoglobigerina eobulloides,taxa
+Saracenaria spp.,taxa
+Chiastozygus litterarius,taxa
+Valvulina sp.,taxa
+Spirocyrtis sp.,taxa
+Peneroplis planatus,taxa
+Poroeponides lateralis,taxa
+Trichohyalus ornatissimus,taxa
+Larcopyle polyacantha,taxa
+Truncorotalia cf. crassacarina,taxa
+Ebridulina paradoxa,taxa
+Neogloboquadrina acostaensis (S),taxa
+Inaequilina spp.,taxa
+Thalassiosira lineata,taxa
+Frondicularia sp.,taxa
+Morozovella aragonensis,taxa
+Rotalinoides spp.,taxa
+Phormacantha hystrix/Plectacantha oikiskos group,taxa
+Gavelinella sp.,taxa
+Praeorbulina circularis,taxa
+Helicosphaera granulata,taxa
+Triceratium cinamomeum var. quadrangulata,taxa
+Coscinodiscus obscurus,taxa
+Calcidiscus leptoporus (<5 microns),taxa
+Perissocyclus fenestratus,taxa
+Zygodiscus plectopons,taxa
+Gyroidinoides girardanus,taxa
+Ebridian group abundance,taxa
+Cibicidoides robertsonianus,taxa
+Glabratella spp.,taxa
+Nothia excelsa,taxa
+Phormocyrtis ligulata,taxa
+Enneadocysta,taxa
+Ehrenbergina glabra,taxa
+Globorotalia menardii (dex),taxa
+Rectuvigerina spp.,taxa
+Praeorbulina transitoria,taxa
+Hirsutella margaritae,taxa
+Anomalinoides capitatus,taxa
+Lenticulina mamilligera,taxa
+Corocalyotra sp.,taxa
+Chrysophyte cyst group abundance,taxa
+Discoaster spp. (five-rayed),taxa
+Globoquadrina dehiscens,taxa
+Reticulofenestra scrippsae,taxa
+Sphaeroidinellopsis seminulina,taxa
+Dentoglobigerina globularis,taxa
+Eucampia antarctica,taxa
+Navicula spp.,taxa
+Hedbergella monmouthensis,taxa
+Planorbulina spp.,taxa
+Micrantholithus spp.,taxa
+Asterigerina sp.,taxa
+Loxolithus armilla,taxa
+Actinomma arcadophorum,taxa
+Cancris auricula,taxa
+Cubotholus octaceras,taxa
+Synedropsis cheethamii,taxa
+"Discoaster ""six-rayed""",taxa
+Rhaphidodiscus marylandicus,taxa
+Reticulofenestra umbilica,taxa
+Lithochytris vespertilio,taxa
+Gephyrocapsa (<4 microns),taxa
+Unknown taxa,taxa
+Dictyoprora armadillo,taxa
+Selenopemphix dionaeacysta,taxa
+Batiacasphaera minuta,taxa
+Stylatractus universus,taxa
+Shionodiscus praeoestrupii,taxa
+Zeugrhabdotus erectus,taxa
+Karreriella bradyi,taxa
+Subbotina hagni,taxa
+Sphenolithus furcatolithoides morph B,taxa
+Cavitatus miocenicus,taxa
+Tritaxia instar,taxa
+Tribrachiatus orthostylus,taxa
+Rhizammina sp.,taxa
+Gephyrocapsa (small <4 microns),taxa
+Podocyrtis mitra,taxa
+Globigerina decoraperta,taxa
+Cocconeis californica,taxa
+Anthemis type,taxa
+Lychnocanium satelles,taxa
+Rotalipora appenninica,taxa
+Tenuitella angustiumbilicata,taxa
+Toweius serontinus,taxa
+Coronocyclus nitescens (elliptical),taxa
+Lychnocanium bellum,taxa
+Hoeglundina spp.,taxa
+Rhizosolenia sp. B,taxa
+Ammoelphidiella uniforamina,taxa
+Globigerinoides bollii,taxa
+Globorotalia (Menardella) multicamerata,taxa
+Stephanopyxis grunowii,taxa
+Orbulina suturalis _B_ _M6,taxa
+Hanzawaia rhodiensis,taxa
+Pontosphaera plana,taxa
+Lophocyrtis dumitricai,taxa
+Didymocyrtis bassanii,taxa
+Amphisphaera coronata,taxa
+Anomalinoides globulosus,taxa
+Desmospyris spongiosa,taxa
+Acarinina wilcoxensis,taxa
+Rotalipora reicheli,taxa
+Collosphaera huxleyi,taxa
+Ahmuellerella octoradiata,taxa
+Anthocyrtidium angulare,taxa
+Denticulopsis dimorpha,taxa
+Blackites tenuis,taxa
+Phormocyrtis striata exquisita,taxa
+Globorotalia crassaformis _B_,taxa
+Tenuitella anfracta,taxa
+Siphouvigerina plebeja,taxa
+Globotruncana lapparenti,taxa
+Chiloguembelina morsei,taxa
+Bulimina marginata,taxa
+Catapsydrax globiformis,taxa
+Globorotalia acrostoma,taxa
+Hedbergella angolae,taxa
+Globoturborotalita woodi,taxa
+Brizalina pacifica,taxa
+Globigerinelloides aptiensis,taxa
+Solenosphaera quadrata,taxa
+Acrocubus octopylus,taxa
+Cyclammina spp.,taxa
+Lithomelissa tricornis,taxa
+Achnanthes inflata,taxa
+Hirsutella scitula (cf.),taxa
+Nonionella basispinata,taxa
+Globigerinita glutinata,taxa
+Trochosira spp.,taxa
+Ticinella raynaudi,taxa
+Rhizosolenia praebergonii,taxa
+Arkhangelskiella specillata,taxa
+Heterohelix globulosa (cf.),taxa
+Paraglobrotalia pseudokugleri,taxa
+Stichocorys armata,taxa
+Hyalinea spp.,taxa
+Wiesnerella spp.,taxa
+Acarinina collactea,taxa
+Chiphragmolithus barbatus,taxa
+Subbotina triloculinoides,taxa
+Anomalinoides piripaua,taxa
+Cytheralison sp.,taxa
+Diatoms and siliceous plankton comment,taxa
+Trachyneis aspera,taxa
+Collosphaera tuberosa,taxa
+Amphistegina lessonii,taxa
+Actinomma medianum,taxa
+Paragloborotalia pseudocontinuosa,taxa
+Tetrapyle octacantha,taxa
+Planktoniella sol,taxa
+Allomorphina pacifica,taxa
+Eiffellithus eximius (sensu Verbeek),taxa
+Archaeoglobigerina cretacea,taxa
+Dictyoprora mongolfieri,taxa
+Discoaster falcatus,taxa
+Pontosphaera japonica,taxa
+Gephyrocapsa sp. (<4 microns),taxa
+Siphonodosaria ketienziensis,taxa
+Spiroplectammina spp.,taxa
+Rhizosolenia hebetata f. hebetata,taxa
+Zeugrhabdotus bicrescenticus,taxa
+Ticinella roberti,taxa
+Karreriella baccata,taxa
+Spiroloculina sp. N/A,taxa
+Lophocyrtis milowi,taxa
+Marginotruncana marginata,taxa
+Lenticulina sp.,taxa
+Dictyococcites scrippsae (<10µm),taxa
+Matanzia varians,taxa
+Dentoglobigerina spp.,taxa
+Thalassiothrix antarctica,taxa
+Thyrsocyrtis cf. norrisi,taxa
+Discoaster subsurculus,taxa
+Placentammina spp.,taxa
+Clausicoccus subdistichus,taxa
+Eucampia antarctica var twista,taxa
+Glandulina sp.,taxa
+Discoaster tristellifer,taxa
+Fursenkoina sp.,taxa
+Blackites amplus bases,taxa
+Neogloboquadrina pachyderma (sin),taxa
+Denticulopsis hyalina,taxa
+Type (lower zone),taxa
+Bolivina semitruncata,taxa
+Phytolith,taxa
+Nonion havanense,taxa
+Brizalina earlandi,taxa
+Discoaster druggii,taxa
+Favocassidulina spinifer,taxa
+Globigerinoides conglobatus _pink_,taxa
+Comment (general),taxa
+Cyclammina cancellata,taxa
+Achnanthes brevipes,taxa
+Globoconella conoidea,taxa
+Globigerinatheka sp.,taxa
+Eiffellithus casulus,taxa
+Rucinolithus wisei,taxa
+Dinocysts reworked,taxa
+Triquetrorhabdulus challengeri,taxa
+Nuttallides umbonifer,taxa
+Rhizosolenia costata var. A,taxa
+Conorotalites,taxa
+Bolivina cf. robusta,taxa
+Scyphosphaera lagena,taxa
+Ticinella madecassiana,taxa
+Pterocanium korotnevi,taxa
+Synedra ulna,taxa
+Globorotalia miocenica,taxa
+Fohsella lobata,taxa
+Thalassiosira aff. Inura,taxa
+Globigerina umbilicata,taxa
+Gyroidinoides subangulatus,taxa
+Elphidium macellum,taxa
+Trifarina angulosa,taxa
+Globoquadrina conglomerata,taxa
+Spiroplectella earlandi,taxa
+Neogloboquadrina incompta (sinsitral),taxa
+Tristix sp.,taxa
+Siphogenerina indica,taxa
+Picea,taxa
+Trifarina carinata,taxa
+Astacolus crepidulus,taxa
+Planorbulinella zelandica,taxa
+Phormostichoartus fistula,taxa
+Verneuillina sp.,taxa
+Broinsonia viriosa,taxa
+Dendrospyris sp.,taxa
+Tritaxia sp.,taxa
+Cibicidoides mundula,taxa
+Discoaster brouwerii,taxa
+Muricohedbergella hoelzli,taxa
+Helicosphaera ampliaperta,taxa
+Discoaster nobilis,taxa
+Lagena elongata,taxa
+Hemiaulus polycystinorum,taxa
+Preservation,taxa
+reworked taxa,taxa
+Clathrocyclas australis,taxa
+Proboscia inermis,taxa
+Tritaxis fusca,taxa
+Coccolithus eopelagicus,taxa
+Globorotalia hirsuta,taxa
+Siphonodosaria subtertenuata,taxa
+Bolivinella elegans,taxa
+Textularia lythostrota,taxa
+Cavitatus spp.,taxa
+Truncorotalia crassula     (cf.),taxa
+Eucyrtidium mitodes n. sp.,taxa
+Bacteriastrum sp.,taxa
+Siphogenerinoides spp.,taxa
+Globorotalia juanai,taxa
+Eucyrtidium diaphanes,taxa
+Bolivinellina translucens,taxa
+Fasciculithus lilianae,taxa
+Helicosphaera acuta,taxa
+Discorbinella sp. 1,taxa
+Planorotalites pseudoscitula,taxa
+Impagidinium patulum,taxa
+Miliolid taxa,taxa
+Globigerina druryi,taxa
+Globorotalia cibaoensis _T and B_ _PL1b_,taxa
+Siphocampe arachnea group,taxa
+Lophocyrtis pegetrum,taxa
+Thalassiosira sp.,taxa
+Discoaster stellulus,taxa
+Corollithion kennedyi,taxa
+Triquetrorhabdulus longus,taxa
+Lamprocyrtis heteroporos,taxa
+Achnanthes diapar,taxa
+Rectobolivina maoria,taxa
+Spiroplectammina spectabilis,taxa
+Hemiaulus danicus,taxa
+Psilocitharella,taxa
+Neogloboquadrina inglei,taxa
+Ammonia tepida,taxa
+Globorotaloides variabilis,taxa
+Globigerinatheka barri,taxa
+Additional zone name (short),taxa
+Neogloboquadrina acostaensis _B_ _M13a_,taxa
+Tenuitella munda _T_,taxa
+Eiffellithus equibiramus,taxa
+Datum group,taxa
+Lenticulina orbicularis,taxa
+Denticulopsis delicata,taxa
+Subbotina utilsindex,taxa
+Cruciplacolithus tenuis,taxa
+Arenobulimina ?,taxa
+Sphaerogypsina globulus,taxa
+Reticulofenestra sp. (<3 microns),taxa
+Globorotalia multicamerata _T_,taxa
+Podocyrtis trachodes,taxa
+Nodosaria velascoensis,taxa
+Discoaster calculosus,taxa
+Globanomalina sp.,taxa
+Asteromphalus robustus,taxa
+Nonionella pulchella,taxa
+Awhea spp.,taxa
+Sphaeroidinellopsis hancocki,taxa
+Pollen/spores reworked,taxa
+Bolivina reticulata,taxa
+Fragilariopsis maleinterpretaria,taxa
+Catapsydrax dissimilis,taxa
+Globoconella conomiozea,taxa
+Umbilicosphaera sibogae var. foliosa,taxa
+Toweius spp.,taxa
+Discoaster brouweri,taxa
+Scyphosphaera intermedia,taxa
+Shionodiscus sp. Exp 318,taxa
+Rocella praenitida,taxa
+Fragilariopsis clementia,taxa
+Globotruncanella petaloidea,taxa
+Pulleniatina praespectabilis,taxa
+Nonionella iridea,taxa
+Discoaster elegans,taxa
+Prediscosphaera cretacea,taxa
+Selenopemphix brinkhuisii,taxa
+Astrononion parki,taxa
+Neogloboquadrina sp.,taxa
+Gyroidina orbicularis,taxa
+Actinomma leptodermum,taxa
+Plectofrondicularia sp.,taxa
+Peripyramis circumtexta,taxa
+Taraxacum,taxa
+Virgulinella spp.,taxa
+Globigerina aequilateralis,taxa
+Truncorotalia crassaconica     (cf.) (DEX),taxa
+Helicosphaera wallichii,taxa
+Sethochytris bablylonis,taxa
+Pleurostomella acuta,taxa
+fossil_group,taxa
+Brigantedinium pyinei,taxa
+Spongatractus balbis,taxa
+Notoplanulina rakauraoana,taxa
+Ulmus,taxa
+Evolvocassidulina spp.,taxa
+Lucianorhabdus maleformis,taxa
+Subbotina linaperta s.l.,taxa
+Thiersteinia ecclesiastica,taxa
+Umbilicosphaera bramlettei,taxa
+Globigerina angustiumbilicata,taxa
+Cyclicargolithus cf. floridanus,taxa
+Euphorbia,taxa
+Globigerinelloides paragottisi,taxa
+Subbotina velascoensis,taxa
+Operculodinium janduchenei,taxa
+Zeugrhabdotus sigmoides,taxa
+Dicarinella concavata,taxa
+Eilohedra rotunda,taxa
+Reinhardtites levis,taxa
+Pyrgo lucernula,taxa
+Calcidiscus premacintyrei,taxa
+Skeletonemopsis barbabadensis,taxa
+Coscinodiscus decrescens,taxa
+Lophophaena sp.,taxa
+Selenopemphix sp. 1,taxa
+Oolina laevigata,taxa
+Hyperammina spp.,taxa
+Euuvigerina spp.,taxa
+Borelis spp.,taxa
+Acarinina bullbrooki,taxa
+Antarctissa deflandrei,taxa
+Fohsella peripheroronda _T_,taxa
+Amphisphaera goruna,taxa
+Anomalacantha dentata,taxa
+Lamprocyclas junonis,taxa
+Reticulofenestra pseudoumbilicus (5-7 µm),taxa
+Goniothecium odontella,taxa
+count_type,taxa
+fungal spores,taxa
+Aragonia tenera,taxa
+Hedbergella delrioensis,taxa
+Bekoma campechensis,taxa
+Dorcadospyris copelata n. sp.,taxa
+Discoaster hamatus/bellus,taxa
+Gyroidina gemma,taxa
+Reticulofenestra stavensis,taxa
+Dentoglobigerina baroemoensis,taxa
+Sphenolithus calyculus,taxa
+Rouxia heteropolara,taxa
+Bolivinita pliozea,taxa
+Podocyrtis sinuosa,taxa
+Thalassiosira convexa var. aspinosa,taxa
+Gyraffospyris angulata,taxa
+Uvigerina graciliformis,taxa
+Uniplanarius,taxa
+Shionodiscus oestrupii,taxa
+Arenobulimina sp.,taxa
+Helicosphaera stalis,taxa
+Globanomalina compressa,taxa
+Thalassiosira torokina,taxa
+Pseudoemiliania lacunosa,taxa
+Cribrocorona gallica,taxa
+Monolete ornamented,taxa
+Toweius occultatus,taxa
+Aulacoseira granulata,taxa
+Bolivina/Brizalina spp.,taxa
+Siphonina pozonensis,taxa
+Phormocyrtis alexandrae,taxa
+Theocyrtis careotuberosa n. sp.,taxa
+Orthomorphina challengeriana,taxa
+Dictyocorine profunda,taxa
+Coscinodiscus nodulifer,taxa
+Hedbergella rischi,taxa
+Dentalina,taxa
+Acrobotrys tritubus,taxa
+"Turborotalia pomeroli (Toumarkine & Bolli), 1970",taxa
+Neogloboquadrina kagaensis,taxa
+Thalassionema schraderi,taxa
+Quadrimorphina,taxa
+Spirolectinella,taxa
+Neolenticulina variabilis,taxa
+Stilodictya validispina,taxa
+Phormocyrtis spp.,taxa
+Pteroscenium pinnatum,taxa
+Stylodictya arachnia,taxa
+Globigerinoides obliquus _T_,taxa
+Lenticulina,taxa
+Lithoptychius ulii,taxa
+Robertina sp. A,taxa
+Globorotalia (Hirsutella) margaritae,taxa
+Notorotalia zelandica,taxa
+Radiolarian fragments,taxa
+Marssonella trochoides,taxa
+Gyroidinoides lenticulus,taxa
+Gyroidinoides globosa,taxa
+Hemiaulus incisus,taxa
+Tamarix,taxa
+Lychnocanium waiareka,taxa
+Saracenaria altifrons,taxa
+Dextral:Sinistral _P. spectabilis_,taxa
+Globorotaloides eovariabilis,taxa
+Dorcadospyris cyclacantha n. sp.,taxa
+Actinocyclus sp. cf. tsugaruensis,taxa
+Dicarinella hagni,taxa
+Markalius astroporus,taxa
+Acrosphaera sp.,taxa
+Cribrosphaerella ehrenbergii,taxa
+Cenosphaera coronata,taxa
+Holodiscolithus macroporus,taxa
+Azpeitia barronii,taxa
+Uvigerina aculeata,taxa
+Globorotalia (Menardella) cultrata,taxa
+Abundance,taxa
+Orthorhabdus rugosus,taxa
+Nannotetrina alata,taxa
+Blackites inflatus,taxa
+Parvularugoglobigerina alabamensis,taxa
+Microrhabdulus spp.,taxa
+Acarinina nitida,taxa
+Bolivina byramensis,taxa
+Biloculina sp.,taxa
+Notorotalia sp.,taxa
+Trinacria spp.,taxa
+Globorotalia inflata,taxa
+Globigerina eamesi,taxa
+Laevidentalina aphelis,taxa
+Cyclorbiculina compressa,taxa
+Spongoplegma sp.,taxa
+Globorotalia (Hirsutella) cibaoenisis,taxa
+Nitzschia fossilis,taxa
+Globigerinita boweni,taxa
+Piece,taxa
+Fragilariopsis truncata,taxa
+Rhagodiscus robustus,taxa
+Pyrulina? angusta,taxa
+Cruciplacolithus primus,taxa
+Actinocyclus maccollumii,taxa
+Arkhangelskiella maastrichtiensis,taxa
+Alveus marinus,taxa
+Nonion commune,taxa
+Helicosphaera intermedia,taxa
+Ship File Links,taxa
+Trifarina ototara,taxa
+Globoturborotalita obliquus,taxa
+Praeglobotruncana delrioensis,taxa
+Fragmentation,taxa
+Globigerinoides conglobatus _B,taxa
+Praeorbulina curva _B,taxa
+"Gephyrocapsa oceanica (Large, Diagonal bridge)",taxa
+Clavulina sp.,taxa
+Reticulofenestra callida,taxa
+Thalassiosira gersondei,taxa
+Triloculina rotunda,taxa
+Globorotalia exilis,taxa
+Globorotalia birnageae,taxa
+Stylodictya tenuispina,taxa
+Lithelius sp. A,taxa
+Elphidium saginatum,taxa
+Lophospyris pentagona pentagona?,taxa
+Astalocus bradyi,taxa
+Reussoolina,taxa
+Globigerina conglomerata,taxa
+Paragloborotalia mayeri _T_ _M12,taxa
+Proxifrons inaequalis,taxa
+Fragilariopsis ritscheri,taxa
+Sphaeroidinella excavata,taxa
+Globigerinatheka index,taxa
+Lenticulinella sp.,taxa
+Bulimina triangularis,taxa
+Helicosphaera walbersdorfensis,taxa
+Neobiscutum spp.,taxa
+Reticulofenestra rotaria,taxa
+Helicosphaera kamptneri,taxa
+Anthocyrtella (?) callopisma,taxa
+Reticulofenestra pseudoumbilicus (>7 um),taxa
+Staurolithites siesseri,taxa
+Globoconella mons,taxa
+Reticulofenestra minuta (<3µm),taxa
+Globoconella triangula     (cf.),taxa
+Elphidium novozealandicum,taxa
+Helicosphaera spp. (Negoene),taxa
+Triloculina trigonula,taxa
+Pyrgo murrinha,taxa
+Corbisema hastata hastata,taxa
+Planoglobulina multicamerata,taxa
+Planorbulinella larvata,taxa
+Dictyococcites bisectus (>10 microns),taxa
+Rossiella tatsunokuchiensis,taxa
+Cassidulinoides tenuis,taxa
+Amphora sp.,taxa
+Schyphosphaera spp.,taxa
+Turborotalia (Globorotalia) continuosa,taxa
+Cocconeis pseudomarginatus,taxa
+Hoeglundina sp.,taxa
+Dorcadospyris circulus,taxa
+Dictyophimus craticula,taxa
+Dorothia exilis,taxa
+Lisitzinia ornata,taxa
+Spongodiscus sp.,taxa
+Melonis affine,taxa
+Rhagodiscus achylostaurion,taxa
+Pyrgo sp.,taxa
+Hyalodiscus spp.,taxa
+Blackites creber,taxa
+Recurvoides spp.,taxa
+Porosira glaciais,taxa
+Bolivina translucens,taxa
+Discoaster sublodoensis,taxa
+Lithopera renzae,taxa
+Epistominella vitrea,taxa
+Dictyococcites spp. (medium),taxa
+Watznaueria barnesae,taxa
+Coscinodiscus sp. A MSSTS,taxa
+Gavelinopsis praegeri,taxa
+Scyphosphaera pulcherrima,taxa
+Acarinina pseudotopilensis,taxa
+Lamptonium sanfilippoae,taxa
+Truncorotaloides rohri,taxa
+Acrosphaera? labrata,taxa
+Arachnodiscus ehrenbergi,taxa
+Berthelina sp. 2,taxa
+Actinocyclus subtilis,taxa
+Elphidium hampdenense,taxa
+Whiteinella brittonensis,taxa
+Paragloborotalia continuosa,taxa
+Coccolithus pelagicus spp. azorinus,taxa
+Pulleniatina primalis  _Tand B,taxa
+Cycladophora golli regipileus,taxa
+Epistominella sp.,taxa
+Martinotiella spp.,taxa
+Cycloclypeus? sp.,taxa
+Paragloborotalia semivera (D),taxa
+"Heliodiscus asteriscus Haeckel, 1887",taxa
+Stainforthia sandiegoensis,taxa
+Globigerinelloides bollii,taxa
+Hyalinea balthica,taxa
+Fissurina marginata,taxa
+Remesella,taxa
+Corylus,taxa
+Gyroidina obicularis,taxa
+Stilostomella consobrina,taxa
+Ceratocyrtis spp.,taxa
+Zeaglobigerina sp.,taxa
+Hemiaulus caracteristicus,taxa
+Theocotylissa ficus,taxa
+Datum name generic,taxa
+Globorotalia flexuosa,taxa
+Discoaster moori,taxa
+Fohsella fohsi _T and B_ _M10 and M9a_,taxa
+Dictyococcites haqii,taxa
+Pulleniatina spectabilis,taxa
+Chrysalogonium spp.,taxa
+Dactylacanthis spp.,taxa
+Didymocyrtis tetrathalamus  tetrathalamus,taxa
+Uvigerina cf. hispida,taxa
+Globorotalia iwaiensis,taxa
+Calcareous gen. et sp. indet.,taxa
+Diatom abundance,taxa
+Theocorythium trachelium,taxa
+Discoaster blackstockae,taxa
+Gansserina gansseri,taxa
+Pterocorys group,taxa
+Thecosphaera akitaensis,taxa
+Lucianorhabdus cayeuxii,taxa
+Globotruncana bulloides,taxa
+Acrosphaera spinosa fasciculopora,taxa
+Planorbulina sp.,taxa
+Helicosphaera pavimentum,taxa
+Chiastozygus,taxa
+Speetonia colligata,taxa
+Dorcadospyris ombros n. sp. (upper),taxa
+Trochammina(?) sp.,taxa
+Neogloboquadrina humerosa _B,taxa
+Cocconeis costata,taxa
+Neochiastozygus perfectus,taxa
+Osangularia cf. schoenbachi,taxa
+Globocassidulina spp.,taxa
+Eucyrtidium plesiodiaphanes,taxa
+Aulacodiscus brownei,taxa
+Eiffellithus vonsalisiae,taxa
+Nodosariids,taxa
+Acarinina pentacamerata,taxa
+Prunopyle titan,taxa
+Theocorys spongoconus,taxa
+Neochiastozygus rosenkrantzii,taxa
+Sphaeroidinella dehiscens sensu lato _B_,taxa
+Planospirina spp.,taxa
+Globigerinatella insueta,taxa
+"""Globigerina"" ciperoensis _T_",taxa
+Reticulofenestra pseudoumbilicus  (5-7µm),taxa
+Cibicidoides cf. havanensis,taxa
+Globobulimina turgida,taxa
+Stylodictya aculeata,taxa
+Dictyococcites spp. (small),taxa
+Lithelius barbatus,taxa
+Zone author (year),taxa
+Pontosphaera exilis,taxa
+Tenuitella gemma,taxa
+Fissurina alveolata,taxa
+Lychnocanoma bellum,taxa
+Paralia clavigera,taxa
+Buryella clinata,taxa
+Nodosaria,taxa
+Gephyrocapsa parallela,taxa
+Pulleniatina coiling (dextral),taxa
+Haplophragmoides walteri,taxa
+Cestodiscus pulchellus var. maculatus,taxa
+Denticulopsis praedimorpha,taxa
+Clathrocyclas universa,taxa
+Annellus californicus,taxa
+Rosalina bradyi,taxa
+Vaginulina sp.,taxa
+Lychnocanium grande,taxa
+Subbotina roesnaesensis,taxa
+Globorotalia (Forsella) fohsi lobata,taxa
+Pontosphaera discopora,taxa
+Discoaster wemmelensis,taxa
+Biantholithus? flosculus,taxa
+Neocrepidolithus watkinsii,taxa
+Acarinina topilensis,taxa
+Gephyrocapsa oceanica (>5 micron),taxa
+Praebulimina sp.,taxa
+Chiloguembelina wilcoxensis,taxa
+Globorotalia (Menardella) fimbriata,taxa
+Top Depth [m],taxa
+Globorotalia (Truncorotalia) tosaensis,taxa
+Genus and species indeterminate #1,taxa
+Other pollen,taxa
+Brigantedinium spp.,taxa
+Ceratocyrtis mashae,taxa
+Globigerina anguliofficinalis,taxa
+Pontosphaera latelliptica,taxa
+Globigerinelloides ultramicrus,taxa
+Sigmoilopsis schlumbergeri,taxa
+Pulleniatina primalis  _Tand B_,taxa
+Racemiguembelina fructicosa,taxa
+Sceptroneis sp. (small),taxa
+Truncorotalia crassaconica (SIN),taxa
+Hedera helix,taxa
+Coccolithus spp.,taxa
+Pleurostomella sp.,taxa
+Globigerinella siphonifera (aequilateralis),taxa
+Ammodiscus cretaceus,taxa
+Bolivina minuta,taxa
+Amphitetras spp.,taxa
+Actinocyclus endoi,taxa
+Stilostomella paleocenica,taxa
+Robertina spp.,taxa
+Azpeitia spp.,taxa
+Globigerinoides ruber _pink_ _T_,taxa
+No. specimens/tray,taxa
+Globulina sp.,taxa
+Ethmodiscus sp. fragments,taxa
+Lenticulina iota,taxa
+Globorotalia ikbei,taxa
+Discanomalina semipunctata,taxa
+Subbotina pseudoeocaena,taxa
+Stainforthia complanata,taxa
+Bekoma divaricata,taxa
+Broinsonia galloisii,taxa
+Patellinella spp.,taxa
+Tenuitella,taxa
+Morozovella crassata,taxa
+Ellipsolithus bollii,taxa
+Delphineis simonsenii,taxa
+Sphenolithus spiniger,taxa
+Chilostomella oolina,taxa
+Daphne,taxa
+Globigerinoidesella fistulosa _T and B_ _Pt1a_,taxa
+Coronocyclus nitescens,taxa
+Botryostrobus miralestensis,taxa
+Asteromphalus elegans,taxa
+Cibicides ihungia,taxa
+Cribrostomoides subglobosus,taxa
+"Neogloboquadrina pachyderma B (sinistral, inflated form)",taxa
+Umbilicosphaera foliosa,taxa
+Bolivina glutinata,taxa
+Recurvoides sp.,taxa
+Sphaeroidinellopsis paenedehiscens,taxa
+Actinocyclus robustus,taxa
+Spirotextularia spp.,taxa
+Cibicides robertsonianus,taxa
+Nonionellina labradorica,taxa
+Eiffellithus angustus,taxa
+Triloculinella obliquinodus,taxa
+Dyctiophimus butschlii,taxa
+Cycladophora  davisiana,taxa
+Thoracosphaera heimii,taxa
+Rhizosolenia spp. N/A,taxa
+Ehrenbergina pupa?,taxa
+Zeugrhabdotus scutula,taxa
+Bolivina seminuda,taxa
+Acarinina mckannai,taxa
+Pullenia elegans,taxa
+Discogypsina sp.,taxa
+Cyclammina incisa,taxa
+Naviculopsis foliacea,taxa
+Thalassiosira vulnifica,taxa
+Achnanthes lanceolata,taxa
+Neosphaera coccolithomorpha,taxa
+Cavitatus miocenica (Schrader),taxa
+Globorotalia theyeri,taxa
+Neodenticula kamtschatica,taxa
+Acrosphaera collina,taxa
+Discoaster tamalis,taxa
+Buliminella spp.,taxa
+Zygocircus cimelium,taxa
+Lejeunecysta cowiei,taxa
+Thalassiosira temperei,taxa
+Globigerinoides obliquus,taxa
+Axoprunum stauraxonium,taxa
+PF preservation,taxa
+"Neogloboquadrina pachyderma A (dextral, inflated form)",taxa
+Nitzschia spp.,taxa
+Acrosphaera inflata,taxa
+Anomalinoides spissiformis,taxa
+Denticulopsis crassa,taxa
+Menardella multicamerata,taxa
+Globorotalia excelsa _B_,taxa
+Textularia pseudogramen,taxa
+Gorkea spp.,taxa
+Furserkoina sp.,taxa
+Fohsella peripheroacuta,taxa
+Praeorbulina sicana _T and B_ _M5a_,taxa
+Heronallenia cf. polita,taxa
+Globorotalia (Menardella) archeomenardii,taxa
+Eucyrtidium nishimurae,taxa
+Discoaster adamanteus,taxa
+Discoaster spp. (Neogene),taxa
+Alabammina dissonata,taxa
+Globorotalia (Fohsella) peripheroacuta,taxa
+Vulvulina pennatula,taxa
+Nuttallinella sp.,taxa
+Cassidulina cuneata,taxa
+Gavelinopsis sp.,taxa
+Gaudryina pyramidata,taxa
+Lamaprocyrtis nigriniae,taxa
+Cibicides sp. 1,taxa
+Planularia australis,taxa
+Buliminella grata,taxa
+Hyperammina friabilis,taxa
+Saracenaria,taxa
+Thyrsocyrtis tensa,taxa
+Black phytoclasts,taxa
+Lophodolithus rotundus,taxa
+Chrysalogonium intertenuatum,taxa
+Pyrgo elongata,taxa
+Quinqueloculina exmouthensis,taxa
+Dictyocha deflandrei,taxa
+Organic matter,taxa
+Reticulofenestra sp. 1,taxa
+Globigerinoides bulloideus,taxa
+Octocyclus sp.,taxa
+Alabamina tenuimarginata,taxa
+Sliteria,taxa
+Cornuspira involvens,taxa
+Tetralithoides symeonidesii,taxa
+Denticulopsis  cf. katayamae,taxa
+Lithopera neotera,taxa
+Paragloborotalia pseudokugleri _T_,taxa
+Globigerinoides sicanus,taxa
+Clavulina subangularis,taxa
+Paragloborotalia acrostoma,taxa
+Karreriella novozealandica,taxa
+Uvigerina excellens,taxa
+Taxodiaceae/Cupressaceae,taxa
+Globorotalia (Globoconella) inflata,taxa
+Algirosphaera robusta,taxa
+Gephyrocapsa spp. (large >5.5 microns),taxa
+Siphogenerina columellaris,taxa
+Trilobatus trilobus,taxa
+Eggerella spp.,taxa
+Anomalinoides fasciatus,taxa
+Globoturborotalita decoraperta _T and B,taxa
+Stillostomellids,taxa
+Globorotalia (Menardella) limbata,taxa
+Elatomma penicillus,taxa
+Haplophragmoides spp.,taxa
+Coccolithus braarudii,taxa
+Siphogeneria raphana,taxa
+Frondricularia spp.,taxa
+Heterohelix navarroensis,taxa
+Anthocyrtidium sp.,taxa
+Epithemia argus,taxa
+Sphaeroidinella dehiscens,taxa
+Fragilariopsis doliolus,taxa
+Menardella menardii,taxa
+Staurolithites,taxa
+Heliolithus kleinpellii,taxa
+Karreriella chapapotensis,taxa
+Globoquadrina altispira altispira,taxa
+Dictyococcites bisectus (>10µm),taxa
+Microhedbergella pseudoplanispira,taxa
+Tenuitella clemenciae,taxa
+Alnus,taxa
+Delphineis spp.,taxa
+Epistominella spp.,taxa
+Hexacontium laevigatum,taxa
+Podocyrtis chalara,taxa
+Siphostichoartus corona,taxa
+Nuttallides umbonifera,taxa
+Acarinina coalingensis,taxa
+Pontosphaera millepuncta,taxa
+Phormocyrtis proxima,taxa
+Fursenkoina fusiformis,taxa
+Pontosphaera punctosa,taxa
+Pterotheca sp. A of Scherer et al. 2001,taxa
+Stephanopyxis turris,taxa
+Bolivina sp. (smooth flat),taxa
+Sphenolithus pseudoheteromorphus,taxa
+Bacteriastrum furcatum,taxa
+Glencoeleberis? sp.,taxa
+Rzehakina spp.,taxa
+Calcarina calcar,taxa
+Gephyrocapsa (<4 µm),taxa
+Temperature Range,taxa
+Cribrononion sp.,taxa
+Sample,taxa
+Chiasmolithus californicus (>13µm),taxa
+Stainforthia fusiformis,taxa
+Rouxia spp.,taxa
+Rotalipora greenhornensis,taxa
+Globigerina (Zeaglobigerina) decoraperta,taxa
+Tristylospyris triceros,taxa
+Lychnocanoma elongata,taxa
+Distephanus speculum,taxa
+Microrhabdulus decoratus,taxa
+Peneroplis pertusus,taxa
+Eucyrtidium pseudoinflatum,taxa
+Vaginulinopsis sp.,taxa
+Brizalina striatula,taxa
+Reticulofenestra cisnerosii,taxa
+Azpeitia aeginensis,taxa
+Sphenolithus predistentus,taxa
+Denticulopsis dimorpha var. areolata,taxa
+Phormostichoartus doliolum,taxa
+Theocalyptra davisiana,taxa
+Dentoglobigerina globosa,taxa
+Stichocorys spp. group,taxa
+Phorticium polycladum,taxa
+Rhabdammina? sp.,taxa
+Guttulina yabei,taxa
+Nitzschia capuluspalae,taxa
+Neogloboquadrina praeatlantica,taxa
+Gavelinella cf. stellula,taxa
+Benthic Foraminifera group,taxa
+Actinoptychus spp.,taxa
+Araniscus lewisianus,taxa
+Catapsydrax stainforthi,taxa
+Sphenolithus pospichalii,taxa
+Actinocyclus ellipticus f. lanceolata,taxa
+Rhomboaster calcitrapa,taxa
+Sphenolithus arthurii,taxa
+Coscinodiscus radiatus,taxa
+Lejeunecysta fallax,taxa
+Eoglobigerina spiralis,taxa
+Fohsella fohsi fohsi,taxa
+Paragloborotalia semivera,taxa
+Sagrinella spp.,taxa
+Gaudryina sp. cf. retusa,taxa
+Trinacria excavata,taxa
+Sphenolithus orphanknollensis,taxa
+Calciosolenia brasiliensis,taxa
+Cibicidoides subhaidingerii,taxa
+Pinnularia borealis,taxa
+Planoheterohelix moremani,taxa
+Minylitha convallis,taxa
+Morozovella angulata,taxa
+Fragmentation rank [auto-pop],taxa
+Globigerinoides ruber,taxa
+Rouxia sp. spatulate long heteropolar (MIS),taxa
+Clinorhabdus anantomus,taxa
+Gyroidinoides zelandicus,taxa
+Paragloborotalia kugleri _T and B_,taxa
+Cancris auriculus,taxa
+Pullenia subcarinata,taxa
+Actinocyclus moronensis,taxa
+Cibicidoides aff. laurisae,taxa
+Actynocyclus cf. aff. karstenii,taxa
+Bomolithus elegans,taxa
+Prediscosphaera columnata,taxa
+Thalassiosira sp.4,taxa
+Globoquadrina dehiscens _B and T_,taxa
+Xanthiopyxis sp.,taxa
+Zeugrhabdotus xenotus,taxa
+Bolivina aliformis,taxa
+Eubuliminella exilis,taxa
+Vulvulina bortonica,taxa
+Sigmoidella elegantissima,taxa
+Discoaster musicus,taxa
+Bulimina sp.,taxa
+Betula,taxa
+Pseudosolenia calcar-avis,taxa
+Thalassiothrix robusta,taxa
+Sigmavirgulina tortuosa,taxa
+Globoconella puncticuloides (vaulted),taxa
+Acarinina esnehensis,taxa
+Acrosphaera trepanata,taxa
+Heliodiscus asteriscus,taxa
+Nannofossil abundance,taxa
+Small Gephyrocapsa spp.,taxa
+Nitzschia jouseae,taxa
+Reticulofenestra pseudoumbilicus (5-7 um),taxa
+Stainforthia exilis var. tenuata,taxa
+Zygrhablithus bijugatus,taxa
+Girgisia gammation,taxa
+Discoaster neohamatus,taxa
+Theocorythium vetulum,taxa
+Centrobotrys gravida,taxa
+Octopyle/Tetrapyle Group,taxa
+Operculodinium sp.,taxa
+Globigerinoides altiaperturus,taxa
+Nonionella turgida,taxa
+Ammodiscus spp.,taxa
+Bacteriosira fragilis,taxa
+Myllostomella huygaensis,taxa
+Microhedbergella sp.,taxa
+Podocyrtis fasciolata,taxa
+Dictyophimus hirundo,taxa
+Truncorotalia crassacarinina (DEX),taxa
+Globorotalia conica,taxa
+Bulimina costata,taxa
+Calocyccletta costata,taxa
+Thalassiosira mediaconvexa,taxa
+Rhizosolenia hebetata f. semispina,taxa
+Turborotalia frontosa,taxa
+Acarinina quetra,taxa
+Lophospyris pentagona hyperborea,taxa
+Collonosphaera huxleyi,taxa
+Bulimina glomarchallengeri,taxa
+Rhaphoneis fossile,taxa
+Globigerinoides altiaperturus _B,taxa
+Amphistegina sp.,taxa
+Textularia catenata,taxa
+Rouxia antarctica,taxa
+Fohsella robusta _B_ _M9b,taxa
+Amaurolithus delicatus,taxa
+"Reticulofenestra ""small""",taxa
+Hyaline indet.,taxa
+Actinocyclus ochotensis,taxa
+Gephyrocapsa sp. (>5.5 microns),taxa
+Dentoglobigerina altispira _T_ _PL5,taxa
+Ticinella primula,taxa
+Ellipsoidina sp.,taxa
+Lychnocanium amphitrite,taxa
+Rotelapillus laffittei,taxa
+Globigerina ouachitaensis,taxa
+Theocotyllissa ficus,taxa
+Martinottiella hosoyaensis,taxa
+Pararotalia spp.,taxa
+Fragilariopsis januaria,taxa
+Hayella challengeri,taxa
+Chiasmolithus oamaruensis,taxa
+Coscinodiscus spp.,taxa
+Pulleniatina primalis,taxa
+Acrosphaera? mercurius,taxa
+Loxostomum truncatum,taxa
+Valvulineria,taxa
+Tube-shaped agglutinated forms,taxa
+Tricolulina sp.,taxa
+Discoaster delicatus,taxa
+Phormocyrtis striata striata,taxa
+Amphisphaera coronata s.l.,taxa
+Cibicides refulgens,taxa
+Scyphosphaera globulata,taxa
+Cylindralithus nudus,taxa
+Zone comment,taxa
+Praeobulina glomerosa,taxa
+Paragloborotalia mayeri (S),taxa
+Thalassionema nitzschioides var. inflatum,taxa
+Lejeunecysta sp.,taxa
+Notorotalia uttleyi,taxa
+Rhabdosphaera sicca,taxa
+Whiteinella aumalensis,taxa
+Prediscosphaera stoveri,taxa
+Globoquadrina globularis,taxa
+Parvicarinina alticamerata,taxa
+Uniplanarius sissinghii,taxa
+Uvigerina canariensis,taxa
+Globigerinoides sacculifer,taxa
+Globorotalia pseudomiocenica _T_ _PL6_,taxa
+Acarinina densa,taxa
+Deflandrea phosphoritica,taxa
+Calloneis bacillum,taxa
+Sphenolithus akropodus,taxa
+Chiasmolithus consuetus,taxa
+Acarinina acarinata,taxa
+Denticulopsis crassa (closed copula),taxa
+Karreriella chilostoma,taxa
+Pterocorys campanula,taxa
+Cyclicargolithus floridanus,taxa
+Neobulimina canadaensis,taxa
+Bolivinita pohana,taxa
+Gephyrocapsa spp. (small <3.5 microns),taxa
+Cibicides novozelandicus,taxa
+Calluna,taxa
+Globorotalia scitula,taxa
+Gyphyrocapsa oceania,taxa
+Corbisema flexuosa,taxa
+Thalassiosira spinosa,taxa
+Cyclammina amplectens,taxa
+Dentoglobigerina venezuelana,taxa
+Lithelius barbatus Motoyama,taxa
+Valerianaceae,taxa
+Ceratolithoides kamptneri,taxa
+Globorotalia truncatulinoides (dex),taxa
+Cassidulina crassa,taxa
+Spongurus pylomaticus,taxa
+Velicucullus sp. cf. oddgurneri,taxa
+Globorotalites sp.,taxa
+Bolivina sp. (crenulate),taxa
+Globanomalina ehrenbergi,taxa
+Laeviheterohelix dentata,taxa
+Thalassiosira sp.6,taxa
+Thalassiosira bioculata,taxa
+Pseudammodochium lingii,taxa
+Rouxia diploneides,taxa
+Centrobotrys petrushevskayae,taxa
+Shionodiscus spp.,taxa
+Syracosphaera pulchra,taxa
+Subbotina hornibrooki,taxa
+Pyrgoella sp.,taxa
+Axoprunum sp. ?,taxa
+Marginulina spp.,taxa
+Argilloecia spp.,taxa
+Pontosphaera sp.,taxa
+Morozovella pasionensis,taxa
+Odontella spp.,taxa
+Quadrum gartneri,taxa
+Costellagerina pilula,taxa
+Sphenolithus furcatolithoides morph A,taxa
+Nitzschia bicapitata,taxa
+Cussia lancettula,taxa
+Neogloboquadrina pachyderma,taxa
+Pyrgo subsphaerica,taxa
+Labl ID,taxa
+Catapsydrax taroubaensis,taxa
+Sphenolithus spp.,taxa
+Morozovella gracilis,taxa
+Acrosphaera spinosa echinoides,taxa
+Trilobatus trilobus _B_,taxa
+Dictyococcites productus,taxa
+Bolivinopsis compta,taxa
+Actinomma boreale,taxa
+Ramulina,taxa
+Archaeoglobigerina blowi,taxa
+Azpeitia apiculata,taxa
+Diploneis elliptica,taxa
+Amphicraspedum murrayanum,taxa
+Discoaster sanmiguelensis,taxa
+Rhizosolenia sp. C,taxa
+Planulina sp.,taxa
+Neochiastozygus modestus,taxa
+Whiteinella paradubia,taxa
+Elphidiella sp.,taxa
+Falsotruncana maslakovae,taxa
+Discoaster salisburgensis,taxa
+Laevidentalina sp.,taxa
+Broinsonia parca ssp expansa,taxa
+Vertebralina sp.,taxa
+Zone name,taxa
+Theocyrtis setanios n. sp.,taxa
+Globotruncanita stuarti,taxa
+Helicosphaera vedderi,taxa
+Catapsydrax unicavus,taxa
+Globorotalia peripheroacuta,taxa
+Anomalina praeacuta,taxa
+Fohsella peripheroacuta _B_,taxa
+Virgulopsis spp.,taxa
+Solenosphaera omnitubus omnitubus,taxa
+Trochammina globigeriniformis,taxa
+Hantkenina spp.,taxa
+Hantkenina dumblei,taxa
+Discoaster pentaradiatus,taxa
+Stichocorys seriata,taxa
+Biscutum spp.,taxa
+Denticulopsis hustedtii (elliptical),taxa
+Fasciculithus shaubii,taxa
+Heterohelix punctulata,taxa
+Dicarinella canaliculata,taxa
+Marginotruncana coldreriensis,taxa
+Bacteriastrum spp.,taxa
+Martinottiella spp.,taxa
+Theocyrtis tuberosa,taxa
+Neoeponides spp.?,taxa
+Miliammina sp.,taxa
+Calcidiscus quadriperforatus,taxa
+Valvulineria glabra,taxa
+Others,taxa
+Globigerinopsis obesa,taxa
+Fasciculithus magnus,taxa
+Cyrtocapsella japonica,taxa
+Actinoptychus splendens,taxa
+Enneadocysta dictyostila,taxa
+Spiroplectammina steinekei,taxa
+Siphonina sp.,taxa
+Tappanina laciniosa,taxa
+Nodosarella robusta,taxa
+Subbotina corpulenta (Subbotina) 1953 p 76-78 pl IX figs 5-7 pl X figs 2-4,taxa
+Euuvigerina bortotara,taxa
+Textularia secasensis,taxa
+Chiasmolithus solitus,taxa
+Cassidulina spp.,taxa
+Lychnocanoma parallelipes,taxa
+Nitzschia panduriformis var. minor,taxa
+Neorotalia spp.,taxa
+Cribromiliolinella sp.,taxa
+Ceratobulimina jonesiana,taxa
+Eucyrtidium matuyamai,taxa
+Quinqueloculina neocostata,taxa
+other pollen,taxa
+Buryella pentadica,taxa
+Globorotalia archeomenardii _T and B,taxa
+Pseudouvigerina spp.,taxa
+Bolivinita quadrilatera,taxa
+Cornuspira sp.,taxa
+Fragilariopsis linearis,taxa
+Dentalina spp.,taxa
+Thalassiosira mahoodii,taxa
+Globorotalia lenguaensis,taxa
+Globulotuba sp.,taxa
+Gyroidinoides depressus,taxa
+Cystophormis brevispina,taxa
+Nummulites sp.,taxa
+Cyclotella spp.,taxa
+Pleurostomella,taxa
+Hopkinsina mioindex,taxa
+Praeorbulina curva,taxa
+Cycladophora conica,taxa
+Globigerinoides conglobatus,taxa
+Batiacasphaera sphaerica,taxa
+Catapsydrax africanus,taxa
+Cestodiscus spp.,taxa
+Discoaster bergenii,taxa
+Ammosphaeroidina pseudopauciloculata,taxa
+Cycladophora pliocenica,taxa
+Discoaster hamatus,taxa
+Larcopyle weddellium,taxa
+Globorotalia truncatulinoides (sin),taxa
+Neodenticula spp.,taxa
+Gephyrocapsa sp.,taxa
+Scyphosphaera spp.,taxa
+Globoconella zealandica,taxa
+Helicosphaera orientalis,taxa
+Catinaster calyculus,taxa
+Leptocylindrus spp.,taxa
+Dictyococcites antarcticus,taxa
+Anomalinoides semicribratus,taxa
+Eprolithus octopetalus,taxa
+Azpeitia salisburyana,taxa
+Asphodelus,taxa
+Globorotalia hirsuta (sin),taxa
+Planogypsina sp. 1,taxa
+Thalassiosira sp.5,taxa
+Elphidium excavatum,taxa
+Ethmodiscus sp.,taxa
+Fissurina cf. radiata,taxa
+Discoaster quinqueramus,taxa
+Saracenaria sp.,taxa
+Cibicidoides cf. ungerianus,taxa
+Martinotiella nodulosa,taxa
+Tryblionella spp.,taxa
+Cruciplacolithus intermedius,taxa
+Vaginulina subelegans,taxa
+Datum group code,taxa
+Carpocanopsis cingulata,taxa
+Discoaster saipanensis,taxa
+Bacterosira bathyomphala,taxa
+Pyrgo spp. N/A,taxa
+Sillicoflagellate abundance,taxa
+Myllostomella costai,taxa
+Guembelitrioides nuttali,taxa
+Dentalina ariena,taxa
+Globorotalia juanai _B,taxa
+Truncorotalia cavernula,taxa
+Pterocorys minythorax,taxa
+Cibicides spp.,taxa
+Parasubbotina pseudowilsoni,taxa
+Asterigerina spp.,taxa
+Haplophragmoides chapmani,taxa
+Coccolithus cachaoi,taxa
+Didymocyrtis tubaria,taxa
+Reticulofenestra haqii (<3 microns),taxa
+Gyroidinoides primitivus,taxa
+Cymatiosphaera brown sp. 4,taxa
+Coscinodiscus temperei var. delicata,taxa
+Lingulina seminuda,taxa
+Nuttallides truempyi,taxa
+Saturnalis circularis,taxa
+Cletocythereis rastromarginata,taxa
+Aster type,taxa
+Globigerina falconensis,taxa
+comments,taxa
+Reticulofenestra dictyoda,taxa
+Micula murus,taxa
+Nuttallides sp.,taxa
+Euuvigerina sp.,taxa
+Truncorotalia crassula     (cf.) (SIN),taxa
+Hanzawaia complanata,taxa
+Rosalina spp.,taxa
+Asteromphalus spp.,taxa
+Cushmanina striatopunctata,taxa
+Rhopalastrum profunda,taxa
+Nodosariid taxa,taxa
+Thalassiosira trifulta,taxa
+Calcidiscus macintyrei,taxa
+Cymatiosphaera sp.,taxa
+Loxostomum pseudobeyrichi,taxa
+Bogorovia veniamini,taxa
+Thalassiosira yabei,taxa
+Zeaglobigerina rubescens,taxa
+Thalassionema nitzschioides,taxa
+Spiroloculina spp.?,taxa
+Collosphaera  sp.,taxa
+Chiloguembelina midwayensis,taxa
+Carposphaera sp.,taxa
+Rouxia heteropolara var. A,taxa
+Chilostomellina frimbriata,taxa
+Lophocyrtis leptetrum,taxa
+Glomospira aff. charoides,taxa
+Chrysalogonium calomorphum,taxa
+Asteromphalus grevillei,taxa
+Thalassiosira sp.10,taxa
+Globigerinoides subquadratus _T_,taxa
+Marginotruncana coronata,taxa
+Nodosarids (elongate forms),taxa
+Praeglobobulimina ovata,taxa
+Bolivina robusta,taxa
+Operculina sp.,taxa
+Melonis maorica,taxa
+Technitella sp.,taxa
+Pulvinulina sp.,taxa
+Hirsutella panda,taxa
+Turborotalia pomeroli,taxa
+Sphenolithus capricornutus,taxa
+Thalassiosira complicata,taxa
+Hemiaulus peripterus var. peripterus,taxa
+Uvigerina spinulosa,taxa
+Cestodiscus trochus,taxa
+Thalassionema hirosakiensis,taxa
+Pulleniatina obliquiloculata,taxa
+Zeaglobigerina apertura,taxa
+Siphonina tenuicarinata,taxa
+Globoquadrina altispira globosa,taxa
+Reticulofenestra minuta,taxa
+Lucianorhabdus spp.,taxa
+Lithocyclia ocellus,taxa
+Calciosolenia fossilis,taxa
+Globocassidulina obtusa,taxa
+Pullenia coryelli,taxa
+Globigerinoides altiaperturus _B_,taxa
+Spiniferites mirabilis,taxa
+BF Group abundance,taxa
+Globoturborotalita connecta,taxa
+Stylodictya validispina,taxa
+Chilostomella spp.,taxa
+Pleurostomella recens,taxa
+Cocconeis spp.,taxa
+Foram abundance,taxa
+Cycladophora cornutoides,taxa
+Micula prinsii,taxa
+Acarinina soldadoensis,taxa
+Globigerina bulloides umbilicata,taxa
+Ceratolithus tricorniculatus,taxa
+Actinocyclus elongatus,taxa
+Spiroculina sp.,taxa
+Cassidulina delicata,taxa
+Valvulineria sp. 1,taxa
+Azpeitia africana (Janisch),taxa
+Sporomorphs,taxa
+Chiloguembelina trinitatensis,taxa
+Poaceae,taxa
+Siphonodosaria pomuligera,taxa
+Uvigerina bradyana,taxa
+Skeletonemopsis mahoodii,taxa
+Bacteriastrum hyalinum,taxa
+Pemma basquense,taxa
+Truncorotalia tosaensis,taxa
+Site,taxa
+Rectuvigerina rerensis,taxa
+Asterolampra grevillei,taxa
+Robertina bradyi,taxa
+small Gephyrocapsa (<4µm),taxa
+Turborotalita quinqueloba,taxa
+Asteromphalus flabellatus,taxa
+Pterocanium praetextum,taxa
+Fasciculithus richardii,taxa
+Lamprocyrtis nigriniae,taxa
+Discanomalina coronata,taxa
+Cupressaceae,taxa
+Neoeponides sp.,taxa
+Distephanus pseudofibulua,taxa
+Globorotalia praehumerosa,taxa
+Dictyocorine truncatum,taxa
+Sphenolithus neoabies,taxa
+Alveus marina,taxa
+Pseudodimerogramma elegans,taxa
+XBroken,taxa
+Parasubbotina pseudobulloides,taxa
+Taxus,taxa
+Stephanopyxis sp. C MSSTS,taxa
+Dicladia sp.,taxa
+Dispinodiscus sp.,taxa
+Calciosolenia sp.,taxa
+Aragonia ouezzanensis,taxa
+Textularia spp.,taxa
+Dicladia lorenzianus,taxa
+Bigenerina sp.,taxa
+Scyphosphaera apsteinii,taxa
+Buliminella parvula,taxa
+Chrysalogonium  equisetiformis,taxa
+Gartnerago segmentatum,taxa
+Globorotalia munda,taxa
+Globigerina (Zeaglobigerina) nepenthes,taxa
+Cibicidoides lobatulus,taxa
+Chiphragmolithus acanthodes,taxa
+Sphenolithus celsus,taxa
+Orthomorphina sp.,taxa
+Cancris inflatus,taxa
+Hyalodiscus obsoletus,taxa
+Cassidulinoides sp.,taxa
+Spinidinium schellenbergii,taxa
+Pseudoglandulina spp.,taxa
+Morozovella conicotruncata,taxa
+Epistominella exigua,taxa
+Clavihedbergella simplex,taxa
+Truncorotalia crassaconica     (cf.) (SIN),taxa
+Discoaster druggii (< 15 microns),taxa
+Siphonodosaria annulifera,taxa
+Thalassiosira aff. eccentrica,taxa
+Paralabamina elevata,taxa
+Rhabdosphaera tenuis,taxa
+Dorthia biformis,taxa
+Buliminella elegantissima,taxa
+Nannofossil comment,taxa
+Enneaphormis rotula,taxa
+Cymbaloporetta sp. 1,taxa
+Globorotalia fimbriata,taxa
+Nuttalides umbonifera,taxa
+pc_abundance_name_mode,taxa
+Acrosphaera murrayana,taxa
+Conglophragmium irregularis,taxa
+Calcidiscus pataecus,taxa
+Nonionella bradii,taxa
+Spongaster tetras,taxa
+Glomospira gordialis,taxa
+Discoaster bollii,taxa
+Globigerinella calida,taxa
+Nonionidae indet.,taxa
+Nannotetrina spp.,taxa
+Trifarina spp.,taxa
+Gavelinella,taxa
+Lamptonium fabaeforme fabaeforme,taxa
+Porosira pseudodenticulata,taxa
+Dictyocoryne sp.,taxa
+Stensioeina beccariiformis,taxa
+Acarinina primitiva,taxa
+Subbotina eocaena s.l.,taxa
+Cycladophora nakasekoi,taxa
+Septotextularia rugosa,taxa
+Loxostomum karrerianum,taxa
+Artobotrys biaurita,taxa
+Protoperidinium sp. 2,taxa
+Bottom[cm] [cm],taxa
+Globorotalia (Hirsutella) hirsuta,taxa
+Sphaeroidinellopsis kochi,taxa
+Ophthalmidium circularis,taxa
+Synedra jouseana,taxa
+Calcidiscus spp.,taxa
+"Parasubbotina inaquespira (Subbotina, 1953)",taxa
+Acrosphaera spinosa,taxa
+Asterolampra eximia,taxa
+Podocyrtis phyxis,taxa
+Cibicidoides pachyderma var. bathyalis,taxa
+Spongocore sp.,taxa
+Neocrepidolithus fossus,taxa
+Heliodiscus astericus,taxa
+Anthocyrtoma sp.,taxa
+File Data,taxa
+Praemurica taurica,taxa
+Euchitonia sp.,taxa
+Trochammina inflata,taxa
+Dentalina intorta,taxa
+Micula,taxa
+Pulleniatina primalis (S),taxa
+Echinidinium sp.,taxa
+Thalmanninella gandolfii,taxa
+Spiroloculina rotunda,taxa
+Quinqueloculina bradyana,taxa
+Eggerella sp.,taxa
+Pseudomicula quadrata,taxa
+Reticulofenestra dictyoda  (10-14µm),taxa
+Calocycletta caepa,taxa
+Rhagodiscus indistinctus,taxa
+Lychnocanoma auxilla,taxa
+Eprolithus eptapetalus,taxa
+Pseudohastigerina naguewichiensis,taxa
+Carpocanium rubyae,taxa
+Nephrolithus frequens,taxa
+Gavelinopsis lobatulus,taxa
+Neogloboquadrina continuosa,taxa
+Migros flintii,taxa
+Cyclicargolithus abisectus (11 µm),taxa
+Rouxia peragalli,taxa
+Morozovella crater,taxa
+Thalassiosira decipiens,taxa
+Clausicoccus spp.,taxa
+Spiroloculina spp.,taxa
+Buryella spp.,taxa
+Spongodiscus rhabdostylus,taxa
+Tenuitella munda,taxa
+Asterolampra acutiloba,taxa
+Biscutum coronum,taxa
+Globorotalia crassaformis crassaformis,taxa
+?Morozovella spp.,taxa
+Trochosira coronata,taxa
+Lamprocyclas particollis,taxa
+Tetrapyle octacatha,taxa
+Gartnerago nanum,taxa
+Anomalinoides ammonoides,taxa
+Bolivina spp.,taxa
+Eponides sp.,taxa
+Calciosolenia spp.,taxa
+Heterolepa sp.,taxa
+Dentalina flintii,taxa
+Palliolatella sp.,taxa
+Biscutum ellipticum,taxa
+Globoconella miozea (s.l),taxa
+Catapsydrax parvulus,taxa
+Eprolithus moratus,taxa
+Brown woody phytoclasts,taxa
+Eponides repandus,taxa
+Fragilariopsis pseudonana,taxa
+Didymocyrtis antipenultima,taxa
+Triceratium cinnamomeum var. minor,taxa
+Siphonaperta spp.,taxa
+Aragonia sp.,taxa
+Eponides concinnus,taxa
+Denticulopsis praedimorpha v. minor,taxa
+Archaeoglobigerina bosquensis,taxa
+Sethochytris triconiscus,taxa
+Fasciculithus involutus,taxa
+Asterolampra marylandica,taxa
+Thalassiosira brunii,taxa
+Pseudoclavulina juncea,taxa
+Prasinophytes,taxa
+Globotruncana neotricarinata,taxa
+Paragloborotalia kugleri _T and B_ _M2 and M1a_,taxa
+Globorotalia plesiotumida _B_ _M13b_,taxa
+Dictyoprora pirum,taxa
+Globigerinoides pyramidalis,taxa
+Globorotalia semivera,taxa
+Plectofrondicularia proparri,taxa
+Fasciculithus ullii,taxa
+Sphenolithus editus,taxa
+Reticulofenestra lockerii,taxa
+Uvigerina bifurcata,taxa
+Thalassiosira praeconvexa,taxa
+Pearsonites broedermanni,taxa
+Cymbalopora sp.,taxa
+"Dentoglobigerina galavisi (Bermudez), 1961 p 1183-1184 pl IV fig 3 as Globigerina",taxa
+Gyroidinoides orbicularis,taxa
+Sphenolithus delphix,taxa
+Ceratolithus acutus,taxa
+Discoaster triradiatus,taxa
+Truncorotalia truncatulinoides (SIN),taxa
+Discoaster diastypus,taxa
+Globorotalia hessi,taxa
+Gephyrocapsa oceanica (<5 micron),taxa
+Hymeniastrum sp.,taxa
+Helicosphera inversa,taxa
+Planulina wuellerstorfi >1000 m,taxa
+Aphetocyrtis gnomabax,taxa
+Spiroloculina sp.,taxa
+Pulleniatina obliquiloculata (D),taxa
+Reticulofenestra sp. (3-5 microns),taxa
+Retecapsa ficula,taxa
+Datum age average [Ma],taxa
+Hauerinella inconstans,taxa
+Planulina dohertyi,taxa
+Loxostomina cf. major,taxa
+Globigerinoides bolli,taxa
+Bulimina thanetensis,taxa
+Fragilariopsis robusta,taxa
+Globorotaloides testarugosa,taxa
+Thalassiosira burckliana,taxa
+Theocotyle venezuelensis,taxa
+Notorotalia kingmai,taxa
+Denticulopsis ichikawae,taxa
+Pleurostomella tenuis,taxa
+Globorotalia (Globorotalia) conoidea,taxa
+Hayesites albiensis,taxa
+Achnanthes sp.,taxa
+Nitzschia porteri,taxa
+Uvigerina elongatastriata,taxa
+Watznaueria fossacincta,taxa
+Age,taxa
+Lithopera bacca,taxa
+Eiffellithus perchnielseniae,taxa
+Pyrulina sp.,taxa
+Fragilariopsis praecurta,taxa
+Dextral:Sinistral _P. praespectabilis_,taxa
+Globorotaloides hexagonus,taxa
+Lagenids,taxa
+Anomalinoides sp. 1,taxa
+Euuvigerina miozea (group) >100 m,taxa
+Discoaster williamsii,taxa
+Coccolithus pelagicus spp. braarudii,taxa
+Osangularia plummerae,taxa
+Petrarhabdus copulatus,taxa
+Lophocyrtis jacchia,taxa
+Paragloborotalia mayeri,taxa
+Prediscosphaera spinosa,taxa
+Thalassiothrix spp.,taxa
+Helicosphaera inversa,taxa
+Globorotalia menardii,taxa
+Quinqueloculina lamarckiana,taxa
+Globotruncanella havanensis,taxa
+Clausicoccus fenestratus,taxa
+Navicula hennedyi,taxa
+Larcopyle hayesi,taxa
+Pulleniatina (D),taxa
+Rhopalodia gibberula,taxa
+Bigenerina spp.,taxa
+Lychnocanoma sakaii Morley and Nigrini,taxa
+Stichocorys wolffii,taxa
+Cibicidoides sp. 2,taxa
+Aragonia,taxa
+BF Preservation,taxa
+Prediscosphaera bukryi,taxa
+Stylacontarium acquilonium,taxa
+Carposphaera annikae,taxa
+Muricohedbergella holmdelensis,taxa
+Elphidiella spp.,taxa
+Silicoflagellates (all taxa),taxa
+Fohsella peripheroronda,taxa
+Acarinina cuneicamerata,taxa
+Peneroplis spp.,taxa
+Tritaxia,taxa
+Karrerulina sp. 1,taxa
+Pyramidina sp.,taxa
+Dactyliosolen antarcticus,taxa
+Bulimina trihedra,taxa
+Lophodolithus nascens,taxa
+Stylatractus santaeannae,taxa
+Nitzschia efferans,taxa
+Denticulopsis maccollumii,taxa
+PF group abundance,taxa
+Quinqueloculina akneriana,taxa
+Siphocampe? acephala,taxa
+Karreria cf. fallax,taxa
+Podocyrtis papalis,taxa
+Bulimina midwayensis,taxa
+Cribroloculina sp.,taxa
+Batiacasphaera sp.,taxa
+Nodosarella sp.,taxa
+Globigerinoides extremus _T and B,taxa
+Parasorites orbitoloides,taxa
+Globorotalia (Menardella) praemenardii,taxa
+Quercus evergreen type,taxa
+Thalassiosira fasciculata,taxa
+Cyrtopera languncula,taxa
+Zeugrhabdotus trivectis,taxa
+Fasciculithus tympaniformis,taxa
+Neoeponides margaritifer,taxa
+Trilobatus primordius,taxa
+Hirsutella scitula,taxa
+Mucronina acuta,taxa
+Carpocanistrum cephallum,taxa
+Globorotalia (Fohsella) praefohsi,taxa
+Paragloborotalia pseudocontinuosa (S),taxa
+Uvigerina elongata,taxa
+Hyalodiscus sp.,taxa
+Datum name,taxa
+Cibicidoides eocenicus,taxa
+Rhaphoneis amphiceros,taxa
+Spiniferites ramosus,taxa
+Triceratium cinnamomeum var. quadrangulata,taxa
+Truncorotalia crassula,taxa
+Nothofagus pollen,taxa
+Asteromphalus arachne,taxa
+Navicula spectabilis,taxa
+Globoconella triangula,taxa
+Pyramidulina spp.,taxa
+Guembelitria cenomana,taxa
+Calocycletta costata,taxa
+Pyrgoella irregularis,taxa
+Reticulofenestra small,taxa
+Globorotalia ichinosekiensis,taxa
+Discoaster kuglerii,taxa
+Hormosina trinitatensis,taxa
+Thalassiosira yabei var. elliptica,taxa
+Vulvulina zespinosa,taxa
+Dextral:Sinistral _P. finalis_,taxa
+Trochammina sp.,taxa
+PF Preservation,taxa
+Operculina ammonoides,taxa
+Diploneis smithii,taxa
+Liliasterites atlanticus,taxa
+"Reworking comment (1= <1%, 2= light 1-10%, 3= >10%)",taxa
+Agglutinated spp. (indeterminate),taxa
+Reticulofenestra oamaruensis,taxa
+Larcopyle quadrangula,taxa
+Rumex,taxa
+Chiasmolithus bidens,taxa
+Cibicidoides kullenbergi,taxa
+Rhizosolenia antennata var. semispina,taxa
+Guttulina communis,taxa
+Screptroneis hungarica,taxa
+Sigmoilopsis compressa,taxa
+Pleurostomella cf. alternans,taxa
+Pontosphaera versa,taxa
+Nodosaria albatrossi,taxa
+Fungal spores,taxa
+Stilostomella subspinosa,taxa
+Siphocampe? amygdala,taxa
+Praeorbulina glomerosa _B_ _M5b,taxa
+Stellarima stellaris,taxa
+Quadrimorphina sp.,taxa
+Saccammina sp.,taxa
+Planoglobulina acervulinoides,taxa
+Praemurica pseudoinconstans,taxa
+Beella digitata,taxa
+Misceomarginatus pleniporus,taxa
+Pyrgo comata,taxa
+Cibicides pachyderma,taxa
+Lychnocanomma nipponica sakaii,taxa
+Globigerinita iota,taxa
+Syracosphaera lamina,taxa
+Globigerinella aequilateralis,taxa
+Buliminella sp.,taxa
+Elphidium sp.,taxa
+Globorotalia cf. crassula,taxa
+Subreophax sp. cf. Subreophax scalaris,taxa
+Fragilariopsis rhombica,taxa
+Epistominella umbonifera ?,taxa
+Plectofrondicularia cf. kerni,taxa
+Nonion sp.,taxa
+Clinapertina subplanispira,taxa
+Stephanopyxis spinossima,taxa
+Clavulinoides sp.,taxa
+Actinoptychus senarius,taxa
+Rotelapillus crenulatus,taxa
+Thalassiosira poroseriata,taxa
+Parasubbotina varianta,taxa
+Eifellithus,taxa
+Reticulofenestra pseudoumbilicus (5-7 microns),taxa
+Actinocyclus ellipticus fa. lanceolata,taxa
+Uvigerina peregrina f. parvula,taxa
+Cancris oblonga,taxa
+Stilostomella subtertenuata,taxa
+Neobrunia mirabilis,taxa
+Stilostominella spp.,taxa
+Spongodiscus resurgens,taxa
+Rectobolivina bifrons,taxa
+Gephyrocapsa spp. (medium 4-5.5 microns),taxa
+Discoaster altus,taxa
+count,taxa
+Phorticium pylonium,taxa
+Anomalinoides rubiginosus,taxa
+Rectobolivina sp.,taxa
+Rhabdonema spp.,taxa
+Discoaster sp.,taxa
+Cyrtocapsella tetrapera,taxa
+Micula decussata,taxa
+Vaginulinopsis reinformis,taxa
+Cribrononion kerguelenense,taxa
+Neogloboquadrina pachyderma (sin.),taxa
+Thalassiosira eccentrica,taxa
+Hedbergella holmdelensis,taxa
+Carpocanistrum acutidentatum,taxa
+Corethron pennatum,taxa
+Gaudryina sp.,taxa
+Coccolithus pelagicus (w/bar),taxa
+Cistus,taxa
+Globigerinelloides prairiehillensis,taxa
+Zeaglobigerina nepenthes,taxa
+Globigerina ouachitensis,taxa
+Laticarinina sp.,taxa
+Bogorovia barronii,taxa
+Tympanomma sp.,taxa
+Sahulia barkeri,taxa
+Crassulaceae,taxa
+Pterocorys minythorax ?,taxa
+Melonis pompilioides,taxa
+Fohsella robusta _B_ _M9b_,taxa
+Igorina broedermanni,taxa
+Staurolithites mutterlosei,taxa
+Globigerinoides subquadratus,taxa
+Anthocyrtidium jenghisi,taxa
+Morozovella quetra,taxa
+Thalassionema nitzschioides var. incurvatum,taxa
+Zone name [short],taxa
+Globorotalia cibaoensis _T and B_ _PL1b,taxa
+Thalassiosira convexa var. convexa,taxa
+Chiphragmolithus acanothodes,taxa
+Muricohedbergella delrioensis,taxa
+Rhizosolenia curvirostris,taxa
+Siphonodosaria cooperensis,taxa
+Tapered,taxa
+Patellina antarctica,taxa
+Globigerinatheka tropicalis,taxa
+Lithomelissa ehrenbergi,taxa
+Pterocodon (?) poculum,taxa
+Orthomorphina perversa,taxa
+Gephyrocapsa oceanica,taxa
+Spiroplectoides cubensis,taxa
+Botryostrobus auritus-australis (Ehrenberg) group,taxa
+Gyroidinoides nitidus,taxa
+Praeorbulina sicana _T and B_ _M5a,taxa
+Paragloborotalia kugleri,taxa
+Planoglabratella cf. opercularis,taxa
+Braarudosphaera bigelowii,taxa
+Rugoglobigerina pennyi,taxa
+Heronallenia lingulata,taxa
+Globigerinelloides impensus,taxa
+Morozovella aequa,taxa
+Karreriella sp.,taxa
+Discorbinella bertheloti,taxa
+Ericaceae,taxa
+Psammosiphonella cylindrica,taxa
+Globotruncana linneiana,taxa
+Eustephanias spp.,taxa
+Toweius pertusus,taxa
+Thoracosphaera spp.,taxa
+Toweius gammation,taxa
+Abathomphalus intermedia,taxa
+Saccospyris conithorax,taxa
+Coccolithus pelagicus ssp. pelagicus,taxa
+Collosphaera brattstroemi,taxa
+Textularia lateralis,taxa
+Larcospira minor,taxa
+Pyrgo laevis,taxa
+Truncorotalia juanai,taxa
+Lagena spp.,taxa
+Polymorphinids,taxa
+Globorotalia (Globorotalia) tumida tumida,taxa
+Sceptroneis lingulatus,taxa
+Globorotalia continuousa,taxa
+Rhizosolenia sp. D sensu Olney et al 2007,taxa
+Actinocyclus ellipticus,taxa
+Catapsydrax cf. howei,taxa
+Reinhardtites biperforatus,taxa
+Pyrgo spp.,taxa
+Staurolithites flavus,taxa
+Lamprocyclas maritalis,taxa
+Cibicidoides ornatus,taxa
+Cancris spp.,taxa
+Reticulofenestra pseudoumbilicus (>7 microns),taxa
+Cibicides subhaidingeri,taxa
+Planulina ariminensis,taxa
+Hanzawaia spp.,taxa
+Cornutella profunda,taxa
+Globigerinoides fistulosus,taxa
+Thalassiosira eccentrica (Ehrenberg),taxa
+Acarinina spp.,taxa
+Nephrospyris renilla,taxa
+Fragilaria sp.,taxa
+Lamptonium fab. fabaeforme,taxa
+Globoturborotalita decoraperta _T and B_,taxa
+Hyperammina sp.,taxa
+Cyclicargolithus floridanus small (<5µm),taxa
+Astrononion sp.,taxa
+Globorotalia crassaformis s.l. (dex),taxa
+Gephyrocapsa caribbeanica (3-4 microns),taxa
+Fragilariopsis reinholdii,taxa
+Karrerulina aegra,taxa
+Siphonina bradyana,taxa
+Lamptonium fab. constrictum,taxa
+Bolvina subaenariensis,taxa
+Fasciculithus spp.,taxa
+Dentoglobigerina galavisi,taxa
+Alabamina cf. dissonata,taxa
+Impagidinium pallidum,taxa
+Typha_Sparganium,taxa
+Reworked species,taxa
+Gephyrocapsa spp. (<3 microns),taxa
+Elphidium charlottensis,taxa
+Hemiaulus grassus,taxa
+Creania lacyae,taxa
+Chrysalogonium tenuicostatum,taxa
+Hirsutella panda (cf.),taxa
+Discoaster pacificus,taxa
+Globorotaloides quadrocameratus,taxa
+physical_constituent_name,taxa
+Galium type,taxa
+Globigerinoides extremus _T and B_,taxa
+Lithocyclia angusta,taxa
+Watznaueria barnesiae,taxa
+Helicosphaera spp. (Palegoene),taxa
+Dentoglobigerina altispira,taxa
+Theocorys anapographa,taxa
+Tholospyris kantiana,taxa
+Chaetoceros spp.,taxa
+Cyperaceae,taxa
+Angulogerina aff. fueguina,taxa
+Roperia tesselata,taxa
+Azpeitia burky (Barron),taxa
+Spiroloculina bradyi,taxa
+Selenopemphix nephroides psilate,taxa
+Oridorsalis tener,taxa
+Reophax subfusiformis,taxa
+Azpeitia nodulifera fa. cyclopa,taxa
+Artophormis gracilis,taxa
+Carpocanarium sp.,taxa
+Lapideacassis sp.,taxa
+Ticinella sp.,taxa
+Bulimina spp.,taxa
+Siphonodosaria sp. 1,taxa
+Globorotalia limbata,taxa
+Olea,taxa
+Cerebrina lacunata,taxa
+Stilostomella lepidula,taxa
+Helvetoglobotruncana helvetica,taxa
+Kisseleviella sp.,taxa
+Textularia zeaggluta,taxa
+Pontosphaera enormis,taxa
+Monalysidium spp.,taxa
+Marginulina obesa,taxa
+Dicarinella algeriana,taxa
+Discoaster kugleri,taxa
+Anthocyrtidium  marieae,taxa
+Globorotalia humerosa,taxa
+Discoaster signus,taxa
+Sphenolithus primus,taxa
+Denticulopsis ovata,taxa
+Biantholithus sparsus,taxa
+Siphouvigerina hispida,taxa
+Proboscia spp.,taxa
+"PALEO WATER DEPTH (IS=inner shelf, MS=middle shelf, OS=outer shelf)",taxa
+Synedra tabulata var. rupicola,taxa
+Pyramidulina glanduliniformis,taxa
+Truncorotalia truncatulinoides (DEX),taxa
+Euuvigerina wanzea,taxa
+Truncorotalia crassaconica     (cf.),taxa
+Shionodiscus tetraoestrupii var. reimeri,taxa
+Tholospyris baconiana,taxa
+Morozovella acutispira,taxa
+Thyrsocyrtis orthotenes n. sp.,taxa
+Quinqueloculina granulocostata,taxa
+Rouxia naviculoides,taxa
+Calcidiscus mcintyrei,taxa
+Subbotina inaequispira,taxa
+Shionodiscus tetraoestrupii,taxa
+Ceratolithus telesmus,taxa
+Actinocyclus octonarius var. tenellus,taxa
+Paragloborotalia griffinoides,taxa
+Cibicidoides eocaenus,taxa
+Siphonina tubulosa,taxa
+Dendrospyris ? sakaii,taxa
+Globorotalia multicamerata,taxa
+Dictyocha spp.,taxa
+Centaurea nigra type,taxa
+Paragloborotalia continuosa/mayeri,taxa
+Truncorotalia crassula     (cf.) (DEX),taxa
+Hemiaulus sp.,taxa
+Globoquadrina dehiscens _B and T,taxa
+Pyxilla spp.,taxa
+Melonis nicobarense,taxa
+Fragilariopsis barronii,taxa
+Globorotalites conicus,taxa
+Black woody phytoclasts,taxa
+Anthocyrtidium ophirense,taxa
+Phorticium pylonium group,taxa
+Pseudotriceratium cinnamomeum,taxa
+Foraminiferal test linings,taxa
+Globoturborotalita apertura,taxa
+Lithraphidites acutus,taxa
+Globotruncana ventricosa,taxa
+Foraminifer test linings,taxa
+Diploneis fusca,taxa
+Biscutum magnum,taxa
+Circodiscus microporus group,taxa
+Pattelina corrugata,taxa
+Uvigerina cf. mexicana,taxa
+Dictyococcites bisectus (>10 µm),taxa
+Bottom Depth [m],taxa
+Pseudorotalia globosa,taxa
+Discolithina japonica,taxa
+Mucronina compressa,taxa
+Cycladophora golli golli,taxa
+Globigerina euapertura,taxa
+Nannotetrina fulgens,taxa
+Reticulofenestra umbilicus,taxa
+Amaurolithus bizarrus,taxa
+Eggerella bradyi nitens,taxa
+Sphenolithus dissimilis,taxa
+Lamaprocyrtis neoheteroporos,taxa
+Retecapsa schizobrachiata,taxa
+spores,taxa
+Bolvina pseudoplicata,taxa
+Bolivina lapsus,taxa
+Brizalina pusilla,taxa
+Truncorotalia crassacarinina (SIN),taxa
+Sphynctolethus pacificus,taxa
+Discoaster ornatus,taxa
+Liriospyris stauropora,taxa
+Gephyrocapsa muellerae,taxa
+Uniplanarius gothicus,taxa
+Hauerina spp.,taxa
+Lagena meridionalis,taxa
+Saccammina spp.,taxa
+Fragilariopsis arcula,taxa
+Thyrsocyrtis pinguisicoides,taxa
+Nitzschia reiholdii,taxa
+Synedropsis sp. C,taxa
+Synedropsis sp.,taxa
+Discorbia spp.,taxa
+Vaginulina cf. recta,taxa
+Nonionella labradorica,taxa
+Pullenia spp.,taxa
+fossil,taxa
+Globigerinatheka luterbacheri,taxa
+Actinocyclus ingens,taxa
+Praehedbergella aptiana,taxa
+Scyphosphaera ventriosa,taxa
+Calcisphere,taxa
+Muricohedbergella planispira,taxa
+Planulina weullerstorfi,taxa
+Antarctissa strelkovi,taxa
+Globorotalia limbata _B_,taxa
+Discorbinella spp.,taxa
+Lychnocanium elongata,taxa
+Neogloboquadrina atlantica (dex),taxa
+Umbellosphaera tenuis,taxa
+Sphaeroidinellopsis seminulina _T_ _PL4_,taxa
+Lamprocyclas maritalis polypora,taxa
+Globocassidulina sp.,taxa
+Pseudopyxilla americana,taxa
+Lejeunecysta acuminata,taxa
+Podocyrtis diamesa,taxa
+Zeaglobigerina brazieri,taxa
+Glogoturborotalita sp.,taxa
+Cymbella spp.,taxa
+Cassidulinoides parkerianus,taxa
+Siphonosphaera polysiphonia,taxa
+Praeorbulina sp.,taxa
+Spongotrochus sp. A Abelmann,taxa
+Gephyrocapsa caribbeanica,taxa
+Datum author year,taxa
+Turborotalia cerroazulensis,taxa
+Reusella sp.,taxa
+Nonionella cf. bradii,taxa
+Exp,taxa
+Cibicidoides sp.,taxa
+Mesocena quadrangula,taxa
+Coronocyclus prionion,taxa
+Discoaster asymetricus,taxa
+Discoaster bifax,taxa
+Discorbis?,taxa
+Dorothia trochoides,taxa
+Markalius inversus,taxa
+Toweius eminens,taxa
+Toweius tovae,taxa
+Reusella spinulosa,taxa
+Globorotalia hirsuta _B_,taxa
+Orthorhabdus striatus,taxa
+Rhizosolenia setigera,taxa
+Jakubowskia leoniae,taxa
+Dorothia elongata,taxa
+Ammonia sp.,taxa
+Robertinoides spp.,taxa
+Brassicaceae,taxa
+Hercotheca sp.,taxa
+Globigerinoides obliquus _T,taxa
+Thalassiosira elliptipora,taxa
+Pulleniatina finalis _B_,taxa
+Discoaster multiradiatus,taxa
+Phormospyris scaphipes,taxa
+Planulina sp. 2,taxa
+Globorotalia tumida _B_ _PL1a_,taxa
+Orbulina bilobata,taxa
+Abyssamina quadrata,taxa
+Gavelinella sp. 3,taxa
+Dictyococcites spp. (<6 microns),taxa
+Ammobaculites sp.,taxa
+Tegumentum,taxa
+Eucyrtidium calvertense,taxa
+Pontosphaera multipora,taxa
+Amaurolithus spp.,taxa
+Lophocyrtis hadra,taxa
+Dentoglobigerina juxtabinaiensis,taxa
+Hexacontium akitaensis,taxa
+Bulimina bortonica,taxa
+Ammoglobigerina sp.,taxa
+Gephyrocapsa ericsonii,taxa
+Amphistegina radiata,taxa
+Stainforthia tenuata,taxa
+Buliminella tenuata,taxa
+Praeorbulina circularis _B_,taxa
+Lychnocanoma turgidum,taxa
+Contusotruncana plicata,taxa
+Bulimina gibba,taxa
+Rhaphoneis spp.,taxa
+Antarctissa robusta,taxa
+Fissurina cucullata,taxa
+Globorotalia (Truncorotalia) truncatulinoides,taxa
+Lychnocanoma babylonis,taxa
+Ehrenbergina marwicki,taxa
+Dentoglobigerina galavasi,taxa
+A/W,taxa
+Proboscia ?cretacea,taxa
+Fursenkoina seminuda,taxa
+Glandulina ovula,taxa
+Siphonodosaria subspinosa,taxa
+Fissurina radiata,taxa
+Datum age minimum [Ma],taxa
+Biloculinella sp.,taxa
+Cibicides  bradyi,taxa
+Cibicidoides wuellerstorfi,taxa
+Aspect comment (etching),taxa
+Globoturborotalita nepenthes _T and B_ _PL2_,taxa
+Palaeocystodinium sp.,taxa
+Fragilariopsis bohatyi,taxa
+"Hirsutella scitula (Brady, 1882)",taxa
+Haslea sp.,taxa
+Bolivina sp.,taxa
+Discorbis spp.,taxa
+Reticulofenestra perplexa,taxa
+Discoaster intercalaris,taxa
+Siphogenerina spp.,taxa
+Cibicidoides cf. wuellerstorfi,taxa
+Hanzawaia ammophila,taxa
+dupes and comments,taxa
+Vaginulina americana,taxa
+Adelosina dubia?,taxa
+Hastigerina pelagica,taxa
+Epistomina sp.,taxa
+Globoconella puncticulata,taxa
+Spongopyle osculosa,taxa
+Gyroidina sp.,taxa
+Dicarinella sp.,taxa
+Coronocyclus bramlettei,taxa
+Cribrocentrum reticulatum,taxa
+Triquetrorhabdulus millowii,taxa
+Globanomalina planocompressa,taxa
+Thalassionema bacillaris,taxa
+Cassidulina carinata,taxa
+Acarinina praetopilensis,taxa
+Chiloguembelina cubensis,taxa
+Bolboforma subfragoris s.l.,taxa
+Siphotextularia rolshauseni,taxa
+Dentalina bradyensis,taxa
+Asteromphalus hookerii,taxa
+Reticulofenestra reticulata,taxa
+Uvigerina havanensis,taxa
+Ticinella praeticinensis,taxa
+Anomalinoides globosus,taxa
+Helotholus vema,taxa
+General comment,taxa
+Globigerina ciperoensis,taxa
+Blackites spinosus,taxa
+Actinocyclus sp. cf. A. actinochilus early form,taxa
+Globigerinella obesa,taxa
+Karreriella subglabra,taxa
+Delphineis surirella,taxa
+Eucyrtidium spinosum,taxa
+Bolivina striatula,taxa
+Hanzawaia bertheloti,taxa
+Pseudoclavulina spp.,taxa
+Discoaster berggrenii,taxa
+Subbotina corpulenta,taxa
+Euuvigerina cf. peregrina,taxa
+Rectuvigerina striata,taxa
+Toweius crassus,taxa
+Sorites spp.,taxa
+Helicosphaera sellii,taxa
+Subbotina brevis,taxa
+Neogloboquadrina pachyderma (sinistral),taxa
+Tribrachiatus bramlettei,taxa
+Botryostrobus auritus/australis,taxa
+Reophax sp.,taxa
+Mutabella mirabilis,taxa
+Lophocyrtis aspera,taxa
+Zealithapium plegmacantha,taxa
+Parafissurina sp.,taxa
+Thalassiosira striata,taxa
+Epistominella pacifica,taxa
+Helicosphaera sp.,taxa
+Lychnocanium bajunensis,taxa
+Stephanopyxis horridus,taxa
+Kalamopsis (?),taxa
+Globigerina rubescens,taxa
+Bomolithus megastypus,taxa
+Cruciellipsis cuvillieri,taxa
+Pseudoglandulina glanduliniformis,taxa
+Nitzschia marina,taxa
+Globocassidulina biora,taxa
+Zeaglobigerina druryi,taxa
+Navicula lyra,taxa
+Daktylethra punctulata,taxa
+Praemurica uncinata,taxa
+Favulina spp.,taxa
+Discoaster tanii,taxa
+Dentoglobigerina binaensis _T,taxa
+Gyroidinoides globosus,taxa
+"Dentoglobigerina ""conglomerata""",taxa
+Hyalinonetrion gracillima,taxa
+"Axoprunum pierinae gr,",taxa
+Pulleniatina coiling (sinistral),taxa
+Pseudotriquetrorhabdulus inversus,taxa
+Theocotyle nigrinae,taxa
+Siphogenerina dimorpha,taxa
+Miliolina sp.,taxa
+Bulimina truncanella,taxa
+Fragilariopsis doliolus (Wallich),taxa
+Theocorys anapographa Var. A,taxa
+Hantkenina sp.,taxa
+Sorites orbiculus,taxa
+Globigerinatheka kugleri,taxa
+Cristellaria bradyi,taxa
+"""Globigerina"" angulisuturalis _T",taxa
+Coscinodiscus argus,taxa
+Hexacontium sp.,taxa
+Gephyrocapsa large,taxa
+Globigerina praebulloides,taxa
+Gephyrocapsa sp. medium,taxa
+Cibicides wuellerstorfi,taxa
+Lithraphidites alatus,taxa
+Triceratium favus,taxa
+Ericsonia robusta (small),taxa
+Catinaster mexicanus,taxa
+Dictyococcites scrippsae,taxa
+Dentalina subemaciata,taxa
+Lioloma spp. or Thalassiothrix spp.,taxa
+Cribroelphidium sp.,taxa
+Globorotalia margaritae _T and B_ _PL3_,taxa
+Paragloborotalia opima,taxa
+Foraminiferal linings,taxa
+Gavelinella sp. 1,taxa
+Gephyrocapsa caribbeanica (4-5.5 microns),taxa
+Ehrenbergina sp.,taxa
+Phillyrea,taxa
+medium Gephyrocapsa group,taxa
+Coscinodiscus asteromphalus,taxa
+Staurolithites spp.,taxa
+Theocotyle ? spp.,taxa
+% Planktic Foraminifera within whole sample,taxa
+Surirella spp.,taxa
+Globoquadrina praedehiscens,taxa
+Stellarima microtrias,taxa
+Porodiscus (?) sp. B,taxa
+Denticulopsis vulgaris,taxa
+Globoconella miozea,taxa
+Bulimina macilenta,taxa
+Spirotextularia tubulosa,taxa
+Haqius circumradiatus,taxa
+Hantkenina mexicana,taxa
+Stainforthia spp.,taxa
+Nuttallides spp.,taxa
+Ramulina globulifera,taxa
+Discoaster deflandrei,taxa
+Chiasmolithus altus,taxa
+Discorbinella sp.,taxa
+Stephanopyxis dimorpha,taxa
+Dorothia spp.,taxa
+Bulimina striata gr.,taxa
+Morozovelloides lehneri,taxa
+Globorotalia (Globorotalia) merotumida,taxa
+Planulina ornata,taxa
+Nodosaria longiscata,taxa
+Angulogerina earlandi,taxa
+Spongatractus pachystylus,taxa
+Planoheterohelix reussi,taxa
+Haynesina sp.,taxa
+Rhizosolenia antarctica,taxa
+Syracosphaera spp.,taxa
+Eiffellithus praestigium,taxa
+Neogloboquadrina pachyderma (dextral),taxa
+Uvigerina proboscidea,taxa
+Axoprunum bispiculum,taxa
+Lejeunecysta spp.,taxa
+Rectoguembelina cretacea,taxa
+Fohsella birnageae,taxa
+Siphonodosaria lepidula,taxa
+Phormospyris stabilis,taxa
+Globorotalia limbata _T_,taxa
+Ellipsoglandulina sp.,taxa
+Pterosyringium hamata,taxa
+Acarinina esnaensis,taxa
+Scyphosphaera apsteinii forma dilatata,taxa
+Blackites herculesii,taxa
+Quinqueloculina sp.,taxa
+Kalamopsis? sp.,taxa
+Parasorites orbitolitoides,taxa
+Cibicidoides mundulus,taxa
+Helicolithus compactus,taxa
+Polymorphina sp.,taxa
+Ceratolithina naturalisteplateauensis,taxa
+Morozovella sp.,taxa
+Diploplegma somphum,taxa
+Nannoconus,taxa
+Distatodinium sp.,taxa
+Theocorys anaclasta,taxa
+Bulbobaculites sp.,taxa
+Bulimina miolaevis,taxa
+Osangularia spp.,taxa
+Calocycletta virginis,taxa
+Dentoglobigerina sp.,taxa
+Thalassiosira sp. 1,taxa
+Cibicidoides hyphalus,taxa
+Broinsonia parca parca,taxa
+Globigerina gortanii,taxa
+Pyrite,taxa
+Islandiella australis,taxa
+Fasciculithus ulii,taxa
+Neococcolithes spp.,taxa
+Watznaueria ovata,taxa
+Calcicalathina alta,taxa
+Thalssiosira leptopus,taxa
+Actinocyclus dimorphus,taxa
+Marssonella,taxa
+Laevidentalina communis,taxa
+Cribostomoides sp.,taxa
+Ellipsodimorphina macrocephala,taxa
+Candeina praenitida,taxa
+Globocassidulina crassa,taxa
+Kannoa sp.,taxa
+Sponge spicules,taxa
+Cyclotella striata (Kutzing),taxa
+Azpeitia vetustissima,taxa
+Cassigerinella chipolensis _T,taxa
+Euchitonia elegans/furcata group,taxa
+Asterigerina planorbis,taxa
+Morozovella lehneri,taxa
+Uvigerina auberiana,taxa
+Thalassiosira nidulus,taxa
+Rhomboaster svabenickiae,taxa
+Pileolina spp.,taxa
+Label ID,taxa
+Actinocyclus mahoodii,taxa
+Truncorotalia crassaconica (DEX),taxa
+Discoaster anartios,taxa
+Globoturborotalita tenella,taxa
+Paragloborotalia mayeri (D),taxa
+Globigerinoides mitra,taxa
+Lychnocanium babylonis,taxa
+Section,taxa
+Rhomboaster cuspis,taxa
+Strictocostella sp.,taxa
+Blind trachyleberidids,taxa
+Catinaster coalitus,taxa
+Navicula wisei,taxa
+Fragilariopsis interfrigidaria,taxa
+Stichocorys pergrina,taxa
+Subbotina cancellata,taxa
+Stylodictya sp.,taxa
+Globorotalia tumida flexuosa,taxa
+Sphaeroidinellopsis subdehiscens,taxa
+Liliasterites angularis,taxa
+Calocycletta robusta,taxa
+Karreria spp.,taxa
+Lagena caudata,taxa
+Globigerinelloides bentonensis,taxa
+Discoaster lodoensis,taxa
+Planularia gemmata,taxa
+Borelis melo,taxa
+Liriospyris sp.,taxa
+Planoheterohelix postmoremani,taxa
+Pontosphaera alta,taxa
+Fasciculithus pileatus,taxa
+Actinomma delicatulum,taxa
+Globigerinoides trilobus sensu lato,taxa
+Neochiastozygus spp.,taxa
+Preservation palynofacies,taxa
+Lampromitra coronata,taxa
+Latibolivina reticulata,taxa
+Praeglobotruncana gibba,taxa
+Stictodiscus hardmanianus,taxa
+Didymocyrtis mammifera,taxa
+Tribrachiatus absidatus,taxa
+Thalassiosira ritscherii,taxa
+Cibicidoides guazumalensis,taxa
+Globoquadrina tripartita,taxa
+Globorotalia ungulata,taxa
+Trifarina sp.,taxa
+Eggerella advena,taxa
+Procerolagena gracillima,taxa
+Triquetrorhabdulus rioi,taxa
+Gondwanaria japonica,taxa
+Thalassiosira kolbei,taxa
+Gaudryina whangaia,taxa
+Globigerinella calida _B_,taxa
+Eggerella columna,taxa
+Spiroloculina excavata,taxa
+Dorothia,taxa
+Didymocyrtis tetratharamus,taxa
+Nuttallinella florealis,taxa
+Trinacria racovitzae,taxa
+Spongurus (?) sp.,taxa
+Globigerinita parkerae,taxa
+Pullenia jarvisi,taxa
+Reticulofenestra sp. (5-7 microns),taxa
+Nitzschia punctata,taxa
+Turborotalita iota,taxa
+Angulogerina fluens,taxa
+Lophocyrtis semipolita,taxa
+Ostrya,taxa
+Nonionella flemingi,taxa
+Globigerinella radians,taxa
+Neoeponides campester,taxa
+Top depth [m],taxa
+Truncorotalia crassacarinina,taxa
+Chiloguembelina subtriangularis,taxa
+Cyclicargolithus abisectus,taxa
+Abyssammina spp.,taxa
+Prinsius bisulcus,taxa
+Gyroidina spp.,taxa
+Helicosphaera seminulum,taxa
+Saccospyris antarctica,taxa
+Corethron criophilum,taxa
+Triloculina spp.,taxa
+Glbobulimina spp.,taxa
+Bigenerina nodosaria,taxa
+Stylotrochus nitidus,taxa
+Globigerinatheka subconglobata,taxa
+Ceratocyrtis sp.,taxa
+Amphipyndax stocki,taxa
+Lithastrinus septenarius,taxa
+Dorcadospyris spinosa,taxa
+Cassidulina sp.,taxa
+Guttulina sp.,taxa
+Praeorbulina glomerosa,taxa
+Globorotalia pertenuis,taxa
+Fohsella peripheroacuta _B_ _M7_,taxa
+Globorotalia (Truncorotalia) crossaformis,taxa
+Datum comment,taxa
+Miliolinella oceanica,taxa
+Theocorythium trachelium trachelium,taxa
+Vallodiscus lanceolatus,taxa
+Hexapyle dodecantha group,taxa
+Bulimina trinitatensis,taxa
+Coscinodiscus sp. A,taxa
+Arachnoidiscus spp.,taxa
+Phormospyris stabilis stabilis,taxa
+Surirella fluminensis,taxa
+Cyclicargolithus luminis,taxa
+Dentoglobigerina baroemoenensis,taxa
+Sphaeropyle tetrapila,taxa
+Saraceneria spp.,taxa
+Marginotruncana sinuosa,taxa
+Reussella finlayi,taxa
+Gephyrocapsa spp. (small),taxa
+Dentalinoides sp.,taxa
+Liradiscus ovalis,taxa
+Cruciplacolithus latipons,taxa
+Sphaeroidinellopsis kochi _T_,taxa
+Diartus hughesi,taxa
+Articulina pacifica,taxa
+Lenticulina spp.,taxa
+Cyclagelosphaera reinhardtii,taxa
+Peritiviator(?) dumitricai,taxa
+Aragonia zelandica,taxa
+Bulimina pupula,taxa
+Gephyrocapsa caribbeanica (>5.5 microns),taxa
+Pseudoguembelina costulata (cf.),taxa
+Bolivinita elegantissima,taxa
+Globorotaloides suteri,taxa
+"Paragloborotalia griffinoides Olsson and Pearson, 2006",taxa
+Filipendula,taxa
+Rhagodiscus angustus,taxa
+Siphouvigerina porrecta,taxa
+Lenticulina rotulata,taxa
+Amphicoryna separans,taxa
+Lamptonium fab. chaunothorax,taxa
+Rhomboaster spp.,taxa
+Fohsella peripheroronda _T,taxa
+Parasubbotina variospira,taxa
+Trochamminoides olszewskii,taxa
+Group Abundance,taxa
+Denticulopsis lauta,taxa
+Discoaster spp.,taxa
+Edentostomina sp.,taxa
+Notorotalia spp.,taxa
+Rhizosolenia hebetata fa. hiemalis,taxa
+Sphaeropyle robusta,taxa
+Siphocampe quadrata,taxa
+Broinsonia parca constricta,taxa
+Eucyrtidium montiparum,taxa
+Rupertina stabilis,taxa
+Dorothia goesi,taxa
+Globorotalia plesiotumida,taxa
+Globorotalia bermudezi,taxa
+Delphineis kippae,taxa
+Fohsella fohsi _T and B_ _M10 and M9a,taxa
+Parafrondicularia sp.,taxa
+Bairdoppilata spp.,taxa
+Gephyrocapsa sp. (large),taxa
+Thecosphaera japonica,taxa
+Bulimina elongata,taxa
+Reticulofenestra spp.,taxa
+Cytheropteron spp.,taxa
+Achnanthes spp.,taxa
+Globorotalia (Globorotalia) tumida flexosa,taxa
+Discoaster asymmetricus,taxa
+Globigerina senni,taxa
+Lychnocanoma pileus,taxa
+Gephyrocapsa sp. 3,taxa
+Spirosigmoilina pusilla,taxa
+Cibicides sp.,taxa
+Cibicidoides truncanus,taxa
+Azpeitia praenodulifera,taxa
+Endictya robusta,taxa
+Amphicoryna scalaris,taxa
+Rhomboaster bramlettei,taxa
+Bogorovia lancettula,taxa
+Bacteriastrum elongatum,taxa
+Gyroidina neosoldanii,taxa
+Denticulopsis simonsenii,taxa
+Globobulimina pacifica,taxa
+Rectobolivina striatula,taxa
+Helvetoglobotruncana praehelvetica,taxa
+Amphistegina papillosa,taxa
+Neodenticula koizumii,taxa
+Neogloboquadrina asanoi,taxa
+Cassidulina teretis,taxa
+Dorcadospyris dentata,taxa
+Praebulimina ovulum,taxa
+Cycloclypeus carpenteri,taxa
+Aulacoseira spp.,taxa
+Dentoglobigerina binaensis _T_,taxa
+Morozovella velascoensis,taxa
+Epithemia turgida,taxa
+Cibicidoides cf. eocaenus,taxa
+Nuttallinella spp.,taxa
+Fragilariopsis reinholdii (Kanaya ex Barron ex Baldouf),taxa
+Globanomalina imitata,taxa
+Calcarina sp.,taxa
+Aragonia materna kugleri,taxa
+Dentalina cf. filiformis,taxa
+Morozovella acuta,taxa
+Ammobaculites filiformis,taxa
+Karrerulina coniformis,taxa
+Reticulofenestra producta,taxa
+Giraffospyris angulata,taxa
+Upper boundary age av. [Ma],taxa
+Theocotyle nigriniae,taxa
+Globorotalia (Menardella) pertenuis,taxa
+Acarinina rohri,taxa
+Sigmoilinita sp.,taxa
+Hemidiscus karstenii,taxa
+BF comment,taxa
+Discoaster variabilis group,taxa
+Hirsutella juanai,taxa
+Planorotalites compressa,taxa
+Helicosphaera carteri var. walichii,taxa
+Rhizammina spp.,taxa
+Pullenia salisburyi,taxa
+Stephanodiscus astraea,taxa
+Lithoptychius vertebratoides,taxa
+Thyrsocyrtis krooni,taxa
+Calculites obscurus,taxa
+Osangularia sp.,taxa
+Sphaeroidinellopsis multiloba,taxa
+XCrumpled,taxa
+Fissurina formosa,taxa
+Hexalonche amphisiphon,taxa
+Sphaeropyle antarctica,taxa
+Pleurostomella sp. A,taxa
+Salix,taxa
+Ceratolithoides,taxa
+Cymbaloporetta spp.,taxa
+Actinocyclus fasciculatus,taxa
+Discorhabdus watkinsii,taxa
+Rhagodiscus asper,taxa
+Sample comment,taxa
+Proboscia praebarboi,taxa
+Pulleniatina spectabilis _T_,taxa
+Anomalina sp.,taxa
+Triloculina tricarinata,taxa
+Thalassiosira tumida,taxa
+Pseudotextularia elegans,taxa
+Hedbergella wondersi,taxa
+Chiphragmolithus armatus,taxa
+Orthorhabdus serratus,taxa
+Terrestrial palynomorphs,taxa
+Genus/species (upper zone),taxa
+Discorbis dimidiatus,taxa
+Amphistegina bicirculata,taxa
+Whiteinella archaeocretacea,taxa
+Cretarhabdus conicus,taxa
+Morozovella edgari,taxa
+Cyclotella meneghiniana,taxa
+Cassidulina cushmani,taxa
+Tribrachia australiana,taxa
+Triquetrorhabdulus sp. (long needle-like),taxa
+Prinsius martinii,taxa
+Thalassiosira convexa,taxa
+Dorcadospyris simplex s.s.,taxa
+Islandiella norcrossi,taxa
+Turborotalia pseudoampliapertura,taxa
+Triquetrorhabdulus sp. (long),taxa
+Navicula mutica,taxa
+Actiniscus pentasterias,taxa
+Cycloclypeus mediterraneus,taxa
+Discoaster challengeri,taxa
+Umbilicosphaera hulburtiana,taxa
+Ellipsolithus subdistichus,taxa
+Pseudorotalia schroetiana,taxa
+Discoaster variabilis,taxa
+Valvalabamina praeacuta,taxa
+Gephyrocapsa (>5.5 µm),taxa
+Calcidiscus tropicus,taxa
+Globigerinoides conglobatus _B_,taxa
+Frondicularia sagittula,taxa
+Valvulineria sp.,taxa
+Morozovella spinulosa,taxa
+Helicosphaera recta,taxa
+Sphenolithus disbelemnos,taxa
+Stephanonycites variegatus,taxa
+Astacolus sp.,taxa
+Lagena hispidula,taxa
+Globigerinoides quadrilobatus,taxa
+Melonis barleeanus,taxa
+Glomospira spp.,taxa
+Giraffospyris sp.,taxa
+Diploneis aestuari,taxa
+Unidentified benthic forams,taxa
+Gephyrocapsa (>4 µm),taxa
+Uvigerina peregrina,taxa
+Sphenolithus abies,taxa
+Buryella foremanae,taxa
+Hyperammina laevigata,taxa
+Nonion spp.,taxa
+Laevidentalina inflexa,taxa
+Globobulimina ovata,taxa
+Morozovelloides crassatus,taxa
+Gephyrocapsa aperta,taxa
+Lamaprocyrtis heteroporos,taxa
+Globorotalia limbata _B,taxa
+Eggerella bradyi >600 m,taxa
+Aphetocyrtis rossi,taxa
+Globorotaloides hexagona,taxa
+constituent,taxa
+"Acarinina bullbrooki (Bolli, 1957 p.167, pl.38, figs.5a-b as Globorotalia)",taxa
+Reticulofenestra bisecta,taxa
+Liriospyris parkerae,taxa
+Osangularia culter,taxa
+Nitzschia braarudii,taxa
+Cylindralithus sculptus,taxa
+Calocycletta sp.,taxa
+Ammobaculites agglutinans,taxa
+Nuttalides sp.,taxa
+Globorotalia continuosa,taxa
+Bulimina inflata,taxa
+Brizalina sp.,taxa
+Ommatartus tetrathalamus,taxa
+Hemidiscus simplicissimus,taxa
+Cibicidoides laurisae,taxa
+Discoaster exilis,taxa
+Rhizosolenia barboi,taxa
+Melonis spp.,taxa
+Caudammina spp.,taxa
+Chaetoceros spp. (resting spores),taxa
+Stilostomella antillea,taxa
+Cibicidoides havanensis,taxa
+Gaudryina sp,taxa
+Cibicides kullenbergi >1000 m,taxa
+Dentoglobigerina pseudovenezuelana,taxa
+Paragloborotalia siakensis,taxa
+Percentage of benthic forams in total foram assemblage [%],taxa
+Angulogerina pauperata,taxa
+Pulleniatina praecursor,taxa
+Theocotyle conica,taxa
+Zeaglobigerina connecta,taxa
+Globorotalia menardii (sin),taxa
+Actynocyclus ellipticus var. javanica,taxa
+Gephyrocapsa oceanica (>5.5 microns),taxa
+Sphenolithus ciperoensis,taxa
+Gartnerago theta,taxa
+Ceratolithus cristatus var. telesmus,taxa
+Dentalina advena,taxa
+Nitzschia sp. 17,taxa
+Scyphosphaera canescens,taxa
+Fragilariopsis aurica,taxa
+Cibicides molestus,taxa
+Gavelinella cf. ammonoides,taxa
+Myllostomella spp.?,taxa
+Fissurina lucida,taxa
+Discoaster prepentaradiatus,taxa
+Orbulinoides beckmanni,taxa
+Coscinodiscus lewisianus,taxa
+Sphaeroidina bulloides,taxa
+Globigerinella praesiphonifera,taxa
+Patellina spp.,taxa
+Discoaster loeblichii,taxa
+Pseudoclavulina anglica,taxa
+Pyrgoella spp.?,taxa
+Core-Sect,taxa
+Dentoglobigerina altispira globosa,taxa
+Quinqueloculina seminula,taxa
+Collosphaera spinosa,taxa
+Fragilariopsis spp.,taxa
+Selenopemphix antarctica,taxa
+Azpeitia nodulifera,taxa
+Plectofrondicularia vaughni,taxa
+Planispirinella spp.,taxa
+Globorotalia viola,taxa
+Globoquadrina dehiscens dehiscens,taxa
+Cibicidina walli,taxa
+Dicty mongolferi,taxa
+Nitzschia sicula,taxa
+other Centric,taxa
+Actinocyclus spp.,taxa
+Diploneis bombus,taxa
+Globorotalia margaritae,taxa
+Cruciplacolithus edwardsii,taxa
+Thalassiosira sp.8,taxa
+Lejeunecysta big,taxa
+Denticulopsis praelauta,taxa
+Sigmoilopsis neocelata,taxa
+Fissurina wiesneri,taxa
+Virgulina cf texturata,taxa
+Lamptonium pennatum,taxa
+Pinnularia spp.,taxa
+Catinaster spp.,taxa
+Elphidium crispum,taxa
+Globigerinoides sp. cf. ruber _white_,taxa
+Oolina sp.,taxa
+Proboscia interposita,taxa
+Globigerina pseudodruryi,taxa
+Hedbergella planispira,taxa
+Cassidulina sulcata,taxa
+Myllostomella fijiensis,taxa
+Neochiastozygus junctus,taxa
+Reticulofenestra erbae,taxa
+Tappanina selmensis,taxa
+Lychnocanium carinatum,taxa
+Sphenolithus grandis,taxa
+Eprolithus floralis,taxa
+Reticulofenestra dictyoda  (10-14 microns),taxa
+Cyclotella striata,taxa
+Cibicides bradyi,taxa
+Gyroidina zealandica,taxa
+Sphenolithus distentus,taxa
+Melonis soldanii,taxa
+Glandulonodosaria spp.,taxa
+Muricohedbergella flandrini,taxa
+Syracosphaera spp. (Neogene),taxa
+Operculodinium? eirikianum,taxa
+Globorotalia decoraperta,taxa
+Ehrenbergina histrix,taxa
+Nematosphaeropsis labyrinthea,taxa
+Bulimina pupoides,taxa
+Alabaminella sp.,taxa
+Tritaxilina zealandica,taxa
+Globurina,taxa
+Globigerinoides seigliei,taxa
+Eoglobigerina edita,taxa
+Stylochlamydium venustum,taxa
+Thalassiosira oestrupii var. oestrupii,taxa
+Spiroloculina canaliculata,taxa
+Dextral:Sinistral _P. primalis_,taxa
+Dorcadospyris scambos n. sp.,taxa
+Nannotetrina  alata gr.,taxa
+Stephanocha (Distephanus) pseudofibula,taxa
+Synedra miocenica,taxa
+Phaeodaria,taxa
+Fragilariopsis kerguelensis,taxa
+Dextral:Sinistral _P. praecursor_,taxa
+Craspedodiscus coscinodiscus,taxa
+Spirosigmoilina tenuis,taxa
+Pleurostomella cylindrica,taxa
+Uvigerina sp.,taxa
+Helicosphaera wilcoxonii,taxa
+Stilostomella sp.,taxa
+Thalassiosira miocenica,taxa
+Sphaeroidinella dahiscens sensu lato,taxa
+Loxostomum sp.,taxa
+Menardella miocenica,taxa
+Spongaster tetras tetras,taxa
+Cibicides mckannai,taxa
+Subbotina jacksonensis,taxa
+Falsoguttulina sp.,taxa
+Micula staurophora,taxa
+Enneadocysta pectinoformis,taxa
+Theocorys redondoensis,taxa
+Large Benthic Forams [%],taxa
+Charcotia actinochilus,taxa
+Tritaxia paleocenica,taxa
+Histiastrum quadribrachiatus quadribrachiatus,taxa
+Textulariella spp.?,taxa
+Sphenolithus conicus,taxa
+Reticulofenestra hillae,taxa
+Porodiscus sp.,taxa
+Didymocyrtis antepenultima,taxa
+Phormostichoartus corbula,taxa
+Globigerina connecta,taxa
+Axopodorhabdus cylindratus,taxa
+Globigerinelloides maridalensis,taxa
+Osangularia bengalensis,taxa
+Marginotruncana pseudolinneiana,taxa
+Saccammina placenta,taxa
+Theocotylissa spp.,taxa
+Nodosariidae indet.,taxa
+Lophophaenoma witjazzi,taxa
+Bulimina rostrata,taxa
+Thalassiosira plicata,taxa
+Lophocyrtis oberhaensliae,taxa
+Siphonodosaria longispina,taxa
+Parasubbotina inaequispira,taxa
+Calcidiscus leptoporus,taxa
+Chiasmolithus gigas,taxa
+Pseudorotalia spp.,taxa
+Rotalipora montsalvensis,taxa
+Globorotalia tosaensis _T and B_ _Pt1b,taxa
+Praeorbulina glomerosa _B_ _M5b_,taxa
+Pseudoparrella sp.,taxa
+Bramietteius serraculoides,taxa
+Rucinolithus magnus,taxa
+Oolina melo,taxa
+Acrosphaera spinosa (=Collosphaera spinosa),taxa
+Globoquadrina rohri,taxa
+Siphonosphaera vesuvius,taxa
+Neogloboquadrina pachyderma(dex),taxa
+Astrononion antarcticus,taxa
+Neogloboquadrina atlantica (sin),taxa
+Thalassiothrix spp. (incl. Lioloma),taxa
+Elphidium advenum limbatum,taxa
+Thalassionema nitzschioides var. capitulata,taxa
+Rhizosolenia stilyformis,taxa
+Globotruncana morozovae,taxa
+Globigerinoides ruber (pyramidalis),taxa
+Discoaster braarudii,taxa
+Chiastozygus garrisonii,taxa
+Calculites spp.,taxa
+Trichotoxon reinboldii,taxa
+Globocassidulina? sp. 1,taxa
+Cribrosphaerella daniae,taxa
+Globigerinella siphonifera,taxa
+Turrilina sp.,taxa
+Globobulimina spp.,taxa
+Azpeitia tabularis,taxa
+"""Globigerina"" angulisuturalis _T_",taxa
+Globorotalia zealandica _B_,taxa
+Isthmolithus recurvus,taxa
+Group preservation,taxa
+Dorcadospyris ateuchus,taxa
+Globigerina angulisuturalis,taxa
+Dendrospyris megalocephalis,taxa
+Rosalina sp.,taxa
+Siphouvigerina notohispida >1000 m,taxa
+Spiroplectinata annectens,taxa
+Watznaueria britannica,taxa
+Cyclicargolithus? luminis,taxa
+Pullennia simplex,taxa
+Cedrus,taxa
+Brightwellia sp.,taxa
+Bulbobaculites ?,taxa
+Globigerina prasepis,taxa
+Cycladophora spongothorax,taxa
+Globigerina cf. woodi,taxa
+Chiasmolithus nitidus,taxa
+Globorotalia (Hirsutella) scitula,taxa
+Ceratolithus armatus,taxa
+Rectuvigerina sp.,taxa
+Triceratium pileus,taxa
+Dentoglobigerina pseudovenezualana,taxa
+Frondicularia spp.,taxa
+Neococcolithes dubius,taxa
+Fragilariopsis tigris,taxa
+Heterohelix globulosa,taxa
+"Subbotina yeguaensis (Weinierl & Applin, 1929)",taxa
+Gyphyrocapsa caribbeanica,taxa
+Coccolithus gigas,taxa
+Artophormis barbadensis,taxa
+Verneuinulla spp.?,taxa
+Spongosphaera sp.,taxa
+Elhpidium craticulatum,taxa
+Eucyrtidium annulatum,taxa
+Helicosphaera ethologa,taxa
+Thalassionema nitzschioides var. parvum,taxa
+Asteromphalus concavus,taxa
+Unidentified agglutinants,taxa
+Umbilicosphaera sp.,taxa
+Bulimina acanthia,taxa
+Catapsydrax dissimilis _T_ _M4a,taxa
+Ammonia beccarii,taxa
+Stylochlamydium bensoni,taxa
+Lamprocyclas marytalis,taxa
+Pseudorotalia indopacifica,taxa
+Diazomatolithus lehmanii,taxa
+Glandulina laevigata,taxa
+Oolina spp.,taxa
+Marthasterites furcatus,taxa
+Karreriella bradyi >600 m,taxa
+Globorotalia plesiotumida _T,taxa
+Muricohedbergella praelibyca,taxa
+Cassidulinoides porrectus,taxa
+Pleurostomella acuminata,taxa
+Lithomelissa sakaii,taxa
+Coscinodiscus marginatus,taxa
+Cestodiscus sp.,taxa
+Gephyrocapsa spp. (>4 microns),taxa
+Diartus petterssoni,taxa
+Dictyococcites (<3 microns),taxa
+Planispirinoides bucculentus,taxa
+Spongocore puella,taxa
+Anomalinoides rubignosus,taxa
+Eponides regularis,taxa
+Entopyla spp.,taxa
+Lagena sp.,taxa
+Thalassiosira gracilis,taxa
+Gondwanaria deflandrei,taxa
+Globorotalia (Globoconella) puncticulata,taxa
+Vaginulina spp.,taxa
+Globulina spp.,taxa
+Planoheterohelix planata,taxa
+Silicoflagellates group abundance,taxa
+Chrysalogonium crassitestum,taxa
+Dentoglobigerina sellii,taxa
+Broinsonia enormis,taxa
+Cibicides vortex,taxa
+Ericsonia robusta,taxa
+Cassigerinella chipolensis _T_,taxa
+Sphenolithus tribulosus,taxa
+Globigerinatheka korotkovi,taxa
+Trilobatus sacculifer,taxa
+Trisulcus nana,taxa
+Sphenolithus radians,taxa
+Turborotalia increbescens,taxa
+Valvulineria oblonga,taxa
+Neogloboquadrina acostaensis,taxa
+Globigerina sellii,taxa
+Sanguisorba minor,taxa
+Rhizosolenia fidicularis,taxa
+Eusphaeroidina inflata,taxa
+Neogloboquadrina atlantica atlantica,taxa
+Reticulafenestra psuedoumbilica,taxa
+Ellipsolithus macellus,taxa
+Lamarckina novozealandica,taxa
+Globorotalia mayeri,taxa
+Terrestrial organic matter,taxa
+Globigerinelloides blowi (cf.),taxa
+Paralia spp.,taxa
+Trifarina brady,taxa
+Stylochlamydium asteriscus,taxa
+Gephyrocapsa oceanica ss,taxa
+Rhizosolenia bergonii,taxa
+Globorotalia praemenardii,taxa
+Procerolagena gracilis,taxa
+Pyxilla sp.,taxa
+Diatom preservation dissolution,taxa
+Actinomma popofskii,taxa
+Buccella inusitata,taxa
+Globorotalia truncatulinoides,taxa
+Ramulina sp.,taxa
+Reticulofenestra pseudoumbilicus (> 7 μm),taxa
+Globigerinoides ruber s.s.,taxa
+Neogloboquadrina cf. pachyderma,taxa
+Rhizoplegma boreale,taxa
+Discorbids,taxa
+Archaeoglobigerina australis,taxa
+Diploneis spp.,taxa
+Nitzschia grossepunctata,taxa
+Laeviheterohelix pulchra,taxa
+Thalassiosira webbii,taxa
+Globorotalia hessi _B_,taxa
+Achomosphaera spp.,taxa
+Thalassiosira biora,taxa
+Elphidium advenum,taxa
+Morozovella marginodentata,taxa
+Thalassiosira lentiginosa var. obovatus,taxa
+Neogloboquadrina acostaensis (dextral),taxa
+Reophax agglutinatus,taxa
+Schackoina multispinata,taxa
+"""round browns"" indet., psilate",taxa
+Rhaphoneis elegans,taxa
+Campylosphaera dela,taxa
+Emiliania huxleyi (>5 microns),taxa
+Vertebralina spp.,taxa
+Triloculina sp. 1,taxa
+Ulmus Zelkova,taxa
+Asteromphalus kennettii,taxa
+Thalassiosira hyalina,taxa
+Euuvigerina miozea,taxa
+Tetralithoides quadrilaminata,taxa
+Tritaxilina zealandica >1500 m,taxa
+Anomalinoides affinis,taxa
+Thalassiothrix longissima,taxa
+Sphaeropyle langii/robusta group,taxa
+Anomalinoides sp.,taxa
+Quercus suber type,taxa
+Lithomelissa sp.,taxa
+Spiroloculina tenui,taxa
+Acarinina alticonica,taxa
+Brizalina spp.,taxa
+Hexacontium dionysus,taxa
+Thalassionema bacillare,taxa
+Fasciculithus alanii,taxa
+Discoaster surculus,taxa
+Bolivina argentea,taxa
+Calcidiscus leptoporus (5-8 microns),taxa
+Ethmodiscus rex,taxa
+"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",taxa
+Orthomorphina spp.,taxa
+Globigerinatella sp. _B_ M3_,taxa
+Lenticulina cf. adenalensis,taxa
+Globoquadrina baroemoensis,taxa
+Calciosolenia aperta,taxa
+Bolivina incrassata,taxa
+Pseudammodochium sphericum,taxa
+Pontosphaera rimosa,taxa
+Cestodiscus peplum,taxa
+Nodosaria sp.,taxa
+Spongaster pentas,taxa
+Pseudonodosaria sp.,taxa
+Pseudohastigerina cf. naguewichiensis,taxa
+Eucyrtidium antiquum,taxa
