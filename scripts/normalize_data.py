@@ -375,7 +375,7 @@ def fetch_unique_column_names(path, columns_set):
     content = pd.read_csv(path)
     content = content.dropna(axis="columns", how="all")
     content = csv_cleanup(content, path)
-    columns = {col.strip() for col in content.columns}
+    columns = {col.strip() for col in content.columns if col.strip()}
     return columns_set.update(columns)
 
 
