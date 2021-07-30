@@ -1,0 +1,2 @@
+file,taxon_group,add_expedition_section_cols,update_sample_col,update_top_bottom,add_missing_cols,clean_up_taxa_metadata_values,update_zones,add_missing_zone
+363-U1482A-nannofossils_revised.csv,nannofossils,True,False,False,False,True,False,True

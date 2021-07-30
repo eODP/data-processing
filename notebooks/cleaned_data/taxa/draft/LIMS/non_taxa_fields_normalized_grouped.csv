@@ -1,0 +1,54 @@
+final,original
+comment,Comments|COMMENTS|Comment|General comment|Sample comment|comments|BF comment|Nannofossil comment
+planktic foraminifera group abundance,PF Group Abundance|PF group abundance|% Planktic Foraminifera within whole sample|Percentage of planktic forams in total foram assemblage [%]|Foram abundance
+benthic foraminifera group abundance,Percentage of benthic forams in total foram assemblage [%]|BF Group abundance
+diatom group abundance,Diatom abundance|Diatoms group abundance
+Diatoms and siliceous plankton comment,Diatoms and siliceous plankton comment
+Ebridian group abundance,Ebridian group abundance
+Chrysophyte cyst group abundance,Chrysophyte cyst group abundance
+No. specimens/tray,No. specimens/tray
+Nannofossil abundance,Nannofossil abundance
+Pteropod group abundance,Pteropod group abundance
+Total in situ dinocysts,Total in situ dinocysts
+Silicoflagellate group abundance,Silicoflagellates group abundance|Sillicoflagellate abundance
+group abundance,Abundance|Group Abundance|Group abundance|Group abundance (%)
+Aspect comment (etching),Aspect comment (etching)
+benthic foraminifer preservation,BF Preservation|BF preservation
+diatom preservation,Diatom preservation dissolution|Diatom preservation fragmentation
+Fragmentation,Fragmentation
+Group preservation,Group preservation
+planktic foraminifer preservation,PF Preservation|PF preservation
+Preservation,Preservation
+XBroken,XBroken
+XCorroded,XCorroded
+XCrumpled,XCrumpled
+Age,Age
+Datum type,Datum type
+Type (lower zone),Type (lower zone)
+Type (upper zone),Type (upper zone)
+Datum group,Datum group
+Datum age maximum [Ma],Datum age maximum [Ma]
+Datum age minimum [Ma],Datum age minimum [Ma]
+Datum age average [Ma],Datum age average [Ma]
+Upper boundary age av. [Ma],Upper boundary age av. [Ma]
+Upper boundary age min [Ma],Upper boundary age min [Ma]
+Datum author year,Datum author year
+Datum comment,Datum comment
+Datum name,Datum name
+Datum name generic,Datum name generic
+Datum region,Datum region
+PF Zone,PF Zone
+Additional zone name,Additional zone name
+Additional zone name (short),Additional zone name (short)
+Zone author (year),Zone author (year)
+Zone comment,Zone comment
+Zone group,Zone group
+Zone name,Zone name
+Zone name (short),Zone name (short)
+Zone name [short],Zone name [short]
+Genus/species (upper zone),Genus/species (upper zone)
+Genus/species lower zone),Genus/species lower zone)
+Lower boundary age av. [Ma],Lower boundary age av. [Ma]
+reworking comment,"Reworking comment (1= <1%, 2= light 1-10%, 3= >10%)|Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)"
+Planktonic Benthic ratio (P:B),Planktonic Benthic ratio (P:B)
+Sample preparation comment,Sample preparation comment
