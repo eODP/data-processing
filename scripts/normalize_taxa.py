@@ -4,21 +4,24 @@ import pandas as pd
 import numpy as np
 
 taxon_groups = [
-    "nannofossils",
-    "silicoflagellates",
-    "ostracods",
-    "ebridians",
-    "chrysophyte_cysts",
+    "benthic_foraminfera",
     "bolboformids",
+    "chrysophyte_cysts",
     "diatoms",
-    "planktic_forams",
-    "radiolarians",
     "dinoflagellates",
+    "dinoflagellates/acritarchs/prasinophytes",
+    "ebridians",
+    "nannofossils",
+    "ostracods",
     "palynology",
-    "benthic_forams",
+    "phytoliths",
+    "planktic_foraminfera",
+    "pollen",
+    "pteropods",
+    "radiolarians",
+    "silicoflagellates",
 ]
 
-date = "2021-05-24"
 
 taxa_rank_fields = [
     "Any taxon above genus",
@@ -36,12 +39,28 @@ taxa_fields = ["non-taxa descriptor", "normalized_name", "taxon_group"]
 
 metadata_fields = [
     "verbatim_name",
-    "initial_comments",
     "comments",
 ]
 
 
-def add_normalized_name_column(df):
+def update_taxon_group(taxon_group):
+    """replace invalid taxon groups with valid taxon group"""
+    if isinstance(taxon_group, float):
+        return np.nan
+
+    invalid_groups = {
+        "benthic_forams": "benthic_foraminfera",
+        "planktic_forams": "planktic_foraminfera",
+        "nannofossil": "nannofossils",
+        "radiolarians_events": "radiolarians",
+        "nannofossils_revised": "nannofossils",
+    }
+
+    # replace taxon_group if it is invalid, otherwise use original taxon_group
+    return invalid_groups.get(taxon_group, taxon_group)
+
+
+def add_normalized_name_column(df, include_descriptor=True, col_name="normalized_name"):
     fields = [
         "genus modifier",
         "genus name",
@@ -54,21 +73,20 @@ def add_normalized_name_column(df):
     ]
 
     # concatenate taxa fields into a string
-    df["normalized_name"] = df["Any taxon above genus"].str.cat(
-        df[fields], sep=" ", na_rep=""
-    )
+    df[col_name] = df["Any taxon above genus"].str.cat(df[fields], sep=" ", na_rep="")
 
-    # add "(descriptor)" if it exists
-    descriptor = np.where(
-        df["non-taxa descriptor"].notnull(), "(" + df["non-taxa descriptor"] + ")", ""
-    )
-    df["normalized_name"] = df["normalized_name"] + descriptor
+    if include_descriptor:
+        # add "(descriptor)" if it exists
+        descriptor = np.where(
+            df["non-taxa descriptor"].notnull(),
+            "(" + df["non-taxa descriptor"] + ")",
+            "",
+        )
+        df[col_name] = df[col_name] + descriptor
 
     # get rid of extra spaces
-    df["normalized_name"] = df["normalized_name"].str.strip()
-    df["normalized_name"] = df["normalized_name"].replace(
-        to_replace="  +", value=" ", regex=True
-    )
+    df[col_name] = df[col_name].str.strip()
+    df[col_name] = df[col_name].replace(to_replace="  +", value=" ", regex=True)
 
     return df
 
