@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphaeroidinella dehiscens	Orbulina universa	Neogloboquadrina humerosa	Globorotalia tumida flexuosa	Globorotalia tumida	Globorotalia menardii	Globorotalia crassaformis	Globigerinoides sacculifer	Globigerinoides ruber	Globigerinoides quadrilobatus	Globigerinoides extremus	Globigerinoides conglobatus	Globigerinella siphonifera	Dentoglobigerina altispira	Sphaeroidinella dehiscens s.l.	Globigerinoides trilobus	Pulleniatina obliquiloculata	Neogloboquadrina acostaensis	Globorotalia tosaensis	Globorotalia scitula	Globigerinoides fistulosus	Globigerinita glutinata	Neogloboquadrina dutertrei	Globorotalia truncatulinoides	Zeaglobigerina rubescens	Globorotalia ungulata	Globigerinoides ruber (pink)	Bolliella calida	Comment
 																																													
 																																													
+																																													
 IR		Pleistocene		N23	180	1114	A	1	R	CC	37.00	0.3700	Perembo	Planktonic Foraminifers	A	G	F	F			F	A	F	A	A	A		A	A				A						A	A	A	A	A	F	
 																																													
 IR		Pleistocene			180	1114	A	1	R	CC	37.00	0.3700	Perembo	Planktonic Foraminifers	F	M					R	R	R		R	R		R	F				F						R	R		R			Rock specimen
@@ -39,7 +40,7 @@ IR		Pleistocene		N21	180	1114	A	22	R	CC	24.00	200.4500	Perembo	Planktonic Forami
 																																													
 IR		Pleistocene	N20	N21	180	1114	A	23	R	CC	28.00	210.5500	Perembo	Planktonic Foraminifers	R	P					R		R	F									R						R						
 																																													
-IR		Pleistocene		N21	180	1114	A	25	R	CC	9.00	231.0100	Resig	Planktonic Foraminifers	C	P		R	F		R                            F	R	R	F	F				R		R	F	F		R	R	R	F							
+IR		Pleistocene		N21	180	1114	A	25	R	CC	9.00	231.0100	Resig	Planktonic Foraminifers	C	P		R	F	R	F	R	R	F	F				R		R	F	F		R	R	R	F							
 																																													
 IR		Pleistocene	N20	N21	180	1114	A	26	R	CC	18.00	238.9900	Resig	Planktonic Foraminifers	F	P	R	R	F		R	R	R	F	F			R					R	R											
 																																													
@@ -47,5 +48,5 @@ IR	Pliocene	Pleistocene		N21	180	1114	A	29	R	CC	12.00	266.6200	Resig	Planktonic 
 																																													
 IR	Pliocene	Pleistocene			180	1114	A	30	R	CC	23.00	277.2900	Resig	Planktonic Foraminifers	R	P						R			R						R	F													
 																																													
-IR	Pliocene	Pleistocene		N21	180	1114	A	31	R	1	22.00	286.0200	Perembo	Planktonic Foraminifers	A	P	R	R	F		F                            R	R	R	R	F	F	R	R	R	F															
+IR	Pliocene	Pleistocene		N21	180	1114	A	31	R	1	22.00	286.0200	Perembo	Planktonic Foraminifers	A	P	R	R	F	F	R	R	R	R	F	F	R	R	R	F															
 																																													

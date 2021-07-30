@@ -1,18 +1,18 @@
-Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Reticulofenestra small-sized Reticulofenestra medium-sized Pseudoemiliania lacunosa Helicosphaera carteri Gephyrocapsa (small) Dictyococcites bisectus Coccolithus pelagicus Calcidiscus leptoporus Syracosphaera spp. Gephyrocapsa medium-sized Emiliania huxleyi Cyclicargolithus floridanus Reticulofenestra pseudoumbilicus Dictyococcites productus Comment
-""
-""
-""
-  IR                                                                       181 1120 A   1 H  1    0.00       0.0000 nannos    Nannofossils                                  A               VG                 A                                                                                   F                     C                                            C                     A                                         C                         A                                                                              C                        warm
-""
-  IR                                                                       181 1120 A   1 H  1    4.00       0.0400 nannos    Nannofossils                                  A               VG                 C                                                                                   F                     C                                            F                     A                                         C                         A                                             R                                F                               
-""
-  IR                                                                       181 1120 A   1 H  1   54.00       0.5400 nannos    Nannofossils                                  A               VG                 A                                                                                   F                     A                                            C                     F                                         A                         C                 R                                                                                            
-""
-  IR                                                                       181 1120 A   1 H  2   28.00       1.7800 nannos    Nannofossils                                  A               VG                 D                                                                                   C                     D                                            C                     C                      C                  C                         F                                                                                                              
-""
-  IR                                                                       181 1120 A   1 H  2   85.00       2.3500 nannos    Nannofossils                                  A               VG                                                                                                     F                     A                                                                  C                      R                  C                                                                                                                                 ? needed to be clarified
-""
-  IR                                                                       181 1120 A   1 H  3   30.00       3.3000 nannos    Nannofossils                                  A               VG                 A                                                          F                        C                     D                                            A                     C                                                                                                                                                                                  
-""
-  IR                                                                       181 1120 A   1 H  3  130.00       4.3000 nannos    Nannofossils                                  A               VG                 C                            A                             R                        F                     D                    R                       C                     A                                                                                                                                                                                  
-""
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group,Group Abundance,Group Preservation,Reticulofenestra small-sized,Reticulofenestra medium-sized,Pseudoemiliania lacunosa,Helicosphaera carteri,Gephyrocapsa (small),Dictyococcites bisectus,Coccolithus pelagicus,Calcidiscus leptoporus,Syracosphaera spp.,Gephyrocapsa medium-sized,Emiliania huxleyi,Cyclicargolithus floridanus,Reticulofenestra pseudoumbilicus,Dictyococcites productus,Comment
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,1,0.00,0.0000,nannos,Nannofossils,A,VG,A,,,F,C,,C,A,,C,A,,,C,warm
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,1,4.00,0.0400,nannos,Nannofossils,A,VG,C,,,F,C,,F,A,,C,A,,R,F,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,1,54.00,0.5400,nannos,Nannofossils,A,VG,A,,,F,A,,C,F,,A,C,R,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,2,28.00,1.7800,nannos,Nannofossils,A,VG,D,,,C,D,,C,C,C,C,F,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,2,85.00,2.3500,nannos,Nannofossils,A,VG,,,,F,A,,,C,R,C,,,,,? needed to be clarified
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,3,30.00,3.3000,nannos,Nannofossils,A,VG,A,,F,C,D,,A,C,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,181,1120,A,1,H,3,130.00,4.3000,nannos,Nannofossils,A,VG,C,A,R,F,D,R,C,A,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

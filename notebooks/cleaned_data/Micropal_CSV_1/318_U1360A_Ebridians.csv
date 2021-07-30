@@ -1,8 +1,8 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Ebridian group abundance,Ebridian preservation dissolution,Ebridian preservation fragmentation,Ammodochium rectangulare,Ebridulina paradoxa,Hovassebria ampulla,Micromarsupium anceps,Micromarsupium curticannum,Pseudammodochium dictyoides,Pseudammodochium lingii,Pseudammodochium sphericum
-318-U1360A-1R-1-W 17/17-DIAT2 int clast,318,U1360,A,1,1-1,R,1,W,17/17-DIAT2 int clast,0,0,0.17,0.17,X,,,X,,,,,,,
-318-U1360A-3R-1-W 8/8-DIAT2,318,U1360,A,3,3-1,R,1,W,8/8-DIAT2,0,0,23.38,23.38,X,,,X,,,,,,,
-318-U1360A-3R-CC-PAL-DIAT1,318,U1360,A,3,3-CC,R,CC,PAL,DIAT1,0,0,23.735,23.735,X,,,,,,,,,,
-318-U1360A-3R-CC-PAL-DIAT2,318,U1360,A,3,3-CC,R,CC,PAL,DIAT2,0,0,23.735,23.735,X,,,X,,,,,,,
-318-U1360A-4R-2-W 115/117-DIAT,318,U1360,A,4,4-2,R,2,W,115/117-DIAT,0,2,35.14,35.16,X,,,X,,,,,,,
-318-U1360A-4R-CC-PAL-DIAT1,318,U1360,A,4,4-CC,R,CC,PAL,DIAT1,0,4,35.32,35.36,X,,,,,,,,,,
-318-U1360A-4R-CC-PAL-DIAT3,318,U1360,A,4,4-CC,R,CC,PAL,DIAT3,0,5,35.32,35.37,,,,,,,,,,X,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Ebridian group abundance,Ebridian preservation dissolution,Ebridian preservation fragmentation,Ammodochium rectangulare,Ebridulina paradoxa,Hovassebria ampulla,Micromarsupium anceps,Micromarsupium curticannum,Pseudammodochium dictyoides,Pseudammodochium lingii,Pseudammodochium sphericum,Zone name,Zone name (short)
+318-U1360A-1R-1-W 17/17-DIAT2 int clast,318,U1360,A,1,1-1,R,1,W,17/17-DIAT2 int clast,0,0,0.17,0.17,X,,,X,,,,,,,,,
+318-U1360A-3R-1-W 8/8-DIAT2,318,U1360,A,3,3-1,R,1,W,8/8-DIAT2,0,0,23.38,23.38,X,,,X,,,,,,,,,
+318-U1360A-3R-CC-PAL-DIAT1,318,U1360,A,3,3-CC,R,CC,PAL,DIAT1,0,0 ,23.735,23.735,X,,,,,,,,,,,,
+318-U1360A-3R-CC-PAL-DIAT2,318,U1360,A,3,3-CC,R,CC,PAL,DIAT2,0,0 ,23.735,23.735,X,,,X,,,,,,,,,
+318-U1360A-4R-2-W 115/117-DIAT,318,U1360,A,4,4-2,R,2,W,115/117-DIAT,0,2,35.14,35.16,X,,,X,,,,,,,,,
+318-U1360A-4R-CC-PAL-DIAT1,318,U1360,A,4,4-CC,R,CC,PAL,DIAT1,0,4,35.32,35.36,X,,,,,,,,,,,,
+318-U1360A-4R-CC-PAL-DIAT3,318,U1360,A,4,4-CC,R,CC,PAL,DIAT3,0,5,35.32,35.37,,,,,,,,,,X,,,

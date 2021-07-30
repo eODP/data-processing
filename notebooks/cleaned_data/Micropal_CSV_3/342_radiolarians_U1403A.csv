@@ -1,41 +1,41 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group Abundance,Amphisphaera coronata s.l.,Amphisphaera goruna,Axoprunum pierinae group,Bekoma bidartensis,Bekoma campechensis,Bekoma divaricata,Buryella clinata,Buryella pentadica,Buryella tetradica,Calocycloma ampulla,Calocycloma castum,Clathrocyclas australis,Dictyoprora mongolfieri,Eusyringium fistuligerum,Eusyringium lagena,"Heliodiscus asteriscus Haeckel, 1887",Lamptonium fabaeforme chaunothorax ,Lamptonium fabaeforme constrictum,Lamptonium fabaeforme fabaeforme ,Lamptonium pennatum,Lithochytris vespertilio,Lophocyrtis (Cyclampterium) hadra,Lophocyrtis (Lophocyrtis) jacchia,Lophocyrtis aspera,Lophocyrtis biaurita,Lophocyrtis semipolita group,Lychnocanoma amphitrite,Lychnocanoma auxilla ,Lychnocanoma bellum,Lychnocanoma conica,Lychnocanoma elongata ,Periphaena decora,Periphaena heliasteriscus,Periphaena tripyramis triangula,Peritiviator(?) dumitricai,Phormocyrtis striata exquisita,Phormocyrtis striata praexquisita,Phormocyrtis striata striata,Phormocyrtis turgida,Podocyrtis aphorma,Podocyrtis diamesa,Podocyrtis papalis ,Pterocodon (?) ampla ,Pterocodon (?) anteclinata,Pterocodon (?) poculum ,Rhopalocanium ornatum,Sethochyrtis chrysalli,Sethochytris bablylonis ,Sethochytris triconiscus,Spongatractus balbis ,Spongatractus pachystylus,Stylotrochus nitidus ,Theocorys acroria,Theocorys anaclasta ,Theocotyle conica,Theocotyle cryptocephala,Theocotyle nigriniae,Theocotylissa ficus ,Thyrsocyrtis hirsuta,Thyrsocyrtis rhizodon ,Thyrsocyrtis tensa ,Comments,File Data,Ship File Links,Shore File Links,Exp,Site,Hole,Core,Type,Section,A/W
-342-U1403A-1H-1-W 48/50-RADS,0,2,0.48,0.5,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,1,H,1,W
-342-U1403A-1H-2-W 48/50-RADS,0,2,1.98,2.0,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,1,H,2,W
-342-U1403A-2H-CC-PAL,0,5,15.67,15.72,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,2,H,CC,PAL
-342-U1403A-3H-CC-PAL,0,5,25.14,25.19,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,3,H,CC,PAL
-342-U1403A-4H-CC-PAL,0,5,34.29,34.34,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,4,H,CC,PAL
-342-U1403A-5H-CC-PAL,0,5,43.79,43.84,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,5,H,CC,PAL
-342-U1403A-6H-CC-PAL,0,5,53.64,53.69,,,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,6,H,CC,PAL
-342-U1403A-7H-CC-PAL,0,5,63.34,63.39,,,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,7,H,CC,PAL
-342-U1403A-8H-CC-PAL,0,5,72.96,73.01,RP12,RP12 - Thyrsocyrtis triacantha,,M,A,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,P,,,,,,,P,,P,P,,,,,342,U1403,A,8,H,CC,PAL
-342-U1403A-9H-4-W 50/52-RADS,0,2,77.27,77.29,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,9,H,4,W
-342-U1403A-9H-CC-PAL,0,5,81.77,81.82,RP12,RP12 - Thyrsocyrtis triacantha,,G,A,P,,,,,,,,,,P,,P,,P,,,,,,,,,,P,,,,P,,,,,,,,,F,,P,,P,,,,,,P,,,,,,,,,,P,,P,,,,,,342,U1403,A,9,H,CC,PAL
-342-U1403A-10H-4-W 50/52-RADS,0,2,86.78,86.8,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,10,H,4,W
-342-U1403A-10H-CC-PAL,0,5,91.88,91.93,RP12,RP12 - Thyrsocyrtis triacantha,,G,A,P,,,,,,,,,P,,,,,,,,,,,,,,,P,,,P,P,,,P,,,,,,P,,P,,P,,,,,,P,,,,,,,P,P,,P,P,,P,,,,,342,U1403,A,10,H,CC,PAL
-342-U1403A-11H-4-W 50/52-RADS,0,2,96.3,96.32,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,11,H,4,W
-342-U1403A-11H-CC-PAL,0,5,101.1,101.15,RP12,RP12 - Thyrsocyrtis triacantha,,M,A,P,,,,,,,,,,,,P,,P,,,,,,,,,,,,,,P,,,,P,,,,,P,,,,P,,,,,,P,P,,,,,,,P,,P,P,,P,,,,,342,U1403,A,11,H,CC,PAL
-342-U1403A-12H-4-W 50/52-RADS,0,2,105.81,105.83,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,12,H,4,W
-342-U1403A-12H-CC-PAL,0,5,110.84,110.89,RP11,RP11 - Dictyoprora mongolfieri,,G,A,P,,P,,,,,,,P,,,P,,,,,,,,,,,,P,,,,P,,,P,P,,,,,P,,,P,P,,,,,,P,P,P,,,,,P,,,P,P,P,P,,,,,342,U1403,A,12,H,CC,PAL
-342-U1403A-13H-4-W 50/52-RADS,0,2,115.24,115.26,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,13,H,4,W
-342-U1403A-13H-CC-PAL,0,5,120.2,120.25,RP10,RP10 - Theocotyle cryptocephala,,G,A,P,,P,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,P,P,,,,,P,,,,P,,,,,,P,,,,,,P,,P,P,?,P,P,P,,,,,342,U1403,A,13,H,CC,PAL
-342-U1403A-14H-4-W 50/52-RADS,0,2,124.76,124.78,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,14,H,4,W
-342-U1403A-14H-CC-PAL,0,5,129.74,129.79,RP9,RP09 - Phormocyrtis striata striata,,G,A,P,,P,,,,,,,P,P,,,,,,,,,,,,,,P,,,P,P,,,P,P,,,,,P,,P,P,P,,,,,,P,,,,,,,,,P,P,P,P,P,,,,,342,U1403,A,14,H,CC,PAL
-342-U1403A-15H-4-W 50/52-RADS,0,2,134.3,134.32,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,15,H,4,W
-342-U1403A-15H-CC-PAL,0,5,138.38,138.43,RP9,RP09 - Phormocyrtis striata striata,,G,A,P,,P,,,,,,,P,P,,,,,,,,,,,,,,P,,,P,P,,,,P,,,,,P,,P,P,P,,,,,,P,,,P,,P,,,,P,P,P,?,P,,,,,342,U1403,A,15,H,CC,PAL
-342-U1403A-16H-4-W 50/52-RADS,0,2,143.65,143.67,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,16,H,4,W
-342-U1403A-16H-CC-PAL,0,5,147.75,147.8,RP9,RP09 - Phormocyrtis striata striata,,G,A,P,,,,,,,,,P,P,,,,,,,,P,,,,,,P,,,P,P,,,,,,,P,,P,,,,P,,,,,,P,,P,,,,,,,P,,P,P,,,,,,342,U1403,A,16,H,CC,PAL
-342-U1403A-17H-CC-PAL,0,5,147.8,147.85,RP9,RP09 - Phormocyrtis striata striata,,G,C,P,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,,,342,U1403,A,17,H,CC,PAL
-342-U1403A-18X-CC-PAL,0,2,148.76,148.78,RP9,RP09 - Phormocyrtis striata striata,,G,C,P,P,P,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,,,,,P,,,,P,,,,,,P,,,,,,,,,,,P,,,,,,,342,U1403,A,18,X,CC,PAL
-342-U1403A-19X-CC-PAL,0,5,165.6,165.65,RP8,RP08 - Buryella clinata,,P,A,P,,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,P,,,,,,,,,,,P,,,,,,,342,U1403,A,19,X,CC,PAL
-342-U1403A-20X-4-RADS,0,2,171.0,171.02,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,20,X,4,RADS
-342-U1403A-20X-CC-PAL,0,5,175.42,175.47,RP7,RP07 - Bekoma bidartensis,,P,C,,P,,P,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,20,X,CC,PAL
-342-U1403A-21X-CC-PAL,0,5,185.11,185.16,RP7,RP07 - Bekoma bidartensis,,M,A,,P,,,,,,,P,P,,,,,,,,,,P,,,,,,,,P,,,,,,,,P,,P,,,,P,,,,,,P,,,,,,,,,,,,,,,,,,342,U1403,A,21,X,CC,PAL
-342-U1403A-22X-CC-PAL,0,5,188.66,188.71,5,RP05 - Buryella tetradica,,M,C,,P,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,22,X,CC,PAL
-342-U1403A-23X-4-W 61/63-RADS,0,2,199.81,199.83,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,23,X,4,W
-342-U1403A-23X-CC-PAL,0,5,204.29,204.34,5,RP05 - Buryella tetradica,,P,C,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,23,X,CC,PAL
-342-U1403A-24X-CC-PAL,0,5,204.77,204.82,,,,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,24,X,CC,PAL
-342-U1403A-25X-4-W 90/92-RADS,0,2,215.1,215.12,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,25,X,4,W
-342-U1403A-25X-CC-PAL,0,5,218.3,218.35,,,,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,25,X,CC,PAL
-342-U1403A-26X-CC-PAL,0,5,224.16,224.21,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,26,X,CC,PAL
-342-U1403A-27X-CC-PAL,0,5,233.19,233.24,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,27,X,CC,PAL
-342-U1403A-28X-CC-PAL,0,5,242.25,242.3,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,28,X,CC,PAL
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group Abundance,Amphisphaera coronata s.l.,Amphisphaera goruna,Axoprunum pierinae group,Bekoma bidartensis,Bekoma campechensis,Bekoma divaricata,Buryella clinata,Buryella pentadica,Buryella tetradica,Calocycloma ampulla,Calocycloma castum,Clathrocyclas australis,Dictyoprora mongolfieri,Eusyringium fistuligerum,Eusyringium lagena,"Heliodiscus asteriscus Haeckel, 1887",Lamptonium fabaeforme chaunothorax ,Lamptonium fabaeforme constrictum,Lamptonium fabaeforme fabaeforme ,Lamptonium pennatum,Lithochytris vespertilio,Lophocyrtis (Cyclampterium) hadra,Lophocyrtis (Lophocyrtis) jacchia,Lophocyrtis aspera,Lophocyrtis biaurita,Lophocyrtis semipolita group,Lychnocanoma amphitrite,Lychnocanoma auxilla ,Lychnocanoma bellum,Lychnocanoma conica,Lychnocanoma elongata ,Periphaena decora,Periphaena heliasteriscus,Periphaena tripyramis triangula,Peritiviator(?) dumitricai,Phormocyrtis striata exquisita,Phormocyrtis striata praexquisita,Phormocyrtis striata striata,Phormocyrtis turgida,Podocyrtis aphorma,Podocyrtis diamesa,Podocyrtis papalis ,Pterocodon (?) ampla ,Pterocodon (?) anteclinata,Pterocodon (?) poculum ,Rhopalocanium ornatum,Sethochyrtis chrysalli,Sethochytris bablylonis ,Sethochytris triconiscus,Spongatractus balbis ,Spongatractus pachystylus,Stylotrochus nitidus ,Theocorys acroria,Theocorys anaclasta ,Theocotyle conica,Theocotyle cryptocephala,Theocotyle nigriniae,Theocotylissa ficus ,Thyrsocyrtis hirsuta,Thyrsocyrtis rhizodon ,Thyrsocyrtis tensa ,Comments,File Data,Ship File Links,Shore File Links,Exp,Site,Hole,Core,Type,Section,A/W,Extra Sample ID Data
+342-U1403A-1H-1-W 48/50-RADS,0,2,0.48,0.5,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,1,H,1,W,48/50-RADS
+342-U1403A-1H-2-W 48/50-RADS,0,2,1.98,2,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,1,H,2,W,48/50-RADS
+342-U1403A-2H-CC-PAL,0,5,15.67,15.72,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,2,H,CC,PAL,
+342-U1403A-3H-CC-PAL,0,5,25.14,25.19,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,3,H,CC,PAL,
+342-U1403A-4H-CC-PAL,0,5,34.29,34.34,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,4,H,CC,PAL,
+342-U1403A-5H-CC-PAL,0,5,43.79,43.84,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,5,H,CC,PAL,
+342-U1403A-6H-CC-PAL,0,5,53.64,53.69,,,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,6,H,CC,PAL,
+342-U1403A-7H-CC-PAL,0,5,63.34,63.39,,,,P,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,7,H,CC,PAL,
+342-U1403A-8H-CC-PAL,0,5,72.96,73.01,RP12,RP12 - Thyrsocyrtis triacantha,,M,A,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,P,,,,,,,P,,P,P,,,,,342,U1403,A,8,H,CC,PAL,
+342-U1403A-9H-4-W 50/52-RADS,0,2,77.27,77.29,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,9,H,4,W,50/52-RADS
+342-U1403A-9H-CC-PAL,0,5,81.77,81.82,RP12,RP12 - Thyrsocyrtis triacantha,,G,A,P,,,,,,,,,,P,,P,,P,,,,,,,,,,P,,,,P,,,,,,,,,F,,P,,P,,,,,,P,,,,,,,,,,P,,P,,,,,,342,U1403,A,9,H,CC,PAL,
+342-U1403A-10H-4-W 50/52-RADS,0,2,86.78,86.8,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,10,H,4,W,50/52-RADS
+342-U1403A-10H-CC-PAL,0,5,91.88,91.93,RP12,RP12 - Thyrsocyrtis triacantha,,G,A,P,,,,,,,,,P,,,,,,,,,,,,,,,P,,,P,P,,,P,,,,,,P,,P,,P,,,,,,P,,,,,,,P,P,,P,P,,P,,,,,342,U1403,A,10,H,CC,PAL,
+342-U1403A-11H-4-W 50/52-RADS,0,2,96.3,96.32,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,11,H,4,W,50/52-RADS
+342-U1403A-11H-CC-PAL,0,5,101.1,101.15,RP12,RP12 - Thyrsocyrtis triacantha,,M,A,P,,,,,,,,,,,,P,,P,,,,,,,,,,,,,,P,,,,P,,,,,P,,,,P,,,,,,P,P,,,,,,,P,,P,P,,P,,,,,342,U1403,A,11,H,CC,PAL,
+342-U1403A-12H-4-W 50/52-RADS,0,2,105.81,105.83,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,12,H,4,W,50/52-RADS
+342-U1403A-12H-CC-PAL,0,5,110.84,110.89,RP11,RP11 - Dictyoprora mongolfieri,,G,A,P,,P,,,,,,,P,,,P,,,,,,,,,,,,P,,,,P,,,P,P,,,,,P,,,P,P,,,,,,P,P,P,,,,,P,,,P,P,P,P,,,,,342,U1403,A,12,H,CC,PAL,
+342-U1403A-13H-4-W 50/52-RADS,0,2,115.24,115.26,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,13,H,4,W,50/52-RADS
+342-U1403A-13H-CC-PAL,0,5,120.2,120.25,RP10,RP10 - Theocotyle cryptocephala,,G,A,P,,P,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,P,P,,,,,P,,,,P,,,,,,P,,,,,,P,,P,P,?,P,P,P,,,,,342,U1403,A,13,H,CC,PAL,
+342-U1403A-14H-4-W 50/52-RADS,0,2,124.76,124.78,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,14,H,4,W,50/52-RADS
+342-U1403A-14H-CC-PAL,0,5,129.74,129.79,RP9,RP09 - Phormocyrtis striata striata,,G,A,P,,P,,,,,,,P,P,,,,,,,,,,,,,,P,,,P,P,,,P,P,,,,,P,,P,P,P,,,,,,P,,,,,,,,,P,P,P,P,P,,,,,342,U1403,A,14,H,CC,PAL,
+342-U1403A-15H-4-W 50/52-RADS,0,2,134.3,134.32,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,15,H,4,W,50/52-RADS
+342-U1403A-15H-CC-PAL,0,5,138.38,138.43,RP9,RP09 - Phormocyrtis striata striata,,G,A,P,,P,,,,,,,P,P,,,,,,,,,,,,,,P,,,P,P,,,,P,,,,,P,,P,P,P,,,,,,P,,,P,,P,,,,P,P,P,?,P,,,,,342,U1403,A,15,H,CC,PAL,
+342-U1403A-16H-4-W 50/52-RADS,0,2,143.65,143.67,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,16,H,4,W,50/52-RADS
+342-U1403A-16H-CC-PAL,0,5,147.75,147.8,RP9,RP09 - Phormocyrtis striata striata,,G,A,P,,,,,,,,,P,P,,,,,,,,P,,,,,,P,,,P,P,,,,,,,P,,P,,,,P,,,,,,P,,P,,,,,,,P,,P,P,,,,,,342,U1403,A,16,H,CC,PAL,
+342-U1403A-17H-CC-PAL,0,5,147.8,147.85,RP9,RP09 - Phormocyrtis striata striata,,G,C,P,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,,,342,U1403,A,17,H,CC,PAL,
+342-U1403A-18X-CC-PAL,0,2,148.76,148.78,RP9,RP09 - Phormocyrtis striata striata,,G,C,P,P,P,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,,,,,P,,,,P,,,,,,P,,,,,,,,,,,P,,,,,,,342,U1403,A,18,X,CC,PAL,
+342-U1403A-19X-CC-PAL,0,5,165.6,165.65,RP8,RP08 - Buryella clinata,,P,A,P,,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,P,,,,,,,,,,,P,,,,,,,342,U1403,A,19,X,CC,PAL,
+342-U1403A-20X-4-RADS,0,2,171,171.02,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,20,X,4,RADS,
+342-U1403A-20X-CC-PAL,0,5,175.42,175.47,RP7,RP07 - Bekoma bidartensis,,P,C,,P,,P,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,20,X,CC,PAL,
+342-U1403A-21X-CC-PAL,0,5,185.11,185.16,RP7,RP07 - Bekoma bidartensis,,M,A,,P,,,,,,,P,P,,,,,,,,,,P,,,,,,,,P,,,,,,,,P,,P,,,,P,,,,,,P,,,,,,,,,,,,,,,,,,342,U1403,A,21,X,CC,PAL,
+342-U1403A-22X-CC-PAL,0,5,188.66,188.71,5,RP05 - Buryella tetradica,,M,C,,P,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,22,X,CC,PAL,
+342-U1403A-23X-4-W 61/63-RADS,0,2,199.81,199.83,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,23,X,4,W,61/63-RADS
+342-U1403A-23X-CC-PAL,0,5,204.29,204.34,5,RP05 - Buryella tetradica,,P,C,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,23,X,CC,PAL,
+342-U1403A-24X-CC-PAL,0,5,204.77,204.82,,,,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,24,X,CC,PAL,
+342-U1403A-25X-4-W 90/92-RADS,0,2,215.1,215.12,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TBD,,,,342,U1403,A,25,X,4,W,90/92-RADS
+342-U1403A-25X-CC-PAL,0,5,218.3,218.35,,,,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,25,X,CC,PAL,
+342-U1403A-26X-CC-PAL,0,5,224.16,224.21,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,26,X,CC,PAL,
+342-U1403A-27X-CC-PAL,0,5,233.19,233.24,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,27,X,CC,PAL,
+342-U1403A-28X-CC-PAL,0,5,242.25,242.3,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342,U1403,A,28,X,CC,PAL,

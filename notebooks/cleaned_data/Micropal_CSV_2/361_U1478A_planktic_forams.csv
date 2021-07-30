@@ -97,7 +97,7 @@ Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bott
 361,U1478,A,29,29-1,F,1,W,70/72-FORAM,0,2,230.3,230.32,,,,A,,F,,,,,,,,F,,,,A,F,P,,,,,,,,,,,,,P,,,,P,,P,,P,P,,,,,,P,,,,,,,P,P,,,,,,,,361-U1478A-29F-1-W 70/72-FORAM
 361,U1478,A,29,29-3,F,3,W,70/72-FORAM,0,2,233.09,233.11,,,,A,,F,,,,,,,,F,,,,A,F,,,,,,,,,,P,,,,P,,,,P,,R,,,,,,,,,,,,,,,,R,R,,,,,,,,361-U1478A-29F-3-W 70/72-FORAM
 361,U1478,A,29,29-CC,F,CC,PAL,FORAM,0,5,234.6,234.65,,,,A,,F,R,F,R,,R,P,R,F,,,,A,F,,,,R,,,,P,R,,R,,F,P,,F,,P,,F,,R,,F,,,,R,,,R,,,R,,F,R,,,,,,,,361-U1478A-29F-CC-PAL-FORAM
-361,U1478,A,30,30-1,F,1,W,70/72-FORAM,0,2,235.0,235.02,"B Globorotalia tosaensis (Gradstein et al., 2012)",,,A,,F,P,F,R,,R,,,A,,,,A,F,P,,,R,,,,,R,P,R,,P,R,,P,,P,,R,,R,P,F,,,,R,,,R,P,,R,,R,R,,,,,,,,361-U1478A-30F-1-W 70/72-FORAM
+361,U1478,A,30,30-1,F,1,W,70/72-FORAM,0,2,235,235.02,"B Globorotalia tosaensis (Gradstein et al., 2012)",,,A,,F,P,F,R,,R,,,A,,,,A,F,P,,,R,,,,,R,P,R,,P,R,,P,,P,,R,,R,P,F,,,,R,,,R,P,,R,,R,R,,,,,,,,361-U1478A-30F-1-W 70/72-FORAM
 361,U1478,A,30,30-3,F,3,W,70/72-FORAM,0,2,237.92,237.94,,,,A,,F,P,R,R,,R,,P,A,,,,A,F,P,,,R,,,,,R,P,R,,,R,,P,,R,,,,R,R,R,,,,,,,R,P,,R,,F,F,,,,,,,,361-U1478A-30F-3-W 70/72-FORAM
 361,U1478,A,30,30-CC,F,CC,PAL,FORAM,0,5,239.39,239.44,,,,A,,F,,F,R,,,R,,A,,,,A,F,,,,R,,,,P,R,P,F,,,P,,R,,R,,P,,R,R,R,,,,P,P,,R,P,,R,,A,R,,,,,,,,361-U1478A-30F-CC-PAL-FORAM
 361,U1478,A,31,31-1,F,1,W,70/72-FORAM,0,2,239.7,239.72,"T Globorotalia margaritae (Gradstein et al., 2012)",,,A,,F,,R,R,,,,R,F,,,,F,A,P,,,R,P,,,,R,R,F,,,R,,,,,,,,R,R,R,,,,R,P,,F,R,,R,,F,F,,,,,,,,361-U1478A-31F-1-W 70/72-FORAM

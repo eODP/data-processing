@@ -1,6 +1,6 @@
-Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Sphenolithus abies Helicosphaera carteri Coccolithus pelagicus Calcidiscus leptoporus Comment
-""
-""
-""
-  IR                                                                       180 1117 C   1 R  1    9.50       0.0950 Takahashi Nannofossils                                  F               M                  R                  R                     R                     R                             
-""
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group,Group Abundance,Group Preservation,Sphenolithus abies,Helicosphaera carteri,Coccolithus pelagicus,Calcidiscus leptoporus,Comment
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+IR,,,,,180,1117,C,1,R,1,9.50,0.0950,Takahashi,Nannofossils,F,M,R,R,R,R,
+,,,,,,,,,,,,,,,,,,,,,

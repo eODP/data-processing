@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Sphenolithus abies	Scyphosphaera apsteinii	Discoaster surculus	Discoaster pentaradiatus	Discoaster brouweri	Discoaster tamalis	Discoaster asymmetricus	Ceratolithus rugosus	Pseudoemiliania lacunosa	Helicosphaera carteri	Coccolithus pelagicus	Calcidiscus macintyrei	Calcidiscus leptoporus	Reticulofenestra pseudoumbilicus	Helicosphaera sellii	Reticulofenestra minutula	Dictyococcites productus	Discoaster variabilis	Ceratolithus cristatus	Discoaster blackstockae	Umbilicosphaera sibogae	Syracosphaera histrica	Rhabdosphaera clavigera	Braarudosphaera bigelowii	Gephyrocapsa oceanica	Thoracosphaera heimii	Gephyrocapsa caribbeanica	Gephyrocapsa omega	Emiliania huxleyi	Comment
 																																														
 																																														
+																																														
 IR				NN21	180	1109	C	1	H	CC	23.00	7.3400	Siesser	Nannofossils	A	VG										C	F		C						R						C			F	C	
 																																														
 IR				NN21	180	1109	C	2	H	CC	8.00	17.2600	Siesser	Nannofossils	A	G																													R	

@@ -1,44 +1,46 @@
-Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Thalassiosira spp.	Thalassionema nitzschioides var. nitzschioides	Skeletonema costatum	Silicoflagellates (all taxa)	Roperia tesselata	Pseudosolenia calcar-avis	Neodelphineis pelagica	Ditylum brightwelli	Coscinodiscus spp.	Chaetoceros spp. (resting spores)	Bacteriastrum comosum	Aulacoseira granulata/islandica	Actinoptychus vulgaris	Actinoptychus senarius	Actinocyclus octonarius var. tenella	Actinocyclus curvatulus	Z Actiniscus pentasterias	"Thalassiothrix spp. (incl. Lioloma),"	Rhizosolenia setigera/pungens	Pseudoeunotia doliolus	Nitzschia reinholdii	Cyclotella spp.	Azpeitia nodulifera	"other Freshwater (Achnanthes; Fragilaria, etc.)"	Rhizosolenia styliformis	Nitzschia fossilis	Coscinodiscus plicatus	Asteromphalus spp.	Actinocyclus octonarius	non-planktonic diatoms	Thalassionema hirosakiensis	Actinocyclus ellipticus	Azpeitia neocrenulata	Stephanopyxis spore (apiculata)	Rhizosolenia bergonii	Hemidiscus cuneiformis	"""Rhizosolenia """"Imbricatae"""""""	X Phytoliths diff. shapes	Thalassionema nitzschioides  var. parva	Cyclotella litoralis	Stephanopyxis palmeriana	Coscinodiscus radiatus	Pseudotriceratium punctatum	Nitzschia marina	Paralia sulcata	Nitzschia bicapitata	Cyclotella stylorum	Azpeitia tabularis	Porosira denticulata	Stephanodiscus astraea	Comment
-																																																																			
-																																																																			
-IR				NTD 17	175	1077	A	1	H	CC	13	4.93	Lange	Diatoms	A	M        	9	64		1				4		67		4								+		38	+	1					2	3										3							1			1	area counted= 0.45 mm2 a slide= 484 mm2 *setae
-																																																																			
-IR				NTD 17	175	1077	A	2	H	CC	18	10.78	Lange	Diatoms	A	G        	13	33	2	2						71		3		1		2		1	2	3		35		4	1			1											7	3		1					+			2	a counted = 0.47 mm2 a slide= 484 mm2 *setae *T. punctigera (angstii)
-																																																																			
-IR				NTD 17	175	1077	A	3	H	CC	16	24.09	Lange	Diatoms	A	MG       	12	257	10	2	+ 					201	2	2								2		14		1					1	1	1							+	1			1							1		a counted= 1.37 mm2 a slide= 484 mm2 *setae radic. *pyrite inside diatoms
-																																																																			
-IR				NTD 17	175	1077	A	4	H	CC	18	33.85	Lange	Diatoms	C	M        	7	115	103	5	1	1				43		2	2					1	1	2		23		3				1	1	2	3				1				3						1	1	6	1			a counted= 1.37 mm2 a slide= 484 mm2
-																																																																			
-IR				NTD 17	175	1077	A	5	H	CC	23	43.39	Lange	Diatoms	A	M        	7	76		2			2			47	1	1				1				1		49		1						1													+	1							a counted= 0.68 mm2 a slide 484 mm2 * pyrite in diats
-																																																																			
-IR				NTD 17	175	1077	A	6	H	CC	19	52.93	Lange	Diatoms	A	M        	9	132	3	1		1		1		102	2	5				2				1		7		1				1		2									7			1									a counted= 0.96 mm2 a slide= 484 mm2 *RS seiracanthus
-																																																																			
-IR				NTD 17	175	1077	A	7	H	CC	31	62.55	Lange	Diatoms	C	MP       	11	132		3		1				55	1	1										6						1										+	6												a counted= 1.82 mm2 a slide= 484 mm2 *pyrite inside Thalassionema *Chrysophyte cysts
-																																																																			
-IR				NTD 17	175	1077	A	8	H	CC	24	72.24	Lange	Diatoms	C	M        	14	44	45	3				3		81	1	5				1		1		3		3		2				1	1		1				1				2			1									a counted= 1.0 mm2 a slide= 484 mm2 *pyrite inside diatoms
-																																																																			
-IR				NTD 17	175	1077	A	9	H	CC	18	80.89	Lange	Diatoms	F	MP       	13	50	1	4		2	1	1	2	56		1	2		1					1		1								2									1												a counted= 1.6 mm2 a slide= 484 mm2 *pyrite inside diatoms
-																																																																			
-IR				NTD 17	175	1077	A	10	H	CC	40	91.26	Lange	Diatoms	C	MP       	7	47	1	1					1	59		13						1		1		1		1															1												a counted= 1.25 mm2 a slide= 484 mm2
-																																																																			
-IR				NTD 17	175	1077	A	11	H	CC	17	100.46	Lange	Diatoms	C	MP       	6	45		5		3	2			60		13				1	1	1		2		6								2								1			1										a counted= 1.09 mm2 a slide= 484 mm2
-																																																																			
-IR					175	1077	A	12	H	CC	24	110.19	Lange	Diatoms	C	M        	11	59	6				1	1	+	83		7						2	2	2		4		2			+			3				2		1		+	1	1											a counted= 1.96 mm2
-																																																																			
-IR					175	1077	A	14	H	CC	22	127.47	Lange	Diatoms	F	MP       	17	146	4	8	1	1		1		42		7	1	4	1	4		1	1	1		1		1						1	2	1		2			1														a counted= 5.58 mm2 *Mesocena
-																																																																			
-IR				NTD 16B	175	1077	A	15	H	CC	23	138.67	Lange	Diatoms	C	M        	9	92		5					2	50		+		5		2		1	1	1	1	+							1					+	1	1															a counted= 1.095 mm2 *Mesocena *pyrite in diatoms *setae radicans
-																																																																			
-IR					175	1077	A	16	H	CC	39	148.28	Lange	Diatoms	A	M        	4	161		5				1		82		6		1		3						1												1																	a counted= 0.547 mm2 *pyrite inside Thalassionema *aggregates of Thnema
-																																																																			
-IR					175	1077	A	17	H	CC	19	157.55	Lange	Diatoms	A	MG       	26	747	1	7			1	1	1	331		13	2	5	1	6						11		3	1		1		1	2				1																	a counted= 5.58 mm2 a slide= 484 mm2 *pyrite inside diatoms *pollen
-																																																																			
-IR				NTD 16B	175	1077	A	18	H	CC	22	166.73	Lange	Diatoms	A	M        	37	279	2	13			1	3	6	429		7	4	4		7		2	4		1	23			1	1			2	2	1	1	1																		a counted= 5.07 mm2 *pyrite in diatoms
-																																																																			
-IR				NTD 16B	175	1077	A	19	H	CC	27	176.39	Lange	Diatoms	C	M        	64	67	2	4			1	1	1	198	1	13	1	3		4	1					2			1					1	1	4																			a counted= 5.58 mm2 *pyrite in diatoms *brown flocs *Ethmodiscus fragments
-																																																																			
-IR					175	1077	A	20	H	CC	25	185.93	Lange	Diatoms	A	M        	18	123		6				3	1	73		9	1	1		1			1	1				4	1	1	1	1	1																						a counted= 1.82 mm2 a slide= 484 mm2 *T. punctigera (angstii)
-																																																																			
-IR				NTD 16B	175	1077	A	21	H	CC	25	195.49	Lange	Diatoms	A	M        	4	43		5	1		16	16	1	52	1			2		3	1	1	1	4	2	1	1																												a counted= 0.91 mm2
-																																																																			
-IR					175	1077	A	22	H	CC	23	205.01	Lange	Diatoms	A	MP       	10	55	+	7	1	1	16	9	2	70	+	3	1	2	1	2																																			a counted= 0.91 mm2 *Bidd. alternans present
+Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Thalassiosira spp.	Thalassionema nitzschioides var. nitzschioides	Skeletonema costatum	Silicoflagellates (all taxa)	Roperia tesselata	Pseudosolenia calcar-avis	Neodelphineis pelagica	Ditylum brightwelli	Coscinodiscus spp.	Chaetoceros spp. (resting spores)	Bacteriastrum comosum	Aulacoseira granulata/islandica	Actinoptychus vulgaris	Actinoptychus senarius	Actinocyclus octonarius var. tenella	Actinocyclus curvatulus	Z Actiniscus pentasterias	Thalassiothrix spp. (incl. Lioloma)	Rhizosolenia setigera/pungens	Pseudoeunotia doliolus	Nitzschia reinholdii	Cyclotella spp.	Azpeitia nodulifera	"other Freshwater (Achnanthes; Fragilaria, etc.)"	Rhizosolenia styliformis	Nitzschia fossilis	Coscinodiscus plicatus	Asteromphalus spp.	Actinocyclus octonarius	non-planktonic diatoms	Thalassionema hirosakiensis	Actinocyclus ellipticus	Azpeitia neocrenulata	Stephanopyxis spore (apiculata)	Rhizosolenia bergonii	Hemidiscus cuneiformis	"Rhizosolenia ""Imbricatae"""	X Phytoliths diff. shapes	Thalassionema nitzschioides  var. parva	Cyclotella litoralis	Stephanopyxis palmeriana	Coscinodiscus radiatus	Pseudotriceratium punctatum	Nitzschia marina	Paralia sulcata	Nitzschia bicapitata	Cyclotella stylorum	Azpeitia tabularis	Porosira denticulata	Stephanodiscus astraea	Comment
+
+
+
+  IR				NTD 17	175	1077	A	1	H	CC	13	4.93	Lange	Diatoms	A	M	9	64		1				4		67		4								+		38	+	1					2	3										3							1			1	area counted= 0.45 mm2 a slide= 484 mm2 *setae
+
+  IR				NTD 17	175	1077	A	2	H	CC	18	10.78	Lange	Diatoms	A	G	13	33	2	2						71		3		1		2		1	2	3		35		4	1			1											7	3		1					+			2	a counted = 0.47 mm2 a slide= 484 mm2 *setae *T. punctigera (angstii)
+
+  IR				NTD 17	175	1077	A	3	H	CC	16	24.09	Lange	Diatoms	A	MG	12	257	10	2	+					201	2	2								2		14		1					1	1	1							+	1			1							1		a counted= 1.37 mm2 a slide= 484 mm2 *setae radic. *pyrite inside diatoms
+
+  IR				NTD 17	175	1077	A	4	H	CC	18	33.85	Lange	Diatoms	C	M	7	115	103	5	1	1				43		2	2					1	1	2		23		3				1	1	2	3				1				3						1	1	6	1			a counted= 1.37 mm2 a slide= 484 mm2
+
+  IR				NTD 17	175	1077	A	5	H	CC	23	43.39	Lange	Diatoms	A	M	7	76		2			2			47	1	1				1				1		49		1						1													+	1							a counted= 0.68 mm2 a slide 484 mm2 * pyrite in diats
+
+  IR				NTD 17	175	1077	A	6	H	CC	19	52.93	Lange	Diatoms	A	M	9	132	3	1		1		1		102	2	5				2				1		7		1				1		2									7			1									a counted= 0.96 mm2 a slide= 484 mm2 *RS seiracanthus
+
+  IR				NTD 17	175	1077	A	7	H	CC	31	62.55	Lange	Diatoms	C	MP	11	132		3		1				55	1	1										6						1										+	6												a counted= 1.82 mm2 a slide= 484 mm2 *pyrite inside Thalassionema *Chrysophyte cysts
+
+  IR				NTD 17	175	1077	A	8	H	CC	24	72.24	Lange	Diatoms	C	M	14	44	45	3				3		81	1	5				1		1		3		3		2				1	1		1				1				2			1									a counted= 1.0 mm2 a slide= 484 mm2 *pyrite inside diatoms
+
+  IR				NTD 17	175	1077	A	9	H	CC	18	80.89	Lange	Diatoms	F	MP	13	50	1	4		2	1	1	2	56		1	2		1					1		1								2									1												a counted= 1.6 mm2 a slide= 484 mm2 *pyrite inside diatoms
+
+  IR				NTD 17	175	1077	A	10	H	CC	40	91.26	Lange	Diatoms	C	MP	7	47	1	1					1	59		13						1		1		1		1															1												a counted= 1.25 mm2 a slide= 484 mm2
+
+  IR				NTD 17	175	1077	A	11	H	CC	17	100.46	Lange	Diatoms	C	MP	6	45		5		3	2			60		13				1	1	1		2		6								2								1			1										a counted= 1.09 mm2 a slide= 484 mm2
+
+  IR					175	1077	A	12	H	CC	24	110.19	Lange	Diatoms	C	M	11	59	6				1	1	+	83		7						2	2	2		4		2			+			3				2		1		+	1	1											a counted= 1.96 mm2
+
+  IR					175	1077	A	14	H	CC	22	127.47	Lange	Diatoms	F	MP	17	146	4	8	1	1		1		42		7	1	4	1	4		1	1	1		1		1						1	2	1		2			1														a counted= 5.58 mm2 *Mesocena
+
+  IR				NTD 16B	175	1077	A	15	H	CC	23	138.67	Lange	Diatoms	C	M	9	92		5					2	50		+		5		2		1	1	1	1	+							1					+	1	1															a counted= 1.095 mm2 *Mesocena *pyrite in diatoms *setae radicans
+
+  IR					175	1077	A	16	H	CC	39	148.28	Lange	Diatoms	A	M	4	161		5				1		82		6		1		3						1												1																	a counted= 0.547 mm2 *pyrite inside Thalassionema *aggregates of Thnema
+
+  IR					175	1077	A	17	H	CC	19	157.55	Lange	Diatoms	A	MG	26	747	1	7			1	1	1	331		13	2	5	1	6						11		3	1		1		1	2				1																	a counted= 5.58 mm2 a slide= 484 mm2 *pyrite inside diatoms *pollen
+
+  IR				NTD 16B	175	1077	A	18	H	CC	22	166.73	Lange	Diatoms	A	M	37	279	2	13			1	3	6	429		7	4	4		7		2	4		1	23			1	1			2	2		1	1																		a counted= 5.07 mm2 *pyrite in diatoms
+
+  IR				NTD 16B	175	1077	A	19	H	CC	27	176.39	Lange	Diatoms	C	M	64	67	2	4			1	1	1	198	1	13	1	3		4	1					2			1					1	1	4																			a counted= 5.58 mm2 *pyrite in diatoms *brown flocs *Ethmodiscus fragments
+
+  IR					175	1077	A	20	H	CC	25	185.93	Lange	Diatoms	A	M	18	123		6				3	1	73		9	1	1		1			1	1				4	1	1	1	1	1																						a counted= 1.82 mm2 a slide= 484 mm2 *T. punctigera (angstii)
+
+  IR				NTD 16B	175	1077	A	21	H	CC	25	195.49	Lange	Diatoms	A	M	4	43		5	1		16	16	1	52	1			2		3	1	1	1	4	2	1	1																												a counted= 0.91 mm2
+
+  IR					175	1077	A	22	H	CC	23	205.01	Lange	Diatoms	A	MP	10	55	+	7	1	1	16	9	2	70	+	3	1	2	1	2																																			a counted= 0.91 mm2 *Bidd. alternans present
+

@@ -1,6 +1,7 @@
 Data	Age From (oldest)	Age To (youngest)	Zone From (bottom)	Zone To  (top)	Leg	Site	H	Cor	T	Sc	Top(cm)	Depth (mbsf)	Scientist	Fossil Group	Group Abundance	Group Preservation	Thoracosphaera spp.	Reticulofenestra small-sized	Reticulofenestra pseudoumbilicus	Pseudoemiliania lacunosa	Helicosphaera carteri	Gephyrocapsa parallela	Gephyrocapsa medium-sized	Cyclicargolithus floridanus	Coccolithus pelagicus	Calcidiscus leptoporus	Discoaster deflandrei	Dictyococcites bisectus	Braarudosphaera bigelowii	Umbilicosphaera angustiforamen	Helicosphaera intermedia	Helicosphaera sellii	Emiliania huxleyi	Pontosphaera spp.	Coronocyclus nitescens	Umbilicosphaera sibogae	Triquetrorhabdulus rugosus	Sphenolithus moriformis	Comment
 																																							
 																																							
+																																							
 IR	Pleistocene	Pleistocene	NN21	NN21	181	1119	B	1	H	CC	10.00	4.6800	nannos	Nannofossils	C	G		C					A	R	C	F	R						D			C	R	F	
 																																							
 IR	Pleistocene	Pleistocene	NN21	NN21	181	1119	B	2	H	CC	11.00	14.5300	nannos	Nannofossils	C	G	R						A	R	C	R		R					D		R				E. huxleyi are big and dominant
