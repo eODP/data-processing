@@ -5,6 +5,8 @@ import numpy as np
 from pandas._testing import assert_frame_equal
 import pytest
 
+import scripts.normalize_data
+
 from scripts.normalize_data import (
     tablerize,
     convert_column_names,
@@ -348,14 +350,14 @@ class TestAddExpeditionAwCols:
         df = pd.DataFrame(data)
         new_df = add_expedition_aw_cols(df)
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U2"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "3"]).all
-        assert (new_df["A/W"].values == ["a", "A"]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, "E"]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U2"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "3"]).all()
+        assert (new_df["A/W"].values == ["a", "A"]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, "E"]).all()
 
     def test_otherwise_raise_error(self):
         df = pd.DataFrame({"foo": [1]})
@@ -373,14 +375,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U20"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "Sec"]).all
-        assert (new_df["A/W"] == ["a", "4AA"]).all
-        assert (new_df["Extra Sample ID Data"].values == ["e", "E"]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U20"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "Sec"]).all()
+        assert (new_df["A/W"] == ["a", "4AA"]).all()
+        assert (new_df["Extra Sample ID Data"].values == ["e", "E"]).all()
 
     def test_accepts_exp_to_aw_string(self):
         data = {
@@ -389,14 +391,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U20"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "Sec"]).all
-        assert (new_df["A/W"] == ["a", "4AA"]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U20"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "Sec"]).all()
+        assert (new_df["A/W"] == ["a", "4AA"]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all()
 
     def test_accepts_exp_to_section_string(self):
         data = {
@@ -405,14 +407,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U2"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "3"]).all
-        assert (new_df["A/W"] == [None, None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U2"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "3"]).all()
+        assert (new_df["A/W"] == [None, None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all()
 
     def test_accepts_exp_to_type_string(self):
         data = {
@@ -421,14 +423,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U2"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == [None, None]).all
-        assert (new_df["A/W"] == [None, None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U2"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == [None, None]).all()
+        assert (new_df["A/W"] == [None, None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all()
 
     def test_accepts_exp_to_core_string(self):
         data = {
@@ -437,14 +439,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U2"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == [None, None]).all
-        assert (new_df["Section"].values == [None, None]).all
-        assert (new_df["A/W"] == [None, None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U2"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == [None, None]).all()
+        assert (new_df["Section"].values == [None, None]).all()
+        assert (new_df["A/W"] == [None, None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all()
 
     def test_accepts_exp_to_hole_string(self):
         data = {
@@ -453,14 +455,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U2"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == [None, None]).all
-        assert (new_df["Type"].values == [None, None]).all
-        assert (new_df["Section"].values == [None, None]).all
-        assert (new_df["A/W"] == [None, None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U2"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == [None, None]).all()
+        assert (new_df["Type"].values == [None, None]).all()
+        assert (new_df["Section"].values == [None, None]).all()
+        assert (new_df["A/W"] == [None, None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all()
 
     def test_handles_no_data(self):
         data = {
@@ -469,14 +471,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == [None]).all
-        assert (new_df["Site"].values == [None]).all
-        assert (new_df["Hole"].values == [None]).all
-        assert (new_df["Core"].values == [None]).all
-        assert (new_df["Type"].values == [None]).all
-        assert (new_df["Section"].values == [None]).all
-        assert (new_df["A/W"] == [None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None]).all
+        assert (new_df["Exp"].values == [None]).all()
+        assert (new_df["Site"].values == [None]).all()
+        assert (new_df["Hole"].values == [None]).all()
+        assert (new_df["Core"].values == [None]).all()
+        assert (new_df["Type"].values == [None]).all()
+        assert (new_df["Section"].values == [None]).all()
+        assert (new_df["A/W"] == [None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None]).all()
 
     def test_extracts_complex_extra(self):
         data = {
@@ -485,14 +487,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U10"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "30"]).all
-        assert (new_df["A/W"] == ["a(81-91)", "PAL(8-9)"]).all
-        assert (new_df["Extra Sample ID Data"].values == ["e f", "E F"]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U10"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "30"]).all()
+        assert (new_df["A/W"] == ["a(81-91)", "PAL(8-9)"]).all()
+        assert (new_df["Extra Sample ID Data"].values == ["e f", "E F"]).all()
 
     def test_extracts_extra_with_comma(self):
         data = {
@@ -501,14 +503,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U20"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "Sec"]).all
-        assert (new_df["A/W"] == ["a", "4AA"]).all
-        assert (new_df["Extra Sample ID Data"].values == ["0-9", ""]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U20"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "Sec"]).all()
+        assert (new_df["A/W"] == ["a", "4AA"]).all()
+        assert (new_df["Extra Sample ID Data"].values == ["0-9", ""]).all()
 
     def test_ignores_hash_symbol_element_in_sample_name(self):
         data = {
@@ -517,14 +519,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == ["1", "10"]).all
-        assert (new_df["Site"].values == ["U1", "U20"]).all
-        assert (new_df["Hole"].values == ["h", "H"]).all
-        assert (new_df["Core"].values == ["2", "20"]).all
-        assert (new_df["Type"].values == ["t", "T"]).all
-        assert (new_df["Section"].values == ["3", "Sec"]).all
-        assert (new_df["A/W"] == ["a", None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None, None]).all
+        assert (new_df["Exp"].values == ["1", "10"]).all()
+        assert (new_df["Site"].values == ["U1", "U20"]).all()
+        assert (new_df["Hole"].values == ["h", "H"]).all()
+        assert (new_df["Core"].values == ["2", "20"]).all()
+        assert (new_df["Type"].values == ["t", "T"]).all()
+        assert (new_df["Section"].values == ["3", "Sec"]).all()
+        assert (new_df["A/W"] == ["a", None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None, None]).all()
 
     def test_returns_None_when_input_is_None(self):
         data = {
@@ -533,14 +535,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == [None]).all
-        assert (new_df["Site"].values == [None]).all
-        assert (new_df["Hole"].values == [None]).all
-        assert (new_df["Core"].values == [None]).all
-        assert (new_df["Type"].values == [None]).all
-        assert (new_df["Section"].values == [None]).all
-        assert (new_df["A/W"] == [None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None]).all
+        assert (new_df["Exp"].values == [None]).all()
+        assert (new_df["Site"].values == [None]).all()
+        assert (new_df["Hole"].values == [None]).all()
+        assert (new_df["Core"].values == [None]).all()
+        assert (new_df["Type"].values == [None]).all()
+        assert (new_df["Section"].values == [None]).all()
+        assert (new_df["A/W"] == [None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None]).all()
 
     def test_returns_none_when_input_is_No_data_this_hole(self):
         data = {
@@ -549,14 +551,14 @@ class TestCreateSampleCols:
         df = pd.DataFrame(data)
         new_df = create_sample_cols(df["Sample"])
 
-        assert (new_df["Exp"].values == [None]).all
-        assert (new_df["Site"].values == [None]).all
-        assert (new_df["Hole"].values == [None]).all
-        assert (new_df["Core"].values == [None]).all
-        assert (new_df["Type"].values == [None]).all
-        assert (new_df["Section"].values == [None]).all
-        assert (new_df["A/W"] == [None]).all
-        assert (new_df["Extra Sample ID Data"].values == [None]).all
+        assert (new_df["Exp"].values == [None]).all()
+        assert (new_df["Site"].values == [None]).all()
+        assert (new_df["Hole"].values == [None]).all()
+        assert (new_df["Core"].values == [None]).all()
+        assert (new_df["Type"].values == [None]).all()
+        assert (new_df["Section"].values == [None]).all()
+        assert (new_df["A/W"] == [None]).all()
+        assert (new_df["Extra Sample ID Data"].values == [None]).all()
 
     def test_raises_error_if_exp_is_letters(self):
         data = {
