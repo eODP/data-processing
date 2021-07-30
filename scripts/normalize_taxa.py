@@ -22,7 +22,6 @@ taxon_groups = [
     "silicoflagellates",
 ]
 
-date = "2021-05-24"
 
 taxa_rank_fields = [
     "Any taxon above genus",
@@ -40,7 +39,6 @@ taxa_fields = ["non-taxa descriptor", "normalized_name", "taxon_group"]
 
 metadata_fields = [
     "verbatim_name",
-    "initial_comments",
     "comments",
 ]
 
@@ -62,7 +60,7 @@ def update_taxon_group(taxon_group):
     return invalid_groups.get(taxon_group, taxon_group)
 
 
-def add_normalized_name_column(df):
+def add_normalized_name_column(df, include_descriptor=True, col_name="normalized_name"):
     fields = [
         "genus modifier",
         "genus name",
@@ -75,21 +73,20 @@ def add_normalized_name_column(df):
     ]
 
     # concatenate taxa fields into a string
-    df["normalized_name"] = df["Any taxon above genus"].str.cat(
-        df[fields], sep=" ", na_rep=""
-    )
+    df[col_name] = df["Any taxon above genus"].str.cat(df[fields], sep=" ", na_rep="")
 
-    # add "(descriptor)" if it exists
-    descriptor = np.where(
-        df["non-taxa descriptor"].notnull(), "(" + df["non-taxa descriptor"] + ")", ""
-    )
-    df["normalized_name"] = df["normalized_name"] + descriptor
+    if include_descriptor:
+        # add "(descriptor)" if it exists
+        descriptor = np.where(
+            df["non-taxa descriptor"].notnull(),
+            "(" + df["non-taxa descriptor"] + ")",
+            "",
+        )
+        df[col_name] = df[col_name] + descriptor
 
     # get rid of extra spaces
-    df["normalized_name"] = df["normalized_name"].str.strip()
-    df["normalized_name"] = df["normalized_name"].replace(
-        to_replace="  +", value=" ", regex=True
-    )
+    df[col_name] = df[col_name].str.strip()
+    df[col_name] = df[col_name].replace(to_replace="  +", value=" ", regex=True)
 
     return df
 
