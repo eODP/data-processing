@@ -3,22 +3,25 @@
 import pandas as pd
 import numpy as np
 
-taxon_groups = [
-    "nannofossils",
-    "silicoflagellates",
-    "ostracods",
-    "ebridians",
-    "chrysophyte_cysts",
-    "bolboformids",
-    "diatoms",
-    "planktic_forams",
-    "radiolarians",
-    "dinoflagellates",
-    "palynology",
-    "benthic_forams",
-]
+# taxon_groups = [
+#     "benthic_foraminfera",
+#     "bolboformids",
+#     "chrysophyte_cysts",
+#     "diatoms",
+#     "dinoflagellates",
+#     "dinoflagellates/acritarchs/prasinophytes",
+#     "ebridians",
+#     "nannofossils",
+#     "ostracods",
+#     "palynology",
+#     "phytoliths",
+#     "planktic_foraminfera",
+#     "pollen",
+#     "pteropods",
+#     "radiolarians",
+#     "silicoflagellates",
+# ]
 
-date = "2021-05-24"
 
 taxa_rank_fields = [
     "Any taxon above genus",
@@ -36,7 +39,6 @@ taxa_fields = ["non-taxa descriptor", "normalized_name", "taxon_group"]
 
 metadata_fields = [
     "verbatim_name",
-    "initial_comments",
     "comments",
 ]
 
