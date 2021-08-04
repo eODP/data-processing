@@ -1,40 +1,19 @@
-Data Age From (oldest) Age To (youngest) Zone From (bottom) Zone To  (top) Leg Site H Cor T Sc Top(cm) Depth (mbsf) Scientist Fossil Group                                  Group Abundance Group Preservation Helicosphaera carteri Reticulofenestra minutula Pseudoemiliania lacunosa Helicosphaera sellii Discoaster brouweri Coccolithus pelagicus Calcidiscus macintyrei Calcidiscus leptoporus Sphenolithus abies Thoracosphaera heimii Gephyrocapsa caribbeanica Discoaster pentaradiatus Comment
-""
-""
-""
-  IR                                                                       180 1116 A   1 R  1  106.00       1.0600 Takahashi Nannofossils                                  C               M                  F                                               R14                                           R12                 R                                            R                                                                                         R1                       NN18 or older?
-""
-  IR                                                                       180 1116 A   1 R CC   14.00              Takahashi Nannofossils                                  F               P                  R                                               R3                                            R3                  R                                            R                                                                                                                  NN19 or older?
-""
-  IR                                                                       180 1116 A   2 R CC   16.00       8.0500 Siesser   Nannofossils                                  F               P                  F                     R                         R                                                                                       R                      R                                         R                     R                                                         
-""
-  IR                                                                       180 1116 A   3 R CC   17.00      17.0700 Siesser   Nannofossils                                  R               P                                                                  R                                                                 R                                            R                                                                                                                         
-""
-  IR                                                                       180 1116 A   4 R CC   22.00      26.2700 Siesser   Nannofossils                                  F               P                  R                     R                         R                                                                 R                                            R                      1                                                                                                  
-""
-  IR                                                                       180 1116 A   5 R  1   85.00      34.6500 Takahashi Nannofossils                                  C               M                  R                                               F                                                                 R                     R1                     R                                                                                                                         
-""
-  IR                                                                       180 1116 A  10 R CC   20.00      73.5200 Siesser   Nannofossils                                  T               P                  R                     R                                                                                           R                                                                                                                                                                      
-""
-  IR                                                                       180 1116 A  11 R  1   20.00      82.0000 Siesser   Nannofossils                                  T               P                  R                     R                                                                                                                                                                                                                                                                  
-""
-  IR                                                                       180 1116 A  12 R  1   17.00      91.5700 Siesser   Nannofossils                                  T               P                  R                     R                         R                                                                 R                                                                                                                                                                      
-""
-  IR                                                                       180 1116 A  13 R CC   21.00     104.0200 Siesser   Nannofossils                                  R               P                  R                     R                                                                                                                                                                                                                                                                  
-""
-  IR                                                                       180 1116 A  13 R CC   31.00     104.1200 Takahashi Nannofossils                                  R               P                  R                                                                                                                                                                                                                                                                                        
-""
-  IR                                                                       180 1116 A  14 R CC   20.00     112.1100 Takahashi Nannofossils                                  F               P                  R                                                                                             R1                  R                                            R                                                                                                                  G. oceanica primary form
-""
-  IR                                                                       180 1116 A  15 R  2    9.00     121.5600 Siesser   Nannofossils                                  R               P                  R                     R                                                  R                                        R                                                                                                                                                                      
-""
-  IR                                                                       180 1116 A  15 R CC   31.00     123.8600 Takahashi Nannofossils                                  R               P                  R                                               R                                                                                                                                                                                                                                        
-""
-  IR                                                                       180 1116 A  16 R  5   79.00     135.8100 Siesser   Nannofossils                                  T               P                                        R                                                                                                                                                                                                                                                                  
-""
-  IR                                                                       180 1116 A  16 R CC    9.00     136.1400 Takahashi Nannofossils                                  C               M                  F                                               F                        R1                   R1                  R                     R2                     R                                                                                                                         
-""
-  IR                                                                       180 1116 A  17 R CC   18.00     142.6600 Siesser   Nannofossils                                  T               P                                        +                                                                                                                                                                                                                                                                  
-""
-  IR                                                                       180 1116 A  18 R CC   28.00     152.4100 Siesser   Nannofossils                                  T               P                  +                                                                                                                                                                                                                                                                                        
-""
+Data,Age From (oldest),Age To (youngest),Zone From (bottom),Zone To  (top),Leg,Site,H,Cor,T,Sc,Top(cm),Depth (mbsf),Scientist,Fossil Group,Group Abundance,Group Preservation,Helicosphaera carteri,Reticulofenestra minutula,Pseudoemiliania lacunosa,Helicosphaera sellii,Discoaster brouweri,Coccolithus pelagicus,Calcidiscus macintyrei,Calcidiscus leptoporus,Sphenolithus abies,Thoracosphaera heimii,Gephyrocapsa caribbeanica,Discoaster pentaradiatus,Comment
+IR,,,,,180,1116,A,1,R,1,106.00,1.0600,Takahashi,Nannofossils,C,M,F,,R14,,R12,R,,R,,,,R1,NN18 or older?
+IR,,,,,180,1116,A,1,R,CC,14.00,,Takahashi,Nannofossils,F,P,R,,R3,,R3,R,,R,,,,,NN19 or older?
+IR,,,,,180,1116,A,2,R,CC,16.00,8.0500,Siesser,Nannofossils,F,P,F,R,R,,,,R,R,,R,R,,
+IR,,,,,180,1116,A,3,R,CC,17.00,17.0700,Siesser,Nannofossils,R,P,,,R,,,R,,R,,,,,
+IR,,,,,180,1116,A,4,R,CC,22.00,26.2700,Siesser,Nannofossils,F,P,R,R,R,,,R,,R,1,,,,
+IR,,,,,180,1116,A,5,R,1,85.00,34.6500,Takahashi,Nannofossils,C,M,R,,F,,,R,R1,R,,,,,
+IR,,,,,180,1116,A,10,R,CC,20.00,73.5200,Siesser,Nannofossils,T,P,R,R,,,,R,,,,,,,
+IR,,,,,180,1116,A,11,R,1,20.00,82.0000,Siesser,Nannofossils,T,P,R,R,,,,,,,,,,,
+IR,,,,,180,1116,A,12,R,1,17.00,91.5700,Siesser,Nannofossils,T,P,R,R,R,,,R,,,,,,,
+IR,,,,,180,1116,A,13,R,CC,21.00,104.0200,Siesser,Nannofossils,R,P,R,R,,,,,,,,,,,
+IR,,,,,180,1116,A,13,R,CC,31.00,104.1200,Takahashi,Nannofossils,R,P,R,,,,,,,,,,,,
+IR,,,,,180,1116,A,14,R,CC,20.00,112.1100,Takahashi,Nannofossils,F,P,R,,,,R1,R,,R,,,,,G. oceanica primary form
+IR,,,,,180,1116,A,15,R,2,9.00,121.5600,Siesser,Nannofossils,R,P,R,R,,R,,R,,,,,,,
+IR,,,,,180,1116,A,15,R,CC,31.00,123.8600,Takahashi,Nannofossils,R,P,R,,R,,,,,,,,,,
+IR,,,,,180,1116,A,16,R,5,79.00,135.8100,Siesser,Nannofossils,T,P,,R,,,,,,,,,,,
+IR,,,,,180,1116,A,16,R,CC,9.00,136.1400,Takahashi,Nannofossils,C,M,F,,F,R1,R1,R,R2,R,,,,,
+IR,,,,,180,1116,A,17,R,CC,18.00,142.6600,Siesser,Nannofossils,T,P,,+,,,,,,,,,,,
+IR,,,,,180,1116,A,18,R,CC,28.00,152.4100,Siesser,Nannofossils,T,P,+,,,,,,,,,,,,
