@@ -4,6 +4,7 @@ Use R readr instead of Python pandas because  readr::read_table handles the spac
 
 ```{r}
 library(readr)
+library(tidyverse)
 ```
 
 # Convert space-delimited file into csv
@@ -14,12 +15,41 @@ file = './cleaned_data/odp_all_paleontology/range_tables/149/897/HOLE_C/Nannofos
 ```
 
 ```{r}
-data <- readr::read_table(raw_file)
+data1 <- readr::read_table(raw_file, col_names=FALSE, col_types = cols(.default = "c"), n_max=1)
+
+```
+
+```{r}
+columns <- as.character(data1[1,])
+columns
+```
+
+
+```{r}
+# read all columns as charcters
+data <- readr::read_table(raw_file, col_types = cols(.default = "c"))
+
+```
+
+```{r}
+for (col in colnames(data)) {
+   print(gsub('_[0-9]+$', '', col))
+}
+ 
+
+```
+
+
+
+```{r}
+data %>% unite('Age To (youngest)',  c('Age', 'To', '(youngest)'), sep='')
 ```
 
 ```{r}
 readr::write_tsv(data, file, na='', )
 ```
+
+
 
 # Convert space-delimited file into csv
 
