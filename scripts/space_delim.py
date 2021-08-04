@@ -126,79 +126,6 @@ def convert_space_delim_file(filename):
         return df
 
 
-odp_base_path = "odp_all_paleontology|range_tables|"
-# convert files by script
-space_delim_files_odp_1 = [
-    "149|897|HOLE_C|Nannofossils.txt",
-    "174|1071|HOLE_B|Benthic_Foraminifers.txt",
-    "175|1085|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1109|HOLE_C|Nannofossils.txt",
-    "180|1109|HOLE_C|Planktonic_Foraminifers.txt",
-    "180|1109|HOLE_D|Nannofossils.txt",
-    "180|1109|HOLE_D|Planktonic_Foraminifers.txt",
-    "180|1110|HOLE_A|Nannofossils.txt",
-    "180|1110|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1110|HOLE_B|Nannofossils.txt",
-    "180|1110|HOLE_B|Planktonic_Foraminifers.txt",
-    "180|1111|HOLE_A|Nannofossils.txt",
-    "180|1111|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1112|HOLE_A|Nannofossils.txt",
-    "180|1112|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1114|HOLE_A|Nannofossils.txt",
-    "180|1114|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1115|HOLE_A|Nannofossils.txt",
-    "180|1115|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1115|HOLE_B|Nannofossils.txt",
-    "180|1115|HOLE_B|Planktonic_Foraminifers.txt",
-    "180|1115|HOLE_C|Nannofossils.txt",
-    "180|1115|HOLE_C|Planktonic_Foraminifers.txt",
-    "180|1116|HOLE_A|Nannofossils.txt",
-    "180|1116|HOLE_A|Planktonic_Foraminifers.txt",
-    "180|1117|HOLE_C|Nannofossils.txt",
-    "180|1118|HOLE_A|Nannofossils.txt",
-    "180|1118|HOLE_A|Planktonic_Foraminifers.txt",
-    "181|1119|HOLE_A|Diatoms.txt",
-    "181|1119|HOLE_A|Nannofossils.txt",
-    "181|1119|HOLE_A|Planktonic_Foraminifers.txt",
-    "181|1119|HOLE_A|Radiolarians.txt",
-    "181|1119|HOLE_B|Benthic_Foraminifers.txt",
-    "181|1119|HOLE_B|Diatoms.txt",
-    "181|1119|HOLE_B|Nannofossils.txt",
-    "181|1119|HOLE_B|Planktonic_Foraminifers.txt",
-    "181|1119|HOLE_B|Radiolarians.txt",
-    "181|1119|HOLE_C|Benthic_Foraminifers.txt",
-    "181|1119|HOLE_C|Diatoms.txt",
-    "181|1119|HOLE_C|Nannofossils.txt",
-    "181|1119|HOLE_C|Planktonic_Foraminifers.txt",
-    "181|1119|HOLE_C|Radiolarians.txt",
-    "181|1120|HOLE_A|Diatoms.txt",
-    "181|1120|HOLE_A|Nannofossils.txt",
-    "181|1120|HOLE_A|Planktonic_Foraminifers.txt",
-    "181|1120|HOLE_A|Radiolarians.txt",
-    "181|1120|HOLE_B|Benthic_Foraminifers.txt",
-    "181|1120|HOLE_B|Diatoms.txt",
-    "181|1120|HOLE_B|Nannofossils.txt",
-    "181|1120|HOLE_B|Planktonic_Foraminifers.txt",
-    "181|1120|HOLE_B|Radiolarians.txt",
-    "181|1120|HOLE_C|Benthic_Foraminifers.txt",
-    "181|1120|HOLE_C|Planktonic_Foraminifers.txt",
-    "181|1120|HOLE_D|Diatoms.txt",
-    "181|1120|HOLE_D|Nannofossils.txt",
-    "181|1120|HOLE_D|Planktonic_Foraminifers.txt",
-    "181|1120|HOLE_D|Radiolarians.txt",
-]
-
-# manually edit files first, then convert files by script
-space_delim_files_odp_2 = [
-    "172|1056|HOLE_C|Nannofossils.txt",
-    "175|1081|HOLE_A|Planktonic_Foraminifers.txt",
-]
-
-# manually edit files
-space_delim_files_odp_3 = [
-    "174|1071|HOLE_B|Planktonic_Foraminifers.txt",
-    "175|1077|HOLE_A|Diatoms.txt",
-]
 
 janus_base_path = "NOAA_csv|JanusIODP_paleo_agemodel|paleontology|range_tables|"
 # convert files by script
@@ -276,22 +203,6 @@ space_delim_files_janus_iodp_3 = [
 
 
 class Space_Delim(object):
-    def fix_odp_paleo(self):
-        for file in space_delim_files_odp_1:
-            path = ("notebooks|raw_data|" + odp_base_path + file).split("|")
-            filename = os.path.join(*path)
-            df = convert_space_delim_file(filename)
-            path = filename.replace("raw_data", "cleaned_data")
-            df.to_csv(path, index=False, sep="\t")
-
-    def fix_odp_paleo_hybrid(self):
-        """Manually edit the files first, then run script"""
-        for file in space_delim_files_odp_2:
-            path = ("notebooks|cleaned_data|" + odp_base_path + file).split("|")
-            filename = os.path.join(*path)
-            df = convert_space_delim_file(filename)
-            df.to_csv(filename, index=False, sep="\t")
-
     def fix_janus_iodp_paleo(self):
         for file in space_delim_files_janus_iodp_1:
             path = ("notebooks|raw_data|" + janus_base_path + file).split("|")
