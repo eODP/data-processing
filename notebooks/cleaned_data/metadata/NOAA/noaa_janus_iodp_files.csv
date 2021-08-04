@@ -453,8 +453,8 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/135/839
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/135/839/HOLE_A/Nannofossils.csv,taxa,135,839,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/132/810/HOLE_C/Nannofossils.csv,taxa,132,810,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/132/810/HOLE_C/Planktonic_Foraminifers.csv,taxa,132,810,planktic_foraminfera
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Miscellaneous.csv,taxa,104,643,
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Macrofossils.csv,taxa,104,643,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Miscellaneous.csv,taxa,104,643,miscellaneous
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Macrofossils.csv,taxa,104,643,macrofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Nannofossils.csv,taxa,104,643,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Benthic_Foraminifers.csv,taxa,104,643,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Radiolarians.csv,taxa,104,643,radiolarians
@@ -465,7 +465,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Bolboforms.csv,taxa,104,643,bolboformids
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/643/HOLE_A/Planktonic_Foraminifers.csv,taxa,104,643,planktic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_B/Dinoflagellates_Acritarch_Prasinophytes.csv,taxa,104,644,dinoflagellates/acritarchs/prasinophytes
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Miscellaneous.csv,taxa,104,644,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Miscellaneous.csv,taxa,104,644,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Nannofossils.csv,taxa,104,644,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Benthic_Foraminifers.csv,taxa,104,644,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Radiolarians.csv,taxa,104,644,radiolarians
@@ -474,7 +474,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Silicoflagellates_Ebridians_Actiniscidians.csv,taxa,104,644,silicoflagellates/ebridians/actiniscidians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/644/HOLE_A/Planktonic_Foraminifers.csv,taxa,104,644,planktic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/642/HOLE_E/Dinoflagellates_Acritarch_Prasinophytes.csv,taxa,104,642,dinoflagellates/acritarchs/prasinophytes
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/642/HOLE_B/Miscellaneous.csv,taxa,104,642,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/642/HOLE_B/Miscellaneous.csv,taxa,104,642,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/642/HOLE_B/Nannofossils.csv,taxa,104,642,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/642/HOLE_B/Benthic_Foraminifers.csv,taxa,104,642,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/104/642/HOLE_B/Radiolarians.csv,taxa,104,642,radiolarians
@@ -1119,7 +1119,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_C/Benthic_Foraminifers.csv,taxa,120,747,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_C/Planktonic_Foraminifers.csv,taxa,120,747,planktic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Diatoms.csv,taxa,120,747,diatoms
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Miscellaneous.csv,taxa,120,747,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Miscellaneous.csv,taxa,120,747,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Nannofossils.csv,taxa,120,747,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Benthic_Foraminifers.csv,taxa,120,747,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Radiolarians.csv,taxa,120,747,radiolarians
@@ -1127,17 +1127,17 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Bolboforms.csv,taxa,120,747,bolboformids
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/747/HOLE_A/Planktonic_Foraminifers.csv,taxa,120,747,planktic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Diatoms.csv,taxa,120,749,diatoms
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Miscellaneous.csv,taxa,120,749,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Miscellaneous.csv,taxa,120,749,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Nannofossils.csv,taxa,120,749,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Radiolarians.csv,taxa,120,749,radiolarians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Silicoflagellates_Ebridians_Actiniscidians.csv,taxa,120,749,silicoflagellates/ebridians/actiniscidians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Bolboforms.csv,taxa,120,749,bolboformids
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_B/Planktonic_Foraminifers.csv,taxa,120,749,planktic_foraminfera
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_C/Miscellaneous.csv,taxa,120,749,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_C/Miscellaneous.csv,taxa,120,749,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_C/Nannofossils.csv,taxa,120,749,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/749/HOLE_C/Planktonic_Foraminifers.csv,taxa,120,749,planktic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Diatoms.csv,taxa,120,748,diatoms
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Miscellaneous.csv,taxa,120,748,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Miscellaneous.csv,taxa,120,748,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Nannofossils.csv,taxa,120,748,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Benthic_Foraminifers.csv,taxa,120,748,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Radiolarians.csv,taxa,120,748,radiolarians
@@ -1145,7 +1145,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Silicoflagellates_Ebridians_Actiniscidians.csv,taxa,120,748,silicoflagellates/ebridians/actiniscidians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Bolboforms.csv,taxa,120,748,bolboformids
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_B/Planktonic_Foraminifers.csv,taxa,120,748,planktic_foraminfera
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_C/Miscellaneous.csv,taxa,120,748,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_C/Miscellaneous.csv,taxa,120,748,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_C/Nannofossils.csv,taxa,120,748,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_C/Benthic_Foraminifers.csv,taxa,120,748,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_C/Dinoflagellates_Acritarch_Prasinophytes.csv,taxa,120,748,dinoflagellates/acritarchs/prasinophytes
@@ -1156,7 +1156,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_A/Sponge_Spicules.csv,taxa,120,748,sponge_spicules
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/748/HOLE_A/Silicoflagellates_Ebridians_Actiniscidians.csv,taxa,120,748,silicoflagellates/ebridians/actiniscidians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/751/HOLE_A/Diatoms.csv,taxa,120,751,diatoms
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/751/HOLE_A/Miscellaneous.csv,taxa,120,751,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/751/HOLE_A/Miscellaneous.csv,taxa,120,751,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/751/HOLE_A/Nannofossils.csv,taxa,120,751,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/751/HOLE_A/Radiolarians.csv,taxa,120,751,radiolarians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/751/HOLE_A/Silicoflagellates_Ebridians_Actiniscidians.csv,taxa,120,751,silicoflagellates/ebridians/actiniscidians
@@ -1165,7 +1165,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_B/Benthic_Foraminifers.csv,taxa,120,750,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_B/Pollen_Spores.csv,taxa,120,750,pollen
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_B/Planktonic_Foraminifers.csv,taxa,120,750,planktic_foraminfera
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_A/Miscellaneous.csv,taxa,120,750,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_A/Miscellaneous.csv,taxa,120,750,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_A/Nannofossils.csv,taxa,120,750,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_A/Benthic_Foraminifers.csv,taxa,120,750,benthic_foraminfera
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/120/750/HOLE_A/Planktonic_Foraminifers.csv,taxa,120,750,planktic_foraminfera
@@ -1486,7 +1486,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_B/Nannofossils.csv,taxa,119,744,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_B/Radiolarians.csv,taxa,119,744,radiolarians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_A/Diatoms.csv,taxa,119,744,diatoms
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_A/Miscellaneous.csv,taxa,119,744,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_A/Miscellaneous.csv,taxa,119,744,miscellaneous
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_A/Nannofossils.csv,taxa,119,744,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_A/Radiolarians.csv,taxa,119,744,radiolarians
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/119/744/HOLE_A/Planktonic_Foraminifers.csv,taxa,119,744,planktic_foraminfera
@@ -2228,7 +2228,7 @@ cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/763
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/763/HOLE_C/Dinoflagellates_Acritarch_Prasinophytes.csv,taxa,122,763,dinoflagellates/acritarchs/prasinophytes
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/763/HOLE_A/Nannofossils.csv,taxa,122,763,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/763/HOLE_A/Ostracodes.csv,taxa,122,763,ostracods
-cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/764/HOLE_B/Macrofossils.csv,taxa,122,764,
+cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/764/HOLE_B/Macrofossils.csv,taxa,122,764,macrofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/764/HOLE_B/Nannofossils.csv,taxa,122,764,nannofossils
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/764/HOLE_B/Ostracodes.csv,taxa,122,764,ostracods
 cleaned_data/NOAA_csv/JanusIODP_paleo_agemodel/paleontology/range_tables/122/764/HOLE_A/Nannofossils.csv,taxa,122,764,nannofossils
