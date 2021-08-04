@@ -1,0 +1,10 @@
+Abbreviated View --ALL
+""
+Data    Age From (oldest)    Age To (youngest)    Zone From (bottom)    Zone To (top)    Leg    Site    H    Cor    T       Sc    Top(cm)    Depth (mbsf)    Scientist    Fossil Group                                  Group Abundance Group Preservation Cibicidoides spp. A Elphidium excavatum Form A Elphidium excavatum (Terquem Terquem) forma Comment
+
+""
+  IR                                                                                      100    2000    B      2    X       CC       0.00         41.8500    Doe          Benthic Foraminifers                          A                                  C                                              A                                           Labore aaa sint labore ex irure commodo.
+
+  IR                         Pleistocene                                                  100    2000    B      3    X       CC      10.00         49.7400    Doe          Benthic Foraminifers                          F                                                                                 A                                           Labore bbb sint labore ex irure commodo.
+  IR                         Pleistocene                                                  100    2000    B      4    X       CC       0.00         53.4600    Doe          Benthic Foraminifers                          C               VG                                     C                          A                                           Labore ccc sint labore ex irure commodo.
+""
