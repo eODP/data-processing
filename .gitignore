@@ -142,4 +142,4 @@ cython_debug/
 
 wip*.ipynb
 config.py
-notebooks/tmp/
+output/tmp/
