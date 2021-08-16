@@ -143,3 +143,4 @@ cython_debug/
 wip*.ipynb
 config.py
 output/tmp/
+.Rproj.user
