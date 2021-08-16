@@ -92,28 +92,6 @@ def create_sample_name(df):
         raise ValueError("File does not have the expected columns.")
 
 
-def get_expedition_from_csv(df):
-    if "Label ID" in df.columns:
-        expeditions = df["Label ID"]
-    elif "Sample" in df.columns:
-        expeditions = df["Sample"]
-    elif "Exp" in df.columns:
-        expeditions = df["Exp"]
-    else:
-        raise ValueError("File does not expedition info.")
-
-    if "Label ID" in df.columns or "Sample" in df.columns:
-        unique_values = set([x[0] for x in expeditions.str.split("-")])
-        if len(unique_values) > 1:
-            raise ValueError("File has multiple expeditions.")
-
-        return expeditions[0].split("-")[0]
-    else:
-        unique_values = expeditions.unique()
-        if len(unique_values) > 1:
-            raise ValueError("File has multiple expeditions.")
-        return expeditions[0]
-
 
 def normalize_expedition_section_cols(df):
     """Create Exp...Section columns using Sample or Label ID"""
