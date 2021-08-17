@@ -12,7 +12,7 @@ raw_df <- read_csv(path, skip = 9)
 
 # remove junk row
 raw_df <- raw_df[-1, ]
-raw_df <- raw_df %>%  filter_all(any_vars(!is.na(.))) 
+raw_df <- raw_df %>% filter_all(any_vars(!is.na(.)))
 
 # replace '.' with '_' in column names
 colnames(raw_df) <- gsub(
@@ -89,6 +89,16 @@ unique_genera <- nrow(selection)
 )
 unique_below_genus <- nrow(selection)
 
+# how many are unique and below the species level (all those entries that have
+# subspecies and non-taxonomic modifiers)
+(
+  selection <- df %>%
+    distinct(genus_name, species_name, subspecies_name, non_taxa_descriptor) %>%
+    filter(!is.na(subspecies_name)) %>%
+    arrange(genus_name, species_name, subspecies_name, non_taxa_descriptor)
+)
+unique_below_species <- nrow(selection)
+
 # create stats csv
 df <- data.frame(
   "stat" = c(
@@ -97,7 +107,8 @@ df <- data.frame(
     "unique names, non_taxa",
     "unique any taxon above genus",
     "unique genera",
-    "unique below genus"
+    "unique below genus",
+    "unique below species"
   ),
   count = c(
     unique_names,
@@ -105,7 +116,8 @@ df <- data.frame(
     unique_names_non_taxa,
     unique_any_taxon_above_genus,
     unique_genera,
-    unique_below_genus
+    unique_below_genus,
+    unique_below_species
   )
 )
 
