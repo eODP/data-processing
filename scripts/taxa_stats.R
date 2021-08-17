@@ -1,0 +1,115 @@
+library(dplyr)
+library(readr)
+library(here)
+library(tidyr)
+
+# read file
+path <- here(
+  "raw_data", "PI_processed_files",
+  "LIMS_Micropal_headers_PBDB_Taxonomy_notes_taxa_list_2021-07-28.csv"
+)
+raw_df <- read_csv(path, skip = 9)
+
+# remove junk row
+raw_df <- raw_df[-1, ]
+raw_df <- raw_df %>%  filter_all(any_vars(!is.na(.))) 
+
+# replace '.' with '_' in column names
+colnames(raw_df) <- gsub(
+  x = colnames(raw_df),
+  pattern = " |-",
+  replacement = "_"
+)
+
+colnames(raw_df)
+
+# add full_name and is_taxa columns
+df <- raw_df %>%
+  select(taxon_group:name, Any_taxon_above_genus:non_taxa_descriptor) %>%
+  unite("full_name", Any_taxon_above_genus:non_taxa_descriptor,
+    sep = ";",
+    remove = FALSE, na.rm = TRUE
+  ) %>%
+  mutate(is_taxa = full_name != "")
+
+# total number of unique entries in "name"
+(
+  selection <- df %>%
+    distinct(name) %>%
+    filter(!is.na(name)) %>%
+    arrange(name)
+)
+unique_names <- nrow(selection)
+
+# total number of unique entries in "name" that  are taxa
+(
+  selection <- df %>%
+    filter(!is.na(name) & is_taxa == TRUE) %>%
+    distinct(name) %>%
+    arrange(name)
+)
+unique_names_taxa <- nrow(selection)
+
+# total number of unique entries in "name" that  are non-taxa
+(
+  selection <- df %>%
+    filter(!is.na(name) & is_taxa == FALSE) %>%
+    distinct(name) %>%
+    arrange(name)
+)
+unique_names_non_taxa <- nrow(selection)
+
+# how many are unique "Any taxon above genus"
+(
+  selection <- df %>%
+    distinct(Any_taxon_above_genus) %>%
+    filter(!is.na(Any_taxon_above_genus)) %>%
+    arrange(Any_taxon_above_genus)
+)
+unique_any_taxon_above_genus <- nrow(selection)
+
+# how many are unique and at the generic level (all entries with a genus name
+# with an 'sp.' following it)
+(
+  selection <- df %>%
+    distinct(genus_name, species_name) %>%
+    filter(!is.na(genus_name) & grepl("^spp?\\.$", species_name)) %>%
+    arrange(genus_name, species_name)
+)
+unique_genera <- nrow(selection)
+
+# how many are unique and below the generic level (all the names that are a
+# genus name followed by a species name, including all those entries that have
+# subspecies and non-taxonomic modifiers)
+(
+  selection <- df %>%
+    distinct(genus_name, species_name, subspecies_name, non_taxa_descriptor) %>%
+    filter(!is.na(genus_name) & !grepl("^spp?\\.$", species_name)) %>%
+    arrange(genus_name, species_name, subspecies_name, non_taxa_descriptor)
+)
+unique_below_genus <- nrow(selection)
+
+# create stats csv
+df <- data.frame(
+  "stat" = c(
+    "unique names",
+    "unique names, taxa",
+    "unique names, non_taxa",
+    "unique any taxon above genus",
+    "unique genera",
+    "unique below genus"
+  ),
+  count = c(
+    unique_names,
+    unique_names_taxa,
+    unique_names_non_taxa,
+    unique_any_taxon_above_genus,
+    unique_genera,
+    unique_below_genus
+  )
+)
+
+output_path <- here(
+  "output", "taxa", "LIMS", "taxa_stats_2021-08-16.csv"
+)
+write_csv(df, output_path)
