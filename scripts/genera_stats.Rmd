@@ -1,0 +1,152 @@
+```{r}
+library(dplyr)
+library(readr)
+library(here)
+library(tidyr)
+```
+
+```{r}
+my_read_csv <- function(path) {
+  df <- read_csv(path)
+
+  colnames(df) <- gsub(
+    x = colnames(df),
+    pattern = " |-",
+    replacement = "_"
+  )
+  df
+}
+```
+
+```{r}
+# read file
+path <- here(
+  "output", "taxa", "LIMS", "genera_2021-07-28.csv"
+)
+
+LIMS_raw_df <- my_read_csv(path)
+```
+
+
+
+```{r}
+(
+  LIMS_genera <- LIMS_raw_df %>%
+    filter(!is.na(pbdb_taxon_id) & !is.na(genus_name)) %>%
+    select(genus_name) %>%
+    arrange(genus_name) %>%
+    mutate(id = 1:1011)
+)
+LIMS_genera_count <- nrow(LIMS_genera)
+```
+
+
+
+```{r}
+# read file
+path <- here(
+  "output", "taxa", "draft", "NOAA", "genus_2021-07-28.csv"
+)
+NOAA_raw_df <- my_read_csv(path)
+```
+```{r}
+NOAA_raw_df %>%
+  mutate(in_pbdb = !is.na(pbdb_taxon_id)) %>%
+  group_by(in_pbdb) %>%
+  summarise(count = n())
+```
+
+```{r}
+(
+  NOAA_PBDB_genera <- NOAA_raw_df %>%
+    filter(!is.na(pbdb_taxon_id) & !is.na(genus_name)) %>%
+    select(genus_name) %>%
+    arrange(genus_name) %>%
+    mutate(id = 1:1251)
+)
+NOAA_PBDB_genera_count <- nrow(NOAA_PBDB_genera)
+```
+
+
+
+```{r}
+merge_df <- merge(
+  x = NOAA_PBDB_genera, y = LIMS_genera, by = "genus_name",
+  suffixes = c("_NOAA", "_LIMS"), all = TRUE
+)
+merge_df
+```
+```{r}
+(
+  compare <- merge_df %>%
+    mutate(presence = case_when(
+      is.na(id_NOAA) & !is.na(id_LIMS) ~ "LIMS",
+      !is.na(id_NOAA) & !is.na(id_LIMS) ~ "both",
+      !is.na(id_NOAA) & is.na(id_LIMS) ~ "NOAA",
+    ))
+)
+```
+```{r}
+(
+  compare_summary <- compare %>%
+    group_by(presence) %>%
+    summarise(count = n(), per = count / nrow(merge_df))
+)
+```
+
+
+```{r}
+output_path <- here(
+  "output", "taxa", "LIMS_NOAA_stats_2021-08-18.csv"
+)
+write_csv(compare_summary, output_path)
+```
+
+```{r}
+library("VennDiagram")
+
+grid.newpage()
+# create pairwise Venn diagram
+plot <- draw.pairwise.venn(
+  area1 = 1011,
+  area2 = 1251,
+  cross.area = 584,
+  category = c("LIMS", "NOAA"),
+  fill = c("111", "222"),
+  lty = "blank",
+  cex = 2,
+  cat.cex = 2,
+  # cat.pos = c(285, 105),
+  # cat.dist = 0.09,
+  # cat.just = list(c(-1, -1), c(1, 1)),
+  # ext.pos = 30,
+  # ext.dist = -0.05,
+  # ext.length = 0.85,
+  # ext.line.lwd = 2,
+  # ext.line.lty = "dashed"
+)
+
+grid.draw(plot)
+```
+```{r}
+library(ggVennDiagram)
+library(ggplot2)
+library(tidyverse)
+
+
+x <- list(
+  NOAA = deframe(NOAA_PBDB_genera[, "genus_name"]),
+  LIMS = deframe(LIMS_genera[, "genus_name"])
+)
+
+ggVennDiagram(x, set_size = 8, edge_size = 0, show.legend = FALSE) +
+  scale_color_brewer(palette = "BuPu")
+# + scale_fill_gradient(low="#ffffff",high = "red")
+
+# RColorBrewer::display.brewer.all()
+```
+
+```{r}
+
+
+```
