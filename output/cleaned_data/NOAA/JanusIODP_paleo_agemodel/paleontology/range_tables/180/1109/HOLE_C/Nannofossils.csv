@@ -22,7 +22,7 @@ IR,,,,NN18,180,1109,C,8,H,CC,23.00,74.4100,Siesser,Nannofossils,A,VG,,R,,,R4,,,,
 IR,,,,,180,1109,C,9,H,1,95.00,74.8500,Siesser,Nannofossils,F,M,,,,,R5,,,,,,,,,,,,,,,R1,,,,,,,,,,
 IR,,,,,180,1109,C,9,H,CC,34.00,83.9500,Siesser,Nannofossils,C,M,,,,,R1,,,,C,,,,,,F,,,,,,,,,,,,,,,Ascidians -F Scypho. - F Sponge spicules
 IR,,,,,180,1109,C,10,H,5,41.00,89.8100,Siesser,Nannofossils,F,M,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,No discoasters
-"""  IR",,,,,180,1109,C,11,H,CC,23.00,102.8100,Siesser,Nannofossils,F,M,,,,,,,,,,,,,,,,C,F,,R,,,,,,,,,,,"Small Gephyro. cf, 5,5 -- (5) No discoasters"""
+IR,,,,,180,1109,C,11,H,CC,23.00,102.8100,Siesser,Nannofossils,F,M,,,,,,,,,,,,,,,,C,F,,R,,,,,,,,,,,"Small Gephyro. cf, 5,5 -- (5) No discoasters"
 IR,,,,,180,1109,C,12,X,CC,28.00,112.1200,Siesser,Nannofossils,C,M,,,,,R1,,,,,,,,,,,,,R1,,,,,,,,,,,,
 IR,,,,,180,1109,C,13,X,3,19.00,115.1900,Siesser,Nannofossils,F,M,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,No discoasters; acidians -C
 IR,,,,,180,1109,C,13,X,CC,26.00,121.6600,Siesser,Nannofossils,A,M,,R,R1,,R1,,,,C,,,,F,,F,,,,,,,,,,,,,,,
@@ -51,7 +51,7 @@ IR,,,,NN16,180,1109,C,32,X,CC,15.00,304.3600,Siesser,Nannofossils,C,G,,,R,C,C,,,
 IR,,,,,180,1109,C,33,X,CC,32.00,314.2300,Takahashi,Nannofossils,A,G,,,,C,C,,R,,,F,R,,F,,,,,,,,,,,,,,,,,
 IR,,,,,180,1109,C,34,X,CC,37.00,324.0200,Takahashi,Nannofossils,A,G,,,,C,F,,,,,,,,,,,,,,,,,,,,,,,,,
 IR,,,,,180,1109,C,35,X,CC,45.00,333.8300,Takahashi,Nannofossils,A,G,,,,F,C,R,R,,,F,,R,F,,,,,,,,,,,,,,,,,
-"""  IR",,,,,180,1109,C,36,X,CC,33.00,338.8900,Takahashi,Nannofossils,A,M,,,,F,C,,,,,F,R,R,F,rR,R,,,,,,,,,,,,,,,"3 in one transect, rework?"""
+IR,,,,,180,1109,C,36,X,CC,33.00,338.8900,Takahashi,Nannofossils,A,M,,,,F,C,,,,,F,R,R,F,rR,R,,,,,,,,,,,,,,,"3 in one transect, rework?"
 IR,,,,NN15,180,1109,C,37,X,1,93.00,344.0300,Siesser,Nannofossils,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 IR,,,,,180,1109,C,38,X,CC,26.00,356.3000,Takahashi,Nannofossils,A,G,,,R,F,F,,R,,F,F,F,R,F,R,R,,,,,,,,,,,,,,,
 IR,,,,,180,1109,C,39,X,CC,40.00,362.4300,Takahashi,Nannofossils,A,G,,,R,F,F,R,R,,F,F,R,R,F,,,,,,,,,,,,,,,,,
