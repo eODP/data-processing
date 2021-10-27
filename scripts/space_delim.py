@@ -63,13 +63,6 @@ def get_headers(first_line):
             headers[i] = headers[i] + headers[i + 1]
             headers[i + 1] = " "
 
-        # # merges 2 headers into 1 header
-        # # 'header1 ', 'A ' -> 'header1 A'
-        # elif re.match("^[A-Z] +$", headers[i]) and not re.match(
-        #     "(Cor|Site) +$", headers[i - 1]
-        # ):
-        #     headers[i - 1] = headers[i - 1] + headers[i]
-        #     headers[i] = " "
 
         # merges 3 headers into 1 header when 'Xxxx Form X'
         # 'Genus ', 'Form ', 'A ' -> 'Genus Form A '
@@ -113,6 +106,9 @@ def convert_space_delim_file(filename):
             elif line == '""\n':
                 continue
 
+            if re.match('^" +IR.*?$', line):
+                line = re.sub('^"(.*?)"$', r'\1', line)
+
             # split line into list of values using the header positions
             # https://stackoverflow.com/a/10851479
             values = [
@@ -124,101 +120,3 @@ def convert_space_delim_file(filename):
         df = pd.DataFrame(all_lines, index=None, columns=stripped_headers)
 
         return df
-
-
-
-janus_base_path = "NOAA_csv|JanusIODP_paleo_agemodel|paleontology|range_tables|"
-# convert files by script
-space_delim_files_janus_iodp_1 = [
-    "149|897|HOLE_C|Nannofossils.csv",
-    "174|1071|HOLE_B|Benthic_Foraminifers.csv",
-    "175|1085|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1114|HOLE_A|Nannofossils.csv",
-    "180|1114|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1112|HOLE_A|Nannofossils.csv",
-    "180|1112|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1115|HOLE_B|Nannofossils.csv",
-    "180|1115|HOLE_B|Planktonic_Foraminifers.csv",
-    "180|1115|HOLE_C|Nannofossils.csv",
-    "180|1115|HOLE_C|Planktonic_Foraminifers.csv",
-    "180|1115|HOLE_A|Nannofossils.csv",
-    "180|1115|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1109|HOLE_C|Nannofossils.csv",
-    "180|1109|HOLE_C|Planktonic_Foraminifers.csv",
-    "180|1109|HOLE_D|Nannofossils.csv",
-    "180|1109|HOLE_D|Planktonic_Foraminifers.csv",
-    "180|1110|HOLE_B|Nannofossils.csv",
-    "180|1110|HOLE_B|Planktonic_Foraminifers.csv",
-    "180|1110|HOLE_A|Nannofossils.csv",
-    "180|1110|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1117|HOLE_C|Nannofossils.csv",
-    "180|1116|HOLE_A|Nannofossils.csv",
-    "180|1116|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1111|HOLE_A|Nannofossils.csv",
-    "180|1111|HOLE_A|Planktonic_Foraminifers.csv",
-    "180|1118|HOLE_A|Nannofossils.csv",
-    "180|1118|HOLE_A|Planktonic_Foraminifers.csv",
-    "181|1119|HOLE_B|Diatoms.csv",
-    "181|1119|HOLE_B|Nannofossils.csv",
-    "181|1119|HOLE_B|Benthic_Foraminifers.csv",
-    "181|1119|HOLE_B|Radiolarians.csv",
-    "181|1119|HOLE_B|Planktonic_Foraminifers.csv",
-    "181|1119|HOLE_C|Diatoms.csv",
-    "181|1119|HOLE_C|Nannofossils.csv",
-    "181|1119|HOLE_C|Benthic_Foraminifers.csv",
-    "181|1119|HOLE_C|Radiolarians.csv",
-    "181|1119|HOLE_C|Planktonic_Foraminifers.csv",
-    "181|1119|HOLE_A|Diatoms.csv",
-    "181|1119|HOLE_A|Nannofossils.csv",
-    "181|1119|HOLE_A|Radiolarians.csv",
-    "181|1119|HOLE_A|Planktonic_Foraminifers.csv",
-    "181|1120|HOLE_B|Diatoms.csv",
-    "181|1120|HOLE_B|Nannofossils.csv",
-    "181|1120|HOLE_B|Benthic_Foraminifers.csv",
-    "181|1120|HOLE_B|Radiolarians.csv",
-    "181|1120|HOLE_B|Planktonic_Foraminifers.csv",
-    "181|1120|HOLE_C|Benthic_Foraminifers.csv",
-    "181|1120|HOLE_C|Planktonic_Foraminifers.csv",
-    "181|1120|HOLE_D|Diatoms.csv",
-    "181|1120|HOLE_D|Nannofossils.csv",
-    "181|1120|HOLE_D|Radiolarians.csv",
-    "181|1120|HOLE_D|Planktonic_Foraminifers.csv",
-    "181|1120|HOLE_A|Diatoms.csv",
-    "181|1120|HOLE_A|Nannofossils.csv",
-    "181|1120|HOLE_A|Radiolarians.csv",
-    "181|1120|HOLE_A|Planktonic_Foraminifers.csv",
-]
-
-# manually edit files first, then convert files by script
-space_delim_files_janus_iodp_2 = [
-    "172|1056|HOLE_C|Nannofossils.csv",
-    "174|1071|HOLE_B|Planktonic_Foraminifers.csv",
-]
-
-# manually edit files
-space_delim_files_janus_iodp_3 = [
-    "175|1077|HOLE_A|Diatoms.csv",
-]
-
-
-
-class Space_Delim(object):
-    def fix_janus_iodp_paleo(self):
-        for file in space_delim_files_janus_iodp_1:
-            path = ("notebooks|raw_data|" + janus_base_path + file).split("|")
-            filename = os.path.join(*path)
-            df = convert_space_delim_file(filename)
-            path = filename.replace("raw_data", "cleaned_data")
-            df.to_csv(path, index=False)
-
-    def fix_janus_iodp_paleo_hybrid(self):
-        """Manually edit the files first, then run script"""
-        for file in space_delim_files_janus_iodp_2:
-            path = ("notebooks|cleaned_data|" + janus_base_path + file).split("|")
-            filename = os.path.join(*path)
-            df = convert_space_delim_file(filename)
-            df.to_csv(filename, index=False)
-
-
-if __name__ == "__main__":
-    fire.Fire(Space_Delim)
