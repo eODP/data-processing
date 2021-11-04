@@ -1,0 +1,67 @@
+Any taxon above genus,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,order_taxon_id,order_taxon_name,class_taxon_id,class_taxon_name,phylum_taxon_id,phylum_taxon_name,kingdom_taxon_id,kingdom_taxon_name
+Foraminifera indet.,288974,Foraminifera,phylum,,,,,,,212476,Rhizaria
+Pleurostomellidae indet.,155922,Pleurostomellidae,family,,,,,288974,Foraminifera,212476,Rhizaria
+Ostracoda indet.,22826,Ostracoda,class,,,,,18891,Arthropoda,325038,Animalia
+Textulariia indet.,434530,Textulariia,subclass,,,,,288974,Foraminifera,212476,Rhizaria
+Elphidiidae indet.,82206,Elphidiidae,family,,,,,288974,Foraminifera,212476,Rhizaria
+Astrorhizidae indet.,147614,Astrorhizidae,family,,,,,288974,Foraminifera,212476,Rhizaria
+Trochamminidae indet.,112265,Trochamminidae,family,,,,,288974,Foraminifera,212476,Rhizaria
+Discorboidea indet.,429726,Discorboidea,superfamily,279579,Rotaliida,428504,Globothalamea,288974,Foraminifera,212476,Rhizaria
+Miliolidae indet.,81704,Miliolidae,family,256604,Miliolida,428719,Tubothalamea,288974,Foraminifera,212476,Rhizaria
+Nodosariidae indet.,82197,Nodosariidae,family,429322,Nodosariida,428875,Nodosariata,288974,Foraminifera,212476,Rhizaria
+Nonionidae indet.,82211,Nonionidae,family,,,,,288974,Foraminifera,212476,Rhizaria
+"""Challengeria spp.""",,,,,,,,,,,
+Miliolina indet.,108193,Miliolina,suborder,256604,Miliolida,428719,Tubothalamea,288974,Foraminifera,212476,Rhizaria
+Stilostomellidae indet.,155931,Stilostomellidae,family,429322,Nodosariida,428875,Nodosariata,288974,Foraminifera,212476,Rhizaria
+Uvigerinidae indet.,82201,Uvigerinidae,family,,,,,288974,Foraminifera,212476,Rhizaria
+Vaginulinidae indet.,112281,Vaginulinidae,family,428878,Vaginulinida,428875,Nodosariata,288974,Foraminifera,212476,Rhizaria
+"""Phytolith""",,,,,,,,,,,
+Skeletonemaceae indet.,433269,Skeletonemaceae,family,432628,Thalassiosirales,69587,Bacillariophyceae,432613,Ochrophyta,,
+Centrales indet.,69588,Centrales,order,,,69587,Bacillariophyceae,432613,Ochrophyta,,
+Pennales indet.,69589,Pennales,order,,,69587,Bacillariophyceae,432613,Ochrophyta,,
+Bacillariophyceae indet.,69587,Bacillariophyceae,class,,,,,432613,Ochrophyta,,
+Dictyochaceae indet.,69592,Dictyochaceae,family,69591,Phytomastigophora,69590,Chrysophyceae,,,,
+Radiolaria indet.,4,Radiolaria,phylum,,,,,,,212476,Rhizaria
+Thalassiosiraceae indet.,71204,Thalassiosiraceae,family,432628,Thalassiosirales,69587,Bacillariophyceae,432613,Ochrophyta,,
+"""Amorphous organic matter""",,,,,,,,,,,
+"""Black phytoclasts""",,,,,,,,,,,
+"""Brown phytoclasts""",,,,,,,,,,,
+"""round browns indet., psilate""",,,,,,,,,,,
+"""Terrestrial palynomorphs""",,,,,,,,,,,
+Acritarcha indet.,141161,Acritarcha,unranked clade,,,,,,,,
+Dinoflagellata indet.,354791,Dinoflagellata,superclass,,,,,277918,Myzozoa,,
+Coccolithophyceae indet.,418920,Coccolithophyceae,class,,,,,87644,Haptophyta,,
+Tunicata indet.,34108,Tunicata,subphylum,,,,,33815,Chordata,325038,Animalia
+Trachyleberididae indet.,82093,Trachyleberididae,family,23837,Podocopida,22826,Ostracoda,18891,Arthropoda,325038,Animalia
+"""Unknown taxa""",,,,,,,,,,,
+"""other pollen""",,,,,,,,,,,
+"""Spores""",,,,,,,,,,,
+"""Fungal spores""",,,,,,,,,,,
+"""Pollen/spores reworked""",,,,,,,,,,,
+"""Other pollen""",,,,,,,,,,,
+"""Sporomorphs""",,,,,,,,,,,
+"""Black woody phytoclasts""",,,,,,,,,,,
+"""Brown woody phytoclasts""",,,,,,,,,,,
+"""Saccate pollen""",,,,,,,,,,,
+"""Monolete ornamented""",,,,,,,,,,,
+"""Monolete psilate""",,,,,,,,,,,
+"""Trilete ornamented""",,,,,,,,,,,
+"""Trilete psilate""",,,,,,,,,,,
+Cupressaceae indet.,54792,Cupressaceae,family,55868,Coniferales,,,56176,Coniferophyta,54311,Plantae
+Brassicaceae indet.,55908,Brassicaceae,family,183034,Brassicales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Ranunculaceae indet.,55402,Ranunculaceae,family,54893,Ranunculales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Prasinophyceae indet.,306713,Prasinophyceae,class,,,,,,,,
+Caryophyllaceae indet.,53554,Caryophyllaceae,family,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Crassulaceae indet.,55672,Crassulaceae,family,182995,Saxifragales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Cyperaceae indet.,53543,Cyperaceae,family,182987,Poales,,,54885,Angiospermae,54311,Plantae
+Ericaceae indet.,55506,Ericaceae,family,54919,Ericales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Liliaceae indet.,54578,Liliaceae,family,54972,Liliales,,,54885,Angiospermae,54311,Plantae
+Plumbaginaceae indet.,55426,Plumbaginaceae,family,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Poaceae indet.,53546,Poaceae,family,182987,Poales,,,54885,Angiospermae,54311,Plantae
+Valerianaceae indet.,55786,Valerianaceae,family,54945,Dipsacales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Apiaceae indet.,183090,Apiaceae,family,54935,Apiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Chenopodiaceae indet.,55413,Chenopodiaceae,family,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Rosaceae indet.,54647,Rosaceae,family,54921,Rosales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Globigerinina indet.,112183,Globigerinina,suborder,,,,,288974,Foraminifera,212476,Rhizaria
+Phaeodaria indet.,435960,Phaeodaria,subclass,,,435945,Thecofilosea,212477,Cercozoa,212476,Rhizaria
+Pyloniidae indet.,84792,Pyloniidae,family,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
