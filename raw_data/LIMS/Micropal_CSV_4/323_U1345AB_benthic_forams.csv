@@ -1,0 +1,21 @@
+﻿Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Alabaminella weddellensis,Brizalina earlandi,Brizalina pygmaea,Bulimina aff. exilis,Bulimina sp.,Cassidulina laevigata var. carinata,Cassidulina sp.,Cassidulinoides tenuis,Elphidium cf. batialis,Epistominella pulchella ,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina ariminensus,Procerolagena cf. gracillima,Pullenia sp.,Stainforthia aff. fusiformis,Trifarina angulosa,Uvigerina auberiana,Uvigerina cf. peregrina,Valvulineria sp.,Comments
+323,U1345,A,1,H,CC,4,14,4.29,4.39,VG,D,,R,F,D,,,,,,,R,,,,,,R,R,,,,D,,,R,,
+323,U1345,A,2,H,CC,0,11,13.98,14.09,G,A,,P,,,P,F,P,F,R,,R,,,R,,A,,R,,,R,P,R,P,,R,PYRITE
+323,U1345,A,3,H,CC,21,31,23.82,23.92,G,F,,F,,R,,P,,,P,R,F,P,,R,,,,,,,,R,,R,F,P,PYRITE
+323,U1345,A,4,H,CC,14,24,33.34,33.44,M,P,,P,,P,,,,,,,P,,,,,,,,,,,,,,P,,PYRITE
+323,U1345,A,5,H,CC,34,44,42.85,42.95,M,D,,A,,D,,,,,,P,F,,,,,R,,,,P,,,,,,,"PYRITE, MICA, YELLOW FORAMS"
+323,U1345,A,6,H,CC,41,51,51.51,51.61,M,D,,P,,,,,,R,R,R,R,,,F,,D,P,R,,,,,,,R,P,"PYRITE, MICA"
+323,U1345,A,7,H,CC,41,51,61.74,61.84,M,R,,R,,R,,,,R,R,,R,R,,R,,R,,,,P,,,,,R,R,"PYRITE, MICA"
+323,U1345,A,8,H,CC,35,45,71.01,71.11,G,A,P,,,R,,,,F,P,,F,,,F,P,,P,,,P,,,,,F,F,"PYRITE, MICA"
+323,U1345,A,9,H,CC,40,50,80.54,80.64,VG,A,,,,A,,,,R,,F,A,,,R,,R,,,,,P,,,,A,F,"PYRITE, MICA"
+323,U1345,A,10,H,CC,28,38,88.26,88.36,G,D,,A,,D,,,,,,A,F,,,,,R,,,,,,,,,A,F,"PYRITE, MICA, YELLOW FORAMS"
+323,U1345,A,11,H,CC,29,39,98.39,98.49,G,D,,,,,,R,,A,,,D,,,F,,R,,,,,,,,,A,F,"PYRITE, MICA"
+323,U1345,A,12,H,CC,27,37,108.43,108.53,M,D,,D,,,,,,,,F,F,,,,,P,,,,,,,,,R,F,"PYRITE, MICA, YELLOW FORAMS"
+323,U1345,A,13,H,CC,26,36,118.88,118.98,G,D,,F,,D,,,,,,,R,,,,,P,,,,,,,,,,,"SPICULES, MICA"
+323,U1345,A,14,H,CC,35,45,128.02,128.12,M,A,,,,R,,,,,F,R,,,,R,,A,,R,,,,,,,R,R,"PYRITE, MICA"
+323,U1345,A,15,H,CC,23,33,137.99,138.09,G,D,,,,A,,,,F,,A,R,,,R,P,,,,R,,,,,A,,R,"PYRITE, MICA, YELLOW FORAMS"
+323,U1345,A,16,H,CC,34,44,147.33,147.43,M,D,,,,A,,,,R,A,F,R,,R,R,,F,,,,,,,,,A,F,"PYRITE, MICA, YELLOW FORAMS"
+323,U1345,B,1,H,CC,0,10,8.15,8.25,G,A,,,,R,,,,R,A,P,F,,,P,,A,,,,,R,R,,,R,,"PYRITE, MICA"
+323,U1345,B,2,H,CC,0,15,17.84,17.99,G,A,,A,,A,,,,,R,,F,,,,,F,,F,,,,F,,,R,R,"PYRITE, MICA"
+323,U1345,B,3,H,CC,0,20,27.57,27.77,M,R,,,,,,R,,,,,R,,,P,,R,,,,P,,,,R,,,"PYRITE, MICA"
+323,U1345,B,4,H,CC,0,25,37.08,37.33,M,A,,R,,A,,,,,R,R,R,,,,,F,P,R,,,,R,,R,,R,"PYRITE, MICA"

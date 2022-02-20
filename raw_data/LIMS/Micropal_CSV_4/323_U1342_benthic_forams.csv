@@ -1,0 +1,29 @@
+﻿Expedition,Site,Hole,Core,Core Type,Section,Secton Half,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Alabaminella weddellensis,Bolivina sp.,Brizalina pygmaea,Brizalina earlandi,Brizalina cf. spathula,Bulimina aff. exilis,Cancris cf. phillipinensis,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides sp.,Cibicidoides cf. subhaidingerii,Eggerella bradyi,Epistominella pulchella ,Globobulimina pacifica,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Melonis barleanum,Nodosaria spp.,Nonionella labradorica,Nonionella turgida digitata,Oridorsalis umbonatus,Procerolagena cf. gracillima,Pullenia sp.,Pyrgo sp.,Stainforthia aff. fusiformis,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Valvulineria sp.,Cassidulina laevigata var. carinata,Nodosaria advena,Cyclammina cancellata,Comments
+323,U1342,A,1,H,1,,0,0,0,0,VG,A,,,A,F,A,F,,A,,,,,,R,,,,,,,,,,,,,R,,,,R,,,,"Dominant planktic forams, abundant diatoms and sponge spicules"
+323,U1342,A,1,H,CC,,10,20,1.65,1.75,G,A,,P,,,,R,R,A,,,,,,R,,,,,,,,,,P,,P,,R,A,,R,F,P,,"Planktonic ooze, some sponge spicules"
+323,U1342,A,2,H,CC,,12,22,11.31,11.41,G,D,F,,F,R,,A,F,R,,,,,F,A,,,,,,,,,,,,,,,D,,F,,,,Rare sponge spicules
+323,U1342,A,3,H,CC,,11,21,20.91,21.01,G,A,R,,P,,,,,R,,,,,,,F,F,,R,,,,,,,,,,,A,,F,,,,"Planktonic ooze, some sponge spicules"
+323,U1342,A,4,H,CC,,17,27,30.65,30.75,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,"Monospecific fauna - winnowed?, sponge spicules"
+323,U1342,A,5,H,CC,,12,22,40.12,40.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sand, glauconite concretions"
+323,U1342,A,6,H,CC,,0,10,48.25,48.35,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sand, glauconite concretions"
+323,U1342,A,7,H,CC,,0,10,55.64,55.74,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,"Sand, glauconite concretions"
+323,U1342,B,1,H,1,,0,0,0,0,VC,D,,,R,A,F,F,,D,,,,,,R,,,R,,,,,,,P,P,,R,P,,,R,,,,Dominant foraminifera
+323,U1342,B,1,H,CC,,9,19,5.23,5.33,G,D,,,P,,R,,,D,,P,,,,,,,,,,P,,,,,R,P,P,,A,P,,R,,,Sand
+323,U1342,B,2,H,CC,,17,27,14.98,15.08,G,F,,,R,R,F,F,,F,,,,,,R,R,F,,,,,P,,,,,,,,F,R,R,,,,"Sand, sponge spicules"
+323,U1342,B,3,H,CC,,25,35,24.71,24.81,G,R,,,,,,R,,R,,,,P,,,,,,,,,,,,,P,,,,P,,,P,,,"Sand, sponge spicules"
+323,U1342,B,4,H,CC,,17,27,33.97,34.07,M,R,,,,,P,,,R,,,,,,,,,,,,P,,,,,,,,,R,,,,,,"Sand, sponge spicules"
+323,U1342,B,5,H,CC,,14,24,43.64,43.74,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sand, sponge spicules"
+323,U1342,C,1,H,1,,0,0,0,0,VG,D,,,A,A,F,A,F,,,,,,,,,F,,,,,,,,,,,,,,,,,,,Planktonic ooze
+323,U1342,C,1,H,CC,,0,10,7.09,7.19,VG,D,F,,,,,,,F,,,,,A,P,,,,,,,F,,R,,,,,,D,,F,,,,Abundant shells (bivalve?)
+323,U1342,C,2,H,CC,,9,19,16.94,17.04,G,A,,,P,,,A,,R,P,,,,,R,R,,,,,,,,,,,,,,F,,R,,,,"Sand, sponge spicules"
+323,U1342,C,2,H,2,W,24,26,8.94,8.96,G,A,,,R,A,,A,,F,,,,,,P,,,,,,,,,,,,,,,F,,R,,,,
+323,U1342,C,3,H,CC,,23,33,26.6,26.7,G,R,,,,,P,R,,P,,,,,,P,,,,,,,,,,,,,,,A,,,P,,,"Sand, sponge spicules"
+323,U1342,C,4,H,CC,,15,25,35.9,36,G,F,,,P,,,P,,R,,,P,,,,P,,,,,,,R,,,,,,,F,,,R,,,"Sand, sponge spicules"
+323,U1342,C,5,H,CC,,26,36,45.58,45.68,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Rock fragments, abundant sponge spicules"
+323,U1342,C,6,H,CC,,17,22,45.37,45.42,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sand, glauconite concretions"
+323,U1342,D,1,H,1,,0,0,0,0,VG,D,,,A,F,A,F,,D,,,,,,P,,,,,,,,,,,,,R,,,,R,,,,"Dominant planktic forams, abundant sponge spicules"
+323,U1342,D,1,H,CC,,6,16,6.01,6.11,VG,D,,,,P,P,A,A,D,,,,,,,F,,,,P,,,,,,,,,,D,,R,R,,,Planktonic ooze
+323,U1342,D,2,H,CC,,4,14,15.73,15.83,VG,A,,,,P,,F,R,P,,,,,,F,,F,,,,,,,,,P,,,,F,,F,,,,
+323,U1342,D,3,H,CC,,8,18,25.02,25.12,G,A,,,F,,,,,,,,,,,R,,F,,,,,,,,,,,,,A,,A,,,,
+323,U1342,D,4,H,CC,,11,21,34.73,34.83,G,D,,,,R,A,A,R,,,,,,,,,A,,,,R,R,,,,R,,,,A,,,R,,,Planktonic ooze
+323,U1342,D,5,H,CC,,12,22,44.3,44.4,G,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,"Sand, glauconite concretions"

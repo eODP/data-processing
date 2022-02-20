@@ -1,0 +1,50 @@
+﻿Expedition,Site,Hole,Core,Core Type,Section,Top Depth CSF-A (m),Bottom Depth CSF-A (m),preservation,Dinoflagellate cysts,Organic lining of foraminifers,"Bitectatodinium tepikiense
+",Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Filisphaera filifera,I.mpagidinium pallidum,I.mpagidinium patulum,Impagidinium spp.,Islandinium imnutum ,"Islandinium Morphtype Cesare
+",Operculodinium centrocarpum ,Polykrikos - Arctic morphotype,O. centrocarpum var. short processes,"Lejeunecysta falax
+","Nematosphaeropsis lemniscata
+",Protoperidinium americanum,Quinquecuspis concreta,Selenopemphix nephroides,Spiniferites ramosus,"Trinovantedinium variabile
+"
+323,U1341,A,1,H,CC,2.92,3.02,G,A,C,,F,A,D,,,,,A,,R,,,,,,,,,
+323,U1341,A,3,H,CC,22.33,22.43,M,A,,R,R,D,D,,,,R,F,R,,,,,,,,,,
+323,U1341,A,5,H,CC,41.22,41.32,M,A,C,R,,A,D,,,,,,,,,,,,F,,,,
+323,U1341,A,7,H,CC,60.41,60.51,M,C,F,,,D,D,,R,,,,,R,,R,,,,,,,
+323,U1341,A,9,H,CC,79.56,79.66,M,C,F,,,F,D,,,,,A,,,,,,D,,,,,
+323,U1341,A,11,H,CC,98.41,98.51,G,A,C,,R,A,D,,,,R,R,,F,R,R,,,,R,,R,
+323,U1341,A,13,H,CC,117.6,117.7,M,C,R,,,A,D,,,,,,,,,,,,,,,,
+323,U1341,A,15,H,CC,136.16,136.26,G,C,C,D,,R,A,,F,,,,,,,,F,,,,,,
+323,U1341,A,17,H,CC,155.53,155.63,M,C,F,,,A,D,,,,,,,,,,,,,,,,
+323,U1341,A,19,H,CC,174.39,174.49,M,A,,,R,A,D,,,,,,,,,,,,,,,,
+323,U1341,A,21,H,CC,193.25,193.35,P,F,,,,,P,,,,,,,,,,,,,,,,
+323,U1341,A,23,H,CC,212.53,212.63,M,C,F,,R,A,D,F,,,,,,,,,,,,,,,
+323,U1341,A,25,H,CC,231.33,231.43,M,F,F,,,,D,D,,,,,,A,,,,,,,,,
+323,U1341,A,27,H,CC,241.4,241.5,P,F,F,,,,P,,,,,,,,,,,,,,,,
+323,U1341,A,29,H,CC,262.14,262.24,M,C,,,,A,D,A,,,,,,A,,,,,,,,,
+323,U1341,A,31,H,CC,281.2,281.3,P,R,,,,,P,,,,,,,,,,,,,,,,
+323,U1341,A,33,H,CC,300.09,300.19,M,C,F,,,A,D,,,,F,,,,,,,,,,,,A
+323,U1341,A,35,H,CC,318.92,319.02,P,C,F,,,A,D,,,,,,,,,,,,,,,,R
+323,U1341,A,37,H,CC,332.71,332.81,P,R,R,,,,P,,,,,,,,,,,,,,,,
+323,U1341,A,39,H,CC,351.93,352.03,M,C,C,,,A,D,,,,,F,,,,,,,,,F,,
+323,U1341,A,40,H,CC,356.68,356.78,P,F,,,,,P,P,,,,,,,,,,,,,,,
+323,U1341,A,41,H,CC,359.02,359.12,P,C,C,,,P,P,,,,,,,,,,,,,,,,
+323,U1341,B,42,H,CC,375.58,375.68,P,F,C,,,P,P,,,,,,,,,,,,,,,,
+323,U1341,B,43,H,CC,385.38,385.48,P,C,F,,,P,P,,,,,,,,,,,,,,F,,
+323,U1341,B,44,H,CC,395.02,395.12,M,C,F,,F,F,D,,,,,,,,,,,,,,,,
+323,U1341,B,45,H,CC,403.49,403.59,M,C,F,,,F,D,F,,,,,,,,,,,,,,,
+323,U1341,B,46,H,CC,413.6,413.7,M,C,C,,,,P,,,,,,,,,,,,,,,,
+323,U1341,B,47,H,CC,414.43,414.53,P,C,F,,,A,D,A,,,,,,,,,,,,,,,
+323,U1341,B,48,H,CC,422.74,422.84,P,F,C,,,,P,,,,,,,,,,,,,,,,
+323,U1341,B,49,H,CC,423.19,423.29,M,F,R,,,,P,P,,,,,,,,,,,,,,,
+323,U1341,B,50,H,CC,431.08,431.18,M,,F,,,,,,,,,,,,,,,,,,,,
+323,U1341,B,51,H,CC,438.94,439.04,M,F,,,,,P,,,,,,,,,,,,,,,,
+323,U1341,B,53,H,CC,457.7,457.8,P,F,F,,,,P,,,,,,,,,,,,,,,,P
+323,U1341,B,55,H,CC,458.3,458.36,,,R,,,,,,,,,,,,,,,,,,,,
+323,U1341,B,57,X,CC,467.23,467.33,M,F,F,,,,P,,,,,,,,,,,,,,,,
+323,U1341,B,59,X,CC,486.67,486.77,M,C,R,,,,A,,,,,,,,,,,,,,,,D
+323,U1341,B,61,X,CC,504.24,504.34,M,C,F,,,,P,P,,P,,,,,,,,,,,,,P
+323,U1341,B,63,X,CC,525.36,525.46,M,C,F,,,A,D,,,,,,,,,,,,,,,,F
+323,U1341,B,65,X,CC,542.92,543.02,P,C,C,,,,P,,,,,,,,,,,,,,,,P
+323,U1341,B,67,X,CC,563.58,563.68,,,,,,,,,,,,,,,,,,,,,,,
+323,U1341,B,68,X,CC,573.38,573.48,,,F,,,,,,,,,,,,,,,,,,,,
+323,U1341,B,69,X,CC,573.52,573.62,,,F,,,,,,,,,,,,,,,,,,,,
+323,U1341,B,70,X,CC,592.15,592.25,P,C,F,,,P,P,,,,,,,,,,,,,,P,,P
+323,U1341,B,71,X,CC,601.77,601.87,P,C,,P,,,P,,,,,,,,,,,,,,,,P

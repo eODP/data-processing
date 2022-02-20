@@ -1,0 +1,7 @@
+﻿Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Globigerina bulloides,Neogloboquadrina pachyderma (sin),comments
+323,U1344,B,1,H,1,0,0,0,0,,B,,,"dominant IRD, diatoms"
+323,U1344,B,1,H,CC,26,36,4.7,4.8,G,R,P,R,few IRD
+323,U1344,C,1,H,CC,15,25,7.02,7.12,G,A,A,A,"rare IRD, pyrite, sponge spicules"
+323,U1344,C,2,H,CC,8,18,14.14,14.24,M,A,A,A,"abundant IRD, pyrite, sponge spicules, shell fragments"
+323,U1344,C,3,H,CC,0,15,26.25,26.4,M,A,F,F,"abundant IRD, pyrite, sponge spicules, yellow foraminiferal tests"
+323,U1344,C,4,H,CC,35,45,35.45,35.55,M,F,P,F,"few IRD, pyrite"

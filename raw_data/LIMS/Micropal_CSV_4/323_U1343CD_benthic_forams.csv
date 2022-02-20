@@ -1,0 +1,30 @@
+﻿Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Brizalina earlandi,Brizalina cf. spathula,Bulimina aff. exilis,Cassidulina sp.,Cassidulina laevigata var. carinata,Cassidulinoides tenuis,Cibicidoides sp.,Cibicidoides cf. subhaidingerii,"Cribrostomoides subglobosus
+",Eggerella bradyi,Elphidium cf. batialis,Epistominella pulchella ,Fissurina sp,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Nodosaria spp.,Nonionella labradorica,Nonionella turgida digitata,Procerolagena cf. gracillima,Pullenia sp.,Pyrgo sp.,Rhabdammina sp.,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Valvulineria sp.,Comments
+323,U1343,C,1,H,1,0,0,0,0,G,R,P,,R,,,,,,R,P,,,,,,R,P,,P,,,,R,P,P,,,,,,P,,P,
+323,U1343,C,1,H,CC,5,15,7.14,7.24,G,A,,,F,,R,,,,,,A,,,,,F,,,R,,,P,P,,,R,,,P,,,R,R,MICA
+323,U1343,C,2,H,CC,5,15,16.57,16.67,G,F,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,P,P,"PYRITE TUBES, MICA, RARE GLAUCONITE"
+323,U1343,C,3,H,CC,14,24,26.5,26.6,G,A,,,,,,,,,,,F,,,,,F,,,P,,,,R,,,,,,,,,,,"PYRITE TUBES, MICA"
+323,U1343,C,4,H,CC,21,31,36.3,36.4,G,A,,,A,,R,,,,,,,,,,,A,,,P,,,,F,,,,,,,,F,A,,"PYRITE TUBES, MICA"
+323,U1343,C,5,H,CC,19,29,44.65,44.75,M,A,,,R,,,,,,,,,,,,,,,P,P,,,,P,,P,F,,,,,,R,,"PYRITE TUBES, MICA"
+323,U1343,C,6,H,CC,25,35,55.41,55.51,G,F,,,R,,,,,,,,R,P,,,,R,,,,,,P,R,,,,,,,,,,,MICA
+323,U1343,C,7,H,CC,33,43,63.81,63.91,M,R,,,,,,R,,,,,,,,,,P,,,R,,P,,,,,,,,,P,,,,
+323,U1343,C,8,H,CC,29,39,70.58,70.68,G,A,,,R,,,P,,,,,D,,,,,A,,,A,,,,P,,,,,,P,,R,F,,"PYRITE TUBES, MICA"
+323,U1343,C,9,H,CC,39,49,78.25,78.35,G,F,,,,,,R,,,,,F,,,,,P,,,F,,,,R,,,,,,,,P,F,,"PYRITE TUBES, MICA"
+323,U1343,C,10,H,CC,30,40,87.58,87.68,G,F,,,R,,,P,,,,,F,,,,,R,,,,,,,,,,,,,,,P,F,,MICA
+323,U1343,C,11,H,CC,26,36,97.44,97.54,G,A,,,F,,,P,,,,,F,,,,,R,,P,P,,,,,,,,,,,,,A,P,"PYRITE TUBES, MICA"
+323,U1343,C,12,H,CC,27,37,106.58,106.68,M,A,,,F,,,,,,,,A,,P,,,P,,P,R,,,,,,,,,,,,R,P,P,"MICA, PYRITE"
+323,U1343,C,13,H,CC,38,48,116,116.1,M,F,,,R,,,R,,,,,,,,,,P,,,P,,,,,,,P,,,,,,,,"PYRITE TUBES, MICA"
+323,U1343,C,14,H,CC,33,43,124.55,124.65,G,A,,,R,,,R,,,,,A,,P,,,,,,R,,,,,,,,,,,,R,,,PYRITE
+323,U1343,C,15,H,CC,29,39,134.94,135.04,G,D,,,A,,,F,,,,,,P,,,,F,,,,,,P,A,,,,,,,,,,,ORANGE PLANK
+323,U1343,C,17,H,CC,27,37,153.3,153.4,G,R,,,,,,,,,,,,,,,,P,,,,,,,P,,,,,,P,,R,,,"PYRITE TUBES, MICA"
+323,U1343,C,18,H,CC,63,73,163.05,163.15,G,A,,,R,R,,,,,,,A,,,P,,,,,A,,,,R,,,,,,,,,,,"MICA, PYRITE, DIATOMS"
+323,U1343,C,19,H,CC,32,42,171.89,171.99,G,F,,,F,,R,,,,,,R,,,,,,,,P,,P,P,R,,,,,,,,,,,"PYRITE TUBES, MICA"
+323,U1343,C,20,H,CC,74,84,182.11,182.21,G,A,,,A,,,,,P,,,,P,,,,R,,,A,,,,R,,,,,,,,F,,,"MICA, PYRITE"
+323,U1343,C,21,H,CC,18,28,192.05,192.15,G,F,,,F,,,,,,,,F,P,,,,,,,,,,,R,,,,,,,,,,,"MICA, PYRITE"
+323,U1343,C,22,H,CC,33,43,196.06,196.16,M,F,,,P,,,P,P,,,,F,,,,,P,,,R,,,,,,,,,,,,,,,"MICA, WOOD, PYRITE"
+323,U1343,C,23,H,CC,16,26,205.35,205.45,M,D,,,R,,,A,,,,,D,,,,,A,,,P,,P,,F,,,,,,,,,,,PYRITE TUBES
+323,U1343,C,24,H,CC,33,43,215.44,215.54,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
+323,U1343,C,25,H,CC,31,41,224.67,224.77,M,F,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,P,,,pyrite
+323,U1343,C,26,H,CC,21,31,234.62,234.72,M,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,pyrite tubes
+323,U1343,D,1,H,1,0,0,0,0,G,A,F,P,A,,,,,,,,,,,,P,,,,,P,,,R,A,R,,,P,,,,,,
+323,U1343,D,1,H,CC,4,14,8.43,8.53,G,F,P,,R,,,,,,,,F,,,,,F,,,F,P,,,,,P,,P,,,,,F,R, Large pumice fragment 1 cm.
