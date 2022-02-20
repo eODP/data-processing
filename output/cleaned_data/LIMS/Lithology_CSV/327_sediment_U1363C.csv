@@ -1,5 +1,5 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology name,Grain size max [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,,Minor Lithology Suffix,Minor Lithology Prefix,Minor Lithology Name
-327-U1363C-2X-CC-A,327,U1363,C,2,2-CC,X,CC,A,0,32,170.0,170.32,,clayey silt [S54],,clayey silt,,,,,"Shepard, 1954",,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology name,Grain size max [mm],Lithification,Lithification rank,Lithology [%],Lithology classification,Comment,File Data,,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
+327-U1363C-2X-CC-A,327,U1363,C,2,2-CC,X,CC,A,0,32,170,170.32,,clayey silt [S54],,clayey silt,,,,,"Shepard, 1954",,,,,,
 327-U1363C-2X-CC-A,327,U1363,C,2,2-CC,X,CC,A,32,43,170.32,170.43,,silt [S54],,silt,,,,,"Shepard, 1954",,,,,,
 327-U1363C-4X-1-A,327,U1363,C,4,4-1,X,1,A,0,55,183.2,183.75,,clay [S54] ,,clay,,,,,"Shepard, 1954",,,,,,
 327-U1363C-4X-1-A,327,U1363,C,4,4-1,X,1,A,55,95,183.75,184.15,,silty clay [S54],,silty clay,,,,,"Shepard, 1954",lots of forams ,,,,,

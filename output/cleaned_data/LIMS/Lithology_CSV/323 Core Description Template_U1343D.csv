@@ -1,5 +1,5 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE,Minor Lithology Prefix,Minor Lithology Suffix,Lithology Suffix,Minor Lithology Name
-323-U1343D-1H-1-A,323,U1343,D,1,1-1,H,1,A,0,40,0.0,0.4,diatom silt,Leg 323,,diatom silt,,soft,5Y 4/3,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
+323-U1343D-1H-1-A,323,U1343,D,1,1-1,H,1,A,0,40,0,0.4,diatom silt,Leg 323,,diatom silt,,soft,5Y 4/3,,,,,,,,,,,,,,,,
 323-U1343D-1H-1-A,323,U1343,D,1,1-1,H,1,A,40,60,0.4,0.6,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/3,,,,,mottled by bioturbation,,,,,,,,,,,
 323-U1343D-1H-1-A,323,U1343,D,1,1-1,H,1,A,40,60,0.4,0.6,diatom silt,Leg 323,,diatom silt,50,soft,5Y 5/1,,,,,mottled by bioturbation,,,,,,,,,,,
 323-U1343D-1H-1-A,323,U1343,D,1,1-1,H,1,A,60,127,0.6,1.27,diatom silt,Leg 323,,diatom silt,,soft,5Y 4/2,,,,,,,,,,,,,,,,
@@ -9,10 +9,10 @@ Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top De
 323-U1343D-1H-2-A,323,U1343,D,1,1-2,H,2,A,0,10,1.5,1.6,diatom ooze,Leg 323,nannofossil-rich,nannofossil-rich diatom ooze,30,soft,5Y 4/3,,,,,thinly laminated,,,,,,,,,,,
 323-U1343D-1H-2-A,323,U1343,D,1,1-2,H,2,A,0,10,1.5,1.6,diatom silt,Leg 323,nannofossil-rich,nannofossil-rich diatom silt,50,soft,5Y 4/1 ,,,,,thinly laminated,,,,,,,,,,,
 323-U1343D-1H-2-A,323,U1343,D,1,1-2,H,2,A,0,10,1.5,1.6,diatom silt,Leg 323,,diatom silt,20,soft,5Y 2.5/1,,,,,thinly laminated,,,,,,,,,,,
-323-U1343D-1H-2-A,323,U1343,D,1,1-2,H,2,A,10,150,1.6,3.0,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
-323-U1343D-1H-3-A,323,U1343,D,1,1-3,H,3,A,0,150,3.0,4.5,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
-323-U1343D-1H-4-A,323,U1343,D,1,1-4,H,4,A,0,150,4.5,6.0,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
-323-U1343D-1H-5-A,323,U1343,D,1,1-5,H,5,A,0,150,6.0,7.5,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
+323-U1343D-1H-2-A,323,U1343,D,1,1-2,H,2,A,10,150,1.6,3,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
+323-U1343D-1H-3-A,323,U1343,D,1,1-3,H,3,A,0,150,3,4.5,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
+323-U1343D-1H-4-A,323,U1343,D,1,1-4,H,4,A,0,150,4.5,6,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
+323-U1343D-1H-5-A,323,U1343,D,1,1-5,H,5,A,0,150,6,7.5,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
 323-U1343D-1H-6-A,323,U1343,D,1,1-6,H,6,A,0,15,7.5,7.65,diatom silt,Leg 323,authigenic-carbonate-rich,authigenic-carbonate-rich diatom silt,,soft,10Y 4/1,,,,,,,,,,,,,,,,
 323-U1343D-1H-6-A,323,U1343,D,1,1-6,H,6,A,15,89,7.65,8.39,diatom silt,Leg 323,,diatom silt,,soft,5GY 4/1,,,,,,,,,,,,,,,,
 323-U1343D-1H-CC-A,323,U1343,D,1,1-CC,H,CC,A,0,6,8.39,8.45,diatom silt,Leg 323,,diatom silt,,soft,5GY 4/1,,,,,,,,,,,,,,,,
