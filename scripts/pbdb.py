@@ -7,14 +7,14 @@ PBDB_TAXA_ID = f"{PBDB_API}taxa/single.json?vocab=pbdb&id="
 
 def fill_taxon(df, index, data, taxon_rank):
     # cast taxon_no to string to avoid pandas converting it to a float
-    df.at[index, f'{taxon_rank}_taxon_id'] = str(data[0]["taxon_no"])
-    df.at[index, f'{taxon_rank}_taxon_name'] = data[0]["taxon_name"]
+    df.at[index, f"{taxon_rank}_taxon_id"] = str(data[0]["taxon_no"])
+    df.at[index, f"{taxon_rank}_taxon_name"] = data[0]["taxon_name"]
 
 
 def get_parent_taxa(df, parent_id, taxon_rank, round, index, data):
-    if taxon_rank == 'kingdom':
+    if taxon_rank == "kingdom":
         return data
-    elif parent_id == '0':
+    elif parent_id == "0":
         return data
     elif round > 20:
         return data
@@ -28,10 +28,9 @@ def get_parent_taxa(df, parent_id, taxon_rank, round, index, data):
         if len(data) == 1:
             taxon_rank = data[0]["taxon_rank"]
             parent_id = data[0]["parent_no"]
-            if taxon_rank in ['family', 'order', 'class', 'phylum', 'kingdom']:
+            if taxon_rank in ["family", "order", "class", "phylum", "kingdom"]:
                 fill_taxon(df, index, data, taxon_rank)
-            elif parent_id == '0':
+            elif parent_id == "0":
                 fill_taxon(df, index, data, taxon_rank)
 
             return get_parent_taxa(df, parent_id, taxon_rank, round, index, data)
-

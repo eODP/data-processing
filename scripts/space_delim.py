@@ -1,7 +1,4 @@
 import re
-import os
-
-import fire
 import pandas as pd
 
 
@@ -63,7 +60,6 @@ def get_headers(first_line):
             headers[i] = headers[i] + headers[i + 1]
             headers[i + 1] = " "
 
-
         # merges 3 headers into 1 header when 'Xxxx Form X'
         # 'Genus ', 'Form ', 'A ' -> 'Genus Form A '
         elif re.search("^Form +$", headers[i]) and re.match("[A-Z] +$", headers[i + 1]):
@@ -101,13 +97,13 @@ def convert_space_delim_file(filename):
 
         all_lines = []
         for line in infile.readlines():
-            if line == '\n':
+            if line == "\n":
                 continue
             elif line == '""\n':
                 continue
 
             if re.match('^" +IR.*?$', line):
-                line = re.sub('^"(.*?)"$', r'\1', line)
+                line = re.sub('^"(.*?)"$', r"\1", line)
 
             # split line into list of values using the header positions
             # https://stackoverflow.com/a/10851479

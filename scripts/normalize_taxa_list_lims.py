@@ -2,7 +2,6 @@
 
 import os
 import pandas as pd
-import numpy as np
 import fire
 
 import normalize_taxa as nt

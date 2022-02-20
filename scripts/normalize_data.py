@@ -92,7 +92,6 @@ def create_sample_name(df):
         raise ValueError("File does not have the expected columns.")
 
 
-
 def normalize_expedition_section_cols(df):
     """Create Exp...Section columns using Sample or Label ID"""
     # NOTE: There was one file that did not have A/W column

@@ -2,10 +2,10 @@ import subprocess
 
 
 def lint():
-    _exec("black ./scripts")
-    _exec("black ./tests")
-    _exec("flake8 ./scripts")
-    _exec("flake8 ./tests")
+    _exec("black .")
+    _exec("black ../tests")
+    _exec("flake8 .")
+    _exec("flake8 ../tests")
 
 
 def _exec(command):

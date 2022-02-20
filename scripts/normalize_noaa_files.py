@@ -57,7 +57,7 @@ def qa_files_for_paths(paths, expected_fields, sep=","):
         "space_delim": [],  # uses spaces as delimiter
         "missing_fields": [],  # does not have all the fields
         "good_files": [],
-        "unnamed_column": []
+        "unnamed_column": [],
     }
 
     for file in paths:
@@ -73,7 +73,7 @@ def qa_files_for_paths(paths, expected_fields, sep=","):
         expected_fields = {re.sub(" {2,}", " ", field) for field in expected_fields}
         columns = [re.sub(" {2,}", " ", col) for col in df.columns]
 
-        if len([col for col in columns if col.startswith('Unnamed')]) > 0:
+        if len([col for col in columns if col.startswith("Unnamed")]) > 0:
             results["unnamed_column"].append(file)
         elif expected_fields.issubset(columns):
             results["good_files"].append(file)
