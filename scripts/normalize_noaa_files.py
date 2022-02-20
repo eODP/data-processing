@@ -19,7 +19,7 @@ def unique_columns_for_paths(paths, sep=","):
     """Find all the unique column names for a list of paths"""
     columns = set()
     for path in paths:
-        df = pd.read_csv(path, nrows=1, sep=sep)
+        df = pd.read_csv(path, nrows=1, sep=sep, dtype=str)
         columns.update(df.columns)
 
     return columns
@@ -29,7 +29,7 @@ def column_counts_for_paths(paths):
     """Returns the unique number of columns for a list of paths"""
     counts = set()
     for path in paths:
-        df = pd.read_csv(path, nrows=0)
+        df = pd.read_csv(path, nrows=0, dtype=str)
         counts.add(len(df.columns))
 
     return counts
@@ -62,7 +62,7 @@ def qa_files_for_paths(paths, expected_fields, sep=","):
 
     for file in paths:
         try:
-            df = pd.read_csv(file, delimiter=sep, nrows=3)
+            df = pd.read_csv(file, delimiter=sep, nrows=3, dtype=str)
         except UnicodeDecodeError:
             results["bad_encoding"].append(file)
             continue

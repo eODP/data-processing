@@ -19,7 +19,7 @@ class TaxaList:
             f"LIMS_Micropal_headers_PBDB_Taxonomy_notes_taxa_list_{date}.csv",
         )
         # skip and drop rows with bad data
-        df = pd.read_csv(input_file, skiprows=9)
+        df = pd.read_csv(input_file, skiprows=9, dtype=str)
         df = df.drop(df.index[[0, 1]])
         df = df.dropna(how="all", axis="index")
 
@@ -65,7 +65,7 @@ class TaxaList:
 
         # append existing taxa file or create new taxa file
         if mode == "append":
-            df = pd.read_csv(taxa_file)
+            df = pd.read_csv(taxa_file, dtype=str)
         else:
             df = pd.DataFrame()
 
@@ -77,7 +77,7 @@ class TaxaList:
             crosswalk_file = os.path.join(
                 *taxa_dir, f"taxa_crosswalk_{taxon_group}_{date}.csv"
             )
-            taxa_df = pd.read_csv(crosswalk_file)
+            taxa_df = pd.read_csv(crosswalk_file, dtype=str)
             df = pd.concat([df, taxa_df])
 
         df.to_csv(taxa_file, index=False)
