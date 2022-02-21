@@ -1,23 +1,23 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group Abundance,Acrobotrys tritubus,Amphirhopalum ypsilon,Anthocyrtidium angulare,Anthocyrtidium jenghisi,Anthocyrtidium pliocenica,Botryostrobus miralestense,Buccinosphaera invaginata,Calocycletta caepa,Calocycletta cladara,Calocycletta costata,Calocycletta virginis,Carpocanopsis bramlettei,Carpocanopsis cingulata,Carpocanopsis favosa,Collosphaera tuberosa,Cycladophora davisiana,Cyrtocapsella cornuta ,Cyrtocapsella japonica ,Cyrtocapsella tetrapera ,Diartus hughesi,Diartus petterssoni,Dictyocoryne ontongensis,Didymocyrtis avita,Didymocyrtis mammifera,Didymocyrtis penultima,Didymocyrtis prismatica,Didymocyrtis tubaria,Didymocyrtis violina,Dorcadospyris alata,Dorcadospyris dentata,Eucyrtidium diaphanes,Lamprocyrtis neoheteroporos,Lamprocyrtis nigriniae,Liriospyris parkerae,Lithopera neotera,Lithopera renzae ,Lithopera thornbergi,Lychnodictyum audax,Phomostichoartus corbula,Phormostichoartus doliolum,Phormostichoartus fistula,Pterocanium prismatium,Pterocorys campanula,Pterocorys hertwigii,Siphostichartus corona,Solenosphaera omnitubus omnitubus,Solenosphaera omnitubus procera,Spongaster berminghami,Spongaster pentas,Spongaster tetras tetras,Stichocorys delmontensis,Stichocorys johnsoni,Stichocorys wolffii,Stylatractus universus,Theocorythium trachelium trachelium,Theocorythium vetulum,Theocyrtis annosa,Comments,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-359-U1471A-1H-CC-PAL-RADS,0,5,4.57,4.62,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,1,H,CC,PAL
-359-U1471A-5H-CC-PAL-RADS,0,5,42.62,42.67,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,5,H,CC,PAL
-359-U1471A-10H-CC-PAL-RADS,0,5,90.29,90.34,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,10,H,CC,PAL
-359-U1471A-15H-CC-PAL-RADS,0,5,138.05,138.1,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,15,H,CC,PAL
-359-U1471A-20H-CC-PAL-RADS,0,5,185.19,185.24,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,20,H,CC,PAL
-359-U1471A-25H-CC-PAL-RADS,0,5,233.11,233.16,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,25,H,CC,PAL
-359-U1471A-30H-CC-PAL-RADS,0,5,276.11,276.16,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,30,H,CC,PAL
-359-U1471A-35F-CC-PAL-RADS,0,5,305.73,305.78,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,35,F,CC,PAL
-359-U1471A-40X-CC-PAL-RADS,0,5,335.43,335.48,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,40,X,CC,PAL
-359-U1471A-45F-CC-PAL-RADS,0,5,384.46,384.51,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,45,F,CC,PAL
-359-U1471A-50X-CC-PAL-RADS,0,5,423.13,423.18,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,50,X,CC,PAL
-359-U1471A-55X-CC-PAL-RADS,0,5,471.83,471.88,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,55,X,CC,PAL
-359-U1471A-61F-CC-PAL-RADS,0,5,518.19,518.24,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,61,F,CC,PAL
-359-U1471A-65X-CC-PAL-RADS,0,5,539.5,539.55,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,65,X,CC,PAL
-359-U1471A-69X-CC-PAL-RADS,0,5,578.77,578.82,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,69,X,CC,PAL
-359-U1471A-75X-CC-PAL-RADS,0,5,639.14,639.19,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,75,X,CC,PAL
-359-U1471A-76X-CC-PAL-RADS,0,5,643.9,643.95,,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,76,X,CC,PAL
-359-U1471A-77X-CC-PAL-RADS,0,5,647.67,647.72,,,,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,77,X,CC,PAL
-359-U1471A-79X-CC-PAL-RADS,0,2,661.0,661.02,,,,P,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,79,X,CC,PAL
-359-U1471A-80X-CC-W 23/24-PAL-RADS,0,1,669.67,669.68,,,,P,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,80,X,CC,W
-359-U1471A-81X-CC-PAL-RADS,0,5,674.4,674.45,,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,81,X,CC,PAL
-359-U1471A-82X-CC-PAL-RADS,0,5,681.42,681.47,,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,A,82,X,CC,PAL
+﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group Abundance,Acrobotrys tritubus,Amphirhopalum ypsilon,Anthocyrtidium angulare,Anthocyrtidium jenghisi,Anthocyrtidium pliocenica,Botryostrobus miralestense,Buccinosphaera invaginata,Calocycletta caepa,Calocycletta cladara,Calocycletta costata,Calocycletta virginis,Carpocanopsis bramlettei,Carpocanopsis cingulata,Carpocanopsis favosa,Collosphaera tuberosa,Cycladophora davisiana,Cyrtocapsella cornuta ,Cyrtocapsella japonica ,Cyrtocapsella tetrapera ,Diartus hughesi,Diartus petterssoni,Dictyocoryne ontongensis,Didymocyrtis avita,Didymocyrtis mammifera,Didymocyrtis penultima,Didymocyrtis prismatica,Didymocyrtis tubaria,Didymocyrtis violina,Dorcadospyris alata,Dorcadospyris dentata,Eucyrtidium diaphanes,Lamprocyrtis neoheteroporos,Lamprocyrtis nigriniae,Liriospyris parkerae,Lithopera neotera,Lithopera renzae ,Lithopera thornbergi,Lychnodictyum audax,Phomostichoartus corbula,Phormostichoartus doliolum,Phormostichoartus fistula,Pterocanium prismatium,Pterocorys campanula,Pterocorys hertwigii,Siphostichartus corona,Solenosphaera omnitubus omnitubus,Solenosphaera omnitubus procera,Spongaster berminghami,Spongaster pentas,Spongaster tetras tetras,Stichocorys delmontensis,Stichocorys johnsoni,Stichocorys wolffii,Stylatractus universus,Theocorythium trachelium trachelium,Theocorythium vetulum,Theocyrtis annosa,Comments,Ship File Links,Shore File Links,File Data
+359-U1471A-1H-CC-PAL-RADS,0,5,4.57,4.62,,,,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-5H-CC-PAL-RADS,0,5,42.62,42.67,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-10H-CC-PAL-RADS,0,5,90.29,90.34,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-15H-CC-PAL-RADS,0,5,138.05,138.1,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-20H-CC-PAL-RADS,0,5,185.19,185.24,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-25H-CC-PAL-RADS,0,5,233.11,233.16,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-30H-CC-PAL-RADS,0,5,276.11,276.16,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-35F-CC-PAL-RADS,0,5,305.73,305.78,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-40X-CC-PAL-RADS,0,5,335.43,335.48,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-45F-CC-PAL-RADS,0,5,384.46,384.51,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-50X-CC-PAL-RADS,0,5,423.13,423.18,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-55X-CC-PAL-RADS,0,5,471.83,471.88,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-61F-CC-PAL-RADS,0,5,518.19,518.24,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-65X-CC-PAL-RADS,0,5,539.5,539.55,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-69X-CC-PAL-RADS,0,5,578.77,578.82,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-75X-CC-PAL-RADS,0,5,639.14,639.19,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-76X-CC-PAL-RADS,0,5,643.9,643.95,,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-77X-CC-PAL-RADS,0,5,647.67,647.72,,,,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-79X-CC-PAL-RADS,0,2,661,661.02,,,,P,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-80X-CC-W 23/24-PAL-RADS,0,1,669.67,669.68,,,,P,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-81X-CC-PAL-RADS,0,5,674.4,674.45,,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359-U1471A-82X-CC-PAL-RADS,0,5,681.42,681.47,,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

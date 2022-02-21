@@ -1,5 +1,5 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
-342-U1405A-1H-2-W 110/111-FORAM,342,U1405,A,1,1-2,H,2,W,110/111-FORAM,0,1,2.6,2.61,2.61,G,P,P,P,F,D,P,,
-342-U1405A-1H-4-W 116/117-FORAM,342,U1405,A,1,1-4,H,4,W,116/117-FORAM,0,1,5.66,5.67,5.67,M,P,P,P,F,D,R,,
-342-U1405A-1H-4-W 60/61-FORAM,342,U1405,A,1,1-4,H,4,W,60/61-FORAM,0,1,5.1,5.11,5.11,G,R,R,P,R,D,B,,
-342-U1405A-2H-5-W 100/101-FORAM,342,U1405,A,2,2-5,H,5,W,100/101-FORAM,0,1,13.2,13.21,13.21,M,P,B,P,B,P,B,,
+﻿Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
+342-U1405A-1H-2-W 110/111-FORAM,342,U1405,A,1,1-2,H,2,W,110/111-FORAM,0,1,2.6,2.61,2.61,G [P21],P [A60],P [A60],P [A60],F [A60],D [A60],P [A60],,
+342-U1405A-1H-4-W 116/117-FORAM,342,U1405,A,1,1-4,H,4,W,116/117-FORAM,0,1,5.66,5.67,5.67,M [P21],P [A60],P [A60],P [A60],F [A60],D [A60],R [A60],,
+342-U1405A-1H-4-W 60/61-FORAM,342,U1405,A,1,1-4,H,4,W,60/61-FORAM,0,1,5.1,5.11,5.11,G [P21],R [A60],R [A60],P [A60],R [A60],D [A60],B [A60],,
+342-U1405A-2H-5-W 100/101-FORAM,342,U1405,A,2,2-5,H,5,W,100/101-FORAM,0,1,13.2,13.21,13.21,M [P21],P [A60],B [A60],P [A60],B [A60],P [A60],B [A60],,

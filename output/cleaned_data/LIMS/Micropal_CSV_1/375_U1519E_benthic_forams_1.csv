@@ -1,10 +1,10 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-375-U1519E-1H-1-PAL_MUDLINE-FORAM,0,0,0.0,0.0,VG-M,,,,,,,,,,,F,,,,R,F,,,,,,,,375,U1519,E,1,H,1,PAL_MUDLINE
-375-U1519E-1H-CC-PAL-FORAM,0,10,4.4,4.5,G,,,,,,,,,,,,,,,,,X,,,,,,,375,U1519,E,1,H,CC,PAL
-375-U1519E-2H-CC-PAL-FORAM,0,10,14.42,14.52,VG-G,,,,,,,,,,,,,,,,,,,,,,,,375,U1519,E,2,H,CC,PAL
-375-U1519E-3H-CC-PAL-FORAM,0,10,21.92,22.02,VG,,,,,,,,,,,,,,X,,,,,,,,,,375,U1519,E,3,H,CC,PAL
-375-U1519E-5H-CC-PAL-FORAM,0,10,39.98,40.08,VG,,,,,,,,,,,,,,,,,,,,,,,,375,U1519,E,5,H,CC,PAL
-375-U1519E-7H-CC-PAL-FORAM,0,10,56.85,56.95,VG,,,,,,,,,,,,,,,,,,,,,,,,375,U1519,E,7,H,CC,PAL
-375-U1519E-9F-CC-PAL-FORAM,0,10,67.45,67.55,VG,,,,,,,,,,,,,,,,,,,,,,,,375,U1519,E,9,F,CC,PAL
-375-U1519E-11F-CC-PAL-FORAM,0,10,76.71,76.81,G,,,,,,,,,,,,,,,,,,,,,,,,375,U1519,E,11,F,CC,PAL
-375-U1519E-13F-CC-PAL-FORAM,0,10,86.11,86.21,G,,,,,,,,,,,,,,,,,,,,,,,,375,U1519,E,13,F,CC,PAL
+﻿Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data
+375-U1519E-1H-1-PAL_MUDLINE-FORAM,0,0,0,0,VG-M,,,,,,,,,,,F,,,,R,F,,,,,,,
+375-U1519E-1H-CC-PAL-FORAM,0,10,4.4,4.5,G,,,,,,,,,,,,,,,,,X,,,,,,
+375-U1519E-2H-CC-PAL-FORAM,0,10,14.42,14.52,VG-G,,,,,,,,,,,,,,,,,,,,,,,
+375-U1519E-3H-CC-PAL-FORAM,0,10,21.92,22.02,VG,,,,,,,,,,,,,,X,,,,,,,,,
+375-U1519E-5H-CC-PAL-FORAM,0,10,39.98,40.08,VG,,,,,,,,,,,,,,,,,,,,,,,
+375-U1519E-7H-CC-PAL-FORAM,0,10,56.85,56.95,VG,,,,,,,,,,,,,,,,,,,,,,,
+375-U1519E-9F-CC-PAL-FORAM,0,10,67.45,67.55,VG,,,,,,,,,,,,,,,,,,,,,,,
+375-U1519E-11F-CC-PAL-FORAM,0,10,76.71,76.81,G,,,,,,,,,,,,,,,,,,,,,,,
+375-U1519E-13F-CC-PAL-FORAM,0,10,86.11,86.21,G,,,,,,,,,,,,,,,,,,,,,,,
