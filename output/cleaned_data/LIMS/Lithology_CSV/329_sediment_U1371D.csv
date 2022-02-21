@@ -1,124 +1,124 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,Lithology name,Lithology classification,Lithology [%],Grain size maximum [mm],Lithification,Comment,File Data,,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Name
-329-U1371D-1H-1-A,329,U1371,D,1,1-1,H,1,A,0,34,0,0.34,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-1H-1-A,329,U1371,D,1,1-1,H,1,A,34,150,0.34,1.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-1H-2-A,329,U1371,D,1,1-2,H,2,A,0,150,1.5,3,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-1H-3-A,329,U1371,D,1,1-3,H,3,A,0,150,3,4.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-1H-4-A,329,U1371,D,1,1-4,H,4,A,0,150,4.5,6,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-1H-5-A,329,U1371,D,1,1-5,H,5,A,0,121,6,7.21,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-1H-CC-A,329,U1371,D,1,1-CC,H,CC,A,0,20,7.21,7.41,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-2H-1-A,329,U1371,D,2,2-1,H,1,A,0,150,7.4,8.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-2H-2-A,329,U1371,D,2,2-2,H,2,A,0,150,8.9,10.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-2H-3-A,329,U1371,D,2,2-3,H,3,A,0,150,10.4,11.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-2H-4-A,329,U1371,D,2,2-4,H,4,A,0,150,11.9,13.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-2H-5-A,329,U1371,D,2,2-5,H,5,A,0,150,13.4,14.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-2H-5-A,329,U1371,D,2,2-5,H,5,A,20,22,13.6,13.62,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-2H-6-A,329,U1371,D,2,2-6,H,6,A,0,43,14.9,15.33,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-1-A,329,U1371,D,3,3-1,H,1,A,0,150,16.9,18.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-2-A,329,U1371,D,3,3-2,H,2,A,0,150,18.4,19.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-3-A,329,U1371,D,3,3-3,H,3,A,0,150,19.9,21.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-4-A,329,U1371,D,3,3-4,H,4,A,0,150,21.4,22.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-5-A,329,U1371,D,3,3-5,H,5,A,0,150,22.9,24.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,0,150,24.4,25.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,1,3,24.41,24.43,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,61,64,25.01,25.04,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,70,72,25.1,25.12,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-3H-7-A,329,U1371,D,3,3-7,H,7,A,0,63,25.9,26.53,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-3H-CC-A,329,U1371,D,3,3-CC,H,CC,A,0,19,26.53,26.72,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-1-A,329,U1371,D,4,4-1,H,1,A,0,150,26.4,27.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-1-A,329,U1371,D,4,4-1,H,1,A,84,85,27.24,27.25,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-4H-1-A,329,U1371,D,4,4-1,H,1,A,104,106,27.44,27.46,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-4H-2-A,329,U1371,D,4,4-2,H,2,A,0,150,27.9,29.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-3-A,329,U1371,D,4,4-3,H,3,A,0,150,29.4,30.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-3-A,329,U1371,D,4,4-3,H,3,A,66,68,30.06,30.08,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-4H-3-A,329,U1371,D,4,4-3,H,3,A,104,107,30.44,30.47,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-4H-4-A,329,U1371,D,4,4-4,H,4,A,0,150,30.9,32.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-5-A,329,U1371,D,4,4-5,H,5,A,0,150,32.4,33.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-6-A,329,U1371,D,4,4-6,H,6,A,0,75,33.9,34.65,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-4H-CC-A,329,U1371,D,4,4-CC,H,CC,A,0,18,34.65,34.83,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-1-A,329,U1371,D,5,5-1,H,1,A,0,110,35.9,37,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-2-A,329,U1371,D,5,5-2,H,2,A,0,150,37,38.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-3-A,329,U1371,D,5,5-3,H,3,A,0,150,38.5,40,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-4-A,329,U1371,D,5,5-4,H,4,A,0,150,40,41.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-5-A,329,U1371,D,5,5-5,H,5,A,0,150,41.5,43,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-6-A,329,U1371,D,5,5-6,H,6,A,0,60,43,43.6,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-5H-6-A,329,U1371,D,5,5-6,H,6,A,9,10,43.09,43.1,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-5H-CC-A,329,U1371,D,5,5-CC,H,CC,A,0,28,43.6,43.88,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-1-A,329,U1371,D,6,6-1,H,1,A,0,150,45.4,46.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-2-A,329,U1371,D,6,6-2,H,2,A,0,150,46.9,48.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-3-A,329,U1371,D,6,6-3,H,3,A,0,150,48.4,49.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-4-A,329,U1371,D,6,6-4,H,4,A,0,150,49.9,51.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-5-A,329,U1371,D,6,6-5,H,5,A,0,150,51.4,52.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-6-A,329,U1371,D,6,6-6,H,6,A,0,88,52.9,53.78,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-7-A,329,U1371,D,6,6-7,H,7,A,0,50,53.78,54.28,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-6H-CC-A,329,U1371,D,6,6-CC,H,CC,A,0,15,54.28,54.43,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-1-A,329,U1371,D,7,7-1,H,1,A,0,150,54.9,56.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-2-A,329,U1371,D,7,7-2,H,2,A,0,150,56.4,57.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-3-A,329,U1371,D,7,7-3,H,3,A,0,150,57.9,59.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-4-A,329,U1371,D,7,7-4,H,4,A,0,150,59.4,60.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-5-A,329,U1371,D,7,7-5,H,5,A,0,150,60.9,62.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-6-A,329,U1371,D,7,7-6,H,6,A,0,150,62.4,63.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-6-A,329,U1371,D,7,7-6,H,6,A,42,44,62.82,62.84,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-7H-7-A,329,U1371,D,7,7-7,H,7,A,0,49,63.9,64.39,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-7H-CC-A,329,U1371,D,7,7-CC,H,CC,A,0,9,64.39,64.48,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-1-A,329,U1371,D,8,8-1,H,1,A,0,150,64.4,65.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-2-A,329,U1371,D,8,8-2,H,2,A,0,150,65.9,67.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-3-A,329,U1371,D,8,8-3,H,3,A,0,150,67.4,68.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-4-A,329,U1371,D,8,8-4,H,4,A,0,150,68.9,70.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-5-A,329,U1371,D,8,8-5,H,5,A,0,150,70.4,71.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-6-A,329,U1371,D,8,8-6,H,6,A,0,109,71.9,72.99,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-8H-CC-A,329,U1371,D,8,8-CC,H,CC,A,0,16,72.99,73.15,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-1-A,329,U1371,D,9,9-1,H,1,A,0,150,73.9,75.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-2-A,329,U1371,D,9,9-2,H,2,A,0,150,75.4,76.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-3-A,329,U1371,D,9,9-3,H,3,A,0,150,76.9,78.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-4-A,329,U1371,D,9,9-4,H,4,A,0,150,78.4,79.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-5-A,329,U1371,D,9,9-5,H,5,A,0,150,79.9,81.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-6-A,329,U1371,D,9,9-6,H,6,A,0,100,81.4,82.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-7-A,329,U1371,D,9,9-7,H,7,A,0,103,82.4,83.43,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-9H-CC-A,329,U1371,D,9,9-CC,H,CC,A,0,18,83.43,83.61,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-1-A,329,U1371,D,10,10-1,H,1,A,0,150,83.4,84.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-2-A,329,U1371,D,10,10-2,H,2,A,0,150,84.9,86.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-3-A,329,U1371,D,10,10-3,H,3,A,0,150,86.4,87.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-4-A,329,U1371,D,10,10-4,H,4,A,0,150,87.9,89.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-5-A,329,U1371,D,10,10-5,H,5,A,0,150,89.4,90.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-6-A,329,U1371,D,10,10-6,H,6,A,0,150,90.9,92.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-7-A,329,U1371,D,10,10-7,H,7,A,0,34,92.4,92.74,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-10H-CC-A,329,U1371,D,10,10-CC,H,CC,A,0,14,92.74,92.88,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-1-A,329,U1371,D,11,11-1,H,1,A,0,150,92.9,94.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-2-A,329,U1371,D,11,11-2,H,2,A,0,150,94.4,95.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-3-A,329,U1371,D,11,11-3,H,3,A,0,150,95.9,97.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-3-A,329,U1371,D,11,11-3,H,3,A,45,58,96.35,96.48,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,occur as mottles,,,,,
-329-U1371D-11H-4-A,329,U1371,D,11,11-4,H,4,A,0,151,97.4,98.91,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-4-A,329,U1371,D,11,11-4,H,4,A,85,87,98.25,98.27,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-11H-5-A,329,U1371,D,11,11-5,H,5,A,0,150,98.91,100.41,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-6-A,329,U1371,D,11,11-6,H,6,A,0,150,100.41,101.91,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-7-A,329,U1371,D,11,11-7,H,7,A,0,32,101.91,102.23,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-11H-7-A,329,U1371,D,11,11-7,H,7,A,0,32,101.91,102.23,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,occur as mottles,,,,,
-329-U1371D-11H-CC-A,329,U1371,D,11,11-CC,H,CC,A,2,5,102.25,102.28,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,
-329-U1371D-11H-CC-A,329,U1371,D,11,11-CC,H,CC,A,2,19,102.25,102.42,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-12H-1-A,329,U1371,D,12,12-1,H,1,A,0,150,102.4,103.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-12H-2-A,329,U1371,D,12,12-2,H,2,A,0,20,103.9,104.1,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,
-329-U1371D-12H-2-A,329,U1371,D,12,12-2,H,2,A,20,150,104.1,105.4,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-3-A,329,U1371,D,12,12-3,H,3,A,0,128,105.4,106.68,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-4-A,329,U1371,D,12,12-4,H,4,A,0,150,106.68,108.18,pelagic,clay [S54] ,,pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-5-A,329,U1371,D,12,12-5,H,5,A,0,40,108.18,108.58,pelagic,clay [S54] ,,pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-5-A,329,U1371,D,12,12-5,H,5,A,40,150,108.58,109.68,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-6-A,329,U1371,D,12,12-6,H,6,A,0,150,109.68,111.18,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-7-A,329,U1371,D,12,12-7,H,7,A,0,53,111.18,111.71,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-12H-CC-A,329,U1371,D,12,12-CC,H,CC,A,0,7,111.71,111.78,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-1-A,329,U1371,D,13,13-1,H,1,A,0,150,111.9,113.4,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-2-A,329,U1371,D,13,13-2,H,2,A,0,150,113.4,114.9,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-3-A,329,U1371,D,13,13-3,H,3,A,0,150,114.9,116.4,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-4-A,329,U1371,D,13,13-4,H,4,A,0,150,116.4,117.9,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-5-A,329,U1371,D,13,13-5,H,5,A,0,150,117.9,119.4,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-6-A,329,U1371,D,13,13-6,H,6,A,0,120,119.4,120.6,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-7-A,329,U1371,D,13,13-7,H,7,A,0,71,120.6,121.31,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-13H-CC-A,329,U1371,D,13,13-CC,H,CC,A,0,29,121.31,121.6,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-1-A,329,U1371,D,14,14-1,H,1,A,0,150,121.4,122.9,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-2-A,329,U1371,D,14,14-2,H,2,A,0,150,122.9,124.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-3-A,329,U1371,D,14,14-3,H,3,A,0,150,124.4,125.9,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-4-A,329,U1371,D,14,14-4,H,4,A,0,150,125.9,127.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-5-A,329,U1371,D,14,14-5,H,5,A,0,150,127.4,128.9,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-6-A,329,U1371,D,14,14-6,H,6,A,0,150,128.9,130.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-7-A,329,U1371,D,14,14-7,H,7,A,0,63,130.4,131.03,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-329-U1371D-14H-CC-A,329,U1371,D,14,14-CC,H,CC,A,0,44,131.03,131.47,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,Lithology name,Lithology classification,Lithology [%],Grain size maximum [mm],Lithification,Comment,File Data,,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Name,row_index
+329-U1371D-1H-1-A,329,U1371,D,1,1-1,H,1,A,0,34,0,0.34,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,,,,,0
+329-U1371D-1H-1-A,329,U1371,D,1,1-1,H,1,A,34,150,0.34,1.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,1
+329-U1371D-1H-2-A,329,U1371,D,1,1-2,H,2,A,0,150,1.5,3,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,2
+329-U1371D-1H-3-A,329,U1371,D,1,1-3,H,3,A,0,150,3,4.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,3
+329-U1371D-1H-4-A,329,U1371,D,1,1-4,H,4,A,0,150,4.5,6,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,4
+329-U1371D-1H-5-A,329,U1371,D,1,1-5,H,5,A,0,121,6,7.21,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,5
+329-U1371D-1H-CC-A,329,U1371,D,1,1-CC,H,CC,A,0,20,7.21,7.41,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,6
+329-U1371D-2H-1-A,329,U1371,D,2,2-1,H,1,A,0,150,7.4,8.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,7
+329-U1371D-2H-2-A,329,U1371,D,2,2-2,H,2,A,0,150,8.9,10.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,8
+329-U1371D-2H-3-A,329,U1371,D,2,2-3,H,3,A,0,150,10.4,11.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,9
+329-U1371D-2H-4-A,329,U1371,D,2,2-4,H,4,A,0,150,11.9,13.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,10
+329-U1371D-2H-5-A,329,U1371,D,2,2-5,H,5,A,0,150,13.4,14.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,11
+329-U1371D-2H-5-A,329,U1371,D,2,2-5,H,5,A,20,22,13.6,13.62,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,12
+329-U1371D-2H-6-A,329,U1371,D,2,2-6,H,6,A,0,43,14.9,15.33,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,13
+329-U1371D-3H-1-A,329,U1371,D,3,3-1,H,1,A,0,150,16.9,18.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,14
+329-U1371D-3H-2-A,329,U1371,D,3,3-2,H,2,A,0,150,18.4,19.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,15
+329-U1371D-3H-3-A,329,U1371,D,3,3-3,H,3,A,0,150,19.9,21.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,16
+329-U1371D-3H-4-A,329,U1371,D,3,3-4,H,4,A,0,150,21.4,22.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,17
+329-U1371D-3H-5-A,329,U1371,D,3,3-5,H,5,A,0,150,22.9,24.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,18
+329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,0,150,24.4,25.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,19
+329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,1,3,24.41,24.43,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,20
+329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,61,64,25.01,25.04,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,21
+329-U1371D-3H-6-A,329,U1371,D,3,3-6,H,6,A,70,72,25.1,25.12,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,22
+329-U1371D-3H-7-A,329,U1371,D,3,3-7,H,7,A,0,63,25.9,26.53,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,23
+329-U1371D-3H-CC-A,329,U1371,D,3,3-CC,H,CC,A,0,19,26.53,26.72,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,24
+329-U1371D-4H-1-A,329,U1371,D,4,4-1,H,1,A,0,150,26.4,27.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,25
+329-U1371D-4H-1-A,329,U1371,D,4,4-1,H,1,A,84,85,27.24,27.25,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,26
+329-U1371D-4H-1-A,329,U1371,D,4,4-1,H,1,A,104,106,27.44,27.46,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,27
+329-U1371D-4H-2-A,329,U1371,D,4,4-2,H,2,A,0,150,27.9,29.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,28
+329-U1371D-4H-3-A,329,U1371,D,4,4-3,H,3,A,0,150,29.4,30.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,29
+329-U1371D-4H-3-A,329,U1371,D,4,4-3,H,3,A,66,68,30.06,30.08,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,30
+329-U1371D-4H-3-A,329,U1371,D,4,4-3,H,3,A,104,107,30.44,30.47,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,31
+329-U1371D-4H-4-A,329,U1371,D,4,4-4,H,4,A,0,150,30.9,32.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,32
+329-U1371D-4H-5-A,329,U1371,D,4,4-5,H,5,A,0,150,32.4,33.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,33
+329-U1371D-4H-6-A,329,U1371,D,4,4-6,H,6,A,0,75,33.9,34.65,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,34
+329-U1371D-4H-CC-A,329,U1371,D,4,4-CC,H,CC,A,0,18,34.65,34.83,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,35
+329-U1371D-5H-1-A,329,U1371,D,5,5-1,H,1,A,0,110,35.9,37,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,36
+329-U1371D-5H-2-A,329,U1371,D,5,5-2,H,2,A,0,150,37,38.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,37
+329-U1371D-5H-3-A,329,U1371,D,5,5-3,H,3,A,0,150,38.5,40,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,38
+329-U1371D-5H-4-A,329,U1371,D,5,5-4,H,4,A,0,150,40,41.5,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,39
+329-U1371D-5H-5-A,329,U1371,D,5,5-5,H,5,A,0,150,41.5,43,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,40
+329-U1371D-5H-6-A,329,U1371,D,5,5-6,H,6,A,0,60,43,43.6,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,41
+329-U1371D-5H-6-A,329,U1371,D,5,5-6,H,6,A,9,10,43.09,43.1,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,42
+329-U1371D-5H-CC-A,329,U1371,D,5,5-CC,H,CC,A,0,28,43.6,43.88,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,43
+329-U1371D-6H-1-A,329,U1371,D,6,6-1,H,1,A,0,150,45.4,46.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,44
+329-U1371D-6H-2-A,329,U1371,D,6,6-2,H,2,A,0,150,46.9,48.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,45
+329-U1371D-6H-3-A,329,U1371,D,6,6-3,H,3,A,0,150,48.4,49.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,46
+329-U1371D-6H-4-A,329,U1371,D,6,6-4,H,4,A,0,150,49.9,51.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,47
+329-U1371D-6H-5-A,329,U1371,D,6,6-5,H,5,A,0,150,51.4,52.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,48
+329-U1371D-6H-6-A,329,U1371,D,6,6-6,H,6,A,0,88,52.9,53.78,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,49
+329-U1371D-6H-7-A,329,U1371,D,6,6-7,H,7,A,0,50,53.78,54.28,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,50
+329-U1371D-6H-CC-A,329,U1371,D,6,6-CC,H,CC,A,0,15,54.28,54.43,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,51
+329-U1371D-7H-1-A,329,U1371,D,7,7-1,H,1,A,0,150,54.9,56.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,52
+329-U1371D-7H-2-A,329,U1371,D,7,7-2,H,2,A,0,150,56.4,57.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,53
+329-U1371D-7H-3-A,329,U1371,D,7,7-3,H,3,A,0,150,57.9,59.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,54
+329-U1371D-7H-4-A,329,U1371,D,7,7-4,H,4,A,0,150,59.4,60.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,55
+329-U1371D-7H-5-A,329,U1371,D,7,7-5,H,5,A,0,150,60.9,62.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,56
+329-U1371D-7H-6-A,329,U1371,D,7,7-6,H,6,A,0,150,62.4,63.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,57
+329-U1371D-7H-6-A,329,U1371,D,7,7-6,H,6,A,42,44,62.82,62.84,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,58
+329-U1371D-7H-7-A,329,U1371,D,7,7-7,H,7,A,0,49,63.9,64.39,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,59
+329-U1371D-7H-CC-A,329,U1371,D,7,7-CC,H,CC,A,0,9,64.39,64.48,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,60
+329-U1371D-8H-1-A,329,U1371,D,8,8-1,H,1,A,0,150,64.4,65.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,61
+329-U1371D-8H-2-A,329,U1371,D,8,8-2,H,2,A,0,150,65.9,67.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,62
+329-U1371D-8H-3-A,329,U1371,D,8,8-3,H,3,A,0,150,67.4,68.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,63
+329-U1371D-8H-4-A,329,U1371,D,8,8-4,H,4,A,0,150,68.9,70.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,64
+329-U1371D-8H-5-A,329,U1371,D,8,8-5,H,5,A,0,150,70.4,71.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,65
+329-U1371D-8H-6-A,329,U1371,D,8,8-6,H,6,A,0,109,71.9,72.99,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,66
+329-U1371D-8H-CC-A,329,U1371,D,8,8-CC,H,CC,A,0,16,72.99,73.15,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,67
+329-U1371D-9H-1-A,329,U1371,D,9,9-1,H,1,A,0,150,73.9,75.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,68
+329-U1371D-9H-2-A,329,U1371,D,9,9-2,H,2,A,0,150,75.4,76.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,69
+329-U1371D-9H-3-A,329,U1371,D,9,9-3,H,3,A,0,150,76.9,78.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,70
+329-U1371D-9H-4-A,329,U1371,D,9,9-4,H,4,A,0,150,78.4,79.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,71
+329-U1371D-9H-5-A,329,U1371,D,9,9-5,H,5,A,0,150,79.9,81.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,72
+329-U1371D-9H-6-A,329,U1371,D,9,9-6,H,6,A,0,100,81.4,82.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,73
+329-U1371D-9H-7-A,329,U1371,D,9,9-7,H,7,A,0,103,82.4,83.43,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,74
+329-U1371D-9H-CC-A,329,U1371,D,9,9-CC,H,CC,A,0,18,83.43,83.61,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,75
+329-U1371D-10H-1-A,329,U1371,D,10,10-1,H,1,A,0,150,83.4,84.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,76
+329-U1371D-10H-2-A,329,U1371,D,10,10-2,H,2,A,0,150,84.9,86.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,77
+329-U1371D-10H-3-A,329,U1371,D,10,10-3,H,3,A,0,150,86.4,87.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,78
+329-U1371D-10H-4-A,329,U1371,D,10,10-4,H,4,A,0,150,87.9,89.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,79
+329-U1371D-10H-5-A,329,U1371,D,10,10-5,H,5,A,0,150,89.4,90.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,80
+329-U1371D-10H-6-A,329,U1371,D,10,10-6,H,6,A,0,150,90.9,92.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,81
+329-U1371D-10H-7-A,329,U1371,D,10,10-7,H,7,A,0,34,92.4,92.74,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,82
+329-U1371D-10H-CC-A,329,U1371,D,10,10-CC,H,CC,A,0,14,92.74,92.88,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,83
+329-U1371D-11H-1-A,329,U1371,D,11,11-1,H,1,A,0,150,92.9,94.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,84
+329-U1371D-11H-2-A,329,U1371,D,11,11-2,H,2,A,0,150,94.4,95.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,85
+329-U1371D-11H-3-A,329,U1371,D,11,11-3,H,3,A,0,150,95.9,97.4,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,86
+329-U1371D-11H-3-A,329,U1371,D,11,11-3,H,3,A,45,58,96.35,96.48,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,occur as mottles,,,,,,87
+329-U1371D-11H-4-A,329,U1371,D,11,11-4,H,4,A,0,151,97.4,98.91,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,88
+329-U1371D-11H-4-A,329,U1371,D,11,11-4,H,4,A,85,87,98.25,98.27,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,89
+329-U1371D-11H-5-A,329,U1371,D,11,11-5,H,5,A,0,150,98.91,100.41,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,90
+329-U1371D-11H-6-A,329,U1371,D,11,11-6,H,6,A,0,150,100.41,101.91,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,91
+329-U1371D-11H-7-A,329,U1371,D,11,11-7,H,7,A,0,32,101.91,102.23,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,92
+329-U1371D-11H-7-A,329,U1371,D,11,11-7,H,7,A,0,32,101.91,102.23,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,occur as mottles,,,,,,93
+329-U1371D-11H-CC-A,329,U1371,D,11,11-CC,H,CC,A,2,5,102.25,102.28,,ash [F&S84],,ash,"Fisher and Schminke, 1984",,,,,,,,,,94
+329-U1371D-11H-CC-A,329,U1371,D,11,11-CC,H,CC,A,2,19,102.25,102.42,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,95
+329-U1371D-12H-1-A,329,U1371,D,12,12-1,H,1,A,0,150,102.4,103.9,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,96
+329-U1371D-12H-2-A,329,U1371,D,12,12-2,H,2,A,0,20,103.9,104.1,clay-bearing diatom,ooze [MMK88],,clay-bearing diatom ooze,"Mazullo, Meyer & Kidd, 1988",,,,,,,,,,97
+329-U1371D-12H-2-A,329,U1371,D,12,12-2,H,2,A,20,150,104.1,105.4,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,,,,,98
+329-U1371D-12H-3-A,329,U1371,D,12,12-3,H,3,A,0,128,105.4,106.68,diatom-bearing,clay [S54] ,,diatom-bearing clay,"Shepard, 1954",,,,,,,,,,99
+329-U1371D-12H-4-A,329,U1371,D,12,12-4,H,4,A,0,150,106.68,108.18,pelagic,clay [S54] ,,pelagic clay,"Shepard, 1954",,,,,,,,,,100
+329-U1371D-12H-5-A,329,U1371,D,12,12-5,H,5,A,0,40,108.18,108.58,pelagic,clay [S54] ,,pelagic clay,"Shepard, 1954",,,,,,,,,,101
+329-U1371D-12H-5-A,329,U1371,D,12,12-5,H,5,A,40,150,108.58,109.68,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,102
+329-U1371D-12H-6-A,329,U1371,D,12,12-6,H,6,A,0,150,109.68,111.18,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,103
+329-U1371D-12H-7-A,329,U1371,D,12,12-7,H,7,A,0,53,111.18,111.71,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,104
+329-U1371D-12H-CC-A,329,U1371,D,12,12-CC,H,CC,A,0,7,111.71,111.78,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,105
+329-U1371D-13H-1-A,329,U1371,D,13,13-1,H,1,A,0,150,111.9,113.4,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,106
+329-U1371D-13H-2-A,329,U1371,D,13,13-2,H,2,A,0,150,113.4,114.9,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,107
+329-U1371D-13H-3-A,329,U1371,D,13,13-3,H,3,A,0,150,114.9,116.4,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,108
+329-U1371D-13H-4-A,329,U1371,D,13,13-4,H,4,A,0,150,116.4,117.9,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,109
+329-U1371D-13H-5-A,329,U1371,D,13,13-5,H,5,A,0,150,117.9,119.4,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,110
+329-U1371D-13H-6-A,329,U1371,D,13,13-6,H,6,A,0,120,119.4,120.6,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,111
+329-U1371D-13H-7-A,329,U1371,D,13,13-7,H,7,A,0,71,120.6,121.31,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,112
+329-U1371D-13H-CC-A,329,U1371,D,13,13-CC,H,CC,A,0,29,121.31,121.6,zeolitic pelagic,clay [S54] ,,zeolitic pelagic clay,"Shepard, 1954",,,,,,,,,,113
+329-U1371D-14H-1-A,329,U1371,D,14,14-1,H,1,A,0,150,121.4,122.9,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,114
+329-U1371D-14H-2-A,329,U1371,D,14,14-2,H,2,A,0,150,122.9,124.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,115
+329-U1371D-14H-3-A,329,U1371,D,14,14-3,H,3,A,0,150,124.4,125.9,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,116
+329-U1371D-14H-4-A,329,U1371,D,14,14-4,H,4,A,0,150,125.9,127.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,117
+329-U1371D-14H-5-A,329,U1371,D,14,14-5,H,5,A,0,150,127.4,128.9,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,118
+329-U1371D-14H-6-A,329,U1371,D,14,14-6,H,6,A,0,150,128.9,130.4,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,119
+329-U1371D-14H-7-A,329,U1371,D,14,14-7,H,7,A,0,63,130.4,131.03,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,120
+329-U1371D-14H-CC-A,329,U1371,D,14,14-CC,H,CC,A,0,44,131.03,131.47,zeolitic metalliferous pelagic,clay [S54] ,,zeolitic metalliferous pelagic clay,"Shepard, 1954",,,,,,,,,,121
+,,,,,,,,,,,,,,,,,,,,,,,,,,,122

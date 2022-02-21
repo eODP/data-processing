@@ -1,26 +1,26 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithification,Lithology Prefix,Lithology Principal Name,Texture Rank,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],"FACIES (neritic, hemipelagic, pelagic)",MAJ lith color (simple),Fossil,Sedimentary structure,Diagenetic structure,Layer or bedding thickness,Bioturbation intensity,Bioturbation intensity rank [read only],Bottom contact or boundary definition,Bottom contact or boundary attitude,General interval comment,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
-356-U1458A-1H-1-A,0,89,0,0.89,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,bryozoa,,,,absent [B06],0,,,Apparent sorting due to drilling disturbance. Texture and structure are unrecognizable due to drilling disturbance.,,,,356,U1458,A,1,H,1,A,,,
-356-U1458A-1H-1-A,0,89,0,0.89,,,,,,,,,foraminifera (small benthic),,,,,,,,,,,,356,U1458,A,1,H,1,A,,,
-356-U1458A-1H-1-A,0,89,0,0.89,,,,,,,,,rhodolith,,,,,,,,,,,,356,U1458,A,1,H,1,A,,,
-356-U1458A-1H-CC-A,0,11,0.89,1,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,rhodolith,,,,absent [B06],0,,,Texture and structure are unrecognizable due to drilling disturbance.,,,,356,U1458,A,1,H,CC,A,,,
-356-U1458A-2H-1-A,0,13,1,1.13,lithified,skeletal,rudstone [E&K72; D62],6,with bryozoans,skeletal rudstone with bryozoans,Neritic,beige,bryozoa,,,,absent [B06],0,,,Limestone ground by drilling.,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,0,13,1,1.13,,,,,,,,,foraminifera (small benthic),,,,,,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,0,13,1,1.13,,,,,,,,,Halimeda,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,0,13,1,1.13,,,,,,,,,rhodolith,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,13,100,1.13,2,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,bivalve,,,,absent [B06],0,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,13,100,1.13,2,,,,,,,,,foraminifera (large benthic),,,,,,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,13,100,1.13,2,,,,,,,,,gastropod,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-1-A,13,100,1.13,2,,,,,,,,,rhodolith,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,
-356-U1458A-2H-2-A,0,94,2,2.94,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,rhodolith,,,,absent [B06],0,,,"Apparent grading due to drilling disturbance, Structure and contacts are unrecognizable due to drilling disturbance.",,,,356,U1458,A,2,H,2,A,,,
-356-U1458A-2H-2-A,0,94,2,2.94,,,,,,,,,bivalve,,,,,,,,,,,,356,U1458,A,2,H,2,A,,,
-356-U1458A-2H-2-A,0,94,2,2.94,,,,,,,,,bryozoa,,,,,,,,,,,,356,U1458,A,2,H,2,A,,,
-356-U1458A-2H-CC-A,0,13,2.94,3.07,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,rhodolith,,,,absent [B06],0,,,Texture and structure are unrecognizable due to drilling disturbance.,,,,356,U1458,A,2,H,CC,A,,,
-356-U1458A-2H-CC-A,0,13,2.94,3.07,,,,,,,,,bivalve,,,,,,,,,,,,356,U1458,A,2,H,CC,A,,,
-356-U1458A-2H-CC-A,0,13,2.94,3.07,,,,,,,,,bryozoa,,,,,,,,,,,,356,U1458,A,2,H,CC,A,,,
-356-U1458A-4F-1-A,0,9,9.4,9.49,lithified [B84],skeletal,wackestone [E&K72; D62],2,,skeletal wackestone,Neritic,beige,Halimeda,,,,absent [B06],0,,,,,,,356,U1458,A,4,F,1,A,,,
-356-U1458A-4F-1-A,0,9,9.4,9.49,,,,,,,,,foraminifera (large benthic),,,,,,,horizontal,Mixed fossils in a fine grained matrix.,,,,356,U1458,A,4,F,1,A,,,
-356-U1458A-4F-1-A,9,40,9.49,9.8,unlithified [Leg194],skeletal,grainstone [E&K72; D62],4,,skeletal grainstone,Neritic,beige,bivalve,,,,absent [B06],0,,,Fossiliferous gravel to sand artificially sorted as a normally graded bed during coring.,,,,356,U1458,A,4,F,1,A,,,
-356-U1458A-4F-CC-A,0,10,9.8,9.9,unlithified [Leg194],skeletal,grainstone [E&K72; D62],4,,skeletal grainstone,Neritic,beige,bivalve,,,,absent [B06],0,,,Fossiliferous gravel with shell fragments of every source artificially sorted during core recovery.,,,,356,U1458,A,4,F,CC,A,,,
-356-U1458A-4F-CC-A,0,10,9.8,9.9,,,,,,,,,bryozoa,,,,,,,,,,,,356,U1458,A,4,F,CC,A,,,
-356-U1458A-4F-CC-A,0,10,9.8,9.9,,,,,,,,,coralline algae,,,,,,,,,,,,356,U1458,A,4,F,CC,A,,,
-356-U1458A-4F-CC-A,0,10,9.8,9.9,,,,,,,,,echinoderm,,,,,,,,,,,,356,U1458,A,4,F,CC,A,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithification,Lithology Prefix,Lithology Principal Name,Texture Rank,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],"FACIES (neritic, hemipelagic, pelagic)",MAJ lith color (simple),Fossil,Sedimentary structure,Diagenetic structure,Layer or bedding thickness,Bioturbation intensity,Bioturbation intensity rank [read only],Bottom contact or boundary definition,Bottom contact or boundary attitude,General interval comment,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name,row_index
+356-U1458A-1H-1-A,0,89,0,0.89,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,bryozoa,,,,absent [B06],0,,,Apparent sorting due to drilling disturbance. Texture and structure are unrecognizable due to drilling disturbance.,,,,356,U1458,A,1,H,1,A,,,,0
+356-U1458A-1H-1-A,0,89,0,0.89,,,,,,,,,foraminifera (small benthic),,,,,,,,,,,,356,U1458,A,1,H,1,A,,,,1
+356-U1458A-1H-1-A,0,89,0,0.89,,,,,,,,,rhodolith,,,,,,,,,,,,356,U1458,A,1,H,1,A,,,,2
+356-U1458A-1H-CC-A,0,11,0.89,1,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,rhodolith,,,,absent [B06],0,,,Texture and structure are unrecognizable due to drilling disturbance.,,,,356,U1458,A,1,H,CC,A,,,,3
+356-U1458A-2H-1-A,0,13,1,1.13,lithified,skeletal,rudstone [E&K72; D62],6,with bryozoans,skeletal rudstone with bryozoans,Neritic,beige,bryozoa,,,,absent [B06],0,,,Limestone ground by drilling.,,,,356,U1458,A,2,H,1,A,,,,4
+356-U1458A-2H-1-A,0,13,1,1.13,,,,,,,,,foraminifera (small benthic),,,,,,,,,,,,356,U1458,A,2,H,1,A,,,,5
+356-U1458A-2H-1-A,0,13,1,1.13,,,,,,,,,Halimeda,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,,6
+356-U1458A-2H-1-A,0,13,1,1.13,,,,,,,,,rhodolith,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,,7
+356-U1458A-2H-1-A,13,100,1.13,2,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,bivalve,,,,absent [B06],0,,,,,,,356,U1458,A,2,H,1,A,,,,8
+356-U1458A-2H-1-A,13,100,1.13,2,,,,,,,,,foraminifera (large benthic),,,,,,,,,,,,356,U1458,A,2,H,1,A,,,,9
+356-U1458A-2H-1-A,13,100,1.13,2,,,,,,,,,gastropod,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,,10
+356-U1458A-2H-1-A,13,100,1.13,2,,,,,,,,,rhodolith,,,,,,,,,,,,356,U1458,A,2,H,1,A,,,,11
+356-U1458A-2H-2-A,0,94,2,2.94,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,rhodolith,,,,absent [B06],0,,,"Apparent grading due to drilling disturbance, Structure and contacts are unrecognizable due to drilling disturbance.",,,,356,U1458,A,2,H,2,A,,,,12
+356-U1458A-2H-2-A,0,94,2,2.94,,,,,,,,,bivalve,,,,,,,,,,,,356,U1458,A,2,H,2,A,,,,13
+356-U1458A-2H-2-A,0,94,2,2.94,,,,,,,,,bryozoa,,,,,,,,,,,,356,U1458,A,2,H,2,A,,,,14
+356-U1458A-2H-CC-A,0,13,2.94,3.07,unlithified [Leg194],skeletal,rudstone [E&K72; D62],6,with rhodoliths,skeletal rudstone with rhodoliths,Neritic,beige,rhodolith,,,,absent [B06],0,,,Texture and structure are unrecognizable due to drilling disturbance.,,,,356,U1458,A,2,H,CC,A,,,,15
+356-U1458A-2H-CC-A,0,13,2.94,3.07,,,,,,,,,bivalve,,,,,,,,,,,,356,U1458,A,2,H,CC,A,,,,16
+356-U1458A-2H-CC-A,0,13,2.94,3.07,,,,,,,,,bryozoa,,,,,,,,,,,,356,U1458,A,2,H,CC,A,,,,17
+356-U1458A-4F-1-A,0,9,9.4,9.49,lithified [B84],skeletal,wackestone [E&K72; D62],2,,skeletal wackestone,Neritic,beige,Halimeda,,,,absent [B06],0,,,,,,,356,U1458,A,4,F,1,A,,,,18
+356-U1458A-4F-1-A,0,9,9.4,9.49,,,,,,,,,foraminifera (large benthic),,,,,,,horizontal,Mixed fossils in a fine grained matrix.,,,,356,U1458,A,4,F,1,A,,,,19
+356-U1458A-4F-1-A,9,40,9.49,9.8,unlithified [Leg194],skeletal,grainstone [E&K72; D62],4,,skeletal grainstone,Neritic,beige,bivalve,,,,absent [B06],0,,,Fossiliferous gravel to sand artificially sorted as a normally graded bed during coring.,,,,356,U1458,A,4,F,1,A,,,,20
+356-U1458A-4F-CC-A,0,10,9.8,9.9,unlithified [Leg194],skeletal,grainstone [E&K72; D62],4,,skeletal grainstone,Neritic,beige,bivalve,,,,absent [B06],0,,,Fossiliferous gravel with shell fragments of every source artificially sorted during core recovery.,,,,356,U1458,A,4,F,CC,A,,,,21
+356-U1458A-4F-CC-A,0,10,9.8,9.9,,,,,,,,,bryozoa,,,,,,,,,,,,356,U1458,A,4,F,CC,A,,,,22
+356-U1458A-4F-CC-A,0,10,9.8,9.9,,,,,,,,,coralline algae,,,,,,,,,,,,356,U1458,A,4,F,CC,A,,,,23
+356-U1458A-4F-CC-A,0,10,9.8,9.9,,,,,,,,,echinoderm,,,,,,,,,,,,356,U1458,A,4,F,CC,A,,,,24

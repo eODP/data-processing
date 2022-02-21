@@ -1,398 +1,398 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,Lithology classification,Lithology Prefix,Lithology Suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data,,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
-320-U1334C-1H-1-A,320,U1334,C,1,1-1,H,1,A,0,150,0,1.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,
-320-U1334C-1H-1-A,320,U1334,C,1,1-1,H,1,A,0,150,0,1.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,
-320-U1334C-1H-2-A,320,U1334,C,1,1-2,H,2,A,0,150,1.5,3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,
-320-U1334C-1H-2-A,320,U1334,C,1,1-2,H,2,A,0,150,1.5,3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,
-320-U1334C-1H-3-A,320,U1334,C,1,1-3,H,3,A,0,150,3,4.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,
-320-U1334C-1H-3-A,320,U1334,C,1,1-3,H,3,A,0,150,3,4.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,
-320-U1334C-1H-4-A,320,U1334,C,1,1-4,H,4,A,0,150,4.5,6,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,
-320-U1334C-1H-4-A,320,U1334,C,1,1-4,H,4,A,0,150,4.5,6,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,
-320-U1334C-1H-5-A,320,U1334,C,1,1-5,H,5,A,0,150,6,7.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-1H-6-A,320,U1334,C,1,1-6,H,6,A,0,150,7.5,9,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-1H-7-A,320,U1334,C,1,1-7,H,7,A,0,66,9,9.66,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-1H-CC-A,320,U1334,C,1,1-CC,H,CC,A,0,12,9.66,9.78,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-2H-1-A,320,U1334,C,2,2-1,H,1,A,0,96,9.5,10.46,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-2H-2-A,320,U1334,C,2,2-2,H,2,A,0,150,10.46,11.96,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-2H-3-A,320,U1334,C,2,2-3,H,3,A,0,112,11.96,13.08,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,
-320-U1334C-2H-3-A,320,U1334,C,2,2-3,H,3,A,112,150,13.08,13.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,50,soft,10YR 6/3,,,,,,
-320-U1334C-2H-3-A,320,U1334,C,2,2-3,H,3,A,112,150,13.08,13.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 7/2,,,,,,
-320-U1334C-2H-4-A,320,U1334,C,2,2-4,H,4,A,0,150,13.46,14.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,50,soft,10YR 6/3,,,,,,
-320-U1334C-2H-4-A,320,U1334,C,2,2-4,H,4,A,0,150,13.46,14.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 7/2,,,,,,
-320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,0,8,14.96,15.04,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,50,soft,10YR 6/3,,,,,,
-320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,0,8,14.96,15.04,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 7/2,,,,,,
-320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,8,150,15.04,16.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,
-320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,8,150,15.04,16.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-2H-6-A,320,U1334,C,2,2-6,H,6,A,0,150,16.46,17.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,
-320-U1334C-2H-6-A,320,U1334,C,2,2-6,H,6,A,0,150,16.46,17.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-2H-7-A,320,U1334,C,2,2-7,H,7,A,0,56,17.96,18.52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,
-320-U1334C-2H-7-A,320,U1334,C,2,2-7,H,7,A,0,56,17.96,18.52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-2H-CC-A,320,U1334,C,2,2-CC,H,CC,A,0,15,18.52,18.67,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,
-320-U1334C-2H-CC-A,320,U1334,C,2,2-CC,H,CC,A,0,15,18.52,18.67,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-3H-1-A,320,U1334,C,3,3-1,H,1,A,0,80,19,19.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/3,,,,,,
-320-U1334C-3H-1-A,320,U1334,C,3,3-1,H,1,A,0,80,19,19.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-3H-2-A,320,U1334,C,3,3-2,H,2,A,0,150,19.8,21.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/3,,,,,,
-320-U1334C-3H-2-A,320,U1334,C,3,3-2,H,2,A,0,150,19.8,21.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,0,80,21.3,22.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/3,,,,,,
-320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,0,80,21.3,22.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,
-320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,80,150,22.1,22.8,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,
-320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,80,150,22.1,22.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,
-320-U1334C-3H-4-A,320,U1334,C,3,3-4,H,4,A,0,150,22.8,24.3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,
-320-U1334C-3H-4-A,320,U1334,C,3,3-4,H,4,A,0,150,22.8,24.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,
-320-U1334C-3H-5-A,320,U1334,C,3,3-5,H,5,A,0,150,24.3,25.8,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,
-320-U1334C-3H-5-A,320,U1334,C,3,3-5,H,5,A,0,150,24.3,25.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,
-320-U1334C-3H-6-A,320,U1334,C,3,3-6,H,6,A,0,150,25.8,27.3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,
-320-U1334C-3H-6-A,320,U1334,C,3,3-6,H,6,A,0,150,25.8,27.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,
-320-U1334C-3H-7-A,320,U1334,C,3,3-7,H,7,A,0,65,27.3,27.95,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,
-320-U1334C-3H-7-A,320,U1334,C,3,3-7,H,7,A,0,65,27.3,27.95,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,
-320-U1334C-3H-CC-A,320,U1334,C,3,3-CC,H,CC,A,0,13,27.95,28.08,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,
-320-U1334C-3H-CC-A,320,U1334,C,3,3-CC,H,CC,A,0,13,27.95,28.08,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,
-320-U1334C-4H-1-A,320,U1334,C,4,4-1,H,1,A,0,150,28.5,30,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-1-A,320,U1334,C,4,4-1,H,1,A,0,150,28.5,30,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-2-A,320,U1334,C,4,4-2,H,2,A,0,150,30,31.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-2-A,320,U1334,C,4,4-2,H,2,A,0,150,30,31.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-3-A,320,U1334,C,4,4-3,H,3,A,0,150,31.5,33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-3-A,320,U1334,C,4,4-3,H,3,A,0,150,31.5,33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-4-A,320,U1334,C,4,4-4,H,4,A,0,150,33,34.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-4-A,320,U1334,C,4,4-4,H,4,A,0,150,33,34.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-5-A,320,U1334,C,4,4-5,H,5,A,0,150,34.5,36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-5-A,320,U1334,C,4,4-5,H,5,A,0,150,34.5,36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-6-A,320,U1334,C,4,4-6,H,6,A,0,150,36,37.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-6-A,320,U1334,C,4,4-6,H,6,A,0,150,36,37.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-7-A,320,U1334,C,4,4-7,H,7,A,0,56,37.5,38.06,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-7-A,320,U1334,C,4,4-7,H,7,A,0,56,37.5,38.06,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-4H-CC-A,320,U1334,C,4,4-CC,H,CC,A,0,22,38.06,38.28,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,
-320-U1334C-4H-CC-A,320,U1334,C,4,4-CC,H,CC,A,0,22,38.06,38.28,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,
-320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,0,65,38,38.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 4/3,,,,,,
-320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,0,65,38,38.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians and clay,Nannofossil ooze with radiolarians and clay,40,soft,10YR 7/2,,,,,,
-320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,65,150,38.65,39.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,65,150,38.65,39.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-2-A,320,U1334,C,5,5-2,H,2,A,0,150,39.5,41,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-2-A,320,U1334,C,5,5-2,H,2,A,0,150,39.5,41,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-3-A,320,U1334,C,5,5-3,H,3,A,0,150,41,42.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-3-A,320,U1334,C,5,5-3,H,3,A,0,150,41,42.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-4-A,320,U1334,C,5,5-4,H,4,A,0,150,42.5,44,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-4-A,320,U1334,C,5,5-4,H,4,A,0,150,42.5,44,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-5-A,320,U1334,C,5,5-5,H,5,A,0,150,44,45.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-5-A,320,U1334,C,5,5-5,H,5,A,0,150,44,45.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-6-A,320,U1334,C,5,5-6,H,6,A,0,150,45.5,47,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-6-A,320,U1334,C,5,5-6,H,6,A,0,150,45.5,47,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-7-A,320,U1334,C,5,5-7,H,7,A,0,78,47,47.78,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-7-A,320,U1334,C,5,5-7,H,7,A,0,78,47,47.78,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-5H-CC-A,320,U1334,C,5,5-CC,H,CC,A,0,22,47.78,48,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-5H-CC-A,320,U1334,C,5,5-CC,H,CC,A,0,22,47.78,48,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,
-320-U1334C-6H-1-A,320,U1334,C,6,6-1,H,1,A,0,150,47.5,49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-1-A,320,U1334,C,6,6-1,H,1,A,0,150,47.5,49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-2-A,320,U1334,C,6,6-2,H,2,A,0,150,49,50.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-2-A,320,U1334,C,6,6-2,H,2,A,0,150,49,50.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-3-A,320,U1334,C,6,6-3,H,3,A,0,150,50.5,52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-3-A,320,U1334,C,6,6-3,H,3,A,0,150,50.5,52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-4-A,320,U1334,C,6,6-4,H,4,A,0,150,52,53.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-4-A,320,U1334,C,6,6-4,H,4,A,0,150,52,53.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-5-A,320,U1334,C,6,6-5,H,5,A,0,150,53.5,55,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-5-A,320,U1334,C,6,6-5,H,5,A,0,150,53.5,55,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-6-A,320,U1334,C,6,6-6,H,6,A,0,150,55,56.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-6-A,320,U1334,C,6,6-6,H,6,A,0,150,55,56.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-7-A,320,U1334,C,6,6-7,H,7,A,0,60,56.5,57.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-7-A,320,U1334,C,6,6-7,H,7,A,0,60,56.5,57.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-6H-CC-A,320,U1334,C,6,6-CC,H,CC,A,0,17,57.1,57.27,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,
-320-U1334C-6H-CC-A,320,U1334,C,6,6-CC,H,CC,A,0,17,57.1,57.27,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-7H-1-A,320,U1334,C,7,7-1,H,1,A,0,150,57,58.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,100,soft,10YR 5/3,,,,,,
-320-U1334C-7H-2-A,320,U1334,C,7,7-2,H,2,A,0,61,58.5,59.11,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,100,soft,10YR 5/3,,,,,,
-320-U1334C-7H-2-A,320,U1334,C,7,7-2,H,2,A,61,150,59.11,60,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-2-A,320,U1334,C,7,7-2,H,2,A,61,150,59.11,60,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-7H-3-A,320,U1334,C,7,7-3,H,3,A,0,150,60,61.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-3-A,320,U1334,C,7,7-3,H,3,A,0,150,60,61.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-7H-4-A,320,U1334,C,7,7-4,H,4,A,0,150,61.5,63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-4-A,320,U1334,C,7,7-4,H,4,A,0,150,61.5,63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-7H-5-A,320,U1334,C,7,7-5,H,5,A,0,150,63,64.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-5-A,320,U1334,C,7,7-5,H,5,A,0,150,63,64.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-7H-6-A,320,U1334,C,7,7-6,H,6,A,0,150,64.5,66,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-6-A,320,U1334,C,7,7-6,H,6,A,0,150,64.5,66,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-7H-7-A,320,U1334,C,7,7-7,H,7,A,0,40,66,66.4,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-7-A,320,U1334,C,7,7-7,H,7,A,0,40,66,66.4,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-7H-CC-A,320,U1334,C,7,7-CC,H,CC,A,0,19,66.4,66.59,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,
-320-U1334C-7H-CC-A,320,U1334,C,7,7-CC,H,CC,A,0,19,66.4,66.59,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,
-320-U1334C-8H-1-A,320,U1334,C,8,8-1,H,1,A,0,150,66.5,68,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-1-A,320,U1334,C,8,8-1,H,1,A,0,150,66.5,68,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-2-A,320,U1334,C,8,8-2,H,2,A,0,150,68,69.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-2-A,320,U1334,C,8,8-2,H,2,A,0,150,68,69.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-3-A,320,U1334,C,8,8-3,H,3,A,0,150,69.5,71,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-3-A,320,U1334,C,8,8-3,H,3,A,0,150,69.5,71,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-4-A,320,U1334,C,8,8-4,H,4,A,0,150,71,72.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-4-A,320,U1334,C,8,8-4,H,4,A,0,150,71,72.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-5-A,320,U1334,C,8,8-5,H,5,A,0,150,72.5,74,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-5-A,320,U1334,C,8,8-5,H,5,A,0,150,72.5,74,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-6-A,320,U1334,C,8,8-6,H,6,A,0,150,74,75.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-6-A,320,U1334,C,8,8-6,H,6,A,0,150,74,75.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-7-A,320,U1334,C,8,8-7,H,7,A,0,65,75.5,76.15,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-7-A,320,U1334,C,8,8-7,H,7,A,0,65,75.5,76.15,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-8H-CC-A,320,U1334,C,8,8-CC,H,CC,A,0,18,76.15,76.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,
-320-U1334C-8H-CC-A,320,U1334,C,8,8-CC,H,CC,A,0,18,76.15,76.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-1-A,320,U1334,C,9,9-1,H,1,A,0,150,76,77.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-1-A,320,U1334,C,9,9-1,H,1,A,0,150,76,77.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-2-A,320,U1334,C,9,9-2,H,2,A,0,150,77.5,79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-2-A,320,U1334,C,9,9-2,H,2,A,0,150,77.5,79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-3-A,320,U1334,C,9,9-3,H,3,A,0,150,79,80.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-3-A,320,U1334,C,9,9-3,H,3,A,0,150,79,80.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-4-A,320,U1334,C,9,9-4,H,4,A,0,150,80.5,82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-4-A,320,U1334,C,9,9-4,H,4,A,0,150,80.5,82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-5-A,320,U1334,C,9,9-5,H,5,A,0,150,82,83.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-5-A,320,U1334,C,9,9-5,H,5,A,0,150,82,83.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-6-A,320,U1334,C,9,9-6,H,6,A,0,150,83.5,85,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-6-A,320,U1334,C,9,9-6,H,6,A,0,150,83.5,85,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-7-A,320,U1334,C,9,9-7,H,7,A,0,65,85,85.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-7-A,320,U1334,C,9,9-7,H,7,A,0,65,85,85.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-9H-CC-A,320,U1334,C,9,9-CC,H,CC,A,0,14,85.65,85.79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,
-320-U1334C-9H-CC-A,320,U1334,C,9,9-CC,H,CC,A,0,14,85.65,85.79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-10H-1-A,320,U1334,C,10,10-1,H,1,A,0,150,85.5,87,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-1-A,320,U1334,C,10,10-1,H,1,A,0,150,85.5,87,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-2-A,320,U1334,C,10,10-2,H,2,A,0,150,87,88.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-2-A,320,U1334,C,10,10-2,H,2,A,0,150,87,88.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-3-A,320,U1334,C,10,10-3,H,3,A,0,150,88.5,90,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-3-A,320,U1334,C,10,10-3,H,3,A,0,150,88.5,90,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-4-A,320,U1334,C,10,10-4,H,4,A,0,150,90,91.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-4-A,320,U1334,C,10,10-4,H,4,A,0,150,90,91.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-5-A,320,U1334,C,10,10-5,H,5,A,0,150,91.5,93,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-5-A,320,U1334,C,10,10-5,H,5,A,0,150,91.5,93,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-6-A,320,U1334,C,10,10-6,H,6,A,0,150,93,94.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-6-A,320,U1334,C,10,10-6,H,6,A,0,150,93,94.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-7-A,320,U1334,C,10,10-7,H,7,A,0,49,94.5,94.99,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-7-A,320,U1334,C,10,10-7,H,7,A,0,49,94.5,94.99,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-10H-CC-A,320,U1334,C,10,10-CC,H,CC,A,0,14,94.99,95.13,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,
-320-U1334C-10H-CC-A,320,U1334,C,10,10-CC,H,CC,A,0,14,94.99,95.13,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-1-A,320,U1334,C,11,11-1,H,1,A,0,150,95,96.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-1-A,320,U1334,C,11,11-1,H,1,A,0,150,95,96.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-2-A,320,U1334,C,11,11-2,H,2,A,0,150,96.5,98,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-2-A,320,U1334,C,11,11-2,H,2,A,0,150,96.5,98,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-3-A,320,U1334,C,11,11-3,H,3,A,0,150,98,99.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-3-A,320,U1334,C,11,11-3,H,3,A,0,150,98,99.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-4-A,320,U1334,C,11,11-4,H,4,A,0,150,99.5,101,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-4-A,320,U1334,C,11,11-4,H,4,A,0,150,99.5,101,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-5-A,320,U1334,C,11,11-5,H,5,A,0,150,101,102.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-5-A,320,U1334,C,11,11-5,H,5,A,0,150,101,102.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-6-A,320,U1334,C,11,11-6,H,6,A,0,100,102.5,103.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-6-A,320,U1334,C,11,11-6,H,6,A,0,100,102.5,103.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-7-A,320,U1334,C,11,11-7,H,7,A,0,86,103.5,104.36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-7-A,320,U1334,C,11,11-7,H,7,A,0,86,103.5,104.36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-11H-CC-A,320,U1334,C,11,11-CC,H,CC,A,0,21,104.36,104.57,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,
-320-U1334C-11H-CC-A,320,U1334,C,11,11-CC,H,CC,A,0,21,104.36,104.57,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,
-320-U1334C-12H-1-A,320,U1334,C,12,12-1,H,1,A,0,150,104.5,106,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-1-A,320,U1334,C,12,12-1,H,1,A,0,150,104.5,106,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-2-A,320,U1334,C,12,12-2,H,2,A,0,150,106,107.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-2-A,320,U1334,C,12,12-2,H,2,A,0,150,106,107.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-3-A,320,U1334,C,12,12-3,H,3,A,0,150,107.5,109,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-3-A,320,U1334,C,12,12-3,H,3,A,0,150,107.5,109,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-4-A,320,U1334,C,12,12-4,H,4,A,0,150,109,110.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-4-A,320,U1334,C,12,12-4,H,4,A,0,150,109,110.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-5-A,320,U1334,C,12,12-5,H,5,A,0,150,110.5,112,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-5-A,320,U1334,C,12,12-5,H,5,A,0,150,110.5,112,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-6-A,320,U1334,C,12,12-6,H,6,A,0,150,112,113.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-6-A,320,U1334,C,12,12-6,H,6,A,0,150,112,113.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-7-A,320,U1334,C,12,12-7,H,7,A,0,60,113.5,114.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-7-A,320,U1334,C,12,12-7,H,7,A,0,60,113.5,114.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-12H-CC-A,320,U1334,C,12,12-CC,H,CC,A,0,14,114.1,114.24,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,
-320-U1334C-12H-CC-A,320,U1334,C,12,12-CC,H,CC,A,0,14,114.1,114.24,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,
-320-U1334C-13H-1-A,320,U1334,C,13,13-1,H,1,A,0,150,114,115.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-1-A,320,U1334,C,13,13-1,H,1,A,0,150,114,115.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-2-A,320,U1334,C,13,13-2,H,2,A,0,150,115.5,117,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-2-A,320,U1334,C,13,13-2,H,2,A,0,150,115.5,117,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-3-A,320,U1334,C,13,13-3,H,3,A,0,150,117,118.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-3-A,320,U1334,C,13,13-3,H,3,A,0,150,117,118.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-4-A,320,U1334,C,13,13-4,H,4,A,0,150,118.5,120,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-4-A,320,U1334,C,13,13-4,H,4,A,0,150,118.5,120,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-5-A,320,U1334,C,13,13-5,H,5,A,0,150,120,121.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-5-A,320,U1334,C,13,13-5,H,5,A,0,150,120,121.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-6-A,320,U1334,C,13,13-6,H,6,A,0,150,121.5,123,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-6-A,320,U1334,C,13,13-6,H,6,A,0,150,121.5,123,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-7-A,320,U1334,C,13,13-7,H,7,A,0,63,123,123.63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-7-A,320,U1334,C,13,13-7,H,7,A,0,63,123,123.63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-13H-CC-A,320,U1334,C,13,13-CC,H,CC,A,0,19,123.63,123.82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,
-320-U1334C-13H-CC-A,320,U1334,C,13,13-CC,H,CC,A,0,19,123.63,123.82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,
-320-U1334C-14H-1-A,320,U1334,C,14,14-1,H,1,A,0,50,123.5,124,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/2,,,,,,
-320-U1334C-14H-1-A,320,U1334,C,14,14-1,H,1,A,50,150,124,125,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-1-A,320,U1334,C,14,14-1,H,1,A,50,150,124,125,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 8/1,,,,,,
-320-U1334C-14H-2-A,320,U1334,C,14,14-2,H,2,A,0,150,125,126.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-2-A,320,U1334,C,14,14-2,H,2,A,0,150,125,126.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 8/1,,,,,,
-320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,0,80,126.5,127.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,0,80,126.5,127.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 8/1,,,,,,
-320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,80,150,127.3,128,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,
-320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,80,150,127.3,128,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-4-A,320,U1334,C,14,14-4,H,4,A,0,150,128,129.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,
-320-U1334C-14H-4-A,320,U1334,C,14,14-4,H,4,A,0,150,128,129.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-5-A,320,U1334,C,14,14-5,H,5,A,0,150,129.5,131,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,
-320-U1334C-14H-5-A,320,U1334,C,14,14-5,H,5,A,0,150,129.5,131,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-6-A,320,U1334,C,14,14-6,H,6,A,0,100,131,132,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,
-320-U1334C-14H-6-A,320,U1334,C,14,14-6,H,6,A,0,100,131,132,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-7-A,320,U1334,C,14,14-7,H,7,A,0,91,132,132.91,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,
-320-U1334C-14H-7-A,320,U1334,C,14,14-7,H,7,A,0,91,132,132.91,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,
-320-U1334C-14H-CC-A,320,U1334,C,14,14-CC,H,CC,A,0,12,132.91,133.03,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,
-320-U1334C-14H-CC-A,320,U1334,C,14,14-CC,H,CC,A,0,12,132.91,133.03,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,
-320-U1334C-15H-1-A,320,U1334,C,15,15-1,H,1,A,0,150,133,134.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,
-320-U1334C-15H-2-A,320,U1334,C,15,15-2,H,2,A,0,150,134.5,136,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,
-320-U1334C-15H-3-A,320,U1334,C,15,15-3,H,3,A,0,150,136,137.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,
-320-U1334C-15H-4-A,320,U1334,C,15,15-4,H,4,A,0,83,137.5,138.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,
-320-U1334C-15H-4-A,320,U1334,C,15,15-4,H,4,A,83,150,138.33,139,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,
-320-U1334C-15H-5-A,320,U1334,C,15,15-5,H,5,A,0,150,139,140.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,
-320-U1334C-15H-6-A,320,U1334,C,15,15-6,H,6,A,0,100,140.5,141.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,
-320-U1334C-15H-7-A,320,U1334,C,15,15-7,H,7,A,0,67,141.5,142.17,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,
-320-U1334C-15H-CC-A,320,U1334,C,15,15-CC,H,CC,A,0,32,142.17,142.49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,
-320-U1334C-16H-1-A,320,U1334,C,16,16-1,H,1,A,0,150,142.5,144,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-2-A,320,U1334,C,16,16-2,H,2,A,0,150,144,145.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-3-A,320,U1334,C,16,16-3,H,3,A,0,150,145.5,147,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-4-A,320,U1334,C,16,16-4,H,4,A,0,150,147,148.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-5-A,320,U1334,C,16,16-5,H,5,A,0,150,148.5,150,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-6-A,320,U1334,C,16,16-6,H,6,A,0,100,150,151,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-7-A,320,U1334,C,16,16-7,H,7,A,0,67,151,151.67,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-16H-CC-A,320,U1334,C,16,16-CC,H,CC,A,0,32,151.67,151.99,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-1-A,320,U1334,C,17,17-1,H,1,A,0,150,152,153.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-2-A,320,U1334,C,17,17-2,H,2,A,0,150,153.5,155,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-3-A,320,U1334,C,17,17-3,H,3,A,0,150,155,156.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-4-A,320,U1334,C,17,17-4,H,4,A,0,150,156.5,158,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-5-A,320,U1334,C,17,17-5,H,5,A,0,150,158,159.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-6-A,320,U1334,C,17,17-6,H,6,A,0,150,159.5,161,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-7-A,320,U1334,C,17,17-7,H,7,A,0,33,161,161.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-17H-CC-A,320,U1334,C,17,17-CC,H,CC,A,0,16,161.33,161.49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-1-A,320,U1334,C,18,18-1,H,1,A,0,150,161.5,163,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-2-A,320,U1334,C,18,18-2,H,2,A,0,150,163,164.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-3-A,320,U1334,C,18,18-3,H,3,A,0,150,164.5,166,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-4-A,320,U1334,C,18,18-4,H,4,A,0,150,166,167.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-5-A,320,U1334,C,18,18-5,H,5,A,0,150,167.5,169,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-6-A,320,U1334,C,18,18-6,H,6,A,0,150,169,170.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-7-A,320,U1334,C,18,18-7,H,7,A,0,58,170.5,171.08,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-18H-CC-A,320,U1334,C,18,18-CC,H,CC,A,0,8,171.08,171.16,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-1-A,320,U1334,C,19,19-1,H,1,A,0,150,171,172.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-2-A,320,U1334,C,19,19-2,H,2,A,0,150,172.5,174,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-3-A,320,U1334,C,19,19-3,H,3,A,0,150,174,175.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-4-A,320,U1334,C,19,19-4,H,4,A,0,150,175.5,177,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-5-A,320,U1334,C,19,19-5,H,5,A,0,150,177,178.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-6-A,320,U1334,C,19,19-6,H,6,A,0,150,178.5,180,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-7-A,320,U1334,C,19,19-7,H,7,A,0,68,180,180.68,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-19H-CC-A,320,U1334,C,19,19-CC,H,CC,A,0,6,180.68,180.74,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-1-A,320,U1334,C,20,20-1,H,1,A,0,150,180.5,182,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-2-A,320,U1334,C,20,20-2,H,2,A,0,150,182,183.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-3-A,320,U1334,C,20,20-3,H,3,A,0,150,183.5,185,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-4-A,320,U1334,C,20,20-4,H,4,A,0,150,185,186.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-5-A,320,U1334,C,20,20-5,H,5,A,0,150,186.5,188,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-6-A,320,U1334,C,20,20-6,H,6,A,0,150,188,189.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-20H-7-A,320,U1334,C,20,20-7,H,7,A,0,48,189.5,189.98,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,
-320-U1334C-21H-1-A,320,U1334,C,21,21-1,H,1,A,0,130,190,191.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10Y 8/1,,,,,,
-320-U1334C-21H-1-A,320,U1334,C,21,21-1,H,1,A,130,150,191.3,191.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-2-A,320,U1334,C,21,21-2,H,2,A,0,150,191.5,193,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-3-A,320,U1334,C,21,21-3,H,3,A,0,150,193,194.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-4-A,320,U1334,C,21,21-4,H,4,A,0,150,194.5,196,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-5-A,320,U1334,C,21,21-5,H,5,A,0,150,196,197.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-6-A,320,U1334,C,21,21-6,H,6,A,0,150,197.5,199,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-7-A,320,U1334,C,21,21-7,H,7,A,0,69,199,199.69,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-21H-CC-A,320,U1334,C,21,21-CC,H,CC,A,0,24,199.69,199.93,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-1-A,320,U1334,C,22,22-1,H,1,A,0,150,199.5,201,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-2-A,320,U1334,C,22,22-2,H,2,A,0,150,201,202.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-3-A,320,U1334,C,22,22-3,H,3,A,0,150,202.5,204,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-4-A,320,U1334,C,22,22-4,H,4,A,0,150,204,205.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-5-A,320,U1334,C,22,22-5,H,5,A,0,150,205.5,207,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-6-A,320,U1334,C,22,22-6,H,6,A,0,150,207,208.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-7-A,320,U1334,C,22,22-7,H,7,A,0,63,208.5,209.13,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-22H-CC-A,320,U1334,C,22,22-CC,H,CC,A,0,25,209.13,209.38,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,
-320-U1334C-23X-1-A,320,U1334,C,23,23-1,X,1,A,0,150,209,210.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-23X-2-A,320,U1334,C,23,23-2,X,2,A,0,150,210.5,212,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-23X-3-A,320,U1334,C,23,23-3,X,3,A,0,133,212,213.33,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-23X-CC-A,320,U1334,C,23,23-CC,X,CC,A,0,24,213.33,213.57,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-1-A,320,U1334,C,24,24-1,X,1,A,0,150,214,215.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-2-A,320,U1334,C,24,24-2,X,2,A,0,150,215.5,217,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-3-A,320,U1334,C,24,24-3,X,3,A,0,150,217,218.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-4-A,320,U1334,C,24,24-4,X,4,A,0,150,218.5,220,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-5-A,320,U1334,C,24,24-5,X,5,A,0,150,220,221.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-6-A,320,U1334,C,24,24-6,X,6,A,0,150,221.5,223,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-7-A,320,U1334,C,24,24-7,X,7,A,0,49,223,223.49,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-24X-CC-A,320,U1334,C,24,24-CC,X,CC,A,0,24,223.49,223.73,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,
-320-U1334C-25X-1-A,320,U1334,C,25,25-1,X,1,A,0,150,223.6,225.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-1-A,320,U1334,C,25,25-1,X,1,A,0,150,223.6,225.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-2-A,320,U1334,C,25,25-2,X,2,A,0,150,225.1,226.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-2-A,320,U1334,C,25,25-2,X,2,A,0,150,225.1,226.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-3-A,320,U1334,C,25,25-3,X,3,A,0,150,226.6,228.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-3-A,320,U1334,C,25,25-3,X,3,A,0,150,226.6,228.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-4-A,320,U1334,C,25,25-4,X,4,A,0,150,228.1,229.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-4-A,320,U1334,C,25,25-4,X,4,A,0,150,228.1,229.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-5-A,320,U1334,C,25,25-5,X,5,A,0,150,229.6,231.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-5-A,320,U1334,C,25,25-5,X,5,A,0,150,229.6,231.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-6-A,320,U1334,C,25,25-6,X,6,A,0,130,231.1,232.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-6-A,320,U1334,C,25,25-6,X,6,A,0,130,231.1,232.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-7-A,320,U1334,C,25,25-7,X,7,A,0,59,232.4,232.99,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-7-A,320,U1334,C,25,25-7,X,7,A,0,59,232.4,232.99,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-25X-CC-A,320,U1334,C,25,25-CC,X,CC,A,0,32,232.99,233.31,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,
-320-U1334C-25X-CC-A,320,U1334,C,25,25-CC,X,CC,A,0,32,232.99,233.31,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,
-320-U1334C-26X-1-A,320,U1334,C,26,26-1,X,1,A,0,150,233.2,234.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-2-A,320,U1334,C,26,26-2,X,2,A,0,21,234.7,234.91,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-2-A,320,U1334,C,26,26-2,X,2,A,21,150,234.91,236.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with diatoms,Nannofossil chalk with diatoms,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-3-A,320,U1334,C,26,26-3,X,3,A,0,150,236.2,237.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with diatoms,Nannofossil chalk with diatoms,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-4-A,320,U1334,C,26,26-4,X,4,A,0,33,237.7,238.03,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with diatoms,Nannofossil chalk with diatoms,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-4-A,320,U1334,C,26,26-4,X,4,A,33,150,238.03,239.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-5-A,320,U1334,C,26,26-5,X,5,A,0,115,239.2,240.35,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-26X-CC-A,320,U1334,C,26,26-CC,X,CC,A,0,15,240.35,240.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-1-A,320,U1334,C,27,27-1,X,1,A,0,150,239.2,240.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-2-A,320,U1334,C,27,27-2,X,2,A,0,150,240.7,242.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-3-A,320,U1334,C,27,27-3,X,3,A,0,150,242.2,243.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-4-A,320,U1334,C,27,27-4,X,4,A,0,150,243.7,245.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-5-A,320,U1334,C,27,27-5,X,5,A,0,150,245.2,246.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-6-A,320,U1334,C,27,27-6,X,6,A,0,96,246.7,247.66,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,
-320-U1334C-27X-6-A,320,U1334,C,27,27-6,X,6,A,96,107,247.66,247.77,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 6/3,,,,,,
-320-U1334C-27X-CC-A,320,U1334,C,27,27-CC,X,CC,A,0,1,247.77,247.78,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 6/3,,,,,,
-320-U1334C-27X-CC-A,320,U1334,C,27,27-CC,X,CC,A,1,33,247.78,248.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 5/4,,,,,,
-320-U1334C-28X-1-A,320,U1334,C,28,28-1,X,1,A,0,128,248.8,250.08,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay,Nannofossil chalk with clay,100,firm,10YR 5/3,,,,,,
-320-U1334C-28X-1-A,320,U1334,C,28,28-1,X,1,A,128,150,250.08,250.3,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,
-320-U1334C-28X-2-A,320,U1334,C,28,28-2,X,2,A,0,78,250.3,251.08,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,
-320-U1334C-28X-2-A,320,U1334,C,28,28-2,X,2,A,78,150,251.08,251.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 5/3,,,,,,
-320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,0,33,251.8,252.13,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 5/3,,,,,,
-320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,33,73,252.13,252.53,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,
-320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,73,100,252.53,252.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,100,150,252.8,253.3,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,
-320-U1334C-28X-4-A,320,U1334,C,28,28-4,X,4,A,0,110,253.3,254.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,
-320-U1334C-28X-4-A,320,U1334,C,28,28-4,X,4,A,110,150,254.4,254.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,0,3,254.8,254.83,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,3,54,254.83,255.34,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 2/2,,,,,,
-320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,54,90,255.34,255.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,90,130,255.7,256.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 2/2,,,,,,
-320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,130,150,256.1,256.3,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-6-A,320,U1334,C,28,28-6,X,6,A,0,80,256.3,257.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-6-A,320,U1334,C,28,28-6,X,6,A,80,121,257.1,257.51,Claystone [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarians,Claystone with radiolarians,100,firm,10YR 2/2,,,,,,
-320-U1334C-28X-6-A,320,U1334,C,28,28-6,X,6,A,121,150,257.51,257.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-7-A,320,U1334,C,28,28-7,X,7,A,0,41,257.8,258.21,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 4/3,,,,,,
-320-U1334C-28X-CC-A,320,U1334,C,28,28-CC,X,CC,A,0,38,258.21,258.59,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 4/3,,,,,,
-320-U1334C-29X-1-A,320,U1334,C,29,29-1,X,1,A,0,150,258.4,259.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-1-A,320,U1334,C,29,29-1,X,1,A,0,150,258.4,259.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-2-A,320,U1334,C,29,29-2,X,2,A,0,150,259.9,261.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-2-A,320,U1334,C,29,29-2,X,2,A,0,150,259.9,261.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-3-A,320,U1334,C,29,29-3,X,3,A,0,150,261.4,262.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-3-A,320,U1334,C,29,29-3,X,3,A,0,150,261.4,262.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-4-A,320,U1334,C,29,29-4,X,4,A,0,150,262.9,264.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-4-A,320,U1334,C,29,29-4,X,4,A,0,150,262.9,264.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-5-A,320,U1334,C,29,29-5,X,5,A,0,150,264.4,265.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-5-A,320,U1334,C,29,29-5,X,5,A,0,150,264.4,265.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-6-A,320,U1334,C,29,29-6,X,6,A,0,150,265.9,267.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-6-A,320,U1334,C,29,29-6,X,6,A,0,150,265.9,267.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-7-A,320,U1334,C,29,29-7,X,7,A,0,41,267.4,267.81,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-7-A,320,U1334,C,29,29-7,X,7,A,0,41,267.4,267.81,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-29X-CC-A,320,U1334,C,29,29-CC,X,CC,A,0,25,267.81,268.06,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,
-320-U1334C-29X-CC-A,320,U1334,C,29,29-CC,X,CC,A,0,25,267.81,268.06,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,
-320-U1334C-30X-1-A,320,U1334,C,30,30-1,X,1,A,0,150,268,269.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-1-A,320,U1334,C,30,30-1,X,1,A,0,150,268,269.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-2-A,320,U1334,C,30,30-2,X,2,A,0,150,269.5,271,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-2-A,320,U1334,C,30,30-2,X,2,A,0,150,269.5,271,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-3-A,320,U1334,C,30,30-3,X,3,A,0,150,271,272.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-3-A,320,U1334,C,30,30-3,X,3,A,0,150,271,272.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-4-A,320,U1334,C,30,30-4,X,4,A,0,150,272.5,274,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-4-A,320,U1334,C,30,30-4,X,4,A,0,150,272.5,274,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-5-A,320,U1334,C,30,30-5,X,5,A,0,150,274,275.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-5-A,320,U1334,C,30,30-5,X,5,A,0,150,274,275.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-6-A,320,U1334,C,30,30-6,X,6,A,0,150,275.5,277,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-6-A,320,U1334,C,30,30-6,X,6,A,0,150,275.5,277,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-7-A,320,U1334,C,30,30-7,X,7,A,0,48,277,277.48,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-7-A,320,U1334,C,30,30-7,X,7,A,0,48,277,277.48,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-30X-CC-A,320,U1334,C,30,30-CC,X,CC,A,0,44,277.48,277.92,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,
-320-U1334C-30X-CC-A,320,U1334,C,30,30-CC,X,CC,A,0,44,277.48,277.92,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,
-320-U1334C-31X-1-A,320,U1334,C,31,31-1,X,1,A,0,131,277.7,279.01,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Micrite nannofossil,,Micrite nannofossil chalk,100,firm,10YR 6/4,,,,,,
-320-U1334C-31X-2-A,320,U1334,C,31,31-2,X,2,A,0,40,279.01,279.41,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Micrite nannofossil,,Micrite nannofossil chalk,100,firm,10YR 6/4,,,,,,
-320-U1334C-31X-2-A,320,U1334,C,31,31-2,X,2,A,40,73,279.41,279.74,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,100,hard,10YR 8/1,,,,,,
-320-U1334C-31X-CC-A,320,U1334,C,31,31-CC,X,CC,A,0,37,279.74,280.11,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,100,hard,10YR 8/1,,,,,,
-320-U1334C-32X-CC-A,320,U1334,C,32,32-CC,X,CC,A,0,43,279.7,280.13,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,100,hard,10YR 8/1,,,,,,
-320-U1334C-32X-CC-A,320,U1334,C,32,32-CC,X,CC,A,43,49,280.13,280.19,basalt [IUGS-S78&79],"International Union of Geological Sciences-Streckeisen, 1978 & 1979",,,basalt,20,hard,,angular fragments 10 cm-sized. ,,,,,
-320-U1334C-32X-CC-A,320,U1334,C,32,32-CC,X,CC,A,43,49,280.13,280.19,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,80,hard,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,Lithology classification,Lithology Prefix,Lithology Suffix,Lithology name,Lithology [%],Lithification [name],Color,Lithology comments,File Data,,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name,row_index
+320-U1334C-1H-1-A,320,U1334,C,1,1-1,H,1,A,0,150,0,1.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,,0
+320-U1334C-1H-1-A,320,U1334,C,1,1-1,H,1,A,0,150,0,1.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,,1
+320-U1334C-1H-2-A,320,U1334,C,1,1-2,H,2,A,0,150,1.5,3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,,2
+320-U1334C-1H-2-A,320,U1334,C,1,1-2,H,2,A,0,150,1.5,3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,,3
+320-U1334C-1H-3-A,320,U1334,C,1,1-3,H,3,A,0,150,3,4.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,,4
+320-U1334C-1H-3-A,320,U1334,C,1,1-3,H,3,A,0,150,3,4.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,,5
+320-U1334C-1H-4-A,320,U1334,C,1,1-4,H,4,A,0,150,4.5,6,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 6/4,,,,,,,6
+320-U1334C-1H-4-A,320,U1334,C,1,1-4,H,4,A,0,150,4.5,6,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,70,soft,10YR 4/2,,,,,,,7
+320-U1334C-1H-5-A,320,U1334,C,1,1-5,H,5,A,0,150,6,7.5,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,8
+320-U1334C-1H-6-A,320,U1334,C,1,1-6,H,6,A,0,150,7.5,9,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,9
+320-U1334C-1H-7-A,320,U1334,C,1,1-7,H,7,A,0,66,9,9.66,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,10
+320-U1334C-1H-CC-A,320,U1334,C,1,1-CC,H,CC,A,0,12,9.66,9.78,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,11
+320-U1334C-2H-1-A,320,U1334,C,2,2-1,H,1,A,0,96,9.5,10.46,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,12
+320-U1334C-2H-2-A,320,U1334,C,2,2-2,H,2,A,0,150,10.46,11.96,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,13
+320-U1334C-2H-3-A,320,U1334,C,2,2-3,H,3,A,0,112,11.96,13.08,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarian,Clay with radiolarian,100,soft,10YR 2/2,,,,,,,14
+320-U1334C-2H-3-A,320,U1334,C,2,2-3,H,3,A,112,150,13.08,13.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,50,soft,10YR 6/3,,,,,,,15
+320-U1334C-2H-3-A,320,U1334,C,2,2-3,H,3,A,112,150,13.08,13.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 7/2,,,,,,,16
+320-U1334C-2H-4-A,320,U1334,C,2,2-4,H,4,A,0,150,13.46,14.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,50,soft,10YR 6/3,,,,,,,17
+320-U1334C-2H-4-A,320,U1334,C,2,2-4,H,4,A,0,150,13.46,14.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 7/2,,,,,,,18
+320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,0,8,14.96,15.04,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,50,soft,10YR 6/3,,,,,,,19
+320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,0,8,14.96,15.04,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 7/2,,,,,,,20
+320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,8,150,15.04,16.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,,21
+320-U1334C-2H-5-A,320,U1334,C,2,2-5,H,5,A,8,150,15.04,16.46,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,22
+320-U1334C-2H-6-A,320,U1334,C,2,2-6,H,6,A,0,150,16.46,17.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,,23
+320-U1334C-2H-6-A,320,U1334,C,2,2-6,H,6,A,0,150,16.46,17.96,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,24
+320-U1334C-2H-7-A,320,U1334,C,2,2-7,H,7,A,0,56,17.96,18.52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,,25
+320-U1334C-2H-7-A,320,U1334,C,2,2-7,H,7,A,0,56,17.96,18.52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,26
+320-U1334C-2H-CC-A,320,U1334,C,2,2-CC,H,CC,A,0,15,18.52,18.67,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/2,,,,,,,27
+320-U1334C-2H-CC-A,320,U1334,C,2,2-CC,H,CC,A,0,15,18.52,18.67,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,28
+320-U1334C-3H-1-A,320,U1334,C,3,3-1,H,1,A,0,80,19,19.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/3,,,,,,,29
+320-U1334C-3H-1-A,320,U1334,C,3,3-1,H,1,A,0,80,19,19.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,30
+320-U1334C-3H-2-A,320,U1334,C,3,3-2,H,2,A,0,150,19.8,21.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/3,,,,,,,31
+320-U1334C-3H-2-A,320,U1334,C,3,3-2,H,2,A,0,150,19.8,21.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,32
+320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,0,80,21.3,22.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,50,soft,10YR 4/3,,,,,,,33
+320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,0,80,21.3,22.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,50,soft,10YR 3/3,,,,,,,34
+320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,80,150,22.1,22.8,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,,35
+320-U1334C-3H-3-A,320,U1334,C,3,3-3,H,3,A,80,150,22.1,22.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,,36
+320-U1334C-3H-4-A,320,U1334,C,3,3-4,H,4,A,0,150,22.8,24.3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,,37
+320-U1334C-3H-4-A,320,U1334,C,3,3-4,H,4,A,0,150,22.8,24.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,,38
+320-U1334C-3H-5-A,320,U1334,C,3,3-5,H,5,A,0,150,24.3,25.8,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,,39
+320-U1334C-3H-5-A,320,U1334,C,3,3-5,H,5,A,0,150,24.3,25.8,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,,40
+320-U1334C-3H-6-A,320,U1334,C,3,3-6,H,6,A,0,150,25.8,27.3,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,,41
+320-U1334C-3H-6-A,320,U1334,C,3,3-6,H,6,A,0,150,25.8,27.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,,42
+320-U1334C-3H-7-A,320,U1334,C,3,3-7,H,7,A,0,65,27.3,27.95,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,,43
+320-U1334C-3H-7-A,320,U1334,C,3,3-7,H,7,A,0,65,27.3,27.95,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,,44
+320-U1334C-3H-CC-A,320,U1334,C,3,3-CC,H,CC,A,0,13,27.95,28.08,Clay [MMK88],"Mazullo, Meyer & Kidd, 1988",Radiolarian,,Radiolarian Clay,30,soft,10YR 3/3,,,,,,,45
+320-U1334C-3H-CC-A,320,U1334,C,3,3-CC,H,CC,A,0,13,27.95,28.08,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 7/3,"Pumice (0.5 cm) in section 4, 138 cm ",,,,,,46
+320-U1334C-4H-1-A,320,U1334,C,4,4-1,H,1,A,0,150,28.5,30,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,47
+320-U1334C-4H-1-A,320,U1334,C,4,4-1,H,1,A,0,150,28.5,30,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,48
+320-U1334C-4H-2-A,320,U1334,C,4,4-2,H,2,A,0,150,30,31.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,49
+320-U1334C-4H-2-A,320,U1334,C,4,4-2,H,2,A,0,150,30,31.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,50
+320-U1334C-4H-3-A,320,U1334,C,4,4-3,H,3,A,0,150,31.5,33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,51
+320-U1334C-4H-3-A,320,U1334,C,4,4-3,H,3,A,0,150,31.5,33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,52
+320-U1334C-4H-4-A,320,U1334,C,4,4-4,H,4,A,0,150,33,34.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,53
+320-U1334C-4H-4-A,320,U1334,C,4,4-4,H,4,A,0,150,33,34.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,54
+320-U1334C-4H-5-A,320,U1334,C,4,4-5,H,5,A,0,150,34.5,36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,55
+320-U1334C-4H-5-A,320,U1334,C,4,4-5,H,5,A,0,150,34.5,36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,56
+320-U1334C-4H-6-A,320,U1334,C,4,4-6,H,6,A,0,150,36,37.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,57
+320-U1334C-4H-6-A,320,U1334,C,4,4-6,H,6,A,0,150,36,37.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,58
+320-U1334C-4H-7-A,320,U1334,C,4,4-7,H,7,A,0,56,37.5,38.06,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,59
+320-U1334C-4H-7-A,320,U1334,C,4,4-7,H,7,A,0,56,37.5,38.06,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,60
+320-U1334C-4H-CC-A,320,U1334,C,4,4-CC,H,CC,A,0,22,38.06,38.28,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 3/3,,,,,,,61
+320-U1334C-4H-CC-A,320,U1334,C,4,4-CC,H,CC,A,0,22,38.06,38.28,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil ooze with radiolarians,40,soft,10YR 7/3,,,,,,,62
+320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,0,65,38,38.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey radiolarian,with nannofossils,Clayey radiolarian ooze with nannofossils,60,soft,10YR 4/3,,,,,,,63
+320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,0,65,38,38.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians and clay,Nannofossil ooze with radiolarians and clay,40,soft,10YR 7/2,,,,,,,64
+320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,65,150,38.65,39.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,65
+320-U1334C-5H-1-A,320,U1334,C,5,5-1,H,1,A,65,150,38.65,39.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,66
+320-U1334C-5H-2-A,320,U1334,C,5,5-2,H,2,A,0,150,39.5,41,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,67
+320-U1334C-5H-2-A,320,U1334,C,5,5-2,H,2,A,0,150,39.5,41,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,68
+320-U1334C-5H-3-A,320,U1334,C,5,5-3,H,3,A,0,150,41,42.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,69
+320-U1334C-5H-3-A,320,U1334,C,5,5-3,H,3,A,0,150,41,42.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,70
+320-U1334C-5H-4-A,320,U1334,C,5,5-4,H,4,A,0,150,42.5,44,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,71
+320-U1334C-5H-4-A,320,U1334,C,5,5-4,H,4,A,0,150,42.5,44,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,72
+320-U1334C-5H-5-A,320,U1334,C,5,5-5,H,5,A,0,150,44,45.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,73
+320-U1334C-5H-5-A,320,U1334,C,5,5-5,H,5,A,0,150,44,45.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,74
+320-U1334C-5H-6-A,320,U1334,C,5,5-6,H,6,A,0,150,45.5,47,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,75
+320-U1334C-5H-6-A,320,U1334,C,5,5-6,H,6,A,0,150,45.5,47,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,76
+320-U1334C-5H-7-A,320,U1334,C,5,5-7,H,7,A,0,78,47,47.78,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,77
+320-U1334C-5H-7-A,320,U1334,C,5,5-7,H,7,A,0,78,47,47.78,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,78
+320-U1334C-5H-CC-A,320,U1334,C,5,5-CC,H,CC,A,0,22,47.78,48,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,79
+320-U1334C-5H-CC-A,320,U1334,C,5,5-CC,H,CC,A,0,22,47.78,48,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,Black streaks in very pale brown nannofossil ooze,,,,,,80
+320-U1334C-6H-1-A,320,U1334,C,6,6-1,H,1,A,0,150,47.5,49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,81
+320-U1334C-6H-1-A,320,U1334,C,6,6-1,H,1,A,0,150,47.5,49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,82
+320-U1334C-6H-2-A,320,U1334,C,6,6-2,H,2,A,0,150,49,50.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,83
+320-U1334C-6H-2-A,320,U1334,C,6,6-2,H,2,A,0,150,49,50.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,84
+320-U1334C-6H-3-A,320,U1334,C,6,6-3,H,3,A,0,150,50.5,52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,85
+320-U1334C-6H-3-A,320,U1334,C,6,6-3,H,3,A,0,150,50.5,52,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,86
+320-U1334C-6H-4-A,320,U1334,C,6,6-4,H,4,A,0,150,52,53.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,87
+320-U1334C-6H-4-A,320,U1334,C,6,6-4,H,4,A,0,150,52,53.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,88
+320-U1334C-6H-5-A,320,U1334,C,6,6-5,H,5,A,0,150,53.5,55,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,89
+320-U1334C-6H-5-A,320,U1334,C,6,6-5,H,5,A,0,150,53.5,55,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,90
+320-U1334C-6H-6-A,320,U1334,C,6,6-6,H,6,A,0,150,55,56.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,91
+320-U1334C-6H-6-A,320,U1334,C,6,6-6,H,6,A,0,150,55,56.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,92
+320-U1334C-6H-7-A,320,U1334,C,6,6-7,H,7,A,0,60,56.5,57.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,93
+320-U1334C-6H-7-A,320,U1334,C,6,6-7,H,7,A,0,60,56.5,57.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,94
+320-U1334C-6H-CC-A,320,U1334,C,6,6-CC,H,CC,A,0,17,57.1,57.27,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,30,soft,10YR 6/3,,,,,,,95
+320-U1334C-6H-CC-A,320,U1334,C,6,6-CC,H,CC,A,0,17,57.1,57.27,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,96
+320-U1334C-7H-1-A,320,U1334,C,7,7-1,H,1,A,0,150,57,58.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,100,soft,10YR 5/3,,,,,,,97
+320-U1334C-7H-2-A,320,U1334,C,7,7-2,H,2,A,0,61,58.5,59.11,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil ooze with radiolarians,100,soft,10YR 5/3,,,,,,,98
+320-U1334C-7H-2-A,320,U1334,C,7,7-2,H,2,A,61,150,59.11,60,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,99
+320-U1334C-7H-2-A,320,U1334,C,7,7-2,H,2,A,61,150,59.11,60,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,100
+320-U1334C-7H-3-A,320,U1334,C,7,7-3,H,3,A,0,150,60,61.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,101
+320-U1334C-7H-3-A,320,U1334,C,7,7-3,H,3,A,0,150,60,61.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,102
+320-U1334C-7H-4-A,320,U1334,C,7,7-4,H,4,A,0,150,61.5,63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,103
+320-U1334C-7H-4-A,320,U1334,C,7,7-4,H,4,A,0,150,61.5,63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,104
+320-U1334C-7H-5-A,320,U1334,C,7,7-5,H,5,A,0,150,63,64.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,105
+320-U1334C-7H-5-A,320,U1334,C,7,7-5,H,5,A,0,150,63,64.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,106
+320-U1334C-7H-6-A,320,U1334,C,7,7-6,H,6,A,0,150,64.5,66,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,107
+320-U1334C-7H-6-A,320,U1334,C,7,7-6,H,6,A,0,150,64.5,66,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,108
+320-U1334C-7H-7-A,320,U1334,C,7,7-7,H,7,A,0,40,66,66.4,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,109
+320-U1334C-7H-7-A,320,U1334,C,7,7-7,H,7,A,0,40,66,66.4,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,110
+320-U1334C-7H-CC-A,320,U1334,C,7,7-CC,H,CC,A,0,19,66.4,66.59,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 8/3,,,,,,,111
+320-U1334C-7H-CC-A,320,U1334,C,7,7-CC,H,CC,A,0,19,66.4,66.59,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/1,Black streaks are common in very pale brown nannofossil ooze,,,,,,112
+320-U1334C-8H-1-A,320,U1334,C,8,8-1,H,1,A,0,150,66.5,68,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,113
+320-U1334C-8H-1-A,320,U1334,C,8,8-1,H,1,A,0,150,66.5,68,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,114
+320-U1334C-8H-2-A,320,U1334,C,8,8-2,H,2,A,0,150,68,69.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,115
+320-U1334C-8H-2-A,320,U1334,C,8,8-2,H,2,A,0,150,68,69.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,116
+320-U1334C-8H-3-A,320,U1334,C,8,8-3,H,3,A,0,150,69.5,71,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,117
+320-U1334C-8H-3-A,320,U1334,C,8,8-3,H,3,A,0,150,69.5,71,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,118
+320-U1334C-8H-4-A,320,U1334,C,8,8-4,H,4,A,0,150,71,72.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,119
+320-U1334C-8H-4-A,320,U1334,C,8,8-4,H,4,A,0,150,71,72.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,120
+320-U1334C-8H-5-A,320,U1334,C,8,8-5,H,5,A,0,150,72.5,74,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,121
+320-U1334C-8H-5-A,320,U1334,C,8,8-5,H,5,A,0,150,72.5,74,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,122
+320-U1334C-8H-6-A,320,U1334,C,8,8-6,H,6,A,0,150,74,75.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,123
+320-U1334C-8H-6-A,320,U1334,C,8,8-6,H,6,A,0,150,74,75.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,124
+320-U1334C-8H-7-A,320,U1334,C,8,8-7,H,7,A,0,65,75.5,76.15,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,125
+320-U1334C-8H-7-A,320,U1334,C,8,8-7,H,7,A,0,65,75.5,76.15,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,126
+320-U1334C-8H-CC-A,320,U1334,C,8,8-CC,H,CC,A,0,18,76.15,76.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/3,,,,,,,127
+320-U1334C-8H-CC-A,320,U1334,C,8,8-CC,H,CC,A,0,18,76.15,76.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,128
+320-U1334C-9H-1-A,320,U1334,C,9,9-1,H,1,A,0,150,76,77.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,129
+320-U1334C-9H-1-A,320,U1334,C,9,9-1,H,1,A,0,150,76,77.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,130
+320-U1334C-9H-2-A,320,U1334,C,9,9-2,H,2,A,0,150,77.5,79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,131
+320-U1334C-9H-2-A,320,U1334,C,9,9-2,H,2,A,0,150,77.5,79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,132
+320-U1334C-9H-3-A,320,U1334,C,9,9-3,H,3,A,0,150,79,80.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,133
+320-U1334C-9H-3-A,320,U1334,C,9,9-3,H,3,A,0,150,79,80.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,134
+320-U1334C-9H-4-A,320,U1334,C,9,9-4,H,4,A,0,150,80.5,82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,135
+320-U1334C-9H-4-A,320,U1334,C,9,9-4,H,4,A,0,150,80.5,82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,136
+320-U1334C-9H-5-A,320,U1334,C,9,9-5,H,5,A,0,150,82,83.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,137
+320-U1334C-9H-5-A,320,U1334,C,9,9-5,H,5,A,0,150,82,83.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,138
+320-U1334C-9H-6-A,320,U1334,C,9,9-6,H,6,A,0,150,83.5,85,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,139
+320-U1334C-9H-6-A,320,U1334,C,9,9-6,H,6,A,0,150,83.5,85,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,140
+320-U1334C-9H-7-A,320,U1334,C,9,9-7,H,7,A,0,65,85,85.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,141
+320-U1334C-9H-7-A,320,U1334,C,9,9-7,H,7,A,0,65,85,85.65,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,142
+320-U1334C-9H-CC-A,320,U1334,C,9,9-CC,H,CC,A,0,14,85.65,85.79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/4,,,,,,,143
+320-U1334C-9H-CC-A,320,U1334,C,9,9-CC,H,CC,A,0,14,85.65,85.79,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,144
+320-U1334C-10H-1-A,320,U1334,C,10,10-1,H,1,A,0,150,85.5,87,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,145
+320-U1334C-10H-1-A,320,U1334,C,10,10-1,H,1,A,0,150,85.5,87,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,146
+320-U1334C-10H-2-A,320,U1334,C,10,10-2,H,2,A,0,150,87,88.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,147
+320-U1334C-10H-2-A,320,U1334,C,10,10-2,H,2,A,0,150,87,88.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,148
+320-U1334C-10H-3-A,320,U1334,C,10,10-3,H,3,A,0,150,88.5,90,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,149
+320-U1334C-10H-3-A,320,U1334,C,10,10-3,H,3,A,0,150,88.5,90,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,150
+320-U1334C-10H-4-A,320,U1334,C,10,10-4,H,4,A,0,150,90,91.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,151
+320-U1334C-10H-4-A,320,U1334,C,10,10-4,H,4,A,0,150,90,91.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,152
+320-U1334C-10H-5-A,320,U1334,C,10,10-5,H,5,A,0,150,91.5,93,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,153
+320-U1334C-10H-5-A,320,U1334,C,10,10-5,H,5,A,0,150,91.5,93,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,154
+320-U1334C-10H-6-A,320,U1334,C,10,10-6,H,6,A,0,150,93,94.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,155
+320-U1334C-10H-6-A,320,U1334,C,10,10-6,H,6,A,0,150,93,94.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,156
+320-U1334C-10H-7-A,320,U1334,C,10,10-7,H,7,A,0,49,94.5,94.99,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,157
+320-U1334C-10H-7-A,320,U1334,C,10,10-7,H,7,A,0,49,94.5,94.99,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,158
+320-U1334C-10H-CC-A,320,U1334,C,10,10-CC,H,CC,A,0,14,94.99,95.13,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 8/3,,,,,,,159
+320-U1334C-10H-CC-A,320,U1334,C,10,10-CC,H,CC,A,0,14,94.99,95.13,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,160
+320-U1334C-11H-1-A,320,U1334,C,11,11-1,H,1,A,0,150,95,96.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,161
+320-U1334C-11H-1-A,320,U1334,C,11,11-1,H,1,A,0,150,95,96.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,162
+320-U1334C-11H-2-A,320,U1334,C,11,11-2,H,2,A,0,150,96.5,98,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,163
+320-U1334C-11H-2-A,320,U1334,C,11,11-2,H,2,A,0,150,96.5,98,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,164
+320-U1334C-11H-3-A,320,U1334,C,11,11-3,H,3,A,0,150,98,99.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,165
+320-U1334C-11H-3-A,320,U1334,C,11,11-3,H,3,A,0,150,98,99.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,166
+320-U1334C-11H-4-A,320,U1334,C,11,11-4,H,4,A,0,150,99.5,101,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,167
+320-U1334C-11H-4-A,320,U1334,C,11,11-4,H,4,A,0,150,99.5,101,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,168
+320-U1334C-11H-5-A,320,U1334,C,11,11-5,H,5,A,0,150,101,102.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,169
+320-U1334C-11H-5-A,320,U1334,C,11,11-5,H,5,A,0,150,101,102.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,170
+320-U1334C-11H-6-A,320,U1334,C,11,11-6,H,6,A,0,100,102.5,103.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,171
+320-U1334C-11H-6-A,320,U1334,C,11,11-6,H,6,A,0,100,102.5,103.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,172
+320-U1334C-11H-7-A,320,U1334,C,11,11-7,H,7,A,0,86,103.5,104.36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,173
+320-U1334C-11H-7-A,320,U1334,C,11,11-7,H,7,A,0,86,103.5,104.36,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,174
+320-U1334C-11H-CC-A,320,U1334,C,11,11-CC,H,CC,A,0,21,104.36,104.57,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,20,soft,10YR 6/4,,,,,,,175
+320-U1334C-11H-CC-A,320,U1334,C,11,11-CC,H,CC,A,0,21,104.36,104.57,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,80,soft,10YR 8/2,,,,,,,176
+320-U1334C-12H-1-A,320,U1334,C,12,12-1,H,1,A,0,150,104.5,106,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,177
+320-U1334C-12H-1-A,320,U1334,C,12,12-1,H,1,A,0,150,104.5,106,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,178
+320-U1334C-12H-2-A,320,U1334,C,12,12-2,H,2,A,0,150,106,107.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,179
+320-U1334C-12H-2-A,320,U1334,C,12,12-2,H,2,A,0,150,106,107.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,180
+320-U1334C-12H-3-A,320,U1334,C,12,12-3,H,3,A,0,150,107.5,109,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,181
+320-U1334C-12H-3-A,320,U1334,C,12,12-3,H,3,A,0,150,107.5,109,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,182
+320-U1334C-12H-4-A,320,U1334,C,12,12-4,H,4,A,0,150,109,110.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,183
+320-U1334C-12H-4-A,320,U1334,C,12,12-4,H,4,A,0,150,109,110.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,184
+320-U1334C-12H-5-A,320,U1334,C,12,12-5,H,5,A,0,150,110.5,112,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,185
+320-U1334C-12H-5-A,320,U1334,C,12,12-5,H,5,A,0,150,110.5,112,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,186
+320-U1334C-12H-6-A,320,U1334,C,12,12-6,H,6,A,0,150,112,113.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,187
+320-U1334C-12H-6-A,320,U1334,C,12,12-6,H,6,A,0,150,112,113.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,188
+320-U1334C-12H-7-A,320,U1334,C,12,12-7,H,7,A,0,60,113.5,114.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,189
+320-U1334C-12H-7-A,320,U1334,C,12,12-7,H,7,A,0,60,113.5,114.1,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,190
+320-U1334C-12H-CC-A,320,U1334,C,12,12-CC,H,CC,A,0,14,114.1,114.24,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,30,soft,10YR 7/2,,,,,,,191
+320-U1334C-12H-CC-A,320,U1334,C,12,12-CC,H,CC,A,0,14,114.1,114.24,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,70,soft,10YR 8/2,,,,,,,192
+320-U1334C-13H-1-A,320,U1334,C,13,13-1,H,1,A,0,150,114,115.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,193
+320-U1334C-13H-1-A,320,U1334,C,13,13-1,H,1,A,0,150,114,115.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,194
+320-U1334C-13H-2-A,320,U1334,C,13,13-2,H,2,A,0,150,115.5,117,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,195
+320-U1334C-13H-2-A,320,U1334,C,13,13-2,H,2,A,0,150,115.5,117,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,196
+320-U1334C-13H-3-A,320,U1334,C,13,13-3,H,3,A,0,150,117,118.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,197
+320-U1334C-13H-3-A,320,U1334,C,13,13-3,H,3,A,0,150,117,118.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,198
+320-U1334C-13H-4-A,320,U1334,C,13,13-4,H,4,A,0,150,118.5,120,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,199
+320-U1334C-13H-4-A,320,U1334,C,13,13-4,H,4,A,0,150,118.5,120,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,200
+320-U1334C-13H-5-A,320,U1334,C,13,13-5,H,5,A,0,150,120,121.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,201
+320-U1334C-13H-5-A,320,U1334,C,13,13-5,H,5,A,0,150,120,121.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,202
+320-U1334C-13H-6-A,320,U1334,C,13,13-6,H,6,A,0,150,121.5,123,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,203
+320-U1334C-13H-6-A,320,U1334,C,13,13-6,H,6,A,0,150,121.5,123,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,204
+320-U1334C-13H-7-A,320,U1334,C,13,13-7,H,7,A,0,63,123,123.63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,205
+320-U1334C-13H-7-A,320,U1334,C,13,13-7,H,7,A,0,63,123,123.63,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,206
+320-U1334C-13H-CC-A,320,U1334,C,13,13-CC,H,CC,A,0,19,123.63,123.82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,10YR 8/3,,,,,,,207
+320-U1334C-13H-CC-A,320,U1334,C,13,13-CC,H,CC,A,0,19,123.63,123.82,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,10YR 8/1,,,,,,,208
+320-U1334C-14H-1-A,320,U1334,C,14,14-1,H,1,A,0,50,123.5,124,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/2,,,,,,,209
+320-U1334C-14H-1-A,320,U1334,C,14,14-1,H,1,A,50,150,124,125,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,2.5Y 8/2,,,,,,,210
+320-U1334C-14H-1-A,320,U1334,C,14,14-1,H,1,A,50,150,124,125,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 8/1,,,,,,,211
+320-U1334C-14H-2-A,320,U1334,C,14,14-2,H,2,A,0,150,125,126.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,2.5Y 8/2,,,,,,,212
+320-U1334C-14H-2-A,320,U1334,C,14,14-2,H,2,A,0,150,125,126.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 8/1,,,,,,,213
+320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,0,80,126.5,127.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,2.5Y 8/2,,,,,,,214
+320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,0,80,126.5,127.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,50,soft,10YR 8/1,,,,,,,215
+320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,80,150,127.3,128,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,,216
+320-U1334C-14H-3-A,320,U1334,C,14,14-3,H,3,A,80,150,127.3,128,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,,217
+320-U1334C-14H-4-A,320,U1334,C,14,14-4,H,4,A,0,150,128,129.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,,218
+320-U1334C-14H-4-A,320,U1334,C,14,14-4,H,4,A,0,150,128,129.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,,219
+320-U1334C-14H-5-A,320,U1334,C,14,14-5,H,5,A,0,150,129.5,131,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,,220
+320-U1334C-14H-5-A,320,U1334,C,14,14-5,H,5,A,0,150,129.5,131,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,,221
+320-U1334C-14H-6-A,320,U1334,C,14,14-6,H,6,A,0,100,131,132,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,,222
+320-U1334C-14H-6-A,320,U1334,C,14,14-6,H,6,A,0,100,131,132,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,,223
+320-U1334C-14H-7-A,320,U1334,C,14,14-7,H,7,A,0,91,132,132.91,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,,224
+320-U1334C-14H-7-A,320,U1334,C,14,14-7,H,7,A,0,91,132,132.91,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,,225
+320-U1334C-14H-CC-A,320,U1334,C,14,14-CC,H,CC,A,0,12,132.91,133.03,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,40,soft,2.5Y 8/1,,,,,,,226
+320-U1334C-14H-CC-A,320,U1334,C,14,14-CC,H,CC,A,0,12,132.91,133.03,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,60,soft,2.5Y 8/2,,,,,,,227
+320-U1334C-15H-1-A,320,U1334,C,15,15-1,H,1,A,0,150,133,134.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,,228
+320-U1334C-15H-2-A,320,U1334,C,15,15-2,H,2,A,0,150,134.5,136,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,,229
+320-U1334C-15H-3-A,320,U1334,C,15,15-3,H,3,A,0,150,136,137.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,,230
+320-U1334C-15H-4-A,320,U1334,C,15,15-4,H,4,A,0,83,137.5,138.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10YR 8/1,"Pumice (2 cm in diameter) in 26-28 cm, Section 4",,,,,,231
+320-U1334C-15H-4-A,320,U1334,C,15,15-4,H,4,A,83,150,138.33,139,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,,232
+320-U1334C-15H-5-A,320,U1334,C,15,15-5,H,5,A,0,150,139,140.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,,233
+320-U1334C-15H-6-A,320,U1334,C,15,15-6,H,6,A,0,100,140.5,141.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,,234
+320-U1334C-15H-7-A,320,U1334,C,15,15-7,H,7,A,0,67,141.5,142.17,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,,235
+320-U1334C-15H-CC-A,320,U1334,C,15,15-CC,H,CC,A,0,32,142.17,142.49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,,,,,,,236
+320-U1334C-16H-1-A,320,U1334,C,16,16-1,H,1,A,0,150,142.5,144,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,237
+320-U1334C-16H-2-A,320,U1334,C,16,16-2,H,2,A,0,150,144,145.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,238
+320-U1334C-16H-3-A,320,U1334,C,16,16-3,H,3,A,0,150,145.5,147,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,239
+320-U1334C-16H-4-A,320,U1334,C,16,16-4,H,4,A,0,150,147,148.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,240
+320-U1334C-16H-5-A,320,U1334,C,16,16-5,H,5,A,0,150,148.5,150,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,241
+320-U1334C-16H-6-A,320,U1334,C,16,16-6,H,6,A,0,100,150,151,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,242
+320-U1334C-16H-7-A,320,U1334,C,16,16-7,H,7,A,0,67,151,151.67,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,243
+320-U1334C-16H-CC-A,320,U1334,C,16,16-CC,H,CC,A,0,32,151.67,151.99,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,244
+320-U1334C-17H-1-A,320,U1334,C,17,17-1,H,1,A,0,150,152,153.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,245
+320-U1334C-17H-2-A,320,U1334,C,17,17-2,H,2,A,0,150,153.5,155,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,246
+320-U1334C-17H-3-A,320,U1334,C,17,17-3,H,3,A,0,150,155,156.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,247
+320-U1334C-17H-4-A,320,U1334,C,17,17-4,H,4,A,0,150,156.5,158,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,248
+320-U1334C-17H-5-A,320,U1334,C,17,17-5,H,5,A,0,150,158,159.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,249
+320-U1334C-17H-6-A,320,U1334,C,17,17-6,H,6,A,0,150,159.5,161,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,250
+320-U1334C-17H-7-A,320,U1334,C,17,17-7,H,7,A,0,33,161,161.33,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,251
+320-U1334C-17H-CC-A,320,U1334,C,17,17-CC,H,CC,A,0,16,161.33,161.49,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,252
+320-U1334C-18H-1-A,320,U1334,C,18,18-1,H,1,A,0,150,161.5,163,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,253
+320-U1334C-18H-2-A,320,U1334,C,18,18-2,H,2,A,0,150,163,164.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,254
+320-U1334C-18H-3-A,320,U1334,C,18,18-3,H,3,A,0,150,164.5,166,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,255
+320-U1334C-18H-4-A,320,U1334,C,18,18-4,H,4,A,0,150,166,167.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,256
+320-U1334C-18H-5-A,320,U1334,C,18,18-5,H,5,A,0,150,167.5,169,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,257
+320-U1334C-18H-6-A,320,U1334,C,18,18-6,H,6,A,0,150,169,170.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,258
+320-U1334C-18H-7-A,320,U1334,C,18,18-7,H,7,A,0,58,170.5,171.08,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,259
+320-U1334C-18H-CC-A,320,U1334,C,18,18-CC,H,CC,A,0,8,171.08,171.16,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,260
+320-U1334C-19H-1-A,320,U1334,C,19,19-1,H,1,A,0,150,171,172.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,261
+320-U1334C-19H-2-A,320,U1334,C,19,19-2,H,2,A,0,150,172.5,174,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,262
+320-U1334C-19H-3-A,320,U1334,C,19,19-3,H,3,A,0,150,174,175.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,263
+320-U1334C-19H-4-A,320,U1334,C,19,19-4,H,4,A,0,150,175.5,177,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,264
+320-U1334C-19H-5-A,320,U1334,C,19,19-5,H,5,A,0,150,177,178.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,265
+320-U1334C-19H-6-A,320,U1334,C,19,19-6,H,6,A,0,150,178.5,180,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,266
+320-U1334C-19H-7-A,320,U1334,C,19,19-7,H,7,A,0,68,180,180.68,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,267
+320-U1334C-19H-CC-A,320,U1334,C,19,19-CC,H,CC,A,0,6,180.68,180.74,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,268
+320-U1334C-20H-1-A,320,U1334,C,20,20-1,H,1,A,0,150,180.5,182,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,269
+320-U1334C-20H-2-A,320,U1334,C,20,20-2,H,2,A,0,150,182,183.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,270
+320-U1334C-20H-3-A,320,U1334,C,20,20-3,H,3,A,0,150,183.5,185,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,271
+320-U1334C-20H-4-A,320,U1334,C,20,20-4,H,4,A,0,150,185,186.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,272
+320-U1334C-20H-5-A,320,U1334,C,20,20-5,H,5,A,0,150,186.5,188,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,273
+320-U1334C-20H-6-A,320,U1334,C,20,20-6,H,6,A,0,150,188,189.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,274
+320-U1334C-20H-7-A,320,U1334,C,20,20-7,H,7,A,0,48,189.5,189.98,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10GY 8/1,Black streaks are common,,,,,,275
+320-U1334C-21H-1-A,320,U1334,C,21,21-1,H,1,A,0,130,190,191.3,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,10Y 8/1,,,,,,,276
+320-U1334C-21H-1-A,320,U1334,C,21,21-1,H,1,A,130,150,191.3,191.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,277
+320-U1334C-21H-2-A,320,U1334,C,21,21-2,H,2,A,0,150,191.5,193,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,278
+320-U1334C-21H-3-A,320,U1334,C,21,21-3,H,3,A,0,150,193,194.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,279
+320-U1334C-21H-4-A,320,U1334,C,21,21-4,H,4,A,0,150,194.5,196,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,280
+320-U1334C-21H-5-A,320,U1334,C,21,21-5,H,5,A,0,150,196,197.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,281
+320-U1334C-21H-6-A,320,U1334,C,21,21-6,H,6,A,0,150,197.5,199,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,282
+320-U1334C-21H-7-A,320,U1334,C,21,21-7,H,7,A,0,69,199,199.69,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,283
+320-U1334C-21H-CC-A,320,U1334,C,21,21-CC,H,CC,A,0,24,199.69,199.93,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,284
+320-U1334C-22H-1-A,320,U1334,C,22,22-1,H,1,A,0,150,199.5,201,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,285
+320-U1334C-22H-2-A,320,U1334,C,22,22-2,H,2,A,0,150,201,202.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,286
+320-U1334C-22H-3-A,320,U1334,C,22,22-3,H,3,A,0,150,202.5,204,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,287
+320-U1334C-22H-4-A,320,U1334,C,22,22-4,H,4,A,0,150,204,205.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,288
+320-U1334C-22H-5-A,320,U1334,C,22,22-5,H,5,A,0,150,205.5,207,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,289
+320-U1334C-22H-6-A,320,U1334,C,22,22-6,H,6,A,0,150,207,208.5,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,290
+320-U1334C-22H-7-A,320,U1334,C,22,22-7,H,7,A,0,63,208.5,209.13,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,291
+320-U1334C-22H-CC-A,320,U1334,C,22,22-CC,H,CC,A,0,25,209.13,209.38,ooze [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil ooze,100,soft,5Y 8/2,,,,,,,292
+320-U1334C-23X-1-A,320,U1334,C,23,23-1,X,1,A,0,150,209,210.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,293
+320-U1334C-23X-2-A,320,U1334,C,23,23-2,X,2,A,0,150,210.5,212,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,294
+320-U1334C-23X-3-A,320,U1334,C,23,23-3,X,3,A,0,133,212,213.33,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,295
+320-U1334C-23X-CC-A,320,U1334,C,23,23-CC,X,CC,A,0,24,213.33,213.57,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,296
+320-U1334C-24X-1-A,320,U1334,C,24,24-1,X,1,A,0,150,214,215.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,297
+320-U1334C-24X-2-A,320,U1334,C,24,24-2,X,2,A,0,150,215.5,217,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,298
+320-U1334C-24X-3-A,320,U1334,C,24,24-3,X,3,A,0,150,217,218.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,299
+320-U1334C-24X-4-A,320,U1334,C,24,24-4,X,4,A,0,150,218.5,220,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,300
+320-U1334C-24X-5-A,320,U1334,C,24,24-5,X,5,A,0,150,220,221.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,301
+320-U1334C-24X-6-A,320,U1334,C,24,24-6,X,6,A,0,150,221.5,223,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,302
+320-U1334C-24X-7-A,320,U1334,C,24,24-7,X,7,A,0,49,223,223.49,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,303
+320-U1334C-24X-CC-A,320,U1334,C,24,24-CC,X,CC,A,0,24,223.49,223.73,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 8/3,,,,,,,304
+320-U1334C-25X-1-A,320,U1334,C,25,25-1,X,1,A,0,150,223.6,225.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,305
+320-U1334C-25X-1-A,320,U1334,C,25,25-1,X,1,A,0,150,223.6,225.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,306
+320-U1334C-25X-2-A,320,U1334,C,25,25-2,X,2,A,0,150,225.1,226.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,307
+320-U1334C-25X-2-A,320,U1334,C,25,25-2,X,2,A,0,150,225.1,226.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,308
+320-U1334C-25X-3-A,320,U1334,C,25,25-3,X,3,A,0,150,226.6,228.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,309
+320-U1334C-25X-3-A,320,U1334,C,25,25-3,X,3,A,0,150,226.6,228.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,310
+320-U1334C-25X-4-A,320,U1334,C,25,25-4,X,4,A,0,150,228.1,229.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,311
+320-U1334C-25X-4-A,320,U1334,C,25,25-4,X,4,A,0,150,228.1,229.6,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,312
+320-U1334C-25X-5-A,320,U1334,C,25,25-5,X,5,A,0,150,229.6,231.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,313
+320-U1334C-25X-5-A,320,U1334,C,25,25-5,X,5,A,0,150,229.6,231.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,314
+320-U1334C-25X-6-A,320,U1334,C,25,25-6,X,6,A,0,130,231.1,232.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,315
+320-U1334C-25X-6-A,320,U1334,C,25,25-6,X,6,A,0,130,231.1,232.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,316
+320-U1334C-25X-7-A,320,U1334,C,25,25-7,X,7,A,0,59,232.4,232.99,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,317
+320-U1334C-25X-7-A,320,U1334,C,25,25-7,X,7,A,0,59,232.4,232.99,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,318
+320-U1334C-25X-CC-A,320,U1334,C,25,25-CC,X,CC,A,0,32,232.99,233.31,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/4,,,,,,,319
+320-U1334C-25X-CC-A,320,U1334,C,25,25-CC,X,CC,A,0,32,232.99,233.31,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,60,firm,10YR 8/4,,,,,,,320
+320-U1334C-26X-1-A,320,U1334,C,26,26-1,X,1,A,0,150,233.2,234.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,321
+320-U1334C-26X-2-A,320,U1334,C,26,26-2,X,2,A,0,21,234.7,234.91,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,322
+320-U1334C-26X-2-A,320,U1334,C,26,26-2,X,2,A,21,150,234.91,236.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with diatoms,Nannofossil chalk with diatoms,100,firm,10YR 7/3,,,,,,,323
+320-U1334C-26X-3-A,320,U1334,C,26,26-3,X,3,A,0,150,236.2,237.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with diatoms,Nannofossil chalk with diatoms,100,firm,10YR 7/3,,,,,,,324
+320-U1334C-26X-4-A,320,U1334,C,26,26-4,X,4,A,0,33,237.7,238.03,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with diatoms,Nannofossil chalk with diatoms,100,firm,10YR 7/3,,,,,,,325
+320-U1334C-26X-4-A,320,U1334,C,26,26-4,X,4,A,33,150,238.03,239.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,326
+320-U1334C-26X-5-A,320,U1334,C,26,26-5,X,5,A,0,115,239.2,240.35,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,327
+320-U1334C-26X-CC-A,320,U1334,C,26,26-CC,X,CC,A,0,15,240.35,240.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,328
+320-U1334C-27X-1-A,320,U1334,C,27,27-1,X,1,A,0,150,239.2,240.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,329
+320-U1334C-27X-2-A,320,U1334,C,27,27-2,X,2,A,0,150,240.7,242.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,330
+320-U1334C-27X-3-A,320,U1334,C,27,27-3,X,3,A,0,150,242.2,243.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,331
+320-U1334C-27X-4-A,320,U1334,C,27,27-4,X,4,A,0,150,243.7,245.2,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,332
+320-U1334C-27X-5-A,320,U1334,C,27,27-5,X,5,A,0,150,245.2,246.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,333
+320-U1334C-27X-6-A,320,U1334,C,27,27-6,X,6,A,0,96,246.7,247.66,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 7/3,,,,,,,334
+320-U1334C-27X-6-A,320,U1334,C,27,27-6,X,6,A,96,107,247.66,247.77,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 6/3,,,,,,,335
+320-U1334C-27X-CC-A,320,U1334,C,27,27-CC,X,CC,A,0,1,247.77,247.78,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 6/3,,,,,,,336
+320-U1334C-27X-CC-A,320,U1334,C,27,27-CC,X,CC,A,1,33,247.78,248.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 5/4,,,,,,,337
+320-U1334C-28X-1-A,320,U1334,C,28,28-1,X,1,A,0,128,248.8,250.08,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay,Nannofossil chalk with clay,100,firm,10YR 5/3,,,,,,,338
+320-U1334C-28X-1-A,320,U1334,C,28,28-1,X,1,A,128,150,250.08,250.3,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,,339
+320-U1334C-28X-2-A,320,U1334,C,28,28-2,X,2,A,0,78,250.3,251.08,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,,340
+320-U1334C-28X-2-A,320,U1334,C,28,28-2,X,2,A,78,150,251.08,251.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 5/3,,,,,,,341
+320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,0,33,251.8,252.13,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 5/3,,,,,,,342
+320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,33,73,252.13,252.53,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,,343
+320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,73,100,252.53,252.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,,344
+320-U1334C-28X-3-A,320,U1334,C,28,28-3,X,3,A,100,150,252.8,253.3,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,,345
+320-U1334C-28X-4-A,320,U1334,C,28,28-4,X,4,A,0,110,253.3,254.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 3/2,,,,,,,346
+320-U1334C-28X-4-A,320,U1334,C,28,28-4,X,4,A,110,150,254.4,254.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,,347
+320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,0,3,254.8,254.83,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,,348
+320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,3,54,254.83,255.34,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 2/2,,,,,,,349
+320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,54,90,255.34,255.7,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,,350
+320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,90,130,255.7,256.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,100,firm,10YR 2/2,,,,,,,351
+320-U1334C-28X-5-A,320,U1334,C,28,28-5,X,5,A,130,150,256.1,256.3,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,,352
+320-U1334C-28X-6-A,320,U1334,C,28,28-6,X,6,A,0,80,256.3,257.1,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with clay and radiolarians,Nannofossil chalk with clay and radiolarians,100,firm,10YR 4/3,,,,,,,353
+320-U1334C-28X-6-A,320,U1334,C,28,28-6,X,6,A,80,121,257.1,257.51,Claystone [MMK88],"Mazullo, Meyer & Kidd, 1988",,with radiolarians,Claystone with radiolarians,100,firm,10YR 2/2,,,,,,,354
+320-U1334C-28X-6-A,320,U1334,C,28,28-6,X,6,A,121,150,257.51,257.8,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 4/3,,,,,,,355
+320-U1334C-28X-7-A,320,U1334,C,28,28-7,X,7,A,0,41,257.8,258.21,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 4/3,,,,,,,356
+320-U1334C-28X-CC-A,320,U1334,C,28,28-CC,X,CC,A,0,38,258.21,258.59,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,100,firm,10YR 4/3,,,,,,,357
+320-U1334C-29X-1-A,320,U1334,C,29,29-1,X,1,A,0,150,258.4,259.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,358
+320-U1334C-29X-1-A,320,U1334,C,29,29-1,X,1,A,0,150,258.4,259.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,359
+320-U1334C-29X-2-A,320,U1334,C,29,29-2,X,2,A,0,150,259.9,261.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,360
+320-U1334C-29X-2-A,320,U1334,C,29,29-2,X,2,A,0,150,259.9,261.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,361
+320-U1334C-29X-3-A,320,U1334,C,29,29-3,X,3,A,0,150,261.4,262.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,362
+320-U1334C-29X-3-A,320,U1334,C,29,29-3,X,3,A,0,150,261.4,262.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,363
+320-U1334C-29X-4-A,320,U1334,C,29,29-4,X,4,A,0,150,262.9,264.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,364
+320-U1334C-29X-4-A,320,U1334,C,29,29-4,X,4,A,0,150,262.9,264.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,365
+320-U1334C-29X-5-A,320,U1334,C,29,29-5,X,5,A,0,150,264.4,265.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,366
+320-U1334C-29X-5-A,320,U1334,C,29,29-5,X,5,A,0,150,264.4,265.9,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,367
+320-U1334C-29X-6-A,320,U1334,C,29,29-6,X,6,A,0,150,265.9,267.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,368
+320-U1334C-29X-6-A,320,U1334,C,29,29-6,X,6,A,0,150,265.9,267.4,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,369
+320-U1334C-29X-7-A,320,U1334,C,29,29-7,X,7,A,0,41,267.4,267.81,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,370
+320-U1334C-29X-7-A,320,U1334,C,29,29-7,X,7,A,0,41,267.4,267.81,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,371
+320-U1334C-29X-CC-A,320,U1334,C,29,29-CC,X,CC,A,0,25,267.81,268.06,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Clayey nannofossil,with radiolarians,Clayey nannofossil chalk with radiolarians,30,firm,10YR 3/4,,,,,,,372
+320-U1334C-29X-CC-A,320,U1334,C,29,29-CC,X,CC,A,0,25,267.81,268.06,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,70,firm,10YR 5/4,,,,,,,373
+320-U1334C-30X-1-A,320,U1334,C,30,30-1,X,1,A,0,150,268,269.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,374
+320-U1334C-30X-1-A,320,U1334,C,30,30-1,X,1,A,0,150,268,269.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,375
+320-U1334C-30X-2-A,320,U1334,C,30,30-2,X,2,A,0,150,269.5,271,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,376
+320-U1334C-30X-2-A,320,U1334,C,30,30-2,X,2,A,0,150,269.5,271,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,377
+320-U1334C-30X-3-A,320,U1334,C,30,30-3,X,3,A,0,150,271,272.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,378
+320-U1334C-30X-3-A,320,U1334,C,30,30-3,X,3,A,0,150,271,272.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,379
+320-U1334C-30X-4-A,320,U1334,C,30,30-4,X,4,A,0,150,272.5,274,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,380
+320-U1334C-30X-4-A,320,U1334,C,30,30-4,X,4,A,0,150,272.5,274,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,381
+320-U1334C-30X-5-A,320,U1334,C,30,30-5,X,5,A,0,150,274,275.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,382
+320-U1334C-30X-5-A,320,U1334,C,30,30-5,X,5,A,0,150,274,275.5,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,383
+320-U1334C-30X-6-A,320,U1334,C,30,30-6,X,6,A,0,150,275.5,277,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,384
+320-U1334C-30X-6-A,320,U1334,C,30,30-6,X,6,A,0,150,275.5,277,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,385
+320-U1334C-30X-7-A,320,U1334,C,30,30-7,X,7,A,0,48,277,277.48,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,386
+320-U1334C-30X-7-A,320,U1334,C,30,30-7,X,7,A,0,48,277,277.48,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,387
+320-U1334C-30X-CC-A,320,U1334,C,30,30-CC,X,CC,A,0,44,277.48,277.92,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,with radiolarians,Nannofossil chalk with radiolarians,60,firm,10YR 4/3,,,,,,,388
+320-U1334C-30X-CC-A,320,U1334,C,30,30-CC,X,CC,A,0,44,277.48,277.92,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Nannofossil,,Nannofossil chalk,40,firm,10YR 6/3,Two beds of very pale brown nannofossil chalk with micrite (6-8 cm thick) with sharp basal contacts are observed in 28-43 cm in section 7. These beds would be correlated to the top of 320-U1334B-30X-2.,,,,,,389
+320-U1334C-31X-1-A,320,U1334,C,31,31-1,X,1,A,0,131,277.7,279.01,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Micrite nannofossil,,Micrite nannofossil chalk,100,firm,10YR 6/4,,,,,,,390
+320-U1334C-31X-2-A,320,U1334,C,31,31-2,X,2,A,0,40,279.01,279.41,chalk [MMK88],"Mazullo, Meyer & Kidd, 1988",Micrite nannofossil,,Micrite nannofossil chalk,100,firm,10YR 6/4,,,,,,,391
+320-U1334C-31X-2-A,320,U1334,C,31,31-2,X,2,A,40,73,279.41,279.74,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,100,hard,10YR 8/1,,,,,,,392
+320-U1334C-31X-CC-A,320,U1334,C,31,31-CC,X,CC,A,0,37,279.74,280.11,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,100,hard,10YR 8/1,,,,,,,393
+320-U1334C-32X-CC-A,320,U1334,C,32,32-CC,X,CC,A,0,43,279.7,280.13,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,100,hard,10YR 8/1,,,,,,,394
+320-U1334C-32X-CC-A,320,U1334,C,32,32-CC,X,CC,A,43,49,280.13,280.19,basalt [IUGS-S78&79],"International Union of Geological Sciences-Streckeisen, 1978 & 1979",,,basalt,20,hard,,angular fragments 10 cm-sized. ,,,,,,395
+320-U1334C-32X-CC-A,320,U1334,C,32,32-CC,X,CC,A,43,49,280.13,280.19,limestone [MMK88],"Mazullo, Meyer & Kidd, 1988",Micritic,,Micritic limestone,80,hard,,,,,,,,396

@@ -1,14 +1,14 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,LITHOLOGY NAME,lithology_classification,Lithology [%],GrainSizemaximum(mm),Lithification,COMMENT,,,,,,,,,,,,,,Exp,Site,Hole,Core,Type,Section,A/W,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Name
-No data this hole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Minor Lithology Suffix,LITHOLOGY NAME,lithology_classification,Lithology [%],GrainSizemaximum(mm),Lithification,COMMENT,,,,,,,,,,,,,,Exp,Site,Hole,Core,Type,Section,A/W,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Name,row_index
+No data this hole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12

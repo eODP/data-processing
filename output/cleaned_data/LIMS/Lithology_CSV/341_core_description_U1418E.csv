@@ -1,65 +1,65 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
-341-U1418E-2H-1-A,0,108,78,79.08,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,"black mottling, with bands @ 88, 93, 99, 103cm",gradational contact,,,,,341,U1418,E,2,H,1,A,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Prefix,Lithology Principal Name,Lithology Suffix,MAJ Lith. prefix+name+suffix [read only],Amount of ash in lithology,Amount of ash in lithology rank [read only],Sed. structures,MAJ Lith. color,Bioturbation intensity,Bioturbation intensity rank [read only],Clast abundance,Number of clasts (>2mm),Clast 1 igneous -  grain size,Clast 1 igneous -  roundness,Clast 2 sediment - grain size,Clast 2 sediment - roundness,Clast 3 metamorphic - grain size,Clast 3 metamorphic - roundness,Macrofossil,Diagenetic constituent,Diagenetic constituent composition,General interval comment,Bottom contact or boundary type,Bottom contact geometry,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name,row_index
+341-U1418E-2H-1-A,0,108,78,79.08,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,"black mottling, with bands @ 88, 93, 99, 103cm",gradational contact,,,,,341,U1418,E,2,H,1,A,,,,0
 341-U1418E-2H-1-A,108,150,79.08,79.5,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,"4 silt laminae;
-black mottling, with bands @ 109, 117cm",,,,,,341,U1418,E,2,H,1,A,,,
+black mottling, with bands @ 109, 117cm",,,,,,341,U1418,E,2,H,1,A,,,,1
 341-U1418E-2H-2-A,0,62,79.5,80.12,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],,,,,,,,,,,"faint greenish gray color bands;
 4 silt laminae;
 black mottling;
-granule clasts",gradational contact,,,,,341,U1418,E,2,H,2,A,,,
+granule clasts",gradational contact,,,,,341,U1418,E,2,H,2,A,,,,2
 341-U1418E-2H-2-A,62,150,80.12,81,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),,,present [A79],1,,,,,,,,,,"faint greenish gray color bands;
 62-110cm: black mottling;
-granule clasts",,,,,,341,U1418,E,2,H,2,A,,,
+granule clasts",,,,,,341,U1418,E,2,H,2,A,,,,3
 341-U1418E-2H-3-A,0,94,81,81.94,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,present [A79],2,,,,,pebble [W22_2],subangular,,,,"5 silt laminae;
 black mottling;
 91-92cm: 1.5cm gabbro;
-granule clasts",gradational contact,,,,,341,U1418,E,2,H,3,A,,,
-341-U1418E-2H-3-A,94,127,81.94,82.27,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,,,,,,,,,gradational contact,,,,,341,U1418,E,2,H,3,A,,,
-341-U1418E-2H-3-A,127,137,82.27,82.37,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,"5 silt laminae, with 5mm to 5cm thick mud intervals",gradational contact,,,,,341,U1418,E,2,H,3,A,,,
-341-U1418E-2H-3-A,137,144,82.37,82.44,muddy [Leg339],silt [Leg210],,muddy  silt ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,2,H,3,A,,,
-341-U1418E-2H-3-A,144,147,82.44,82.47,,sand [Leg210],with silt [Leg339],sand  with silt ,,,,N 3 (very dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,2,H,3,A,,,
-341-U1418E-2H-3-A,147,150,82.47,82.5,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,2,H,3,A,,,
-341-U1418E-2H-4-A,0,2,82.5,82.52,,sand [Leg210],,sand ,,,,10YR 3/2 (very dark grayish brown),,,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,4,A,,,
-341-U1418E-2H-4-A,2,80,82.52,83.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1,,,granule [W22_2],subrounded,,,,,,1 granule at 48 cm,,,,,,341,U1418,E,2,H,4,A,,,
-341-U1418E-2H-4-A,80,150,83.3,84,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,pebble [W22_2],subrounded,,,,,,1 pebble at 82 cm,,,,,,341,U1418,E,2,H,4,A,,,
-341-U1418E-2H-5-A,0,49,84,84.49,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,granule [W22_2],rounded,,,,1 granule at 13 cm,,,,,,341,U1418,E,2,H,5,A,,,
-341-U1418E-2H-5-A,49,64,84.49,84.64,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"7 silt laminae, mud 3 cm or less",,,,,,341,U1418,E,2,H,5,A,,,
-341-U1418E-2H-5-A,64,66,84.64,84.66,,sand [Leg210],,sand ,,,,N 3 (very dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,5,A,,,
-341-U1418E-2H-5-A,66,150,84.66,85.5,diatom bearing,mud [Leg210],with silt [Leg339],diatom bearing mud  with silt ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,granule [W22_2],rounded,pebble [W22_2],subrounded,,,,"granule at 100 cm, pebble at 140 cm",,,,,,341,U1418,E,2,H,5,A,,,
-341-U1418E-2H-6-A,0,111,85.5,86.61,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],4,,,granule [W22_2],rounded,pebble [W22_2],subrounded,,,,"elongate pebble at 25 cm, granules at 55, 83, 94 cm",,,,,,341,U1418,E,2,H,6,A,,,
-341-U1418E-2H-7-A,0,60,86.61,87.21,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,7,A,,,
-341-U1418E-2H-CC-A,0,12,87.21,87.33,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,CC,A,,,
-341-U1418E-2H-CC-A,12,17,87.33,87.38,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1418,E,2,H,CC,A,,,
-341-U1418E-4H-1-A,0,8,90.5,90.58,,mud [Leg210],,mud ,,,,5Y 4/1 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,4,H,1,A,,,
+granule clasts",gradational contact,,,,,341,U1418,E,2,H,3,A,,,,4
+341-U1418E-2H-3-A,94,127,81.94,82.27,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,,,,,,,,,gradational contact,,,,,341,U1418,E,2,H,3,A,,,,5
+341-U1418E-2H-3-A,127,137,82.27,82.37,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,"5 silt laminae, with 5mm to 5cm thick mud intervals",gradational contact,,,,,341,U1418,E,2,H,3,A,,,,6
+341-U1418E-2H-3-A,137,144,82.37,82.44,muddy [Leg339],silt [Leg210],,muddy  silt ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,2,H,3,A,,,,7
+341-U1418E-2H-3-A,144,147,82.44,82.47,,sand [Leg210],with silt [Leg339],sand  with silt ,,,,N 3 (very dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,2,H,3,A,,,,8
+341-U1418E-2H-3-A,147,150,82.47,82.5,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,2,H,3,A,,,,9
+341-U1418E-2H-4-A,0,2,82.5,82.52,,sand [Leg210],,sand ,,,,10YR 3/2 (very dark grayish brown),,,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,4,A,,,,10
+341-U1418E-2H-4-A,2,80,82.52,83.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1,,,granule [W22_2],subrounded,,,,,,1 granule at 48 cm,,,,,,341,U1418,E,2,H,4,A,,,,11
+341-U1418E-2H-4-A,80,150,83.3,84,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,10Y 4/1 (dark greenish gray),,,present [A79],1,,,pebble [W22_2],subrounded,,,,,,1 pebble at 82 cm,,,,,,341,U1418,E,2,H,4,A,,,,12
+341-U1418E-2H-5-A,0,49,84,84.49,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,granule [W22_2],rounded,,,,1 granule at 13 cm,,,,,,341,U1418,E,2,H,5,A,,,,13
+341-U1418E-2H-5-A,49,64,84.49,84.64,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"7 silt laminae, mud 3 cm or less",,,,,,341,U1418,E,2,H,5,A,,,,14
+341-U1418E-2H-5-A,64,66,84.64,84.66,,sand [Leg210],,sand ,,,,N 3 (very dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,5,A,,,,15
+341-U1418E-2H-5-A,66,150,84.66,85.5,diatom bearing,mud [Leg210],with silt [Leg339],diatom bearing mud  with silt ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,granule [W22_2],rounded,pebble [W22_2],subrounded,,,,"granule at 100 cm, pebble at 140 cm",,,,,,341,U1418,E,2,H,5,A,,,,16
+341-U1418E-2H-6-A,0,111,85.5,86.61,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],4,,,granule [W22_2],rounded,pebble [W22_2],subrounded,,,,"elongate pebble at 25 cm, granules at 55, 83, 94 cm",,,,,,341,U1418,E,2,H,6,A,,,,17
+341-U1418E-2H-7-A,0,60,86.61,87.21,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,7,A,,,,18
+341-U1418E-2H-CC-A,0,12,87.21,87.33,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,2,H,CC,A,,,,19
+341-U1418E-2H-CC-A,12,17,87.33,87.38,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1418,E,2,H,CC,A,,,,20
+341-U1418E-4H-1-A,0,8,90.5,90.58,,mud [Leg210],,mud ,,,,5Y 4/1 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,4,H,1,A,,,,21
 341-U1418E-4H-1-A,8,150,90.58,92,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),,,present [A79],1,,,,,,,,,,"greenish gray color bands;
-silt patches @ 78, 100-104, 138cm",,,,,,341,U1418,E,4,H,1,A,,,
-341-U1418E-4H-2-A,0,61,92,92.61,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,
-341-U1418E-4H-2-A,61,62,92.61,92.62,,sand [Leg210],,sand ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,extremely disturbed,,,,,,341,U1418,E,4,H,2,A,,,
-341-U1418E-4H-2-A,62,68,92.62,92.68,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,
-341-U1418E-4H-2-A,68,107,92.68,93.07,,mud [Leg210],,mud ,,,,5Y 4/1 (dark gray),,,present [A79],2,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,
-341-U1418E-4H-2-A,107,150,93.07,93.5,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],6,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,
-341-U1418E-4H-3-A,0,150,93.5,95,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],3,,,granule [W22_2],subrounded,,,,,,"faintly laminated N 4 with N 3; 3 granules, siltstone, at 48, and 2 at 59 cm",,,,,,341,U1418,E,4,H,3,A,,,
-341-U1418E-4H-4-A,0,100,95,96,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,faintly laminated N 4 with N 3,,,,,,341,U1418,E,4,H,4,A,,,
-341-U1418E-4H-5-A,0,64,96,96.64,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,4,H,5,A,,,
-341-U1418E-4H-CC-A,0,21,96.64,96.85,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,4,H,CC,A,,,
+silt patches @ 78, 100-104, 138cm",,,,,,341,U1418,E,4,H,1,A,,,,22
+341-U1418E-4H-2-A,0,61,92,92.61,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,,23
+341-U1418E-4H-2-A,61,62,92.61,92.62,,sand [Leg210],,sand ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,extremely disturbed,,,,,,341,U1418,E,4,H,2,A,,,,24
+341-U1418E-4H-2-A,62,68,92.62,92.68,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,,25
+341-U1418E-4H-2-A,68,107,92.68,93.07,,mud [Leg210],,mud ,,,,5Y 4/1 (dark gray),,,present [A79],2,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,,26
+341-U1418E-4H-2-A,107,150,93.07,93.5,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,present [A79],6,,,,,,,,,,,,,,,,341,U1418,E,4,H,2,A,,,,27
+341-U1418E-4H-3-A,0,150,93.5,95,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],3,,,granule [W22_2],subrounded,,,,,,"faintly laminated N 4 with N 3; 3 granules, siltstone, at 48, and 2 at 59 cm",,,,,,341,U1418,E,4,H,3,A,,,,28
+341-U1418E-4H-4-A,0,100,95,96,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,faintly laminated N 4 with N 3,,,,,,341,U1418,E,4,H,4,A,,,,29
+341-U1418E-4H-5-A,0,64,96,96.64,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,4,H,5,A,,,,30
+341-U1418E-4H-CC-A,0,21,96.64,96.85,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,4,H,CC,A,,,,31
 341-U1418E-5H-1-A,0,150,96.8,98.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],2,,,,,pebble [W22_2],subangular,,,,"greenish gray color bands (1-2cm thick);
 37-38cm: 1.5cm quartzite;
-silt @ 7, 15, 69, 80, 108, 109, 141cm",,,,,,341,U1418,E,5,H,1,A,,,
+silt @ 7, 15, 69, 80, 108, 109, 141cm",,,,,,341,U1418,E,5,H,1,A,,,,32
 341-U1418E-5H-2-A,0,70,98.3,99,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,absent [A79],,,,,,,,,,,"faint greenish gray color bands;
-13 silt laminae (some N 5), with 5mm to 8cm mud intervals",,,,,,341,U1418,E,5,H,2,A,,,
-341-U1418E-5H-2-A,70,139,99,99.69,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],2,,,,,,,,,,"silt @ 89, 14, 117cm",gradational contact,,,,,341,U1418,E,5,H,2,A,,,
-341-U1418E-5H-2-A,139,141,99.69,99.71,,sand [Leg210],,sand ,,,normal grading,N 3 (very dark gray),,,absent [A79],,,,,,,,,,,,,irregular,,,,341,U1418,E,5,H,2,A,,,
-341-U1418E-5H-2-A,141,150,99.71,99.8,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,5,H,2,A,,,
+13 silt laminae (some N 5), with 5mm to 8cm mud intervals",,,,,,341,U1418,E,5,H,2,A,,,,33
+341-U1418E-5H-2-A,70,139,99,99.69,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],2,,,,,,,,,,"silt @ 89, 14, 117cm",gradational contact,,,,,341,U1418,E,5,H,2,A,,,,34
+341-U1418E-5H-2-A,139,141,99.69,99.71,,sand [Leg210],,sand ,,,normal grading,N 3 (very dark gray),,,absent [A79],,,,,,,,,,,,,irregular,,,,341,U1418,E,5,H,2,A,,,,35
+341-U1418E-5H-2-A,141,150,99.71,99.8,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,absent [A79],,,,,,,,,,,,,,,,,341,U1418,E,5,H,2,A,,,,36
 341-U1418E-5H-3-A,0,52,99.8,100.32,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,present [A79],1,,,,,,,,,,"greenish gray color bands;
-10 silt lamina, with 5mm to 12cm mud intervals",,,,,,341,U1418,E,5,H,3,A,,,
-341-U1418E-5H-3-A,52,150,100.32,101.3,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),,,present [A79],3,,,,,,,,,,greenish gray color bands,,,,,,341,U1418,E,5,H,3,A,,,
+10 silt lamina, with 5mm to 12cm mud intervals",,,,,,341,U1418,E,5,H,3,A,,,,37
+341-U1418E-5H-3-A,52,150,100.32,101.3,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),,,present [A79],3,,,,,,,,,,greenish gray color bands,,,,,,341,U1418,E,5,H,3,A,,,,38
 341-U1418E-5H-4-A,0,150,101.3,102.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],2,,,,,,,,,,"greenish gray color bands;
-74-80cm: black mottling",,,,,,341,U1418,E,5,H,4,A,,,
-341-U1418E-5H-5-A,0,150,102.8,104.3,calcareous bearing,mud [Leg210],with silt [Leg339],calcareous bearing mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],3,,,pebble [W22_2],subrounded,granule [W22_2],subrounded,,,,"faintly laminated dark gray (N 4) with very dark gray (5Y 3/1); 2 granules, at 70 and 100 cm; sandstone pebble at 138 cm;",,,,,,341,U1418,E,5,H,5,A,,,
-341-U1418E-5H-6-A,0,100,104.3,105.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],3,,,granule [W22_2],subrounded,,,,,,"faintly laminated dark gray (N 4) with very dark gray (5Y 3/1); 3 granules, at 20, 56 and 91 cm; ",,,,,,341,U1418,E,5,H,6,A,,,
-341-U1418E-5H-7-A,0,99,105.3,106.29,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],1,,,granule [W22_2],subrounded,,,,,,faintly laminated dark gray (N 4) with very dark gray (5Y 3/1); granule at 55 cm; 10 silt laminae,,,,,,341,U1418,E,5,H,7,A,,,
-341-U1418E-5H-CC-A,0,13,106.29,106.42,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,3 silt laminae,,,,,,341,U1418,E,5,H,CC,A,,,
-341-U1418E-5H-CC-A,13,18,106.42,106.47,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1418,E,5,H,CC,A,,,
-341-U1418E-6H-1-A,0,72,106.3,107.02,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,- heavily disturbed (mousselike),,,,,,341,U1418,E,6,H,1,A,,,
+74-80cm: black mottling",,,,,,341,U1418,E,5,H,4,A,,,,39
+341-U1418E-5H-5-A,0,150,102.8,104.3,calcareous bearing,mud [Leg210],with silt [Leg339],calcareous bearing mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],3,,,pebble [W22_2],subrounded,granule [W22_2],subrounded,,,,"faintly laminated dark gray (N 4) with very dark gray (5Y 3/1); 2 granules, at 70 and 100 cm; sandstone pebble at 138 cm;",,,,,,341,U1418,E,5,H,5,A,,,,40
+341-U1418E-5H-6-A,0,100,104.3,105.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],3,,,granule [W22_2],subrounded,,,,,,"faintly laminated dark gray (N 4) with very dark gray (5Y 3/1); 3 granules, at 20, 56 and 91 cm; ",,,,,,341,U1418,E,5,H,6,A,,,,41
+341-U1418E-5H-7-A,0,99,105.3,106.29,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],1,,,granule [W22_2],subrounded,,,,,,faintly laminated dark gray (N 4) with very dark gray (5Y 3/1); granule at 55 cm; 10 silt laminae,,,,,,341,U1418,E,5,H,7,A,,,,42
+341-U1418E-5H-CC-A,0,13,106.29,106.42,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,3 silt laminae,,,,,,341,U1418,E,5,H,CC,A,,,,43
+341-U1418E-5H-CC-A,13,18,106.42,106.47,,,,,,,,,,,,,,,,,,,,,,PAL,,,,,,341,U1418,E,5,H,CC,A,,,,44
+341-U1418E-6H-1-A,0,72,106.3,107.02,,mud [Leg210],,mud ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,- heavily disturbed (mousselike),,,,,,341,U1418,E,6,H,1,A,,,,45
 341-U1418E-6H-1-A,72,150,107.02,107.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],8,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - few black mottles (<2 mm)
@@ -73,9 +73,9 @@ silt @ 7, 15, 69, 80, 108, 109, 141cm",,,,,,341,U1418,E,5,H,1,A,,,
 - spacing: ~1.5 cm - ~17 cm
 - sharp lower boundaries
 - graded and massive
-- most laminae lighter than matrix",,,,,,341,U1418,E,6,H,1,A,,,
-341-U1418E-6H-2-A,0,2.5,107.8,107.825,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,sharp contact,,,,,341,U1418,E,6,H,2,A,,,
-341-U1418E-6H-2-A,2.5,7,107.825,107.87,,sand [Leg210],,sand ,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,- massive medium to fine sand (maybe graded),sharp contact,erosive,,,,341,U1418,E,6,H,2,A,,,
+- most laminae lighter than matrix",,,,,,341,U1418,E,6,H,1,A,,,,46
+341-U1418E-6H-2-A,0,2.5,107.8,107.825,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,,sharp contact,,,,,341,U1418,E,6,H,2,A,,,,47
+341-U1418E-6H-2-A,2.5,7,107.825,107.87,,sand [Leg210],,sand ,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,- massive medium to fine sand (maybe graded),sharp contact,erosive,,,,341,U1418,E,6,H,2,A,,,,48
 341-U1418E-6H-2-A,7,150,107.87,109.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),,,present [A79],7,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 7 lonestones
@@ -90,7 +90,7 @@ silt @ 7, 15, 69, 80, 108, 109, 141cm",,,,,,341,U1418,E,5,H,1,A,,,
 - spacing: ~4 mm - ~30 cm
 - sharp lower boundaries
 - graded and massive
-",,,,,,341,U1418,E,6,H,2,A,,,
+",,,,,,341,U1418,E,6,H,2,A,,,,49
 341-U1418E-6H-3-A,0,110,109.3,110.4,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),,,present [A79],6,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 6 lonestones
@@ -102,18 +102,18 @@ silt @ 7, 15, 69, 80, 108, 109, 141cm",,,,,,341,U1418,E,5,H,1,A,,,
 - number: ~15
 - spacing: ~3 mm - ~29 cm
 - sharp lower boundaries
-- massive",,,,,,341,U1418,E,6,H,3,A,,,
+- massive",,,,,,341,U1418,E,6,H,3,A,,,,50
 341-U1418E-6H-3-A,110,150,110.4,110.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,present [A79],3,,,,,,,,,,"- mud with occasional silt laminae
 - 4 discontinuous laminae; <2 mm; spacing: 5 mm - ~18 cm
 - 1 pebble and 2 granules
 
-112.5-115: (meta) siltstone? with abundant small striae (<5 mm) + quartz vein",,,,,,341,U1418,E,6,H,3,A,,,
-341-U1418E-6H-4-A,0,150,110.8,112.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],6,,,,,,,,,,clayey mud with often discontinuous 16 silt laminae (0.3-0.8 cm); few black mottles occur,,,,,,341,U1418,E,6,H,4,A,,,
-341-U1418E-6H-5-A,0,120,112.3,113.5,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],5,,,,,,,,,,clayey mud with often discontinuous 12 silt laminae (0.6 cm); few black mottles occur,,,,,,341,U1418,E,6,H,5,A,,,
-341-U1418E-6H-5-A,120,150,113.5,113.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,present [A79],2,,,,,,,,,,clayey mud interbedded with often discontinuous silt laminae (9: 0.3-0.8 cm),,,,,,341,U1418,E,6,H,5,A,,,
-341-U1418E-6H-6-A,0,141,113.8,115.21,,interbedded silt(stone) and mud(stone) [McKW53],with sandy silt [Leg339],interbedded silt(stone) and mud(stone)  with sandy silt ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,"clayey mud interbedded with often discontinuous 32 silt laminae (0.3-0.6 cm), thicker laminae in the middle of this section may include muddy fine sand; color banding is very slight",,,,,,341,U1418,E,6,H,6,A,,,
-341-U1418E-6H-CC-A,0,29,115.21,115.5,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,clayey mud interbedded with often discontinuous 7 silt laminae (0.6 cm),,,,,,341,U1418,E,6,H,CC,A,,,
-341-U1418E-6H-CC-A,29,34,115.5,115.55,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1418,E,6,H,CC,A,,,
+112.5-115: (meta) siltstone? with abundant small striae (<5 mm) + quartz vein",,,,,,341,U1418,E,6,H,3,A,,,,51
+341-U1418E-6H-4-A,0,150,110.8,112.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],6,,,,,,,,,,clayey mud with often discontinuous 16 silt laminae (0.3-0.8 cm); few black mottles occur,,,,,,341,U1418,E,6,H,4,A,,,,52
+341-U1418E-6H-5-A,0,120,112.3,113.5,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),,,present [A79],5,,,,,,,,,,clayey mud with often discontinuous 12 silt laminae (0.6 cm); few black mottles occur,,,,,,341,U1418,E,6,H,5,A,,,,53
+341-U1418E-6H-5-A,120,150,113.5,113.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,present [A79],2,,,,,,,,,,clayey mud interbedded with often discontinuous silt laminae (9: 0.3-0.8 cm),,,,,,341,U1418,E,6,H,5,A,,,,54
+341-U1418E-6H-6-A,0,141,113.8,115.21,,interbedded silt(stone) and mud(stone) [McKW53],with sandy silt [Leg339],interbedded silt(stone) and mud(stone)  with sandy silt ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,"clayey mud interbedded with often discontinuous 32 silt laminae (0.3-0.6 cm), thicker laminae in the middle of this section may include muddy fine sand; color banding is very slight",,,,,,341,U1418,E,6,H,6,A,,,,55
+341-U1418E-6H-CC-A,0,29,115.21,115.5,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,clayey mud interbedded with often discontinuous 7 silt laminae (0.6 cm),,,,,,341,U1418,E,6,H,CC,A,,,,56
+341-U1418E-6H-CC-A,29,34,115.5,115.55,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1418,E,6,H,CC,A,,,,57
 341-U1418E-7H-1-A,0,150,115.8,117.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],8,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (<5 mm)
@@ -129,7 +129,7 @@ small gas cracks (<1 cm wide and ~1 mm high) below 120
 - spacing: 1 mm (at 36.5 cm) - ~14 cm
 - sharp lower boundaries
 - graded and massive
-",,,,,,341,U1418,E,7,H,1,A,,,
+",,,,,,341,U1418,E,7,H,1,A,,,,58
 341-U1418E-7H-2-A,0,150,117.3,118.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],4,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (<5 mm)
@@ -145,7 +145,7 @@ small gas cracks (<1 cm wide and ~1 mm high)
 - spacing: 2 mm - ~22 cm
 - sharp lower boundaries
 - graded and massive
-",,,,,,341,U1418,E,7,H,2,A,,,
+",,,,,,341,U1418,E,7,H,2,A,,,,59
 341-U1418E-7H-3-A,0,136,118.8,120.16,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (<5 mm)
@@ -161,10 +161,10 @@ small gas cracks (<1 cm wide and ~1 mm high)
 - spacing: ~3 mm - ~20 cm
 - sharp lower boundaries
 - graded and massive
-",sharp contact,irregular,,,,341,U1418,E,7,H,3,A,,,
-341-U1418E-7H-3-A,136,138,120.16,120.18,,sand [Leg210],,sand ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"- fine to very fine, graded sand with erosive lower and sharp upper boundary",sharp contact,erosive,,,,341,U1418,E,7,H,3,A,,,
+",sharp contact,irregular,,,,341,U1418,E,7,H,3,A,,,,60
+341-U1418E-7H-3-A,136,138,120.16,120.18,,sand [Leg210],,sand ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"- fine to very fine, graded sand with erosive lower and sharp upper boundary",sharp contact,erosive,,,,341,U1418,E,7,H,3,A,,,,61
 341-U1418E-7H-3-A,138,150,120.18,120.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,"- for details see interval 0-136 cm
-- one silt lamina",,,,,,341,U1418,E,7,H,3,A,,,
+- one silt lamina",,,,,,341,U1418,E,7,H,3,A,,,,62
 341-U1418E-7H-4-A,0,150,120.3,121.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (<5 mm); about 10 mottles with diameter >5 mm
@@ -183,12 +183,12 @@ small gas cracks (<1 cm wide and ~1 mm high)
 
 - silt bed
 - between 18.5-20.5
-- erosive lower boundary",,,,,,341,U1418,E,7,H,4,A,,,
-341-U1418E-7H-5-A,0,150,121.8,123.3,,interbedded silt(stone) and mud(stone) [McKW53],with biosilica [Leg339],interbedded silt(stone) and mud(stone)  with biosilica ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,mud with diatom and spicule fragments interbedded with 34 thin (0.2 - 1 cm) silt laminae,,,,,,341,U1418,E,7,H,5,A,,,
-341-U1418E-7H-6-A,0,112,123.3,124.42,,interbedded silt(stone) and mud(stone) [McKW53],with biosilica [Leg339],interbedded silt(stone) and mud(stone)  with biosilica ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,mud with diatom and spicule fragments interbedded with 21 thin (0.3 - 1 cm) silt laminae,,,,,,341,U1418,E,7,H,6,A,,,
-341-U1418E-7H-6-A,112,136,124.42,124.66,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,7,H,6,A,,,
-341-U1418E-7H-7-A,0,59,124.66,125.25,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,clayey mud interbedded with 10 thin (0.5 cm) silt laminae; high drilling disturbance between 15 and 54 cm (liner not completely filled),,,,,,341,U1418,E,7,H,7,A,,,
-341-U1418E-7H-CC-A,0,28,125.25,125.53,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,clayey mud interbedded with 5 thin (0.3 cm) silt laminae,,,,,,341,U1418,E,7,H,CC,A,,,
+- erosive lower boundary",,,,,,341,U1418,E,7,H,4,A,,,,63
+341-U1418E-7H-5-A,0,150,121.8,123.3,,interbedded silt(stone) and mud(stone) [McKW53],with biosilica [Leg339],interbedded silt(stone) and mud(stone)  with biosilica ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,mud with diatom and spicule fragments interbedded with 34 thin (0.2 - 1 cm) silt laminae,,,,,,341,U1418,E,7,H,5,A,,,,64
+341-U1418E-7H-6-A,0,112,123.3,124.42,,interbedded silt(stone) and mud(stone) [McKW53],with biosilica [Leg339],interbedded silt(stone) and mud(stone)  with biosilica ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,mud with diatom and spicule fragments interbedded with 21 thin (0.3 - 1 cm) silt laminae,,,,,,341,U1418,E,7,H,6,A,,,,65
+341-U1418E-7H-6-A,112,136,124.42,124.66,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,7,H,6,A,,,,66
+341-U1418E-7H-7-A,0,59,124.66,125.25,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,clayey mud interbedded with 10 thin (0.5 cm) silt laminae; high drilling disturbance between 15 and 54 cm (liner not completely filled),,,,,,341,U1418,E,7,H,7,A,,,,67
+341-U1418E-7H-CC-A,0,28,125.25,125.53,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),,,,,,,,,,,,,,clayey mud interbedded with 5 thin (0.3 cm) silt laminae,,,,,,341,U1418,E,7,H,CC,A,,,,68
 341-U1418E-8H-1-A,0,150,125.3,126.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (mostly 1-2 mm)
@@ -204,7 +204,7 @@ small gas cracks (<1 cm wide and ~1 mm high)
 - number: ~25
 - spacing: ~3 mm - ~20 cm
 - sharp lower boundaries
-- graded and massive",,,,,,341,U1418,E,8,H,1,A,,,
+- graded and massive",,,,,,341,U1418,E,8,H,1,A,,,,69
 341-U1418E-8H-2-A,0,150,126.8,128.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],9,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (<2 mm)
@@ -221,7 +221,7 @@ small gas cracks (<1 cm wide and ~1 mm high)
 - number: >15
 - spacing: ~5 mm - ~19 cm
 - sharp lower boundaries
-- graded and massive",,,,,,341,U1418,E,8,H,2,A,,,
+- graded and massive",,,,,,341,U1418,E,8,H,2,A,,,,70
 341-U1418E-8H-3-A,0,150,128.3,129.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],5,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - some black mottles (<1 mm)
@@ -236,7 +236,7 @@ small gas cracks (<1 cm wide and ~1 mm high)
 - number: ~20
 - spacing: ~8 mm - ~19 cm
 - sharp lower boundaries
-- graded and massive",,,,,,341,U1418,E,8,H,3,A,,,
+- graded and massive",,,,,,341,U1418,E,8,H,3,A,,,,71
 341-U1418E-8H-4-A,0,150,129.8,131.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],5,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - few black mottles (<2 mm)
@@ -252,10 +252,10 @@ small gas cracks (<1 cm wide and ~1 mm high)
 - number: >20
 - spacing: ~7 mm - ~31 cm
 - sharp lower boundaries
-- graded and massive",,,,,,341,U1418,E,8,H,4,A,,,
-341-U1418E-8H-5-A,0,150,131.3,132.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,,,,,,,,"clayey mud with 12 thin silt laminae (0.3 - 1 cm) mainly in upper part of section; clast @ 46 cm, 2.5 cm subrounded",,,,,,341,U1418,E,8,H,5,A,,,
-341-U1418E-8H-6-A,0,100,132.8,133.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],3,,,,,,,,,,clayey mud (N4 to 10Y 4/1) with 5 thin silt laminae (0.6 cm),,,,,,341,U1418,E,8,H,6,A,,,
-341-U1418E-8H-7-A,0,62,133.8,134.42,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,clayey mud interbedded with 16 (0.6 cm thick) silt laminae,,,,,,341,U1418,E,8,H,7,A,,,
+- graded and massive",,,,,,341,U1418,E,8,H,4,A,,,,72
+341-U1418E-8H-5-A,0,150,131.3,132.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,,,,,,,,"clayey mud with 12 thin silt laminae (0.3 - 1 cm) mainly in upper part of section; clast @ 46 cm, 2.5 cm subrounded",,,,,,341,U1418,E,8,H,5,A,,,,73
+341-U1418E-8H-6-A,0,100,132.8,133.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],3,,,,,,,,,,clayey mud (N4 to 10Y 4/1) with 5 thin silt laminae (0.6 cm),,,,,,341,U1418,E,8,H,6,A,,,,74
+341-U1418E-8H-7-A,0,62,133.8,134.42,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,clayey mud interbedded with 16 (0.6 cm thick) silt laminae,,,,,,341,U1418,E,8,H,7,A,,,,75
 341-U1418E-9H-1-A,0,123,134.8,136.03,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - few black mottles (<5 mm)
@@ -269,23 +269,23 @@ small gas cracks (<10 mm wide and ~1 mm high)
 - number: ~25
 - spacing: 8 mm - ~26 cm
 - sharp lower boundaries
-- massive",gradational contact,,,,,341,U1418,E,9,H,1,A,,,
+- massive",gradational contact,,,,,341,U1418,E,9,H,1,A,,,,76
 341-U1418E-9H-1-A,123,150,136.03,136.3,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],1,,,,,,,,,,"- diatom ooze
 - relatively many & big black mottles
 - 1 lonestone
-- small gas cracks (<10 mm wide and ~1 mm high)",,,,,,341,U1418,E,9,H,1,A,,,
+- small gas cracks (<10 mm wide and ~1 mm high)",,,,,,341,U1418,E,9,H,1,A,,,,77
 341-U1418E-9H-2-A,0,9,136.3,136.39,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,"- diatom ooze
 - relatively many & big black mottles
-- small gas cracks (<10 mm wide and ~1 mm high)",sharp contact,,,,,341,U1418,E,9,H,2,A,,,
+- small gas cracks (<10 mm wide and ~1 mm high)",sharp contact,,,,,341,U1418,E,9,H,2,A,,,,78
 341-U1418E-9H-2-A,9,11.5,136.39,136.415,,silt [Leg210],,silt ,,,,10Y 4/1 (dark greenish gray),,,,,,,,,,,,,,"- massive silt
 - erosive lower and sharp upper boundary
 - some downward bioturbation of silt into underlying sediments
 
-",sharp contact,erosive,,,,341,U1418,E,9,H,2,A,,,
+",sharp contact,erosive,,,,341,U1418,E,9,H,2,A,,,,79
 341-U1418E-9H-2-A,11.5,34,136.415,136.64,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],1,,,,,,,,,,"- diatom ooze
 - relatively many & big black mottles
 - 1 lonestone
-- small gas cracks (<10 mm wide and ~1 mm high)",gradational contact,,,,,341,U1418,E,9,H,2,A,,,
+- small gas cracks (<10 mm wide and ~1 mm high)",gradational contact,,,,,341,U1418,E,9,H,2,A,,,,80
 341-U1418E-9H-2-A,34,80,136.64,137.1,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - few black mottles - mostly <2 mm, but some up to ~1 cm
@@ -301,12 +301,12 @@ small gas cracks (<10 mm wide and ~1 mm high)
 - sharp lower boundaries
 - graded and massive
 
-- parts of broken pebble of silt stone between 137.5-141.5",sharp contact,,,,,341,U1418,E,9,H,2,A,,,
+- parts of broken pebble of silt stone between 137.5-141.5",sharp contact,,,,,341,U1418,E,9,H,2,A,,,,81
 341-U1418E-9H-2-A,80,82,137.1,137.12,,sand [Leg210],,sand ,,,normal grading,5Y 4/1 (dark gray),,,,,,,,,,,,,,"- graded sand from medium to very fine
 - 5Y 4/1 in upper >1 cm
 - 5Y 3/1 in lower <1 cm
-- poorly sorted at bottom",sharp contact,erosive,,,,341,U1418,E,9,H,2,A,,,
-341-U1418E-9H-2-A,82,150,137.12,137.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],6,,,,,,,,,,- see interval from 34-80 cm,,,,,,341,U1418,E,9,H,2,A,,,
+- poorly sorted at bottom",sharp contact,erosive,,,,341,U1418,E,9,H,2,A,,,,82
+341-U1418E-9H-2-A,82,150,137.12,137.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],6,,,,,,,,,,- see interval from 34-80 cm,,,,,,341,U1418,E,9,H,2,A,,,,83
 341-U1418E-9H-3-A,0,123.5,137.8,139.035,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],3,,,,,,,,,,"- mud with silt laminae
 - slight colour change to more greenish and greyish
 - very few black mottles - mostly <1 mm
@@ -322,26 +322,26 @@ small gas cracks (<10 mm wide and ~1 mm high)
 - sharp lower boundaries
 - massive
 
-- some intervals with nannofossils (based on smear slide from 36 cm)",sharp contact,,,,,341,U1418,E,9,H,3,A,,,
+- some intervals with nannofossils (based on smear slide from 36 cm)",sharp contact,,,,,341,U1418,E,9,H,3,A,,,,84
 341-U1418E-9H-3-A,123.5,124.5,139.035,139.045,,sand [Leg210],,sand ,,,normal grading,N 4 (dark gray),,,,,,,,,,,,,,"- graded sand from fine to very fine
-- very irregular lower, erosive boundary",sharp contact,erosive,,,,341,U1418,E,9,H,3,A,,,
+- very irregular lower, erosive boundary",sharp contact,erosive,,,,341,U1418,E,9,H,3,A,,,,85
 341-U1418E-9H-3-A,124.5,150,139.045,139.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,"- some black mottles and mud patches
-- for more details see description of top of Section 4",,,,,,341,U1418,E,9,H,3,A,,,
-341-U1418E-9H-4-A,0,150,139.3,140.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],5,,,,,,,,,,"mud with 10 thin (0.2 - 0.6 cm) silt laminae/patches, few black mottles; color variations from N 4 to 10Y 4/1",,,,,,341,U1418,E,9,H,4,A,,,
-341-U1418E-9H-5-A,0,150,140.8,142.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 10 thin (0.4 cm) silt laminae/patches, few black mottles; thin sand layer @ 40-41 cm: very fine sand, erosive lower boundary",,,,,,341,U1418,E,9,H,5,A,,,
-341-U1418E-9H-6-A,0,100,142.3,143.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 8 thin (0.3 cm) silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,6,A,,,
-341-U1418E-9H-7-A,0,50,143.3,143.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 7 thin (0.5 cm) silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,7,A,,,
-341-U1418E-9H-7-A,50,55,143.8,143.85,,sand [Leg210],,sand ,,,normal grading,5Y 4/1 (dark gray),,,,,,,,,,,,,,"poorly sorted, fine to medium sand, Qz, Fsp, hornblende",sharp contact,erosive,,,,341,U1418,E,9,H,7,A,,,
-341-U1418E-9H-7-A,55,70,143.85,144,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with thin (0.5 cm) silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,7,A,,,
-341-U1418E-9H-CC-A,0,27,144,144.27,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 2 discontinuous silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,CC,A,,,
-341-U1418E-9H-CC-A,27,32,144.27,144.32,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1418,E,9,H,CC,A,,,
+- for more details see description of top of Section 4",,,,,,341,U1418,E,9,H,3,A,,,,86
+341-U1418E-9H-4-A,0,150,139.3,140.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],5,,,,,,,,,,"mud with 10 thin (0.2 - 0.6 cm) silt laminae/patches, few black mottles; color variations from N 4 to 10Y 4/1",,,,,,341,U1418,E,9,H,4,A,,,,87
+341-U1418E-9H-5-A,0,150,140.8,142.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 10 thin (0.4 cm) silt laminae/patches, few black mottles; thin sand layer @ 40-41 cm: very fine sand, erosive lower boundary",,,,,,341,U1418,E,9,H,5,A,,,,88
+341-U1418E-9H-6-A,0,100,142.3,143.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 8 thin (0.3 cm) silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,6,A,,,,89
+341-U1418E-9H-7-A,0,50,143.3,143.8,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 7 thin (0.5 cm) silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,7,A,,,,90
+341-U1418E-9H-7-A,50,55,143.8,143.85,,sand [Leg210],,sand ,,,normal grading,5Y 4/1 (dark gray),,,,,,,,,,,,,,"poorly sorted, fine to medium sand, Qz, Fsp, hornblende",sharp contact,erosive,,,,341,U1418,E,9,H,7,A,,,,91
+341-U1418E-9H-7-A,55,70,143.85,144,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with thin (0.5 cm) silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,7,A,,,,92
+341-U1418E-9H-CC-A,0,27,144,144.27,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"clayey mud with 2 discontinuous silt laminae/patches, few black mottles",,,,,,341,U1418,E,9,H,CC,A,,,,93
+341-U1418E-9H-CC-A,27,32,144.27,144.32,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1418,E,9,H,CC,A,,,,94
 341-U1418E-10H-1-A,0,137,144.3,145.67,,diatom ooze [Leg339],with volcanic ash [Leg339],diatom ooze  with volcanic ash ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],6,,,,,,,,,,"- 6 granules
 - relatively many black mottles
-- 122 cm: sand lamina",gradational contact,,,,,341,U1418,E,10,H,1,A,,,
+- 122 cm: sand lamina",gradational contact,,,,,341,U1418,E,10,H,1,A,,,,95
 341-U1418E-10H-1-A,137,151,145.67,145.81,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,"- 1 granule
-- silt patches (<5 mm)",,,,,,341,U1418,E,10,H,1,A,,,
+- silt patches (<5 mm)",,,,,,341,U1418,E,10,H,1,A,,,,96
 341-U1418E-10H-2-A,0,50,145.81,146.31,volcaniclastic bearing,mud [Leg210],with silt [Leg339],volcaniclastic bearing mud  with silt ,volcaniclastic-bearing,2,,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- 2 discontinuous laminae (<3 mm)
-- some small black mottles",gradational contact,,,,,341,U1418,E,10,H,2,A,,,
+- some small black mottles",gradational contact,,,,,341,U1418,E,10,H,2,A,,,,97
 341-U1418E-10H-2-A,50,103,146.31,146.84,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- mud with silt laminae
 - very slight colour change to more greenish and greyish
 - few black mottles (<2 mm)
@@ -354,17 +354,17 @@ small gas cracks (<10 mm wide and ~1 mm high)
 - spacing: 3 mm - ~7 cm
 - sharp lower boundaries
 - graded and massive
-",gradational contact,,,,,341,U1418,E,10,H,2,A,,,
+",gradational contact,,,,,341,U1418,E,10,H,2,A,,,,98
 341-U1418E-10H-2-A,103,150,146.84,147.31,,mud [Leg210],with abundant clasts,mud  with abundant clasts,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- 1 discontinuous lamina
 - some black mottles
 - some mud patches (<2 mm)
-- VERY SLIGHT colour banding to greenish and greyish",,,,,,341,U1418,E,10,H,2,A,,,
-341-U1418E-10H-3-A,0,150,147.31,148.81,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,clayey mud with 14 discontinuous patches/laminae (0.4 cm) of silt; sharp lower boundaries; evenly distributed throughout section; few black mottles; color banding is very slight,,,,,,341,U1418,E,10,H,3,A,,,
-341-U1418E-10H-4-A,0,63,148.81,149.44,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],5,,,,,,,,,,clayey mud with 11 discontinuous patches/laminae (0.2-0.8 cm) of silt; sharp lower boundaries; evenly distributed throughout section; few black mottles; color banding is very slight,,,,,,341,U1418,E,10,H,4,A,,,
-341-U1418E-10H-4-A,63,69,149.44,149.5,,sand [Leg210],,sand ,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,"fine to medium sand, poorly sorted, very wet - no structure visible",sharp contact,erosive,,,,341,U1418,E,10,H,4,A,,,
-341-U1418E-10H-4-A,69,150,149.5,150.31,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,clayey mud with discontinuous patches/laminae (0.2-0.8 cm) of silt; sharp lower boundaries; evenly distributed throughout section; few black mottles; color banding is very slight,,,,,,341,U1418,E,10,H,4,A,,,
-341-U1418E-10H-5-A,0,130,150.31,151.61,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],4,,,,,,,,,,clayey mud with 4 discontinuous patches/laminae (0.3 cm) of silt; sharp lower boundaries; few black mottles; color banding is slight; a piece of plastic liner got stuck @ ca. 60 cm,,,,,,341,U1418,E,10,H,5,A,,,
-341-U1418E-10H-6-A,0,121,151.61,152.82,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],4,,,,,,,,,,clayey mud with 9 discontinuous patches/laminae (0.4-1 cm) of silt and sand; sharp lower boundaries; few black mottles; 74 - 74.5 cm: very fine sand with sharp lower bounadry,,,,,,341,U1418,E,10,H,6,A,,,
+- VERY SLIGHT colour banding to greenish and greyish",,,,,,341,U1418,E,10,H,2,A,,,,99
+341-U1418E-10H-3-A,0,150,147.31,148.81,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,clayey mud with 14 discontinuous patches/laminae (0.4 cm) of silt; sharp lower boundaries; evenly distributed throughout section; few black mottles; color banding is very slight,,,,,,341,U1418,E,10,H,3,A,,,,100
+341-U1418E-10H-4-A,0,63,148.81,149.44,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],5,,,,,,,,,,clayey mud with 11 discontinuous patches/laminae (0.2-0.8 cm) of silt; sharp lower boundaries; evenly distributed throughout section; few black mottles; color banding is very slight,,,,,,341,U1418,E,10,H,4,A,,,,101
+341-U1418E-10H-4-A,63,69,149.44,149.5,,sand [Leg210],,sand ,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,"fine to medium sand, poorly sorted, very wet - no structure visible",sharp contact,erosive,,,,341,U1418,E,10,H,4,A,,,,102
+341-U1418E-10H-4-A,69,150,149.5,150.31,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,clayey mud with discontinuous patches/laminae (0.2-0.8 cm) of silt; sharp lower boundaries; evenly distributed throughout section; few black mottles; color banding is very slight,,,,,,341,U1418,E,10,H,4,A,,,,103
+341-U1418E-10H-5-A,0,130,150.31,151.61,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],4,,,,,,,,,,clayey mud with 4 discontinuous patches/laminae (0.3 cm) of silt; sharp lower boundaries; few black mottles; color banding is slight; a piece of plastic liner got stuck @ ca. 60 cm,,,,,,341,U1418,E,10,H,5,A,,,,104
+341-U1418E-10H-6-A,0,121,151.61,152.82,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],4,,,,,,,,,,clayey mud with 9 discontinuous patches/laminae (0.4-1 cm) of silt and sand; sharp lower boundaries; few black mottles; 74 - 74.5 cm: very fine sand with sharp lower bounadry,,,,,,341,U1418,E,10,H,6,A,,,,105
 341-U1418E-11H-1-A,0,110,153.8,154.9,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - few black mottles (<2 mm)
@@ -379,46 +379,46 @@ small gas cracks (<10 mm wide and ~1 mm high)
 - sharp lower boundaries
 - massive
 
-NOTE: LINER BROKE DURING CORING",gradational contact,,,,,341,U1418,E,11,H,1,A,,,
+NOTE: LINER BROKE DURING CORING",gradational contact,,,,,341,U1418,E,11,H,1,A,,,,106
 341-U1418E-11H-1-A,110,150,154.9,155.3,,mud [Leg210],,mud ,,,,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"- relatively large amounts of black mottles (<1 cm) between ~120-130 cm
 - slight colour change to 10Y 4/1 between ~120-130 cm
 
 NOTE: LINER BROKE DURING CORING
-",,,,,,341,U1418,E,11,H,1,A,,,
+",,,,,,341,U1418,E,11,H,1,A,,,,107
 341-U1418E-11H-2-A,0,97,155.3,156.27,,mud [Leg210],,mud ,,,,N 4 (dark gray),slight [DB86],1,present [A79],4,,,,,,,,,,"- discontinuous silt lamina
 - some scattered silt patches (< 5 mm)
 - slight colour change towards 10Y 4/1 around 30 cm
 
-NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A,,,
+NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A,,,,108
 341-U1418E-11H-2-A,97,100,156.27,156.3,,sand [Leg210],,sand ,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,"- fine sand with some mud
-",sharp contact,erosive,,,,341,U1418,E,11,H,2,A,,,
-341-U1418E-11H-2-A,100,112.5,156.3,156.425,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,- relatively many black mottles,sharp contact,irregular,,,,341,U1418,E,11,H,2,A,,,
+",sharp contact,erosive,,,,341,U1418,E,11,H,2,A,,,,109
+341-U1418E-11H-2-A,100,112.5,156.3,156.425,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,- relatively many black mottles,sharp contact,irregular,,,,341,U1418,E,11,H,2,A,,,,110
 341-U1418E-11H-2-A,112.5,114,156.425,156.44,,sand [Leg210],,sand ,,,normal grading,5Y 3/1 (very dark gray),,,,,,,,,,,,,,"- medium to fine sand
-- sharp and irregular upper boundary",sharp contact,erosive,,,,341,U1418,E,11,H,2,A,,,
+- sharp and irregular upper boundary",sharp contact,erosive,,,,341,U1418,E,11,H,2,A,,,,111
 341-U1418E-11H-2-A,114,150,156.44,156.8,,mud [Leg210],,mud ,,,,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,"- some black mottles
-- some inflow of sand along liner wall between ~120-~125 cm",,,,,,341,U1418,E,11,H,2,A,,,
+- some inflow of sand along liner wall between ~120-~125 cm",,,,,,341,U1418,E,11,H,2,A,,,,112
 341-U1418E-11H-3-A,0,27,156.8,157.07,,mud [Leg210],,mud ,,,,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,"- some black mottles
-- one granule",gradational contact,,,,,341,U1418,E,11,H,3,A,,,
-341-U1418E-11H-3-A,27,36,157.07,157.16,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,11,H,3,A,,,
-341-U1418E-11H-3-A,36,38,157.16,157.18,,silt [Leg210],,silt ,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,- gradational boundaries -> maybe due to bioturbation?,gradational contact,,,,,341,U1418,E,11,H,3,A,,,
-341-U1418E-11H-3-A,38,81,157.18,157.61,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],2,,,,,,,,,,- 2 granules,,,,,,341,U1418,E,11,H,3,A,,,
+- one granule",gradational contact,,,,,341,U1418,E,11,H,3,A,,,,113
+341-U1418E-11H-3-A,27,36,157.07,157.16,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,11,H,3,A,,,,114
+341-U1418E-11H-3-A,36,38,157.16,157.18,,silt [Leg210],,silt ,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,- gradational boundaries -> maybe due to bioturbation?,gradational contact,,,,,341,U1418,E,11,H,3,A,,,,115
+341-U1418E-11H-3-A,38,81,157.18,157.61,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],2,,,,,,,,,,- 2 granules,,,,,,341,U1418,E,11,H,3,A,,,,116
 341-U1418E-11H-3-A,81,83,157.61,157.63,,sand [Leg210],,sand ,,,,5Y 3/1 (very dark gray),heavy [DB86],3,,,,,,,,,,,,"- discontinuous fine sand bed
-- heavily bioturbated",,,,,,341,U1418,E,11,H,3,A,,,
-341-U1418E-11H-3-A,83,100.5,157.63,157.805,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,sharp contact,,,,,341,U1418,E,11,H,3,A,,,
-341-U1418E-11H-3-A,100.5,101.5,157.805,157.815,,sand [Leg210],,sand ,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,- medium sand,sharp contact,erosive,,,,341,U1418,E,11,H,3,A,,,
+- heavily bioturbated",,,,,,341,U1418,E,11,H,3,A,,,,117
+341-U1418E-11H-3-A,83,100.5,157.63,157.805,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,,sharp contact,,,,,341,U1418,E,11,H,3,A,,,,118
+341-U1418E-11H-3-A,100.5,101.5,157.805,157.815,,sand [Leg210],,sand ,,,,5Y 3/1 (very dark gray),,,,,,,,,,,,,,- medium sand,sharp contact,erosive,,,,341,U1418,E,11,H,3,A,,,,119
 341-U1418E-11H-3-A,101.5,150,157.815,158.3,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,"- 1 granule
-- medium sand lamina (~3 mm) around 121 cm",,,,,,341,U1418,E,11,H,3,A,,,
-341-U1418E-11H-4-A,0,118,158.3,159.48,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,clayey mud with many black mottles,,,,,,341,U1418,E,11,H,4,A,,,
-341-U1418E-11H-4-A,118,120.5,159.48,159.505,,sand [Leg210],,sand ,,,normal grading,5Y 4/1 (dark gray),,,,,,,,,,,,,,"fine to medium sand, poorly sorted",sharp contact,erosive,,,,341,U1418,E,11,H,4,A,,,
-341-U1418E-11H-4-A,120.5,146,159.505,159.76,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,many black mottles,,,,,,341,U1418,E,11,H,4,A,,,
-341-U1418E-11H-4-A,146,147,159.76,159.77,,sand [Leg210],,sand ,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,fine sand,sharp contact,erosive,,,,341,U1418,E,11,H,4,A,,,
-341-U1418E-11H-4-A,147,150,159.77,159.8,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,many black mottles,,,,,,341,U1418,E,11,H,4,A,,,
-341-U1418E-11H-5-A,0,40,159.8,160.2,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],1,,,,,,,,,,"clayey mud, less black mottles",,,,,,341,U1418,E,11,H,5,A,,,
-341-U1418E-11H-5-A,40,80,160.2,160.6,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,"clayey mud, many black mottles",,,,,,341,U1418,E,11,H,5,A,,,
-341-U1418E-11H-5-A,80,120,160.6,161,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,"clayey mud, less black mottles",,,,,,341,U1418,E,11,H,5,A,,,
-341-U1418E-11H-5-A,120,150,161,161.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,clayey mud interbedded with 8 silt laminae (0.5 cm thick),,,,,,341,U1418,E,11,H,5,A,,,
-341-U1418E-11H-6-A,0,97,161.3,162.27,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,mud interbedded with 26 silt and very fine sand (hornblende rich) laminae (0.3 - 1 cm); number of laminae increases with depth,,,,,,341,U1418,E,11,H,6,A,,,
-341-U1418E-11H-7-A,0,62,162.27,162.89,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],5,,,,,,,,,,"mud interbedded with 9 silt and very fine sand laminae (0.7 cm); sandstone pebble @ 28 cm: subrounded, coarse grained, very dark gray",,,,,,341,U1418,E,11,H,7,A,,,
+- medium sand lamina (~3 mm) around 121 cm",,,,,,341,U1418,E,11,H,3,A,,,,120
+341-U1418E-11H-4-A,0,118,158.3,159.48,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,clayey mud with many black mottles,,,,,,341,U1418,E,11,H,4,A,,,,121
+341-U1418E-11H-4-A,118,120.5,159.48,159.505,,sand [Leg210],,sand ,,,normal grading,5Y 4/1 (dark gray),,,,,,,,,,,,,,"fine to medium sand, poorly sorted",sharp contact,erosive,,,,341,U1418,E,11,H,4,A,,,,122
+341-U1418E-11H-4-A,120.5,146,159.505,159.76,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,many black mottles,,,,,,341,U1418,E,11,H,4,A,,,,123
+341-U1418E-11H-4-A,146,147,159.76,159.77,,sand [Leg210],,sand ,,,,5Y 4/1 (dark gray),,,,,,,,,,,,,,fine sand,sharp contact,erosive,,,,341,U1418,E,11,H,4,A,,,,124
+341-U1418E-11H-4-A,147,150,159.77,159.8,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,many black mottles,,,,,,341,U1418,E,11,H,4,A,,,,125
+341-U1418E-11H-5-A,0,40,159.8,160.2,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],1,,,,,,,,,,"clayey mud, less black mottles",,,,,,341,U1418,E,11,H,5,A,,,,126
+341-U1418E-11H-5-A,40,80,160.2,160.6,diatom rich,mud [Leg210],,diatom rich mud ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,present [A79],1,,,,,,,,,,"clayey mud, many black mottles",,,,,,341,U1418,E,11,H,5,A,,,,127
+341-U1418E-11H-5-A,80,120,160.6,161,diatom bearing,mud [Leg210],,diatom bearing mud ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,"clayey mud, less black mottles",,,,,,341,U1418,E,11,H,5,A,,,,128
+341-U1418E-11H-5-A,120,150,161,161.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,clayey mud interbedded with 8 silt laminae (0.5 cm thick),,,,,,341,U1418,E,11,H,5,A,,,,129
+341-U1418E-11H-6-A,0,97,161.3,162.27,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,mud interbedded with 26 silt and very fine sand (hornblende rich) laminae (0.3 - 1 cm); number of laminae increases with depth,,,,,,341,U1418,E,11,H,6,A,,,,130
+341-U1418E-11H-7-A,0,62,162.27,162.89,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],5,,,,,,,,,,"mud interbedded with 9 silt and very fine sand laminae (0.7 cm); sandstone pebble @ 28 cm: subrounded, coarse grained, very dark gray",,,,,,341,U1418,E,11,H,7,A,,,,131
 341-U1418E-12H-1-A,0,150,163.3,164.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],4,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 4 lonestones (granules)
@@ -431,7 +431,7 @@ NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A
 - number: ~50
 - spacing: ~3 mm - ~33 cm
 - sharp lower boundaries
-- graded and massive",,,,,,341,U1418,E,12,H,1,A,,,
+- graded and massive",,,,,,341,U1418,E,12,H,1,A,,,,132
 341-U1418E-12H-2-A,0,99,164.8,165.79,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],3,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 3 lonestones
@@ -446,24 +446,24 @@ NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A
 - number: ~20
 - spacing: ~5 mm - ~35 cm
 - sharp lower boundaries
-- massive",gradational contact,,,,,341,U1418,E,12,H,2,A,,,
+- massive",gradational contact,,,,,341,U1418,E,12,H,2,A,,,,133
 341-U1418E-12H-2-A,99,150,165.79,166.3,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,"- colour banded mud
 - some black mottles
 - 1 pebble
 - 1 silt lamina at ~146 cm; ~2 mm thick
-- changes to 10Y 4/1 at the bottom of section",,,,,,341,U1418,E,12,H,2,A,,,
+- changes to 10Y 4/1 at the bottom of section",,,,,,341,U1418,E,12,H,2,A,,,,134
 341-U1418E-12H-3-A,0,150,166.3,167.8,,mud [Leg210],,mud ,,,color banding,10Y 4/1 (dark greenish gray),moderate [DB86],2,present [A79],5,,,,,,,,,,"- colour banded mud with rare silt & sand laminae
 - black mottles up to 7 mm
 - few silt patches <5 mm
-- 5 granules/pebbles",,,,,,341,U1418,E,12,H,3,A,,,
-341-U1418E-12H-4-A,0,21,167.8,168.01,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,,,,341,U1418,E,12,H,4,A,,,
-341-U1418E-12H-4-A,21,150,168.01,169.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,mud with 18 silt laminae (0.3 - 1 cm thick) - often discontinuous; few black mottles,,,,,,341,U1418,E,12,H,4,A,,,
-341-U1418E-12H-5-A,0,30,169.3,169.6,,mud [Leg210],with volcanic ash [Leg339],mud  with volcanic ash ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,clayey mud with micro lenses of silt and reworked ash,,,,,,341,U1418,E,12,H,5,A,,,
-341-U1418E-12H-5-A,30,32,169.6,169.62,,ash(tuff) [MMK88m],,ash(tuff) ,ash,4,,5Y 7/1 (light gray),heavy [DB86],3,,,,,,,,,,,,"fine glassy ash, highly bioturbated boundaries",sharp contact,biotubated,,,,341,U1418,E,12,H,5,A,,,
-341-U1418E-12H-5-A,32,40,169.62,169.7,,mud [Leg210],with volcanic ash [Leg339],mud  with volcanic ash ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,clayey mud with micro lenses of silt and reworked ash,,,,,,341,U1418,E,12,H,5,A,,,
-341-U1418E-12H-5-A,40,125,169.7,170.55,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,"mud interbedded with 22 silt laminae (0.1 - 1 cm); sharp boundaries, often discontinuous and patchy",,,,,,341,U1418,E,12,H,5,A,,,
-341-U1418E-12H-5-A,125,150,170.55,170.8,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,,,,,,341,U1418,E,12,H,5,A,,,
-341-U1418E-12H-6-A,0,145,170.8,172.25,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,"diatom ooze with black mottles, few micro lenses of silt and ash, significant color variations from dark greenish gray to green to greenish-yellow-brown; 121 - 143 liner not completely filled",,,,,,341,U1418,E,12,H,6,A,,,
+- 5 granules/pebbles",,,,,,341,U1418,E,12,H,3,A,,,,135
+341-U1418E-12H-4-A,0,21,167.8,168.01,,mud [Leg210],,mud ,,,color banding,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,,,,,,,341,U1418,E,12,H,4,A,,,,136
+341-U1418E-12H-4-A,21,150,168.01,169.3,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),slight [DB86],1,,,,,,,,,,,,mud with 18 silt laminae (0.3 - 1 cm thick) - often discontinuous; few black mottles,,,,,,341,U1418,E,12,H,4,A,,,,137
+341-U1418E-12H-5-A,0,30,169.3,169.6,,mud [Leg210],with volcanic ash [Leg339],mud  with volcanic ash ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,clayey mud with micro lenses of silt and reworked ash,,,,,,341,U1418,E,12,H,5,A,,,,138
+341-U1418E-12H-5-A,30,32,169.6,169.62,,ash(tuff) [MMK88m],,ash(tuff) ,ash,4,,5Y 7/1 (light gray),heavy [DB86],3,,,,,,,,,,,,"fine glassy ash, highly bioturbated boundaries",sharp contact,biotubated,,,,341,U1418,E,12,H,5,A,,,,139
+341-U1418E-12H-5-A,32,40,169.62,169.7,,mud [Leg210],with volcanic ash [Leg339],mud  with volcanic ash ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,clayey mud with micro lenses of silt and reworked ash,,,,,,341,U1418,E,12,H,5,A,,,,140
+341-U1418E-12H-5-A,40,125,169.7,170.55,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,,10Y 4/1 (dark greenish gray),slight [DB86],1,,,,,,,,,,,,"mud interbedded with 22 silt laminae (0.1 - 1 cm); sharp boundaries, often discontinuous and patchy",,,,,,341,U1418,E,12,H,5,A,,,,141
+341-U1418E-12H-5-A,125,150,170.55,170.8,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,,,,,,,341,U1418,E,12,H,5,A,,,,142
+341-U1418E-12H-6-A,0,145,170.8,172.25,,diatom ooze [Leg339],,diatom ooze ,,,,10Y 4/1 (dark greenish gray),heavy [DB86],3,,,,,,,,,,,,"diatom ooze with black mottles, few micro lenses of silt and ash, significant color variations from dark greenish gray to green to greenish-yellow-brown; 121 - 143 liner not completely filled",,,,,,341,U1418,E,12,H,6,A,,,,143
 341-U1418E-13H-1-A,0,150,172.8,174.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 1 lonestone
@@ -480,7 +480,7 @@ NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A
 - spacing: ~2 mm - ~20 cm
 - sharp lower boundaries
 - massive
-- some laminae lighter than matrix",,,,,,341,U1418,E,13,H,1,A,,,
+- some laminae lighter than matrix",,,,,,341,U1418,E,13,H,1,A,,,,144
 341-U1418E-13H-2-A,0,150,174.3,175.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],6,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 6 lonestones
@@ -496,7 +496,7 @@ NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A
 - number: ~30
 - spacing: ~3 mm - >30 cm
 - sharp lower boundaries
-- massive",,,,,,341,U1418,E,13,H,2,A,,,
+- massive",,,,,,341,U1418,E,13,H,2,A,,,,145
 341-U1418E-13H-3-A,0,150,175.8,177.3,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],2,,,,,,,,,,"- mud with silt laminae
 - slight colour banding to greenish and greyish
 - 2 lonestones (granules)
@@ -509,13 +509,13 @@ NOTE: LINER BROKE DURING CORING",sharp contact,irregular,,,,341,U1418,E,11,H,2,A
 - number: ~40
 - spacing: ~2 mm - ~40 cm
 - sharp lower boundary
-- graded and massive",,,,,,341,U1418,E,13,H,3,A,,,
-341-U1418E-13H-4-A,0,150,177.3,178.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,"clayey mud interbedded with 43 silt and very few very fine sand laminae (0.1 - 1 cm), sharp boundaries; few black mottles; lonestone @ 10 cm: 1.5 cm subrounded greenstone",,,,,,341,U1418,E,13,H,4,A,,,
-341-U1418E-13H-5-A,0,45,178.8,179.25,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"clayey mud interbedded with 10 silt and very few very fine sand laminae (0.1 - 0.8 cm), sharp boundaries; few black mottles",,,,,,341,U1418,E,13,H,5,A,,,
-341-U1418E-13H-5-A,45,97,179.25,179.77,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,13,H,5,A,,,
-341-U1418E-13H-5-A,97,150,179.77,180.3,,biosiliceous ooze [Leg339],with foraminifers [Leg339],biosiliceous ooze  with foraminifers ,trace amount,1,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,"fragments of diatoms, sponge spicules, forams, nannos, volcanic glass",,,,,,341,U1418,E,13,H,5,A,,,
-341-U1418E-13H-6-A,0,23,180.3,180.53,sandy,biosiliceous ooze [Leg339],with foraminifers [Leg339],sandy biosiliceous ooze  with foraminifers ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,"fragments of diatoms, sponge spicules, forams, nannos, volcanic glass",,,,,,341,U1418,E,13,H,6,A,,,
-341-U1418E-13H-6-A,23,26,180.53,180.56,,sand [Leg210],,sand ,,,normal grading,N 4 (dark gray),,,,,,,,,,,,,,"fine sand, fining upward",sharp contact,erosive,,,,341,U1418,E,13,H,6,A,,,
-341-U1418E-13H-6-A,26,120,180.56,181.5,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,heavily disturbed,,,,,,341,U1418,E,13,H,6,A,,,
-341-U1418E-13H-CC-A,0,9,181.5,181.59,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,13,H,CC,A,,,
-341-U1418E-13H-CC-A,9,14,181.59,181.64,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1418,E,13,H,CC,A,,,
+- graded and massive",,,,,,341,U1418,E,13,H,3,A,,,,146
+341-U1418E-13H-4-A,0,150,177.3,178.8,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,"clayey mud interbedded with 43 silt and very few very fine sand laminae (0.1 - 1 cm), sharp boundaries; few black mottles; lonestone @ 10 cm: 1.5 cm subrounded greenstone",,,,,,341,U1418,E,13,H,4,A,,,,147
+341-U1418E-13H-5-A,0,45,178.8,179.25,,interbedded silt(stone) and mud(stone) [McKW53],,interbedded silt(stone) and mud(stone) ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],2,,,,,,,,,,"clayey mud interbedded with 10 silt and very few very fine sand laminae (0.1 - 0.8 cm), sharp boundaries; few black mottles",,,,,,341,U1418,E,13,H,5,A,,,,148
+341-U1418E-13H-5-A,45,97,179.25,179.77,,mud [Leg210],with silt [Leg339],mud  with silt ,,,color banding,N 4 (dark gray),slight [DB86],1,present [A79],1,,,,,,,,,,,,,,,,341,U1418,E,13,H,5,A,,,,149
+341-U1418E-13H-5-A,97,150,179.77,180.3,,biosiliceous ooze [Leg339],with foraminifers [Leg339],biosiliceous ooze  with foraminifers ,trace amount,1,,10Y 4/1 (dark greenish gray),slight [DB86],1,present [A79],1,,,,,,,,,,"fragments of diatoms, sponge spicules, forams, nannos, volcanic glass",,,,,,341,U1418,E,13,H,5,A,,,,150
+341-U1418E-13H-6-A,0,23,180.3,180.53,sandy,biosiliceous ooze [Leg339],with foraminifers [Leg339],sandy biosiliceous ooze  with foraminifers ,trace amount,1,,10Y 4/1 (dark greenish gray),moderate [DB86],2,,,,,,,,,,,,"fragments of diatoms, sponge spicules, forams, nannos, volcanic glass",,,,,,341,U1418,E,13,H,6,A,,,,151
+341-U1418E-13H-6-A,23,26,180.53,180.56,,sand [Leg210],,sand ,,,normal grading,N 4 (dark gray),,,,,,,,,,,,,,"fine sand, fining upward",sharp contact,erosive,,,,341,U1418,E,13,H,6,A,,,,152
+341-U1418E-13H-6-A,26,120,180.56,181.5,,mud [Leg210],with silt [Leg339],mud  with silt ,,,,N 4 (dark gray),,,,,,,,,,,,,,heavily disturbed,,,,,,341,U1418,E,13,H,6,A,,,,153
+341-U1418E-13H-CC-A,0,9,181.5,181.59,,mud [Leg210],,mud ,,,,N 4 (dark gray),,,,,,,,,,,,,,,,,,,,341,U1418,E,13,H,CC,A,,,,154
+341-U1418E-13H-CC-A,9,14,181.59,181.64,,,,,,,,,,,,,,,,,,,,,,PAL sample,,,,,,341,U1418,E,13,H,CC,A,,,,155

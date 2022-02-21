@@ -1,290 +1,290 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithologic unit (preliminary),Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology prefix+name [read only],Lithology prefix+name+suffix [read only],Lithology name+suffix [read only],Lithology  abundance [%],Lithology color (simple),Bottom contact or boundary geometry,Bottom contact or boundary attitude,Bedding thickness of MAJOR lithology,Interbed lithology,Thickness of interbeds,INTERPRETATION - Turbiditic or Hemipelagic,TEPHRA type,Sedimentary structure,Sedimentary structure comment,Diagenetic structure,Macrofossil,General interval comment,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
-354-U1452B-1H-1-A,0,150,0,1.5,,nannofossil rich,calcareous clay [Leg210],,nannofossil rich calcareous clay,nannofossil rich calcareous clay,calcareous clay,,green,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,1,A,,,
-354-U1452B-1H-2-A,0,14,1.5,1.64,,nannofossil rich,calcareous clay [Leg210],,nannofossil rich calcareous clay,nannofossil rich calcareous clay,calcareous clay,,green,sharp planar,horizontal,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,2,A,,,
-354-U1452B-1H-2-A,14,37,1.64,1.87,,,volcanic ash [MMK88],,volcanic ash,volcanic ash,volcanic ash,,light brown,sharp irregular,,,,,,,normally graded,,,,Lower part of the ash layer disturbed by cutting.,,,,354,U1452,B,1,H,2,A,,,
-354-U1452B-1H-2-A,37,150,1.87,3,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,white,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,2,A,,,
-354-U1452B-1H-3-A,0,150,3,4.5,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,white,,,,,,,,mottling [BJ80],,,,79-84 blob of ash probably a coring disturbance.,,,,354,U1452,B,1,H,3,A,,,
-354-U1452B-1H-4-A,0,88,4.5,5.38,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,light green,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,1,H,4,A,,,
-354-U1452B-1H-4-A,88,122,5.38,5.72,,,sand [Leg210],with mica,sand,sand with mica,sand with mica,,dark gray,sharp irregular,,,,,,,mud clast,,,,,,,,354,U1452,B,1,H,4,A,,,
-354-U1452B-1H-4-A,122,150,5.72,6,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,1,H,4,A,,,
-354-U1452B-1H-5-A,0,73,6,6.73,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,medium bed [B01],clay [Leg210],thick bed [B01],,,,,,,,,,,354,U1452,B,1,H,5,A,,,
-354-U1452B-1H-5-A,73,105,6.73,7.05,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,,medium bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,1,H,5,A,,,
-354-U1452B-1H-5-A,105,113,7.05,7.13,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp irregular,,,,,,,,,,,tilted during core recovery.,,,,354,U1452,B,1,H,5,A,,,
-354-U1452B-1H-5-A,113,130,7.13,7.3,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,1,H,5,A,,,
-354-U1452B-1H-5-A,130,150,7.3,7.5,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,white,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,5,A,,,
-354-U1452B-1H-6-A,0,35,7.5,7.85,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,gradational,,,,,,,burrows,,,,,,,,354,U1452,B,1,H,6,A,,,
-354-U1452B-1H-6-A,35,60,7.85,8.1,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,green,,,,,,,,,,,,,,,,354,U1452,B,1,H,6,A,,,
-354-U1452B-2H-1-A,0,19,8.2,8.39,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp irregular,,,,,,,,,,,flow-in deformation,,,,354,U1452,B,2,H,1,A,,,
-354-U1452B-2H-1-A,19,116,8.39,9.36,,,clay [Leg210],,clay,clay,clay,,gray,gradational,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,2,H,1,A,,,
-354-U1452B-2H-1-A,116,149,9.36,9.69,,,silt [Leg210],,silt,silt,silt,,dark gray,,,thin bed [B01],clay [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,2,H,1,A,,,
-354-U1452B-3H-1-A,0,150,17.7,19.2,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,1,A,,,
-354-U1452B-3H-2-A,0,150,19.2,20.7,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,2,A,,,
-354-U1452B-3H-3-A,0,79,20.7,21.49,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,3,A,,,
-354-U1452B-3H-4-A,0,150,21.49,22.99,,,silt [Leg210],,silt,silt,silt,,gray,,,thin bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,4,A,,,
-354-U1452B-3H-5-A,0,69,22.99,23.68,,,silt [Leg210],,silt,silt,silt,,gray,sharp irregular,,medium bed [B01],clay [Leg210],thin bed [B01],,,cross-bedding,,,,,,,,354,U1452,B,3,H,5,A,,,
-354-U1452B-3H-5-A,69,101,23.68,24,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,deformed by flow in,,,,,,,354,U1452,B,3,H,5,A,,,
-354-U1452B-3H-6-A,0,98,24,24.98,,,silt [Leg210],,silt,silt,silt,,gray,,,medium bed [B01],clay [Leg210],thin bed [B01],,,cross-bedding,,,,,,,,354,U1452,B,3,H,6,A,,,
-354-U1452B-3H-CC-A,0,16,24.98,25.14,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,3,H,CC,A,,,
-354-U1452B-4H-1-A,0,63,27.2,27.83,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,
-354-U1452B-4H-1-A,63,85,27.83,28.05,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,
-354-U1452B-4H-1-A,85,115,28.05,28.35,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,
-354-U1452B-4H-1-A,115,141,28.35,28.61,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,
-354-U1452B-4H-1-A,141,150,28.61,28.7,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,4,H,1,A,,,
-354-U1452B-4H-2-A,0,25,28.7,28.95,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,2,A,,,
-354-U1452B-4H-2-A,25,43,28.95,29.13,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,2,A,,,
-354-U1452B-4H-2-A,43,92,29.13,29.62,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,2,A,,,
-354-U1452B-4H-2-A,92,111,29.62,29.81,,,silt [Leg210],with plant fragments [2014],silt,silt with plant fragments,silt with plant fragments,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,2,A,,,
-354-U1452B-4H-2-A,111,127,29.81,29.97,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,2,A,,,
-354-U1452B-4H-2-A,127,150,29.97,30.2,,,silt [Leg210],with plant fragments [2014],silt,silt with plant fragments,silt with plant fragments,,gray,,,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,2,A,,,
-354-U1452B-4H-3-A,0,20,30.2,30.4,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,4,H,3,A,,,
-354-U1452B-4H-3-A,20,66,30.4,30.86,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,3,A,,,
-354-U1452B-4H-3-A,66,150,30.86,31.7,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,3,A,,,
-354-U1452B-4H-4-A,0,34,31.7,32.04,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,4,A,,,
-354-U1452B-4H-4-A,34,65,32.04,32.35,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,4,A,,,
-354-U1452B-4H-4-A,65,150,32.35,33.2,,,silt [Leg210],,silt,silt,silt,,gray,,,medium bed [B01],clay [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,4,H,4,A,,,
-354-U1452B-4H-5-A,0,27,33.2,33.47,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-5-A,27,63,33.47,33.83,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,cross-bedding,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-5-A,63,81,33.83,34.01,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-5-A,81,104,34.01,34.24,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,cross-bedding,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-5-A,104,110,34.24,34.3,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,,,,,,,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-5-A,110,125,34.3,34.45,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,cross-bedding,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-5-A,125,150,34.45,34.7,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,5,A,,,
-354-U1452B-4H-6-A,0,22,34.7,34.92,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,6,A,,,
-354-U1452B-4H-6-A,22,150,34.92,36.2,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,6,A,,,
-354-U1452B-4H-7-A,0,62,35.71,36.33,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,7,A,,,
-354-U1452B-4H-CC-A,0,16,36.33,36.49,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,CC,A,,,
-354-U1452B-5H-1-A,0,9,36.7,36.79,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,9,12,36.79,36.82,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,12,34,36.82,37.04,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,parallel lamination in silt,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,34,38,37.04,37.08,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,38,43,37.08,37.13,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,43,46,37.13,37.16,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,46,74,37.16,37.44,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,parallel lamination in silt,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,74,79,37.44,37.49,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,79,91,37.49,37.61,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,sub-horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,parallel lamination in silt,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,91,95,37.61,37.65,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,95,106,37.65,37.76,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,sub-horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-1-A,106,150,37.76,38.2,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,,,,,,,,,,,,plant fragments present,,,,354,U1452,B,5,H,1,A,,,
-354-U1452B-5H-2-A,0,11,38.2,38.31,,,clay [Leg210],,clay,clay,clay,,dark gray,gradational,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,11,44,38.31,38.64,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,44,55,38.64,38.75,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,55,67,38.75,38.87,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,67,93,38.87,39.13,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,93,109,39.13,39.29,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,109,117,39.29,39.37,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,117,122,39.37,39.42,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,122,126,39.42,39.46,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-2-A,126,150,39.46,39.7,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,
-354-U1452B-5H-3-A,0,11,39.7,39.81,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,3,A,,,
-354-U1452B-5H-3-A,11,19,39.81,39.89,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,3,A,,,
-354-U1452B-5H-3-A,19,104,39.89,40.74,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,5,H,3,A,,,
-354-U1452B-5H-4-A,0,84,40.74,41.58,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,4,A,,,
-354-U1452B-5H-5-A,0,78,41.58,42.36,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,5,A,,,
-354-U1452B-5H-6-A,0,76,42.36,43.12,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,6,A,,,
-354-U1452B-5H-CC-A,0,20,43.12,43.32,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,CC,A,,,
-354-U1452B-6F-1-A,0,84,41.4,42.24,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,6,F,1,A,,,
-354-U1452B-6F-2-A,0,150,42.24,43.74,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,6,F,2,A,,,
-354-U1452B-6F-CC-A,0,21,43.74,43.95,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,6,F,CC,A,,,
-354-U1452B-8F-1-A,0,150,47.6,49.1,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,8,F,1,A,,,
-354-U1452B-8F-2-A,0,11,49.1,49.21,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,fine sand,,,,354,U1452,B,8,F,2,A,,,
-354-U1452B-8F-2-A,11,70,49.21,49.8,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,8,F,2,A,,,
-354-U1452B-8F-2-A,70,90,49.8,50,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,8,F,2,A,,,
-354-U1452B-8F-3-A,0,150,50,51.5,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,8,F,3,A,,,
-354-U1452B-8F-CC-A,0,25,51.5,51.75,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,8,F,CC,A,,,
-354-U1452B-9F-1-A,0,78,52.3,53.08,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,9,F,1,A,,,
-354-U1452B-9F-2-A,0,157,53.08,54.65,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,9,F,2,A,,,
-354-U1452B-9F-CC-A,0,20,54.65,54.85,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,9,F,CC,A,,,
-354-U1452B-10F-1-A,0,9,57,57.09,,,clay [Leg210],,clay,clay,clay,,dark gray,gradational,,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,
-354-U1452B-10F-1-A,9,48,57.09,57.48,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp irregular,,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,
-354-U1452B-10F-1-A,48,92,57.48,57.92,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,
-354-U1452B-10F-1-A,92,150,57.92,58.5,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,
-354-U1452B-10F-2-A,0,10,58.5,58.6,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,2,A,,,
-354-U1452B-10F-2-A,10,74,58.6,59.24,,,clay [Leg210],,clay,clay,clay,,dark gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,10,F,2,A,,,
-354-U1452B-10F-2-A,74,104,59.24,59.54,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,2,A,,,
-354-U1452B-10F-2-A,104,153,59.54,60.03,,,clay [Leg210],,clay,clay,clay,,dark gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,10,F,2,A,,,
-354-U1452B-10F-3-A,0,88,59.99,60.87,,,clay [Leg210],,clay,clay,clay,,dark gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,10,F,3,A,,,
-354-U1452B-10F-3-A,88,101,60.87,61,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,10,F,3,A,,,
-354-U1452B-10F-4-A,0,32,61,61.32,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,4,A,,,
-354-U1452B-10F-4-A,32,42,61.32,61.42,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,4,A,,,
-354-U1452B-10F-4-A,42,75,61.42,61.75,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,10,F,4,A,,,
-354-U1452B-10F-CC-A,0,8,61.75,61.83,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,10,F,CC,A,,,
-354-U1452B-11F-1-A,0,13,61.7,61.83,,,clay [Leg210],,clay,clay,clay,,gray,sharp irregular,,,,,,,,,,,,,,,354,U1452,B,11,F,1,A,,,
-354-U1452B-11F-1-A,13,124,61.83,62.94,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,thick bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,1,A,,,
-354-U1452B-11F-1-A,124,150,62.94,63.2,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,1,A,,,
-354-U1452B-11F-2-A,0,63,63.2,63.83,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,11,F,2,A,,,
-354-U1452B-11F-2-A,63,91,63.83,64.11,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,2,A,,,
-354-U1452B-11F-2-A,91,150,64.11,64.7,,,silt [Leg210],,silt,silt,silt,,gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,11,F,2,A,,,
-354-U1452B-11F-3-A,0,36,64.7,65.06,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,11,F,3,A,,,
-354-U1452B-11F-3-A,36,42,65.06,65.12,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,,,,,,,,,,,,,,354,U1452,B,11,F,3,A,,,
-354-U1452B-11F-3-A,42,70,65.12,65.4,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,11,F,3,A,,,
-354-U1452B-11F-4-A,0,26,65.4,65.66,,,sand [Leg210],,sand,sand,sand,,gray,sharp irregular,,,,,,,,,,,,,,,354,U1452,B,11,F,4,A,,,
-354-U1452B-11F-4-A,26,61,65.66,66.01,,,silt [Leg210],,silt,silt,silt,,gray,sharp irregular,,medium bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,4,A,,,
-354-U1452B-11F-4-A,61,94,66.01,66.34,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,4,A,,,
-354-U1452B-11F-CC-A,0,12,66.34,66.46,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,CC,A,,,
-354-U1452B-12F-1-A,0,37,66.4,66.77,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,medium bed [B01],clay [Leg210],thin bed [B01],,,normally graded,,,,,,,,354,U1452,B,12,F,1,A,,,
-354-U1452B-12F-1-A,37,71,66.77,67.11,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,12,F,1,A,,,
-354-U1452B-12F-1-A,71,118,67.11,67.58,,nannofossil rich,calcareous clay [Leg210],,nannofossil rich calcareous clay,nannofossil rich calcareous clay,calcareous clay,,light green,,,,,,,,burrows,,,,,,,,354,U1452,B,12,F,1,A,,,
-354-U1452B-12F-2-A,0,51,67.58,68.09,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,light green,gradational,,,,,,,burrows,,,,31cm dark green layer,,,,354,U1452,B,12,F,2,A,,,
-354-U1452B-12F-2-A,51,95,68.09,68.53,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,12,F,2,A,,,
-354-U1452B-12F-3-A,0,80,68.53,69.33,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,12,F,3,A,,,
-354-U1452B-12F-4-A,0,61,69.33,69.94,,,sand [Leg210],coarse grained,sand,sand coarse grained,sand coarse grained,,gray,,,,,,,,normally graded,,,,Coarser light colored minerals at the base ad fining upwards increasing proportion of dark minerals.,,,,354,U1452,B,12,F,4,A,,,
-354-U1452B-12F-CC-A,0,10,69.94,70.04,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,12,F,CC,A,,,
-354-U1452B-14F-1-A,0,39,75.9,76.29,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,14,F,1,A,,,
-354-U1452B-14F-2-A,0,130,76.29,77.59,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,14,F,2,A,,,
-354-U1452B-16F-1-A,0,76,85.4,86.16,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,16,F,1,A,,,
-354-U1452B-16F-1-A,76,150,86.16,86.9,,sandy [Leg339],silt [Leg210],,sandy silt,sandy silt,silt,,gray,sharp planar,horizontal,thick bed [B01],clay [Leg210],thin bed [B01],,,normally graded,,,,,,,,354,U1452,B,16,F,1,A,,,
-354-U1452B-16F-2-A,0,44,86.9,87.34,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,16,F,2,A,,,
-354-U1452B-16F-2-A,44,150,87.34,88.4,,sandy [Leg339],silt [Leg210],,sandy silt,sandy silt,silt,,gray,sharp planar,horizontal,,,,,,normally graded,,,,,,,,354,U1452,B,16,F,2,A,,,
-354-U1452B-16F-3-A,0,100,88.4,89.4,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,16,F,3,A,,,
-354-U1452B-16F-4-A,0,77,89.4,90.17,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,16,F,4,A,,,
-354-U1452B-16F-CC-A,0,25,90.17,90.42,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,16,F,CC,A,,,
-354-U1452B-18F-1-A,0,28,94.9,95.18,,,sand [Leg210],,sand,sand,sand,,,sharp irregular,horizontal,,,,,,,,,,,,,,354,U1452,B,18,F,1,A,,,
-354-U1452B-18F-1-A,28,76,95.18,95.66,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,,gradational,,,,,,,parallel lamination,,,,,,,,354,U1452,B,18,F,1,A,,,
-354-U1452B-18F-1-A,76,120,95.66,96.1,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,,sharp planar,,,,,,,normally graded,,,,,,,,354,U1452,B,18,F,1,A,,,
-354-U1452B-18F-1-A,120,131,96.1,96.21,,,clay [Leg210],,clay,clay,clay,,,gradational,,,,,,,,,,,,,,,354,U1452,B,18,F,1,A,,,
-354-U1452B-18F-1-A,131,135,96.21,96.25,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,1,A,,,
-354-U1452B-18F-2-A,0,110,96.25,97.35,,,sand [Leg210],,sand,sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,2,A,,,
-354-U1452B-18F-3-A,0,100,97.35,98.35,,,sand [Leg210],,sand,sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,3,A,,,
-354-U1452B-18F-4-A,0,68,98.35,99.03,,,sand [Leg210],,sand,sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,4,A,,,
-354-U1452B-20F-1-A,0,48,104.4,104.88,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,20,F,1,A,,,
-354-U1452B-20F-1-A,48,109,104.88,105.49,,,silt [Leg210],,silt,silt,silt,,gray,,,medium bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,20,F,1,A,,,
-354-U1452B-20F-1-A,109,145,105.49,105.85,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,20,F,1,A,,,
-354-U1452B-20F-2-A,0,136,105.85,107.21,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,20,F,2,A,,,
-354-U1452B-20F-3-A,0,123,107.21,108.44,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,20,F,3,A,,,
-354-U1452B-22F-1-A,0,104,113.9,114.94,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,22,F,1,A,,,
-354-U1452B-24F-1-A,0,86,123.4,124.26,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,24,F,1,A,,,
-354-U1452B-26F-1-A,0,6,132.9,132.96,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,sub-vertical,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,6,21,132.96,133.11,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,sharp irregular,sub-horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,21,41,133.11,133.31,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,41,54,133.31,133.44,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,54,57,133.44,133.47,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,57,62,133.47,133.52,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,62,66,133.52,133.56,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,66,87,133.56,133.77,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,sub-horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,87,110,133.77,134,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,sub-horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],T,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-1-A,110,130,134,134.2,,,clay [Leg210],,clay,clay,clay,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,26,F,1,A,,,
-354-U1452B-26F-2-A,0,88,134.2,135.08,,nannofossil rich,calcareous clay [Leg210],with foraminifers [2014],nannofossil rich calcareous clay,nannofossil rich calcareous clay with foraminifers,calcareous clay with foraminifers,,dark gray,sharp planar,horizontal,medium bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,26,F,2,A,,,
-354-U1452B-26F-2-A,88,93,135.08,135.13,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,26,F,2,A,,,
-354-U1452B-26F-2-A,93,98,135.13,135.18,,,clay [Leg210],,clay,clay,clay,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,26,F,2,A,,,
-354-U1452B-26F-3-A,0,100,135.18,136.18,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,26,F,3,A,,,
-354-U1452B-28F-1-A,0,27,142.4,142.67,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,27,32,142.67,142.72,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,32,49,142.72,142.89,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,very thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,49,63,142.89,143.03,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,63,84,143.03,143.24,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,very thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,84,98,143.24,143.38,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,98,113,143.38,143.53,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,very thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,113,119,143.53,143.59,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,119,140,143.59,143.8,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-1-A,140,150,143.8,143.9,,sandy [Leg339],silt [Leg210],,sandy silt,sandy silt,silt,,dark gray,sharp planar,,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,
-354-U1452B-28F-2-A,0,15,143.9,144.05,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,2,A,,,
-354-U1452B-28F-2-A,15,24,144.05,144.14,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp irregular,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,
-354-U1452B-28F-2-A,24,37,144.14,144.27,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,
-354-U1452B-28F-2-A,37,40,144.27,144.3,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,
-354-U1452B-28F-2-A,40,43,144.3,144.33,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,
-354-U1452B-28F-2-A,43,150,144.33,145.4,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,thick bed [B01],clay [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,28,F,2,A,,,
-354-U1452B-28F-3-A,0,140,145.4,146.8,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,28,F,3,A,,,
-354-U1452B-29F-1-A,0,9,147.1,147.19,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,
-354-U1452B-29F-1-A,9,17,147.19,147.27,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,
-354-U1452B-29F-1-A,17,22,147.27,147.32,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,
-354-U1452B-29F-1-A,22,27,147.32,147.37,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,
-354-U1452B-29F-1-A,27,111,147.37,148.21,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,medium bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,29,F,1,A,,,
-354-U1452B-29F-1-A,111,150,148.21,148.6,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,
-354-U1452B-29F-2-A,0,25,148.6,148.85,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,2,A,,,
-354-U1452B-29F-2-A,25,40,148.85,149,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,sub-vertical,,,,,,,,,,,,,,354,U1452,B,29,F,2,A,,,
-354-U1452B-29F-2-A,40,150,149,150.1,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,2,A,,,
-354-U1452B-29F-3-A,0,100,150.1,151.1,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,3,A,,,
-354-U1452B-29F-4-A,0,73,151.1,151.83,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,4,A,,,
-354-U1452B-29F-CC-A,0,23,151.83,152.06,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,CC,A,,,
-354-U1452B-30F-1-A,0,29,151.8,152.09,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,greenish gray,gradational,inclined,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,30,F,1,A,,,
-354-U1452B-30F-1-A,29,35,152.09,152.15,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,
-354-U1452B-30F-1-A,35,40,152.15,152.2,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,greenish gray,gradational,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,
-354-U1452B-30F-1-A,40,79,152.2,152.59,,sandy [Leg339],silt [Leg210],with mica,sandy silt,sandy silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,
-354-U1452B-30F-1-A,79,83,152.59,152.63,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,gradational,inclined,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,
-354-U1452B-30F-1-A,83,136,152.63,153.16,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,
-354-U1452B-30F-2-A,0,120,153.16,154.36,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,30,F,2,A,,,
-354-U1452B-31F-1-A,0,156,156.5,158.06,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,1,A,,,
-354-U1452B-31F-2-A,0,132,158.06,159.38,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,2,A,,,
-354-U1452B-31F-3-A,0,123,159.38,160.61,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,3,A,,,
-354-U1452B-31F-CC-A,0,13,160.61,160.74,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,CC,A,,,
-354-U1452B-32F-1-A,0,100,161.2,162.2,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,32,F,1,A,,,
-354-U1452B-33F-1-A,0,17,165.9,166.07,,silty [Leg339],clay [Leg210],with mica,silty clay,silty clay with mica,clay with mica,,dark gray,sharp planar,inclined,,,,,,,,,,,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-1-A,17,50,166.07,166.4,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-1-A,50,95,166.4,166.85,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,inclined,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,Silt is yellow to very light gray with a low content of micas,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-1-A,95,105,166.85,166.95,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-1-A,105,118,166.95,167.08,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,sharp planar,horizontal,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-1-A,118,136,167.08,167.26,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,greenish gray,sharp planar,horizontal,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-1-A,136,150,167.26,167.4,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,1,A,,,
-354-U1452B-33F-2-A,0,150,167.4,168.9,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,2,A,,,
-354-U1452B-33F-3-A,0,34,168.9,169.24,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,gradational,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,3,A,,,
-354-U1452B-33F-3-A,34,112,169.24,170.02,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,3,A,,,
-354-U1452B-33F-4-A,0,29,170.02,170.31,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,gradational,sub-horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,33,F,4,A,,,
-354-U1452B-33F-4-A,29,70,170.31,170.72,,,clay [Leg210],with nannofossils [2014],clay,clay with nannofossils,clay with nannofossils,,gray,,,,,,,,,,,,,,,,354,U1452,B,33,F,4,A,,,
-354-U1452B-33F-4-A,29,70,170.31,170.72,,,,with foraminifers [2014],,with foraminifers,with foraminifers,,,,,,,,,,,,,,,,,,354,U1452,B,33,F,4,A,,,
-354-U1452B-33F-CC-A,0,32,170.72,171.04,,,clay [Leg210],with nannofossils [2014],clay,clay with nannofossils,clay with nannofossils,,gray,,,,,,,,,,,,,,,,354,U1452,B,33,F,CC,A,,,
-354-U1452B-33F-CC-A,0,32,170.72,171.04,,,,with foraminifers [2014],,with foraminifers,with foraminifers,,,,,,,,,,,,,,,,,,354,U1452,B,33,F,CC,A,,,
-354-U1452B-34F-1-A,0,3,170.6,170.63,,,clay [Leg210],,clay,clay,clay,,light gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,34,F,1,A,,,
-354-U1452B-34F-1-A,3,150,170.63,172.1,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,1,A,,,
-354-U1452B-34F-2-A,0,49,172.1,172.59,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,2,A,,,
-354-U1452B-34F-2-A,49,69,172.59,172.79,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,34,F,2,A,,,
-354-U1452B-34F-2-A,69,150,172.79,173.6,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,2,A,,,
-354-U1452B-34F-3-A,0,39,173.6,173.99,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,3,A,,,
-354-U1452B-34F-3-A,39,135,173.99,174.95,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,sharp irregular,sub-horizontal,medium bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,34,F,3,A,,,
-354-U1452B-34F-3-A,135,150,174.95,175.1,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,gray,,,,,,,,,,,,,,,,354,U1452,B,34,F,3,A,,,
-354-U1452B-34F-CC-A,0,18,175.1,175.28,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,gray,,,,,,,,,,,,,,,,354,U1452,B,34,F,CC,A,,,
-354-U1452B-35F-1-A,0,22,175.3,175.52,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,35,F,1,A,,,
-354-U1452B-35F-1-A,22,26,175.52,175.56,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,35,F,1,A,,,
-354-U1452B-35F-1-A,26,150,175.56,176.8,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,shell @ 85-89,,,,354,U1452,B,35,F,1,A,,,
-354-U1452B-35F-2-A,0,150,176.8,178.3,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,35,F,2,A,,,
-354-U1452B-35F-3-A,0,72,178.3,179.02,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,3,A,,,
-354-U1452B-35F-3-A,72,112,179.02,179.42,,,silt [Leg210],,silt,silt,silt,,light gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,3,A,,,
-354-U1452B-35F-4-A,0,62,179.42,180.04,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,medium bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,4,A,,,
-354-U1452B-35F-CC-A,0,29,180.04,180.33,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,CC,A,,,
-354-U1452B-36F-1-A,0,28,180,180.28,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,1,A,,,
-354-U1452B-36F-1-A,28,44,180.28,180.44,,,silt [Leg210],,silt,silt,silt,,light gray,sharp planar,horizontal,,,,,,burrows,,,,,,,,354,U1452,B,36,F,1,A,,,
-354-U1452B-36F-1-A,44,85,180.44,180.85,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,1,A,,,
-354-U1452B-36F-1-A,85,150,180.85,181.5,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,36,F,1,A,,,
-354-U1452B-36F-2-A,0,12,181.5,181.62,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,2,A,,,
-354-U1452B-36F-2-A,12,19,181.62,181.69,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,burrows,,,,,,,,354,U1452,B,36,F,2,A,,,
-354-U1452B-36F-2-A,19,83,181.69,182.33,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,2,A,,,
-354-U1452B-36F-2-A,83,131,182.33,182.81,,,silt [Leg210],,silt,silt,silt,,light gray,sharp irregular,,,,,,,parallel lamination,,,,,,,,354,U1452,B,36,F,2,A,,,
-354-U1452B-36F-2-A,131,150,182.81,183,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,2,A,,,
-354-U1452B-36F-3-A,0,87,183,183.87,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,bioturbated,,,,,,,burrows,,,,,,,,354,U1452,B,36,F,3,A,,,
-354-U1452B-36F-3-A,87,90,183.87,183.9,,,silt [Leg210],,silt,silt,silt,,light gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,36,F,3,A,,,
-354-U1452B-36F-3-A,90,112,183.9,184.12,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,3,A,,,
-354-U1452B-36F-CC-A,0,29,184.12,184.41,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,sharp irregular,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,CC,A,,,
-354-U1452B-36F-CC-A,29,35,184.41,184.47,,,volcanic ash [MMK88],,volcanic ash,volcanic ash,volcanic ash,,white,,,,,,,,,,,,,,,,354,U1452,B,36,F,CC,A,,,
-354-U1452B-37F-1-A,0,150,184.7,186.2,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,1,A,,,
-354-U1452B-37F-2-A,0,150,186.2,187.7,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,2,A,,,
-354-U1452B-37F-3-A,0,112,187.7,188.82,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,3,A,,,
-354-U1452B-37F-4-A,0,33,188.82,189.15,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,bioturbated,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,4,A,,,
-354-U1452B-37F-4-A,33,58,189.15,189.4,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,37,F,4,A,,,
-354-U1452B-37F-4-A,58,63,189.4,189.45,,,sand [Leg210],,sand,sand,sand,,light gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,37,F,4,A,,,
-354-U1452B-37F-CC-A,0,10,189.45,189.55,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,37,F,CC,A,,,
-354-U1452B-38F-1-A,0,10,189.4,189.5,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,,,,,,,,deformed by drilling disturbance,,,,,,,354,U1452,B,38,F,1,A,,,
-354-U1452B-38F-1-A,10,122,189.5,190.62,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,38,F,1,A,,,
-354-U1452B-38F-2-A,0,140,190.62,192.02,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,38,F,2,A,,,
-354-U1452B-38F-3-A,0,94,192.02,192.96,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,38,F,3,A,,,
-354-U1452B-38F-4-A,0,60,192.96,193.56,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,38,F,4,A,,,
-354-U1452B-39F-1-A,0,100,194.1,195.1,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,1,A,,,
-354-U1452B-39F-2-A,0,125,195.1,196.35,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,2,A,,,
-354-U1452B-39F-3-A,0,109,196.35,197.44,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,3,A,,,
-354-U1452B-39F-CC-A,0,15,197.44,197.59,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,CC,A,,,
-354-U1452B-41F-1-A,0,151,203.6,205.11,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,1,A,,,
-354-U1452B-41F-2-A,0,90,205.11,206.01,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,2,A,,,
-354-U1452B-41F-2-A,90,152,206.01,206.63,,clayey [Leg339],sand [Leg210],,clayey sand,clayey sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,2,A,,,
-354-U1452B-41F-3-A,0,105,206.63,207.68,,clayey [Leg339],sand [Leg210],,clayey sand,clayey sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,3,A,,,
-354-U1452B-41F-CC-A,0,22,207.68,207.9,,clayey [Leg339],sand [Leg210],,clayey sand,clayey sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,CC,A,,,
-354-U1452B-42F-1-A,0,153,208.3,209.83,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,42,F,1,A,,,
-354-U1452B-42F-2-A,0,45,209.83,210.28,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,gray,gradational,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,42,F,2,A,,,
-354-U1452B-42F-2-A,45,150,210.28,211.33,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,,,,,,,,parallel lamination,,,,,,,,354,U1452,B,42,F,2,A,,,
-354-U1452B-42F-3-A,0,103,211.33,212.36,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,42,F,3,A,,,
-354-U1452B-42F-4-A,0,54,212.36,212.9,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,42,F,4,A,,,
-354-U1452B-42F-4-A,54,73,212.9,213.09,,,silt [Leg210],,silt,silt,silt,,gray,,,thin bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,42,F,4,A,,,
-354-U1452B-42F-CC-A,0,7,213.09,213.16,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,42,F,CC,A,,,
-354-U1452B-42F-CC-A,7,27,213.16,213.36,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,42,F,CC,A,,,
-354-U1452B-43F-1-A,0,55,213,213.55,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,medium bed [B01],silt [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,43,F,1,A,,,
-354-U1452B-43F-1-A,55,113,213.55,214.13,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,43,F,1,A,,,
-354-U1452B-43F-2-A,0,100,214.13,215.13,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,43,F,2,A,,,
-354-U1452B-43F-3-A,0,56,215.13,215.69,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,43,F,3,A,,,
-354-U1452B-43F-CC-A,0,5,215.69,215.74,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,43,F,CC,A,,,
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithologic unit (preliminary),Lithology Prefix,Lithology Principal Name,Lithology Suffix,Lithology prefix+name [read only],Lithology prefix+name+suffix [read only],Lithology name+suffix [read only],Lithology  abundance [%],Lithology color (simple),Bottom contact or boundary geometry,Bottom contact or boundary attitude,Bedding thickness of MAJOR lithology,Interbed lithology,Thickness of interbeds,INTERPRETATION - Turbiditic or Hemipelagic,TEPHRA type,Sedimentary structure,Sedimentary structure comment,Diagenetic structure,Macrofossil,General interval comment,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name,row_index
+354-U1452B-1H-1-A,0,150,0,1.5,,nannofossil rich,calcareous clay [Leg210],,nannofossil rich calcareous clay,nannofossil rich calcareous clay,calcareous clay,,green,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,1,A,,,,0
+354-U1452B-1H-2-A,0,14,1.5,1.64,,nannofossil rich,calcareous clay [Leg210],,nannofossil rich calcareous clay,nannofossil rich calcareous clay,calcareous clay,,green,sharp planar,horizontal,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,2,A,,,,1
+354-U1452B-1H-2-A,14,37,1.64,1.87,,,volcanic ash [MMK88],,volcanic ash,volcanic ash,volcanic ash,,light brown,sharp irregular,,,,,,,normally graded,,,,Lower part of the ash layer disturbed by cutting.,,,,354,U1452,B,1,H,2,A,,,,2
+354-U1452B-1H-2-A,37,150,1.87,3,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,white,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,2,A,,,,3
+354-U1452B-1H-3-A,0,150,3,4.5,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,white,,,,,,,,mottling [BJ80],,,,79-84 blob of ash probably a coring disturbance.,,,,354,U1452,B,1,H,3,A,,,,4
+354-U1452B-1H-4-A,0,88,4.5,5.38,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,light green,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,1,H,4,A,,,,5
+354-U1452B-1H-4-A,88,122,5.38,5.72,,,sand [Leg210],with mica,sand,sand with mica,sand with mica,,dark gray,sharp irregular,,,,,,,mud clast,,,,,,,,354,U1452,B,1,H,4,A,,,,6
+354-U1452B-1H-4-A,122,150,5.72,6,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,1,H,4,A,,,,7
+354-U1452B-1H-5-A,0,73,6,6.73,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,medium bed [B01],clay [Leg210],thick bed [B01],,,,,,,,,,,354,U1452,B,1,H,5,A,,,,8
+354-U1452B-1H-5-A,73,105,6.73,7.05,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,,medium bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,1,H,5,A,,,,9
+354-U1452B-1H-5-A,105,113,7.05,7.13,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp irregular,,,,,,,,,,,tilted during core recovery.,,,,354,U1452,B,1,H,5,A,,,,10
+354-U1452B-1H-5-A,113,130,7.13,7.3,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,1,H,5,A,,,,11
+354-U1452B-1H-5-A,130,150,7.3,7.5,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,white,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,1,H,5,A,,,,12
+354-U1452B-1H-6-A,0,35,7.5,7.85,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,gradational,,,,,,,burrows,,,,,,,,354,U1452,B,1,H,6,A,,,,13
+354-U1452B-1H-6-A,35,60,7.85,8.1,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,green,,,,,,,,,,,,,,,,354,U1452,B,1,H,6,A,,,,14
+354-U1452B-2H-1-A,0,19,8.2,8.39,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp irregular,,,,,,,,,,,flow-in deformation,,,,354,U1452,B,2,H,1,A,,,,15
+354-U1452B-2H-1-A,19,116,8.39,9.36,,,clay [Leg210],,clay,clay,clay,,gray,gradational,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,2,H,1,A,,,,16
+354-U1452B-2H-1-A,116,149,9.36,9.69,,,silt [Leg210],,silt,silt,silt,,dark gray,,,thin bed [B01],clay [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,2,H,1,A,,,,17
+354-U1452B-3H-1-A,0,150,17.7,19.2,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,1,A,,,,18
+354-U1452B-3H-2-A,0,150,19.2,20.7,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,2,A,,,,19
+354-U1452B-3H-3-A,0,79,20.7,21.49,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,3,A,,,,20
+354-U1452B-3H-4-A,0,150,21.49,22.99,,,silt [Leg210],,silt,silt,silt,,gray,,,thin bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,3,H,4,A,,,,21
+354-U1452B-3H-5-A,0,69,22.99,23.68,,,silt [Leg210],,silt,silt,silt,,gray,sharp irregular,,medium bed [B01],clay [Leg210],thin bed [B01],,,cross-bedding,,,,,,,,354,U1452,B,3,H,5,A,,,,22
+354-U1452B-3H-5-A,69,101,23.68,24,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,deformed by flow in,,,,,,,354,U1452,B,3,H,5,A,,,,23
+354-U1452B-3H-6-A,0,98,24,24.98,,,silt [Leg210],,silt,silt,silt,,gray,,,medium bed [B01],clay [Leg210],thin bed [B01],,,cross-bedding,,,,,,,,354,U1452,B,3,H,6,A,,,,24
+354-U1452B-3H-CC-A,0,16,24.98,25.14,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,3,H,CC,A,,,,25
+354-U1452B-4H-1-A,0,63,27.2,27.83,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,,26
+354-U1452B-4H-1-A,63,85,27.83,28.05,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,,27
+354-U1452B-4H-1-A,85,115,28.05,28.35,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,,28
+354-U1452B-4H-1-A,115,141,28.35,28.61,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,1,A,,,,29
+354-U1452B-4H-1-A,141,150,28.61,28.7,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,4,H,1,A,,,,30
+354-U1452B-4H-2-A,0,25,28.7,28.95,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,2,A,,,,31
+354-U1452B-4H-2-A,25,43,28.95,29.13,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,2,A,,,,32
+354-U1452B-4H-2-A,43,92,29.13,29.62,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,2,A,,,,33
+354-U1452B-4H-2-A,92,111,29.62,29.81,,,silt [Leg210],with plant fragments [2014],silt,silt with plant fragments,silt with plant fragments,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,2,A,,,,34
+354-U1452B-4H-2-A,111,127,29.81,29.97,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,2,A,,,,35
+354-U1452B-4H-2-A,127,150,29.97,30.2,,,silt [Leg210],with plant fragments [2014],silt,silt with plant fragments,silt with plant fragments,,gray,,,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,2,A,,,,36
+354-U1452B-4H-3-A,0,20,30.2,30.4,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,4,H,3,A,,,,37
+354-U1452B-4H-3-A,20,66,30.4,30.86,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,3,A,,,,38
+354-U1452B-4H-3-A,66,150,30.86,31.7,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,3,A,,,,39
+354-U1452B-4H-4-A,0,34,31.7,32.04,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,4,A,,,,40
+354-U1452B-4H-4-A,34,65,32.04,32.35,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,4,A,,,,41
+354-U1452B-4H-4-A,65,150,32.35,33.2,,,silt [Leg210],,silt,silt,silt,,gray,,,medium bed [B01],clay [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,4,H,4,A,,,,42
+354-U1452B-4H-5-A,0,27,33.2,33.47,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,5,A,,,,43
+354-U1452B-4H-5-A,27,63,33.47,33.83,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,cross-bedding,,,,,,,,354,U1452,B,4,H,5,A,,,,44
+354-U1452B-4H-5-A,63,81,33.83,34.01,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,5,A,,,,45
+354-U1452B-4H-5-A,81,104,34.01,34.24,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,cross-bedding,,,,,,,,354,U1452,B,4,H,5,A,,,,46
+354-U1452B-4H-5-A,104,110,34.24,34.3,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,,,,,,,,,,,,,,354,U1452,B,4,H,5,A,,,,47
+354-U1452B-4H-5-A,110,125,34.3,34.45,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,cross-bedding,,,,,,,,354,U1452,B,4,H,5,A,,,,48
+354-U1452B-4H-5-A,125,150,34.45,34.7,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,5,A,,,,49
+354-U1452B-4H-6-A,0,22,34.7,34.92,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,4,H,6,A,,,,50
+354-U1452B-4H-6-A,22,150,34.92,36.2,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,6,A,,,,51
+354-U1452B-4H-7-A,0,62,35.71,36.33,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,7,A,,,,52
+354-U1452B-4H-CC-A,0,16,36.33,36.49,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,4,H,CC,A,,,,53
+354-U1452B-5H-1-A,0,9,36.7,36.79,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,,54
+354-U1452B-5H-1-A,9,12,36.79,36.82,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,5,H,1,A,,,,55
+354-U1452B-5H-1-A,12,34,36.82,37.04,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,parallel lamination in silt,,,,,,,354,U1452,B,5,H,1,A,,,,56
+354-U1452B-5H-1-A,34,38,37.04,37.08,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,,57
+354-U1452B-5H-1-A,38,43,37.08,37.13,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,,58
+354-U1452B-5H-1-A,43,46,37.13,37.16,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,5,H,1,A,,,,59
+354-U1452B-5H-1-A,46,74,37.16,37.44,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,parallel lamination in silt,,,,,,,354,U1452,B,5,H,1,A,,,,60
+354-U1452B-5H-1-A,74,79,37.44,37.49,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,,61
+354-U1452B-5H-1-A,79,91,37.49,37.61,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,sub-horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,parallel lamination in silt,,,,,,,354,U1452,B,5,H,1,A,,,,62
+354-U1452B-5H-1-A,91,95,37.61,37.65,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,1,A,,,,63
+354-U1452B-5H-1-A,95,106,37.65,37.76,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,sub-horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,5,H,1,A,,,,64
+354-U1452B-5H-1-A,106,150,37.76,38.2,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,,,,,,,,,,,,plant fragments present,,,,354,U1452,B,5,H,1,A,,,,65
+354-U1452B-5H-2-A,0,11,38.2,38.31,,,clay [Leg210],,clay,clay,clay,,dark gray,gradational,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,66
+354-U1452B-5H-2-A,11,44,38.31,38.64,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,67
+354-U1452B-5H-2-A,44,55,38.64,38.75,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,68
+354-U1452B-5H-2-A,55,67,38.75,38.87,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,69
+354-U1452B-5H-2-A,67,93,38.87,39.13,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,5,H,2,A,,,,70
+354-U1452B-5H-2-A,93,109,39.13,39.29,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,71
+354-U1452B-5H-2-A,109,117,39.29,39.37,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,72
+354-U1452B-5H-2-A,117,122,39.37,39.42,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,73
+354-U1452B-5H-2-A,122,126,39.42,39.46,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,74
+354-U1452B-5H-2-A,126,150,39.46,39.7,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,2,A,,,,75
+354-U1452B-5H-3-A,0,11,39.7,39.81,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,3,A,,,,76
+354-U1452B-5H-3-A,11,19,39.81,39.89,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,5,H,3,A,,,,77
+354-U1452B-5H-3-A,19,104,39.89,40.74,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,5,H,3,A,,,,78
+354-U1452B-5H-4-A,0,84,40.74,41.58,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,4,A,,,,79
+354-U1452B-5H-5-A,0,78,41.58,42.36,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,5,A,,,,80
+354-U1452B-5H-6-A,0,76,42.36,43.12,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,6,A,,,,81
+354-U1452B-5H-CC-A,0,20,43.12,43.32,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,5,H,CC,A,,,,82
+354-U1452B-6F-1-A,0,84,41.4,42.24,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,6,F,1,A,,,,83
+354-U1452B-6F-2-A,0,150,42.24,43.74,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,6,F,2,A,,,,84
+354-U1452B-6F-CC-A,0,21,43.74,43.95,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,6,F,CC,A,,,,85
+354-U1452B-8F-1-A,0,150,47.6,49.1,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,8,F,1,A,,,,86
+354-U1452B-8F-2-A,0,11,49.1,49.21,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,fine sand,,,,354,U1452,B,8,F,2,A,,,,87
+354-U1452B-8F-2-A,11,70,49.21,49.8,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,8,F,2,A,,,,88
+354-U1452B-8F-2-A,70,90,49.8,50,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,8,F,2,A,,,,89
+354-U1452B-8F-3-A,0,150,50,51.5,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,8,F,3,A,,,,90
+354-U1452B-8F-CC-A,0,25,51.5,51.75,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,8,F,CC,A,,,,91
+354-U1452B-9F-1-A,0,78,52.3,53.08,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,9,F,1,A,,,,92
+354-U1452B-9F-2-A,0,157,53.08,54.65,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,9,F,2,A,,,,93
+354-U1452B-9F-CC-A,0,20,54.65,54.85,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,9,F,CC,A,,,,94
+354-U1452B-10F-1-A,0,9,57,57.09,,,clay [Leg210],,clay,clay,clay,,dark gray,gradational,,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,,95
+354-U1452B-10F-1-A,9,48,57.09,57.48,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp irregular,,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,,96
+354-U1452B-10F-1-A,48,92,57.48,57.92,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,,97
+354-U1452B-10F-1-A,92,150,57.92,58.5,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,10,F,1,A,,,,98
+354-U1452B-10F-2-A,0,10,58.5,58.6,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,2,A,,,,99
+354-U1452B-10F-2-A,10,74,58.6,59.24,,,clay [Leg210],,clay,clay,clay,,dark gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,10,F,2,A,,,,100
+354-U1452B-10F-2-A,74,104,59.24,59.54,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,2,A,,,,101
+354-U1452B-10F-2-A,104,153,59.54,60.03,,,clay [Leg210],,clay,clay,clay,,dark gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,10,F,2,A,,,,102
+354-U1452B-10F-3-A,0,88,59.99,60.87,,,clay [Leg210],,clay,clay,clay,,dark gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,10,F,3,A,,,,103
+354-U1452B-10F-3-A,88,101,60.87,61,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,10,F,3,A,,,,104
+354-U1452B-10F-4-A,0,32,61,61.32,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,4,A,,,,105
+354-U1452B-10F-4-A,32,42,61.32,61.42,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,10,F,4,A,,,,106
+354-U1452B-10F-4-A,42,75,61.42,61.75,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,10,F,4,A,,,,107
+354-U1452B-10F-CC-A,0,8,61.75,61.83,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,10,F,CC,A,,,,108
+354-U1452B-11F-1-A,0,13,61.7,61.83,,,clay [Leg210],,clay,clay,clay,,gray,sharp irregular,,,,,,,,,,,,,,,354,U1452,B,11,F,1,A,,,,109
+354-U1452B-11F-1-A,13,124,61.83,62.94,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,thick bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,1,A,,,,110
+354-U1452B-11F-1-A,124,150,62.94,63.2,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,1,A,,,,111
+354-U1452B-11F-2-A,0,63,63.2,63.83,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,11,F,2,A,,,,112
+354-U1452B-11F-2-A,63,91,63.83,64.11,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,2,A,,,,113
+354-U1452B-11F-2-A,91,150,64.11,64.7,,,silt [Leg210],,silt,silt,silt,,gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,11,F,2,A,,,,114
+354-U1452B-11F-3-A,0,36,64.7,65.06,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,11,F,3,A,,,,115
+354-U1452B-11F-3-A,36,42,65.06,65.12,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,,,,,,,,,,,,,,354,U1452,B,11,F,3,A,,,,116
+354-U1452B-11F-3-A,42,70,65.12,65.4,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,11,F,3,A,,,,117
+354-U1452B-11F-4-A,0,26,65.4,65.66,,,sand [Leg210],,sand,sand,sand,,gray,sharp irregular,,,,,,,,,,,,,,,354,U1452,B,11,F,4,A,,,,118
+354-U1452B-11F-4-A,26,61,65.66,66.01,,,silt [Leg210],,silt,silt,silt,,gray,sharp irregular,,medium bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,4,A,,,,119
+354-U1452B-11F-4-A,61,94,66.01,66.34,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,4,A,,,,120
+354-U1452B-11F-CC-A,0,12,66.34,66.46,,,clay [Leg210],,clay,clay,clay,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,11,F,CC,A,,,,121
+354-U1452B-12F-1-A,0,37,66.4,66.77,,,sand [Leg210],,sand,sand,sand,,dark gray,sharp planar,horizontal,medium bed [B01],clay [Leg210],thin bed [B01],,,normally graded,,,,,,,,354,U1452,B,12,F,1,A,,,,122
+354-U1452B-12F-1-A,37,71,66.77,67.11,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,12,F,1,A,,,,123
+354-U1452B-12F-1-A,71,118,67.11,67.58,,nannofossil rich,calcareous clay [Leg210],,nannofossil rich calcareous clay,nannofossil rich calcareous clay,calcareous clay,,light green,,,,,,,,burrows,,,,,,,,354,U1452,B,12,F,1,A,,,,124
+354-U1452B-12F-2-A,0,51,67.58,68.09,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,light green,gradational,,,,,,,burrows,,,,31cm dark green layer,,,,354,U1452,B,12,F,2,A,,,,125
+354-U1452B-12F-2-A,51,95,68.09,68.53,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,12,F,2,A,,,,126
+354-U1452B-12F-3-A,0,80,68.53,69.33,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,12,F,3,A,,,,127
+354-U1452B-12F-4-A,0,61,69.33,69.94,,,sand [Leg210],coarse grained,sand,sand coarse grained,sand coarse grained,,gray,,,,,,,,normally graded,,,,Coarser light colored minerals at the base ad fining upwards increasing proportion of dark minerals.,,,,354,U1452,B,12,F,4,A,,,,128
+354-U1452B-12F-CC-A,0,10,69.94,70.04,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,12,F,CC,A,,,,129
+354-U1452B-14F-1-A,0,39,75.9,76.29,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,14,F,1,A,,,,130
+354-U1452B-14F-2-A,0,130,76.29,77.59,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,14,F,2,A,,,,131
+354-U1452B-16F-1-A,0,76,85.4,86.16,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,16,F,1,A,,,,132
+354-U1452B-16F-1-A,76,150,86.16,86.9,,sandy [Leg339],silt [Leg210],,sandy silt,sandy silt,silt,,gray,sharp planar,horizontal,thick bed [B01],clay [Leg210],thin bed [B01],,,normally graded,,,,,,,,354,U1452,B,16,F,1,A,,,,133
+354-U1452B-16F-2-A,0,44,86.9,87.34,,,clay [Leg210],,clay,clay,clay,,gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,16,F,2,A,,,,134
+354-U1452B-16F-2-A,44,150,87.34,88.4,,sandy [Leg339],silt [Leg210],,sandy silt,sandy silt,silt,,gray,sharp planar,horizontal,,,,,,normally graded,,,,,,,,354,U1452,B,16,F,2,A,,,,135
+354-U1452B-16F-3-A,0,100,88.4,89.4,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,16,F,3,A,,,,136
+354-U1452B-16F-4-A,0,77,89.4,90.17,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,16,F,4,A,,,,137
+354-U1452B-16F-CC-A,0,25,90.17,90.42,,,clay [Leg210],,clay,clay,clay,,gray,,,,,,,,,,,,,,,,354,U1452,B,16,F,CC,A,,,,138
+354-U1452B-18F-1-A,0,28,94.9,95.18,,,sand [Leg210],,sand,sand,sand,,,sharp irregular,horizontal,,,,,,,,,,,,,,354,U1452,B,18,F,1,A,,,,139
+354-U1452B-18F-1-A,28,76,95.18,95.66,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,,gradational,,,,,,,parallel lamination,,,,,,,,354,U1452,B,18,F,1,A,,,,140
+354-U1452B-18F-1-A,76,120,95.66,96.1,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,,sharp planar,,,,,,,normally graded,,,,,,,,354,U1452,B,18,F,1,A,,,,141
+354-U1452B-18F-1-A,120,131,96.1,96.21,,,clay [Leg210],,clay,clay,clay,,,gradational,,,,,,,,,,,,,,,354,U1452,B,18,F,1,A,,,,142
+354-U1452B-18F-1-A,131,135,96.21,96.25,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,1,A,,,,143
+354-U1452B-18F-2-A,0,110,96.25,97.35,,,sand [Leg210],,sand,sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,2,A,,,,144
+354-U1452B-18F-3-A,0,100,97.35,98.35,,,sand [Leg210],,sand,sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,3,A,,,,145
+354-U1452B-18F-4-A,0,68,98.35,99.03,,,sand [Leg210],,sand,sand,sand,,,,,,,,,,,,,,,,,,354,U1452,B,18,F,4,A,,,,146
+354-U1452B-20F-1-A,0,48,104.4,104.88,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,20,F,1,A,,,,147
+354-U1452B-20F-1-A,48,109,104.88,105.49,,,silt [Leg210],,silt,silt,silt,,gray,,,medium bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,20,F,1,A,,,,148
+354-U1452B-20F-1-A,109,145,105.49,105.85,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,20,F,1,A,,,,149
+354-U1452B-20F-2-A,0,136,105.85,107.21,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,20,F,2,A,,,,150
+354-U1452B-20F-3-A,0,123,107.21,108.44,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,20,F,3,A,,,,151
+354-U1452B-22F-1-A,0,104,113.9,114.94,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,22,F,1,A,,,,152
+354-U1452B-24F-1-A,0,86,123.4,124.26,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,24,F,1,A,,,,153
+354-U1452B-26F-1-A,0,6,132.9,132.96,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,sub-vertical,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,154
+354-U1452B-26F-1-A,6,21,132.96,133.11,,silty [Leg339],sand [Leg210],,silty sand,silty sand,sand,,dark gray,sharp irregular,sub-horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,155
+354-U1452B-26F-1-A,21,41,133.11,133.31,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,156
+354-U1452B-26F-1-A,41,54,133.31,133.44,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,157
+354-U1452B-26F-1-A,54,57,133.44,133.47,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,158
+354-U1452B-26F-1-A,57,62,133.47,133.52,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,159
+354-U1452B-26F-1-A,62,66,133.52,133.56,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,160
+354-U1452B-26F-1-A,66,87,133.56,133.77,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,sub-horizontal,,,,T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,161
+354-U1452B-26F-1-A,87,110,133.77,134,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,sub-horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],T,,,,,,,,,,354,U1452,B,26,F,1,A,,,,162
+354-U1452B-26F-1-A,110,130,134,134.2,,,clay [Leg210],,clay,clay,clay,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,26,F,1,A,,,,163
+354-U1452B-26F-2-A,0,88,134.2,135.08,,nannofossil rich,calcareous clay [Leg210],with foraminifers [2014],nannofossil rich calcareous clay,nannofossil rich calcareous clay with foraminifers,calcareous clay with foraminifers,,dark gray,sharp planar,horizontal,medium bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,26,F,2,A,,,,164
+354-U1452B-26F-2-A,88,93,135.08,135.13,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,26,F,2,A,,,,165
+354-U1452B-26F-2-A,93,98,135.13,135.18,,,clay [Leg210],,clay,clay,clay,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,26,F,2,A,,,,166
+354-U1452B-26F-3-A,0,100,135.18,136.18,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,26,F,3,A,,,,167
+354-U1452B-28F-1-A,0,27,142.4,142.67,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,,168
+354-U1452B-28F-1-A,27,32,142.67,142.72,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,,169
+354-U1452B-28F-1-A,32,49,142.72,142.89,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,very thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,1,A,,,,170
+354-U1452B-28F-1-A,49,63,142.89,143.03,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,,171
+354-U1452B-28F-1-A,63,84,143.03,143.24,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,very thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,1,A,,,,172
+354-U1452B-28F-1-A,84,98,143.24,143.38,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,,173
+354-U1452B-28F-1-A,98,113,143.38,143.53,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,very thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,28,F,1,A,,,,174
+354-U1452B-28F-1-A,113,119,143.53,143.59,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,,175
+354-U1452B-28F-1-A,119,140,143.59,143.8,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,1,A,,,,176
+354-U1452B-28F-1-A,140,150,143.8,143.9,,sandy [Leg339],silt [Leg210],,sandy silt,sandy silt,silt,,dark gray,sharp planar,,,,,,,,,,,,,,,354,U1452,B,28,F,1,A,,,,177
+354-U1452B-28F-2-A,0,15,143.9,144.05,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,thin bed [B01],silt [Leg210],lamina [M&W53],,,,,,,,,,,354,U1452,B,28,F,2,A,,,,178
+354-U1452B-28F-2-A,15,24,144.05,144.14,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp irregular,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,,179
+354-U1452B-28F-2-A,24,37,144.14,144.27,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,,180
+354-U1452B-28F-2-A,37,40,144.27,144.3,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,,181
+354-U1452B-28F-2-A,40,43,144.3,144.33,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,28,F,2,A,,,,182
+354-U1452B-28F-2-A,43,150,144.33,145.4,,,silt [Leg210],with mica,silt,silt with mica,silt with mica,,dark gray,sharp planar,horizontal,thick bed [B01],clay [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,28,F,2,A,,,,183
+354-U1452B-28F-3-A,0,140,145.4,146.8,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,28,F,3,A,,,,184
+354-U1452B-29F-1-A,0,9,147.1,147.19,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,,185
+354-U1452B-29F-1-A,9,17,147.19,147.27,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp planar,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,,186
+354-U1452B-29F-1-A,17,22,147.27,147.32,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,,187
+354-U1452B-29F-1-A,22,27,147.32,147.37,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,,188
+354-U1452B-29F-1-A,27,111,147.37,148.21,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp planar,horizontal,medium bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,29,F,1,A,,,,189
+354-U1452B-29F-1-A,111,150,148.21,148.6,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,1,A,,,,190
+354-U1452B-29F-2-A,0,25,148.6,148.85,,,silt [Leg210],,silt,silt,silt,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,29,F,2,A,,,,191
+354-U1452B-29F-2-A,25,40,148.85,149,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,sub-vertical,,,,,,,,,,,,,,354,U1452,B,29,F,2,A,,,,192
+354-U1452B-29F-2-A,40,150,149,150.1,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,2,A,,,,193
+354-U1452B-29F-3-A,0,100,150.1,151.1,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,3,A,,,,194
+354-U1452B-29F-4-A,0,73,151.1,151.83,,,silt [Leg210],,silt,silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,4,A,,,,195
+354-U1452B-29F-CC-A,0,23,151.83,152.06,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,29,F,CC,A,,,,196
+354-U1452B-30F-1-A,0,29,151.8,152.09,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,greenish gray,gradational,inclined,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,30,F,1,A,,,,197
+354-U1452B-30F-1-A,29,35,152.09,152.15,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,,198
+354-U1452B-30F-1-A,35,40,152.15,152.2,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,greenish gray,gradational,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,,199
+354-U1452B-30F-1-A,40,79,152.2,152.59,,sandy [Leg339],silt [Leg210],with mica,sandy silt,sandy silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,,200
+354-U1452B-30F-1-A,79,83,152.59,152.63,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,gradational,inclined,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,,201
+354-U1452B-30F-1-A,83,136,152.63,153.16,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,30,F,1,A,,,,202
+354-U1452B-30F-2-A,0,120,153.16,154.36,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,30,F,2,A,,,,203
+354-U1452B-31F-1-A,0,156,156.5,158.06,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,1,A,,,,204
+354-U1452B-31F-2-A,0,132,158.06,159.38,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,2,A,,,,205
+354-U1452B-31F-3-A,0,123,159.38,160.61,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,3,A,,,,206
+354-U1452B-31F-CC-A,0,13,160.61,160.74,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,31,F,CC,A,,,,207
+354-U1452B-32F-1-A,0,100,161.2,162.2,,silty [Leg339],sand [Leg210],with mica,silty sand,silty sand with mica,sand with mica,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,32,F,1,A,,,,208
+354-U1452B-33F-1-A,0,17,165.9,166.07,,silty [Leg339],clay [Leg210],with mica,silty clay,silty clay with mica,clay with mica,,dark gray,sharp planar,inclined,,,,,,,,,,,,,,354,U1452,B,33,F,1,A,,,,209
+354-U1452B-33F-1-A,17,50,166.07,166.4,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,33,F,1,A,,,,210
+354-U1452B-33F-1-A,50,95,166.4,166.85,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,inclined,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,Silt is yellow to very light gray with a low content of micas,,,,354,U1452,B,33,F,1,A,,,,211
+354-U1452B-33F-1-A,95,105,166.85,166.95,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,33,F,1,A,,,,212
+354-U1452B-33F-1-A,105,118,166.95,167.08,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,sharp planar,horizontal,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,1,A,,,,213
+354-U1452B-33F-1-A,118,136,167.08,167.26,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,greenish gray,sharp planar,horizontal,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,1,A,,,,214
+354-U1452B-33F-1-A,136,150,167.26,167.4,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,1,A,,,,215
+354-U1452B-33F-2-A,0,150,167.4,168.9,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,2,A,,,,216
+354-U1452B-33F-3-A,0,34,168.9,169.24,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,gradational,horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,3,A,,,,217
+354-U1452B-33F-3-A,34,112,169.24,170.02,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,33,F,3,A,,,,218
+354-U1452B-33F-4-A,0,29,170.02,170.31,,,calcareous clay [Leg210],with foraminifers [2014],calcareous clay,calcareous clay with foraminifers,calcareous clay with foraminifers,,gray,gradational,sub-horizontal,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,33,F,4,A,,,,219
+354-U1452B-33F-4-A,29,70,170.31,170.72,,,clay [Leg210],with nannofossils [2014],clay,clay with nannofossils,clay with nannofossils,,gray,,,,,,,,,,,,,,,,354,U1452,B,33,F,4,A,,,,220
+354-U1452B-33F-4-A,29,70,170.31,170.72,,,,with foraminifers [2014],,with foraminifers,with foraminifers,,,,,,,,,,,,,,,,,,354,U1452,B,33,F,4,A,,,,221
+354-U1452B-33F-CC-A,0,32,170.72,171.04,,,clay [Leg210],with nannofossils [2014],clay,clay with nannofossils,clay with nannofossils,,gray,,,,,,,,,,,,,,,,354,U1452,B,33,F,CC,A,,,,222
+354-U1452B-33F-CC-A,0,32,170.72,171.04,,,,with foraminifers [2014],,with foraminifers,with foraminifers,,,,,,,,,,,,,,,,,,354,U1452,B,33,F,CC,A,,,,223
+354-U1452B-34F-1-A,0,3,170.6,170.63,,,clay [Leg210],,clay,clay,clay,,light gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,34,F,1,A,,,,224
+354-U1452B-34F-1-A,3,150,170.63,172.1,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,1,A,,,,225
+354-U1452B-34F-2-A,0,49,172.1,172.59,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,2,A,,,,226
+354-U1452B-34F-2-A,49,69,172.59,172.79,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,34,F,2,A,,,,227
+354-U1452B-34F-2-A,69,150,172.79,173.6,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,2,A,,,,228
+354-U1452B-34F-3-A,0,39,173.6,173.99,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,gradational,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,34,F,3,A,,,,229
+354-U1452B-34F-3-A,39,135,173.99,174.95,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,dark gray,sharp irregular,sub-horizontal,medium bed [B01],silt [Leg210],thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,34,F,3,A,,,,230
+354-U1452B-34F-3-A,135,150,174.95,175.1,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,gray,,,,,,,,,,,,,,,,354,U1452,B,34,F,3,A,,,,231
+354-U1452B-34F-CC-A,0,18,175.1,175.28,,clayey [Leg339],silt [Leg210],with mica,clayey silt,clayey silt with mica,silt with mica,,gray,,,,,,,,,,,,,,,,354,U1452,B,34,F,CC,A,,,,232
+354-U1452B-35F-1-A,0,22,175.3,175.52,,,clay [Leg210],with foraminifers [2014],clay,clay with foraminifers,clay with foraminifers,,gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,35,F,1,A,,,,233
+354-U1452B-35F-1-A,22,26,175.52,175.56,,clayey [Leg339],silt [Leg210],,clayey silt,clayey silt,silt,,dark gray,sharp irregular,sub-horizontal,,,,,,,,,,,,,,354,U1452,B,35,F,1,A,,,,234
+354-U1452B-35F-1-A,26,150,175.56,176.8,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,shell @ 85-89,,,,354,U1452,B,35,F,1,A,,,,235
+354-U1452B-35F-2-A,0,150,176.8,178.3,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,mottling [BJ80],,,,,,,,354,U1452,B,35,F,2,A,,,,236
+354-U1452B-35F-3-A,0,72,178.3,179.02,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,3,A,,,,237
+354-U1452B-35F-3-A,72,112,179.02,179.42,,,silt [Leg210],,silt,silt,silt,,light gray,,,medium bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,3,A,,,,238
+354-U1452B-35F-4-A,0,62,179.42,180.04,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,medium bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,4,A,,,,239
+354-U1452B-35F-CC-A,0,29,180.04,180.33,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,,,thin bed [B01],silt [Leg210],very thin bed [B01],,,,,,,,,,,354,U1452,B,35,F,CC,A,,,,240
+354-U1452B-36F-1-A,0,28,180,180.28,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,1,A,,,,241
+354-U1452B-36F-1-A,28,44,180.28,180.44,,,silt [Leg210],,silt,silt,silt,,light gray,sharp planar,horizontal,,,,,,burrows,,,,,,,,354,U1452,B,36,F,1,A,,,,242
+354-U1452B-36F-1-A,44,85,180.44,180.85,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,1,A,,,,243
+354-U1452B-36F-1-A,85,150,180.85,181.5,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,36,F,1,A,,,,244
+354-U1452B-36F-2-A,0,12,181.5,181.62,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,2,A,,,,245
+354-U1452B-36F-2-A,12,19,181.62,181.69,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,burrows,,,,,,,,354,U1452,B,36,F,2,A,,,,246
+354-U1452B-36F-2-A,19,83,181.69,182.33,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,2,A,,,,247
+354-U1452B-36F-2-A,83,131,182.33,182.81,,,silt [Leg210],,silt,silt,silt,,light gray,sharp irregular,,,,,,,parallel lamination,,,,,,,,354,U1452,B,36,F,2,A,,,,248
+354-U1452B-36F-2-A,131,150,182.81,183,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,2,A,,,,249
+354-U1452B-36F-3-A,0,87,183,183.87,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,bioturbated,,,,,,,burrows,,,,,,,,354,U1452,B,36,F,3,A,,,,250
+354-U1452B-36F-3-A,87,90,183.87,183.9,,,silt [Leg210],,silt,silt,silt,,light gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,36,F,3,A,,,,251
+354-U1452B-36F-3-A,90,112,183.9,184.12,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,3,A,,,,252
+354-U1452B-36F-CC-A,0,29,184.12,184.41,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,dark gray,sharp irregular,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,36,F,CC,A,,,,253
+354-U1452B-36F-CC-A,29,35,184.41,184.47,,,volcanic ash [MMK88],,volcanic ash,volcanic ash,volcanic ash,,white,,,,,,,,,,,,,,,,354,U1452,B,36,F,CC,A,,,,254
+354-U1452B-37F-1-A,0,150,184.7,186.2,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,1,A,,,,255
+354-U1452B-37F-2-A,0,150,186.2,187.7,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,2,A,,,,256
+354-U1452B-37F-3-A,0,112,187.7,188.82,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,3,A,,,,257
+354-U1452B-37F-4-A,0,33,188.82,189.15,,,calcareous clay [Leg210],with nannofossils [2014],calcareous clay,calcareous clay with nannofossils,calcareous clay with nannofossils,,light gray,bioturbated,,,,,,,burrows,,,,,,,,354,U1452,B,37,F,4,A,,,,258
+354-U1452B-37F-4-A,33,58,189.15,189.4,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,gray,bioturbated,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,37,F,4,A,,,,259
+354-U1452B-37F-4-A,58,63,189.4,189.45,,,sand [Leg210],,sand,sand,sand,,light gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,37,F,4,A,,,,260
+354-U1452B-37F-CC-A,0,10,189.45,189.55,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,37,F,CC,A,,,,261
+354-U1452B-38F-1-A,0,10,189.4,189.5,,,clay [Leg210],,clay,clay,clay,,dark gray,sharp irregular,,,,,,,,deformed by drilling disturbance,,,,,,,354,U1452,B,38,F,1,A,,,,262
+354-U1452B-38F-1-A,10,122,189.5,190.62,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,38,F,1,A,,,,263
+354-U1452B-38F-2-A,0,140,190.62,192.02,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,38,F,2,A,,,,264
+354-U1452B-38F-3-A,0,94,192.02,192.96,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,38,F,3,A,,,,265
+354-U1452B-38F-4-A,0,60,192.96,193.56,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,38,F,4,A,,,,266
+354-U1452B-39F-1-A,0,100,194.1,195.1,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,1,A,,,,267
+354-U1452B-39F-2-A,0,125,195.1,196.35,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,2,A,,,,268
+354-U1452B-39F-3-A,0,109,196.35,197.44,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,3,A,,,,269
+354-U1452B-39F-CC-A,0,15,197.44,197.59,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,fine sand,,,,354,U1452,B,39,F,CC,A,,,,270
+354-U1452B-41F-1-A,0,151,203.6,205.11,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,1,A,,,,271
+354-U1452B-41F-2-A,0,90,205.11,206.01,,,sand [Leg210],,sand,sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,2,A,,,,272
+354-U1452B-41F-2-A,90,152,206.01,206.63,,clayey [Leg339],sand [Leg210],,clayey sand,clayey sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,2,A,,,,273
+354-U1452B-41F-3-A,0,105,206.63,207.68,,clayey [Leg339],sand [Leg210],,clayey sand,clayey sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,3,A,,,,274
+354-U1452B-41F-CC-A,0,22,207.68,207.9,,clayey [Leg339],sand [Leg210],,clayey sand,clayey sand,sand,,dark gray,,,,,,,,,,,,,,,,354,U1452,B,41,F,CC,A,,,,275
+354-U1452B-42F-1-A,0,153,208.3,209.83,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,42,F,1,A,,,,276
+354-U1452B-42F-2-A,0,45,209.83,210.28,,,calcareous clay [Leg210],,calcareous clay,calcareous clay,calcareous clay,,gray,gradational,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,42,F,2,A,,,,277
+354-U1452B-42F-2-A,45,150,210.28,211.33,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,,,,,,,,parallel lamination,,,,,,,,354,U1452,B,42,F,2,A,,,,278
+354-U1452B-42F-3-A,0,103,211.33,212.36,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,,,,,,,,mottling [BJ80],,,,,,,,354,U1452,B,42,F,3,A,,,,279
+354-U1452B-42F-4-A,0,54,212.36,212.9,,silty [Leg339],clay [Leg210],,silty clay,silty clay,clay,,gray,sharp planar,horizontal,,,,,,parallel lamination,,,,,,,,354,U1452,B,42,F,4,A,,,,280
+354-U1452B-42F-4-A,54,73,212.9,213.09,,,silt [Leg210],,silt,silt,silt,,gray,,,thin bed [B01],clay [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,42,F,4,A,,,,281
+354-U1452B-42F-CC-A,0,7,213.09,213.16,,,silt [Leg210],,silt,silt,silt,,gray,sharp planar,horizontal,,,,,,,,,,,,,,354,U1452,B,42,F,CC,A,,,,282
+354-U1452B-42F-CC-A,7,27,213.16,213.36,,,clay [Leg210],,clay,clay,clay,,gray,,,thin bed [B01],silt [Leg210],thin bed [B01],,,,,,,,,,,354,U1452,B,42,F,CC,A,,,,283
+354-U1452B-43F-1-A,0,55,213,213.55,,,clay [Leg210],,clay,clay,clay,,gray,gradational,,medium bed [B01],silt [Leg210],thin bed [B01],,,parallel lamination,,,,,,,,354,U1452,B,43,F,1,A,,,,284
+354-U1452B-43F-1-A,55,113,213.55,214.13,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,normally graded,,,,,,,,354,U1452,B,43,F,1,A,,,,285
+354-U1452B-43F-2-A,0,100,214.13,215.13,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,43,F,2,A,,,,286
+354-U1452B-43F-3-A,0,56,215.13,215.69,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,43,F,3,A,,,,287
+354-U1452B-43F-CC-A,0,5,215.69,215.74,,,sand [Leg210],,sand,sand,sand,,gray,,,,,,,,,,,,,,,,354,U1452,B,43,F,CC,A,,,,288

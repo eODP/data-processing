@@ -1,68 +1,68 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name
-323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,0,60,0,0.6,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,,soft,5Y 4/3,,,,,,,,,,,,,,,,
-323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,60,110,0.6,1.1,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,110,150,1.1,1.5,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,,soft,5Y 4/3,,,,,,,,,,,,,,,,
-323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,143,150,1.43,1.5,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 4/3,,,,,laminated,,,,,,,,,,,
-323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,143,150,1.43,1.5,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 5/3,,,,,laminated,,,,,,,,,,,
-323-U1340D-1H-2-A,323,U1340,D,1,1-2,H,2,A,0,17,1.5,1.67,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 4/3,,,,,laminated,,,,,,,,,,,
-323-U1340D-1H-2-A,323,U1340,D,1,1-2,H,2,A,0,17,1.5,1.67,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 5/3,,,,,laminated,,,,,,,,,,,
-323-U1340D-1H-2-A,323,U1340,D,1,1-2,H,2,A,17,150,1.67,3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-3-A,323,U1340,D,1,1-3,H,3,A,0,110,3,4.1,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-3-A,323,U1340,D,1,1-3,H,3,A,110,130,4.1,4.3,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-1H-3-A,323,U1340,D,1,1-3,H,3,A,130,150,4.3,4.5,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,0,40,4.5,4.9,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,40,87,4.9,5.37,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,87,142,5.37,5.92,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,90,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,87,142,5.37,5.92,diatom ooze,Leg 323,,diatom ooze,10,soft,5Y 4/2,,,,,coarse grained isolated laminae,,,,,,,,,,,
-323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,142,150,5.92,6,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,0,7,6,6.07,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,4,103,6.04,7.03,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,7,14,6.07,6.14,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,14,30,6.14,6.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,30,70,6.3,6.7,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,70,103,6.7,7.03,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-CC-A,323,U1340,D,1,1-CC,H,CC,A,0,4,7.03,7.07,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-1H-CC-A,323,U1340,D,1,1-CC,H,CC,A,4,26,7.07,7.29,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,0,37,7.3,7.67,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,37,45,7.67,7.75,diatom ooze,Leg 323,foraminifer-bearing,foraminifer-bearing diatom ooze,,soft,5Y 5/3,,,,,,,,,,,,,,,,
-323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,45,137,7.75,8.67,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,137,150,8.67,8.8,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,137,150,8.67,8.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-2-A,323,U1340,D,2,2-2,H,2,A,0,150,8.8,10.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-2-A,323,U1340,D,2,2-2,H,2,A,0,150,8.8,10.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-3-A,323,U1340,D,2,2-3,H,3,A,0,150,10.3,11.8,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-3-A,323,U1340,D,2,2-3,H,3,A,0,150,10.3,11.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-4-A,323,U1340,D,2,2-4,H,4,A,0,150,11.8,13.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-4-A,323,U1340,D,2,2-4,H,4,A,0,150,11.8,13.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,0,15,13.3,13.45,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,15,125,13.45,14.55,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,125,138,14.55,14.68,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,138,150,14.68,14.8,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,0,14,14.8,14.94,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,14,132,14.94,16.12,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,132,144,16.12,16.24,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/3,,,,,,,,,,,,,,,,
-323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,144,150,16.24,16.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,
-323-U1340D-2H-7-A,323,U1340,D,2,2-7,H,7,A,0,72,16.3,17.02,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,40,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-7-A,323,U1340,D,2,2-7,H,7,A,0,72,16.3,17.02,diatom ooze,Leg 323,,diatom ooze,60,soft,5Y 4/2,,,,,"bedding cycles of 10 to 20 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-CC-A,323,U1340,D,2,2-CC,H,CC,A,0,19,17.02,17.21,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,40,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-2H-CC-A,323,U1340,D,2,2-CC,H,CC,A,0,19,17.02,17.21,diatom ooze,Leg 323,,diatom ooze,60,soft,5Y 4/2,,,,,"bedding cycles of 10 to 20 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-1-A,323,U1340,D,3,3-1,H,1,A,0,150,16.8,18.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-1-A,323,U1340,D,3,3-1,H,1,A,0,150,16.8,18.3,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-2-A,323,U1340,D,3,3-2,H,2,A,0,150,18.3,19.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-2-A,323,U1340,D,3,3-2,H,2,A,0,150,18.3,19.8,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-3-A,323,U1340,D,3,3-3,H,3,A,0,150,19.8,21.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-3-A,323,U1340,D,3,3-3,H,3,A,0,150,19.8,21.3,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,0,78,21.3,22.08,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,0,78,21.3,22.08,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,78,100,22.08,22.3,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/3,,,,,wavy laminations,,,,,,,,,,,
-323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,100,150,22.3,22.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,100,150,22.3,22.8,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-5-A,323,U1340,D,3,3-5,H,5,A,0,150,22.8,24.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-5-A,323,U1340,D,3,3-5,H,5,A,0,150,22.8,24.3,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-6-A,323,U1340,D,3,3-6,H,6,A,0,150,24.3,25.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-6-A,323,U1340,D,3,3-6,H,6,A,0,150,24.3,25.8,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,0,35,25.8,26.15,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,0,35,25.8,26.15,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,
-323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,35,50,26.15,26.3,fine ash [IUGS-LM89],"International Union of Geological Sciences-Le Maitre, 1989",,fine ash,,soft,5Y 3/1,,,,,,,,,,,,,,,,
-323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,50,79,26.3,26.59,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
-323-U1340D-3H-CC-A,323,U1340,D,3,3-CC,H,CC,A,0,24,26.59,26.83,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Lithology Principal Name,REFERENCE,Lithology Prefix,COMPLETE NAME,LITHOLOGY [%],LITHIFICATION,COLOR,GRAVEL SIZE CLASTLITHOLOGY,GRAVEL SIZE CLASTSHAPE,GRAVEL SIZE CLASTROUNDNESS,VOLCANICLASTIC GRAINS,COMMENTS,PHENOCRYST ABUNDANCE,PHENOCRYST COMPOSITION,PHENOCRYST GRAIN SIZE (mm),GROUNDMASS GRAIN SIZE (mm),GROUNDMASS COLOUR,VESICLE ABUNDANCE,VESICLE SHAPE,Lithology Suffix,Minor Lithology Prefix,Minor Lithology Suffix,Minor Lithology Name,row_index
+323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,0,60,0,0.6,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,,soft,5Y 4/3,,,,,,,,,,,,,,,,,0
+323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,60,110,0.6,1.1,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,1
+323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,110,150,1.1,1.5,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,,soft,5Y 4/3,,,,,,,,,,,,,,,,,2
+323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,143,150,1.43,1.5,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 4/3,,,,,laminated,,,,,,,,,,,,3
+323-U1340D-1H-1-A,323,U1340,D,1,1-1,H,1,A,143,150,1.43,1.5,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 5/3,,,,,laminated,,,,,,,,,,,,4
+323-U1340D-1H-2-A,323,U1340,D,1,1-2,H,2,A,0,17,1.5,1.67,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 4/3,,,,,laminated,,,,,,,,,,,,5
+323-U1340D-1H-2-A,323,U1340,D,1,1-2,H,2,A,0,17,1.5,1.67,diatom ooze,Leg 323,foraminifer-bearing nannofossil-rich,foraminifer-bearing nannofossil-rich diatom ooze,50,soft,5Y 5/3,,,,,laminated,,,,,,,,,,,,6
+323-U1340D-1H-2-A,323,U1340,D,1,1-2,H,2,A,17,150,1.67,3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,7
+323-U1340D-1H-3-A,323,U1340,D,1,1-3,H,3,A,0,110,3,4.1,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,8
+323-U1340D-1H-3-A,323,U1340,D,1,1-3,H,3,A,110,130,4.1,4.3,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,9
+323-U1340D-1H-3-A,323,U1340,D,1,1-3,H,3,A,130,150,4.3,4.5,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,10
+323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,0,40,4.5,4.9,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,11
+323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,40,87,4.9,5.37,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,12
+323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,87,142,5.37,5.92,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,90,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,13
+323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,87,142,5.37,5.92,diatom ooze,Leg 323,,diatom ooze,10,soft,5Y 4/2,,,,,coarse grained isolated laminae,,,,,,,,,,,,14
+323-U1340D-1H-4-A,323,U1340,D,1,1-4,H,4,A,142,150,5.92,6,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,15
+323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,0,7,6,6.07,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,16
+323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,4,103,6.04,7.03,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,17
+323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,7,14,6.07,6.14,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,18
+323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,14,30,6.14,6.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,19
+323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,30,70,6.3,6.7,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,20
+323-U1340D-1H-5-A,323,U1340,D,1,1-5,H,5,A,70,103,6.7,7.03,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,21
+323-U1340D-1H-CC-A,323,U1340,D,1,1-CC,H,CC,A,0,4,7.03,7.07,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,22
+323-U1340D-1H-CC-A,323,U1340,D,1,1-CC,H,CC,A,4,26,7.07,7.29,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,23
+323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,0,37,7.3,7.67,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,24
+323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,37,45,7.67,7.75,diatom ooze,Leg 323,foraminifer-bearing,foraminifer-bearing diatom ooze,,soft,5Y 5/3,,,,,,,,,,,,,,,,,25
+323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,45,137,7.75,8.67,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,26
+323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,137,150,8.67,8.8,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,27
+323-U1340D-2H-1-A,323,U1340,D,2,2-1,H,1,A,137,150,8.67,8.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,28
+323-U1340D-2H-2-A,323,U1340,D,2,2-2,H,2,A,0,150,8.8,10.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,29
+323-U1340D-2H-2-A,323,U1340,D,2,2-2,H,2,A,0,150,8.8,10.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,30
+323-U1340D-2H-3-A,323,U1340,D,2,2-3,H,3,A,0,150,10.3,11.8,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,31
+323-U1340D-2H-3-A,323,U1340,D,2,2-3,H,3,A,0,150,10.3,11.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,32
+323-U1340D-2H-4-A,323,U1340,D,2,2-4,H,4,A,0,150,11.8,13.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,50,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,33
+323-U1340D-2H-4-A,323,U1340,D,2,2-4,H,4,A,0,150,11.8,13.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,34
+323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,0,15,13.3,13.45,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,35
+323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,15,125,13.45,14.55,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,36
+323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,125,138,14.55,14.68,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,37
+323-U1340D-2H-5-A,323,U1340,D,2,2-5,H,5,A,138,150,14.68,14.8,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,38
+323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,0,14,14.8,14.94,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,39
+323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,14,132,14.94,16.12,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,40
+323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,132,144,16.12,16.24,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/3,,,,,,,,,,,,,,,,,41
+323-U1340D-2H-6-A,323,U1340,D,2,2-6,H,6,A,144,150,16.24,16.3,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,,soft,5Y 4/1 ,,,,,,,,,,,,,,,,,42
+323-U1340D-2H-7-A,323,U1340,D,2,2-7,H,7,A,0,72,16.3,17.02,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,40,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,43
+323-U1340D-2H-7-A,323,U1340,D,2,2-7,H,7,A,0,72,16.3,17.02,diatom ooze,Leg 323,,diatom ooze,60,soft,5Y 4/2,,,,,"bedding cycles of 10 to 20 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,44
+323-U1340D-2H-CC-A,323,U1340,D,2,2-CC,H,CC,A,0,19,17.02,17.21,clayey silt [S54],"Shepard, 1954",diatom-rich,diatom-rich clayey silt,40,soft,5Y 4/1 ,,,,,"bedding cycles of 10 to 50 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,45
+323-U1340D-2H-CC-A,323,U1340,D,2,2-CC,H,CC,A,0,19,17.02,17.21,diatom ooze,Leg 323,,diatom ooze,60,soft,5Y 4/2,,,,,"bedding cycles of 10 to 20 cm thickness, with gradational bioturbated contacts",,,,,,,,,,,,46
+323-U1340D-3H-1-A,323,U1340,D,3,3-1,H,1,A,0,150,16.8,18.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,47
+323-U1340D-3H-1-A,323,U1340,D,3,3-1,H,1,A,0,150,16.8,18.3,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,48
+323-U1340D-3H-2-A,323,U1340,D,3,3-2,H,2,A,0,150,18.3,19.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,49
+323-U1340D-3H-2-A,323,U1340,D,3,3-2,H,2,A,0,150,18.3,19.8,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,50
+323-U1340D-3H-3-A,323,U1340,D,3,3-3,H,3,A,0,150,19.8,21.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,51
+323-U1340D-3H-3-A,323,U1340,D,3,3-3,H,3,A,0,150,19.8,21.3,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,52
+323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,0,78,21.3,22.08,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,53
+323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,0,78,21.3,22.08,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,54
+323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,78,100,22.08,22.3,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/3,,,,,wavy laminations,,,,,,,,,,,,55
+323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,100,150,22.3,22.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,56
+323-U1340D-3H-4-A,323,U1340,D,3,3-4,H,4,A,100,150,22.3,22.8,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,57
+323-U1340D-3H-5-A,323,U1340,D,3,3-5,H,5,A,0,150,22.8,24.3,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,58
+323-U1340D-3H-5-A,323,U1340,D,3,3-5,H,5,A,0,150,22.8,24.3,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,59
+323-U1340D-3H-6-A,323,U1340,D,3,3-6,H,6,A,0,150,24.3,25.8,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,60
+323-U1340D-3H-6-A,323,U1340,D,3,3-6,H,6,A,0,150,24.3,25.8,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,61
+323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,0,35,25.8,26.15,diatom ooze,Leg 323,,diatom ooze,50,soft,5Y 4/2,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,62
+323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,0,35,25.8,26.15,diatom silt,Leg 323,,diatom silt,50,soft,5Y 4/1 ,,,,,"decimeter- to meter-scale bedding of diatom ooze and diatom-rich silt, with gradational bioturbated contacts",,,,,,,,,,,,63
+323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,35,50,26.15,26.3,fine ash [IUGS-LM89],"International Union of Geological Sciences-Le Maitre, 1989",,fine ash,,soft,5Y 3/1,,,,,,,,,,,,,,,,,64
+323-U1340D-3H-7-A,323,U1340,D,3,3-7,H,7,A,50,79,26.3,26.59,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,65
+323-U1340D-3H-CC-A,323,U1340,D,3,3-CC,H,CC,A,0,24,26.59,26.83,diatom ooze,Leg 323,,diatom ooze,,soft,5Y 4/2,,,,,,,,,,,,,,,,,66
