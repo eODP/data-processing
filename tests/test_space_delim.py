@@ -157,11 +157,7 @@ class TestConvertSpaceDelimFile:
         path = "./tests/data/space_delim.txt"
         df = convert_space_delim_file(path)
 
-        assert df["Age From (oldest)"].to_list() == [
-            "",
-            "",
-            ""
-        ]
+        assert df["Age From (oldest)"].to_list() == ["", "", ""]
 
         assert df["Age To (youngest)"].to_list() == [
             "",

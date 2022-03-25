@@ -109,7 +109,7 @@ def normalize_expedition_section_cols(df):
 
 def valid_sample_value(name):
     if isinstance(name, str):
-        name = re.sub("-#\d*", "", name)
+        name = re.sub(r"-#\d*", "", name)
 
     if name is None:
         return True
@@ -136,7 +136,7 @@ def valid_sample_value(name):
 
 def extract_sample_parts(name):
     if isinstance(name, str):
-        name = re.sub("-#\d*", "", name)
+        name = re.sub(r"-#\d*", "", name)
 
     if name is None or name == "No data this hole" or name is np.NaN:
         result = re.search(invalid_sample_regex, "")
@@ -243,9 +243,9 @@ def restore_duplicate_column_names(df, original_columns):
 
     for column in diff_columns:
         # looks for columns renamed by pandas ("foo bar.1")
-        if re.match(".*\.\d+$", column):
+        if re.match(r".*\.\d+$", column):
             # gets original name of the column ("foo bar")
-            original_name = re.sub("\.\d+$", "", column)
+            original_name = re.sub(r"\.\d+$", "", column)
             if original_name in original_columns:
                 cols = {column: original_name}
                 df = df.rename(columns=cols)
@@ -277,24 +277,23 @@ def extract_taxon_group_from_filename(filename):
 
     filename_parts = re.search(
         # matches 123-U1234A-taxon-group or 123-U1234A-taxongroup
-        "^[0-9]{3}_+U[0-9]{4}[a-zA-Z]{0,3}_+([a-zA-Z]+(_[a-zA-Z]+)?)(_\d)?_?\.csv",
+        r"^[0-9]{3}_+U[0-9]{4}[a-zA-Z]{0,3}_+([a-zA-Z]+(_[a-zA-Z]+)?)(_\d)?_?\.csv",
         filename,
     )
 
     if filename_parts is None:
         filename_parts = re.search(
             # matches 123-taxon-group-U1234A- or 123-taxongroup-U1234A
-            "^[0-9]{3}_+([a-zA-Z]+(_[a-zA-Z]+)?)_+U[0-9]{4}[a-zA-Z](_\d)?_?\.csv",
+            r"^[0-9]{3}_+([a-zA-Z]+(_[a-zA-Z]+)?)_+U[0-9]{4}[a-zA-Z](_\d)?_?\.csv",
             filename,
         )
 
     if filename_parts is None:
         filename_parts = re.search(
             # matches 123-taxon-group-U1234A_123_T01_taxon_group
-            "^[0-9]{3}_+U[0-9]{4}[a-zA-Z]{0,3}_[0-9]{3}_T[0-9]{2}_+([a-zA-Z]+(_[a-zA-Z]+)?)(_\d)?_?\.csv",
+            r"^[0-9]{3}_+U[0-9]{4}[a-zA-Z]{0,3}_[0-9]{3}_T[0-9]{2}_+([a-zA-Z]+(_[a-zA-Z]+)?)(_\d)?_?\.csv",
             filename,
         )
-
 
     if filename_parts is not None:
         return filename_parts.groups()[0].lower()
@@ -344,9 +343,9 @@ def check_duplicate_columns(df, filename):
     """
     for column in df.columns:
         # looks for columns renamed by pandas ("foo bar.1")
-        if re.match(".*\.\d+$", column):
+        if re.match(r".*\.\d+$", column):
             # gets original name of the column ("foo bar")
-            original_name = re.sub("\.\d+$", "", column)
+            original_name = re.sub(r"\.\d+$", "", column)
             if original_name in df.columns:
                 # compare the values in the duplicate columns
                 compare_duplicate_columns = df[original_name].fillna(0) == df[
@@ -378,9 +377,9 @@ def clean_taxon_name(string):
 
 
 def taxa_needs_review(string):
-    if re.match("^(.*) +\(.*\)$", string):
+    if re.match(r"^(.*) +\(.*\)$", string):
         return True
-    elif re.search(" *> *\d+ *m$", string):
+    elif re.search(r" *> *\d+ *m$", string):
         return True
     elif re.search("_[A-Z]_?$", string):
         return True
