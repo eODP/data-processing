@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import pandas as pd
-import numpy as np
+import re
 
 # taxon_groups = [
 #     "benthic_foraminfera",
@@ -22,6 +22,21 @@ import numpy as np
 #     "silicoflagellates",
 # ]
 
+# taxon_groups includes LIMS processed taxa
+taxon_groups = [
+    "benthic_forams",
+    "bolboformids",
+    "chrysophyte_cysts",
+    "diatoms",
+    "dinoflagellates",
+    "ebridians",
+    "nannofossils",
+    "ostracods",
+    "palynology",
+    "planktic_forams",
+    "radiolarians",
+    "silicoflagellates",
+]
 
 taxa_rank_fields = [
     "Any taxon above genus",
