@@ -95,3 +95,33 @@ def create_unique_taxa_csv(data, path, columns):
     df.to_csv(path, index=False)
 
     return df
+
+
+def taxon_name_parser(taxon_name):
+    name_parts = {}
+    modifiers = ["?", "aff.", "cf.", "f.", "morph", "s.s.", "s.l.", "var."]
+    ranks = ["genus", "species", "subspecies"]
+
+    if bool(re.search("\(.*?\)$", taxon_name)):
+        descriptor = re.search("\(.*?\)$", taxon_name).group(0)
+        name_parts["non-taxa descriptor"] = descriptor
+        taxon_name = taxon_name.split(descriptor)[0].strip()
+
+    parts = taxon_name.split(" ")
+
+    current_rank_index = 0
+    for index, part in enumerate(parts):
+        if current_rank_index == 3:
+            continue
+
+        if part in modifiers:
+            name_parts[ranks[current_rank_index] + " modifier"] = parts[index]
+        else:
+            name_parts[ranks[current_rank_index] + " name"] = parts[index]
+            current_rank_index += 1
+
+    if bool(re.search("\(.*?\)$", taxon_name)):
+        descriptor = re.search("\(.*?\)$", taxon_name).group(0)
+        name_parts["non-taxa descriptor"] = descriptor
+
+    return name_parts
