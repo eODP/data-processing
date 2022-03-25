@@ -1,4 +1,4 @@
-﻿Expedition,Site,Hole,Core,Section,top interval (cm),bottom interval (cm),Depth top CSF-A (m),Depth bottom CSF-A (m),Bradleya sp.,Cytheropteron sp.,Henryhowella sp.
+Expedition,Site,Hole,Core,Section,top interval (cm),bottom interval (cm),Depth top CSF-A (m),Depth bottom CSF-A (m),Bradleya sp.,Cytheropteron sp.,Henryhowella sp.
 323,U1341,A,1H,1,0,0,0,0,,,
 323,U1341,A,1H,CC,,,2.92,3.02,,,
 323,U1341,A,2H,CC,,,12.54,12.64,,,
@@ -41,5 +41,3 @@
 323,U1341,A,39H,CC,,,351.93,352.03,,,
 323,U1341,A,40H,CC,,,356.68,356.78,,,
 323,U1341,A,41H,CC,,,359.02,359.12,,,
-,,,,,,,,,,,
-,,,,,,,,,,,

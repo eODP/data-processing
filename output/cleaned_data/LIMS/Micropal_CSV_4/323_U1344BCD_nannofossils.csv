@@ -1,4 +1,4 @@
-﻿Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments
+Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments
 323,U1344,B,1,H,CC,26,36,4.7,4.8,NN21,R,M-G,R,,,,,R,,,,,,,Large (>4 microns) E. huxleyi present. 
 323,U1344,C,1,H,CC,15,25,7.02,7.12,NN21,F,M-G,R,,,,,F,,,,,,,
 323,U1344,C,2,H,CC,8,18,14.14,14.24,,B,,,,,,,,,,,,,,
@@ -36,12 +36,3 @@
 323,U1344,D,30,H,CC,34,44,267.3,267.4,,B,,,,,,,,,,,,,,
 323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,,,,,,,,,,
 323,U1344,D,32,H,CC,7,17,286.17,286.27,,R,M-G,,,,,,,R,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,

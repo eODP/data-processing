@@ -1,4 +1,4 @@
-﻿Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Comments
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Comments
 323,U1339,D,1H,CC,0,0,6.52,6.52,,C,M-G,F,,,,,D,,,,reworked individuals present
 323,U1339,D,2H,CC,0,0,16.04,16.04,,R,M,,,,,,R,,,,
 323,U1339,D,3H,CC,0,0,25.59,25.59,NN21,B,,,,,,,,,,,
@@ -21,4 +21,3 @@
 323,U1339,D,20H,CC,0,0,185.99,185.99,,B,,,,,,,,,,,
 323,U1339,D,21H,CC,0,2,194.11,194.13,,B,,,,,,,,,,,
 323,U1339,D,22H,CC,0,0,200.77,200.77,,B,,, ,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,

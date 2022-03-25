@@ -1,9 +1,4 @@
-﻿Expedition,Site,Hole,Core,Core Type,Section,Top Depth CSF-A (m),Bottom Depth CSF-A (m),preservation,Dinoflagellate cysts,Organic lining of foraminifers,"Bitectatodinium tepikiense
-",Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Filisphaera filifera,I.mpagidinium pallidum,I.mpagidinium patulum,Impagidinium spp.,Islandinium imnutum ,"Islandinium Morphtype Cesare
-",Operculodinium centrocarpum ,Polykrikos - Arctic morphotype,O. centrocarpum var. short processes,"Lejeunecysta falax
-","Nematosphaeropsis lemniscata
-",Protoperidinium americanum,Quinquecuspis concreta,Selenopemphix nephroides,Spiniferites ramosus,"Trinovantedinium variabile
-"
+Expedition,Site,Hole,Core,Core Type,Section,Top Depth CSF-A (m),Bottom Depth CSF-A (m),preservation,Dinoflagellate cysts,Organic lining of foraminifers,Bitectatodinium tepikiense,Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Filisphaera filifera,I.mpagidinium pallidum,I.mpagidinium patulum,Impagidinium spp.,Islandinium imnutum,Islandinium Morphtype Cesare,Operculodinium centrocarpum,Polykrikos - Arctic morphotype,O. centrocarpum var. short processes,Lejeunecysta falax,Nematosphaeropsis lemniscata,Protoperidinium americanum,Quinquecuspis concreta,Selenopemphix nephroides,Spiniferites ramosus,Trinovantedinium variabile
 323,U1341,A,1,H,CC,2.92,3.02,G,A,C,,F,A,D,,,,,A,,R,,,,,,,,,
 323,U1341,A,3,H,CC,22.33,22.43,M,A,,R,R,D,D,,,,R,F,R,,,,,,,,,,
 323,U1341,A,5,H,CC,41.22,41.32,M,A,C,R,,A,D,,,,,,,,,,,,F,,,,

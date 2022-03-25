@@ -1,7 +1,4 @@
-﻿Expedition,Site,Hole,Core,Core Type,Section,Top Depth (m) CSF-A,Bottom Depth (m) CSF-A,Preservation,Dinocysts,Org .linnings of foraminifers,"Bitectatodinium tepikiense
-",Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Filisphaera filifera,Impagidinium spp.,Islandinium imnutum ,"Islandinium Morphtype Cesare
-",Islandinium ium cf. brevispinosum,Lejeunecysta spp.,Operculodinium centrocarpum ,O. centrocarpum-Arctic morphotype,O. centrocarpum var. short processes,Pentapharsodinium dalei,Polykrikos - Arctic morphotype,Polykrikos schwartzii,Protoperidinium americanum,Quinquecuspis concreta,Selenopemphix nephroides,Spiniferites ramosus,Spiniferites elongatus,Spiniferites frigidus,"Trinovantedinium variabile
-"
+Expedition,Site,Hole,Core,Core Type,Section,Top Depth (m) CSF-A,Bottom Depth (m) CSF-A,Preservation,Dinocysts,Org .linnings of foraminifers,Bitectatodinium tepikiense,Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Filisphaera filifera,Impagidinium spp.,Islandinium imnutum,Islandinium Morphtype Cesare,Islandinium ium cf. brevispinosum,Lejeunecysta spp.,Operculodinium centrocarpum,O. centrocarpum-Arctic morphotype,O. centrocarpum var. short processes,Pentapharsodinium dalei,Polykrikos - Arctic morphotype,Polykrikos schwartzii,Protoperidinium americanum,Quinquecuspis concreta,Selenopemphix nephroides,Spiniferites ramosus,Spiniferites elongatus,Spiniferites frigidus,Trinovantedinium variabile
 323,U1344,A,1,H,CC,9.0,9.1,G,A,,,,F,F,,R,D,,,,R,R,R,,R,,R,,,,R,,
 323,U1344,A,2,H,CC,18.7,18.8,G,A,F,,,F,D,,,D,,,,R,R,,R,R,,,,R,,,,
 323,U1344,A,3,H,CC,28.6,28.7,G,C,R,,R,A,D,,,A,,,,A,,,,,,R,,,,,,
@@ -72,4 +69,3 @@
 323,U1344,E,21,H,CC,182.5,182.6,G,C,R,,,A,D,,,A,,,,R,,,,,,,,,,,,
 323,U1344,E,22,H,CC,193.8,193.9,G,C,R,,F,A,D,,,F,,,,,,R,,,,,,,,,,
 323,U1344,E,23,H,CC,202.7,202.8,G,C,R,,,A,D,,,F,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

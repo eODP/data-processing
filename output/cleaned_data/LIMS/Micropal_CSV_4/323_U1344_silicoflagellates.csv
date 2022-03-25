@@ -1,4 +1,4 @@
-﻿Expedition,Site,Hole,"core, section",depth Top CSF-A (m),depth Bottom CSF-A (m),Abundance,Preservation,Dictyocha cf. mandrai,Dictyocha subarctios,Distephanus boliviensis,Distephanus medianoctisol with short radial spines,Distephanus medianoctisol,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Distephanus slavincii,Distephanus speculum,Distephanus speculum with short radial spines,Aberrant Silicoflagellates,Ammodochium rectangulare (Ebridian),Silicoflagellate Zone in Ling (1992)
+Expedition,Site,Hole,"core, section",depth Top CSF-A (m),depth Bottom CSF-A (m),Abundance,Preservation,Dictyocha cf. mandrai,Dictyocha subarctios,Distephanus boliviensis,Distephanus medianoctisol with short radial spines,Distephanus medianoctisol,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Distephanus slavincii,Distephanus speculum,Distephanus speculum with short radial spines,Aberrant Silicoflagellates,Ammodochium rectangulare (Ebridian),Silicoflagellate Zone in Ling (1992)
 323,U1344,A,27H-CC,255.73,255.83 ,R,G,,,,,T,,,,,T,,,,Ds. octonarius
 323,U1344,A,28H-CC,263.73,263.83 ,F,G,,,,,,T,,,,F,R,,,Ds. octonarius
 323,U1344,A,29H-CC,270.25,270.35 ,R,G,,,T,,,,,,T,,,,,Ds. octonarius
@@ -21,5 +21,3 @@
 323,U1344,D,30H-CC,267.3,267.40 ,C,G,,R,,,F,F,,,R,F,,T,,Dc. subarctio
 323,U1344,D,31H-CC,277.86,277.96 ,F,G,,,F,,,,,,,R,T,,,Dc. subarctio
 323,U1344,D,32H-CC,286.17 ,286.27 ,C,G,,T,F,,R,R,,,,R,,,,Dc. subarctio
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
