@@ -3,15 +3,15 @@ Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top
 323,U1344,A,2,H,CC,10,20,18.65,18.75,B,,,,,,,,,,,,,,
 323,U1344,A,3,H,CC,13,23,28.62,28.72,B,,,,,,,,,,,,,,
 323,U1344,A,4,H,CC,28,38,38.12,38.22,B,,,,,,,,,,,,,,
-323,U1344,A,5,H,CC,44,54,47.51,47.61,A,G,,,,,,A,,,,,,R,Almost all C. pelagicus. Also coccospheres. 
+323,U1344,A,5,H,CC,44,54,47.51,47.61,A,G,,,,,,A,,,,,,R,Almost all C. pelagicus. Also coccospheres.
 323,U1344,A,6,H,CC,28,38,57.19,57.29,R,M-G,,,,,,R,,,,,,,
 323,U1344,A,7,H,CC,56,66,66.58,66.68,B,,,,,,,,,,,,,,
 323,U1344,A,8,H,CC,50,60,75.22,75.32,B,,,,,,,,,,,,,,
-323,U1344,A,9,H,CC,59,69,85.11,85.21,B ,,,,,,,,,,,,,,
+323,U1344,A,9,H,CC,59,69,85.11,85.21,B,,,,,,,,,,,,,,
 323,U1344,A,10,H,CC,41,51,95.09,95.19,B,,,,,,,,,,,,,,
 323,U1344,A,11,H,CC,38,48,104.36,104.46,B,,,,,,,,,,,,,,
 323,U1344,A,12,H,CC,23,33,113.86,113.96,B,,,,,,,,,,,,,,
-323,U1344,A,13,H,CC,37,47,123.39,123.49,R,M-G,,,,,R,R,,,,,,,Reworked specimen (Sphenolithus spp.) 
+323,U1344,A,13,H,CC,37,47,123.39,123.49,R,M-G,,,,,R,R,,,,,,,Reworked specimen (Sphenolithus spp.)
 323,U1344,A,14,H,CC,32,42,132.79,132.89,R,M-G,,,,,R,,,,,,,,
 323,U1344,A,15,H,CC,10,20,142.35,142.45,B,,,,,,,,,,,,,,
 323,U1344,A,16,H,CC,27,37,152.13,152.23,B,,,,,,,,,,,,,,
@@ -32,10 +32,10 @@ Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top
 323,U1344,A,31,X,CC,24,34,288.48,288.58,B,,,,,,,,,,,,,,
 323,U1344,A,32,X,CC,72,82,299.07,299.17,B,,,,,,,,,,,,,,Small quantity of acicular minerals
 323,U1344,A,33,X,CC,27,37,309.13,309.23,B,,,,,,,,,,,,,,
-323,U1344,A,34,X,CC,22,32,318.31,318.41,B,,,,,,,,,,,,,, 
+323,U1344,A,34,X,CC,22,32,318.31,318.41,B,,,,,,,,,,,,,,
 323,U1344,A,35,X,CC,17,27,323.47,323.57,B,,,,,,,,,,,,,,
 323,U1344,A,36,X,CC,20,30,338.79,338.89,R,M,,,,,R,,R,,,,,,
-323,U1344,A,37,X,CC,25,35,346.28,346.38,B,,, ,,,,,,,,,,,
+323,U1344,A,37,X,CC,25,35,346.28,346.38,B,,,,,,,,,,,,,,
 323,U1344,A,38,X,CC,51,61,356.98,357.08,R,M,,,,,R,,R,,,,,,
 323,U1344,A,39,X,CC,24,34,364.13,364.23,B,,,,,,,,,,,,,,
 323,U1344,A,40,X,CC,13,23,373.09,373.19,B,,,,,,,,,,,,,,
@@ -63,7 +63,7 @@ Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top
 323,U1344,A,62,X,CC,30,40,587.51,587.61,B,,,,,,,,,,,,,,
 323,U1344,A,63,X,CC,26,36,596.19,596.29,B,,,,,,,,,,,,,,
 323,U1344,A,64,X,CC,29,39,607.63,607.73,B,,,,,,,,,,,,,,
-323,U1344,A,65,X,CC,32,42,617.98,618.08,B,,,,,,,,,,,,,,"Rhomboidal minerals high birrefringence, also very thin, low birrefringence acicular minerals "
+323,U1344,A,65,X,CC,32,42,617.98,618.08,B,,,,,,,,,,,,,,"Rhomboidal minerals high birrefringence, also very thin, low birrefringence acicular minerals"
 323,U1344,A,68,X,CC,37,47,645.9,646,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable)
 323,U1344,A,69,X,CC,26,36,647.16,647.26,B,,,,,,,,,,,,,,Rhomboid minerals small size and acicular minerals large size
 323,U1344,A,70,X,CC,28,38,666.35,666.45,B,,,,,,,,,,,,,,
@@ -76,4 +76,4 @@ Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top
 323,U1344,A,77,X,CC,36,46,733.03,733.13,R,M,,,,,,,R,,,,,,
 323,U1344,A,78,X,CC,10,20,739.65,739.75,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence"
 323,U1344,A,79,X,CC,21,31,746.49,746.59,B,,,,,,,,,,,,,,
-,,,,,,,,,, ,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

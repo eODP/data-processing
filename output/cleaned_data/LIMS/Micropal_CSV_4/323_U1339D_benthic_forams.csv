@@ -6,7 +6,7 @@ Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],P
 323,U1339,D,4H,CC,0,0,33.38,33.38,G,F,,P,A,P,,P,F,,P,,,,,,,P,R,,P,,,,,,,,,HIGH IRD
 323,U1339,D,5H,CC,0,0,43.24,43.24,G,R,P,,F,P,,,R,,,,,,,R,P,,,,,,,,,,,,,HIGH IRD
 323,U1339,D,6H,CC,0,0,52.97,52.97,G,R,P,,F,,,R,,,R,,,,R,,,,,,,,,,,,,,,HIGH IRD
-323,U1339,D,7H,CC,0,0,62.48,62.48,G,R,F,R,A,R,,,,,R,,R,,A,P,,,,,,,,,,, ,,,HIGH IRD
+323,U1339,D,7H,CC,0,0,62.48,62.48,G,R,F,R,A,R,,,,,R,,R,,A,P,,,,,,,,,,,,,,HIGH IRD
 323,U1339,D,8H,CC,0,0,71.2,71.2,M,F,R,,,,,R,P,,P,,,,P,P,,,P,,,,P,P,,,,,P,HIGH IRD
 323,U1339,D,9H,CC,0,0,80.35,80.35,G,R,R,F,A,,,,A,,,,P,,,P,P,,P,,,,,,,P,,,,HIGH IRD
 323,U1339,D,10H,CC,0,0,90.53,90.53,G,F,,,,P,,,,,P,,,,,P,P,,P,,R,,,,,,,,,LOW IRD
