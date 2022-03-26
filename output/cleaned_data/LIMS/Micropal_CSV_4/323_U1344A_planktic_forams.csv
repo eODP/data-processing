@@ -1,4 +1,4 @@
-﻿Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Globigerina bulloides,Globigerina umbilicata,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Comments
+Expedition,Site,Hole,Core,Core Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Globigerina bulloides,Globigerina umbilicata,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Comments
 323,U1344,A,1,H,1,0,0,0,0,,B,,,,,"dominant diatoms, few IRD"
 323,U1344,A,1,H,CC,4,14,9.04,9.14,M,A,A,,,F,"mica, few IRD"
 323,U1344,A,2,H,CC,10,20,18.65,18.75,G,F,F,,P,F,"pyrite, few IRD"
