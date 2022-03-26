@@ -2,6 +2,7 @@ import re
 import os
 import numpy as np
 import pandas as pd
+import chardet
 
 # HACK: (@)? are meaningless matches so each regex has 7 capture groups
 # (1)-(U1)(A)
@@ -385,3 +386,14 @@ def taxa_needs_review(string):
         return True
     else:
         return False
+
+
+def change_file_encoding(file):
+    with open(file, "rb") as f:
+        content_bytes = f.read()
+    detected = chardet.detect(content_bytes)
+    encoding = detected["encoding"]
+    content_text = content_bytes.decode(encoding)
+
+    with open(file, "w", encoding="utf-8") as f:
+        f.write(content_text)
