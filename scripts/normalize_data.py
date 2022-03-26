@@ -333,6 +333,97 @@ def add_missing_columns(path, normalized_columns):
     return changed
 
 
+def delete_duplicate_columns_with_spaces(df):
+    if len(set([col.strip() for col in df.columns])) != len(df.columns):
+        column_counts = {}
+        column_dups = {}
+        for col in df.columns:
+            strip_col = col.strip()
+            if strip_col not in column_counts:
+                column_counts[strip_col] = 1
+                if col == strip_col:
+                    column_dups[strip_col] = []
+                else:
+                    column_dups[strip_col] = [col]
+            else:
+                column_counts[strip_col] += 1
+                column_dups[strip_col].append(col)
+
+        dup_columns = []
+        for col, count in column_counts.items():
+            if count > 1:
+                dup_columns.append(col)
+
+        for dup_col in dup_columns:
+            for original_name in column_dups[dup_col]:
+                compare_duplicate_columns = df[original_name].fillna(0) == df[
+                    original_name.strip()
+                ].fillna(0)
+
+                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
+                    compare_duplicate_columns
+                )
+
+                if duplicate_columns_are_equal:
+                    del df[original_name]
+
+
+def delete_duplicate_columns(df):
+    for column in df.columns:
+        # looks for columns renamed by pandas ("foo bar.1")
+        if re.match(r".*\.\d+$", column):
+            # gets original name of the column ("foo bar")
+            original_name = re.sub(r"\.\d+$", "", column)
+            if original_name in df.columns:
+                # compare the values in the duplicate columns
+                compare_duplicate_columns = df[original_name].fillna(0) == df[
+                    column
+                ].fillna(0)
+
+                # determines if the two columns have the same values
+                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
+                    compare_duplicate_columns
+                )
+                if duplicate_columns_are_equal:
+                    del df[column]
+
+
+    if len(set([col.strip() for col in df.columns])) != len(df.columns):
+        column_counts = {}
+        column_dups = {}
+        for col in df.columns:
+            strip_col = col.strip()
+            if strip_col not in column_counts:
+                column_counts[strip_col] = 1
+                if col == strip_col:
+                    column_dups[strip_col] = []
+                else:
+                    column_dups[strip_col] = [col]
+            else:
+                column_counts[strip_col] += 1
+                column_dups[strip_col].append(col)
+
+        dup_columns = []
+        for col, count in column_counts.items():
+            if count > 1:
+                dup_columns.append(col)
+
+        for dup_col in dup_columns:
+            for original_name in column_dups[dup_col]:
+                compare_duplicate_columns = df[original_name].fillna(0) == df[
+                    original_name.strip()
+                ].fillna(0)
+
+                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
+                    compare_duplicate_columns
+                )
+
+                if duplicate_columns_are_equal:
+                    del df[original_name]
+
+
+
+
 def check_duplicate_columns(df, filename):
     """
     Pandas do not allow duplicate column names. If there are duplicate columns
