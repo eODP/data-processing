@@ -397,3 +397,17 @@ def change_file_encoding(file):
 
     with open(file, "w", encoding="utf-8") as f:
         f.write(content_text)
+
+
+def remove_whitespace(df):
+    """remove leading and trailing spaces from dataframe rows"""
+    for col in df.columns:
+        # only process string columns
+        if df[col].dtype == "object":
+            if len(df[df[col].isna()]) > 0:
+                df[col].fillna("", inplace=True)
+
+            try:
+                df[col] = df[col].map(str.strip)
+            except TypeError:
+                print('Must call fillna("") before using whitespace_remover.')

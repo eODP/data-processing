@@ -21,6 +21,7 @@ from scripts.normalize_data import (
     restore_duplicate_column_names,
     clean_taxon_name,
     taxa_needs_review,
+    remove_whitespace,
 )
 
 
@@ -1051,3 +1052,59 @@ class TestTaxaNeedsReview:
     def test_returns_false_otherwise(self):
         string = "aa"
         assert taxa_needs_review(string) is False
+
+
+class TestRemoveWhitespace:
+    def test_remove_leading_and_trailing_spaces_from_dataframe(self):
+        data = {
+            "A": ["A", "B ", "  C", "D  ", "  Ed  ", " 1 "],
+            "B": ["Aa", "Bb ", "  Cc", "Dd  ", "  Ed Ed  ", " 11 "],
+        }
+        df = pd.DataFrame(data)
+        data2 = {
+            "A": ["A", "B", "C", "D", "Ed", "1"],
+            "B": ["Aa", "Bb", "Cc", "Dd", "Ed Ed", "11"],
+        }
+        expected = pd.DataFrame(data2)
+
+        remove_whitespace(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_ignores_numeric_columns(self):
+        data = {
+            "A": ["A", "B  ", "  C"],
+            "B": [1, 2, 3],
+            "C": [1.1, 2.2, 3.3],
+        }
+        df = pd.DataFrame(data)
+        data2 = {
+            "A": ["A", "B", "C"],
+            "B": [1, 2, 3],
+            "C": [1.1, 2.2, 3.3],
+        }
+        expected = pd.DataFrame(data2)
+
+        remove_whitespace(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_handles_empty_strings(self):
+        data = {"A": ["A", "B  ", "  C", " "]}
+        df = pd.DataFrame(data)
+        data2 = {"A": ["A", "B", "C", ""]}
+        expected = pd.DataFrame(data2)
+
+        remove_whitespace(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_converts_nan_to_empty_strings(self):
+        data = {"A": ["A", "B  ", "  C", np.nan]}
+        df = pd.DataFrame(data)
+        data2 = {"A": ["A", "B", "C", ""]}
+        expected = pd.DataFrame(data2)
+
+        remove_whitespace(df)
+
+        assert_frame_equal(df, expected)
