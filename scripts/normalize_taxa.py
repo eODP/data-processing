@@ -58,29 +58,49 @@ metadata_fields = [
 ]
 
 
-def add_normalized_name_column(df, include_descriptor=True, col_name="normalized_name"):
-    fields = [
-        "genus modifier",
-        "genus name",
-        "subgenera modifier",
-        "subgenera name",
-        "species modifier",
-        "species name",
-        "subspecies modifier",
-        "subspecies name",
-    ]
+def add_normalized_name_column(
+    df, include_descriptor=True, include_modifier=True, col_name="normalized_name"
+):
+    if include_modifier:
+        fields = [
+            "genus modifier",
+            "genus name",
+            "subgenera modifier",
+            "subgenera name",
+            "species modifier",
+            "species name",
+            "subspecies modifier",
+            "subspecies name",
+        ]
+    else:
+        fields = [
+            "genus name",
+            "subgenera name",
+            "species name",
+            "subspecies name",
+        ]
+    temp_df = df.copy()
+    temp_df.fillna("", inplace=True)
 
     # concatenate taxa fields into a string
-    df[col_name] = df["Any taxon above genus"].str.cat(df[fields], sep=" ", na_rep="")
+    df[col_name] = temp_df["Any taxon above genus"].str.cat(
+        temp_df[fields], sep=" ", na_rep=""
+    )
 
     if include_descriptor:
-        # add "(descriptor)" if it exists
-        descriptor = np.where(
-            df["non-taxa descriptor"].notnull(),
-            "(" + df["non-taxa descriptor"] + ")",
-            "",
+        descriptor = "non-taxa descriptor"
+        df.loc[
+            (temp_df[descriptor] != "") & (~temp_df[descriptor].str.contains("\(")),
+            col_name,
+        ] = (
+            df[col_name] + " (" + temp_df[descriptor] + ")"
         )
-        df[col_name] = df[col_name] + descriptor
+        df.loc[
+            (temp_df[descriptor] != "") & (temp_df[descriptor].str.contains("\(")),
+            col_name,
+        ] = (
+            df[col_name] + " " + temp_df[descriptor]
+        )
 
     # get rid of extra spaces
     df[col_name] = df[col_name].str.strip()

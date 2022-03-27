@@ -51,6 +51,28 @@ class TestAddNormalizedNameColumn:
 
         assert_frame_equal(df, expected)
 
+    def test_do_not_include_modifier(self):
+        data = {
+            "Any taxon above genus": ["a"],
+            "genus modifier": ["gm"],
+            "genus name": ["gn"],
+            "subgenera modifier": ["sgm"],
+            "subgenera name": ["sgn"],
+            "species modifier": ["sm"],
+            "species name": ["sn"],
+            "subspecies modifier": ["ssm"],
+            "subspecies name": ["ssn"],
+            "non-taxa descriptor": ["d"],
+        }
+        df = pd.DataFrame(data)
+        expected_data = copy.deepcopy(data)
+        expected_data["normalized_name"] = ["a gn sgn sn ssn (d)"]
+        expected = pd.DataFrame(expected_data)
+
+        add_normalized_name_column(df, include_modifier=False)
+
+        assert_frame_equal(df, expected)
+
     def test_do_not_add_parenthesis_for_descriptors_with_parenthesis(self):
         data = {
             "Any taxon above genus": ["a"],
