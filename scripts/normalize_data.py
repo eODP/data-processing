@@ -267,9 +267,17 @@ def csv_cleanup(df, csv_path):
     return replace_unnamed_xx_columns(df)
 
 
-def normalize_columns(old_cols, new_col, all_cols):
+def normalize_columns(df, columns_mapping):
     """Replace variations of column name with a standard column name"""
-    return [new_col if column in old_cols else column for column in all_cols]
+    temp = {}
+    for col in df.columns:
+        if col in columns_mapping:
+            value = columns_mapping[col]
+            if value and value == value:
+                temp[col] = value
+
+    if len(temp) > 0:
+        df.rename(columns=temp, inplace=True)
 
 
 def extract_taxon_group_from_filename(filename):

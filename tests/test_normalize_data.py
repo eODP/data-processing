@@ -853,27 +853,48 @@ class TestReplaceUnnamedXXColumns:
 
 
 class TestNormalizeColumns:
-    def test_replaces_column_if_column_matches(self):
-        all_cols = ["a", "B"]
-        old_cols = {"A", "a", "aa"}
-        new_col = "AAA"
+    def test_replace_column_name_with_value_from_columns_mapping(self):
+        columns_mapping = {"aa": "A"}
+        data = {"aa": [1]}
+        df = pd.DataFrame(data)
+        data = {"A": [1]}
+        expected = pd.DataFrame(data)
 
-        res = normalize_columns(old_cols, new_col, all_cols)
+        normalize_columns(df, columns_mapping)
 
-        assert len(all_cols) == len(res)
-        assert res[0] == "AAA"
-        assert res[1] == "B"
+        assert_frame_equal(df, expected)
 
-    def test_does_not_replace_column_if_no_matches(self):
-        all_cols = ["a", "B"]
-        old_cols = {"BB", "bb", "b"}
-        new_col = "BBB"
+    def test_replace_multiple_column_name_with_value_from_columns_mapping(self):
+        columns_mapping = {"aa": "A", "b b": "B"}
+        data = {"aa": [1], "b b": [2]}
+        df = pd.DataFrame(data)
+        data = {"A": [1], "B": [2]}
+        expected = pd.DataFrame(data)
 
-        res = normalize_columns(old_cols, new_col, all_cols)
+        normalize_columns(df, columns_mapping)
 
-        assert len(all_cols) == len(res)
-        assert res[0] == "a"
-        assert res[1] == "B"
+        assert_frame_equal(df, expected)
+
+    def test_does_not_affect_columns_not_in_columns_mapping(self):
+        columns_mapping = {"aa": "A", "b b": "B"}
+        data = {"aa": [1], "b b": [2], "cc": [3]}
+        df = pd.DataFrame(data)
+        data = {"A": [1], "B": [2], "cc": [3]}
+        expected = pd.DataFrame(data)
+
+        normalize_columns(df, columns_mapping)
+
+        assert_frame_equal(df, expected)
+
+    def test_does_not_affect_columns_if_columns_mapping_has_no_value(self):
+        columns_mapping = {"aa": None, "bb": "", "cc": np.nan}
+        data = {"aa": [1], "b b": [2], "cc": [3]}
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        normalize_columns(df, columns_mapping)
+
+        assert_frame_equal(df, expected)
 
 
 class TestExtractTaxonGroupFromFilename:
