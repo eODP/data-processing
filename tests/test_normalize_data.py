@@ -22,6 +22,7 @@ from scripts.normalize_data import (
     clean_taxon_name,
     taxa_needs_review,
     remove_whitespace,
+    delete_duplicate_columns,
     remove_bracket_text,
     remove_empty_unnamed_columns,
 )
@@ -998,7 +999,11 @@ class TestCompareDuplicateColumns:
         df = pd.read_csv(StringIO(csv_data))
         assert list(df.columns) == ["a", "a.1", "a.2"]
 
-        assert check_duplicate_columns(df, "file") is True
+        expected = [
+            {"filename": "file", "bad_column": "a.1", "same_value": True},
+            {"filename": "file", "bad_column": "a.2", "same_value": True},
+        ]
+        assert check_duplicate_columns(df, "file") == expected
 
     def test_returns_False_if_duplicate_columns_have_different_values(self):
         csv_data = "a,a,a\n" "1,3,3\n" "2,4,4\n"
@@ -1006,23 +1011,54 @@ class TestCompareDuplicateColumns:
         df = pd.read_csv(StringIO(csv_data))
         assert list(df.columns) == ["a", "a.1", "a.2"]
 
-        assert check_duplicate_columns(df, "file") is False
+        expected = [
+            {"filename": "file", "bad_column": "a.1", "same_value": False},
+            {"filename": "file", "bad_column": "a.2", "same_value": False},
+        ]
+        assert check_duplicate_columns(df, "file") == expected
 
-    def test_returns_None_if_column_end_with_number_but_is_not_duplicate(self):
+    def test_returns_empty_list_if_column_end_with_number_but_is_not_duplicate(self):
         csv_data = "taxon taxon,taxon taxon f.1\n" "1,1\n" "2,2\n"
 
         df = pd.read_csv(StringIO(csv_data))
         assert list(df.columns) == ["taxon taxon", "taxon taxon f.1"]
 
-        assert check_duplicate_columns(df, "file") is None
+        assert check_duplicate_columns(df, "file") == []
 
-    def test_returns_None_for_unique_columns(self):
+    def test_returns_empty_list_for_unique_columns(self):
         csv_data = "aaa,bbb\n" "1,1\n" "2,2\n"
 
         df = pd.read_csv(StringIO(csv_data))
         assert list(df.columns) == ["aaa", "bbb"]
 
-        assert check_duplicate_columns(df, "file") is None
+        assert check_duplicate_columns(df, "file") == []
+
+    def test_returns_True_if_space_columns_have_similiar_names_and_same_values(self):
+        csv_data = "a,a \n" "1,1\n" "2,2\n"
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["a", "a "]
+
+        expected = [{"bad_column": "a ", "filename": "file", "same_value": True}]
+        assert check_duplicate_columns(df, "file") == expected
+
+    def test_returns_False_if_space_columns_have_similiar_names_but_different_values(
+        self,
+    ):
+        csv_data = "a,a \n" "1,3\n" "2,4\n"
+
+        df = pd.read_csv(StringIO(csv_data))
+        assert list(df.columns) == ["a", "a "]
+
+        expected = [{"bad_column": "a ", "filename": "file", "same_value": False}]
+        assert check_duplicate_columns(df, "file") == expected
+
+    def test_returns_empty_list_if_space_columns_have_differnt_names(self):
+        csv_data = "a,b \n" "1,1\n" "2,2\n"
+        df = pd.read_csv(StringIO(csv_data))
+
+        assert list(df.columns) == ["a", "b "]
+        assert check_duplicate_columns(df, "file") == []
 
 
 class TestDeleteDuplicateColumns:
@@ -1037,10 +1073,21 @@ class TestDeleteDuplicateColumns:
         assert list(df.columns) == ["a", "b"]
         assert_frame_equal(df, expected)
 
-    def test_deletes_columns_with_surrounding_spaces_and_same_names_and_values(self):
-        csv_data = "a,a , a,b\n" "1,1,1,1\n" "2,2,2,2\n"
+    def test_deletes_columns_with_same_names_and_same_values_with_nan(self):
+        csv_data = "a,a,a,b\n" "1,1,1,1\n" f"{np.nan},{np.nan},{np.nan},2\n"
         df = pd.read_csv(StringIO(csv_data))
-        csv_data2 = "a,b\n" "1,1\n" "2,2\n"
+        csv_data2 = "a,b\n" f"1,1\n" f"{np.nan},2\n"
+        expected = pd.read_csv(StringIO(csv_data2))
+
+        delete_duplicate_columns(df)
+
+        assert list(df.columns) == ["a", "b"]
+        assert_frame_equal(df, expected)
+
+    def test_deletes_multiple_columns_with_same_names_and_same_values(self):
+        csv_data = "a,b,a,b\n" "1,3,1,3\n" "2,4,2,4\n"
+        df = pd.read_csv(StringIO(csv_data))
+        csv_data2 = "a,b\n" "1,3\n" "2,4\n"
         expected = pd.read_csv(StringIO(csv_data2))
 
         delete_duplicate_columns(df)
@@ -1058,16 +1105,6 @@ class TestDeleteDuplicateColumns:
         assert list(df.columns) == ["a", "a.1", "a.2", "b"]
         assert_frame_equal(df, expected)
 
-    def test_ignores_columns_with_surrounding_spaces_and_same_names_but_different_values(self):
-        csv_data = "a,a , a,b\n" "1,2,3,1\n" "4,5,6,2\n"
-        df = pd.read_csv(StringIO(csv_data))
-        expected = pd.read_csv(StringIO(csv_data))
-
-        delete_duplicate_columns(df)
-
-        assert list(df.columns) == ["a", "a ", " a", "b"]
-        assert_frame_equal(df, expected)
-
     def test_ignores_columns_with_different_names_and_same_values(self):
         csv_data = "a,b\n" "1,1\n" "2,2\n"
         df = pd.read_csv(StringIO(csv_data))
@@ -1078,8 +1115,55 @@ class TestDeleteDuplicateColumns:
         assert list(df.columns) == ["a", "b"]
         assert_frame_equal(df, expected)
 
+    @pytest.mark.parametrize(
+        "csv_data",
+        [
+            "a,a , a,b\n" "1,1,1,1\n" "2,2,2,2\n",
+            "a, a,a ,b\n" "1,1,1,1\n" "2,2,2,2\n",
+            " a,a,a ,b\n" "1,1,1,1\n" "2,2,2,2\n",
+            "a ,a, a,b\n" "1,1,1,1\n" "2,2,2,2\n",
+        ],
+    )
+    def test_deletes_columns_with_surrounding_spaces_and_same_names_and_values(
+        self, csv_data
+    ):
+        df = pd.read_csv(StringIO(csv_data))
+        csv_data2 = "a,b\n" "1,1\n" "2,2\n"
+        expected = pd.read_csv(StringIO(csv_data2))
 
-    def test_ignores_columns_with_surrounding_spaces_different_names_and_same_values(self):
+        delete_duplicate_columns(df)
+
+        assert list(df.columns) == ["a", "b"]
+        assert_frame_equal(df, expected)
+
+    def test_deletes_multiple_columns_with_spaces_and_same_names_and_same_values(
+        self,
+    ):
+        csv_data = "a,b ,a ,b\n" "1,3,1,3\n" "2,4,2,4\n"
+        df = pd.read_csv(StringIO(csv_data))
+        csv_data2 = "a,b\n" "1,3\n" "2,4\n"
+        expected = pd.read_csv(StringIO(csv_data2))
+
+        delete_duplicate_columns(df)
+
+        assert list(df.columns) == ["a", "b"]
+        assert_frame_equal(df, expected)
+
+    def test_ignores_columns_with_spaces_and_same_names_but_different_values(
+        self,
+    ):
+        csv_data = "a,a , a,b\n" "1,2,3,1\n" "4,5,6,2\n"
+        df = pd.read_csv(StringIO(csv_data))
+        expected = pd.read_csv(StringIO(csv_data))
+
+        delete_duplicate_columns(df)
+
+        assert list(df.columns) == ["a", "a ", " a", "b"]
+        assert_frame_equal(df, expected)
+
+    def test_ignores_columns_with_surrounding_spaces_different_names_and_same_values(
+        self,
+    ):
         csv_data = "a,b \n" "1,1\n" "2,2\n"
         df = pd.read_csv(StringIO(csv_data))
         expected = pd.read_csv(StringIO(csv_data))

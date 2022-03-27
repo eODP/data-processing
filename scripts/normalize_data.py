@@ -383,16 +383,15 @@ def delete_duplicate_columns(df):
             # gets original name of the column ("foo bar")
             original_name = re.sub(r"\.\d+$", "", column)
             if original_name in df.columns:
-                # compare the values in the duplicate columns
-                compare_duplicate_columns = df[original_name].fillna(0) == df[
-                    column
-                ].fillna(0)
+                # delete column if values are identical
+                if df[original_name].fillna("").equals(df[column].fillna("")):
+                    del df[column]
 
-                # determines if the two columns have the same values
-                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
-                    compare_duplicate_columns
-                )
-                if duplicate_columns_are_equal:
+        # look for columns with leading or trailing space
+        elif column.strip() != column:
+            strip_column = column.strip()
+            if strip_column in df.columns:
+                if df[strip_column].fillna("").equals(df[column].fillna("")):
                     del df[column]
 
 
