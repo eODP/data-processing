@@ -1230,3 +1230,33 @@ class TestRemoveBracketText:
         remove_bracket_text(df)
 
         assert_frame_equal(df, expected)
+
+
+class TestRemoveEmptyUnnamedColumns:
+    def test_remove_unnamed_columns_with_no_content(self):
+        data = {"A": [1, 2, 3], "B": ["a", "b", "c"], "Unnamed: 12": [None, None, None]}
+        df = pd.DataFrame(data)
+        data = {"A": [1, 2, 3], "B": ["a", "b", "c"]}
+        expected = pd.DataFrame(data)
+
+        remove_empty_unnamed_columns(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_does_change_named_columns_without_content(self):
+        data = {"A": [1, 2, 3], "B": ["a", "b", "c"], "C": [None, None, None]}
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        remove_empty_unnamed_columns(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_does_change_unnamed_columns_with_content(self):
+        data = {"A": [1, 2, 3], "B": ["a", "b", "c"], "Unnamed: 12": ["a", None, None]}
+        df = pd.DataFrame(data)
+        expected = pd.DataFrame(data)
+
+        remove_empty_unnamed_columns(df)
+
+        assert_frame_equal(df, expected)

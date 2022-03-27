@@ -516,3 +516,10 @@ def remove_bracket_text(df):
     """remove trailing text inside brackets."""
     df.replace(r" *\[.*\] *$", "", regex=True, inplace=True)
     return df
+
+
+def remove_empty_unnamed_columns(df):
+    for col in df.columns:
+        if re.match(r"^Unnamed: \d+$", col):
+            if len(df[col].dropna(how="all")) == 0:
+                del df[col]
