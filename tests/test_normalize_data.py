@@ -1073,6 +1073,17 @@ class TestDeleteDuplicateColumns:
         assert list(df.columns) == ["a", "b"]
         assert_frame_equal(df, expected)
 
+    def test_deletes_multiple_columns_with_same_names_and_same_values(self):
+        csv_data = "a,b,a,b\n" "1,3,1,3\n" "2,4,2,4\n"
+        df = pd.read_csv(StringIO(csv_data))
+        csv_data2 = "a,b\n" "1,3\n" "2,4\n"
+        expected = pd.read_csv(StringIO(csv_data2))
+
+        delete_duplicate_columns(df)
+
+        assert list(df.columns) == ["a", "b"]
+        assert_frame_equal(df, expected)
+
     def test_deletes_columns_with_same_names_and_same_values_with_nan(self):
         csv_data = "a,a,a,b\n" "1,1,1,1\n" f"{np.nan},{np.nan},{np.nan},2\n"
         df = pd.read_csv(StringIO(csv_data))
@@ -1084,21 +1095,17 @@ class TestDeleteDuplicateColumns:
         assert list(df.columns) == ["a", "b"]
         assert_frame_equal(df, expected)
 
-
     def test_deletes_columns_with_same_names_and_all_nan(self):
-        csv_data = (
-            "a,a,a,b\n"
-            f"{np.nan},{np.nan},{np.nan},1\n"
-            f"{np.nan},{np.nan},{np.nan},2\n"
-        )
+        csv_data = "a,a,a,b\n" f"{np.nan},{np.nan},{np.nan},1\n" f"{np.nan},{np.nan},{np.nan},2\n"
         df = pd.read_csv(StringIO(csv_data))
-        csv_data2 = "a,b\n" "1,3\n" "2,4\n"
+        csv_data2 = "a,b\n" f"{np.nan},1\n" f"{np.nan},2\n"
         expected = pd.read_csv(StringIO(csv_data2))
 
         delete_duplicate_columns(df)
 
         assert list(df.columns) == ["a", "b"]
         assert_frame_equal(df, expected)
+
 
     def test_ignores_columns_with_same_names_but_different_values(self):
         csv_data = "a,a,a,b\n" "1,2,3,1\n" "4,5,6,2\n"
@@ -1166,11 +1173,7 @@ class TestDeleteDuplicateColumns:
         assert_frame_equal(df, expected)
 
     def test_deletes_columns_with_spaces_and_same_names_and_all_nan(self):
-        csv_data = (
-            "a, a, a,b\n"
-            f"{np.nan},{np.nan},{np.nan},1\n"
-            f"{np.nan},{np.nan},{np.nan},2\n"
-        )
+        csv_data = "a, a, a,b\n" f"{np.nan},{np.nan},{np.nan},1\n" f"{np.nan},{np.nan},{np.nan},2\n"
         df = pd.read_csv(StringIO(csv_data))
         csv_data2 = "a,b\n" f"{np.nan},1\n" f"{np.nan},2\n"
         expected = pd.read_csv(StringIO(csv_data2))
