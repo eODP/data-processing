@@ -184,7 +184,8 @@ def create_sample_cols(series):
             "Section": parts[5],
             "A/W": parts[6],
         }
-        df = df.append(parts_dict, ignore_index=True)
+        temp = pd.DataFrame([parts_dict])
+        df = pd.concat([df, temp], ignore_index=True)
 
     if not all([valid_sample_value(x) for x in series]):
         raise ValueError("Sample name uses wrong format.")
@@ -203,6 +204,8 @@ def restore_integer_columns(df):
         try:
             df[col] = df[col].astype("Int64")
         except TypeError:
+            pass
+        except ValueError:
             pass
     return df
 
