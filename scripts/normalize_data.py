@@ -344,54 +344,20 @@ def add_missing_columns(path, normalized_columns):
     return changed
 
 
-def delete_duplicate_columns_with_spaces(df):
-    if len(set([col.strip() for col in df.columns])) != len(df.columns):
-        column_counts = {}
-        column_dups = {}
-        for col in df.columns:
-            strip_col = col.strip()
-            if strip_col not in column_counts:
-                column_counts[strip_col] = 1
-                if col == strip_col:
-                    column_dups[strip_col] = []
-                else:
-                    column_dups[strip_col] = [col]
-            else:
-                column_counts[strip_col] += 1
-                column_dups[strip_col].append(col)
-
-        dup_columns = []
-        for col, count in column_counts.items():
-            if count > 1:
-                dup_columns.append(col)
-
-        for dup_col in dup_columns:
-            for original_name in column_dups[dup_col]:
-                compare_duplicate_columns = df[original_name].fillna(0) == df[
-                    original_name.strip()
-                ].fillna(0)
-
-                duplicate_columns_are_equal = compare_duplicate_columns.sum() == len(
-                    compare_duplicate_columns
-                )
-
-                if duplicate_columns_are_equal:
-                    del df[original_name]
-
-
 def delete_duplicate_columns(df):
     for column in df.columns:
         # looks for columns renamed by pandas ("foo bar.1")
         if re.match(r".*\.\d+$", column):
             # gets original name of the column ("foo bar")
             original_name = re.sub(r"\.\d+$", "", column)
+            original_name = original_name.strip()
             if original_name in df.columns:
                 # delete column if values are identical
                 if df[original_name].fillna("").equals(df[column].fillna("")):
                     del df[column]
 
         # look for columns with leading or trailing space
-        elif column.strip() != column:
+        if column.strip() != column:
             strip_column = column.strip()
             if strip_column in df.columns:
                 if df[strip_column].fillna("").equals(df[column].fillna("")):
@@ -432,13 +398,13 @@ def check_duplicate_columns(df, filename):
         elif column.strip() != column:
             strip_column = column.strip()
             if strip_column in df.columns:
-                source = f"{filename}, {original_name}"
+                source = f"{filename}, {column}"
                 if df[strip_column].fillna("").equals(df[column].fillna("")):
                     print(f"{source}: duplicate columns have same values")
                     bad_columns.append(
                         {
                             "filename": filename,
-                            "bad_column": original_name,
+                            "bad_column": column,
                             "same_value": True,
                         }
                     )
@@ -447,7 +413,7 @@ def check_duplicate_columns(df, filename):
                     bad_columns.append(
                         {
                             "filename": filename,
-                            "bad_column": original_name,
+                            "bad_column": column,
                             "same_value": False,
                         }
                     )
