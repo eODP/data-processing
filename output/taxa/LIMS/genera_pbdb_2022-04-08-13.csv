@@ -1,0 +1,2 @@
+genus name,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,family_taxon_id,family_taxon_name,order_taxon_id,order_taxon_name,class_taxon_id,class_taxon_name,phylum_taxon_id,phylum_taxon_name,unranked clade_taxon_id,unranked clade_taxon_name
+Gephyrocapsa,421973,Gephyrocapsa,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,28595,Life
