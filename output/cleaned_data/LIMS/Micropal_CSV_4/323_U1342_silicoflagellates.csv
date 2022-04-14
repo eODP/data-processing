@@ -1,13 +1,13 @@
-Exp,Site,Hole,"Core, Section",depth CSF-A Top (m),depth CSF-A Bottom (m),Abundance,Preservation,Dictyocha subarctios,Distephanus speculum,Distephanus speculum with short radial spines,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Aberrant Silicoflagellates
-323,U1342,A,1H-CC,1.65,1.75,B,,,,,,,,,,
-323,U1342,A,2H-CC,11.31,11.41,C,M-G,T,T,,,,F,F,,
-323,U1342,A,3H-CC,20.91,21.01,R,P-M,,,,,,R,,,
-323,U1342,A,4H-CC,30.65,30.75,C,M,C,R,R,R,,,,,
-323,U1342,A,5H-CC,40.12,40.22,F,M,,R,R,,,,,,T
-323,U1342,A,6H-CC,48.25,48.35,B,,,,,,,,,,
-323,U1342,A,7H-CC,55.64,55.74,F,M,,R,R,,,,,R,
-323,U1342,D,1H-CC,6.01,6.11,R,P-M,,,,,,R,,,
-323,U1342,D,2H-CC,15.73,15.83,F,M,,F,,,T,,,,
-323,U1342,D,3H-CC,25.02,25.12,B,,,,,,,,,,
-323,U1342,D,4H-CC,34.73,34.83,C,M-G,R,R,,T,R,,C,,T
-323,U1342,D,5H-CC,44.3,44.4,R,M-G,,R,,,,,,,
+Exp,Site,Hole,"Core, Section",depth CSF-A Top (m),depth CSF-A Bottom (m),Abundance,Preservation,Dictyocha subarctios,Distephanus speculum,Distephanus speculum with short radial spines,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Aberrant Silicoflagellates,Core,Section,Type
+323,U1342,A,1H-CC,1.65,1.75,B,,,,,,,,,,,1,CC,H
+323,U1342,A,2H-CC,11.31,11.41,C,M-G,T,T,,,,F,F,,,2,CC,H
+323,U1342,A,3H-CC,20.91,21.01,R,P-M,,,,,,R,,,,3,CC,H
+323,U1342,A,4H-CC,30.65,30.75,C,M,C,R,R,R,,,,,,4,CC,H
+323,U1342,A,5H-CC,40.12,40.22,F,M,,R,R,,,,,,T,5,CC,H
+323,U1342,A,6H-CC,48.25,48.35,B,,,,,,,,,,,6,CC,H
+323,U1342,A,7H-CC,55.64,55.74,F,M,,R,R,,,,,R,,7,CC,H
+323,U1342,D,1H-CC,6.01,6.11,R,P-M,,,,,,R,,,,1,CC,H
+323,U1342,D,2H-CC,15.73,15.83,F,M,,F,,,T,,,,,2,CC,H
+323,U1342,D,3H-CC,25.02,25.12,B,,,,,,,,,,,3,CC,H
+323,U1342,D,4H-CC,34.73,34.83,C,M-G,R,R,,T,R,,C,,T,4,CC,H
+323,U1342,D,5H-CC,44.3,44.4,R,M-G,,R,,,,,,,,5,CC,H

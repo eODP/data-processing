@@ -1,23 +1,23 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella norcrossi,Elphidium spp.,Elphidium cf. batialis,Stainforthia spp.,Oridorsalis umbonatus,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Cibicides lobatulus,Triloculina sp. 1,Triloculina sp.,Brizalina earlandi,Nonionella turgida digitata,Pullenia sp. 1,Uvigerina auberiana,Valvulineria sp.,Nodosaria aff. pyrula,Glandulina sp.,Bolivina sp.,Observations
-323,U1339,B,1H,CC,0,0,3.91,3.91,G,A,F,,,F,,F,R,,A,,,,P,A,P,,,,,,MEDIUM IRD
-323,U1339,B,2H,CC,0,0,13.65,13.65,M,F,A,,A,,,R,F,,,,P,P,,P,,,,,,,MEDIUM IRD
-323,U1339,B,3H,CC,0,0,23.36,23.36,G,D,P,,F,A,,A,,,D,,,,,,,,,,,,FEW IRD
-323,U1339,B,4H,CC,0,0,32.91,32.91,M,F,,,D,,,,,,R,,,,,,R,,,,,,MEDIUM IRD
-323,U1339,B,5H,CC,0,0,42.17,42.17,G,D,F,,A,D,,,R,,,P,,,,F,,,,,,,"MEDIUM IRD, YELLOWY"
-323,U1339,B,6H,CC,0,0,52.23,52.23,G,F,,,,,P,A,,,F,,R,,,R,,D,,,,,"FEW IRD, PYRITE TUBES"
-323,U1339,B,7H,CC,0,0,61.5,61.5,M,R,F,,F,,,,,,,,,F,,,,,,,,,FEW IRD
-323,U1339,B,8H,CC,0,0,70.85,70.85,P,R,R,,,,,R,,,R,,P,,,,,A,,,,P,"MEDIUM IRD, HIGH QUARTZ"
-323,U1339,B,9H,CC,0,0,80.37,80.37,M,R,P,,P,A,,,R,,P,,,,,P,,,,,,,MEDIUM IRD
-323,U1339,B,10H,CC,0,0,89.88,89.88,M,R,F,,F,,,,,,,,,,,,,A,,,,,HIGH IRD
-323,U1339,B,11H,CC,0,0,99.25,99.25,P,A,R,,D,P,P,,P,,,,,,,,R,,,,,,"MEDIUM IRD, WOOD FRAGMENT"
-323,U1339,B,12H,CC,0,0,108.4,108.4,G,F,P,,F,A,,,D,,,,,,,,,,,,,,"FEW IRD, HIGH QUARTZ,"
-323,U1339,B,13H,CC,0,0,108.89,108.89,G,A,A,,F,,,A,F,,,,,,,,,,,,,,MEDIUM IRD
-323,U1339,B,14H,CC,0,0,120.47,120.47,G,D,F,,R,F,,F,D,,A,,,P,,,,,F,,,,MEDIUM IRD
-323,U1339,B,15H,CC,0,0,130,130,G,R,,,A,,,R,,,R,,,,,,,,,,,,HIGH IRD
-323,U1339,B,16H,CC,0,0,139.41,139.41,G,R,,F,D,,,,,,,,,,R,,,,,,,,HIGH IRD
-323,U1339,B,17H,CC,0,0,148.57,148.57,G,D,F,,D,F,,,F,,,,,,R,,,,,R,,,"MEDIUM IRD, MANY BROKEN"
-323,U1339,B,18H,CC,0,0,158.79,158.79,M,D,R,,D,F,,,F,,,,,,,P,,,,,,,"HIGH IRD, MANY BROKEN, YELLOWY"
-323,U1339,B,19H,CC,0,0,167.86,167.86,G,R,P,,P,,,,R,,,,,,,,,,,,,,HIGH IRD
-323,U1339,B,20H,CC,0,0,177.64,177.64,G,F,R,,D,P,,R,R,,,,,,,P,,,,,,,HIGH IRD
-323,U1339,B,21H,CC,0,0,187.6,187.6,G,A,F,,A,,,R,A,,P,,,,P,,,F,,,P,,HIGH IRD
-323,U1339,B,22H,CC,0,0,196.83,196.83,G,R,,P,R,,,,,P,P,,,,P,,,,,,,,HIGH IRD
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella norcrossi,Elphidium spp.,Elphidium cf. batialis,Stainforthia spp.,Oridorsalis umbonatus,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Cibicides lobatulus,Triloculina sp. 1,Triloculina sp.,Brizalina earlandi,Nonionella turgida digitata,Pullenia sp. 1,Uvigerina auberiana,Valvulineria sp.,Nodosaria aff. pyrula,Glandulina sp.,Bolivina sp.,Observations,Type
+323,U1339,B,1,CC,0,0,3.91,3.91,G,A,F,,,F,,F,R,,A,,,,P,A,P,,,,,,MEDIUM IRD,H
+323,U1339,B,2,CC,0,0,13.65,13.65,M,F,A,,A,,,R,F,,,,P,P,,P,,,,,,,MEDIUM IRD,H
+323,U1339,B,3,CC,0,0,23.36,23.36,G,D,P,,F,A,,A,,,D,,,,,,,,,,,,FEW IRD,H
+323,U1339,B,4,CC,0,0,32.91,32.91,M,F,,,D,,,,,,R,,,,,,R,,,,,,MEDIUM IRD,H
+323,U1339,B,5,CC,0,0,42.17,42.17,G,D,F,,A,D,,,R,,,P,,,,F,,,,,,,"MEDIUM IRD, YELLOWY",H
+323,U1339,B,6,CC,0,0,52.23,52.23,G,F,,,,,P,A,,,F,,R,,,R,,D,,,,,"FEW IRD, PYRITE TUBES",H
+323,U1339,B,7,CC,0,0,61.5,61.5,M,R,F,,F,,,,,,,,,F,,,,,,,,,FEW IRD,H
+323,U1339,B,8,CC,0,0,70.85,70.85,P,R,R,,,,,R,,,R,,P,,,,,A,,,,P,"MEDIUM IRD, HIGH QUARTZ",H
+323,U1339,B,9,CC,0,0,80.37,80.37,M,R,P,,P,A,,,R,,P,,,,,P,,,,,,,MEDIUM IRD,H
+323,U1339,B,10,CC,0,0,89.88,89.88,M,R,F,,F,,,,,,,,,,,,,A,,,,,HIGH IRD,H
+323,U1339,B,11,CC,0,0,99.25,99.25,P,A,R,,D,P,P,,P,,,,,,,,R,,,,,,"MEDIUM IRD, WOOD FRAGMENT",H
+323,U1339,B,12,CC,0,0,108.4,108.4,G,F,P,,F,A,,,D,,,,,,,,,,,,,,"FEW IRD, HIGH QUARTZ,",H
+323,U1339,B,13,CC,0,0,108.89,108.89,G,A,A,,F,,,A,F,,,,,,,,,,,,,,MEDIUM IRD,H
+323,U1339,B,14,CC,0,0,120.47,120.47,G,D,F,,R,F,,F,D,,A,,,P,,,,,F,,,,MEDIUM IRD,H
+323,U1339,B,15,CC,0,0,130,130,G,R,,,A,,,R,,,R,,,,,,,,,,,,HIGH IRD,H
+323,U1339,B,16,CC,0,0,139.41,139.41,G,R,,F,D,,,,,,,,,,R,,,,,,,,HIGH IRD,H
+323,U1339,B,17,CC,0,0,148.57,148.57,G,D,F,,D,F,,,F,,,,,,R,,,,,R,,,"MEDIUM IRD, MANY BROKEN",H
+323,U1339,B,18,CC,0,0,158.79,158.79,M,D,R,,D,F,,,F,,,,,,,P,,,,,,,"HIGH IRD, MANY BROKEN, YELLOWY",H
+323,U1339,B,19,CC,0,0,167.86,167.86,G,R,P,,P,,,,R,,,,,,,,,,,,,,HIGH IRD,H
+323,U1339,B,20,CC,0,0,177.64,177.64,G,F,R,,D,P,,R,R,,,,,,,P,,,,,,,HIGH IRD,H
+323,U1339,B,21,CC,0,0,187.6,187.6,G,A,F,,A,,,R,A,,P,,,,P,,,F,,,P,,HIGH IRD,H
+323,U1339,B,22,CC,0,0,196.83,196.83,G,R,,P,R,,,,,P,P,,,,P,,,,,,,,HIGH IRD,H

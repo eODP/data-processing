@@ -1,7 +1,7 @@
-Exp,Site,Hole,"Core,    section",depth Top (m CSF-A),depth Bottom (m CSF-A),Abundance,Preservation,Actinocyclus curvatulus,Actinocyclus ingens,Actinoptychus senarius,Asteromphalus brookei,Asteromphalus robustus,Bacteriosira fragilis,Chaetoceros resting spore,Chaetoceros vegetative spore,Coscinodiscus marginatus,Coscinodiscus oculus iridis,Cyclotella spp.,Detonula confervacea,Navicula spp.,Neodenticula koizumii,Neodenticula seminae,Opephora marina,Paralia sulcata,Proboscia curvirostris,Pyxidicula turris,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. semispina,tabellaria spp.,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira antiqua,Thalassiosira latimarginata,Thalassiosira oestrupii,Thalassiothrix longissima,"Diatom Zone (Yanagisawa and Akiba, 1998)"
-323,U1342,C,1H-CC,7.09,7.22,A,M-G,C,,,R,,,,,,,,,,R,C,,,,,C,,F,,,C,R,A,F,R,Neodenticula seminae Zone (NPD12)
-323,U1342,C,2H-CC,16.85,17.04,R,P,C,,,,,,,,,,,,,,A,,A,F,F,C,,,,C,F,,F,C,,Neodenticula seminae Zone (NPD12)
-323,U1342,C,3H-CC,26.37,26.7,20.8,21.01,C,,,,R,R,C,C,R,R,R,R,F,,C,R,,F,F,F,C,R,R,,F,,C,,C,Proboscia curvirostris Zone (NPD11)
-323,U1342,C,4H-CC,35.75,36,30.48,30.48,C,,,,,,,,C,,,,,R,D,,,R,R,R,R,,,,F,,F,,R,Proboscia curvirostris Zone (NPD11)
-323,U1342,C,5H-CC,45.2,45.42,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Undefined
-323,U1342,C,6H-CC,45.32,45.68,F,P,,C,R,,,,,,D,F,,,,,,,,,,,,,,,,,,,,Undefined
+Exp,Site,Hole,"Core,    section",depth Top (m CSF-A),depth Bottom (m CSF-A),Abundance,Preservation,Actinocyclus curvatulus,Actinocyclus ingens,Actinoptychus senarius,Asteromphalus brookei,Asteromphalus robustus,Bacteriosira fragilis,Chaetoceros resting spore,Chaetoceros vegetative spore,Coscinodiscus marginatus,Coscinodiscus oculus iridis,Cyclotella spp.,Detonula confervacea,Navicula spp.,Neodenticula koizumii,Neodenticula seminae,Opephora marina,Paralia sulcata,Proboscia curvirostris,Pyxidicula turris,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. semispina,tabellaria spp.,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira antiqua,Thalassiosira latimarginata,Thalassiosira oestrupii,Thalassiothrix longissima,"Diatom Zone (Yanagisawa and Akiba, 1998)",Core,Section,Type
+323,U1342,C,1H-CC,7.09,7.22,A,M-G,C,,,R,,,,,,,,,,R,C,,,,,C,,F,,,C,R,A,F,R,Neodenticula seminae Zone (NPD12),1,CC,H
+323,U1342,C,2H-CC,16.85,17.04,R,P,C,,,,,,,,,,,,,,A,,A,F,F,C,,,,C,F,,F,C,,Neodenticula seminae Zone (NPD12),2,CC,H
+323,U1342,C,3H-CC,26.37,26.7,20.8,21.01,C,,,,R,R,C,C,R,R,R,R,F,,C,R,,F,F,F,C,R,R,,F,,C,,C,Proboscia curvirostris Zone (NPD11),3,CC,H
+323,U1342,C,4H-CC,35.75,36,30.48,30.48,C,,,,,,,,C,,,,,R,D,,,R,R,R,R,,,,F,,F,,R,Proboscia curvirostris Zone (NPD11),4,CC,H
+323,U1342,C,5H-CC,45.2,45.42,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Undefined,5,CC,H
+323,U1342,C,6H-CC,45.32,45.68,F,P,,C,R,,,,,,D,F,,,,,,,,,,,,,,,,,,,,Undefined,6,CC,H

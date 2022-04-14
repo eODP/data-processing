@@ -1,24 +1,24 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Other taxa,Comments
-323,U1339,B,1H,CC,0,0,3.91,3.91,,A,M-G,C,,F,,,D,R,,,,
-323,U1339,B,2H,CC,0,0,13.65,13.65,,R,M-G,R,,,,,,,,,,
-323,U1339,B,3H,CC,0,0,23.36,23.36,NN21,R,M-G,R,,,,,,,,,,
-323,U1339,B,4H,CC,0,0,32.91,32.91,,R,M-G,R,,,,,R,,,,,
-323,U1339,B,5H,CC,0,0,42.17,42.17,,B,,,,,,,,,,,,reworked spec of C. miopelagicus and Dictyococcitus spp.
-323,U1339,B,6H,CC,0,0,52.23,52.23,,B,,,,,,,,,,,,
-323,U1339,B,7H,4W,54,54,56.54,56.54,,R,M,,,,,,,,R,,unidentified spec (1),etched specimens
-323,U1339,B,7H,CC,0,0,61.5,61.5,,B,,,,,,,,,,,,
-323,U1339,B,8H,CC,0,0,70.85,70.85,,B,,,,,,,,,,,,
-323,U1339,B,9H,CC,0,0,80.37,80.37,,R,M-G,,,,,,R,,,,,
-323,U1339,B,10H,CC,0,0,89.88,89.88,,R,M-G,,,R,,,,,,,,
-323,U1339,B,11H,CC,0,0,99.25,99.25,,R,M,,,,,,R,,,,,
-323,U1339,B,12H,CC,0,0,108.4,108.4,,C,M-G,,,R,,C,F,,,,,
-323,U1339,B,13H,CC,0,0,108.89,108.89,,B,,,,,,,,,,,,
-323,U1339,B,14H,CC,0,0,120.47,120.47,,B,,,,,,,,,,,,
-323,U1339,B,15H,CC,0,0,130,130,,B,,,,,,,,,,,,
-323,U1339,B,16H,CC,0,0,139.41,139.41,NN19,R,M,,R,R,,,R,,,,,P. lacunosa only one specimen
-323,U1339,B,17H,CC,0,0,148.57,148.57,,R,M,,,,,,R,,,,,overgrowth in C. pelagicus
-323,U1339,B,18H,CC,0,0,158.79,158.79,,C,M,,,,,,D,,,,,
-323,U1339,B,19H,CC,0,0,167.86,167.86,,B,,,,,,,,,,,,
-323,U1339,B,20H,CC,0,0,177.64,177.64,,R,M,,,,,,R,,,,,overgrowth in C. pelagicus
-323,U1339,B,21H,CC,0,0,187.6,187.6,,B,,,,,,,,,,,,
-323,U1339,B,22H,CC,0,0,196.83,196.83,,B,,,,,,,,,,,,
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Other taxa,Comments,Type
+323,U1339,B,1,CC,0,0,3.91,3.91,,A,M-G,C,,F,,,D,R,,,,,H
+323,U1339,B,2,CC,0,0,13.65,13.65,,R,M-G,R,,,,,,,,,,,H
+323,U1339,B,3,CC,0,0,23.36,23.36,NN21,R,M-G,R,,,,,,,,,,,H
+323,U1339,B,4,CC,0,0,32.91,32.91,,R,M-G,R,,,,,R,,,,,,H
+323,U1339,B,5,CC,0,0,42.17,42.17,,B,,,,,,,,,,,,reworked spec of C. miopelagicus and Dictyococcitus spp.,H
+323,U1339,B,6,CC,0,0,52.23,52.23,,B,,,,,,,,,,,,,H
+323,U1339,B,7,4W,54,54,56.54,56.54,,R,M,,,,,,,,R,,unidentified spec (1),etched specimens,H
+323,U1339,B,7,CC,0,0,61.5,61.5,,B,,,,,,,,,,,,,H
+323,U1339,B,8,CC,0,0,70.85,70.85,,B,,,,,,,,,,,,,H
+323,U1339,B,9,CC,0,0,80.37,80.37,,R,M-G,,,,,,R,,,,,,H
+323,U1339,B,10,CC,0,0,89.88,89.88,,R,M-G,,,R,,,,,,,,,H
+323,U1339,B,11,CC,0,0,99.25,99.25,,R,M,,,,,,R,,,,,,H
+323,U1339,B,12,CC,0,0,108.4,108.4,,C,M-G,,,R,,C,F,,,,,,H
+323,U1339,B,13,CC,0,0,108.89,108.89,,B,,,,,,,,,,,,,H
+323,U1339,B,14,CC,0,0,120.47,120.47,,B,,,,,,,,,,,,,H
+323,U1339,B,15,CC,0,0,130,130,,B,,,,,,,,,,,,,H
+323,U1339,B,16,CC,0,0,139.41,139.41,NN19,R,M,,R,R,,,R,,,,,P. lacunosa only one specimen,H
+323,U1339,B,17,CC,0,0,148.57,148.57,,R,M,,,,,,R,,,,,overgrowth in C. pelagicus,H
+323,U1339,B,18,CC,0,0,158.79,158.79,,C,M,,,,,,D,,,,,,H
+323,U1339,B,19,CC,0,0,167.86,167.86,,B,,,,,,,,,,,,,H
+323,U1339,B,20,CC,0,0,177.64,177.64,,R,M,,,,,,R,,,,,overgrowth in C. pelagicus,H
+323,U1339,B,21,CC,0,0,187.6,187.6,,B,,,,,,,,,,,,,H
+323,U1339,B,22,CC,0,0,196.83,196.83,,B,,,,,,,,,,,,,H

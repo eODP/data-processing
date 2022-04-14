@@ -1,6 +1,6 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella islandica,Elphidium cf. batialis,Stainforthia spp.,Oridorsalis umbonatus,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Pyrgo sp.,Cibicides lobatulus,Globocassidulina sp.,Triloculina sp. 1,Triloculina sp.,Bolivina sp. 1,Pygmaeseistron aff. hispida,Nonionella turgida digitata,Pullenia sp. 1,Uvigerina auberiana,Observations
-323,U1339,A,1H,CC,0,0,4.82,4.82,G,D,D,A,F,R,F,F,R,R,R,R,R,R,,,,,,,MEDIUM IRD
-323,U1339,A,2H,CC,0,0,14.64,14.64,G,A,,D,F,,F,R,,R,,,,,R,F,R,R,,,MEDIUM IRD
-323,U1339,A,3H,CC,0,0,24.23,24.23,G,F,A,R,,,F,R,,F,,,,,,R,,R,R,,FEW IRD
-323,U1339,A,4H,3,156,159,28.48,28.51,G,R,,A,,,A,R,,F,,,,,,,,,P,,MEDIUM IRD
-323,U1339,A,4H,CC,0,0,33.96,33.96,G,A,,F,,,R,F,,,,,,,,,,R,,R,HIGH IRD
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella islandica,Elphidium cf. batialis,Stainforthia spp.,Oridorsalis umbonatus,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Pyrgo sp.,Cibicides lobatulus,Globocassidulina sp.,Triloculina sp. 1,Triloculina sp.,Bolivina sp. 1,Pygmaeseistron aff. hispida,Nonionella turgida digitata,Pullenia sp. 1,Uvigerina auberiana,Observations,Type
+323,U1339,A,1,CC,0,0,4.82,4.82,G,D,D,A,F,R,F,F,R,R,R,R,R,R,,,,,,,MEDIUM IRD,H
+323,U1339,A,2,CC,0,0,14.64,14.64,G,A,,D,F,,F,R,,R,,,,,R,F,R,R,,,MEDIUM IRD,H
+323,U1339,A,3,CC,0,0,24.23,24.23,G,F,A,R,,,F,R,,F,,,,,,R,,R,R,,FEW IRD,H
+323,U1339,A,4,3,156,159,28.48,28.51,G,R,,A,,,A,R,,F,,,,,,,,,P,,MEDIUM IRD,H
+323,U1339,A,4,CC,0,0,33.96,33.96,G,A,,F,,,R,F,,,,,,,,,,R,,R,HIGH IRD,H
