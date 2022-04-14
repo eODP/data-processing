@@ -1,4 +1,4 @@
-Expedition,Site,Hole,Core,Core Type,Section,Secton Half,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Krithe sp.,Pseudocythere caudata
+Exp,Site,Hole,Core,Type,Section,Secton Half,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Krithe sp.,Pseudocythere caudata
 323,U1343,E,1,H,1,,0,0,0,0,,
 323,U1343,E,1,H,CC,,3,13,8.12,8.22,,
 323,U1343,E,2,H,CC,,0,10,17.7,17.8,,

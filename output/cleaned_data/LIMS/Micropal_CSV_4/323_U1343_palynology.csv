@@ -1,4 +1,4 @@
-Expedition,Site,Hole,Core,Core Type,Section,Depth top CSF-A (m),Depth bottom CSF-A (m),Preservation,Picea,Pinus,Trees,Shrubs,Herbs,Total pollen,Spores of Sphagnum,Spores of Pteridophytes,Botryococcus + Pediastrum,Hallodinium,Tintinids,Reworked palynomorphs
+Exp,Site,Hole,Core,Type,Section,Depth top CSF-A (m),Depth bottom CSF-A (m),Preservation,Picea,Pinus,Trees,Shrubs,Herbs,Total pollen,Spores of Sphagnum,Spores of Pteridophytes,Botryococcus + Pediastrum,Hallodinium,Tintinids,Reworked palynomorphs
 323,U1343,A,1,H,CC,5.4,5.5,G,F,R,C,R,R,C,R,R,F,R,R,R
 323,U1343,A,3,H,CC,24.6,24.7,G,C,R,C,R,,C,F,F,R,R,,R
 323,U1343,A,5,H,CC,43.9,44.0,G,C,,C,,R,C,F,F,R,,,R

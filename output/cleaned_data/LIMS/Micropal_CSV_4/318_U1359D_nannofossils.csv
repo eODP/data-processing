@@ -1,4 +1,4 @@
-Sample,Expedition,Site,Hole,Core,Core Type,Section,Section Half,Interval Top (cm) on SHLF,Interval Bot (cm) on SHLF,Top Depth (m),Bottom Depth (m),Abundance,Preservation,R. pseudoumblicus/R.gelida,R. minuta/D.productus,R. minutula/D.antarcticus
+Sample,Exp,Site,Hole,Core,Type,Section,Section Half,Interval Top (cm) on SHLF,Interval Bot (cm) on SHLF,Top Depth (m),Bottom Depth (m),Abundance,Preservation,R. pseudoumblicus/R.gelida,R. minuta/D.productus,R. minutula/D.antarcticus
 318-U1359D-25R-1-W 9/10-NANNO,318,U1359,D,25,R,1,W,9,10,372.49,372.5,A,G,A,A,A
 318-U1359D-33R-2-W 90/92-NANNO,318,U1359,D,33,R,2,W,90,92,451.6,451.62,B,,,,
 318-U1359D-33R-4-W 33/35-NANNO,318,U1359,D,33,R,4,W,33,35,454.03,454.05,B,,,,
