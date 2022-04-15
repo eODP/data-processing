@@ -1,17 +1,17 @@
-Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundances,Preservation,Dictyocha subarctios,Distephanus medianoctisol,Distephanus medianoctisol with short spines,Distephanus octangulatus,Distephanus octonarius,Distephanus speculum,Distephanus speculum with short radial spine,Aberrant Silicoflagellates,Silicoflagellate Zone in Ling (1992),Core,Section,Type
-323,U1345,A,1H-CC,4.29,4.39,A,G,R,T,,C,,C,R,R,Ds. octangulatus,1,CC,H
-323,U1345,A,2H-CC,13.98,14.09,T,G,,,,,T,,,,Ds. octangulatus,2,CC,H
-323,U1345,A,3H-CC,23.82,23.92,B,,,,,,,,,,Ds. octangulatus,3,CC,H
-323,U1345,A,4H-CC,33.34,33.44,F,G,,,,,,R,R,,Ds. octangulatus,4,CC,H
-323,U1345,A,5H-CC,42.85,42.95,C,G,,,,,,C,R,,Ds. octangulatus,5,CC,H
-323,U1345,A,6H-CC,51.51,51.61,R,M,,,,,T,T,,,Ds. octangulatus,6,CC,H
-323,U1345,A,7H-CC,61.74,61.84,B,,,,,,,,,,Ds. octangulatus,7,CC,H
-323,U1345,A,8H-CC,71.01,71.11,B,,,,,,,,,,Ds. octangulatus,8,CC,H
-323,U1345,A,9H-CC,80.54,80.64,R,M,,,,,R,,,,Ds. octonarius,9,CC,H
-323,U1345,A,10H-CC,88.26,88.36,C,G,,R,,C,C,F,T,,Ds. octonarius,10,CC,H
-323,U1345,A,11H-CC,98.39,98.49,T,G,,,,,,T,,,Ds. octonarius,11,CC,H
-323,U1345,A,12H-CC,108.43,108.53,C,G,,T,,R,T,F,F,T,Ds. octonarius,12,CC,H
-323,U1345,A,13H-CC,118.88,118.98,A,G,,,,F,F,C,,,Ds. octonarius,13,CC,H
-323,U1345,A,14H-CC,128.02,128.12,R,G,,,T,,R,T,,,Ds. octonarius,14,CC,H
-323,U1345,A,15H-CC,137.99,138.09,B,,,,,,,,,,Ds. octonarius,15,CC,H
-323,U1345,A,16H-CC,147.33,147.43,C,G,,C,R,,R,,R,T,Ds. octonarius,16,CC,H
+Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundances,Preservation,Dictyocha subarctios,Distephanus medianoctisol,Distephanus medianoctisol with short spines,Distephanus octangulatus,Distephanus octonarius,Distephanus speculum,Distephanus speculum with short radial spine,Aberrant Silicoflagellates,Silicoflagellate Zone in Ling (1992),Core,Section,Type,Top [cm],Bottom [cm],A/W
+323,U1345,A,1H-CC,4.29,4.39,A,G,R,T,,C,,C,R,R,Ds. octangulatus,1,CC,H,,,
+323,U1345,A,2H-CC,13.98,14.09,T,G,,,,,T,,,,Ds. octangulatus,2,CC,H,,,
+323,U1345,A,3H-CC,23.82,23.92,B,,,,,,,,,,Ds. octangulatus,3,CC,H,,,
+323,U1345,A,4H-CC,33.34,33.44,F,G,,,,,,R,R,,Ds. octangulatus,4,CC,H,,,
+323,U1345,A,5H-CC,42.85,42.95,C,G,,,,,,C,R,,Ds. octangulatus,5,CC,H,,,
+323,U1345,A,6H-CC,51.51,51.61,R,M,,,,,T,T,,,Ds. octangulatus,6,CC,H,,,
+323,U1345,A,7H-CC,61.74,61.84,B,,,,,,,,,,Ds. octangulatus,7,CC,H,,,
+323,U1345,A,8H-CC,71.01,71.11,B,,,,,,,,,,Ds. octangulatus,8,CC,H,,,
+323,U1345,A,9H-CC,80.54,80.64,R,M,,,,,R,,,,Ds. octonarius,9,CC,H,,,
+323,U1345,A,10H-CC,88.26,88.36,C,G,,R,,C,C,F,T,,Ds. octonarius,10,CC,H,,,
+323,U1345,A,11H-CC,98.39,98.49,T,G,,,,,,T,,,Ds. octonarius,11,CC,H,,,
+323,U1345,A,12H-CC,108.43,108.53,C,G,,T,,R,T,F,F,T,Ds. octonarius,12,CC,H,,,
+323,U1345,A,13H-CC,118.88,118.98,A,G,,,,F,F,C,,,Ds. octonarius,13,CC,H,,,
+323,U1345,A,14H-CC,128.02,128.12,R,G,,,T,,R,T,,,Ds. octonarius,14,CC,H,,,
+323,U1345,A,15H-CC,137.99,138.09,B,,,,,,,,,,Ds. octonarius,15,CC,H,,,
+323,U1345,A,16H-CC,147.33,147.43,C,G,,C,R,,R,,R,T,Ds. octonarius,16,CC,H,,,

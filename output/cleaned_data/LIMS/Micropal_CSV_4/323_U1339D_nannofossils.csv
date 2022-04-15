@@ -1,23 +1,23 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Comments,Type
-323,U1339,D,1,CC,0,0,6.52,6.52,,C,M-G,F,,,,,D,,,,reworked individuals present,H
-323,U1339,D,2,CC,0,0,16.04,16.04,,R,M,,,,,,R,,,,,H
-323,U1339,D,3,CC,0,0,25.59,25.59,NN21,B,,,,,,,,,,,,H
-323,U1339,D,4,CC,0,0,33.38,33.38,,C,M-G,R,,R,,C,C,,,,,H
-323,U1339,D,5,CC,0,0,43.24,43.24,,B,,,,,,,,,,,reworked individuals present,H
-323,U1339,D,6,CC,0,0,52.97,52.97,,B,,,,,,,,,,,reworked individuals present,H
-323,U1339,D,7,CC,0,0,62.48,62.48,,B,,,,,,,,,,,reworked individuals present,H
-323,U1339,D,8,CC,0,0,71.2,71.2,,B,,,,,,,,,,,,H
-323,U1339,D,9,CC,0,0,80.35,80.35,,R,P,,,,,,,,R,,,H
-323,U1339,D,10,CC,0,0,90.53,90.53,,B,,,,,,,,,,,,H
-323,U1339,D,11,CC,0,0,100.38,100.38,,B,,,,,,,,,,,,H
-323,U1339,D,12,CC,0,0,110.15,110.15,,R,M,,,,,R,,,,,,H
-323,U1339,D,13,CC,0,0,119.89,119.89,,C,M-G,,,F,,C,R,,,,,H
-323,U1339,D,14,CC,0,0,128.83,128.83,,F,M,,,,,F,R,,,,,H
-323,U1339,D,15,CC,0,0,137.14,137.14,,B,,,,,,,,,,,,H
-323,U1339,D,16,CC,0,0,147.16,147.16,,F,M,,,R,,R,F,,R,,overgrowth in C. pelagicus,H
-323,U1339,D,17,CC,0,0,157.88,157.88,,B,,,,,,,,,,,,H
-323,U1339,D,18,CC,0,0,167.18,167.18,,B,,,,,,,,,,,,H
-323,U1339,D,19,CC,0,0,176.77,176.77,,B,,,,,,,,,,,,H
-323,U1339,D,20,CC,0,0,185.99,185.99,,B,,,,,,,,,,,,H
-323,U1339,D,21,CC,0,2,194.11,194.13,,B,,,,,,,,,,,,H
-323,U1339,D,22,CC,0,0,200.77,200.77,,B,,,,,,,,,,,,H
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Comments,Type,A/W
+323,U1339,D,1,CC,0,0,6.52,6.52,,C,M-G,F,,,,,D,,,,reworked individuals present,H,
+323,U1339,D,2,CC,0,0,16.04,16.04,,R,M,,,,,,R,,,,,H,
+323,U1339,D,3,CC,0,0,25.59,25.59,NN21,B,,,,,,,,,,,,H,
+323,U1339,D,4,CC,0,0,33.38,33.38,,C,M-G,R,,R,,C,C,,,,,H,
+323,U1339,D,5,CC,0,0,43.24,43.24,,B,,,,,,,,,,,reworked individuals present,H,
+323,U1339,D,6,CC,0,0,52.97,52.97,,B,,,,,,,,,,,reworked individuals present,H,
+323,U1339,D,7,CC,0,0,62.48,62.48,,B,,,,,,,,,,,reworked individuals present,H,
+323,U1339,D,8,CC,0,0,71.2,71.2,,B,,,,,,,,,,,,H,
+323,U1339,D,9,CC,0,0,80.35,80.35,,R,P,,,,,,,,R,,,H,
+323,U1339,D,10,CC,0,0,90.53,90.53,,B,,,,,,,,,,,,H,
+323,U1339,D,11,CC,0,0,100.38,100.38,,B,,,,,,,,,,,,H,
+323,U1339,D,12,CC,0,0,110.15,110.15,,R,M,,,,,R,,,,,,H,
+323,U1339,D,13,CC,0,0,119.89,119.89,,C,M-G,,,F,,C,R,,,,,H,
+323,U1339,D,14,CC,0,0,128.83,128.83,,F,M,,,,,F,R,,,,,H,
+323,U1339,D,15,CC,0,0,137.14,137.14,,B,,,,,,,,,,,,H,
+323,U1339,D,16,CC,0,0,147.16,147.16,,F,M,,,R,,R,F,,R,,overgrowth in C. pelagicus,H,
+323,U1339,D,17,CC,0,0,157.88,157.88,,B,,,,,,,,,,,,H,
+323,U1339,D,18,CC,0,0,167.18,167.18,,B,,,,,,,,,,,,H,
+323,U1339,D,19,CC,0,0,176.77,176.77,,B,,,,,,,,,,,,H,
+323,U1339,D,20,CC,0,0,185.99,185.99,,B,,,,,,,,,,,,H,
+323,U1339,D,21,CC,0,2,194.11,194.13,,B,,,,,,,,,,,,H,
+323,U1339,D,22,CC,0,0,200.77,200.77,,B,,,,,,,,,,,,H,

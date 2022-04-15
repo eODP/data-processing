@@ -1,34 +1,34 @@
-Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Alabaminella weddellensis,Brizalina earlandi,Bulimina aff. exilis,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Cibicidoides sp.,Cribrostomoides subglobosus,Dentalina sp.,Elphidium cf. batialis,Epistominella pulchella,Fissurina sp,Fursenkoina sp.,Glandulina sp.,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lagena striata?,Melonis pompilioides,Nodosaria aff. pyrula,Nodosaria spp.,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia bulloides,Pullenia sp.,Pygmaeseistron cf. hispida,Pyrgo sp.,Quinqueloculina sp.,Stainforthia aff. fusiformis,Triloculina cf. trihedra,Uvigerina auberiana,Valvulineria sp.,Cibicidoides mundulus,Comments
-323,U1344,D,1,H,1,0,0,0,0,G,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"DIATOMS, RARE SPONGE SPICULES"
-323,U1344,D,1,H,CC,0,10,2.63,2.73,G,A,,,,,P,,P,R,A,,,,,A,,,,P,,P,,,,P,R,,,,,,,,P,,,R,,"MICA, RARE SPONGE SPICULES"
-323,U1344,D,2,H,CC,7,17,12.15,12.25,G,A,,F,R,,P,,,,A,,,P,,P,,,,P,P,,,,P,,,,,,,,P,P,,,F,R,P,"PYRITE TUBES, MICA, SPONGE SPIC"
-323,U1344,D,3,H,CC,7,17,21.52,21.62,M,A,P,F,,,,,,,A,,,,,R,,,R,,,R,,,A,,R,,,,,,,,,,F,,,"PYRITE TUBES, SPONGE SPIC"
-323,U1344,D,4,H,CC,17,27,31.57,31.67,M,P,,,,,,,,,P,,,,,,,,P,,,P,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
-323,U1344,D,5,H,CC,0,16,38.05,38.21,M,F,,,,,,,,,F,,,,,,,,,,,P,,,R,,,,,,,,,R,,,,P,,"pyrite, mica, few sponge spicules, few yellow foraminiferal tests"
-323,U1344,D,6,H,CC,32,42,50.11,50.21,M,G,A,,,,P,,,,A,,P,,,,,,,,,,,,,,,,,P,,,,,,,,P,,"pyrite, mica, rare yellow foraminiferal tests"
-323,U1344,D,7,H,CC,28,38,59.66,59.76,M,R,,,,,P,,,,R,R,,,,R,,,,,,P,,,,,,,,,,,,,,,R,R,P,"pyrite, mica, rare yellow foraminiferal tests"
-323,U1344,D,8,H,CC,27,37,66.41,66.51,G,F,,,,,,,,,R,,,,,,,,,,,F,,,R,,P,,P,,,,,,,,,R,R,"pyrite, mica"
-323,U1344,D,9,H,CC,58,68,78.27,78.37,G,A,,,,,,,,,,R,,,,A,,,,,,,,,F,,,,P,,,,,,,,,A,P,"pyrite, mica"
-323,U1344,D,10,H,CC,44,54,88.44,88.54,M,F,P,,,,,,,,R,,,,,R,,R,,,,,,,,,,,,,P,,,,,,,F,,"pyrite, mica"
-323,U1344,D,11,H,CC,29,39,97.76,97.86,M,F,,,,,,,,,,,,,,R,,,,,,P,P,,,,,R,,,,,,,,,,R,P,"PYRITE, MICA, YELLOW PLANK"
-323,U1344,D,12,H,CC,26,36,107.27,107.37,M,F,,,,F,,,,,P,,,,,P,,,,,,P,,P,R,,,,,,,,,P,,,,,,"PYRITE, MICA"
-323,U1344,D,13,H,CC,55,65,116.6,116.7,P,F,,,,,,,,P,F,,,,,R,,,,,,,,,P,,,,,,,,,,,,R,,,"PYRITE, MICA"
-323,U1344,D,14,H,CC,33,43,126.28,126.38,M,A,,,P,R,,P,,,,,,,,F,,,,,,F,,,P,,,R,,,,,,A,,P,,R,P,"PYRITE TUBES , MICA, ORANGE FORAMS"
-323,U1344,D,15,H,CC,104,114,135.67,135.77,M,F,,,,,,,,,F,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES , MICA"
-323,U1344,D,16,H,CC,10,20,145.3,145.4,M,R,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,"PYRITE TUBES , MICA"
-323,U1344,D,17,H,CC,35,45,155.02,155.12,M,A,,,P,F,,,,,A,P,,,,R,,,,,,,,,A,,,P,,,,,,,,,A,,P,"PYRITE, MICA"
-323,U1344,D,18,H,CC,31,41,164.29,164.39,M,A,,,P,,,,,,A,,,,,R,,,,,,R,,,,,,,,,,,,,,,F,P,,"PYRITE, MICA"
-323,U1344,D,19,H,CC,33,43,174.31,174.41,G,F,,,,,,,,,F,,,,,P,,,,,,R,,,,,,,,,,,,,,,P,R,,"PYRITE TUBES , MICA"
-323,U1344,D,20,H,CC,38,48,182.98,183.08,M,A,,,,,,,,,A,,,,,R,,,,,,R,,,,,,,,,,,,,,,R,,,"PYRITE TUBES , MICA"
-323,U1344,D,21,H,CC,23,33,192.83,192.93,M,A,,,R,,,,,,A,,,,,,,,,,,,,,R,,,,,,,,,,,,F,R,,"PYRITE TUBES , MICA, ORANGE FORAMS"
-323,U1344,D,22,H,CC,11,21,201.79,201.89,M,F,,,,,,,,,F,,,,,,P,,,,,,,,,,,,,,P,,P,,,,,,,"PYRITE TUBES , MICA"
-323,U1344,D,23,H,CC,19,29,211.14,211.24,M,R,,,,,,,,,P,,,,,,,,,,,R,,,,,,,,,,,P,,,,R,,,"PYRITE TUBES , MICA"
-323,U1344,D,24,H,CC,0,10,221.05,221.15,M,A,,,F,R,P,,,,A,,,,,,,,,,,P,,,R,,,,,R,,,,,,,R,,,"PYRITE, MICA"
-323,U1344,D,25,H,CC,36,46,224.41,224.51,M,R,,,R,,,,,,,,,,,R,,,,,,,,,,,R,,,,,,,P,,,,,,"pyrite, mica, rare yellow foraminiferal tests"
-323,U1344,D,26,H,CC,43,53,233.99,234.09,M,A,,,,,,,,,A,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
-323,U1344,D,27,H,CC,22,32,240.62,240.72,M,D,,R,D,F,,,,,P,,,,,P,,,,,,,,,R,,,,,,,,,,,,,,,"pyrite, mica, yellow foraminiferal tests"
-323,U1344,D,28,H,CC,54,64,248.28,248.38,M,F,,,R,F,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
-323,U1344,D,29,H,CC,39,49,258.31,258.41,M,P,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
-323,U1344,D,30,H,CC,34,44,267.3,267.4,G,R,,,R,,,,,,R,,,,,R,,,,,,,,,R,,,,,,,,,,,,,,,"PYRITE, MICA"
-323,U1344,D,31,H,CC,17,27,277.86,277.96,P,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
-323,U1344,D,32,H,CC,7,17,286.17,286.27,M,R,,,R,,,,,,F,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,"PYRITE, MICA"
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Alabaminella weddellensis,Brizalina earlandi,Bulimina aff. exilis,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Cibicidoides sp.,Cribrostomoides subglobosus,Dentalina sp.,Elphidium cf. batialis,Epistominella pulchella,Fissurina sp,Fursenkoina sp.,Glandulina sp.,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lagena striata?,Melonis pompilioides,Nodosaria aff. pyrula,Nodosaria spp.,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia bulloides,Pullenia sp.,Pygmaeseistron cf. hispida,Pyrgo sp.,Quinqueloculina sp.,Stainforthia aff. fusiformis,Triloculina cf. trihedra,Uvigerina auberiana,Valvulineria sp.,Cibicidoides mundulus,Comments,A/W
+323,U1344,D,1,H,1,0,0,0,0,G,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"DIATOMS, RARE SPONGE SPICULES",
+323,U1344,D,1,H,CC,0,10,2.63,2.73,G,A,,,,,P,,P,R,A,,,,,A,,,,P,,P,,,,P,R,,,,,,,,P,,,R,,"MICA, RARE SPONGE SPICULES",
+323,U1344,D,2,H,CC,7,17,12.15,12.25,G,A,,F,R,,P,,,,A,,,P,,P,,,,P,P,,,,P,,,,,,,,P,P,,,F,R,P,"PYRITE TUBES, MICA, SPONGE SPIC",
+323,U1344,D,3,H,CC,7,17,21.52,21.62,M,A,P,F,,,,,,,A,,,,,R,,,R,,,R,,,A,,R,,,,,,,,,,F,,,"PYRITE TUBES, SPONGE SPIC",
+323,U1344,D,4,H,CC,17,27,31.57,31.67,M,P,,,,,,,,,P,,,,,,,,P,,,P,,,,,,,,,,,,,,,,,,"PYRITE, MICA",
+323,U1344,D,5,H,CC,0,16,38.05,38.21,M,F,,,,,,,,,F,,,,,,,,,,,P,,,R,,,,,,,,,R,,,,P,,"pyrite, mica, few sponge spicules, few yellow foraminiferal tests",
+323,U1344,D,6,H,CC,32,42,50.11,50.21,M,G,A,,,,P,,,,A,,P,,,,,,,,,,,,,,,,,P,,,,,,,,P,,"pyrite, mica, rare yellow foraminiferal tests",
+323,U1344,D,7,H,CC,28,38,59.66,59.76,M,R,,,,,P,,,,R,R,,,,R,,,,,,P,,,,,,,,,,,,,,,R,R,P,"pyrite, mica, rare yellow foraminiferal tests",
+323,U1344,D,8,H,CC,27,37,66.41,66.51,G,F,,,,,,,,,R,,,,,,,,,,,F,,,R,,P,,P,,,,,,,,,R,R,"pyrite, mica",
+323,U1344,D,9,H,CC,58,68,78.27,78.37,G,A,,,,,,,,,,R,,,,A,,,,,,,,,F,,,,P,,,,,,,,,A,P,"pyrite, mica",
+323,U1344,D,10,H,CC,44,54,88.44,88.54,M,F,P,,,,,,,,R,,,,,R,,R,,,,,,,,,,,,,P,,,,,,,F,,"pyrite, mica",
+323,U1344,D,11,H,CC,29,39,97.76,97.86,M,F,,,,,,,,,,,,,,R,,,,,,P,P,,,,,R,,,,,,,,,,R,P,"PYRITE, MICA, YELLOW PLANK",
+323,U1344,D,12,H,CC,26,36,107.27,107.37,M,F,,,,F,,,,,P,,,,,P,,,,,,P,,P,R,,,,,,,,,P,,,,,,"PYRITE, MICA",
+323,U1344,D,13,H,CC,55,65,116.6,116.7,P,F,,,,,,,,P,F,,,,,R,,,,,,,,,P,,,,,,,,,,,,R,,,"PYRITE, MICA",
+323,U1344,D,14,H,CC,33,43,126.28,126.38,M,A,,,P,R,,P,,,,,,,,F,,,,,,F,,,P,,,R,,,,,,A,,P,,R,P,"PYRITE TUBES , MICA, ORANGE FORAMS",
+323,U1344,D,15,H,CC,104,114,135.67,135.77,M,F,,,,,,,,,F,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES , MICA",
+323,U1344,D,16,H,CC,10,20,145.3,145.4,M,R,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,"PYRITE TUBES , MICA",
+323,U1344,D,17,H,CC,35,45,155.02,155.12,M,A,,,P,F,,,,,A,P,,,,R,,,,,,,,,A,,,P,,,,,,,,,A,,P,"PYRITE, MICA",
+323,U1344,D,18,H,CC,31,41,164.29,164.39,M,A,,,P,,,,,,A,,,,,R,,,,,,R,,,,,,,,,,,,,,,F,P,,"PYRITE, MICA",
+323,U1344,D,19,H,CC,33,43,174.31,174.41,G,F,,,,,,,,,F,,,,,P,,,,,,R,,,,,,,,,,,,,,,P,R,,"PYRITE TUBES , MICA",
+323,U1344,D,20,H,CC,38,48,182.98,183.08,M,A,,,,,,,,,A,,,,,R,,,,,,R,,,,,,,,,,,,,,,R,,,"PYRITE TUBES , MICA",
+323,U1344,D,21,H,CC,23,33,192.83,192.93,M,A,,,R,,,,,,A,,,,,,,,,,,,,,R,,,,,,,,,,,,F,R,,"PYRITE TUBES , MICA, ORANGE FORAMS",
+323,U1344,D,22,H,CC,11,21,201.79,201.89,M,F,,,,,,,,,F,,,,,,P,,,,,,,,,,,,,,P,,P,,,,,,,"PYRITE TUBES , MICA",
+323,U1344,D,23,H,CC,19,29,211.14,211.24,M,R,,,,,,,,,P,,,,,,,,,,,R,,,,,,,,,,,P,,,,R,,,"PYRITE TUBES , MICA",
+323,U1344,D,24,H,CC,0,10,221.05,221.15,M,A,,,F,R,P,,,,A,,,,,,,,,,,P,,,R,,,,,R,,,,,,,R,,,"PYRITE, MICA",
+323,U1344,D,25,H,CC,36,46,224.41,224.51,M,R,,,R,,,,,,,,,,,R,,,,,,,,,,,R,,,,,,,P,,,,,,"pyrite, mica, rare yellow foraminiferal tests",
+323,U1344,D,26,H,CC,43,53,233.99,234.09,M,A,,,,,,,,,A,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA",
+323,U1344,D,27,H,CC,22,32,240.62,240.72,M,D,,R,D,F,,,,,P,,,,,P,,,,,,,,,R,,,,,,,,,,,,,,,"pyrite, mica, yellow foraminiferal tests",
+323,U1344,D,28,H,CC,54,64,248.28,248.38,M,F,,,R,F,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA",
+323,U1344,D,29,H,CC,39,49,258.31,258.41,M,P,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA",
+323,U1344,D,30,H,CC,34,44,267.3,267.4,G,R,,,R,,,,,,R,,,,,R,,,,,,,,,R,,,,,,,,,,,,,,,"PYRITE, MICA",
+323,U1344,D,31,H,CC,17,27,277.86,277.96,P,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA",
+323,U1344,D,32,H,CC,7,17,286.17,286.27,M,R,,,R,,,,,,F,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,"PYRITE, MICA",

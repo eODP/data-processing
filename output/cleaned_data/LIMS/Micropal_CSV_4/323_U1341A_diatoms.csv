@@ -1,42 +1,42 @@
-Exp,Site,Hole,"Core,    section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Actinocyclus curvatulus,Actinocyclus ochotensis,Actinocyclus oculatus,Actinocyclus senarius,Asteromphalus brookei,Asteromphalus darwinii in Koizumi 1968,Asteromphalus hyalinus,Asteromphalus robustus,Azpeitia nodulifera,Bacterosira fragilis,Chaetoceros spp. spores,Cocconeis californica cf. kerguelensis,Cocconeis costata,Cocconeis placentula,Cocconeis pribilofensis,Cocconeis scutellum,Cocconeis vitrea,Coscinodiscus marginatus,Coscinodiscus oculus-iridis,Delphineis cf. angustata,Delphineis kippae,Delphineis surirella,Detonula confervacea,Fragilariopsis cylindrus,Frgilariopsis oceanica,Grammatophora spp.,Neodenticula kamtschatica,Neodenticula koizumii,Neodenticula seminae,Nitzschia spp.,Odontella aurita,Paralia sol,Paralia sulcata,Pinnularia spp.,Porosira glacialis,Proboscia barboi,Proboscia curvirostris,Pyxidicula horridus,Pyxidicula pustulatus,Pysidicula turris,Pyxidicula sp. 1,Pyxidicula sp. 2,Rhabdonema spp.,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. semispina,Rhizosolenia styliformis,Rhizosolenia spp.,Stauroneis spp.,Stellarima microtrias,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira antiqua,Thalassiosira decipiens,Thalassiosira eccentrica,Thalassiosira gravida,Thalassiosira hyalina,Thalassiosira jouseae,Thalassiosira latimarginata sl.,Thalassiosira cf. leptopus,Thalassiosira lineata,Thalassiosira nordenskioeldii,Thalassiosira oestrupii,Thalassiosira poroseriata,Thalassiosira spp.,Thalassiothrix longissima,Trachyneis aspera,Diatom Zone (NPD) in Yanagisawa and Akiba (1998),Core,Section,Type
-323,U1341,A,1H-CC,2.92,3.02,C,M,C,,,,,,,,,,F,,,,,R,,R,R,,,R,,,,,A,,C,,R,,R,,,,,,,,,,,R,,,,,,,,F,,,,,,R,,C,,,F,,,R,,Neodenticula seminae (NPD 12),1,CC,H
-323,U1341,A,2H-CC,12.54,12.64,C,M,C,R,,,,,,R,,R,,,,,,,,,F,,,,,,,,A,R,C,,R,,R,,,,,,,,,,,R,,,,,,,,C,R,,,,,,,A,,,R,,,R,,Neodenticula seminae (NPD 12),2,CC,H
-323,U1341,A,3H-CC,22.33,22.43,A,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,R,,F,,,,,,,,,,,F,F,,,,,,R,C,,,,,,R,,C,R,,,,,F,,Neodenticula seminae (NPD 12),3,CC,H
-323,U1341,A,4H-CC,31.67,31.77,A,M-G,C,,,,,,,,,,F,,C,,,,,,,,,,,,,,R,,A,,R,,,,,,,,,R,,,F,R,,C,,,,,,,,R,,,,,,C,,R,C,,,F,,Neodenticula seminae (NPD 12),4,CC,H
-323,U1341,A,5H-CC,41.22,41.32,A,G,C,,,,,,,,,F,,,R,,,,R,,,,,,R,R,,,,,A,,F,,,,,R,R,,,,,,,R,C,,R,,,,,C,,R,,,C,F,F,C,,,,R,,R,,Proboscia curvirostris (NPD 11),5,CC,H
-323,U1341,A,6H-CC,50.85,50.95,C,M-G,A,,,,R,,,,,,,,R,R,,,,,,,,,,R,,,,,C,,,,R,,,,,R,,R,,,,R,R,,,,,,,C,,,,R,,,,C,,,,R,,F,,Proboscia curvirostris (NPD 11),6,CC,H
-323,U1341,A,7H-CC,60.41,60.51,F,M-G,C,,F,,,,,,,,,,,,,R,R,F,,,,,,,,,,,A,R,,,,,,F,F,F,,F,,,,,F,,,,,,R,F,,,,,,,R,C,,R,,,,C,,Proboscia curvirostris (NPD 11),7,CC,H
-323,U1341,A,8H-CC,69.31,69.41,A,C,C,,,,,,,,,,,,R,,,,R,F,,,,,,R,R,,,,C,,R,,F,,,R,C,,,R,,,,F,R,,,,R,,,C,,,,,,R,C,C,,,,,,F,R,Proboscia curvirostris (NPD 11),8,CC,H
-323,U1341,A,9H-CC,79.56,79.66,C,M-G,C,,F,,,,,,R,,,,,,,,,F,,,,,,,,,,,A,R,,,,,R,,,,,R,,F,,,R,,,R,,,,C,R,,R,F,,,R,C,,,R,,,C,,Proboscia curvirostris (NPD 11),9,CC,H
-323,U1341,A,10H-CC,89.02,89.12,A,G,C,,,,R,,,,,,,,,,,,,,,,,,,,,,,R,A,,,,,,F,R,,,,C,,,,R,,F,,,,,,F,,,,,,,F,F,,,R,,,,,Proboscia curvirostris (NPD 11),10,CC,H
-323,U1341,A,11H-CC,98.41,98.51,A,G,A,,,,,,,,,,,,,,,,R,R,,,,,,F,,,,,A,,,,R,,F,,F,,,F,,,,F,F,,,,,,R,C,,,,,R,,F,F,,R,,,,F,,Proboscia curvirostris (NPD 11),11,CC,H
-323,U1341,A,12H-CC,108.06,108.16,A,G,R,,R,,,,,,,,,,,,,,,,F,,,,,,,,,,A,,,,,,,R,R,,,,,,,R,,F,,,,,,R,,,,,,,,A,,,R,,,F,,Proboscia curvirostris (NPD 11),12,CC,H
-323,U1341,A,13H-CC,117.60,117.70,C,M-G,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,D,,,,,,,,R,,,,,,,,,,,,,,,R,,,,R,,,,R,,,,,,,,Proboscia curvirostris (NPD 11),13,CC,H
-323,U1341,A,14H-CC,127.00,127.10,A,G,F,,,,,,,R,,,R,,,,R,,,C,R,,,R,,,,,,,A,,,,R,,F,C,,,,F,,,,,,R,,,,,,R,,R,,,,,,F,,,C,,,,,Proboscia curvirostris (NPD 11),14,CC,H
-323,U1341,A,15H-CC,136.16,136.26,A,G,R,,F,,,,,R,,,,,R,,,,,,,,,,,,,,,,D,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,F,,,C,,,,,Actinocyclus oculatus (NPD10),15,CC,H
-323,U1341,A,16H-CC,145.97,146.07,F,M,C,R,C,,,,,,,,,,R,,,,,,,,,,,,,,,,A,,,,,,,,R,,,,,R,,R,,,,,,,,,,,,,,,R,C,,,,,,F,,Actinocyclus oculatus (NPD10),16,CC,H
-323,U1341,A,17H-CC,155.53,155.63,A,G,C,,F,,R,,,,R,,,,,,,,,R,,,,,,,,,,,A,,,,,,R,,C,,,R,,,,R,,,,,,R,,R,,R,,,,,,C,,,C,,,R,,Actinocyclus oculatus (NPD10),17,CC,H
-323,U1341,A,18H-CC,164.92,165.02,A,G,C,F,F,,,,,,,,,,,,,R,,F,,,,,,,,,,F,A,,,,R,,R,R,,,,,,F,,F,F,R,F,,,,,F,,,,,,,F,C,,,,,,C,,Actinocyclus oculatus (NPD10),18,CC,H
-323,U1341,A,19H-CC,174.39,174.49,A,G,R,,,,,,R,,,,C,,,,,,,R,R,,,,,F,,,C,,A,,,,,R,R,,,,,,,,,R,,F,R,,,,,R,R,,,,,R,C,C,,F,F,,,,,Actinocyclus oculatus (NPD10),19,CC,H
-323,U1341,A,20H-CC,183.82,183.92,A,G,C,R,R,,,,,R,,,,,R,,,,,R,C,,,,,,R,,R,,A,,,,,,R,F,,,,R,,,,,,R,,,,,,F,R,R,,,,,R,F,R,,R,,,F,,Actinocyclus oculatus (NPD10),20,CC,H
-323,U1341,A,21H-CC,193.25,193.35,A,G,C,,,,R,,,,,,,,,,,,,,,,,,,,,R,,R,A,,R,,,,C,R,,,,,,,,,,,,,,,,R,,,,,,,,C,,,C,,R,,,Actinocyclus oculatus (NPD10),21,CC,H
-323,U1341,A,22H-CC,203.03,203.13,A,G,C,,C,,,R,,R,,,,,R,,,,,R,R,,R,,,,,,,R,A,,,R,,,R,R,,,,,,,,,,F,,,,,,F,R,,,,,,,C,,,C,,,,,Actinocyclus oculatus (NPD10),22,CC,H
-323,U1341,A,23H-CC,212.53,212.63,A,M-G,C,R,,,,,,,,,,,,,,,,,R,,,,,,,,,A,A,,,,,,F,,,R,R,,,,,,,R,,,,,,,,,,R,,,,F,,,R,,,R,,Neodenticula kozumii (NPD9),23,CC,H
-323,U1341,A,24H-CC,221.34,221.44,A,G,C,R,F,,,,,,,,,,R,,,,,,,,,,,,,,,C,C,,,,,,,,,F,,C,,R,,,,,,,,,,,,,R,C,,,,F,,,F,,,A,,Neodenticula kozumii (NPD9),24,CC,H
-323,U1341,A,25H-CC,231.33,231.43,C,G,A,F,F,,R,,,R,,,R,,,,,,,,,,,,,,,,,A,R,,,,R,,R,F,,,,R,,,,,,,,,,,,,,,,,,,,F,,,C,,,R,,Neodenticula kozumii (NPD9),25,CC,H
-323,U1341,A,26H-CC,233.11,233.21,A,G,A,R,R,R,,,,,,,,,,,,,,F,,R,,,,,,,,A,C,,,,,,,,,,,,,,,,,,,,,,,,R,,,R,,,,F,,,F,,,R,,Neodenticula kozumii (NPD9),26,CC,H
-323,U1341,A,27H-CC,241.40,241.50,A,M-G,A,R,,,,,R,,,,,,,,,,,,R,,,,,,,,,A,F,,,,,,,,,,,R,,,,,,,,,,,,,C,,,,,,,C,,,F,,,,,Neodenticula kozumii (NPD9),27,CC,H
-323,U1341,A,28H-CC,252.44,252.54,A,G,C,F,,,,R,,,,,,R,R,,,,,,,,,,,,,,,A,,,,,,,C,R,,R,,R,,,,,,,,,,,R,,F,,,,,,R,C,,,C,,,F,,Neodenticula kozumii (NPD9),28,CC,H
-323,U1341,A,29H-CC,262.14,262.24,A,M-G,A,F,C,,,,,R,,,,,,,,,,,,,,,,,,,,C,C,,,,,,F,,,R,,,,,,,,,R,,,,,,,R,,C,,,,C,,,,F,,,,Neodenticula kozumii (NPD9),29,CC,H
-323,U1341,A,30H-CC,271.72,271.82,A,G,C,F,,,,,,R,,,,,F,,,,,,R,,,,,,,,,A,,,,,,,,R,,,,F,,,,,,R,,,,,,,,,,,,,,C,,,C,,,F,,Neodenticula kozumii (NPD9),30,CC,H
-323,U1341,A,31H-CC,281.20,281.30,A,G,C,R,R,,R,,,,,,,,,,,,,,R,,,,,,,,,C,,,,,,,,,,,,C,,,,,,,,,,,,,F,,,,,,R,A,,,A,,,R,,Neodenticula kozumii (NPD9),31,CC,H
-323,U1341,A,32H-CC,290.51,290.61,A,M-G,A,R,R,,,,,,,,,,R,,,,,,,,,,,,,,,A,C,,,,,,R,,,,,R,,,,,,R,,,,,,,,,,,,,,C,,,R,,,F,,Neodenticula kozumii (NPD9),32,CC,H
-323,U1341,A,33H-CC,300.09,300.19,A,G,R,,,R,,,,,,,R,,,,,,,R,F,,,,,,,,,D,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,R,,,F,,Neodenticula kozumii (NPD9),33,CC,H
-323,U1341,A,34H-CC,309.42,309.52,C,M-G,F,,,,,,,R,,,,,,,,,,,,,,,,,,,,A,,,,,R,,,R,,C,,F,,C,,R,,,,,,,,,,,,R,,,,F,,,,,F,C,,Neodenticula kozumii (NPD9),34,CC,H
-323,U1341,A,35H-CC,318.92,319.02,A,G,C,F,F,,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,,,F,,R,,,R,,,,,,,,,,,R,,R,,R,,,,,,,,,R,,,Neodenticula kozumii (NPD9),35,CC,H
-323,U1341,A,36H-CC,328.09,328.19,A,G,C,,R,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,R,,,,,,,R,F,A,,,,,,,,,,,,R,C,,,,,,,F,,,R,,,,,Neodenticula kozumii (NPD9),36,CC,H
-323,U1341,A,37H-CC,332.71,332.81,A,G,A,,C,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,,,,,,,,,,,,,,,,,,,,F,C,F,,,,,,C,,,,,,,,Neodenticula kozumii (NPD9),37,CC,H
-323,U1341,A,38H-CC,342.16,342.26,A,G,A,F,C,,,,,,,,,,,,,,,,,,,,,,,,,A,R,,,,R,,,,,F,,F,,F,,,,,,,,,,F,C,,,,,,,F,,,,,,F,,Neodenticula kozumii (NPD9),38,CC,H
-323,U1341,A,39H-CC,351.93,352.03,A,G,C,,C,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,R,,,R,,C,,C,,,,,,,,,,,,F,,F,,F,,,,F,,,F,,,F,,Neodenticula kozumii (NPD9),39,CC,H
-323,U1341,A,40H-CC,356.68,356.78,A,G,A,C,C,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,F,,,,,,F,,Neodenticula kozumii (NPD9),40,CC,H
-323,U1341,A,41H-CC,359.02,359.12,A,G,A,F,C,,,,,,,,,,,,,,,,,,,,,,,,,A,,,R,,R,,,,,R,,,,,,R,,,,,,,,,F,,R,F,,,,F,,,F,,,F,,Neodenticula kozumii (NPD9),41,CC,H
+Exp,Site,Hole,"Core,    section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Actinocyclus curvatulus,Actinocyclus ochotensis,Actinocyclus oculatus,Actinocyclus senarius,Asteromphalus brookei,Asteromphalus darwinii in Koizumi 1968,Asteromphalus hyalinus,Asteromphalus robustus,Azpeitia nodulifera,Bacterosira fragilis,Chaetoceros spp. spores,Cocconeis californica cf. kerguelensis,Cocconeis costata,Cocconeis placentula,Cocconeis pribilofensis,Cocconeis scutellum,Cocconeis vitrea,Coscinodiscus marginatus,Coscinodiscus oculus-iridis,Delphineis cf. angustata,Delphineis kippae,Delphineis surirella,Detonula confervacea,Fragilariopsis cylindrus,Frgilariopsis oceanica,Grammatophora spp.,Neodenticula kamtschatica,Neodenticula koizumii,Neodenticula seminae,Nitzschia spp.,Odontella aurita,Paralia sol,Paralia sulcata,Pinnularia spp.,Porosira glacialis,Proboscia barboi,Proboscia curvirostris,Pyxidicula horridus,Pyxidicula pustulatus,Pysidicula turris,Pyxidicula sp. 1,Pyxidicula sp. 2,Rhabdonema spp.,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. semispina,Rhizosolenia styliformis,Rhizosolenia spp.,Stauroneis spp.,Stellarima microtrias,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira antiqua,Thalassiosira decipiens,Thalassiosira eccentrica,Thalassiosira gravida,Thalassiosira hyalina,Thalassiosira jouseae,Thalassiosira latimarginata sl.,Thalassiosira cf. leptopus,Thalassiosira lineata,Thalassiosira nordenskioeldii,Thalassiosira oestrupii,Thalassiosira poroseriata,Thalassiosira spp.,Thalassiothrix longissima,Trachyneis aspera,Diatom Zone (NPD) in Yanagisawa and Akiba (1998),Core,Section,Type,Top [cm],Bottom [cm],A/W
+323,U1341,A,1H-CC,2.92,3.02,C,M,C,,,,,,,,,,F,,,,,R,,R,R,,,R,,,,,A,,C,,R,,R,,,,,,,,,,,R,,,,,,,,F,,,,,,R,,C,,,F,,,R,,Neodenticula seminae (NPD 12),1,CC,H,,,
+323,U1341,A,2H-CC,12.54,12.64,C,M,C,R,,,,,,R,,R,,,,,,,,,F,,,,,,,,A,R,C,,R,,R,,,,,,,,,,,R,,,,,,,,C,R,,,,,,,A,,,R,,,R,,Neodenticula seminae (NPD 12),2,CC,H,,,
+323,U1341,A,3H-CC,22.33,22.43,A,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,R,,F,,,,,,,,,,,F,F,,,,,,R,C,,,,,,R,,C,R,,,,,F,,Neodenticula seminae (NPD 12),3,CC,H,,,
+323,U1341,A,4H-CC,31.67,31.77,A,M-G,C,,,,,,,,,,F,,C,,,,,,,,,,,,,,R,,A,,R,,,,,,,,,R,,,F,R,,C,,,,,,,,R,,,,,,C,,R,C,,,F,,Neodenticula seminae (NPD 12),4,CC,H,,,
+323,U1341,A,5H-CC,41.22,41.32,A,G,C,,,,,,,,,F,,,R,,,,R,,,,,,R,R,,,,,A,,F,,,,,R,R,,,,,,,R,C,,R,,,,,C,,R,,,C,F,F,C,,,,R,,R,,Proboscia curvirostris (NPD 11),5,CC,H,,,
+323,U1341,A,6H-CC,50.85,50.95,C,M-G,A,,,,R,,,,,,,,R,R,,,,,,,,,,R,,,,,C,,,,R,,,,,R,,R,,,,R,R,,,,,,,C,,,,R,,,,C,,,,R,,F,,Proboscia curvirostris (NPD 11),6,CC,H,,,
+323,U1341,A,7H-CC,60.41,60.51,F,M-G,C,,F,,,,,,,,,,,,,R,R,F,,,,,,,,,,,A,R,,,,,,F,F,F,,F,,,,,F,,,,,,R,F,,,,,,,R,C,,R,,,,C,,Proboscia curvirostris (NPD 11),7,CC,H,,,
+323,U1341,A,8H-CC,69.31,69.41,A,C,C,,,,,,,,,,,,R,,,,R,F,,,,,,R,R,,,,C,,R,,F,,,R,C,,,R,,,,F,R,,,,R,,,C,,,,,,R,C,C,,,,,,F,R,Proboscia curvirostris (NPD 11),8,CC,H,,,
+323,U1341,A,9H-CC,79.56,79.66,C,M-G,C,,F,,,,,,R,,,,,,,,,F,,,,,,,,,,,A,R,,,,,R,,,,,R,,F,,,R,,,R,,,,C,R,,R,F,,,R,C,,,R,,,C,,Proboscia curvirostris (NPD 11),9,CC,H,,,
+323,U1341,A,10H-CC,89.02,89.12,A,G,C,,,,R,,,,,,,,,,,,,,,,,,,,,,,R,A,,,,,,F,R,,,,C,,,,R,,F,,,,,,F,,,,,,,F,F,,,R,,,,,Proboscia curvirostris (NPD 11),10,CC,H,,,
+323,U1341,A,11H-CC,98.41,98.51,A,G,A,,,,,,,,,,,,,,,,R,R,,,,,,F,,,,,A,,,,R,,F,,F,,,F,,,,F,F,,,,,,R,C,,,,,R,,F,F,,R,,,,F,,Proboscia curvirostris (NPD 11),11,CC,H,,,
+323,U1341,A,12H-CC,108.06,108.16,A,G,R,,R,,,,,,,,,,,,,,,,F,,,,,,,,,,A,,,,,,,R,R,,,,,,,R,,F,,,,,,R,,,,,,,,A,,,R,,,F,,Proboscia curvirostris (NPD 11),12,CC,H,,,
+323,U1341,A,13H-CC,117.60,117.70,C,M-G,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,D,,,,,,,,R,,,,,,,,,,,,,,,R,,,,R,,,,R,,,,,,,,Proboscia curvirostris (NPD 11),13,CC,H,,,
+323,U1341,A,14H-CC,127.00,127.10,A,G,F,,,,,,,R,,,R,,,,R,,,C,R,,,R,,,,,,,A,,,,R,,F,C,,,,F,,,,,,R,,,,,,R,,R,,,,,,F,,,C,,,,,Proboscia curvirostris (NPD 11),14,CC,H,,,
+323,U1341,A,15H-CC,136.16,136.26,A,G,R,,F,,,,,R,,,,,R,,,,,,,,,,,,,,,,D,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,F,,,C,,,,,Actinocyclus oculatus (NPD10),15,CC,H,,,
+323,U1341,A,16H-CC,145.97,146.07,F,M,C,R,C,,,,,,,,,,R,,,,,,,,,,,,,,,,A,,,,,,,,R,,,,,R,,R,,,,,,,,,,,,,,,R,C,,,,,,F,,Actinocyclus oculatus (NPD10),16,CC,H,,,
+323,U1341,A,17H-CC,155.53,155.63,A,G,C,,F,,R,,,,R,,,,,,,,,R,,,,,,,,,,,A,,,,,,R,,C,,,R,,,,R,,,,,,R,,R,,R,,,,,,C,,,C,,,R,,Actinocyclus oculatus (NPD10),17,CC,H,,,
+323,U1341,A,18H-CC,164.92,165.02,A,G,C,F,F,,,,,,,,,,,,,R,,F,,,,,,,,,,F,A,,,,R,,R,R,,,,,,F,,F,F,R,F,,,,,F,,,,,,,F,C,,,,,,C,,Actinocyclus oculatus (NPD10),18,CC,H,,,
+323,U1341,A,19H-CC,174.39,174.49,A,G,R,,,,,,R,,,,C,,,,,,,R,R,,,,,F,,,C,,A,,,,,R,R,,,,,,,,,R,,F,R,,,,,R,R,,,,,R,C,C,,F,F,,,,,Actinocyclus oculatus (NPD10),19,CC,H,,,
+323,U1341,A,20H-CC,183.82,183.92,A,G,C,R,R,,,,,R,,,,,R,,,,,R,C,,,,,,R,,R,,A,,,,,,R,F,,,,R,,,,,,R,,,,,,F,R,R,,,,,R,F,R,,R,,,F,,Actinocyclus oculatus (NPD10),20,CC,H,,,
+323,U1341,A,21H-CC,193.25,193.35,A,G,C,,,,R,,,,,,,,,,,,,,,,,,,,,R,,R,A,,R,,,,C,R,,,,,,,,,,,,,,,,R,,,,,,,,C,,,C,,R,,,Actinocyclus oculatus (NPD10),21,CC,H,,,
+323,U1341,A,22H-CC,203.03,203.13,A,G,C,,C,,,R,,R,,,,,R,,,,,R,R,,R,,,,,,,R,A,,,R,,,R,R,,,,,,,,,,F,,,,,,F,R,,,,,,,C,,,C,,,,,Actinocyclus oculatus (NPD10),22,CC,H,,,
+323,U1341,A,23H-CC,212.53,212.63,A,M-G,C,R,,,,,,,,,,,,,,,,,R,,,,,,,,,A,A,,,,,,F,,,R,R,,,,,,,R,,,,,,,,,,R,,,,F,,,R,,,R,,Neodenticula kozumii (NPD9),23,CC,H,,,
+323,U1341,A,24H-CC,221.34,221.44,A,G,C,R,F,,,,,,,,,,R,,,,,,,,,,,,,,,C,C,,,,,,,,,F,,C,,R,,,,,,,,,,,,,R,C,,,,F,,,F,,,A,,Neodenticula kozumii (NPD9),24,CC,H,,,
+323,U1341,A,25H-CC,231.33,231.43,C,G,A,F,F,,R,,,R,,,R,,,,,,,,,,,,,,,,,A,R,,,,R,,R,F,,,,R,,,,,,,,,,,,,,,,,,,,F,,,C,,,R,,Neodenticula kozumii (NPD9),25,CC,H,,,
+323,U1341,A,26H-CC,233.11,233.21,A,G,A,R,R,R,,,,,,,,,,,,,,F,,R,,,,,,,,A,C,,,,,,,,,,,,,,,,,,,,,,,,R,,,R,,,,F,,,F,,,R,,Neodenticula kozumii (NPD9),26,CC,H,,,
+323,U1341,A,27H-CC,241.40,241.50,A,M-G,A,R,,,,,R,,,,,,,,,,,,R,,,,,,,,,A,F,,,,,,,,,,,R,,,,,,,,,,,,,C,,,,,,,C,,,F,,,,,Neodenticula kozumii (NPD9),27,CC,H,,,
+323,U1341,A,28H-CC,252.44,252.54,A,G,C,F,,,,R,,,,,,R,R,,,,,,,,,,,,,,,A,,,,,,,C,R,,R,,R,,,,,,,,,,,R,,F,,,,,,R,C,,,C,,,F,,Neodenticula kozumii (NPD9),28,CC,H,,,
+323,U1341,A,29H-CC,262.14,262.24,A,M-G,A,F,C,,,,,R,,,,,,,,,,,,,,,,,,,,C,C,,,,,,F,,,R,,,,,,,,,R,,,,,,,R,,C,,,,C,,,,F,,,,Neodenticula kozumii (NPD9),29,CC,H,,,
+323,U1341,A,30H-CC,271.72,271.82,A,G,C,F,,,,,,R,,,,,F,,,,,,R,,,,,,,,,A,,,,,,,,R,,,,F,,,,,,R,,,,,,,,,,,,,,C,,,C,,,F,,Neodenticula kozumii (NPD9),30,CC,H,,,
+323,U1341,A,31H-CC,281.20,281.30,A,G,C,R,R,,R,,,,,,,,,,,,,,R,,,,,,,,,C,,,,,,,,,,,,C,,,,,,,,,,,,,F,,,,,,R,A,,,A,,,R,,Neodenticula kozumii (NPD9),31,CC,H,,,
+323,U1341,A,32H-CC,290.51,290.61,A,M-G,A,R,R,,,,,,,,,,R,,,,,,,,,,,,,,,A,C,,,,,,R,,,,,R,,,,,,R,,,,,,,,,,,,,,C,,,R,,,F,,Neodenticula kozumii (NPD9),32,CC,H,,,
+323,U1341,A,33H-CC,300.09,300.19,A,G,R,,,R,,,,,,,R,,,,,,,R,F,,,,,,,,,D,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,R,,,F,,Neodenticula kozumii (NPD9),33,CC,H,,,
+323,U1341,A,34H-CC,309.42,309.52,C,M-G,F,,,,,,,R,,,,,,,,,,,,,,,,,,,,A,,,,,R,,,R,,C,,F,,C,,R,,,,,,,,,,,,R,,,,F,,,,,F,C,,Neodenticula kozumii (NPD9),34,CC,H,,,
+323,U1341,A,35H-CC,318.92,319.02,A,G,C,F,F,,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,,,F,,R,,,R,,,,,,,,,,,R,,R,,R,,,,,,,,,R,,,Neodenticula kozumii (NPD9),35,CC,H,,,
+323,U1341,A,36H-CC,328.09,328.19,A,G,C,,R,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,R,,,,,,,R,F,A,,,,,,,,,,,,R,C,,,,,,,F,,,R,,,,,Neodenticula kozumii (NPD9),36,CC,H,,,
+323,U1341,A,37H-CC,332.71,332.81,A,G,A,,C,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,,,,,,,,,,,,,,,,,,,,F,C,F,,,,,,C,,,,,,,,Neodenticula kozumii (NPD9),37,CC,H,,,
+323,U1341,A,38H-CC,342.16,342.26,A,G,A,F,C,,,,,,,,,,,,,,,,,,,,,,,,,A,R,,,,R,,,,,F,,F,,F,,,,,,,,,,F,C,,,,,,,F,,,,,,F,,Neodenticula kozumii (NPD9),38,CC,H,,,
+323,U1341,A,39H-CC,351.93,352.03,A,G,C,,C,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,R,,,R,,C,,C,,,,,,,,,,,,F,,F,,F,,,,F,,,F,,,F,,Neodenticula kozumii (NPD9),39,CC,H,,,
+323,U1341,A,40H-CC,356.68,356.78,A,G,A,C,C,,,,,,,,,,,,,,,,,,,,,,,,,A,C,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,F,,,,,,F,,Neodenticula kozumii (NPD9),40,CC,H,,,
+323,U1341,A,41H-CC,359.02,359.12,A,G,A,F,C,,,,,,,,,,,,,,,,,,,,,,,,,A,,,R,,R,,,,,R,,,,,,R,,,,,,,,,F,,R,F,,,,F,,,F,,,F,,Neodenticula kozumii (NPD9),41,CC,H,,,

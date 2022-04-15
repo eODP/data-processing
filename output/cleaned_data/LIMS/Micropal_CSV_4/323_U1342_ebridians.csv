@@ -1,3 +1,3 @@
-Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Ebriopsis antiqua antiqua (Ebridian),Core,Section,Type
-323,U1342,A,7H-CC,55.64,55.74,F,M,R,7,CC,H
-323,U1342,D,5H-CC,44.3,44.4,R,M-G,R,5,CC,H
+Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Ebriopsis antiqua antiqua (Ebridian),Core,Section,Type,Top [cm],Bottom [cm],A/W
+323,U1342,A,7H-CC,55.64,55.74,F,M,R,7,CC,H,,,
+323,U1342,D,5H-CC,44.3,44.4,R,M-G,R,5,CC,H,,,
