@@ -673,6 +673,26 @@ class TestCreateSampleCols:
         df = create_sample_cols(df["Sample"])
         assert_frame_equal(df, expected)
 
+    def test_ignores_ending_interval(self):
+        data = {
+            "Sample": ["1-U1h-2t-3, 0-20", "10-U2H-20T-3"],
+        }
+        df = pd.DataFrame(data)
+
+        data = {
+            "Exp": ["1", "10"],
+            "Site": ["U1", "U2"],
+            "Hole": ["h", "H"],
+            "Core": ["2", "20"],
+            "Type": ["t", "T"],
+            "Section": ["3", "3"],
+            "A/W": [None, None],
+        }
+        expected = pd.DataFrame(data)
+
+        df = create_sample_cols(df["Sample"])
+        assert_frame_equal(df, expected)
+
     def test_rejects_exp_site_string(self):
         data = {
             "Sample": ["1-U1", "10-U2"],
