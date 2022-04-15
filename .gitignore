@@ -144,3 +144,4 @@ wip*.ipynb
 config.py
 output/tmp/
 .Rproj.user
+tmp/
