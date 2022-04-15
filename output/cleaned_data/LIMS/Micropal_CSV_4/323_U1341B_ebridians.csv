@@ -1,4 +1,4 @@
-Exp,Site,Hole,"Core, section",depth Top (m),depth Bottom (m),Abundance,Preservation,Ebriopsis antiqua antiqua,Ebriopsis antiqua cornuta,Core,Section,Type
+Exp,Site,Hole,"Core, section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Ebriopsis antiqua antiqua,Ebriopsis antiqua cornuta,Core,Section,Type
 323,U1341,B,3H-CC,28.08,28.18,F,G,,,3,CC,H
 323,U1341,B,4H-CC,37.6,37.7,F,G,,,4,CC,H
 323,U1341,B,5H-CC,47.04,47.18,T,M,,,5,CC,H

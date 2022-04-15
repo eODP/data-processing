@@ -1,2 +1,2 @@
-Exp,Site,Hole,Core,Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Krithe sp.
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Krithe sp.
 323,U1342,A,1,H,CC,10,20,1.65,1.75,P

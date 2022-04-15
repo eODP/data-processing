@@ -1,2 +1,2 @@
-Exp,Site,Hole,Core,Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Cytheropteron sp.
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Cytheropteron sp.
 323,U1345,D,11,H,CC,32,42,102.67,102.77,P

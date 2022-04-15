@@ -1,4 +1,4 @@
-Exp,Site,Hole,"Core, Section",depth CSF-A Top (m),depth CSF-A Bottom (m),Abundance,Preservation,Dictyocha subarctios,Distephanus speculum,Distephanus speculum with short radial spines,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Aberrant Silicoflagellates,Core,Section,Type
+Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Dictyocha subarctios,Distephanus speculum,Distephanus speculum with short radial spines,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Aberrant Silicoflagellates,Core,Section,Type
 323,U1342,A,1H-CC,1.65,1.75,B,,,,,,,,,,,1,CC,H
 323,U1342,A,2H-CC,11.31,11.41,C,M-G,T,T,,,,F,F,,,2,CC,H
 323,U1342,A,3H-CC,20.91,21.01,R,P-M,,,,,,R,,,,3,CC,H

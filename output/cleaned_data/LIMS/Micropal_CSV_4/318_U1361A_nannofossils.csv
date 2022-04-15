@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Type,Section,Section Half,Interval Top (cm) on SHLF,Interval Bot (cm) on SHLF,Top Depth (m),Bottom Depth (m),Depth Method,Original Top Depth (m),Original Bottom Depth (m),Top Offset (cm) on Parent Sample,Bottom Offset (cm) on Parent Sample,Abundance,Preservation,R. pseudoumbilicus/R.gelida,R. minuta/D.productus,R. minutula/D.antarcticus,C. pelagicus
+Sample,Exp,Site,Hole,Core,Type,Section,Section Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Depth Method,Original Top Depth (m),Original Bottom Depth (m),Top Offset (cm) on Parent Sample,Bottom Offset (cm) on Parent Sample,Abundance,Preservation,R. pseudoumbilicus/R.gelida,R. minuta/D.productus,R. minutula/D.antarcticus,C. pelagicus
 318-U1361A-34X-2-W 97/98-NANNO,318,U1361,A,34,X,2,W,97,98,314.07,314.08,CSF-A,314.07,314.08,97,98,A,M,F,A,A,
 318-U1361A-35X-3-NANNO,318,U1361,A,35,X,3,,73,74,324.93,324.94,CSF-A,324.93,324.94,73,74,A,M,F,A,A,
 318-U1361A-35X-3-W 75/76-NANNO,318,U1361,A,35,X,3,W,75,76,324.95,324.96,CSF-A,324.95,324.96,75,76,A,M,F,A,A,

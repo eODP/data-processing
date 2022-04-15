@@ -1,4 +1,4 @@
-Exp,Site,Hole,Core,Type,Section,Section Half,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (small),C. pelagicus,C. braarudii,R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments
+Exp,Site,Hole,Core,Type,Section,Section Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (small),C. pelagicus,C. braarudii,R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments
 323,U1345,A,1,H,1,A,101.5,101.5,1.015,1.015,,A,M,C,,F,,A,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi
 323,U1345,A,1,H,1,A,102,102,1.02,1.02,,A,G,C,,,,A,,,,,,Sample from the Sedimentology collection. Light grey lamina. Large and small E. huxleyi
 323,U1345,A,1,H,1,A,119.5,119.5,1.195,1.195,,A,G,A,,,,A,F,,,,,Sample from the Sedimentology collection. Grey lamina

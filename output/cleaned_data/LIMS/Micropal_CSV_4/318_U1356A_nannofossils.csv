@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Type,Section,Section Half,Interval Top (cm) on SHLF,Interval Bot (cm) on SHLF,Top Depth (m),Bottom Depth (m),mean depth (mbsf),Abundance,Preservation,C. floridanus,R. bisecta,R. pseudoumbilicus gr.,R. minuta + R.minutula gr.,C. pelagicus,C. abisectus,R. umbilicus,Ch. altus,I. recurvus,Ch. oamaruensis,R. oamaruensis,D.deflandrei,C.nitescens
+Sample,Exp,Site,Hole,Core,Type,Section,Section Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],mean depth (mbsf),Abundance,Preservation,C. floridanus,R. bisecta,R. pseudoumbilicus gr.,R. minuta + R.minutula gr.,C. pelagicus,C. abisectus,R. umbilicus,Ch. altus,I. recurvus,Ch. oamaruensis,R. oamaruensis,D.deflandrei,C.nitescens
 318-U1356A-38R-CC-PAL,318,U1356,A,38,R,CC,,5,6,354.05,354.06,354.055,B,,,,,,,,,,,,,,
 318-U1356A-39R-CC-PAL,318,U1356,A,39,R,CC,,14,15,366.24,366.25,366.245,B,,,,,,,,,,,,,,
 318-U1356A-40R-CC-PAL,318,U1356,A,40,R,CC,,8,10,375.66,375.68,375.67,B,,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-Exp,Site,Hole,"Core, Section",depth Top (m),depth Bottom (m),Abundance,Preservation,Ammodochium rectangulare,Ebriopsis antiqua antiqua,Ebriopsis antiqua cornuta,Core,Section,Type
+Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Ammodochium rectangulare,Ebriopsis antiqua antiqua,Ebriopsis antiqua cornuta,Core,Section,Type
 323,U1341,A,2H-CC,12.54,12.64,T,P,,,,2,CC,H
 323,U1341,A,3H-CC,22.33,22.43,A,G,,,,3,CC,H
 323,U1341,A,4H-CC,31.67,31.77,A,G,,,,4,CC,H

@@ -1,4 +1,4 @@
-Exp,Site,Hole,Core,Type,Section,Interval (top),Interval (bottom),Top Depth [CFS m],Bottom Depth [CFS m],Preservation,Abundance,Globigerina bulloides,Neogloboquadrina pachyderma (sin),comments
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Neogloboquadrina pachyderma (sin),comments
 323,U1344,B,1,H,1,0,0,0,0,,B,,,"dominant IRD, diatoms"
 323,U1344,B,1,H,CC,26,36,4.7,4.8,G,R,P,R,few IRD
 323,U1344,C,1,H,CC,15,25,7.02,7.12,G,A,A,A,"rare IRD, pyrite, sponge spicules"
