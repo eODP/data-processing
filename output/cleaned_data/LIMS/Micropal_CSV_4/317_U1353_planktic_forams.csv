@@ -1,103 +1,103 @@
-Exp,Hole,Core,Type,Section,Top Depth [CSF m],Foraminiferal preservation,Foraminiferal abundance,Planktic foraminiferal %,Globigerina spp.,Globigerina bulloides,Globigerina falconensis,Globigerinella aequilateralis,Globigerinita glutinata,Globigerinopsis obesa,Globoconella inflata,Globoconella puncticuloides,Hirsutella scitula,Neogloboquadrina dutertrei,Neogloboquadrina incompta,Neogloboquadrina pachyderma,Orbulina universa,Turborotalita sp.,Turborotalita quinqueloba,Truncorotalia truncatulinoides,Zeaglobierina woodi,Bryozoa fragments,Echinoid plate fragments,Echinoid spines,Fish teeth,Ostracods,Otoliths,Radiolarians,Sponge spicules,Shell fragments,Micro mollusks,Comments
-317,U1353A,1,H,1,0,G,A,4,X,,,,,,X,,,,X,X,,X,X,X,,,F,F,,F,,,F,C,,
-317,U1353A,1,H,CC,5.44,G,A,4,X,X,,,X,,X,,,,X,X,,,X,,,,,R,,C,,,,A,,
-317,U1353A,2,H,CC,9.33,G,A,5,,X,,,,,X,,,,,,,X,X,,,,F,F,,F,,,,D,,
-317,U1353A,3,H,CC,17.95,G,A,2,,X,,,,,,,,?,X,,,,X,,,,C,C,,C,,,R,A,,
-317,U1353A,4,H,CC,26.72,G,A,4,X,X,,,,,X,,,,X,,,X,X,,,,C,C,,C,,,,A,,
-317,U1353A,5,H,CC,34.08,G,A,7,X,,,,,,X,,X,,,X,,X,X,X,,,C,C,,A,,,F,A,,
-317,U1353A,6,H,CC,41.37,G,A,8,X,X,,,,,X,,,,X,,,X,X,,,,,,,C,,,,A,,
-317,U1353A,7,H,CC,48.33,G,A,15,X,X,,,,,,,,,,,,X,X,,,,C,,,,,,,C,,
-317,U1353A,8,H,CC,55.97,G,A,8,X,X,,?,,,X,,,X,X,X,X,X,X,,,,,,,,,,,A,,
-317,U1353B,1,H,1,0,G,A,9,X,X,,,,,X,,,,X,,,X,X,,,,,,,,,,,,,
-317,U1353B,1,H,CC,7.94,G,A,1,X,X,,,,,,,,,X,,,,,,,,,C,,C,,,A,,,
-317,U1353B,2,H,CC,16.90,G,A,,,,,,,,,,,,,,,,,,,,,C,,F,,,,A,,No planktics
-317,U1353B,3,H,CC,26.06,G,A,2,X,X,,,,,X,,,,X,,,X,X,,,,,C,,F,,,,A,,
-317,U1353B,4,H,CC,27.67,G,A,1,X,X,,,,,X,,,,X,,,X,X,X,,,F,F,,F,,,,A,,
-317,U1353B,5,H,CC,35.53,G,A,3,X,,,,X,,,,,,X,,,X,X,,,,A,F,,C,,,,A,,
-317,U1353B,6,H,CC,43.15,G,A,10,X,X,,,,,X,,X,,,,,X,X,,,,,,,C,,,,A,,
-317,U1353B,7,H,CC,48.91,G,A,31,X,X,,X,,,X,,,,,,,X,X,,,,F,F,R,F,,,,A,,
-317,U1353B,8,H,CC,56.84,G,A,11,X,X,,,,,X,,,X,,,X,X,X,,,,F,,,F,,,,A,,
-317,U1353B,9,H,CC,61.90,G,A,1,X,X,,,,,X,,,,,,X,,,,,,,,,F,,,,A,,
-317,U1353B,10,H,CC,67.50,G,A,5,X,X,,,,,X,,,,,,,,X,,,,,F,,,,,,A,,
-317,U1353B,11,H,CC,73.14,G,A,4,X,X,,,,,X,,,,X,X,,X,X,,,,,,,C,,,F,A,,
-317,U1353B,12,H,CC,80.12,G,A,7,X,X,,,,,X,,,,X,X,X,X,X,,,,,,,F,,,,D,,
-317,U1353B,13,H,CC,80.20,G,A,1,X,,,,,,,,,,X,,,X,X,,,,C,,,C,,,,D,,
-317,U1353B,14,X,CC,80.77,G,A,1,X,,,,,,X,,,,,X,,X,,,,,F,,,F,,,,D,F,
-317,U1353B,16,X,CC,97.20,G,A,2,X,,,,,,X,,,,X,,,X,X,,,,,,,C,,,,A,,
-317,U1353B,17,H,CC,106.80,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No planktics
-317,U1353B,18,X,CC,108.44,G,A,5,X,,,,,,X,,,,X,X,,X,,,,,,,,F,,,,A,,
-317,U1353B,19,H,CC,117.04,G,A,2,X,X,,,,,X,,,,,,,X,X,,,,,,,F,,,,A,,
-317,U1353B,20,H,CC,119.16,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,No planktics
-317,U1353B,21,H,CC,121.16,G,A,2,X,,X,,,,X,,,,?,X,,,,,,,F,,R,A,,,,A,R,
-317,U1353B,23,H,CC,135.71,G,A,2,,X,,,,,,,,,X,,,X,,,,,F,R,,F,,,,A,,
-317,U1353B,24,H,CC,139.67,G,A,,,,,,,,,,,,,,,,,,,,A,,,,,,,A,,No planktics
-317,U1353B,25,H,CC,142.86,G,A,3,X,X,,,,,X,,,,X,,,X,X,,X,,,,,F,,,,A,,
-317,U1353B,26,H,CC,147.39,G,A,1,X,,,,,X,,,,,X,,,,,,,,,R,,F,,,,A,,
-317,U1353B,27,H,CC,149.68,G,A,1,X,,,,,,,,,,X,,,,X,,cf.,,,,,F,,,,A,,
-317,U1353B,28,H,CC,152.95,G,A,6,X,X,,,X,,X,,,,X,,,,X,,X,,,,,A,,,,A,,
-317,U1353B,29,H,CC,158.06,G,A,1,X,,,,,,,,,,,,,,X,,,,C,,,F,,,,A,,
-317,U1353B,30,H,CC,161.36,G,A,1,X,,,,,,,,,,X,,,,,,,,C,,,,,,,A,,
-317,U1353B,31,X,CC,161.67,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics
-317,U1353B,32,X,CC,164.10,G,A,<1,X,,,,,,,,,,,,,,,,,,F,,,F,,,,A,,
-317,U1353B,33,H,CC,177.00,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,34,H,CC,181.79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caved
-317,U1353B,35,H,CC,182.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caved
-317,U1353B,36,H,CC,187.79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caved
-317,U1353B,37,H,CC,190.06,G,C,,,,,,,,,,,,,,,,,,,,F,,,F,,,,,,No planktics
-317,U1353B,38,H,CC,192.96,G,A,,,,,,,,,,,,,,,,,,,R,,,R,F,R,,,F,,No planktics
-317,U1353B,39,H,CC,196.38,G,A,,,,,,,,,,,,,,,,,,,,,,,F,,,,A,,No planktics
-317,U1353B,40,H,CC,201.40,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,41,H,CC,202.79,G,A,1,X,X,,,,,,,,,X,X,,,,,,,,R,,C,,,,A,,
-317,U1353B,42,H,CC,204.98,G,A,1,X,,,,,,,X,,,,,,,,,,,,,,F,,,,A,,
-317,U1353B,43,H,CC,206.27,G,A,,,,,,,,,,,,,,,,,,,,,,,F,,,,A,,No planktics
-317,U1353B,44,X,CC,206.42,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics
-317,U1353B,45,H,CC,220.75,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics
-317,U1353B,46,H,CC,225.76,G,A,,,,,,,,,,,,,,,,,,,,C,,,F,,,,A,,No planktics
-317,U1353B,47,H,CC,228.68,G,C,,,,,,,,,,,,,,,,,,,,F,,,F,,,,C,,No planktics
-317,U1353B,48,H,CC,232.08,G,A,2,X,,,,,,,,,,,,,,,,,,A,,,C,,,,A,,
-317,U1353B,50,X,CC,233.66,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,51,H,CC,242.90,M,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,52,H,CC,245.06,G,A,<1,,,,,,,,,,,,,,,,,,,,,,,,,,A,,
-317,U1353B,53,H,CC,245.83,G,A,,,,,,,,,,,,,,,,,,,,R,,,R,,,,A,,No planktics
-317,U1353B,54,H,CC,248.31,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,55,H,CC,250.14,G,A,,,,,,,,,,,,,,,,,,,,F,,,F,,,,A,,No planktics
-317,U1353B,56,H,CC,251.63,M,A,2,X,X,,,,,X,,,cf.,X,X,,X,X,,X,,,,,F,,F,,A,,
-317,U1353B,57,H,CC,253.50,G,A,1,X,,,,,,,,,,,,,,,,,,F,,,F,,,,D,F,
-317,U1353B,58,H,CC,254.83,G,A,,,,,,,,,,,,,,,,,,,,F,F,,F,,,,A,F,No planktics
-317,U1353B,59,H,CC,256.04,G,A,<1,X,,,,,,X,,,,,,,,cf.,,,,F,,,F,,,F,A,,
-317,U1353B,60,H,CC,257.69,G,A,<1,X,,,,,,,,,,X,,X,,,,,,,,,,,,,A,,
-317,U1353B,61,X,CC,258.07,G,A,<1,X,,,,,,,,,,,,,,,,,,R,,,R,,,,A,,
-317,U1353B,62,X,CC,263.44,G,A,,,,,,,,,,,,,,,,,,,,F,,R,F,,,,D,,No planktics
-317,U1353B,63,X,CC,270.91,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,64,X,CC,280.08,G,F,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,No planktics
-317,U1353B,65,X,CC,290.38,G,A,<1,,X,,,,,,,,,,,,,,,,,,,,,,,,A,,
-317,U1353B,66,X,CC,300.33,G,A,<1,X,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,67,X,CC,308.27,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,68,X,CC,319.07,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,69,X,CC,327.80,M,C,,,,,,,,,,,,,,,,,,,,,,,,,,,D,,No planktics
-317,U1353B,70,X,CC,337.33,M,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,71,X,CC,347.11,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,72,X,CC,355.94,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics
-317,U1353B,73,X,CC,365.69,M,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,74,X,CC,374.99,G,C,,,,,,,,,,,,,,,,,,,,R,,,,,,,D,,No planktics
-317,U1353B,75,X,CC,385.12,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,D,,No planktics
-317,U1353B,76,X,CC,394.23,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,78,X,CC,413.77,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,79,X,CC,423.24,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,80,X,CC,432.63,G,C,,,,,,,,,,,,,,,,,,,,,,R,,,,,A,,No planktics
-317,U1353B,81,X,CC,442.22,M,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,83,X,CC,461.26,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics
-317,U1353B,85,X,CC,480.64,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,86,X,CC,490.21,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,87,X,CC,500.16,M,C,,,,,,,,,,,,,,,,,,,,,,R,R,,,,C,,No planktics
-317,U1353B,88,X,CC,510.52,G,C,,,,,,,,,,,,,,,,,,,,,,R,,,,,D,,No planktics
-317,U1353B,89,X,CC,518.66,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics
-317,U1353B,90,X,CC,528.87,G,A,,,,,,,,,,,,,,,,,,,,,,R,,,,,A,,No planktics
-317,U1353B,91,X,CC,537.83,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,No planktics
-317,U1353B,92,X,CC,547.28,M,R,,,,,,,,,,,,,,,,,,,,,,F,,,,,F,,No planktics
-317,U1353B,93,X,CC,557.25,G,R,9,X,,,,,,,,,,,,,,,,,,,,,,,,,R,,
-317,U1353B,94,X,CC,566.41,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No planktics
-317,U1353B,95,X,CC,576.47,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,96,X,CC,585.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,Barren
-317,U1353B,97,X,CC,595.20,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics
-317,U1353B,98,X,CC,604.60,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,No planktics
+Exp,Hole,Core,Type,Section,Top Depth [CSF m],Foraminiferal preservation,Foraminiferal abundance,Planktic foraminiferal %,Globigerina spp.,Globigerina bulloides,Globigerina falconensis,Globigerinella aequilateralis,Globigerinita glutinata,Globigerinopsis obesa,Globoconella inflata,Globoconella puncticuloides,Hirsutella scitula,Neogloboquadrina dutertrei,Neogloboquadrina incompta,Neogloboquadrina pachyderma,Orbulina universa,Turborotalita sp.,Turborotalita quinqueloba,Truncorotalia truncatulinoides,Zeaglobierina woodi,Bryozoa fragments,Echinoid plate fragments,Echinoid spines,Fish teeth,Ostracods,Otoliths,Radiolarians,Sponge spicules,Shell fragments,Micro mollusks,Comments,Site
+317,A,1,H,1,0,G,A,4,X,,,,,,X,,,,X,X,,X,X,X,,,F,F,,F,,,F,C,,,U1353
+317,A,1,H,CC,5.44,G,A,4,X,X,,,X,,X,,,,X,X,,,X,,,,,R,,C,,,,A,,,U1353
+317,A,2,H,CC,9.33,G,A,5,,X,,,,,X,,,,,,,X,X,,,,F,F,,F,,,,D,,,U1353
+317,A,3,H,CC,17.95,G,A,2,,X,,,,,,,,?,X,,,,X,,,,C,C,,C,,,R,A,,,U1353
+317,A,4,H,CC,26.72,G,A,4,X,X,,,,,X,,,,X,,,X,X,,,,C,C,,C,,,,A,,,U1353
+317,A,5,H,CC,34.08,G,A,7,X,,,,,,X,,X,,,X,,X,X,X,,,C,C,,A,,,F,A,,,U1353
+317,A,6,H,CC,41.37,G,A,8,X,X,,,,,X,,,,X,,,X,X,,,,,,,C,,,,A,,,U1353
+317,A,7,H,CC,48.33,G,A,15,X,X,,,,,,,,,,,,X,X,,,,C,,,,,,,C,,,U1353
+317,A,8,H,CC,55.97,G,A,8,X,X,,?,,,X,,,X,X,X,X,X,X,,,,,,,,,,,A,,,U1353
+317,B,1,H,1,0,G,A,9,X,X,,,,,X,,,,X,,,X,X,,,,,,,,,,,,,,U1353
+317,B,1,H,CC,7.94,G,A,1,X,X,,,,,,,,,X,,,,,,,,,C,,C,,,A,,,,U1353
+317,B,2,H,CC,16.90,G,A,,,,,,,,,,,,,,,,,,,,,C,,F,,,,A,,No planktics,U1353
+317,B,3,H,CC,26.06,G,A,2,X,X,,,,,X,,,,X,,,X,X,,,,,C,,F,,,,A,,,U1353
+317,B,4,H,CC,27.67,G,A,1,X,X,,,,,X,,,,X,,,X,X,X,,,F,F,,F,,,,A,,,U1353
+317,B,5,H,CC,35.53,G,A,3,X,,,,X,,,,,,X,,,X,X,,,,A,F,,C,,,,A,,,U1353
+317,B,6,H,CC,43.15,G,A,10,X,X,,,,,X,,X,,,,,X,X,,,,,,,C,,,,A,,,U1353
+317,B,7,H,CC,48.91,G,A,31,X,X,,X,,,X,,,,,,,X,X,,,,F,F,R,F,,,,A,,,U1353
+317,B,8,H,CC,56.84,G,A,11,X,X,,,,,X,,,X,,,X,X,X,,,,F,,,F,,,,A,,,U1353
+317,B,9,H,CC,61.90,G,A,1,X,X,,,,,X,,,,,,X,,,,,,,,,F,,,,A,,,U1353
+317,B,10,H,CC,67.50,G,A,5,X,X,,,,,X,,,,,,,,X,,,,,F,,,,,,A,,,U1353
+317,B,11,H,CC,73.14,G,A,4,X,X,,,,,X,,,,X,X,,X,X,,,,,,,C,,,F,A,,,U1353
+317,B,12,H,CC,80.12,G,A,7,X,X,,,,,X,,,,X,X,X,X,X,,,,,,,F,,,,D,,,U1353
+317,B,13,H,CC,80.20,G,A,1,X,,,,,,,,,,X,,,X,X,,,,C,,,C,,,,D,,,U1353
+317,B,14,X,CC,80.77,G,A,1,X,,,,,,X,,,,,X,,X,,,,,F,,,F,,,,D,F,,U1353
+317,B,16,X,CC,97.20,G,A,2,X,,,,,,X,,,,X,,,X,X,,,,,,,C,,,,A,,,U1353
+317,B,17,H,CC,106.80,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No planktics,U1353
+317,B,18,X,CC,108.44,G,A,5,X,,,,,,X,,,,X,X,,X,,,,,,,,F,,,,A,,,U1353
+317,B,19,H,CC,117.04,G,A,2,X,X,,,,,X,,,,,,,X,X,,,,,,,F,,,,A,,,U1353
+317,B,20,H,CC,119.16,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,No planktics,U1353
+317,B,21,H,CC,121.16,G,A,2,X,,X,,,,X,,,,?,X,,,,,,,F,,R,A,,,,A,R,,U1353
+317,B,23,H,CC,135.71,G,A,2,,X,,,,,,,,,X,,,X,,,,,F,R,,F,,,,A,,,U1353
+317,B,24,H,CC,139.67,G,A,,,,,,,,,,,,,,,,,,,,A,,,,,,,A,,No planktics,U1353
+317,B,25,H,CC,142.86,G,A,3,X,X,,,,,X,,,,X,,,X,X,,X,,,,,F,,,,A,,,U1353
+317,B,26,H,CC,147.39,G,A,1,X,,,,,X,,,,,X,,,,,,,,,R,,F,,,,A,,,U1353
+317,B,27,H,CC,149.68,G,A,1,X,,,,,,,,,,X,,,,X,,cf.,,,,,F,,,,A,,,U1353
+317,B,28,H,CC,152.95,G,A,6,X,X,,,X,,X,,,,X,,,,X,,X,,,,,A,,,,A,,,U1353
+317,B,29,H,CC,158.06,G,A,1,X,,,,,,,,,,,,,,X,,,,C,,,F,,,,A,,,U1353
+317,B,30,H,CC,161.36,G,A,1,X,,,,,,,,,,X,,,,,,,,C,,,,,,,A,,,U1353
+317,B,31,X,CC,161.67,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics,U1353
+317,B,32,X,CC,164.10,G,A,<1,X,,,,,,,,,,,,,,,,,,F,,,F,,,,A,,,U1353
+317,B,33,H,CC,177.00,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,34,H,CC,181.79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caved,U1353
+317,B,35,H,CC,182.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caved,U1353
+317,B,36,H,CC,187.79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caved,U1353
+317,B,37,H,CC,190.06,G,C,,,,,,,,,,,,,,,,,,,,F,,,F,,,,,,No planktics,U1353
+317,B,38,H,CC,192.96,G,A,,,,,,,,,,,,,,,,,,,R,,,R,F,R,,,F,,No planktics,U1353
+317,B,39,H,CC,196.38,G,A,,,,,,,,,,,,,,,,,,,,,,,F,,,,A,,No planktics,U1353
+317,B,40,H,CC,201.40,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,41,H,CC,202.79,G,A,1,X,X,,,,,,,,,X,X,,,,,,,,R,,C,,,,A,,,U1353
+317,B,42,H,CC,204.98,G,A,1,X,,,,,,,X,,,,,,,,,,,,,,F,,,,A,,,U1353
+317,B,43,H,CC,206.27,G,A,,,,,,,,,,,,,,,,,,,,,,,F,,,,A,,No planktics,U1353
+317,B,44,X,CC,206.42,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics,U1353
+317,B,45,H,CC,220.75,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics,U1353
+317,B,46,H,CC,225.76,G,A,,,,,,,,,,,,,,,,,,,,C,,,F,,,,A,,No planktics,U1353
+317,B,47,H,CC,228.68,G,C,,,,,,,,,,,,,,,,,,,,F,,,F,,,,C,,No planktics,U1353
+317,B,48,H,CC,232.08,G,A,2,X,,,,,,,,,,,,,,,,,,A,,,C,,,,A,,,U1353
+317,B,50,X,CC,233.66,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,51,H,CC,242.90,M,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,52,H,CC,245.06,G,A,<1,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,U1353
+317,B,53,H,CC,245.83,G,A,,,,,,,,,,,,,,,,,,,,R,,,R,,,,A,,No planktics,U1353
+317,B,54,H,CC,248.31,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,55,H,CC,250.14,G,A,,,,,,,,,,,,,,,,,,,,F,,,F,,,,A,,No planktics,U1353
+317,B,56,H,CC,251.63,M,A,2,X,X,,,,,X,,,cf.,X,X,,X,X,,X,,,,,F,,F,,A,,,U1353
+317,B,57,H,CC,253.50,G,A,1,X,,,,,,,,,,,,,,,,,,F,,,F,,,,D,F,,U1353
+317,B,58,H,CC,254.83,G,A,,,,,,,,,,,,,,,,,,,,F,F,,F,,,,A,F,No planktics,U1353
+317,B,59,H,CC,256.04,G,A,<1,X,,,,,,X,,,,,,,,cf.,,,,F,,,F,,,F,A,,,U1353
+317,B,60,H,CC,257.69,G,A,<1,X,,,,,,,,,,X,,X,,,,,,,,,,,,,A,,,U1353
+317,B,61,X,CC,258.07,G,A,<1,X,,,,,,,,,,,,,,,,,,R,,,R,,,,A,,,U1353
+317,B,62,X,CC,263.44,G,A,,,,,,,,,,,,,,,,,,,,F,,R,F,,,,D,,No planktics,U1353
+317,B,63,X,CC,270.91,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,64,X,CC,280.08,G,F,,,,,,,,,,,,,,,,,,,,C,,,,,,,,,No planktics,U1353
+317,B,65,X,CC,290.38,G,A,<1,,X,,,,,,,,,,,,,,,,,,,,,,,,A,,,U1353
+317,B,66,X,CC,300.33,G,A,<1,X,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,67,X,CC,308.27,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,68,X,CC,319.07,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,69,X,CC,327.80,M,C,,,,,,,,,,,,,,,,,,,,,,,,,,,D,,No planktics,U1353
+317,B,70,X,CC,337.33,M,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,71,X,CC,347.11,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,72,X,CC,355.94,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics,U1353
+317,B,73,X,CC,365.69,M,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,74,X,CC,374.99,G,C,,,,,,,,,,,,,,,,,,,,R,,,,,,,D,,No planktics,U1353
+317,B,75,X,CC,385.12,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,D,,No planktics,U1353
+317,B,76,X,CC,394.23,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,78,X,CC,413.77,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,79,X,CC,423.24,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,80,X,CC,432.63,G,C,,,,,,,,,,,,,,,,,,,,,,R,,,,,A,,No planktics,U1353
+317,B,81,X,CC,442.22,M,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,83,X,CC,461.26,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics,U1353
+317,B,85,X,CC,480.64,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,86,X,CC,490.21,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,87,X,CC,500.16,M,C,,,,,,,,,,,,,,,,,,,,,,R,R,,,,C,,No planktics,U1353
+317,B,88,X,CC,510.52,G,C,,,,,,,,,,,,,,,,,,,,,,R,,,,,D,,No planktics,U1353
+317,B,89,X,CC,518.66,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,C,,No planktics,U1353
+317,B,90,X,CC,528.87,G,A,,,,,,,,,,,,,,,,,,,,,,R,,,,,A,,No planktics,U1353
+317,B,91,X,CC,537.83,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,No planktics,U1353
+317,B,92,X,CC,547.28,M,R,,,,,,,,,,,,,,,,,,,,,,F,,,,,F,,No planktics,U1353
+317,B,93,X,CC,557.25,G,R,9,X,,,,,,,,,,,,,,,,,,,,,,,,,R,,,U1353
+317,B,94,X,CC,566.41,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No planktics,U1353
+317,B,95,X,CC,576.47,G,C,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,96,X,CC,585.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,Barren,U1353
+317,B,97,X,CC,595.20,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,No planktics,U1353
+317,B,98,X,CC,604.60,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,No planktics,U1353
