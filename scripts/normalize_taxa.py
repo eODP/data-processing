@@ -137,7 +137,7 @@ def taxon_name_parser(taxon_name):
     modifiers = ["?", "aff.", "cf.", "f.", "morph", "s.s.", "s.l.", "var."]
     ranks = ["genus", "species", "subspecies"]
 
-    if bool(re.search("\(.*?\)$", taxon_name)):
+    if bool(re.search(r"\(.*?\)$", taxon_name)):
         descriptor = re.search("\(.*?\)$", taxon_name).group(0)
         name_parts["non-taxa descriptor"] = descriptor
         taxon_name = taxon_name.split(descriptor)[0].strip()
@@ -155,8 +155,8 @@ def taxon_name_parser(taxon_name):
             name_parts[ranks[current_rank_index] + " name"] = parts[index]
             current_rank_index += 1
 
-    if bool(re.search("\(.*?\)$", taxon_name)):
-        descriptor = re.search("\(.*?\)$", taxon_name).group(0)
+    if bool(re.search(r"\(.*?\)$", taxon_name)):
+        descriptor = re.search(r"\(.*?\)$", taxon_name).group(0)
         name_parts["non-taxa descriptor"] = descriptor
 
     return name_parts
