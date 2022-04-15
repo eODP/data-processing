@@ -459,6 +459,20 @@ def change_file_encoding(file):
         f.write(content_text)
 
 
+def get_non_taxa_fields(df, target_column):
+    non_taxa_dict = {}
+
+    df = df.dropna(subset=["normalized"])
+    df = df.dropna(subset=[target_column])
+    for index, row in df.iterrows():
+        values = set()
+        values.update(row[target_column].split("; "))
+        for value in values:
+            non_taxa_dict[value] = row["normalized"]
+
+    return non_taxa_dict
+
+
 def remove_whitespace(df):
     """remove leading and trailing spaces from dataframe rows"""
     for col in df.columns:
@@ -484,3 +498,8 @@ def remove_empty_unnamed_columns(df):
         if re.match(r"^Unnamed: \d+$", col):
             if len(df[col].dropna(how="all")) == 0:
                 del df[col]
+
+
+def print_df(df, num_rows=5):
+    print(df.shape)
+    return df.head(num_rows)

@@ -57,6 +57,22 @@ metadata_fields = [
     "comments",
 ]
 
+pdbd_fields = [
+    "pbdb_taxon_id",
+    "pbdb_taxon_name",
+    "pbdb_taxon_rank",
+    "family_taxon_id",
+    "family_taxon_name",
+    "order_taxon_id",
+    "order_taxon_name",
+    "class_taxon_id",
+    "class_taxon_name",
+    "phylum_taxon_id",
+    "phylum_taxon_name",
+    "kingdom_taxon_id",
+    "kingdom_taxon_name",
+]
+
 
 def add_normalized_name_column(
     df, include_descriptor=True, include_modifier=True, col_name="normalized_name"
