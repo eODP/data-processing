@@ -1,13 +1,13 @@
-Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Dictyocha subarctios,Distephanus speculum,Distephanus speculum with short radial spines,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Aberrant Silicoflagellates,Core,Section,Type,Top [cm],Bottom [cm],A/W,Sample
-323,U1342,A,1H-CC,1.65,1.75,B,,,,,,,,,,,1,CC,H,,,,323-U1342A-1H-CC-nan
-323,U1342,A,2H-CC,11.31,11.41,C,M-G,T,T,,,,F,F,,,2,CC,H,,,,323-U1342A-2H-CC-nan
-323,U1342,A,3H-CC,20.91,21.01,R,P-M,,,,,,R,,,,3,CC,H,,,,323-U1342A-3H-CC-nan
-323,U1342,A,4H-CC,30.65,30.75,C,M,C,R,R,R,,,,,,4,CC,H,,,,323-U1342A-4H-CC-nan
-323,U1342,A,5H-CC,40.12,40.22,F,M,,R,R,,,,,,T,5,CC,H,,,,323-U1342A-5H-CC-nan
-323,U1342,A,6H-CC,48.25,48.35,B,,,,,,,,,,,6,CC,H,,,,323-U1342A-6H-CC-nan
-323,U1342,A,7H-CC,55.64,55.74,F,M,,R,R,,,,,R,,7,CC,H,,,,323-U1342A-7H-CC-nan
-323,U1342,D,1H-CC,6.01,6.11,R,P-M,,,,,,R,,,,1,CC,H,,,,323-U1342D-1H-CC-nan
-323,U1342,D,2H-CC,15.73,15.83,F,M,,F,,,T,,,,,2,CC,H,,,,323-U1342D-2H-CC-nan
-323,U1342,D,3H-CC,25.02,25.12,B,,,,,,,,,,,3,CC,H,,,,323-U1342D-3H-CC-nan
-323,U1342,D,4H-CC,34.73,34.83,C,M-G,R,R,,T,R,,C,,T,4,CC,H,,,,323-U1342D-4H-CC-nan
-323,U1342,D,5H-CC,44.3,44.4,R,M-G,,R,,,,,,,,5,CC,H,,,,323-U1342D-5H-CC-nan
+Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Dictyocha subarctios,Distephanus speculum,Distephanus speculum with short radial spines,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Aberrant Silicoflagellates,Core,Section,Type,Top [cm],Bottom [cm],A/W,Sample,eodp_id
+323,U1342,A,1H-CC,1.65,1.75,B,,,,,,,,,,,1,CC,H,,,,323-U1342A-1H-CC-nan,126dac43036d7bad7bc3267a6ddbc449
+323,U1342,A,2H-CC,11.31,11.41,C,M-G,T,T,,,,F,F,,,2,CC,H,,,,323-U1342A-2H-CC-nan,6c01ea29ed871ce9a8eb0967eb0147d4
+323,U1342,A,3H-CC,20.91,21.01,R,P-M,,,,,,R,,,,3,CC,H,,,,323-U1342A-3H-CC-nan,757dbba15162efd6d6fae22a702a18f9
+323,U1342,A,4H-CC,30.65,30.75,C,M,C,R,R,R,,,,,,4,CC,H,,,,323-U1342A-4H-CC-nan,c3e633d3c82451a7162a73f68dc98bf8
+323,U1342,A,5H-CC,40.12,40.22,F,M,,R,R,,,,,,T,5,CC,H,,,,323-U1342A-5H-CC-nan,a3662d0c07166d8183c93f25b759f2b2
+323,U1342,A,6H-CC,48.25,48.35,B,,,,,,,,,,,6,CC,H,,,,323-U1342A-6H-CC-nan,550fe691ff977cae97778fbaf3ed37c1
+323,U1342,A,7H-CC,55.64,55.74,F,M,,R,R,,,,,R,,7,CC,H,,,,323-U1342A-7H-CC-nan,0b0576e93e91f0b18aedffb8ee915c61
+323,U1342,D,1H-CC,6.01,6.11,R,P-M,,,,,,R,,,,1,CC,H,,,,323-U1342D-1H-CC-nan,2e82c4be9223fc4a4ab61d36c44c2d83
+323,U1342,D,2H-CC,15.73,15.83,F,M,,F,,,T,,,,,2,CC,H,,,,323-U1342D-2H-CC-nan,fef451d73be0e94e823fb7ff226e6098
+323,U1342,D,3H-CC,25.02,25.12,B,,,,,,,,,,,3,CC,H,,,,323-U1342D-3H-CC-nan,bf01272c8393884744cf180ac443d8f7
+323,U1342,D,4H-CC,34.73,34.83,C,M-G,R,R,,T,R,,C,,T,4,CC,H,,,,323-U1342D-4H-CC-nan,0239e8522f5d2551bd25bfe64d28dcf8
+323,U1342,D,5H-CC,44.3,44.4,R,M-G,,R,,,,,,,,5,CC,H,,,,323-U1342D-5H-CC-nan,eba3aacf7c4c157916f078661d0858d4

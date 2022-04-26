@@ -1,108 +1,108 @@
-Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Datum name,Zone name (short),Zone name,Group abundance,Beella digitata,Dentoglobigerina altispira,Globigerina bulloides,Globigerina falconensis,Globigerina glutinata,Globigerinella calida,Globigerinella obesa,Globigerinella siphonifera,Globigerinoides conglobatus,Globigerinoides extremus,Globigerinoides fistulosus,Globigerinoides obliquus,Globigerinoides ruber (pink),Globigerinoides ruber (white),Globigerinoides sacculifer,Globoquadrina venezuelana,Globorotalia conoidea,Globorotalia conomiozea,Globorotalia crassaformis,Globorotalia crassula,Globorotalia flexuosa,Globorotalia hirsuta (dex),Globorotalia inflata,Globorotalia limbata,Globorotalia margaritae,Globorotalia menardii,Globorotalia merotumida,Globorotalia multicamerata,Globorotalia plesiotumida,Globorotalia pliozea,Globorotalia pseudomiocenica,Globorotalia puncticulata,Globorotalia scitula,Globorotalia sphericomiozea,Globorotalia tosaensis,Globorotalia truncatulinoides,Globorotalia tumida,Globorotaloides hexagona,"Globoturborotalita apertura (Cushman, 1918)",Globoturborotalita decoraperta,Globoturborotalita nepenthes,Globoturborotalita rubescens,"Globoturborotalita woodi (Jenkins, 1960)",Neogloboquadrina acostaensis,Neogloboquadrina dutertrei,Neogloboquadrina humerosa,Neogloboquadrina pachyderma (dextral),Neogloboquadrina pachyderma (sinistral),Orbulina universa,Pulleniatina obliquiloculata,Pulleniatina primalis,Sphaeroidinella dehiscens,Sphaeroidinellopsis kochi,Sphaeroidinellopsis seminulina,Tenuitella anfracta,preservation,File Data,Ship File Links,Shore File Links,Sample
-361,U1478,A,1,1-CC,H,CC,PAL,FORAM,0,5,6.62,6.67,,,,A,,,,R,A,R,R,A,,,,,,F,A,,,,R,,,,F,,,F,,,,,,,R,,,R,R,,,,,R,,,A,,R,,R,R,,R,,,,,,,,361-U1478A-1H-CC-PAL-FORAM
-361,U1478,A,2,2-2,H,2,W,70/72-FORAM,0,2,8.9,8.92,,,,C,,,P,,R,,,P,,,,,,F,F,,,,P,,,,P,,,P,,,,,,,,,,P,P,,,,,R,,,P,,,,,P,,P,,,,,,,,361-U1478A-2H-2-W 70/72-FORAM
-361,U1478,A,2,2-5,H,5,W,70/72-FORAM,0,2,13.4,13.42,"T Globigerinoides ruber pink (Gradstein et al., 2012)",,,C,,,P,,R,P,,F,,,,,R,A,A,,,,,,P,,P,,,R,,,,,,,,,,P,,,,,,R,,,R,,,,P,,,,,,,,,,,361-U1478A-2H-5-W 70/72-FORAM
-361,U1478,A,2,2-CC,H,CC,PAL,FORAM,0,5,15.88,15.93,,,,A,,,,R,R,,R,R,R,,,,R,A,F,,,,,,,,R,,,F,,,,,,,R,,,R,,,,,,F,,,F,,R,,R,R,,,,,,,,,,361-U1478A-2H-CC-PAL-FORAM
-361,U1478,A,3,3-1,H,1,W,70/72-FORAM,0,2,16.9,16.92,,,,A,,,,R,R,,R,R,R,,,,R,A,F,,,,R,,,,R,,,F,,,,,,,R,,,R,P,R,,,,R,,,F,,R,,R,R,,P,,,,,,,,361-U1478A-3H-1-W 70/72-FORAM
-361,U1478,A,3,3-3,H,3,W,70/72-FORAM,0,2,19.9,19.92,,,,A,,,,R,R,,,R,R,,,,R,A,F,,,,,,,,R,,,P,,,,,,,,,,P,,,,,,R,,,D,,R,,R,R,,,,,,,,,,361-U1478A-3H-3-W 70/72-FORAM
-361,U1478,A,3,3-5,H,5,W,70/72-FORAM,0,2,22.81,22.83,,,,A,,,,R,R,,R,R,R,,,,R,A,F,,,,R,,,,F,,,R,,,,,,,P,,,R,,,,,,R,,,A,,R,,R,R,,,,,,,,,,361-U1478A-3H-5-W 70/72-FORAM
-361,U1478,A,3,3-CC,H,CC,PAL,FORAM,0,5,26.01,26.06,,,,A,,,R,R,R,R,R,R,R,,,,F,A,R,,,,,,,,R,,,R,,,,,,,R,,,R,R,,,,,R,,,D,,R,,R,R,,,,,,,,,,361-U1478A-3H-CC-PAL-FORAM
-361,U1478,A,4,4-CC,H,CC,PAL,FORAM,0,5,35.54,35.59,,,,A,,,R,R,R,,R,R,R,,,,F,A,R,,,,R,,,,R,,,R,,,,,,,R,,,R,R,,,,,R,,,A,,R,,R,R,,,,,,,,,,361-U1478A-4H-CC-PAL-FORAM
-361,U1478,A,5,5-1,H,1,W,70/72-FORAM,0,2,35.9,35.92,,,,A,,,P,,F,,P,R,P,,,,,A,F,,,,P,,,,R,,,P,,,,,,,,,,R,,,,,,P,,,R,,P,,P,,,P,,,,,,,,361-U1478A-5H-1-W 70/72-FORAM
-361,U1478,A,5,5-3,H,3,W,70/72-FORAM,0,2,38.9,38.92,,,,A,,,P,,F,,P,R,P,,,,,A,F,,,,P,,,,R,,,P,,,,,,,,,,R,,,,,,P,,,R,,P,,P,P,,,,,,,,,,361-U1478A-5H-3-W 70/72-FORAM
-361,U1478,A,5,5-5,H,5,W,70/72-FORAM,0,2,41.9,41.92,,,,A,,,P,,F,,P,R,P,,,,,A,F,,,,P,,,,R,,,P,,,,,,,,,,R,,,,,,P,,,R,,P,,P,,,,,,,,,,,361-U1478A-5H-5-W 70/72-FORAM
-361,U1478,A,5,5-CC,H,CC,PAL,FORAM,0,5,44.88,44.93,,,,A,,,R,R,R,R,R,R,R,,,,,F,A,,,,R,,,,R,,,R,,,,,,,R,,,P,R,R,,,,R,,,D,,R,,R,R,,R,,,,,,,,361-U1478A-5H-CC-PAL-FORAM
-361,U1478,A,6,6-1,H,1,W,70/72-FORAM,0,2,45.4,45.42,,,,A,,,P,,R,P,,F,P,,,,,A,A,,,,P,,,,P,,,P,,,,,,,,,,,P,,,,,,,,P,,,,R,P,,,,,,,,,,361-U1478A-6H-1-W 70/72-FORAM
-361,U1478,A,6,6-3,H,3,W,70/72-FORAM,0,2,48.4,48.42,,,,A,,,P,,,,P,F,P,,,,,A,A,,,,P,,,,P,,,R,,,,,,,,,,,P,,,,,,,,F,,,,P,P,,,,,,,,,,361-U1478A-6H-3-W 70/72-FORAM
-361,U1478,A,6,6-5,H,5,W,70/72-FORAM,0,2,51.4,51.42,,,,A,,,P,,,,P,F,P,,,,,A,A,,,,P,,,,P,,,R,,,,,,,,,,,P,,,,,,,,F,,,,P,P,,,,,,,,,,361-U1478A-6H-5-W 70/72-FORAM
-361,U1478,A,6,6-CC,H,CC,PAL,FORAM,0,5,54.52,54.57,"T Globorotalia tosaensis (Gradstein et al., 2012)",,,A,,,R,R,R,R,R,R,R,,,,,A,A,,,,R,,,,R,,,R,,,,,,,R,,R,R,R,,,,,R,,,D,,R,,R,R,,R,,,,,,,,361-U1478A-6H-CC-PAL-FORAM
-361,U1478,A,7,7-1,H,1,W,70/72-FORAM,0,2,54.9,54.92,,,,A,,,,,R,P,,F,P,,,,,A,F,,,,P,,P,,P,,,P,,,,,,P,P,,P,,P,,,,,R,,,R,,P,,,P,,,,,,,,,,361-U1478A-7H-1-W 70/72-FORAM
-361,U1478,A,7,7-3,H,3,W,70/72-FORAM,0,2,57.9,57.92,,,,A,,,P,P,R,,,R,,,,,,A,F,,,,P,,,,P,,,,,,,,,,,,P,P,P,,,,,,,,,,,,,,,P,,,,,,,,361-U1478A-7H-3-W 70/72-FORAM
-361,U1478,A,7,7-5,H,5,W,70/72-FORAM,0,2,60.9,60.92,,,,A,,,,,R,P,,F,P,,,,,A,F,,,,P,,P,,P,,,P,,,,,,P,P,,P,R,P,,,,,R,,,R,,P,,,P,,,,,,,,,,361-U1478A-7H-5-W 70/72-FORAM
-361,U1478,A,7,7-CC,H,CC,PAL,FORAM,0,5,63.97,64.02,,,,A,,,R,R,F,R,R,R,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,,R,,R,R,R,,,,,R,,,F,,R,,R,R,,,,,,,,,,361-U1478A-7H-CC-PAL-FORAM
-361,U1478,A,8,8-1,H,1,W,70/72-FORAM,0,2,64.4,64.42,,,,C,,,R,,P,,,R,P,,,,,A,A,,,,P,,,,P,,,P,,,,,,,,,R,P,,,,,,,,,R,,P,,R,P,,P,,,,,,,,361-U1478A-8H-1-W 70/72-FORAM
-361,U1478,A,8,8-3,H,3,W,70/72-FORAM,0,2,67.4,67.42,,,,A,,,R,F,R,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,P,,,,,,,,361-U1478A-8H-3-W 70/72-FORAM
-361,U1478,A,8,8-5,H,5,W,70/72-FORAM,0,2,70.4,70.42,,,,A,,,R,P,F,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,,,,,,,,,361-U1478A-8H-5-W 70/72-FORAM
-361,U1478,A,8,8-CC,H,CC,PAL,FORAM,0,5,73.56,73.61,,,,A,,,R,R,F,R,R,F,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,R,R,,R,R,R,,,,,R,,P,F,,F,,R,R,,R,,,,,,,,361-U1478A-8H-CC-PAL-FORAM
-361,U1478,A,9,9-1,H,1,W,70/72-FORAM,0,2,73.9,73.92,,,,A,,,R,P,F,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,,,,,,,,,361-U1478A-9H-1-W 70/72-FORAM
-361,U1478,A,9,9-3,H,3,W,70/72-FORAM,0,2,76.9,76.92,,,,A,,,R,R,F,R,R,R,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,,R,,R,R,R,,,,,R,,,F,,R,,R,R,,,,,,,,,,361-U1478A-9H-3-W 70/72-FORAM
-361,U1478,A,9,9-5,H,5,W,70/72-FORAM,0,2,79.9,79.92,,,,A,,,R,P,R,P,P,F,P,,,,,A,A,,,,F,,,,F,,,R,,,,,,,P,,P,R,P,R,,,,,,,F,P,R,,R,F,,P,,,,,,,,361-U1478A-9H-5-W 70/72-FORAM
-361,U1478,A,9,9-CC,H,CC,PAL,FORAM,0,5,83.03,83.08,,,,A,,,R,R,R,,R,R,R,,,,,A,A,,,,F,,,,F,,,F,,,,,R,R,,,P,R,R,,,,,,,,F,P,R,,R,P,,P,,,,,,,,361-U1478A-9H-CC-PAL-FORAM
-361,U1478,A,10,10-2,H,2,W,70/72-FORAM,0,2,84.9,84.92,,,,A,,,R,P,F,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,,,,,,,,,361-U1478A-10H-2-W 70/72-FORAM
-361,U1478,A,10,10-4,H,4,W,70/72-FORAM,0,2,87.93,87.95,,,,A,,,R,P,R,P,P,F,P,,,,,A,A,,,,F,,,,F,,,R,,,,,,,P,,P,R,P,R,,,,,,,F,P,R,,R,F,,P,,,,,,,,361-U1478A-10H-4-W 70/72-FORAM
-361,U1478,A,10,10-6,H,6,W,70/72-FORAM,0,2,90.94,90.96,,,,A,,,R,R,F,R,R,F,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,R,R,,R,R,R,,,,,R,,P,F,,F,,R,R,,R,,,,,,,,361-U1478A-10H-6-W 70/72-FORAM
-361,U1478,A,10,10-CC,H,CC,PAL,FORAM,0,5,92.71,92.76,,,,A,,,R,R,R,,P,F,F,,,,,A,A,,,,P,,,,P,,,,,,,,,,P,,R,R,,,,,,P,,,R,,,,P,R,,P,,,,,,,,361-U1478A-10H-CC-PAL-FORAM
-361,U1478,A,11,11-1,H,1,FORAM,,0,2,92.9,92.92,,,,A,,,R,P,R,P,P,F,P,,,,,A,A,,,,F,,,,F,,,R,,,,,,,P,,P,R,P,R,,,,,,,F,P,R,,R,F,,P,,,,,,,,361-U1478A-11H-1-FORAM
-361,U1478,A,11,11-3,H,3,FORAM,,0,2,95.89,95.91,,,,A,,,P,P,,P,P,F,,,,,,A,A,,,,,,,,F,,,R,,,,,,,P,,P,P,P,,,,,,,,F,P,R,,R,R,,P,,,,,,,,361-U1478A-11H-3-FORAM
-361,U1478,A,11,11-5,H,5,FORAM,,0,2,98.82,98.84,,,,A,,,P,,P,,,P,,,,,,A,F,,,,P,,,,F,,,R,,,,,,,P,,,,P,,,,,,,,A,P,,,F,F,,,,,,,,,,361-U1478A-11H-5-FORAM
-361,U1478,A,11,11-CC,H,CC,PAL,FORAM,0,5,102.12,102.17,,,,A,,,R,,R,R,R,,F,R,,,,A,A,,,,F,,P,,R,,,P,,,,,P,R,,,,P,R,,,,,,,,F,P,,,F,R,,P,,,,,,,,361-U1478A-11H-CC-PAL-FORAM
-361,U1478,A,12,12-1,H,1,W,70/72-FORAM,0,2,102.4,102.42,,,,A,,,R,P,F,,,F,P,,,,,A,A,,,,,,,,,,,P,,,,,,,,,,R,P,P,P,,,R,,,F,,,,,F,,P,,,,,,,,361-U1478A-12H-1-W 70/72-FORAM
-361,U1478,A,12,12-3,H,3,W,70/72-FORAM,0,2,105.4,105.42,,,,A,,,,,R,P,P,F,,R,,,,A,A,,,,P,,,,P,,,P,,,,,,,,,P,R,P,,P,,,P,,P,,,,,F,P,,P,,,,,,,,361-U1478A-12H-3-W 70/72-FORAM
-361,U1478,A,12,12-5,H,5,W,60/62-FORAM,0,2,108.3,108.32,,,,A,,,P,,F,,,F,,R,,,,A,A,,,,P,,,,,,,P,,,,,,,,,,R,,,P,,,P,,,,,,,R,P,,,,,,,,,,361-U1478A-12H-5-W 60/62-FORAM
-361,U1478,A,12,12-CC,H,CC,PAL,FORAM,0,5,111.37,111.42,,,,A,,,P,P,R,,,F,F,R,,,,A,A,,,,R,,P,,F,,,P,,,,,,P,P,,R,R,R,R,,,,R,,,F,,R,,F,R,,P,,,,,,,,361-U1478A-12H-CC-PAL-FORAM
-361,U1478,A,13,13-2,H,2,W,70/72-FORAM,0,2,113.4,113.42,,,,A,,,P,,P,P,P,R,P,,,,,A,A,,,,,,,,P,,,R,,,,,,,P,,R,,P,,P,,,R,,,R,,,,,P,,,,,,,,,,361-U1478A-13H-2-W 70/72-FORAM
-361,U1478,A,13,13-4,H,4,W,70/72-FORAM,0,2,116.4,116.42,,,,A,,,P,,P,P,,R,P,,,,,A,F,,,,,,,,P,,,P,,,,,,,P,,,P,P,,P,,,P,,,F,,,,,P,,,,,,,,,,361-U1478A-13H-4-W 70/72-FORAM
-361,U1478,A,13,13-6,H,6,W,70/72-FORAM,0,2,119.4,119.42,,,,A,,,P,,P,P,P,R,P,,,,,A,A,,,,,,,,P,,,R,,,,,,,P,,R,,P,,P,,,R,,,R,,,,,P,,,,,,,,,,361-U1478A-13H-6-W 70/72-FORAM
-361,U1478,A,13,13-CC,H,CC,PAL,FORAM,0,5,121.17,121.22,,,,A,,,R,R,R,P,R,R,R,,,,,A,A,,,,P,,,,P,,,P,,,,,,R,R,,R,R,R,,,,,,,,F,,R,,F,P,,P,,,,,,,,361-U1478A-13H-CC-PAL-FORAM
-361,U1478,A,14,14-CC,H,CC,PAL,FORAM,0,5,130.77,130.82,"T Neogloboquadrina acostaensis (Gradstein et al., 2012)",,,A,,,P,R,,,,R,P,,,,,A,A,,,,,,P,,P,,,R,,,,,P,,R,,R,R,R,,,,,,,R,F,,P,,,P,,P,,,,,,,,361-U1478A-14H-CC-PAL-FORAM
-361,U1478,A,15,15-1,H,1,W,70/72-FORAM,0,2,130.9,130.92,,,,A,,,P,,R,,P,R,P,,,,,A,A,,,,,,,,P,,,,,,,,,,P,,P,P,P,,P,,,P,,R,,,P,,,P,,P,,,,,,,,361-U1478A-15H-1-W 70/72-FORAM
-361,U1478,A,15,15-3,H,3,W,70/72-FORAM,0,2,133.9,133.92,,,,A,,,P,,R,,P,R,P,,,,,A,A,,,,,,,,P,,,,,,,,,,P,,P,P,P,,,,,R,,R,,,P,,,P,,P,,,,,,,,361-U1478A-15H-3-W 70/72-FORAM
-361,U1478,A,15,15-5,H,5,W,70/72-FORAM,0,2,136.9,136.92,,,,A,,,,,F,P,,,P,,,,,A,F,,,,,,P,,,,,,,,,,,,,,R,,P,,,,,P,,,F,,,,,P,,P,,,,,,,,361-U1478A-15H-5-W 70/72-FORAM
-361,U1478,A,15,15-CC,H,CC,PAL,FORAM,0,5,139.4,139.45,,,,A,,,P,R,P,,R,R,P,,,,,A,A,,,,R,,,,P,,,P,,,,,,,P,,R,,R,,R,,,,R,R,R,,,,,R,,P,,,,,,,,361-U1478A-15H-CC-PAL-FORAM
-361,U1478,A,16,16-1,H,1,W,70/72-FORAM,0,2,140.4,140.42,,,,A,,,R,,R,,,P,P,,,,,A,A,,,,P,,,,R,,,P,,,,,,,,,P,,P,,R,,,P,,P,R,,,,,P,,,,,,,,,,361-U1478A-16H-1-W 70/72-FORAM
-361,U1478,A,16,16-3,H,3,W,70/72-FORAM,0,2,143.42,143.44,,,,A,,,R,P,R,,P,P,P,,,,,A,A,,,,P,,,,R,,,P,,,,,,,P,,P,,P,,,,,P,,P,F,,,,,P,,P,,,,,,,,361-U1478A-16H-3-W 70/72-FORAM
-361,U1478,A,16,16-5,H,5,W,70/72-FORAM,0,2,146.46,146.48,,,,A,,,P,P,R,,,F,P,,,,,A,A,,,,P,,,,R,,,F,,,,,,,,,,,R,,,,,,,,R,P,,,P,P,,P,,,,,,,,361-U1478A-16H-5-W 70/72-FORAM
-361,U1478,A,16,16-CC,H,CC,PAL,FORAM,0,5,149.58,149.63,"T Globigerinoides fistulosus (Gradstein et al., 2012)",,,A,,,R,R,R,,R,R,,,R,,,A,A,,,,R,,P,,R,,,R,,,,,,R,R,,R,R,R,,P,,,,,R,F,,,,R,R,,P,,,,,,,,361-U1478A-16H-CC-PAL-FORAM
-361,U1478,A,17,17-1,H,1,W,70/72-FORAM,0,2,149.9,149.92,,,,A,,,,,F,P,,R,P,,,,,A,A,,,,P,,,,F,,,,,,,,,,,,R,P,,,,,,,,,,,,,R,,,P,,,,,,,,361-U1478A-17H-1-W 70/72-FORAM
-361,U1478,A,17,17-3,H,3,W,70/72-FORAM,0,2,152.76,152.78,,,,A,,,P,,,P,,R,,,R,,,A,F,,,,,,,,,,,P,,,,,,,P,,P,P,R,,,,,,,P,R,,,,,P,,P,,,,,,,,361-U1478A-17H-3-W 70/72-FORAM
-361,U1478,A,17,17-5,H,5,W,70/72-FORAM,0,2,155.78,155.8,,,,A,,,,,R,,,R,P,,P,,,A,A,,,,,,,,P,,,P,,,,,,,,,R,,P,,,,,,,P,R,,P,,,P,,,,,,,,,,361-U1478A-17H-5-W 70/72-FORAM
-361,U1478,A,17,17-CC,H,CC,PAL,FORAM,0,5,159.05,159.1,,,,A,,,,,,,,,,,,,,A,A,,,,,,,,,,,,,,,,,,,,R,P,,,P,,,,,P,,,,,,,,,,,,,,,,361-U1478A-17H-CC-PAL-FORAM
-361,U1478,A,18,18-1,H,1,W,70/72-FORAM,0,2,159.4,159.42,,,,C,,P,P,,,P,,P,R,,P,,,A,A,,,,P,,P,,,P,,P,,,,,,,,,R,P,P,,,,,,,P,P,,,,R,,,P,,,,,,,,361-U1478A-18H-1-W 70/72-FORAM
-361,U1478,A,18,18-3,H,3,W,70/72-FORAM,0,2,162.4,162.42,,,,C,,,,,P,,,P,,,P,,,A,A,,,,P,,,,,,,P,,,,,,,,,R,,F,P,P,,,,,P,F,,,,R,F,P,P,,,,,,,,361-U1478A-18H-3-W 70/72-FORAM
-361,U1478,A,18,18-5,H,5,W,70/72-FORAM,0,2,165.4,165.42,,,,C,,,,,,,,,,,P,,,F,F,,,,,,,,R,,,,,,,,,,P,,R,,,P,,,,,,,R,P,,,,,,,,,,,,,,361-U1478A-18H-5-W 70/72-FORAM
-361,U1478,A,18,18-CC,H,CC,PAL,FORAM,0,5,168.4,168.45,,,,C,,,,,R,,,R,P,R,,,,F,F,,,,,,,,R,,,P,,,,,,,P,,,P,P,,,,,,,P,P,,P,,,P,,P,,,,,,,,361-U1478A-18H-CC-PAL-FORAM
-361,U1478,A,19,19-1,H,1,W,70/72-FORAM,0,2,168.9,168.92,,,,C,,,R,R,F,,R,,,,R,,,A,F,,,,,,,,R,,,R,,,,,,P,,,R,P,R,P,F,,,,F,R,F,,,,F,R,,P,,,,,,,,361-U1478A-19H-1-W 70/72-FORAM
-361,U1478,A,19,19-3,H,3,W,70/72-FORAM,0,2,171.9,171.92,"T Globorotalia limbata(Gradstein et al., 2012)",,,C,,P,,R,R,,,P,R,,P,,,A,A,,,,P,,,,R,,,R,,,,,R,,P,,,,R,,,,,,R,R,F,,,,R,R,,R,,,,,,,,361-U1478A-19H-3-W 70/72-FORAM
-361,U1478,A,19,19-5,H,5,W,70/72-FORAM,0,2,174.9,174.92,,,,C,,,,R,R,,,,R,,,,,A,A,,,,F,P,,,F,,,R,,,,,,,R,,,,R,P,P,,,,R,F,F,,,,R,P,,R,,,,,,,,361-U1478A-19H-5-W 70/72-FORAM
-361,U1478,A,19,19-CC,H,CC,PAL,FORAM,0,5,177.67,177.72,,,,C,,,,,F,,,,P,P,,,,F,F,,,,P,,,,P,P,,P,,P,,,P,,P,,,,P,,,,,,,P,,P,,,,P,,P,,,,,,,,361-U1478A-19H-CC-PAL-FORAM
-361,U1478,A,20,20-2,H,2,W,70/72-FORAM,0,2,179.9,179.92,,,,C,,,P,R,P,,,P,R,,,,,A,A,P,,,R,,,,R,P,,R,,P,,,F,,P,,,,R,P,,,,,F,R,F,P,R,,P,R,,P,,,,,,,,361-U1478A-20H-2-W 70/72-FORAM
-361,U1478,A,20,20-4,H,4,W,70/72-FORAM,0,2,182.9,182.92,,,,C,,,R,F,R,,,,R,,P,,,A,A,P,,,R,,,,R,R,,R,,P,,,F,,R,,,,R,,P,,,,F,R,F,R,R,,R,R,,R,,,,,,,,361-U1478A-20H-4-W 70/72-FORAM
-361,U1478,A,20,20-6,H,6,W,70/72-FORAM,0,2,185.9,185.92,,,,C,,,,F,F,P,,,R,,,,,A,F,P,,,R,,,,F,R,,R,,P,,,A,,R,,,,R,,F,,,,F,R,F,F,,,R,R,,R,,,,,,,,361-U1478A-20H-6-W 70/72-FORAM
-361,U1478,A,20,20-CC,H,CC,PAL,FORAM,0,5,187.73,187.78,,,,C,,,,,,,,,P,R,P,,,F,F,,,,P,,,,P,P,,,,P,,,,P,P,,,,,,P,,,,,,P,,,,R,,,P,,,,,,,,361-U1478A-20H-CC-PAL-FORAM
-361,U1478,A,21,21-2,H,2,W,70/72-FORAM,0,2,189.4,189.42,,,,A,,,,R,F,R,R,F,R,,P,,,A,A,P,,,R,,,,,P,,R,,P,,,F,,P,,,,R,,F,,,,F,R,F,F,,,F,F,,R,,,,,,,,361-U1478A-21H-2-W 70/72-FORAM
-361,U1478,A,21,21-4,H,4,W,70/72-FORAM,0,2,192.4,192.42,,,,C,,,P,,,,P,P,P,,,,,A,F,,,,P,,P,,P,R,,,,,,,P,,,,,P,P,,R,,,,,,,,,,P,P,,,,,,,,,,361-U1478A-21H-4-W 70/72-FORAM
-361,U1478,A,21,21-6,H,6,W,70/72-FORAM,0,2,195.4,195.42,,,,C,,,,,,P,,P,,,P,,,A,F,,,,P,,,,R,P,,,,P,,,R,,,,,,,,P,,,,,,P,,,,,,,,,,,,,,,361-U1478A-21H-6-W 70/72-FORAM
-361,U1478,A,21,21-CC,H,CC,PAL,FORAM,0,5,196.17,196.22,,,,A,,,P,,R,,,P,,P,P,,,A,F,,,,P,,,,P,P,,,,,P,,R,P,P,,,P,P,,F,,,P,,R,P,P,R,,P,R,,P,,,,,,,,361-U1478A-21H-CC-PAL-FORAM
-361,U1478,A,22,22-1,F,1,W,70/72-FORAM,0,2,197.4,197.42,,,,A,,,P,P,R,,,P,,R,P,,,A,F,,,,P,,,,P,P,,,,,,,P,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-22F-1-W 70/72-FORAM
-361,U1478,A,22,22-3,F,3,W,70/72-FORAM,0,2,200.4,200.42,,,,C,,,,,,,,,,,,,,A,F,,,,,,,,P,P,,,,,,,P,P,,,P,,,,,,,,,,,,,,P,P,,,,,,,,,,361-U1478A-22F-3-W 70/72-FORAM
-361,U1478,A,22,22-CC,F,CC,PAL,FORAM,0,5,201.65,201.7,,,,C,,,P,P,R,,,P,,R,P,,,A,F,,,,P,,,,P,P,,,,,,,P,,P,,,,P,,P,,,,,P,,P,,,,P,,,,,,,,,,361-U1478A-22F-CC-PAL-FORAM
-361,U1478,A,23,23-1,F,1,W,70/72-FORAM,0,2,202.1,202.12,,,,C,,,,,,,,P,,R,,,,A,F,,,,,,,,,,,,,,,,P,,,,P,,,,,,,,,,,,,,,P,P,,,,,,,,,361-U1478A-23F-1-W 70/72-FORAM
-361,U1478,A,23,23-3,F,3,W,70/72-FORAM,0,2,205.15,205.17,,,,C,,,,,,,P,,,F,R,,,A,F,,,,,,,,,P,,,,,,,P,,,,,,P,,,,,,,,,,,,,,P,,,,,,,,,361-U1478A-23F-3-W 70/72-FORAM
-361,U1478,A,23,23-CC,F,CC,PAL,FORAM,0,5,206.54,206.59,,,,C,,,P,P,F,P,,,R,F,R,,,A,F,,,,P,,,,,P,,,,P,,,P,,P,,P,,P,,F,,,,F,R,,P,P,,P,,P,P,,,,,,,,361-U1478A-23F-CC-PAL-FORAM
-361,U1478,A,24,24-1,F,1,W,70/72-FORAM,0,2,206.8,206.82,"T Dentoglobigerina altispira(Gradstein et al., 2012)",,,C,,P,,,,,,,,P,P,,,A,F,,,,,,,,,,,,,P,P,,P,,,,P,,,,,,,,,,,,,,,,P,,,,,,,,,361-U1478A-24F-1-W 70/72-FORAM
-361,U1478,A,24,24-3,F,3,W,70/72-FORAM,0,2,209.85,209.87,,,,C,,P,P,,P,,,R,,P,R,,,A,F,,,,,,,,,P,,,,P,P,,P,,,,R,,P,,P,,,,,,,,,,,,R,,,,,,,,,361-U1478A-24F-3-W 70/72-FORAM
-361,U1478,A,24,24-CC,F,CC,PAL,FORAM,0,5,211.02,211.07,,,,C,,P,,,,,,,P,F,R,,,A,A,,,,P,,,,P,P,,P,,,,,P,P,,,R,,,,P,,,,,,,,,,P,P,P,P,,,,,,,,361-U1478A-24F-CC-PAL-FORAM
-361,U1478,A,25,25-1,F,1,W,70/72-FORAM,0,2,211.5,211.52,,,,C,,,,,F,P,,,R,F,,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-25F-1-W 70/72-FORAM
-361,U1478,A,25,25-3,F,3,W,70/72-FORAM,0,2,214.34,214.36,,,,C,,P,P,,P,,,R,,P,R,,,A,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-25F-3-W 70/72-FORAM
-361,U1478,A,25,25-CC,F,CC,PAL,FORAM,0,5,215.65,215.7,,,,C,,,P,,P,,,R,P,F,P,,,A,F,,,,P,,,,,P,,,,P,P,,P,,P,,P,,P,,P,,,,,P,,,P,,,,P,P,,,,,,,,361-U1478A-25F-CC-PAL-FORAM
-361,U1478,A,26,26-1,F,1,W,70/72-FORAM,0,2,216.2,216.22,,,,C,,P,,,P,,,R,P,F,P,,,A,F,,,,P,,,,,,,,,P,,,,,P,,P,,P,,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-26F-1-W 70/72-FORAM
-361,U1478,A,26,26-3,F,3,W,70/72-FORAM,0,2,219.23,219.25,,,,C,,,P,,P,,,R,P,F,P,,,A,F,,,,P,,,,,,,,,P,,,,,P,,P,,P,,P,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-26F-3-W 70/72-FORAM
-361,U1478,A,26,26-CC,F,CC,PAL,FORAM,0,5,220.55,220.6,,,,C,,P,,,P,,P,,P,,P,,,A,F,,,,P,,,,,,,,,P,P,,P,,P,,R,,P,P,R,,,,,P,,,,,,,P,P,,,,,,,,361-U1478A-26F-CC-PAL-FORAM
-361,U1478,A,27,27-1,F,1,W,70/72-FORAM,0,2,220.9,220.92,,,,C,,P,R,,,,,,,R,,,,A,F,P,,,,,,,,,,,,,P,,P,,,,P,,P,,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-27F-1-W 70/72-FORAM
-361,U1478,A,27,27-3,F,3,W,70/72-FORAM,0,2,223.92,223.94,,,,C,,P,,,,,P,R,,R,R,,,A,F,,,,R,,,,,P,,,,,P,,P,,P,,P,,R,P,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-27F-3-W 70/72-FORAM
-361,U1478,A,27,27-CC,F,CC,PAL,FORAM,0,5,225.02,225.07,,,,A,,P,P,P,R,,,,R,R,R,,,A,A,,,,R,,,,P,P,,,,P,P,,R,,P,,R,,P,P,A,,,,,P,,P,,,P,,P,P,,,,,,,,361-U1478A-27F-CC-PAL-FORAM
-361,U1478,A,28,28-1,F,1,W,70/72-FORAM,0,2,225.6,225.62,,,,A,,P,,,,,,,,P,,,,A,F,,,,P,,,,,P,,P,,,P,,P,,,,P,,P,,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-28F-1-W 70/72-FORAM
-361,U1478,A,28,28-3,F,3,W,70/72-FORAM,0,2,228.64,228.66,,,,A,,P,,,,,P,R,,P,,,,A,F,,,,,,,,,F,,R,,,P,,F,,,,P,,R,,,,,,,,,,,,,,R,,,,,,,,,361-U1478A-28F-3-W 70/72-FORAM
-361,U1478,A,28,28-CC,F,CC,PAL,FORAM,0,5,229.39,229.44,,,,A,,R,P,P,R,,R,P,R,R,,,,A,F,,,,P,,,,,R,,R,,,P,,R,,R,,R,,P,,F,,,,R,,,R,,,R,,F,R,,,,,,,,361-U1478A-28F-CC-PAL-FORAM
-361,U1478,A,29,29-1,F,1,W,70/72-FORAM,0,2,230.3,230.32,,,,A,,F,,,,,,,,F,,,,A,F,P,,,,,,,,,,,,,P,,,,P,,P,,P,P,,,,,,P,,,,,,,P,P,,,,,,,,361-U1478A-29F-1-W 70/72-FORAM
-361,U1478,A,29,29-3,F,3,W,70/72-FORAM,0,2,233.09,233.11,,,,A,,F,,,,,,,,F,,,,A,F,,,,,,,,,,P,,,,P,,,,P,,R,,,,,,,,,,,,,,,,R,R,,,,,,,,361-U1478A-29F-3-W 70/72-FORAM
-361,U1478,A,29,29-CC,F,CC,PAL,FORAM,0,5,234.6,234.65,,,,A,,F,R,F,R,,R,P,R,F,,,,A,F,,,,R,,,,P,R,,R,,F,P,,F,,P,,F,,R,,F,,,,R,,,R,,,R,,F,R,,,,,,,,361-U1478A-29F-CC-PAL-FORAM
-361,U1478,A,30,30-1,F,1,W,70/72-FORAM,0,2,235.0,235.02,"B Globorotalia tosaensis (Gradstein et al., 2012)",,,A,,F,P,F,R,,R,,,A,,,,A,F,P,,,R,,,,,R,P,R,,P,R,,P,,P,,R,,R,P,F,,,,R,,,R,P,,R,,R,R,,,,,,,,361-U1478A-30F-1-W 70/72-FORAM
-361,U1478,A,30,30-3,F,3,W,70/72-FORAM,0,2,237.92,237.94,,,,A,,F,P,R,R,,R,,P,A,,,,A,F,P,,,R,,,,,R,P,R,,,R,,P,,R,,,,R,R,R,,,,,,,R,P,,R,,F,F,,,,,,,,361-U1478A-30F-3-W 70/72-FORAM
-361,U1478,A,30,30-CC,F,CC,PAL,FORAM,0,5,239.39,239.44,,,,A,,F,,F,R,,,R,,A,,,,A,F,,,,R,,,,P,R,P,F,,,P,,R,,R,,P,,R,R,R,,,,P,P,,R,P,,R,,A,R,,,,,,,,361-U1478A-30F-CC-PAL-FORAM
-361,U1478,A,31,31-1,F,1,W,70/72-FORAM,0,2,239.7,239.72,"T Globorotalia margaritae (Gradstein et al., 2012)",,,A,,F,,R,R,,,,R,F,,,,F,A,P,,,R,P,,,,R,R,F,,,R,,,,,,,,R,R,R,,,,R,P,,F,R,,R,,F,F,,,,,,,,361-U1478A-31F-1-W 70/72-FORAM
-361,U1478,A,31,31-3,F,3,W,70/72-FORAM,0,2,242.68,242.7,,,,A,,R,,R,R,,R,R,,F,,,,F,A,,,,R,P,,,,F,,F,,R,R,,R,,R,,,,P,P,R,,,,R,P,,P,P,,R,,R,F,,,,,,,,361-U1478A-31F-3-W 70/72-FORAM
-361,U1478,A,31,31-CC,F,CC,PAL,FORAM,0,5,244.13,244.18,,,,A,,F,,F,R,,R,,,A,,,,A,A,,,,R,,,,,R,P,F,,R,P,,R,,P,,,,R,,R,,,,F,,,R,,,R,,F,F,,,,,,,,361-U1478A-31F-CC-PAL-FORAM
-361,U1478,A,32,32-1,F,1,W,70/72-FORAM,0,2,244.4,244.42,,,,C,,,P,,,,,,,,,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-32F-1-W 70/72-FORAM
-361,U1478,A,32,32-3,F,3,W,70/72-FORAM,0,2,247.25,247.27,,,,C,,,,,,,,,,,,,,A,F,,,,P,,,,,P,,,,,,,P,,,,,,,,P,,,,,,,P,,,F,,P,,,,,,,,,361-U1478A-32F-3-W 70/72-FORAM
-361,U1478,A,32,32-CC,F,CC,PAL,FORAM,0,5,248.59,248.64,,,,C,,F,R,F,R,,,P,R,A,,,,A,F,,,,R,,,,,R,R,F,,,P,,P,P,P,,,,P,P,R,,,,F,R,,R,F,,R,,R,F,,,,,,,,361-U1478A-32F-CC-PAL-FORAM
+Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Datum name,Zone name (short),Zone name,Group abundance,Beella digitata,Dentoglobigerina altispira,Globigerina bulloides,Globigerina falconensis,Globigerina glutinata,Globigerinella calida,Globigerinella obesa,Globigerinella siphonifera,Globigerinoides conglobatus,Globigerinoides extremus,Globigerinoides fistulosus,Globigerinoides obliquus,Globigerinoides ruber (pink),Globigerinoides ruber (white),Globigerinoides sacculifer,Globoquadrina venezuelana,Globorotalia conoidea,Globorotalia conomiozea,Globorotalia crassaformis,Globorotalia crassula,Globorotalia flexuosa,Globorotalia hirsuta (dex),Globorotalia inflata,Globorotalia limbata,Globorotalia margaritae,Globorotalia menardii,Globorotalia merotumida,Globorotalia multicamerata,Globorotalia plesiotumida,Globorotalia pliozea,Globorotalia pseudomiocenica,Globorotalia puncticulata,Globorotalia scitula,Globorotalia sphericomiozea,Globorotalia tosaensis,Globorotalia truncatulinoides,Globorotalia tumida,Globorotaloides hexagona,"Globoturborotalita apertura (Cushman, 1918)",Globoturborotalita decoraperta,Globoturborotalita nepenthes,Globoturborotalita rubescens,"Globoturborotalita woodi (Jenkins, 1960)",Neogloboquadrina acostaensis,Neogloboquadrina dutertrei,Neogloboquadrina humerosa,Neogloboquadrina pachyderma (dextral),Neogloboquadrina pachyderma (sinistral),Orbulina universa,Pulleniatina obliquiloculata,Pulleniatina primalis,Sphaeroidinella dehiscens,Sphaeroidinellopsis kochi,Sphaeroidinellopsis seminulina,Tenuitella anfracta,preservation,File Data,Ship File Links,Shore File Links,Sample,eodp_id
+361,U1478,A,1,1-CC,H,CC,PAL,FORAM,0,5,6.62,6.67,,,,A,,,,R,A,R,R,A,,,,,,F,A,,,,R,,,,F,,,F,,,,,,,R,,,R,R,,,,,R,,,A,,R,,R,R,,R,,,,,,,,361-U1478A-1H-CC-PAL-FORAM,f55cc2e46ef1d28a220eee71e5173367
+361,U1478,A,2,2-2,H,2,W,70/72-FORAM,0,2,8.9,8.92,,,,C,,,P,,R,,,P,,,,,,F,F,,,,P,,,,P,,,P,,,,,,,,,,P,P,,,,,R,,,P,,,,,P,,P,,,,,,,,361-U1478A-2H-2-W 70/72-FORAM,c8de91e6a56e3c0af83defe02706350b
+361,U1478,A,2,2-5,H,5,W,70/72-FORAM,0,2,13.4,13.42,"T Globigerinoides ruber pink (Gradstein et al., 2012)",,,C,,,P,,R,P,,F,,,,,R,A,A,,,,,,P,,P,,,R,,,,,,,,,,P,,,,,,R,,,R,,,,P,,,,,,,,,,,361-U1478A-2H-5-W 70/72-FORAM,0585798eefdf8e06030f8f71fd4adeb7
+361,U1478,A,2,2-CC,H,CC,PAL,FORAM,0,5,15.88,15.93,,,,A,,,,R,R,,R,R,R,,,,R,A,F,,,,,,,,R,,,F,,,,,,,R,,,R,,,,,,F,,,F,,R,,R,R,,,,,,,,,,361-U1478A-2H-CC-PAL-FORAM,25fe82d88112563430aad3b2e855c47b
+361,U1478,A,3,3-1,H,1,W,70/72-FORAM,0,2,16.9,16.92,,,,A,,,,R,R,,R,R,R,,,,R,A,F,,,,R,,,,R,,,F,,,,,,,R,,,R,P,R,,,,R,,,F,,R,,R,R,,P,,,,,,,,361-U1478A-3H-1-W 70/72-FORAM,38db27e1b8c3e0c208e952793ad6f801
+361,U1478,A,3,3-3,H,3,W,70/72-FORAM,0,2,19.9,19.92,,,,A,,,,R,R,,,R,R,,,,R,A,F,,,,,,,,R,,,P,,,,,,,,,,P,,,,,,R,,,D,,R,,R,R,,,,,,,,,,361-U1478A-3H-3-W 70/72-FORAM,5672c0106fa7d60c81e5125fd78d2826
+361,U1478,A,3,3-5,H,5,W,70/72-FORAM,0,2,22.81,22.83,,,,A,,,,R,R,,R,R,R,,,,R,A,F,,,,R,,,,F,,,R,,,,,,,P,,,R,,,,,,R,,,A,,R,,R,R,,,,,,,,,,361-U1478A-3H-5-W 70/72-FORAM,bc630996693fa433bb25b8d7586e652d
+361,U1478,A,3,3-CC,H,CC,PAL,FORAM,0,5,26.01,26.06,,,,A,,,R,R,R,R,R,R,R,,,,F,A,R,,,,,,,,R,,,R,,,,,,,R,,,R,R,,,,,R,,,D,,R,,R,R,,,,,,,,,,361-U1478A-3H-CC-PAL-FORAM,f03bf129a539a1fad9e67b689d04cb6c
+361,U1478,A,4,4-CC,H,CC,PAL,FORAM,0,5,35.54,35.59,,,,A,,,R,R,R,,R,R,R,,,,F,A,R,,,,R,,,,R,,,R,,,,,,,R,,,R,R,,,,,R,,,A,,R,,R,R,,,,,,,,,,361-U1478A-4H-CC-PAL-FORAM,53e34e0e0f759b664f25f47d4a7d7eb0
+361,U1478,A,5,5-1,H,1,W,70/72-FORAM,0,2,35.9,35.92,,,,A,,,P,,F,,P,R,P,,,,,A,F,,,,P,,,,R,,,P,,,,,,,,,,R,,,,,,P,,,R,,P,,P,,,P,,,,,,,,361-U1478A-5H-1-W 70/72-FORAM,3958f8bced4697224daa39110988aa1d
+361,U1478,A,5,5-3,H,3,W,70/72-FORAM,0,2,38.9,38.92,,,,A,,,P,,F,,P,R,P,,,,,A,F,,,,P,,,,R,,,P,,,,,,,,,,R,,,,,,P,,,R,,P,,P,P,,,,,,,,,,361-U1478A-5H-3-W 70/72-FORAM,8197cc8da35dc0ef80d3340335de7208
+361,U1478,A,5,5-5,H,5,W,70/72-FORAM,0,2,41.9,41.92,,,,A,,,P,,F,,P,R,P,,,,,A,F,,,,P,,,,R,,,P,,,,,,,,,,R,,,,,,P,,,R,,P,,P,,,,,,,,,,,361-U1478A-5H-5-W 70/72-FORAM,3f3cd707d7e4e045684ae4ce9c96c85b
+361,U1478,A,5,5-CC,H,CC,PAL,FORAM,0,5,44.88,44.93,,,,A,,,R,R,R,R,R,R,R,,,,,F,A,,,,R,,,,R,,,R,,,,,,,R,,,P,R,R,,,,R,,,D,,R,,R,R,,R,,,,,,,,361-U1478A-5H-CC-PAL-FORAM,77cf7a8c97b4d82ce05ec8f2571a92d4
+361,U1478,A,6,6-1,H,1,W,70/72-FORAM,0,2,45.4,45.42,,,,A,,,P,,R,P,,F,P,,,,,A,A,,,,P,,,,P,,,P,,,,,,,,,,,P,,,,,,,,P,,,,R,P,,,,,,,,,,361-U1478A-6H-1-W 70/72-FORAM,9c8c6fcc579f0364a1c2c01f96ffdd6f
+361,U1478,A,6,6-3,H,3,W,70/72-FORAM,0,2,48.4,48.42,,,,A,,,P,,,,P,F,P,,,,,A,A,,,,P,,,,P,,,R,,,,,,,,,,,P,,,,,,,,F,,,,P,P,,,,,,,,,,361-U1478A-6H-3-W 70/72-FORAM,33c8551bf0f9123cbae9a2806a82140c
+361,U1478,A,6,6-5,H,5,W,70/72-FORAM,0,2,51.4,51.42,,,,A,,,P,,,,P,F,P,,,,,A,A,,,,P,,,,P,,,R,,,,,,,,,,,P,,,,,,,,F,,,,P,P,,,,,,,,,,361-U1478A-6H-5-W 70/72-FORAM,8d7c931643e9c3a8cd16d44633369267
+361,U1478,A,6,6-CC,H,CC,PAL,FORAM,0,5,54.52,54.57,"T Globorotalia tosaensis (Gradstein et al., 2012)",,,A,,,R,R,R,R,R,R,R,,,,,A,A,,,,R,,,,R,,,R,,,,,,,R,,R,R,R,,,,,R,,,D,,R,,R,R,,R,,,,,,,,361-U1478A-6H-CC-PAL-FORAM,8fd42785994565a03a2ec80552b979e5
+361,U1478,A,7,7-1,H,1,W,70/72-FORAM,0,2,54.9,54.92,,,,A,,,,,R,P,,F,P,,,,,A,F,,,,P,,P,,P,,,P,,,,,,P,P,,P,,P,,,,,R,,,R,,P,,,P,,,,,,,,,,361-U1478A-7H-1-W 70/72-FORAM,85cedf45fbef10ffa2c41725b8973a00
+361,U1478,A,7,7-3,H,3,W,70/72-FORAM,0,2,57.9,57.92,,,,A,,,P,P,R,,,R,,,,,,A,F,,,,P,,,,P,,,,,,,,,,,,P,P,P,,,,,,,,,,,,,,,P,,,,,,,,361-U1478A-7H-3-W 70/72-FORAM,5872196d4b669b9cdc8d1f53e3990c26
+361,U1478,A,7,7-5,H,5,W,70/72-FORAM,0,2,60.9,60.92,,,,A,,,,,R,P,,F,P,,,,,A,F,,,,P,,P,,P,,,P,,,,,,P,P,,P,R,P,,,,,R,,,R,,P,,,P,,,,,,,,,,361-U1478A-7H-5-W 70/72-FORAM,2135e9be4c271f60f513ed550e07478b
+361,U1478,A,7,7-CC,H,CC,PAL,FORAM,0,5,63.97,64.02,,,,A,,,R,R,F,R,R,R,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,,R,,R,R,R,,,,,R,,,F,,R,,R,R,,,,,,,,,,361-U1478A-7H-CC-PAL-FORAM,cbdb5180e8c03bf1def9f698ace75552
+361,U1478,A,8,8-1,H,1,W,70/72-FORAM,0,2,64.4,64.42,,,,C,,,R,,P,,,R,P,,,,,A,A,,,,P,,,,P,,,P,,,,,,,,,R,P,,,,,,,,,R,,P,,R,P,,P,,,,,,,,361-U1478A-8H-1-W 70/72-FORAM,9b4272434ae00af956cf104594002352
+361,U1478,A,8,8-3,H,3,W,70/72-FORAM,0,2,67.4,67.42,,,,A,,,R,F,R,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,P,,,,,,,,361-U1478A-8H-3-W 70/72-FORAM,ca2111b7dc55128696a27a9e36f965ba
+361,U1478,A,8,8-5,H,5,W,70/72-FORAM,0,2,70.4,70.42,,,,A,,,R,P,F,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,,,,,,,,,361-U1478A-8H-5-W 70/72-FORAM,a10b9e736a01006dcbe23f0d58f43a26
+361,U1478,A,8,8-CC,H,CC,PAL,FORAM,0,5,73.56,73.61,,,,A,,,R,R,F,R,R,F,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,R,R,,R,R,R,,,,,R,,P,F,,F,,R,R,,R,,,,,,,,361-U1478A-8H-CC-PAL-FORAM,a533684224614cccfb33424aa9043b9e
+361,U1478,A,9,9-1,H,1,W,70/72-FORAM,0,2,73.9,73.92,,,,A,,,R,P,F,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,,,,,,,,,361-U1478A-9H-1-W 70/72-FORAM,48bdebb1a0ee7c9cade431af00371657
+361,U1478,A,9,9-3,H,3,W,70/72-FORAM,0,2,76.9,76.92,,,,A,,,R,R,F,R,R,R,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,,R,,R,R,R,,,,,R,,,F,,R,,R,R,,,,,,,,,,361-U1478A-9H-3-W 70/72-FORAM,985c682f92396400761f8b5aef46cc76
+361,U1478,A,9,9-5,H,5,W,70/72-FORAM,0,2,79.9,79.92,,,,A,,,R,P,R,P,P,F,P,,,,,A,A,,,,F,,,,F,,,R,,,,,,,P,,P,R,P,R,,,,,,,F,P,R,,R,F,,P,,,,,,,,361-U1478A-9H-5-W 70/72-FORAM,5ac816e3b2cc83ac88e7235881dbdf87
+361,U1478,A,9,9-CC,H,CC,PAL,FORAM,0,5,83.03,83.08,,,,A,,,R,R,R,,R,R,R,,,,,A,A,,,,F,,,,F,,,F,,,,,R,R,,,P,R,R,,,,,,,,F,P,R,,R,P,,P,,,,,,,,361-U1478A-9H-CC-PAL-FORAM,320657ad138c78b3fa450a046fd40f5c
+361,U1478,A,10,10-2,H,2,W,70/72-FORAM,0,2,84.9,84.92,,,,A,,,R,P,F,,P,,P,,,,,A,A,,,,P,,,,R,,,R,,,,,,,,,R,R,P,,,,,P,,,F,,P,,F,R,,,,,,,,,,361-U1478A-10H-2-W 70/72-FORAM,d3ceedeb4a76cdfc55546db0cbbf88ed
+361,U1478,A,10,10-4,H,4,W,70/72-FORAM,0,2,87.93,87.95,,,,A,,,R,P,R,P,P,F,P,,,,,A,A,,,,F,,,,F,,,R,,,,,,,P,,P,R,P,R,,,,,,,F,P,R,,R,F,,P,,,,,,,,361-U1478A-10H-4-W 70/72-FORAM,bc882421875ad4c817a213f7f8c74b90
+361,U1478,A,10,10-6,H,6,W,70/72-FORAM,0,2,90.94,90.96,,,,A,,,R,R,F,R,R,F,R,,,,,A,A,,,,F,,,,R,,,R,,,,,,R,R,,R,R,R,,,,,R,,P,F,,F,,R,R,,R,,,,,,,,361-U1478A-10H-6-W 70/72-FORAM,4043416e41418236d6263001eb208c77
+361,U1478,A,10,10-CC,H,CC,PAL,FORAM,0,5,92.71,92.76,,,,A,,,R,R,R,,P,F,F,,,,,A,A,,,,P,,,,P,,,,,,,,,,P,,R,R,,,,,,P,,,R,,,,P,R,,P,,,,,,,,361-U1478A-10H-CC-PAL-FORAM,8a66547a8176512056aa5ff96cd24332
+361,U1478,A,11,11-1,H,1,FORAM,,0,2,92.9,92.92,,,,A,,,R,P,R,P,P,F,P,,,,,A,A,,,,F,,,,F,,,R,,,,,,,P,,P,R,P,R,,,,,,,F,P,R,,R,F,,P,,,,,,,,361-U1478A-11H-1-FORAM,cfe3dbb1dbe13d6ba4793e0fa5476d02
+361,U1478,A,11,11-3,H,3,FORAM,,0,2,95.89,95.91,,,,A,,,P,P,,P,P,F,,,,,,A,A,,,,,,,,F,,,R,,,,,,,P,,P,P,P,,,,,,,,F,P,R,,R,R,,P,,,,,,,,361-U1478A-11H-3-FORAM,e396beafde995d800c5a135af6e8c516
+361,U1478,A,11,11-5,H,5,FORAM,,0,2,98.82,98.84,,,,A,,,P,,P,,,P,,,,,,A,F,,,,P,,,,F,,,R,,,,,,,P,,,,P,,,,,,,,A,P,,,F,F,,,,,,,,,,361-U1478A-11H-5-FORAM,9693d24b6ee9d4f1044a44bce88f823b
+361,U1478,A,11,11-CC,H,CC,PAL,FORAM,0,5,102.12,102.17,,,,A,,,R,,R,R,R,,F,R,,,,A,A,,,,F,,P,,R,,,P,,,,,P,R,,,,P,R,,,,,,,,F,P,,,F,R,,P,,,,,,,,361-U1478A-11H-CC-PAL-FORAM,a5f680a36229be2ec1f281505ea537bc
+361,U1478,A,12,12-1,H,1,W,70/72-FORAM,0,2,102.4,102.42,,,,A,,,R,P,F,,,F,P,,,,,A,A,,,,,,,,,,,P,,,,,,,,,,R,P,P,P,,,R,,,F,,,,,F,,P,,,,,,,,361-U1478A-12H-1-W 70/72-FORAM,d9c5bc492cbf18e1d7a1c4e1be0d3761
+361,U1478,A,12,12-3,H,3,W,70/72-FORAM,0,2,105.4,105.42,,,,A,,,,,R,P,P,F,,R,,,,A,A,,,,P,,,,P,,,P,,,,,,,,,P,R,P,,P,,,P,,P,,,,,F,P,,P,,,,,,,,361-U1478A-12H-3-W 70/72-FORAM,19c8806dd2a0e174b627435aaf864608
+361,U1478,A,12,12-5,H,5,W,60/62-FORAM,0,2,108.3,108.32,,,,A,,,P,,F,,,F,,R,,,,A,A,,,,P,,,,,,,P,,,,,,,,,,R,,,P,,,P,,,,,,,R,P,,,,,,,,,,361-U1478A-12H-5-W 60/62-FORAM,edfe0d1e43359e50ce4b2cae75cfd7b5
+361,U1478,A,12,12-CC,H,CC,PAL,FORAM,0,5,111.37,111.42,,,,A,,,P,P,R,,,F,F,R,,,,A,A,,,,R,,P,,F,,,P,,,,,,P,P,,R,R,R,R,,,,R,,,F,,R,,F,R,,P,,,,,,,,361-U1478A-12H-CC-PAL-FORAM,a1801f62577858662b276ef783daed93
+361,U1478,A,13,13-2,H,2,W,70/72-FORAM,0,2,113.4,113.42,,,,A,,,P,,P,P,P,R,P,,,,,A,A,,,,,,,,P,,,R,,,,,,,P,,R,,P,,P,,,R,,,R,,,,,P,,,,,,,,,,361-U1478A-13H-2-W 70/72-FORAM,915b360925d0f830614215a74349de73
+361,U1478,A,13,13-4,H,4,W,70/72-FORAM,0,2,116.4,116.42,,,,A,,,P,,P,P,,R,P,,,,,A,F,,,,,,,,P,,,P,,,,,,,P,,,P,P,,P,,,P,,,F,,,,,P,,,,,,,,,,361-U1478A-13H-4-W 70/72-FORAM,ab53d1e6745228223715a24f78a7ce49
+361,U1478,A,13,13-6,H,6,W,70/72-FORAM,0,2,119.4,119.42,,,,A,,,P,,P,P,P,R,P,,,,,A,A,,,,,,,,P,,,R,,,,,,,P,,R,,P,,P,,,R,,,R,,,,,P,,,,,,,,,,361-U1478A-13H-6-W 70/72-FORAM,953aa36fa4aa802265b23824126dfb11
+361,U1478,A,13,13-CC,H,CC,PAL,FORAM,0,5,121.17,121.22,,,,A,,,R,R,R,P,R,R,R,,,,,A,A,,,,P,,,,P,,,P,,,,,,R,R,,R,R,R,,,,,,,,F,,R,,F,P,,P,,,,,,,,361-U1478A-13H-CC-PAL-FORAM,80eda353e8af0b0c9500e09d1f4ecffd
+361,U1478,A,14,14-CC,H,CC,PAL,FORAM,0,5,130.77,130.82,"T Neogloboquadrina acostaensis (Gradstein et al., 2012)",,,A,,,P,R,,,,R,P,,,,,A,A,,,,,,P,,P,,,R,,,,,P,,R,,R,R,R,,,,,,,R,F,,P,,,P,,P,,,,,,,,361-U1478A-14H-CC-PAL-FORAM,29e6c49485c109d2cecf2600495b85c0
+361,U1478,A,15,15-1,H,1,W,70/72-FORAM,0,2,130.9,130.92,,,,A,,,P,,R,,P,R,P,,,,,A,A,,,,,,,,P,,,,,,,,,,P,,P,P,P,,P,,,P,,R,,,P,,,P,,P,,,,,,,,361-U1478A-15H-1-W 70/72-FORAM,cb7708e2dda27ac76cdb67ec3ebdbc3e
+361,U1478,A,15,15-3,H,3,W,70/72-FORAM,0,2,133.9,133.92,,,,A,,,P,,R,,P,R,P,,,,,A,A,,,,,,,,P,,,,,,,,,,P,,P,P,P,,,,,R,,R,,,P,,,P,,P,,,,,,,,361-U1478A-15H-3-W 70/72-FORAM,b7d14e22bd95545577a045a485ad72de
+361,U1478,A,15,15-5,H,5,W,70/72-FORAM,0,2,136.9,136.92,,,,A,,,,,F,P,,,P,,,,,A,F,,,,,,P,,,,,,,,,,,,,,R,,P,,,,,P,,,F,,,,,P,,P,,,,,,,,361-U1478A-15H-5-W 70/72-FORAM,ff8c6b77c59c71acc3bcf0e429574830
+361,U1478,A,15,15-CC,H,CC,PAL,FORAM,0,5,139.4,139.45,,,,A,,,P,R,P,,R,R,P,,,,,A,A,,,,R,,,,P,,,P,,,,,,,P,,R,,R,,R,,,,R,R,R,,,,,R,,P,,,,,,,,361-U1478A-15H-CC-PAL-FORAM,d7f8799c1c5b654e322b287be5793657
+361,U1478,A,16,16-1,H,1,W,70/72-FORAM,0,2,140.4,140.42,,,,A,,,R,,R,,,P,P,,,,,A,A,,,,P,,,,R,,,P,,,,,,,,,P,,P,,R,,,P,,P,R,,,,,P,,,,,,,,,,361-U1478A-16H-1-W 70/72-FORAM,7361666a4b5d5b47d79d60c3cd649530
+361,U1478,A,16,16-3,H,3,W,70/72-FORAM,0,2,143.42,143.44,,,,A,,,R,P,R,,P,P,P,,,,,A,A,,,,P,,,,R,,,P,,,,,,,P,,P,,P,,,,,P,,P,F,,,,,P,,P,,,,,,,,361-U1478A-16H-3-W 70/72-FORAM,dbb689e1830b0270e2d6deed0cefe41b
+361,U1478,A,16,16-5,H,5,W,70/72-FORAM,0,2,146.46,146.48,,,,A,,,P,P,R,,,F,P,,,,,A,A,,,,P,,,,R,,,F,,,,,,,,,,,R,,,,,,,,R,P,,,P,P,,P,,,,,,,,361-U1478A-16H-5-W 70/72-FORAM,a9abaca9a6fa94f6b76ea6369f834b69
+361,U1478,A,16,16-CC,H,CC,PAL,FORAM,0,5,149.58,149.63,"T Globigerinoides fistulosus (Gradstein et al., 2012)",,,A,,,R,R,R,,R,R,,,R,,,A,A,,,,R,,P,,R,,,R,,,,,,R,R,,R,R,R,,P,,,,,R,F,,,,R,R,,P,,,,,,,,361-U1478A-16H-CC-PAL-FORAM,c0cc9d348d72e8deb5dd3fb97bb6de31
+361,U1478,A,17,17-1,H,1,W,70/72-FORAM,0,2,149.9,149.92,,,,A,,,,,F,P,,R,P,,,,,A,A,,,,P,,,,F,,,,,,,,,,,,R,P,,,,,,,,,,,,,R,,,P,,,,,,,,361-U1478A-17H-1-W 70/72-FORAM,b7d4cd73f223d60c20ccfed822efac1e
+361,U1478,A,17,17-3,H,3,W,70/72-FORAM,0,2,152.76,152.78,,,,A,,,P,,,P,,R,,,R,,,A,F,,,,,,,,,,,P,,,,,,,P,,P,P,R,,,,,,,P,R,,,,,P,,P,,,,,,,,361-U1478A-17H-3-W 70/72-FORAM,1ffd48d6a33f5545b112d89f15e7ba9e
+361,U1478,A,17,17-5,H,5,W,70/72-FORAM,0,2,155.78,155.8,,,,A,,,,,R,,,R,P,,P,,,A,A,,,,,,,,P,,,P,,,,,,,,,R,,P,,,,,,,P,R,,P,,,P,,,,,,,,,,361-U1478A-17H-5-W 70/72-FORAM,7da500bafe2df43db7884535fd912a37
+361,U1478,A,17,17-CC,H,CC,PAL,FORAM,0,5,159.05,159.1,,,,A,,,,,,,,,,,,,,A,A,,,,,,,,,,,,,,,,,,,,R,P,,,P,,,,,P,,,,,,,,,,,,,,,,361-U1478A-17H-CC-PAL-FORAM,0209760e6adca27ffdf6a6fe63a6ada8
+361,U1478,A,18,18-1,H,1,W,70/72-FORAM,0,2,159.4,159.42,,,,C,,P,P,,,P,,P,R,,P,,,A,A,,,,P,,P,,,P,,P,,,,,,,,,R,P,P,,,,,,,P,P,,,,R,,,P,,,,,,,,361-U1478A-18H-1-W 70/72-FORAM,9450557920327e17fe3d38ad0fcc0880
+361,U1478,A,18,18-3,H,3,W,70/72-FORAM,0,2,162.4,162.42,,,,C,,,,,P,,,P,,,P,,,A,A,,,,P,,,,,,,P,,,,,,,,,R,,F,P,P,,,,,P,F,,,,R,F,P,P,,,,,,,,361-U1478A-18H-3-W 70/72-FORAM,8bcb12ac0398f82c7e3acc0b64f9beb8
+361,U1478,A,18,18-5,H,5,W,70/72-FORAM,0,2,165.4,165.42,,,,C,,,,,,,,,,,P,,,F,F,,,,,,,,R,,,,,,,,,,P,,R,,,P,,,,,,,R,P,,,,,,,,,,,,,,361-U1478A-18H-5-W 70/72-FORAM,df47797dac2af4faeebad28ffb4db135
+361,U1478,A,18,18-CC,H,CC,PAL,FORAM,0,5,168.4,168.45,,,,C,,,,,R,,,R,P,R,,,,F,F,,,,,,,,R,,,P,,,,,,,P,,,P,P,,,,,,,P,P,,P,,,P,,P,,,,,,,,361-U1478A-18H-CC-PAL-FORAM,1d86e5fb66717123800b69e88fba13fa
+361,U1478,A,19,19-1,H,1,W,70/72-FORAM,0,2,168.9,168.92,,,,C,,,R,R,F,,R,,,,R,,,A,F,,,,,,,,R,,,R,,,,,,P,,,R,P,R,P,F,,,,F,R,F,,,,F,R,,P,,,,,,,,361-U1478A-19H-1-W 70/72-FORAM,e98b6fec6842659311f1ecdbad1f6048
+361,U1478,A,19,19-3,H,3,W,70/72-FORAM,0,2,171.9,171.92,"T Globorotalia limbata(Gradstein et al., 2012)",,,C,,P,,R,R,,,P,R,,P,,,A,A,,,,P,,,,R,,,R,,,,,R,,P,,,,R,,,,,,R,R,F,,,,R,R,,R,,,,,,,,361-U1478A-19H-3-W 70/72-FORAM,da6cd05669436a9985f167de36e39df6
+361,U1478,A,19,19-5,H,5,W,70/72-FORAM,0,2,174.9,174.92,,,,C,,,,R,R,,,,R,,,,,A,A,,,,F,P,,,F,,,R,,,,,,,R,,,,R,P,P,,,,R,F,F,,,,R,P,,R,,,,,,,,361-U1478A-19H-5-W 70/72-FORAM,535243bcf3028a39e947428f241908b4
+361,U1478,A,19,19-CC,H,CC,PAL,FORAM,0,5,177.67,177.72,,,,C,,,,,F,,,,P,P,,,,F,F,,,,P,,,,P,P,,P,,P,,,P,,P,,,,P,,,,,,,P,,P,,,,P,,P,,,,,,,,361-U1478A-19H-CC-PAL-FORAM,30eecf445b95cea15fb3257c251131e5
+361,U1478,A,20,20-2,H,2,W,70/72-FORAM,0,2,179.9,179.92,,,,C,,,P,R,P,,,P,R,,,,,A,A,P,,,R,,,,R,P,,R,,P,,,F,,P,,,,R,P,,,,,F,R,F,P,R,,P,R,,P,,,,,,,,361-U1478A-20H-2-W 70/72-FORAM,7993686ae2c0dfb6efade97fd1939c24
+361,U1478,A,20,20-4,H,4,W,70/72-FORAM,0,2,182.9,182.92,,,,C,,,R,F,R,,,,R,,P,,,A,A,P,,,R,,,,R,R,,R,,P,,,F,,R,,,,R,,P,,,,F,R,F,R,R,,R,R,,R,,,,,,,,361-U1478A-20H-4-W 70/72-FORAM,835f5422699b317a8f6454c6c32458d2
+361,U1478,A,20,20-6,H,6,W,70/72-FORAM,0,2,185.9,185.92,,,,C,,,,F,F,P,,,R,,,,,A,F,P,,,R,,,,F,R,,R,,P,,,A,,R,,,,R,,F,,,,F,R,F,F,,,R,R,,R,,,,,,,,361-U1478A-20H-6-W 70/72-FORAM,2618fb74c83b4e93e148da0159743676
+361,U1478,A,20,20-CC,H,CC,PAL,FORAM,0,5,187.73,187.78,,,,C,,,,,,,,,P,R,P,,,F,F,,,,P,,,,P,P,,,,P,,,,P,P,,,,,,P,,,,,,P,,,,R,,,P,,,,,,,,361-U1478A-20H-CC-PAL-FORAM,129b7ca064dae9ba8e52209c2bba00b4
+361,U1478,A,21,21-2,H,2,W,70/72-FORAM,0,2,189.4,189.42,,,,A,,,,R,F,R,R,F,R,,P,,,A,A,P,,,R,,,,,P,,R,,P,,,F,,P,,,,R,,F,,,,F,R,F,F,,,F,F,,R,,,,,,,,361-U1478A-21H-2-W 70/72-FORAM,f049f59c085823a2b0bf3f5b532852d2
+361,U1478,A,21,21-4,H,4,W,70/72-FORAM,0,2,192.4,192.42,,,,C,,,P,,,,P,P,P,,,,,A,F,,,,P,,P,,P,R,,,,,,,P,,,,,P,P,,R,,,,,,,,,,P,P,,,,,,,,,,361-U1478A-21H-4-W 70/72-FORAM,9d374762af8951a01028c0374b0184d3
+361,U1478,A,21,21-6,H,6,W,70/72-FORAM,0,2,195.4,195.42,,,,C,,,,,,P,,P,,,P,,,A,F,,,,P,,,,R,P,,,,P,,,R,,,,,,,,P,,,,,,P,,,,,,,,,,,,,,,361-U1478A-21H-6-W 70/72-FORAM,dae6c9e3b983031fa22870d09fbcf323
+361,U1478,A,21,21-CC,H,CC,PAL,FORAM,0,5,196.17,196.22,,,,A,,,P,,R,,,P,,P,P,,,A,F,,,,P,,,,P,P,,,,,P,,R,P,P,,,P,P,,F,,,P,,R,P,P,R,,P,R,,P,,,,,,,,361-U1478A-21H-CC-PAL-FORAM,6007fa3bff56de4c1c18129de8807cf4
+361,U1478,A,22,22-1,F,1,W,70/72-FORAM,0,2,197.4,197.42,,,,A,,,P,P,R,,,P,,R,P,,,A,F,,,,P,,,,P,P,,,,,,,P,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-22F-1-W 70/72-FORAM,b27f14bacb8b200500e34973c4a2f7ed
+361,U1478,A,22,22-3,F,3,W,70/72-FORAM,0,2,200.4,200.42,,,,C,,,,,,,,,,,,,,A,F,,,,,,,,P,P,,,,,,,P,P,,,P,,,,,,,,,,,,,,P,P,,,,,,,,,,361-U1478A-22F-3-W 70/72-FORAM,ccdbbcc571c3e089bd91772a42b02545
+361,U1478,A,22,22-CC,F,CC,PAL,FORAM,0,5,201.65,201.7,,,,C,,,P,P,R,,,P,,R,P,,,A,F,,,,P,,,,P,P,,,,,,,P,,P,,,,P,,P,,,,,P,,P,,,,P,,,,,,,,,,361-U1478A-22F-CC-PAL-FORAM,973dbc4060c956ce5a5dcd5513a55180
+361,U1478,A,23,23-1,F,1,W,70/72-FORAM,0,2,202.1,202.12,,,,C,,,,,,,,P,,R,,,,A,F,,,,,,,,,,,,,,,,P,,,,P,,,,,,,,,,,,,,,P,P,,,,,,,,,361-U1478A-23F-1-W 70/72-FORAM,d90f8a44c0b337b5eaf66bfcc41295bc
+361,U1478,A,23,23-3,F,3,W,70/72-FORAM,0,2,205.15,205.17,,,,C,,,,,,,P,,,F,R,,,A,F,,,,,,,,,P,,,,,,,P,,,,,,P,,,,,,,,,,,,,,P,,,,,,,,,361-U1478A-23F-3-W 70/72-FORAM,f8d861c0b96f5ddfa895204979c5fb08
+361,U1478,A,23,23-CC,F,CC,PAL,FORAM,0,5,206.54,206.59,,,,C,,,P,P,F,P,,,R,F,R,,,A,F,,,,P,,,,,P,,,,P,,,P,,P,,P,,P,,F,,,,F,R,,P,P,,P,,P,P,,,,,,,,361-U1478A-23F-CC-PAL-FORAM,11ece0d678bc990a60b163f2d7adb741
+361,U1478,A,24,24-1,F,1,W,70/72-FORAM,0,2,206.8,206.82,"T Dentoglobigerina altispira(Gradstein et al., 2012)",,,C,,P,,,,,,,,P,P,,,A,F,,,,,,,,,,,,,P,P,,P,,,,P,,,,,,,,,,,,,,,,P,,,,,,,,,361-U1478A-24F-1-W 70/72-FORAM,e6a5189f6e1418a4497b3aafff4cc6b7
+361,U1478,A,24,24-3,F,3,W,70/72-FORAM,0,2,209.85,209.87,,,,C,,P,P,,P,,,R,,P,R,,,A,F,,,,,,,,,P,,,,P,P,,P,,,,R,,P,,P,,,,,,,,,,,,R,,,,,,,,,361-U1478A-24F-3-W 70/72-FORAM,9294ead48548c7b2fc73a817e75f67dd
+361,U1478,A,24,24-CC,F,CC,PAL,FORAM,0,5,211.02,211.07,,,,C,,P,,,,,,,P,F,R,,,A,A,,,,P,,,,P,P,,P,,,,,P,P,,,R,,,,P,,,,,,,,,,P,P,P,P,,,,,,,,361-U1478A-24F-CC-PAL-FORAM,74c971c7516096699793d077548f7eff
+361,U1478,A,25,25-1,F,1,W,70/72-FORAM,0,2,211.5,211.52,,,,C,,,,,F,P,,,R,F,,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-25F-1-W 70/72-FORAM,76cf329e2ffc2783c800a50ee355d65d
+361,U1478,A,25,25-3,F,3,W,70/72-FORAM,0,2,214.34,214.36,,,,C,,P,P,,P,,,R,,P,R,,,A,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-25F-3-W 70/72-FORAM,79215e9ec6ba3d2fdde6800c16273451
+361,U1478,A,25,25-CC,F,CC,PAL,FORAM,0,5,215.65,215.7,,,,C,,,P,,P,,,R,P,F,P,,,A,F,,,,P,,,,,P,,,,P,P,,P,,P,,P,,P,,P,,,,,P,,,P,,,,P,P,,,,,,,,361-U1478A-25F-CC-PAL-FORAM,04a03c4c8403366aebc611d7651cc0f7
+361,U1478,A,26,26-1,F,1,W,70/72-FORAM,0,2,216.2,216.22,,,,C,,P,,,P,,,R,P,F,P,,,A,F,,,,P,,,,,,,,,P,,,,,P,,P,,P,,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-26F-1-W 70/72-FORAM,54527af22c5eb9002191db79e1d94f33
+361,U1478,A,26,26-3,F,3,W,70/72-FORAM,0,2,219.23,219.25,,,,C,,,P,,P,,,R,P,F,P,,,A,F,,,,P,,,,,,,,,P,,,,,P,,P,,P,,P,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-26F-3-W 70/72-FORAM,05e27037bf162e79e80062d2069d1614
+361,U1478,A,26,26-CC,F,CC,PAL,FORAM,0,5,220.55,220.6,,,,C,,P,,,P,,P,,P,,P,,,A,F,,,,P,,,,,,,,,P,P,,P,,P,,R,,P,P,R,,,,,P,,,,,,,P,P,,,,,,,,361-U1478A-26F-CC-PAL-FORAM,b27058870da2e8cab28d8fae03db7c40
+361,U1478,A,27,27-1,F,1,W,70/72-FORAM,0,2,220.9,220.92,,,,C,,P,R,,,,,,,R,,,,A,F,P,,,,,,,,,,,,,P,,P,,,,P,,P,,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-27F-1-W 70/72-FORAM,f4c20bac657ae2ffeb56ebaa8594e496
+361,U1478,A,27,27-3,F,3,W,70/72-FORAM,0,2,223.92,223.94,,,,C,,P,,,,,P,R,,R,R,,,A,F,,,,R,,,,,P,,,,,P,,P,,P,,P,,R,P,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-27F-3-W 70/72-FORAM,93f9f70a450ae10327e743f1141790e5
+361,U1478,A,27,27-CC,F,CC,PAL,FORAM,0,5,225.02,225.07,,,,A,,P,P,P,R,,,,R,R,R,,,A,A,,,,R,,,,P,P,,,,P,P,,R,,P,,R,,P,P,A,,,,,P,,P,,,P,,P,P,,,,,,,,361-U1478A-27F-CC-PAL-FORAM,9d913c21bd3a9f15fdc03d3ffe0a66d7
+361,U1478,A,28,28-1,F,1,W,70/72-FORAM,0,2,225.6,225.62,,,,A,,P,,,,,,,,P,,,,A,F,,,,P,,,,,P,,P,,,P,,P,,,,P,,P,,,,,,,,,,,,,,P,P,,,,,,,,361-U1478A-28F-1-W 70/72-FORAM,aa785896f6416a248cfa980d0bb29570
+361,U1478,A,28,28-3,F,3,W,70/72-FORAM,0,2,228.64,228.66,,,,A,,P,,,,,P,R,,P,,,,A,F,,,,,,,,,F,,R,,,P,,F,,,,P,,R,,,,,,,,,,,,,,R,,,,,,,,,361-U1478A-28F-3-W 70/72-FORAM,8ed8b7adf8558ac6d6d3d9cb50007e44
+361,U1478,A,28,28-CC,F,CC,PAL,FORAM,0,5,229.39,229.44,,,,A,,R,P,P,R,,R,P,R,R,,,,A,F,,,,P,,,,,R,,R,,,P,,R,,R,,R,,P,,F,,,,R,,,R,,,R,,F,R,,,,,,,,361-U1478A-28F-CC-PAL-FORAM,60ba454b4ed5d5c6ce8b33d296dc914d
+361,U1478,A,29,29-1,F,1,W,70/72-FORAM,0,2,230.3,230.32,,,,A,,F,,,,,,,,F,,,,A,F,P,,,,,,,,,,,,,P,,,,P,,P,,P,P,,,,,,P,,,,,,,P,P,,,,,,,,361-U1478A-29F-1-W 70/72-FORAM,07e72258082dca2a8269664be3aac56f
+361,U1478,A,29,29-3,F,3,W,70/72-FORAM,0,2,233.09,233.11,,,,A,,F,,,,,,,,F,,,,A,F,,,,,,,,,,P,,,,P,,,,P,,R,,,,,,,,,,,,,,,,R,R,,,,,,,,361-U1478A-29F-3-W 70/72-FORAM,a2f5cc4b6e322ec475e96c01afac0c1e
+361,U1478,A,29,29-CC,F,CC,PAL,FORAM,0,5,234.6,234.65,,,,A,,F,R,F,R,,R,P,R,F,,,,A,F,,,,R,,,,P,R,,R,,F,P,,F,,P,,F,,R,,F,,,,R,,,R,,,R,,F,R,,,,,,,,361-U1478A-29F-CC-PAL-FORAM,6ab59d7a9f1304252918e38266d18567
+361,U1478,A,30,30-1,F,1,W,70/72-FORAM,0,2,235.0,235.02,"B Globorotalia tosaensis (Gradstein et al., 2012)",,,A,,F,P,F,R,,R,,,A,,,,A,F,P,,,R,,,,,R,P,R,,P,R,,P,,P,,R,,R,P,F,,,,R,,,R,P,,R,,R,R,,,,,,,,361-U1478A-30F-1-W 70/72-FORAM,b83ad51c1e52bf983a2ba99f080c62f8
+361,U1478,A,30,30-3,F,3,W,70/72-FORAM,0,2,237.92,237.94,,,,A,,F,P,R,R,,R,,P,A,,,,A,F,P,,,R,,,,,R,P,R,,,R,,P,,R,,,,R,R,R,,,,,,,R,P,,R,,F,F,,,,,,,,361-U1478A-30F-3-W 70/72-FORAM,2f1af36f27f1d48fe458dedddef48be8
+361,U1478,A,30,30-CC,F,CC,PAL,FORAM,0,5,239.39,239.44,,,,A,,F,,F,R,,,R,,A,,,,A,F,,,,R,,,,P,R,P,F,,,P,,R,,R,,P,,R,R,R,,,,P,P,,R,P,,R,,A,R,,,,,,,,361-U1478A-30F-CC-PAL-FORAM,b10c78a8853327416a65c5ca2419ba5a
+361,U1478,A,31,31-1,F,1,W,70/72-FORAM,0,2,239.7,239.72,"T Globorotalia margaritae (Gradstein et al., 2012)",,,A,,F,,R,R,,,,R,F,,,,F,A,P,,,R,P,,,,R,R,F,,,R,,,,,,,,R,R,R,,,,R,P,,F,R,,R,,F,F,,,,,,,,361-U1478A-31F-1-W 70/72-FORAM,4f8bc21c747794589e5bf5fc7221629c
+361,U1478,A,31,31-3,F,3,W,70/72-FORAM,0,2,242.68,242.7,,,,A,,R,,R,R,,R,R,,F,,,,F,A,,,,R,P,,,,F,,F,,R,R,,R,,R,,,,P,P,R,,,,R,P,,P,P,,R,,R,F,,,,,,,,361-U1478A-31F-3-W 70/72-FORAM,ef88f79ef3f44a832bb71b2532fbc319
+361,U1478,A,31,31-CC,F,CC,PAL,FORAM,0,5,244.13,244.18,,,,A,,F,,F,R,,R,,,A,,,,A,A,,,,R,,,,,R,P,F,,R,P,,R,,P,,,,R,,R,,,,F,,,R,,,R,,F,F,,,,,,,,361-U1478A-31F-CC-PAL-FORAM,e4bf6ccb6863547d2236b4bce5b59541
+361,U1478,A,32,32-1,F,1,W,70/72-FORAM,0,2,244.4,244.42,,,,C,,,P,,,,,,,,,,,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,361-U1478A-32F-1-W 70/72-FORAM,0ada343be48a3bf0cf024744d337f9c1
+361,U1478,A,32,32-3,F,3,W,70/72-FORAM,0,2,247.25,247.27,,,,C,,,,,,,,,,,,,,A,F,,,,P,,,,,P,,,,,,,P,,,,,,,,P,,,,,,,P,,,F,,P,,,,,,,,,361-U1478A-32F-3-W 70/72-FORAM,3f148e3cc164b0e3bd1e23857b6d1df6
+361,U1478,A,32,32-CC,F,CC,PAL,FORAM,0,5,248.59,248.64,,,,C,,F,R,F,R,,,P,R,A,,,,A,F,,,,R,,,,,R,R,F,,,P,,P,P,P,,,,P,P,R,,,,F,R,,R,F,,R,,R,F,,,,,,,,361-U1478A-32F-CC-PAL-FORAM,394523a1f6ecc0da1b8eb4a49378f1c7

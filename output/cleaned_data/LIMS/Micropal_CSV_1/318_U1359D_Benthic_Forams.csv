@@ -1,10 +1,10 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Bolivina spp.,Cibicidoides mundulus,Epistominella exigua,Gyroidina zealandica,Hyperammina spp.,Hyperammina laevigata,Laticarinina pauperata,Lenticulina spp.,Martinotiella communis,Martinotiella nodulosa,Melonis pompilioides,Melonis spharoides,Nonionella iridea,Pullenia bulloides,Pullenia coryelli,Pyrgo murrhina,Rhabdammina linearis
-318-U1359D-2R-CC-PAL-FORAM,318,U1359,D,2,2-CC,R,CC,PAL,FORAM,0,5,159.9,159.95,,,,,,C,,,,,,,,,,,
-318-U1359D-8R-CC-PAL-FORAM,318,U1359,D,8,8-CC,R,CC,PAL,FORAM,0,5,216.595,216.645,,,,,,C,,,,,,,,,,,
-318-U1359D-14R-CC-PAL-FORAM,318,U1359,D,14,14-CC,R,CC,PAL,FORAM,0,5,276.02,276.07,R,F,C,,,,,R,,,R,A,R,C,,,
-318-U1359D-15R-CC-PAL-FORAM,318,U1359,D,15,15-CC,R,CC,PAL,FORAM,0,5,283.38,283.43,,,C,,,,,,,,,,,,,,
-318-U1359D-17R-CC-PAL-FORAM,318,U1359,D,17,17-CC,R,CC,PAL,FORAM,0,5,300.93,300.98,,,C,,,,,,,,,,,,,,
-318-U1359D-19R-CC-PAL-FORAM,318,U1359,D,19,19-CC,R,CC,PAL,FORAM,0,5,320.78,320.83,,,C,,,,,,,,,,,,,,
-318-U1359D-24R-CC-PAL-FORAM,318,U1359,D,24,24-CC,R,CC,PAL,FORAM,0,5,371.805,371.855,,F,A,R,F,,R,,F,F,,F,,C,R,,
-318-U1359D-30R-CC-PAL-FORAM,318,U1359,D,30,30-CC,R,CC,PAL,FORAM,0,5,424.03,424.08,,,,,,,,,,,,C,,,,,
-318-U1359D-34R-CC-PAL-FORAM,318,U1359,D,34,34-CC,R,CC,PAL,FORAM,0,5,464.31,464.36,,,,,,,,,,,,,R,,,R,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Bolivina spp.,Cibicidoides mundulus,Epistominella exigua,Gyroidina zealandica,Hyperammina spp.,Hyperammina laevigata,Laticarinina pauperata,Lenticulina spp.,Martinotiella communis,Martinotiella nodulosa,Melonis pompilioides,Melonis spharoides,Nonionella iridea,Pullenia bulloides,Pullenia coryelli,Pyrgo murrhina,Rhabdammina linearis,eodp_id
+318-U1359D-2R-CC-PAL-FORAM,318,U1359,D,2,2-CC,R,CC,PAL,FORAM,0,5,159.9,159.95,,,,,,C,,,,,,,,,,,,4be17216ae4aa13d35abefa4e1214276
+318-U1359D-8R-CC-PAL-FORAM,318,U1359,D,8,8-CC,R,CC,PAL,FORAM,0,5,216.595,216.645,,,,,,C,,,,,,,,,,,,dd25af2a7de9ae288995f64ba038107e
+318-U1359D-14R-CC-PAL-FORAM,318,U1359,D,14,14-CC,R,CC,PAL,FORAM,0,5,276.02,276.07,R,F,C,,,,,R,,,R,A,R,C,,,,63d95f96438a759f3f3199cdca021cf5
+318-U1359D-15R-CC-PAL-FORAM,318,U1359,D,15,15-CC,R,CC,PAL,FORAM,0,5,283.38,283.43,,,C,,,,,,,,,,,,,,,40521200ef1c22d0f2778a5680410324
+318-U1359D-17R-CC-PAL-FORAM,318,U1359,D,17,17-CC,R,CC,PAL,FORAM,0,5,300.93,300.98,,,C,,,,,,,,,,,,,,,809bc9dd0e7ae31cfcd6b31bb3edf17c
+318-U1359D-19R-CC-PAL-FORAM,318,U1359,D,19,19-CC,R,CC,PAL,FORAM,0,5,320.78,320.83,,,C,,,,,,,,,,,,,,,68cd2750e7474762fc90893186f48a04
+318-U1359D-24R-CC-PAL-FORAM,318,U1359,D,24,24-CC,R,CC,PAL,FORAM,0,5,371.805,371.855,,F,A,R,F,,R,,F,F,,F,,C,R,,,adbc1a0a900edea0cf4d5efe292e5f2e
+318-U1359D-30R-CC-PAL-FORAM,318,U1359,D,30,30-CC,R,CC,PAL,FORAM,0,5,424.03,424.08,,,,,,,,,,,,C,,,,,,a0cb4f91923389b0fb62ce84820ac095
+318-U1359D-34R-CC-PAL-FORAM,318,U1359,D,34,34-CC,R,CC,PAL,FORAM,0,5,464.31,464.36,,,,,,,,,,,,,R,,,R,,a751f0cd5773696aac0d09f8065571a3

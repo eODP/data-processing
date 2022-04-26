@@ -1,35 +1,35 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group abundance,Globigerina bulloides,Globigerina foliata,Globigerina umbilicata,Globigerinita glutinata,Globigerinita iota,Globigerinita uvula,Globorotalia hirsuta,Globorotalia scitula,Neogloboquadrina humerosa,Neogloboquadrina inglei,Neogloboquadrina kagaensis,Neogloboquadrina incompta (dextral),Neogloboquadrina incompta (sinsitral),Neogloboquadrina pachyderma (sinistral),Neogloboquadrina pachyderma (dextral),"Neogloboquadrina pachyderma A (dextral, inflated form)","Neogloboquadrina pachyderma B (sinistral, inflated form)","Neogloboquadrina pachyderma C (sinistral, compressed form)",Orbulina universa,Comments,Ship File Links,Shore File Links,File Data
-341-U1417D-1H-CC-PAL,341,U1417,D,1,1-CC,H,CC,PAL,0,5,6.0,6.05,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],D,,,A,P,,P,,P,,,,,,D,R,,R,,,Foram rich sediments,,,
-341-U1417D-2H-CC-PAL,341,U1417,D,2,2-CC,H,CC,PAL,0,5,14.46,14.51,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,G [P15],A,P,,A,P,,,,P,,,,,F,D,P,,F,,,Sandy,,,
-341-U1417D-3H-CC-PAL,341,U1417,D,3,3-CC,H,CC,PAL,0,6,24.5,24.56,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],R,,,F,,,,,R,,,,,,D,,,R,,,Sandy. Presence of pyralitized foram surface,,,
-341-U1417D-4H-CC-PAL,341,U1417,D,4,4-CC,H,CC,PAL,0,5,34.78,34.83,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],F,,,F,,,,,,,,,,,D,P,,,,,sandy,,,
-341-U1417D-5H-CC-PAL,341,U1417,D,5,5-CC,H,CC,PAL,0,5,44.15,44.2,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],P,R,,A,,,,,,,,,,,D,,,A,,,,,,
-341-U1417D-6H-CC-PAL,341,U1417,D,6,6-CC,H,CC,PAL,0,5,52.54,52.59,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,G [P15],R,,,D,,,,,,,,,,R,D,R,,,,,Presence of the pyritillized specimen (surface structure).,,,
-341-U1417D-8H-CC-PAL,341,U1417,D,8,8-CC,H,CC,PAL,0,5,66.05,66.1,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,P [P15],P,,,,,,,,A,,,,,,D,,,,,,Sandy,,,
-341-U1417D-10H-CC-PAL,341,U1417,D,10,10-CC,H,CC,PAL,0,5,85.0,85.05,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,
-341-U1417D-12H-CC-PAL,341,U1417,D,12,12-CC,H,CC,PAL,0,5,101.82,101.87,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,P [P15],P,,,,,,,,,,,,,,D,,,,,,Sandy,,,
-341-U1417D-16H-7-PAL,341,U1417,D,16,16-7,H,7,PAL,0,5,138.1,138.15,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,P [P15],P,,,,,,,,,,,,,,D,,,,,,"Indurate ""chunky"" sediments",,,
-341-U1417D-20H-CC-PAL,341,U1417,D,20,20-CC,H,CC,PAL,0,5,162.49,162.54,,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,"Indurate ""chunky"" sediments",,,
-341-U1417D-24H-CC-PAL,341,U1417,D,24,24-CC,H,CC,PAL,0,5,180.4,180.45,,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,"Indurate ""chunky"" sediments, Pyritallized rads/diatoms",,,
-341-U1417D-26H-CC-PAL,341,U1417,D,26,26-CC,H,CC,PAL,0,5,187.49,187.54,,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,Radiolarian rich,,,
-341-U1417D-28H-CC-PAL,341,U1417,D,28,28-CC,H,CC,PAL,0,5,192.1,192.15,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",LO Neogloboquadrina inglei Kucera and Kennet (2000),M [P15],F,,,A,,,,,F,,A,A,,,F,D,,,,,Sandy. Presence of brown colored foraminifer shells,,,
-341-U1417D-30H-CC-PAL,341,U1417,D,30,30-CC,H,CC,PAL,0,5,201.24,201.29,,,,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,
-341-U1417D-32H-CC-PAL,341,U1417,D,32,32-CC,H,CC,PAL,0,5,208.87,208.92,,,,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,
-341-U1417D-34H-CC-PAL,341,U1417,D,34,34-CC,H,CC,PAL,0,5,214.02,214.07,,,,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,
-341-U1417D-36H-CC-PAL,341,U1417,D,36,36-CC,H,CC,PAL,0,5,223.32,223.37,,,,M [P15],P,,,,,,,,,,,,,D,,,,,,,Presence of volcanic shards/glasses,,,
-341-U1417D-37H-CC-PAL,341,U1417,D,37,37-CC,H,CC,PAL,0,5,223.84,223.89,,,,P [P15],P,,,,,,,,,,,,,D,,,,,,D,"Sandy, Pyritillized rads",,,
-341-U1417D-38X-CC-PAL,341,U1417,D,38,38-CC,H,CC,PAL,0,5,225.04,225.09,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,P [P15],P,,,,,,,,F,,A,,,,F,D,,,,,"Sandy, light brown colored benthic foram",,,
-341-U1417D-40X-CC-PAL,341,U1417,D,40,40-CC,H,CC,PAL,0,5,247.28,247.33,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,G [P15],P,,,,,,,,F,,A,,,,A,D,,,,,Color of foram shells were mixture of the light brown-colored and white. LO of N. inglei ? Presence of warm water species.,,,
-341-U1417D-42X-CC-PAL,341,U1417,D,42,42-CC,H,CC,PAL,0,5,267.91,267.96,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,M [P15],P,,,,,,,,A,,D,,,,F,F,,,,,Mixture of light and white colored foram shells,,,
-341-U1417D-43X-CC-PAL,341,U1417,D,43,43-CC,H,CC,PAL,0,5,279.14,279.19,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,P [P15],P,,,D,,,,,,,,,,,A,A,,,,,sandy,,,
-341-U1417D-44X-CC-PAL,341,U1417,D,44,44-CC,H,CC,PAL,0,5,283.45,283.5,,,,,B,,,,,,,,,,,,,,,,,,,,"Indurate ""chunky"" sediments",,,
-341-U1417D-46X-CC-PAL,341,U1417,D,46,46-CC,H,CC,PAL,0,5,299.08,299.13,,,,,B,,,,,,,,,,,,,,,,,,,,Chunky and sandy sediment,,,
-341-U1417D-48X-CC-PAL,341,U1417,D,48,48-CC,H,CC,PAL,0,5,317.71,317.76,,,,,B,,,,,,,,,,,,,,,,,,,,,,,
-341-U1417D-49X-CC-PAL,341,U1417,D,49,49-CC,H,CC,PAL,0,5,328.39,328.44,,,,,B,,,,,,,,,,,,,,,,,,,,Chunky,,,
-341-U1417D-50X-CC-PAL,341,U1417,D,50,50-CC,H,CC,PAL,0,5,339.57,339.62,,,,,B,,,,,,,,,,,,,,,,,,,,Chunky,,,
-341-U1417D-51X-CC-PAL,341,U1417,D,51,51-CC,H,CC,PAL,0,5,349.61,349.66,,,,,B,,,,,,,,,,,,,,,,,,,,sandy. mica present,,,
-341-U1417D-54X-CC-PAL,341,U1417,D,54,54-CC,H,CC,PAL,0,5,378.42,378.47,,,,,B,,,,,,,,,,,,,,,,,,,,sandy,,,
-341-U1417D-58X-CC-PAL,341,U1417,D,58,58-CC,H,CC,PAL,0,5,416.07,416.12,,,,,B,,,,,,,,,,,,,,,,,,,,"black charcoal like fragments, sandy",,,
-341-U1417D-60X-CC-PAL,341,U1417,D,60,60-CC,H,CC,PAL,0,5,432.06,432.11,,,,,B,,,,,,,,,,,,,,,,,,,,"black charcoal like fragments, sandy",,,
-341-U1417D-62X-CC-PAL,341,U1417,D,62,62-CC,H,CC,PAL,0,5,442.28,442.33,,,,,B,,,,,,,,,,,,,,,,,,,,"black charcoal like fragments, sandy",,,
-341-U1417D-64X-CC-PAL,341,U1417,D,64,64-CC,H,CC,PAL,0,8,451.4,451.48,,,,,B,,,,,,,,,,,,,,,,,,,,sandy,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group abundance,Globigerina bulloides,Globigerina foliata,Globigerina umbilicata,Globigerinita glutinata,Globigerinita iota,Globigerinita uvula,Globorotalia hirsuta,Globorotalia scitula,Neogloboquadrina humerosa,Neogloboquadrina inglei,Neogloboquadrina kagaensis,Neogloboquadrina incompta (dextral),Neogloboquadrina incompta (sinsitral),Neogloboquadrina pachyderma (sinistral),Neogloboquadrina pachyderma (dextral),"Neogloboquadrina pachyderma A (dextral, inflated form)","Neogloboquadrina pachyderma B (sinistral, inflated form)","Neogloboquadrina pachyderma C (sinistral, compressed form)",Orbulina universa,Comments,Ship File Links,Shore File Links,File Data,eodp_id
+341-U1417D-1H-CC-PAL,341,U1417,D,1,1-CC,H,CC,PAL,0,5,6.0,6.05,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],D,,,A,P,,P,,P,,,,,,D,R,,R,,,Foram rich sediments,,,,4c4519352acda2d13cd4e86a895360db
+341-U1417D-2H-CC-PAL,341,U1417,D,2,2-CC,H,CC,PAL,0,5,14.46,14.51,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,G [P15],A,P,,A,P,,,,P,,,,,F,D,P,,F,,,Sandy,,,,d49c7d17caa45480b7013e6bd7848358
+341-U1417D-3H-CC-PAL,341,U1417,D,3,3-CC,H,CC,PAL,0,6,24.5,24.56,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],R,,,F,,,,,R,,,,,,D,,,R,,,Sandy. Presence of pyralitized foram surface,,,,38ee025bbe33672c28a58e23978d2c26
+341-U1417D-4H-CC-PAL,341,U1417,D,4,4-CC,H,CC,PAL,0,5,34.78,34.83,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],F,,,F,,,,,,,,,,,D,P,,,,,sandy,,,,e414fa52b2053efe36baa4c8af100c9b
+341-U1417D-5H-CC-PAL,341,U1417,D,5,5-CC,H,CC,PAL,0,5,44.15,44.2,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,M [P15],P,R,,A,,,,,,,,,,,D,,,A,,,,,,,c42aee1d6f73b465f9a012ee1fa50b97
+341-U1417D-6H-CC-PAL,341,U1417,D,6,6-CC,H,CC,PAL,0,5,52.54,52.59,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,G [P15],R,,,D,,,,,,,,,,R,D,R,,,,,Presence of the pyritillized specimen (surface structure).,,,,5744f4e92ffcc2e24799c076f348bc9d
+341-U1417D-8H-CC-PAL,341,U1417,D,8,8-CC,H,CC,PAL,0,5,66.05,66.1,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,P [P15],P,,,,,,,,A,,,,,,D,,,,,,Sandy,,,,41b0f18d408226d70f066aae20f0db19
+341-U1417D-10H-CC-PAL,341,U1417,D,10,10-CC,H,CC,PAL,0,5,85.0,85.05,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,,3ec6d6a9c9a6f8c89c901da585eb3b3a
+341-U1417D-12H-CC-PAL,341,U1417,D,12,12-CC,H,CC,PAL,0,5,101.82,101.87,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,P [P15],P,,,,,,,,,,,,,,D,,,,,,Sandy,,,,427482c5534d283f772a6b09550575eb
+341-U1417D-16H-7-PAL,341,U1417,D,16,16-7,H,7,PAL,0,5,138.1,138.15,CM1,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,P [P15],P,,,,,,,,,,,,,,D,,,,,,"Indurate ""chunky"" sediments",,,,d1a4bb216a38c25868caa75ded9ac85a
+341-U1417D-20H-CC-PAL,341,U1417,D,20,20-CC,H,CC,PAL,0,5,162.49,162.54,,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,"Indurate ""chunky"" sediments",,,,8fb866776307097733b015784229e44c
+341-U1417D-24H-CC-PAL,341,U1417,D,24,24-CC,H,CC,PAL,0,5,180.4,180.45,,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,"Indurate ""chunky"" sediments, Pyritallized rads/diatoms",,,,f0065044879c4b59bc9d5d16a97fe7e8
+341-U1417D-26H-CC-PAL,341,U1417,D,26,26-CC,H,CC,PAL,0,5,187.49,187.54,,"N. Pachyderma B partial range zone (Kennett et al., 1990)",,,B,,,,,,,,,,,,,,,,,,,,Radiolarian rich,,,,a67e642bfd279eaa1c2daa68a16d6d7d
+341-U1417D-28H-CC-PAL,341,U1417,D,28,28-CC,H,CC,PAL,0,5,192.1,192.15,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",LO Neogloboquadrina inglei Kucera and Kennet (2000),M [P15],F,,,A,,,,,F,,A,A,,,F,D,,,,,Sandy. Presence of brown colored foraminifer shells,,,,3f8f852faf81c036134b885cf9a67554
+341-U1417D-30H-CC-PAL,341,U1417,D,30,30-CC,H,CC,PAL,0,5,201.24,201.29,,,,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,,71639e1e5a8d51fe193a34e85670a8a5
+341-U1417D-32H-CC-PAL,341,U1417,D,32,32-CC,H,CC,PAL,0,5,208.87,208.92,,,,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,,0de2c9464f66079c6233c570f42230d8
+341-U1417D-34H-CC-PAL,341,U1417,D,34,34-CC,H,CC,PAL,0,5,214.02,214.07,,,,,B,,,,,,,,,,,,,,,,,,,,Sandy,,,,8700f1bde50e797314e94f0d0a8b0b9c
+341-U1417D-36H-CC-PAL,341,U1417,D,36,36-CC,H,CC,PAL,0,5,223.32,223.37,,,,M [P15],P,,,,,,,,,,,,,D,,,,,,,Presence of volcanic shards/glasses,,,,d4d2575bb0510e420679bc05fe137a61
+341-U1417D-37H-CC-PAL,341,U1417,D,37,37-CC,H,CC,PAL,0,5,223.84,223.89,,,,P [P15],P,,,,,,,,,,,,,D,,,,,,D,"Sandy, Pyritillized rads",,,,7d454f816af52e488429dac01ed98533
+341-U1417D-38X-CC-PAL,341,U1417,D,38,38-CC,H,CC,PAL,0,5,225.04,225.09,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,P [P15],P,,,,,,,,F,,A,,,,F,D,,,,,"Sandy, light brown colored benthic foram",,,,bd96a177ef1a98ce42690066f354a92d
+341-U1417D-40X-CC-PAL,341,U1417,D,40,40-CC,H,CC,PAL,0,5,247.28,247.33,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,G [P15],P,,,,,,,,F,,A,,,,A,D,,,,,Color of foram shells were mixture of the light brown-colored and white. LO of N. inglei ? Presence of warm water species.,,,,955d36353dfe368d57041b4ce6d80bf3
+341-U1417D-42X-CC-PAL,341,U1417,D,42,42-CC,H,CC,PAL,0,5,267.91,267.96,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,M [P15],P,,,,,,,,A,,D,,,,F,F,,,,,Mixture of light and white colored foram shells,,,,c7a19ae88d4895e4ca654d2d73443a19
+341-U1417D-43X-CC-PAL,341,U1417,D,43,43-CC,H,CC,PAL,0,5,279.14,279.19,CM2,"N. pachyderma B - N. pachyderma A (Kennett et al., 1990)",,P [P15],P,,,D,,,,,,,,,,,A,A,,,,,sandy,,,,4f4e7af5eb3259a3bbd558b4b63ca1e1
+341-U1417D-44X-CC-PAL,341,U1417,D,44,44-CC,H,CC,PAL,0,5,283.45,283.5,,,,,B,,,,,,,,,,,,,,,,,,,,"Indurate ""chunky"" sediments",,,,967a23d046b690dabd59b862efdad272
+341-U1417D-46X-CC-PAL,341,U1417,D,46,46-CC,H,CC,PAL,0,5,299.08,299.13,,,,,B,,,,,,,,,,,,,,,,,,,,Chunky and sandy sediment,,,,9679916ccaab47ef9030888f2672b73a
+341-U1417D-48X-CC-PAL,341,U1417,D,48,48-CC,H,CC,PAL,0,5,317.71,317.76,,,,,B,,,,,,,,,,,,,,,,,,,,,,,,d338f81a1c6463df48845d59a01d5b5c
+341-U1417D-49X-CC-PAL,341,U1417,D,49,49-CC,H,CC,PAL,0,5,328.39,328.44,,,,,B,,,,,,,,,,,,,,,,,,,,Chunky,,,,24c91d47effae5d123d32626a8a97cd4
+341-U1417D-50X-CC-PAL,341,U1417,D,50,50-CC,H,CC,PAL,0,5,339.57,339.62,,,,,B,,,,,,,,,,,,,,,,,,,,Chunky,,,,c66daf1afc5c4b2a0942c27b9f9b257c
+341-U1417D-51X-CC-PAL,341,U1417,D,51,51-CC,H,CC,PAL,0,5,349.61,349.66,,,,,B,,,,,,,,,,,,,,,,,,,,sandy. mica present,,,,b4daa03379c23973c0be969e99f08e34
+341-U1417D-54X-CC-PAL,341,U1417,D,54,54-CC,H,CC,PAL,0,5,378.42,378.47,,,,,B,,,,,,,,,,,,,,,,,,,,sandy,,,,510cddaf76334b193559effe178dd76a
+341-U1417D-58X-CC-PAL,341,U1417,D,58,58-CC,H,CC,PAL,0,5,416.07,416.12,,,,,B,,,,,,,,,,,,,,,,,,,,"black charcoal like fragments, sandy",,,,3b2357892633baa89a339d0f794127bd
+341-U1417D-60X-CC-PAL,341,U1417,D,60,60-CC,H,CC,PAL,0,5,432.06,432.11,,,,,B,,,,,,,,,,,,,,,,,,,,"black charcoal like fragments, sandy",,,,2c6d810daa9a55ef9a1cafc57d614559
+341-U1417D-62X-CC-PAL,341,U1417,D,62,62-CC,H,CC,PAL,0,5,442.28,442.33,,,,,B,,,,,,,,,,,,,,,,,,,,"black charcoal like fragments, sandy",,,,fd13ba24c9425caf3dc4342c5afe18c8
+341-U1417D-64X-CC-PAL,341,U1417,D,64,64-CC,H,CC,PAL,0,8,451.4,451.48,,,,,B,,,,,,,,,,,,,,,,,,,,sandy,,,,06fca1de071c8903512d726b357ef4b1

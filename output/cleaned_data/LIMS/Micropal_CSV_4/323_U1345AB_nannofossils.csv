@@ -1,30 +1,30 @@
-Exp,Site,Hole,Core,Type,Section,Section Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (small),C. pelagicus,C. braarudii,R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W,Sample
-323,U1345,A,1,H,1,A,101.5,101.5,1.015,1.015,,A,M,C,,F,,A,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi,,323-U1345A-1H-1-nan
-323,U1345,A,1,H,1,A,102,102,1.02,1.02,,A,G,C,,,,A,,,,,,Sample from the Sedimentology collection. Light grey lamina. Large and small E. huxleyi,,323-U1345A-1H-1-nan
-323,U1345,A,1,H,1,A,119.5,119.5,1.195,1.195,,A,G,A,,,,A,F,,,,,Sample from the Sedimentology collection. Grey lamina,,323-U1345A-1H-1-nan
-323,U1345,A,1,H,2,A,44.5,44.5,1.945,1.945,,B,,,,,,,,,,,,Sample from the Sedimentology collection. Dark green lamina,,323-U1345A-1H-2-nan
-323,U1345,A,1,H,2,A,44.7,44.7,1.947,1.947,,B,,,,,,,,,,,,Sample from the Sedimentology collection. Light green lamina,,323-U1345A-1H-2-nan
-323,U1345,A,1,H,2,A,45,45,1.95,1.95,,R,M-G,,,R,,,,,,,,,,323-U1345A-1H-2-nan
-323,U1345,A,1,H,CC,,4,14,4.29,4.39,,A,G,D,,,F,A,F,,,,,Large (>4 microns) and small E. huxleyi types are present and well preserved,,323-U1345A-1H-CC-nan
-323,U1345,A,2,H,1,A,113.5,113.5,5.535,5.535,,R,M,R,,,,R,,,,,,"Sample from the Sedimentology collection. Grey lamina, coarse grains",,323-U1345A-2H-1-nan
-323,U1345,A,2,H,1,A,113.6,113.6,5.536,5.536,,F,G,,,,,F,R,,,,,Sample from the Sedimentology collection. Dark grey lamina,,323-U1345A-2H-1-nan
-323,U1345,A,2,H,1,A,114,114,5.54,5.54,,C,MG,F,,,,C,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi,,323-U1345A-2H-1-nan
-323,U1345,A,2,H,CC,,0,11,13.98,14.09,NN21,R,M-G,R,,,,R,,,,,R,,,323-U1345A-2H-CC-nan
-323,U1345,A,3,H,CC,,21,31,23.82,23.92,,R,M,,,R,R,,,,,,,,,323-U1345A-3H-CC-nan
-323,U1345,A,4,H,CC,,14,24,33.34,33.44,,R,M,,,,R,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1345A-4H-CC-nan
-323,U1345,A,5,H,CC,,34,44,42.85,42.95,,B,,,,,,,,,,,,Reworked specimen (Discoaster spp. ),,323-U1345A-5H-CC-nan
-323,U1345,A,6,H,CC,,41,51,51.51,51.61,,B,,,,,,,,,,,,,,323-U1345A-6H-CC-nan
-323,U1345,A,7,H,CC,,41,51,61.74,61.84,,R,M-G,,,,,R,,,,,R,,,323-U1345A-7H-CC-nan
-323,U1345,A,8,H,CC,,35,45,71.01,71.11,,B,,,,,,,,,,,,,,323-U1345A-8H-CC-nan
-323,U1345,A,9,H,CC,,40,50,80.54,80.64,,R,M-G,,,R,R,R,,,,,,,,323-U1345A-9H-CC-nan
-323,U1345,A,10,H,CC,,28,38,88.26,88.36,,C,G,,,F,C,,,,,,,,,323-U1345A-10H-CC-nan
-323,U1345,A,11,H,CC,,29,39,98.39,98.49,,B,,,,,,,,,,,,,,323-U1345A-11H-CC-nan
-323,U1345,A,12,H,CC,,27,37,108.43,108.53,,R,M-G,,,R,R,R,,,,,,,,323-U1345A-12H-CC-nan
-323,U1345,A,13,H,CC,,26,36,118.88,118.98,,R,M-G,,,,R,R,,,,,,The core catcher was laminated,,323-U1345A-13H-CC-nan
-323,U1345,A,14,H,CC,,35,45,128.02,128.12,,R,M,,,,,R,,,,,,,,323-U1345A-14H-CC-nan
-323,U1345,A,15,H,CC,,23,33,137.99,138.09,,B,,,,,,,,,,,,,,323-U1345A-15H-CC-nan
-323,U1345,A,16,H,CC,,34,44,147.33,147.43,,A,G,,,F,A,R,,,,R,,,,323-U1345A-16H-CC-nan
-323,U1345,B,1,H,CC,,0,10,8.15,8.25,NN21,F,M,R,,,,F,,,,,,Large (>4 microns) and small E. huxleyi types are present and well preserved,,323-U1345B-1H-CC-nan
-323,U1345,B,2,H,CC,,0,15,17.84,17.99,,R,M-G,,,R,,R,,,,,,,,323-U1345B-2H-CC-nan
-323,U1345,B,3,H,CC,,0,20,27.57,27.77,,B,,,,,,,,,,,,,,323-U1345B-3H-CC-nan
-323,U1345,B,4,H,CC,,0,25,37.08,37.33,,B,,,,,,,,,,,,,,323-U1345B-4H-CC-nan
+Exp,Site,Hole,Core,Type,Section,Section Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (small),C. pelagicus,C. braarudii,R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W,Sample,eodp_id
+323,U1345,A,1,H,1,A,101.5,101.5,1.015,1.015,,A,M,C,,F,,A,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi,,323-U1345A-1H-1-nan,391cf2bbc8eec3ffdfc7b20b607728b7
+323,U1345,A,1,H,1,A,102,102,1.02,1.02,,A,G,C,,,,A,,,,,,Sample from the Sedimentology collection. Light grey lamina. Large and small E. huxleyi,,323-U1345A-1H-1-nan,9954d58de7c4e76fb44ac8339d7654db
+323,U1345,A,1,H,1,A,119.5,119.5,1.195,1.195,,A,G,A,,,,A,F,,,,,Sample from the Sedimentology collection. Grey lamina,,323-U1345A-1H-1-nan,6cba607953a542f2ae1e415a6372f076
+323,U1345,A,1,H,2,A,44.5,44.5,1.945,1.945,,B,,,,,,,,,,,,Sample from the Sedimentology collection. Dark green lamina,,323-U1345A-1H-2-nan,cc38b9e832d5fccc0a610324d669cd47
+323,U1345,A,1,H,2,A,44.7,44.7,1.947,1.947,,B,,,,,,,,,,,,Sample from the Sedimentology collection. Light green lamina,,323-U1345A-1H-2-nan,d6f342aa2b29459915609248f8d7d399
+323,U1345,A,1,H,2,A,45,45,1.95,1.95,,R,M-G,,,R,,,,,,,,,,323-U1345A-1H-2-nan,144cd1bf1e8ae7fe0fc23bcf8db6e65c
+323,U1345,A,1,H,CC,,4,14,4.29,4.39,,A,G,D,,,F,A,F,,,,,Large (>4 microns) and small E. huxleyi types are present and well preserved,,323-U1345A-1H-CC-nan,c2b32f768ca4520f4650cf67361fff23
+323,U1345,A,2,H,1,A,113.5,113.5,5.535,5.535,,R,M,R,,,,R,,,,,,"Sample from the Sedimentology collection. Grey lamina, coarse grains",,323-U1345A-2H-1-nan,663cc6a65de70dd258bd276866b9f066
+323,U1345,A,2,H,1,A,113.6,113.6,5.536,5.536,,F,G,,,,,F,R,,,,,Sample from the Sedimentology collection. Dark grey lamina,,323-U1345A-2H-1-nan,3c299380bd9f09194a78072306788ac1
+323,U1345,A,2,H,1,A,114,114,5.54,5.54,,C,MG,F,,,,C,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi,,323-U1345A-2H-1-nan,b4e130a8be9ffa0fcded2016bd10329d
+323,U1345,A,2,H,CC,,0,11,13.98,14.09,NN21,R,M-G,R,,,,R,,,,,R,,,323-U1345A-2H-CC-nan,a18216f9ca6ee0523f2186725ba58885
+323,U1345,A,3,H,CC,,21,31,23.82,23.92,,R,M,,,R,R,,,,,,,,,323-U1345A-3H-CC-nan,73d42fbb56fb1fd261617cbdfc90b632
+323,U1345,A,4,H,CC,,14,24,33.34,33.44,,R,M,,,,R,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1345A-4H-CC-nan,c4e2c7acd653185a07d9ea544dbd3e39
+323,U1345,A,5,H,CC,,34,44,42.85,42.95,,B,,,,,,,,,,,,Reworked specimen (Discoaster spp. ),,323-U1345A-5H-CC-nan,8278ec909c7f987f0a3852b67ebcbd9f
+323,U1345,A,6,H,CC,,41,51,51.51,51.61,,B,,,,,,,,,,,,,,323-U1345A-6H-CC-nan,1a1944dab1256f9d2713502028013b73
+323,U1345,A,7,H,CC,,41,51,61.74,61.84,,R,M-G,,,,,R,,,,,R,,,323-U1345A-7H-CC-nan,6cf8de5982446a8627cd9705aed8cc22
+323,U1345,A,8,H,CC,,35,45,71.01,71.11,,B,,,,,,,,,,,,,,323-U1345A-8H-CC-nan,cdd8173239079296aef3369c9fd5a35a
+323,U1345,A,9,H,CC,,40,50,80.54,80.64,,R,M-G,,,R,R,R,,,,,,,,323-U1345A-9H-CC-nan,0edc6b705c1e22f0a3433dcd78a906ac
+323,U1345,A,10,H,CC,,28,38,88.26,88.36,,C,G,,,F,C,,,,,,,,,323-U1345A-10H-CC-nan,674558e7987ff994bfb40ba2f7639450
+323,U1345,A,11,H,CC,,29,39,98.39,98.49,,B,,,,,,,,,,,,,,323-U1345A-11H-CC-nan,f592483133d876e4a222d4d7b908f68d
+323,U1345,A,12,H,CC,,27,37,108.43,108.53,,R,M-G,,,R,R,R,,,,,,,,323-U1345A-12H-CC-nan,e2fe83570569e41702c93b450127b30b
+323,U1345,A,13,H,CC,,26,36,118.88,118.98,,R,M-G,,,,R,R,,,,,,The core catcher was laminated,,323-U1345A-13H-CC-nan,4a52f198ddba5e39ee7219ba42b91142
+323,U1345,A,14,H,CC,,35,45,128.02,128.12,,R,M,,,,,R,,,,,,,,323-U1345A-14H-CC-nan,b0425319f7f69cb9810ef2adb380690e
+323,U1345,A,15,H,CC,,23,33,137.99,138.09,,B,,,,,,,,,,,,,,323-U1345A-15H-CC-nan,70046badd71f008e1a6d924c0b81c04e
+323,U1345,A,16,H,CC,,34,44,147.33,147.43,,A,G,,,F,A,R,,,,R,,,,323-U1345A-16H-CC-nan,20a900e968d131630dea6193488837ab
+323,U1345,B,1,H,CC,,0,10,8.15,8.25,NN21,F,M,R,,,,F,,,,,,Large (>4 microns) and small E. huxleyi types are present and well preserved,,323-U1345B-1H-CC-nan,6b718e46ffd26f898a563a32b81cd754
+323,U1345,B,2,H,CC,,0,15,17.84,17.99,,R,M-G,,,R,,R,,,,,,,,323-U1345B-2H-CC-nan,665285d66f3a2d660ef3961f1102f781
+323,U1345,B,3,H,CC,,0,20,27.57,27.77,,B,,,,,,,,,,,,,,323-U1345B-3H-CC-nan,e665315595176146c56018fb65160930
+323,U1345,B,4,H,CC,,0,25,37.08,37.33,,B,,,,,,,,,,,,,,323-U1345B-4H-CC-nan,c17c35e590f3ff64b0fa0113632cd71e

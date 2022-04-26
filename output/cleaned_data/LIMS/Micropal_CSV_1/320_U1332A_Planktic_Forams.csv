@@ -1,44 +1,44 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Comments,Zone name [short],PF Preservation,% Planktic Foraminifera within whole sample,Catapsydrax dissimilis,Catapsydrax cf. howei,Catapsydrax unicavus,Catapsydrax sp.,Dentoglobigerina galavasi,Dentoglobigerina pseudovenezuelana,Dentoglobigerina tripartita,Dentoglobigerina sp.,Globigerina angulisuturalis,Globigerina euapertura,Globigerina officinalis,Globigerina ouachitensis,Globigerina prasepis,Globigerina venezulana,Globorotalia praehumerosa,Globorotalia semivera,Globorotaloides suteri,Globoquadrina tapurensis,Globorotaloides quadrocameratus,Globoquadrina sp.,Paragloborotalia griffinoides,Paragloborotalia nana,Paragloborotalia opima,Paragloborotalia opima-mayeri transition,Paragloborotalia pseudocontinuosa,Parasubbotina griffinae,Parasubbotina inaquespira,Paragloborotalia sp.,Subbotina corpulenta,Subbotina angiporoides,Subbotina patagonica,Subbotina utilsindex,Subbotina yeguaensis,Subbotina sp.,Turborotalia ampliapertura,Turborotalia frontosa,Turbotalia,Globorotalia sp.
-320-U1332A-1H-2-W 38/40,320,U1332,A,1,1-2,H,2,W,38/40,0,2.0,1.88,1.9,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-1H-CC-PAL-FORAMP,320,U1332,A,1,1-CC,H,CC,PAL,FORAMP,0,2.0,3.86,3.88,KME,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-2H-CC-PAL-FORAMP,320,U1332,A,2,2-CC,H,CC,PAL,FORAMP,0,2.0,13.62,13.64,KME,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-3H-5-W 47/49,320,U1332,A,3,3-5,H,5,W,47/49,0,2.0,19.87,19.89,LLR,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-3H-7-W 75/77,320,U1332,A,3,3-7,H,7,W,75/77,0,2.0,23.15,23.17,LLR,O6,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-3H-CC,320,U1332,A,3,3-CC,H,CC,,,0,2.0,23.22,23.24,,O3-Plio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-4H-3-W 40/42-FORAM,320,U1332,A,4,4-3,H,3,W,40/42-FORAM,0,2.0,26.3,26.32,KME,E13-O6,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-4H-7-W 38/40-FORAM,320,U1332,A,4,4-7,H,7,W,38/40-FORAM,0,2.0,32.28,32.3,LLR +KME,O6,M,,,,A,,,P,F,,,P,,,,F,,P,A,P,,,,P,,,,,,,,,,,,,,,,
-320-U1332A-5H-2-W 100/101-FORAM,320,U1332,A,5,5-2,H,2,W,100/101-FORAM,0,1.0,34.9,34.91,LLR,O2-O5,M,<5,,,A,,,,P,P,,,,,,,,,,,,,,A,F,,,,,,,,,,,,,,,
-320-U1332A-5H-5-W 28/29-FORAM,320,U1332,A,5,5-5,H,5,W,28/29-FORAM,0,1.0,38.68,38.69,LLR,E13-L.Mio.,M,5,,,A,,,,,,,,,,,,,,,,,,,D,,,,,,,,,,,,,,,,
-320-U1332A-6H-2-W 38/40,320,U1332,A,6,6-2,H,2,W,38/40,0,2.0,43.78,43.8,KME,O2-O5,M,,,,F,,P,,R,,,,,,,R,,,P,,,,,F,P,,,,,,,,,,,,,,,
-320-U1332A-6H-4-W 38/40-FORAMP,320,U1332,A,6,6-4,H,4,W,38/40-FORAMP,0,2.0,46.78,46.8,LLR,O2-O5,M,<5,,,D,,,,,,,,,,,,P,,,,,,,A,R,,,,,,P,,,,,,,,,
-320-U1332A-7H-2-W 38/40-Foram,320,U1332,A,7,7-2,H,2,W,38/40-Foram,0,2.0,53.28,53.3,LLR,E13-L.Mio.,M,,,,P,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,
-320-U1332A-7H-4-W 38/40-foram,320,U1332,A,7,7-4,H,4,W,38/40-foram,0,2.0,56.28,56.3,KME (Diatoms present),E14-O2,M,1,R,A,P,,F,,,,,,,,,P,,,,F,,,,P,,,,,,,,,,P,,,,F,,
-320-U1332A-8H-2-W 48/50,320,U1332,A,8,8-2,H,2,W,48/50,0,2.0,62.88,62.9,KME (Diatoms present),Olig.,M,,,,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-8H-4-W 38/40,320,U1332,A,8,8-4,H,4,W,38/40,0,2.0,65.78,65.8,KME (Diatoms present) D.tripartita (E13-O6),E13-O6,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-8H-CC-PAL-FORAMP,320,U1332,A,8,8-CC,H,CC,PAL,FORAMP,0,2.0,71.0,71.02,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-1-W 15/22,320,U1332,A,9,9-1,H,1,W,15/22,0,7.0,70.55,70.62,LLR,E13-O6,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,
-320-U1332A-9H-2-W 15/22,320,U1332,A,9,9-2,H,2,W,15/22,0,7.0,72.05,72.12,KME,Olig.,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,
-320-U1332A-9H-3-W 15/22,320,U1332,A,9,9-3,H,3,W,15/22,0,7.0,73.55,73.62,KME,E13-LOlig,P,2,,,P,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-4-W 130/137,320,U1332,A,9,9-4,H,4,W,130/137,0,7.0,76.2,76.27,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-4-W 15/22,320,U1332,A,9,9-4,H,4,W,15/22,0,7.0,75.05,75.12,LLR,E13-O6,P,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,
-320-U1332A-9H-4-W 70/77,320,U1332,A,9,9-4,H,4,W,70/77,0,7.0,75.6,75.67,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-5-W 15/22,320,U1332,A,9,9-5,H,5,W,15/22,0,7.0,76.55,76.62,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-6-W 15/22,320,U1332,A,9,9-6,H,6,W,15/22,0,7.0,78.05,78.12,LLR,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-7-W 15/22,320,U1332,A,9,9-7,H,7,W,15/22,0,7.0,79.55,79.62,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-9H-CC-PAL-FORAMP,320,U1332,A,9,9-CC,H,CC,PAL,FORAMP,0,2.0,80.47,80.49,LLR BARREN,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-10H-3-W 108/110,320,U1332,A,10,10-3,H,3,W,108/110,0,2.0,83.98,84.0,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-10H-CC-PAL-FORAMP,320,U1332,A,10,10-CC,H,CC,PAL,FORAMP,0,2.0,89.89,89.91,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-11H-6-W 99/101-Foram,320,U1332,A,11,11-6,H,6,W,99/101-Foram,0,2.0,97.89,97.91,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-11H-CC-PAL-FORAMP,320,U1332,A,11,11-CC,H,CC,PAL,FORAMP,0,2.0,98.52,98.54,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-12H-1-W 140/142,320,U1332,A,12,12-1,H,1,W,140/142,0,2.0,100.3,100.32,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-12H-CC-PAL-FORAMP,320,U1332,A,12,12-CC,H,CC,PAL,FORAMP,0,2.0,108.45,108.47,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-13H-3-W 30/32-FORAM,320,U1332,A,13,13-3,H,3,W,30/32-FORAM,0,2.0,111.7,111.72,KME,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-13H-5-W 144/146-FORAM,320,U1332,A,13,13-5,H,5,W,144/146-FORAM,0,2.0,115.84,115.86,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-13H-CC-PAL-FORAMP,320,U1332,A,13,13-CC,H,CC,PAL,FORAMP,0,2.0,118.38,118.4,LLR,P4-P8?,P,<1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,
-320-U1332A-14H-2-W 38/40,320,U1332,A,14,14-2,H,2,W,38/40,0,2.0,119.78,119.8,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-14H-4-A 38/40,320,U1332,A,14,14-4,H,4,A,38/40,0,2.0,122.78,122.8,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-14H-CC-PAL-FORAMP,320,U1332,A,14,14-CC,H,CC,PAL,FORAMP,0,2.0,126.28,126.3,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-15X-3-W 58/60,320,U1332,A,15,15-3,X,3,W,58/60,0,2.0,129.48,129.5,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-15X-CC-PAL-FORAMP,320,U1332,A,15,15-CC,X,CC,PAL,FORAMP,0,2.0,132.93,132.95,LLR,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-16X-2-W 38/40,320,U1332,A,16,16-2,X,2,W,38/40,0,2.0,137.38,137.4,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332A-17X-CC-PAL-FORAMP,320,U1332,A,17,17-CC,X,CC,PAL,FORAMP,0,0.0001999999955296,148.21,148.21,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Comments,Zone name [short],PF Preservation,% Planktic Foraminifera within whole sample,Catapsydrax dissimilis,Catapsydrax cf. howei,Catapsydrax unicavus,Catapsydrax sp.,Dentoglobigerina galavasi,Dentoglobigerina pseudovenezuelana,Dentoglobigerina tripartita,Dentoglobigerina sp.,Globigerina angulisuturalis,Globigerina euapertura,Globigerina officinalis,Globigerina ouachitensis,Globigerina prasepis,Globigerina venezulana,Globorotalia praehumerosa,Globorotalia semivera,Globorotaloides suteri,Globoquadrina tapurensis,Globorotaloides quadrocameratus,Globoquadrina sp.,Paragloborotalia griffinoides,Paragloborotalia nana,Paragloborotalia opima,Paragloborotalia opima-mayeri transition,Paragloborotalia pseudocontinuosa,Parasubbotina griffinae,Parasubbotina inaquespira,Paragloborotalia sp.,Subbotina corpulenta,Subbotina angiporoides,Subbotina patagonica,Subbotina utilsindex,Subbotina yeguaensis,Subbotina sp.,Turborotalia ampliapertura,Turborotalia frontosa,Turbotalia,Globorotalia sp.,eodp_id
+320-U1332A-1H-2-W 38/40,320,U1332,A,1,1-2,H,2,W,38/40,0,2.0,1.88,1.9,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c7b52bcf8c05cb162d64d9ab0f6f1948
+320-U1332A-1H-CC-PAL-FORAMP,320,U1332,A,1,1-CC,H,CC,PAL,FORAMP,0,2.0,3.86,3.88,KME,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,172b8b48ddc381012537a5993053088d
+320-U1332A-2H-CC-PAL-FORAMP,320,U1332,A,2,2-CC,H,CC,PAL,FORAMP,0,2.0,13.62,13.64,KME,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,467a1d0b3c6c563395e15defcecb46d5
+320-U1332A-3H-5-W 47/49,320,U1332,A,3,3-5,H,5,W,47/49,0,2.0,19.87,19.89,LLR,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f67a735b722f0cfd05605bf720ba0cd5
+320-U1332A-3H-7-W 75/77,320,U1332,A,3,3-7,H,7,W,75/77,0,2.0,23.15,23.17,LLR,O6,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,be34f8fe74a8b340a646d4bbc48b0d9b
+320-U1332A-3H-CC,320,U1332,A,3,3-CC,H,CC,,,0,2.0,23.22,23.24,,O3-Plio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7a8484e438581c56c3823824c24a22c6
+320-U1332A-4H-3-W 40/42-FORAM,320,U1332,A,4,4-3,H,3,W,40/42-FORAM,0,2.0,26.3,26.32,KME,E13-O6,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3c33573e31c6792aa07ae6cc7bcb49ff
+320-U1332A-4H-7-W 38/40-FORAM,320,U1332,A,4,4-7,H,7,W,38/40-FORAM,0,2.0,32.28,32.3,LLR +KME,O6,M,,,,A,,,P,F,,,P,,,,F,,P,A,P,,,,P,,,,,,,,,,,,,,,,,27ca654ee26c41d446ee3bc1ae74f396
+320-U1332A-5H-2-W 100/101-FORAM,320,U1332,A,5,5-2,H,2,W,100/101-FORAM,0,1.0,34.9,34.91,LLR,O2-O5,M,<5,,,A,,,,P,P,,,,,,,,,,,,,,A,F,,,,,,,,,,,,,,,,3687faa9856db36b9fa86f26a601522e
+320-U1332A-5H-5-W 28/29-FORAM,320,U1332,A,5,5-5,H,5,W,28/29-FORAM,0,1.0,38.68,38.69,LLR,E13-L.Mio.,M,5,,,A,,,,,,,,,,,,,,,,,,,D,,,,,,,,,,,,,,,,,413c3f8d044f3ea9450ed907af019623
+320-U1332A-6H-2-W 38/40,320,U1332,A,6,6-2,H,2,W,38/40,0,2.0,43.78,43.8,KME,O2-O5,M,,,,F,,P,,R,,,,,,,R,,,P,,,,,F,P,,,,,,,,,,,,,,,,b22f69a479a15a67184bc6e5f1669627
+320-U1332A-6H-4-W 38/40-FORAMP,320,U1332,A,6,6-4,H,4,W,38/40-FORAMP,0,2.0,46.78,46.8,LLR,O2-O5,M,<5,,,D,,,,,,,,,,,,P,,,,,,,A,R,,,,,,P,,,,,,,,,,f7c1608c3ce705f4cb532b56f6d0f3e2
+320-U1332A-7H-2-W 38/40-Foram,320,U1332,A,7,7-2,H,2,W,38/40-Foram,0,2.0,53.28,53.3,LLR,E13-L.Mio.,M,,,,P,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,a1847f2edd1f30812e24a32e7343637a
+320-U1332A-7H-4-W 38/40-foram,320,U1332,A,7,7-4,H,4,W,38/40-foram,0,2.0,56.28,56.3,KME (Diatoms present),E14-O2,M,1,R,A,P,,F,,,,,,,,,P,,,,F,,,,P,,,,,,,,,,P,,,,F,,,53c58685d447660f08a6aa5644becde6
+320-U1332A-8H-2-W 48/50,320,U1332,A,8,8-2,H,2,W,48/50,0,2.0,62.88,62.9,KME (Diatoms present),Olig.,M,,,,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,78d71c7016dda99e86cbb662db20b812
+320-U1332A-8H-4-W 38/40,320,U1332,A,8,8-4,H,4,W,38/40,0,2.0,65.78,65.8,KME (Diatoms present) D.tripartita (E13-O6),E13-O6,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fc714605cec05d7f865d160c0f51b8ee
+320-U1332A-8H-CC-PAL-FORAMP,320,U1332,A,8,8-CC,H,CC,PAL,FORAMP,0,2.0,71.0,71.02,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86b4a5ae1b95d3c2d3fb84b5397e1e09
+320-U1332A-9H-1-W 15/22,320,U1332,A,9,9-1,H,1,W,15/22,0,7.0,70.55,70.62,LLR,E13-O6,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,e2dc560dbed55bc6fd02355d2355f2c3
+320-U1332A-9H-2-W 15/22,320,U1332,A,9,9-2,H,2,W,15/22,0,7.0,72.05,72.12,KME,Olig.,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,627e0dfd545f7099d3841472cbcf7740
+320-U1332A-9H-3-W 15/22,320,U1332,A,9,9-3,H,3,W,15/22,0,7.0,73.55,73.62,KME,E13-LOlig,P,2,,,P,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9450a01c1942570d5b86ae746c8c8646
+320-U1332A-9H-4-W 130/137,320,U1332,A,9,9-4,H,4,W,130/137,0,7.0,76.2,76.27,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1188581f080b925ebda122fe56b4cd7d
+320-U1332A-9H-4-W 15/22,320,U1332,A,9,9-4,H,4,W,15/22,0,7.0,75.05,75.12,LLR,E13-O6,P,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,00184c23299f134b6d0fe7a54f4ef9c2
+320-U1332A-9H-4-W 70/77,320,U1332,A,9,9-4,H,4,W,70/77,0,7.0,75.6,75.67,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aadb4a806b8f6765099acd0dbd90d9d9
+320-U1332A-9H-5-W 15/22,320,U1332,A,9,9-5,H,5,W,15/22,0,7.0,76.55,76.62,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d1e81c4c1ecc0cc82b9ca534379889b9
+320-U1332A-9H-6-W 15/22,320,U1332,A,9,9-6,H,6,W,15/22,0,7.0,78.05,78.12,LLR,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dc1285d9357de95ff1b7710e381762b6
+320-U1332A-9H-7-W 15/22,320,U1332,A,9,9-7,H,7,W,15/22,0,7.0,79.55,79.62,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78b6641a0b2ed55bc792a06b020b30cc
+320-U1332A-9H-CC-PAL-FORAMP,320,U1332,A,9,9-CC,H,CC,PAL,FORAMP,0,2.0,80.47,80.49,LLR BARREN,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d6e25cd333c17e85cb5eaae25557f6d6
+320-U1332A-10H-3-W 108/110,320,U1332,A,10,10-3,H,3,W,108/110,0,2.0,83.98,84.0,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cd5630c92b3c435a36f5982599ed1bac
+320-U1332A-10H-CC-PAL-FORAMP,320,U1332,A,10,10-CC,H,CC,PAL,FORAMP,0,2.0,89.89,89.91,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ed7b016983a689dcfa54e9e3d2c4d077
+320-U1332A-11H-6-W 99/101-Foram,320,U1332,A,11,11-6,H,6,W,99/101-Foram,0,2.0,97.89,97.91,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1dbcfa555af3f98c86fedd774f761daf
+320-U1332A-11H-CC-PAL-FORAMP,320,U1332,A,11,11-CC,H,CC,PAL,FORAMP,0,2.0,98.52,98.54,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34363d53e747d7b79ad81200f3aa8533
+320-U1332A-12H-1-W 140/142,320,U1332,A,12,12-1,H,1,W,140/142,0,2.0,100.3,100.32,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d7a6a2af98378973b93e1b203669d940
+320-U1332A-12H-CC-PAL-FORAMP,320,U1332,A,12,12-CC,H,CC,PAL,FORAMP,0,2.0,108.45,108.47,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e02c78f632f515c26008900c9ec21c25
+320-U1332A-13H-3-W 30/32-FORAM,320,U1332,A,13,13-3,H,3,W,30/32-FORAM,0,2.0,111.7,111.72,KME,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44a1af3f59990184a4171bad95e801ed
+320-U1332A-13H-5-W 144/146-FORAM,320,U1332,A,13,13-5,H,5,W,144/146-FORAM,0,2.0,115.84,115.86,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69bf166718aa8f7b0fee9e1a86b9dbd4
+320-U1332A-13H-CC-PAL-FORAMP,320,U1332,A,13,13-CC,H,CC,PAL,FORAMP,0,2.0,118.38,118.4,LLR,P4-P8?,P,<1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,0496ac7df0e528151aa9314cb8d718a5
+320-U1332A-14H-2-W 38/40,320,U1332,A,14,14-2,H,2,W,38/40,0,2.0,119.78,119.8,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27f74004c1481f893f00e875d36e7ebd
+320-U1332A-14H-4-A 38/40,320,U1332,A,14,14-4,H,4,A,38/40,0,2.0,122.78,122.8,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7b19ccfad210217f504f11c69ba7db4d
+320-U1332A-14H-CC-PAL-FORAMP,320,U1332,A,14,14-CC,H,CC,PAL,FORAMP,0,2.0,126.28,126.3,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,044860525cce353e0b0a5bb90a064019
+320-U1332A-15X-3-W 58/60,320,U1332,A,15,15-3,X,3,W,58/60,0,2.0,129.48,129.5,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ef69442e1af94b3705e534b388ac8522
+320-U1332A-15X-CC-PAL-FORAMP,320,U1332,A,15,15-CC,X,CC,PAL,FORAMP,0,2.0,132.93,132.95,LLR,B,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e82968141803dfaa038a64befd6eaa49
+320-U1332A-16X-2-W 38/40,320,U1332,A,16,16-2,X,2,W,38/40,0,2.0,137.38,137.4,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0625db1cbea37c94ddb829b2402bed8a
+320-U1332A-17X-CC-PAL-FORAMP,320,U1332,A,17,17-CC,X,CC,PAL,FORAMP,0,0.0001999999955296,148.21,148.21,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0d375ee392d23fa11a69bcf005093cd3

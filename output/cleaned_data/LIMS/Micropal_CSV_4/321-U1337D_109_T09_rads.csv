@@ -1,49 +1,49 @@
-Sample,Top Depth [m],Bottom Depth [m],Radiolarian zone/subzone,Abundance,Preservation,Mixing,Acrocubus octopylus,Amphirhopalum ypsilon,Anthocyrtidium angulare,Anthocyrtidum pliocenica,Botryostrobus miralestensis,Calocycletta caepa,Calocycletta costata,Calocycletta robusta,Calocycletta virginis,Carpocanopsis bramlettei,Carpocanopsis cingulata,Carpocanopsis cristata,Cyrtocapsella cornuta,Cyrtocapsella japonica,Cyrtocapsella tetrapera,Diartus hughesi,Diartus petterssoni,Didymocyrtis antipenultima,Didymocyrtis avita,Didymocyrtis laticonus,Didymocyrtis mammifera,Didymocyrtis penultima,Didymocyrtis prismatica,Didymocyrtis tetratharamus,Didymocyrtis tubaria,Didymocyrtis violina,Dorcadospyris dentata,Dorcadospyris forcipata,Lamaprocyrtis heteroporos,Lamaprocyrtis nigriniae,Liriospyris parkerae,Lithopera neotera,Lithopera renzae,Lychnocanoma elongata,Lychnodictyum audax,Nephrospyris renila,Phormostichoartus doliolum,Phormostichoartus fistula,Pterocanium prismatium,Solenosphaera omnitubus,Spongaster berminghami,Spongaster pentas,Spongaster tetras tetras,Stichocorys delmontensis,Stichocorys pergrina,Stichocorys wolffii,Stylatractus universus,Theocorythium trachelium,Theocorythium vetulum,Top [cm],Bottom [cm],Exp,Site,Hole,Core,Type,Section,A/W
-321-U1337D-1H-CC,7.93,7.98,RN14,C,M,,,R,,,,,,,,,,,,,,,,,,,,,,R,,,,,,R,,,,,,,,,,,,,C,,,,R,,,,,321,U1337,D,1,H,CC,
-321-U1337D-2H-CC,16.6,16.68,RN13,A,M,,,R,R,,,,,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,,,C,,,,R,R,R,,,321,U1337,D,2,H,CC,
-321-U1337D-3H-CC,27.19,27.24,RN12b,A,M,,,R,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,,,,R,,,,C,,,,R,,R,,,321,U1337,D,3,H,CC,
-321-U1337D-4H-CC,35.64,35.7,RN12b,A,M,,,R,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,R,,,R,,,,F,,,,,,R,,,321,U1337,D,4,H,CC,
-321-U1337D-5H-CC,46.39,46.44,RN 11b,A,M,,,R,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,R,,,F,,,,R,,C,,,,R,,,321,U1337,D,5,H,CC,
-321-U1337D-6H-CC,55.25,55.28,RN 11a,A,M,,,R,,R,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,R,,R,F,,,,F,,C,,R,,R,,,321,U1337,D,6,H,CC,
-321-U1337D-7H-CC,65.14,65.19,RN 10,A,M,,,,,R,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,R,R,R,,F,,,,R,,F,,,,,,,321,U1337,D,7,H,CC,
-321-U1337D-8H-CC,73.66,73.71,RN9,A,M,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,,,,,,,R,R,R,R,,,R,,,R,,,,R,,,321,U1337,D,8,H,CC,
-321-U1337D-9H-CC,84.06,84.11,RN9,A,M,,,,,F,,,,,,,,,,,,,,,R,,,R,,R,,,,,,,,,,,,R,R,R,R,R,,R,,,R,,,,R,,,321,U1337,D,9,H,CC,
-321-U1337D-10H-CC,93.79,93.84,RN9,A,M,,,,,R,,,,,,,,,,,,,,,R,,,F,,R,,,,,,,,,,,,,R,R,,,R,R,,,F,,,,,,,321,U1337,D,10,H,CC,
-321-U1337D-11H-CC,103.5,103.55,RN9,A,M,,,,,R,,,,,,,,,,,,,,,,,,R,,R,,,,,,,,,,,,,R,R,,R,R,,,,F,,,,,,,321,U1337,D,11,H,CC,
-321-U1337D-12H-CC,112.43,112.48,RN9,A,M,,,,,R,,R,,,,,,,,,,,,R,,,,R,,R,,,,,,,,,,,R,,R,R,,R,R,,,F,C,,,,,,,321,U1337,D,12,H,CC,
-321-U1337D-13H-CC,122.45,122.5,RN9,A,G,,,,,R,,,,,,,,,,,,,,R,,,,R,,,,,,,,,,,,,R,,R,R,,R,R,,,F,F,,,,,,,321,U1337,D,13,H,CC,
-321-U1337D-14H-CC,131.14,131.35,RN 8,A,G,,,,,R,,R,,,,,,,,,,,,R,,,,R,,,,,,,,,,,,,,,R,R,,,,,,F,,,,,,,,321,U1337,D,14,H,CC,
-321-U1337D-15H-CC,141.53,141.58,RN7,A,G,,,,,,,R,,,,,,,,,,R,,R,,R,,,,,,,,,,,,,,,,,R,,,,R,,,F,,,,,,,,321,U1337,D,15,H,CC,
-321-U1337D-16H-CC,150.25,150.3,RN7,A,G,,,,,R,,R,,,,,,,,,,R,,R,,R,,,,,,,,,,,,,,,R,,R,,,,,,,F,,,,,,,,321,U1337,D,16,H,CC,
-321-U1337D-17H-CC,160.51,160.56,RN7,A,G,,,,,,R,R,,,,,,,,,,R,,R,,R,,,,,,,,,,,,,,,,,R,,,,,,,F,,,,,,,,321,U1337,D,17,H,CC,
-321-U1337D-18H-CC,169.92,169.97,RN6,A,M,,,,,,R,R,,,,,,,,,,,F,R,,R,,,,,,,,,,,,,,,,,R,,,,,,,C,,R,,,,,,321,U1337,D,18,H,CC,
-321-U1337D-19H-CC,179.4,179.45,RN6,A,M,,,,,,R,R,,,,,,,,,,,F,,,R,,,,,,,,,,,,,,,R,,R,R,,,,,,C,,R,,,,,,321,U1337,D,19,H,CC,
-321-U1337D-20H-CC,189.01,189.06,RN6,A,M,,,,,,R,R,,,,,,,,F,,,F,,,R,,,,,,,,,,,,,,,,,R,R,,,,,,C,,R,,,,,,321,U1337,D,20,H,CC,
-321-U1337D-21H-CC,195.17,195.21,RN6,R,G,,,,,,R,,,,,,,,,,,,R,,,R,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,21,H,CC,
-321-U1337D-22H-CC,199.71,199.76,RN6,A,G,,,,,,R,R,,,,,,,,R,,,R,,,R,,,,,,,,,,,,,,,R,,R,R,,,,,,F,,R,,,,,,321,U1337,D,22,H,CC,
-321-U1337D-23H-CC,209.54,209.59,RN6,A,G,,,,,,R,R,,,,,,R,,R,,,R,,,R,,,,,,,,,,,,,,,R,,,R,,,,,,F,,R,,,,,,321,U1337,D,23,H,CC,
-321-U1337D-24H-CC,219.4,219.45,RN6,A,G,,,,,,R,R,,,,,,R,,R,,,R,,,R,,,,,,,,,,,,R,,,,,R,R,,,,,,F,,R,,,,,,321,U1337,D,24,H,CC,
-321-U1337D-25H-CC,228.24,228.29,RN6,A,G,,,,,,R,R,,,,,,,R,R,,,R,,,R,,,,,,,,,,,,R,,,,,R,,,,,,,F,,R,,,,,,321,U1337,D,25,H,CC,
-321-U1337D-26H-CC,237.56,237.61,RN6,A,G,,,,,,R,R,,,,,,R,R,,R,,R,,,R,,,,,,,,,,,,R,,,,,R,,,,,,,F,,R,,,,,,321,U1337,D,26,H,CC,
-321-U1337D-27X-CC,239.88,239.93,RN6,R,G,,,,,,,,,,,,,,R,,R,,R,,,R,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,27,X,CC,
-321-U1337D-28H-CC,250.09,250.14,RN5,A,G,,,,,,R,R,,,,,,,F,,R,,,,,R,,,,,,,,,,,,,,,,,,R,,,,,,R,,R,,,,,,321,U1337,D,28,H,CC,
-321-U1337D-29H-CC,258.07,258.12,RN5,A,G,,,,,,,R,,,,,,,R,,F,,,,,R,,,,,,,,,,,,,R,,,,R,R,,,,,,F,,R,,,,,,321,U1337,D,29,H,CC,
-321-U1337D-30H-CC,267.04,267.09,RN5,A,M,,,,,,,R,,,,,,,R,,R,,,,,R,,,,,,,,,,,,,R,,,,R,R,,,,,,R,,R,,,,,,321,U1337,D,30,H,CC,
-321-U1337D-31X-CC,274.83,274.88,RN5,A,M,,,,,,,R,,,,,,,R,,R,,,,,R,,,,,,,,,,,,,,,R,,R,R,,,,,,R,,R,,,,,,321,U1337,D,31,X,CC,
-321-U1337D-32X-CC,282.47,282.52,RN5,A,M,,,,,,,,,R,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,32,X,CC,
-321-U1337D-33X-CC,295.44,295.49,RN5,A,M,,,,,,,,,R,,,,,R,,R,,,,,R,,,,,,,,,,,,,,,,,,R,,,,,,R,,R,,,,,,321,U1337,D,33,X,CC,
-321-U1337D-34X-CC,304.94,304.99,RN5,A,M,,R,,,,,,R,R,R,R,,,R,,R,,,,,R,R,,,,,,,,,,R,,,,R,,,,,,,,,R,,R,,,,,,321,U1337,D,34,X,CC,
-321-U1337D-35X-CC,312.97,313.02,RN4,A,M,,R,,,,R,,R,R,R,R,,,R,,R,,,,,R,R,,R,,,R,R,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,35,X,CC,
-321-U1337D-36X-CC,324,324.05,RN4,A,M,,R,,,,R,,R,R,R,R,,,R,,R,,,,,R,R,,,,,R,R,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,36,X,CC,
-321-U1337D-37X-CC,333.62,333.67,RN4,A,M,,R,,,,,,R,R,R,R,R,,R,,R,,,,,R,R,,R,,R,R,R,,,,,,,R,,,,R,,,,,,R,,R,,,,,,321,U1337,D,37,X,CC,
-321-U1337D-38X-CC,343.02,343.07,RN4,A,M,,,,,,,,R,R,R,,R,,R,,R,,,,,,,,R,,R,R,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,38,X,CC,
-321-U1337D-39X-CC,352.9,352.95,RN4,A,M,,,,,,,,R,R,R,,,,R,,R,,,,,,,,R,,,R,,,,,,,,,R,,,,,,,,,R,,,,,,,,321,U1337,D,39,X,CC,
-321-U1337D-40X-CC,362.48,362.53,RN 3,A,M,,,,,,,,,R,R,,R,,R,,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,40,X,CC,
-321-U1337D-41X-CC,372.01,372.06,RN2,A,M,,,,,,,,,,,,R,,R,,R,,,,,,,,,,R,R,,R,,,,,,,,,,,,,,,,R,,,,,,,,321,U1337,D,41,X,CC,
-321-U1337D-42X-CC,381.68,381.73,RN2,A,M,,,,,,,,,R,R,,,,R,,R,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,42,X,CC,
-321-U1337D-43X-CC,391.26,391.31,RN2,A,M,,,,,,,,,R,R,,,,R,,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,43,X,CC,
-321-U1337D-44X-CC,400.21,400.27,RN2,A,M,,,,,,,,,R,R,,R,,R,,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,44,X,CC,
-321-U1337D-45X-CC,410.19,410.24,RN2,A,M,,,,,,,,,R,,,,,R,,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,45,X,CC,
-321-U1337D-46X-CC,417.51,417.56,RN2,A,M,,,,,,,,,R,,,,,R,,R,,,,,,,,,,R,,,,,,,,,R,,,,,,,,,,,,,,,,,,321,U1337,D,46,X,CC,
-321-U1337D-47X-CC,423.86,423.89,RN2,A,M,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,321,U1337,D,47,X,CC,
-321-U1337D-48X-CC,435.33,435.54,RN2,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,321,U1337,D,48,X,CC,
+Sample,Top Depth [m],Bottom Depth [m],Radiolarian zone/subzone,Abundance,Preservation,Mixing,Acrocubus octopylus,Amphirhopalum ypsilon,Anthocyrtidium angulare,Anthocyrtidum pliocenica,Botryostrobus miralestensis,Calocycletta caepa,Calocycletta costata,Calocycletta robusta,Calocycletta virginis,Carpocanopsis bramlettei,Carpocanopsis cingulata,Carpocanopsis cristata,Cyrtocapsella cornuta,Cyrtocapsella japonica,Cyrtocapsella tetrapera,Diartus hughesi,Diartus petterssoni,Didymocyrtis antipenultima,Didymocyrtis avita,Didymocyrtis laticonus,Didymocyrtis mammifera,Didymocyrtis penultima,Didymocyrtis prismatica,Didymocyrtis tetratharamus,Didymocyrtis tubaria,Didymocyrtis violina,Dorcadospyris dentata,Dorcadospyris forcipata,Lamaprocyrtis heteroporos,Lamaprocyrtis nigriniae,Liriospyris parkerae,Lithopera neotera,Lithopera renzae,Lychnocanoma elongata,Lychnodictyum audax,Nephrospyris renila,Phormostichoartus doliolum,Phormostichoartus fistula,Pterocanium prismatium,Solenosphaera omnitubus,Spongaster berminghami,Spongaster pentas,Spongaster tetras tetras,Stichocorys delmontensis,Stichocorys pergrina,Stichocorys wolffii,Stylatractus universus,Theocorythium trachelium,Theocorythium vetulum,Top [cm],Bottom [cm],Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
+321-U1337D-1H-CC,7.93,7.98,RN14,C,M,,,R,,,,,,,,,,,,,,,,,,,,,,R,,,,,,R,,,,,,,,,,,,,C,,,,R,,,,,321,U1337,D,1,H,CC,,7337634a676ff38763fedcc0210c7117
+321-U1337D-2H-CC,16.6,16.68,RN13,A,M,,,R,R,,,,,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,,,C,,,,R,R,R,,,321,U1337,D,2,H,CC,,b928c3cc693648721e0bae9d48e07085
+321-U1337D-3H-CC,27.19,27.24,RN12b,A,M,,,R,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,,,,R,,,,C,,,,R,,R,,,321,U1337,D,3,H,CC,,7911bb02d411632bee10e1460d8a1188
+321-U1337D-4H-CC,35.64,35.7,RN12b,A,M,,,R,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,R,,,R,,,,F,,,,,,R,,,321,U1337,D,4,H,CC,,2686e4a77a695f3260479cb588ed69f8
+321-U1337D-5H-CC,46.39,46.44,RN 11b,A,M,,,R,,,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,R,,,F,,,,R,,C,,,,R,,,321,U1337,D,5,H,CC,,ea0ac12f67251c9506411e00e8cb59ad
+321-U1337D-6H-CC,55.25,55.28,RN 11a,A,M,,,R,,R,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,,R,,R,F,,,,F,,C,,R,,R,,,321,U1337,D,6,H,CC,,99c17a6615818068d5adcf276fb7be51
+321-U1337D-7H-CC,65.14,65.19,RN 10,A,M,,,,,R,,,,,,,,,,,,,,,R,,,,,R,,,,,,,,,,,R,R,R,,F,,,,R,,F,,,,,,,321,U1337,D,7,H,CC,,f5f59975e79a01a0b47630bc4f904fce
+321-U1337D-8H-CC,73.66,73.71,RN9,A,M,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,,,,,,,R,R,R,R,,,R,,,R,,,,R,,,321,U1337,D,8,H,CC,,4401fc2aeee416b71e5166dab679ae19
+321-U1337D-9H-CC,84.06,84.11,RN9,A,M,,,,,F,,,,,,,,,,,,,,,R,,,R,,R,,,,,,,,,,,,R,R,R,R,R,,R,,,R,,,,R,,,321,U1337,D,9,H,CC,,a6ed69552038593a45d8b39c23d4025f
+321-U1337D-10H-CC,93.79,93.84,RN9,A,M,,,,,R,,,,,,,,,,,,,,,R,,,F,,R,,,,,,,,,,,,,R,R,,,R,R,,,F,,,,,,,321,U1337,D,10,H,CC,,d1d5b7d6d55c71b8e7b39ad5c4cbadbb
+321-U1337D-11H-CC,103.5,103.55,RN9,A,M,,,,,R,,,,,,,,,,,,,,,,,,R,,R,,,,,,,,,,,,,R,R,,R,R,,,,F,,,,,,,321,U1337,D,11,H,CC,,ed8e0a68736400accbd9d4d9515f75ec
+321-U1337D-12H-CC,112.43,112.48,RN9,A,M,,,,,R,,R,,,,,,,,,,,,R,,,,R,,R,,,,,,,,,,,R,,R,R,,R,R,,,F,C,,,,,,,321,U1337,D,12,H,CC,,8402a8f1649965d524273c2632b95016
+321-U1337D-13H-CC,122.45,122.5,RN9,A,G,,,,,R,,,,,,,,,,,,,,R,,,,R,,,,,,,,,,,,,R,,R,R,,R,R,,,F,F,,,,,,,321,U1337,D,13,H,CC,,f30ceeb4dc980cf2d774ad13027b34cf
+321-U1337D-14H-CC,131.14,131.35,RN 8,A,G,,,,,R,,R,,,,,,,,,,,,R,,,,R,,,,,,,,,,,,,,,R,R,,,,,,F,,,,,,,,321,U1337,D,14,H,CC,,05d61b74cfb11bb279e0b312c77b6dca
+321-U1337D-15H-CC,141.53,141.58,RN7,A,G,,,,,,,R,,,,,,,,,,R,,R,,R,,,,,,,,,,,,,,,,,R,,,,R,,,F,,,,,,,,321,U1337,D,15,H,CC,,a0ee1c01c5a3ed687db5fa8089be7438
+321-U1337D-16H-CC,150.25,150.3,RN7,A,G,,,,,R,,R,,,,,,,,,,R,,R,,R,,,,,,,,,,,,,,,R,,R,,,,,,,F,,,,,,,,321,U1337,D,16,H,CC,,ec0887716082fdf76da1bcfeb94173e3
+321-U1337D-17H-CC,160.51,160.56,RN7,A,G,,,,,,R,R,,,,,,,,,,R,,R,,R,,,,,,,,,,,,,,,,,R,,,,,,,F,,,,,,,,321,U1337,D,17,H,CC,,81979ab98641509d5cf51ac99d628c5e
+321-U1337D-18H-CC,169.92,169.97,RN6,A,M,,,,,,R,R,,,,,,,,,,,F,R,,R,,,,,,,,,,,,,,,,,R,,,,,,,C,,R,,,,,,321,U1337,D,18,H,CC,,82b83fb01126b86feed2588c1ee709a1
+321-U1337D-19H-CC,179.4,179.45,RN6,A,M,,,,,,R,R,,,,,,,,,,,F,,,R,,,,,,,,,,,,,,,R,,R,R,,,,,,C,,R,,,,,,321,U1337,D,19,H,CC,,6fce9f06afeb2b2c11587836d3251520
+321-U1337D-20H-CC,189.01,189.06,RN6,A,M,,,,,,R,R,,,,,,,,F,,,F,,,R,,,,,,,,,,,,,,,,,R,R,,,,,,C,,R,,,,,,321,U1337,D,20,H,CC,,e72b4657fbd81ed02b95cf817a94acd1
+321-U1337D-21H-CC,195.17,195.21,RN6,R,G,,,,,,R,,,,,,,,,,,,R,,,R,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,21,H,CC,,3fde03ca4e86818f4cec9bdddcaa369d
+321-U1337D-22H-CC,199.71,199.76,RN6,A,G,,,,,,R,R,,,,,,,,R,,,R,,,R,,,,,,,,,,,,,,,R,,R,R,,,,,,F,,R,,,,,,321,U1337,D,22,H,CC,,1148d394b920f175079a94dbfbe00cfd
+321-U1337D-23H-CC,209.54,209.59,RN6,A,G,,,,,,R,R,,,,,,R,,R,,,R,,,R,,,,,,,,,,,,,,,R,,,R,,,,,,F,,R,,,,,,321,U1337,D,23,H,CC,,4c17336b61f7d1d858b428fbb8d53381
+321-U1337D-24H-CC,219.4,219.45,RN6,A,G,,,,,,R,R,,,,,,R,,R,,,R,,,R,,,,,,,,,,,,R,,,,,R,R,,,,,,F,,R,,,,,,321,U1337,D,24,H,CC,,2acef0c6370076b2684ab2e6d0de1a1a
+321-U1337D-25H-CC,228.24,228.29,RN6,A,G,,,,,,R,R,,,,,,,R,R,,,R,,,R,,,,,,,,,,,,R,,,,,R,,,,,,,F,,R,,,,,,321,U1337,D,25,H,CC,,0f0b36d36475b3ffef29e9f31952d702
+321-U1337D-26H-CC,237.56,237.61,RN6,A,G,,,,,,R,R,,,,,,R,R,,R,,R,,,R,,,,,,,,,,,,R,,,,,R,,,,,,,F,,R,,,,,,321,U1337,D,26,H,CC,,7f466f669ae0215aec681436bd6515d4
+321-U1337D-27X-CC,239.88,239.93,RN6,R,G,,,,,,,,,,,,,,R,,R,,R,,,R,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,27,X,CC,,05d3484011bd6c29330716c265ee7db1
+321-U1337D-28H-CC,250.09,250.14,RN5,A,G,,,,,,R,R,,,,,,,F,,R,,,,,R,,,,,,,,,,,,,,,,,,R,,,,,,R,,R,,,,,,321,U1337,D,28,H,CC,,004b237b4267c759686116bb3d5aba5c
+321-U1337D-29H-CC,258.07,258.12,RN5,A,G,,,,,,,R,,,,,,,R,,F,,,,,R,,,,,,,,,,,,,R,,,,R,R,,,,,,F,,R,,,,,,321,U1337,D,29,H,CC,,5f33618049a382602ae862a015dbe432
+321-U1337D-30H-CC,267.04,267.09,RN5,A,M,,,,,,,R,,,,,,,R,,R,,,,,R,,,,,,,,,,,,,R,,,,R,R,,,,,,R,,R,,,,,,321,U1337,D,30,H,CC,,cbe75c81f25f4ac825cf4ac1181179b4
+321-U1337D-31X-CC,274.83,274.88,RN5,A,M,,,,,,,R,,,,,,,R,,R,,,,,R,,,,,,,,,,,,,,,R,,R,R,,,,,,R,,R,,,,,,321,U1337,D,31,X,CC,,9bf6b23df8fe9a510431d9b1cb4e7d1e
+321-U1337D-32X-CC,282.47,282.52,RN5,A,M,,,,,,,,,R,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,32,X,CC,,7cbee03100734720abb5a2bb186d4ed1
+321-U1337D-33X-CC,295.44,295.49,RN5,A,M,,,,,,,,,R,,,,,R,,R,,,,,R,,,,,,,,,,,,,,,,,,R,,,,,,R,,R,,,,,,321,U1337,D,33,X,CC,,1ff8b0ce9f7436d3f2e065a551e63b4f
+321-U1337D-34X-CC,304.94,304.99,RN5,A,M,,R,,,,,,R,R,R,R,,,R,,R,,,,,R,R,,,,,,,,,,R,,,,R,,,,,,,,,R,,R,,,,,,321,U1337,D,34,X,CC,,f0d78ead6ca252cd26bd10c41e902d16
+321-U1337D-35X-CC,312.97,313.02,RN4,A,M,,R,,,,R,,R,R,R,R,,,R,,R,,,,,R,R,,R,,,R,R,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,35,X,CC,,a5de4c954ba36c7ada9cbda38ca623be
+321-U1337D-36X-CC,324,324.05,RN4,A,M,,R,,,,R,,R,R,R,R,,,R,,R,,,,,R,R,,,,,R,R,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,36,X,CC,,7ed30cc8a105969a7e04fb5430407c99
+321-U1337D-37X-CC,333.62,333.67,RN4,A,M,,R,,,,,,R,R,R,R,R,,R,,R,,,,,R,R,,R,,R,R,R,,,,,,,R,,,,R,,,,,,R,,R,,,,,,321,U1337,D,37,X,CC,,bd582cb23ffdb9a83d80a25fee2328c7
+321-U1337D-38X-CC,343.02,343.07,RN4,A,M,,,,,,,,R,R,R,,R,,R,,R,,,,,,,,R,,R,R,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,38,X,CC,,ec271b238280eeebab12ed67a73dbcd9
+321-U1337D-39X-CC,352.9,352.95,RN4,A,M,,,,,,,,R,R,R,,,,R,,R,,,,,,,,R,,,R,,,,,,,,,R,,,,,,,,,R,,,,,,,,321,U1337,D,39,X,CC,,ed9e973f23b500c7b19c5f7521a750d8
+321-U1337D-40X-CC,362.48,362.53,RN 3,A,M,,,,,,,,,R,R,,R,,R,,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,R,,R,,,,,,321,U1337,D,40,X,CC,,fd220c3c43732fca71527347036a3036
+321-U1337D-41X-CC,372.01,372.06,RN2,A,M,,,,,,,,,,,,R,,R,,R,,,,,,,,,,R,R,,R,,,,,,,,,,,,,,,,R,,,,,,,,321,U1337,D,41,X,CC,,99dca77e5fa41f98909072e1e1491add
+321-U1337D-42X-CC,381.68,381.73,RN2,A,M,,,,,,,,,R,R,,,,R,,R,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,42,X,CC,,33c16825934bb88ee69573c09919d808
+321-U1337D-43X-CC,391.26,391.31,RN2,A,M,,,,,,,,,R,R,,,,R,,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,43,X,CC,,dd125f08ca253146e1d7a0f76b90f20e
+321-U1337D-44X-CC,400.21,400.27,RN2,A,M,,,,,,,,,R,R,,R,,R,,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,44,X,CC,,7c649d78e47d9682392481b133e453ce
+321-U1337D-45X-CC,410.19,410.24,RN2,A,M,,,,,,,,,R,,,,,R,,R,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,321,U1337,D,45,X,CC,,cd0bd778e9114ec5cf24b105505267b5
+321-U1337D-46X-CC,417.51,417.56,RN2,A,M,,,,,,,,,R,,,,,R,,R,,,,,,,,,,R,,,,,,,,,R,,,,,,,,,,,,,,,,,,321,U1337,D,46,X,CC,,257e9b15c2b73b6711079714990bb6f7
+321-U1337D-47X-CC,423.86,423.89,RN2,A,M,,,,,,,,,,,,,,R,,,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,321,U1337,D,47,X,CC,,6c079e371d9a526ec10fbf68d3c88c8e
+321-U1337D-48X-CC,435.33,435.54,RN2,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,321,U1337,D,48,X,CC,,d3273395f8eaea491ef63438bbb40cf4

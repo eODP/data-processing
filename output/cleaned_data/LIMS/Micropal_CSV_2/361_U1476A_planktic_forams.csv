@@ -1,166 +1,166 @@
-Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Datum name,Zone name (short),Zone name,Group abundance,Beella digitata,Dentoglobigerina altispira,Globigerina bulloides,Globigerina falconensis,Globigerina glutinata,Globigerinella calida,Globigerinella obesa,Globigerinella siphonifera,Globigerinoides conglobatus,Globigerinoides extremus,Globigerinoides fistulosus,Globigerinoides obliquus,Globigerinoides ruber (pink),Globigerinoides ruber (white),Globigerinoides sacculifer,Globoquadrina venezuelana,Globorotalia conoidea,Globorotalia conomiozea,Globorotalia crassaformis,Globorotalia crassula,Globorotalia flexuosa,Globorotalia hirsuta (dex),Globorotalia inflata,Globorotalia limbata,Globorotalia margaritae,Globorotalia menardii,Globorotalia merotumida,Globorotalia multicamerata,Globorotalia plesiotumida,Globorotalia pliozea,Globorotalia pseudomiocenica,Globorotalia puncticulata,Globorotalia scitula,Globorotalia sphericomiozea,Globorotalia tosaensis,Globorotalia truncatulinoides,Globorotalia tumida,Globorotaloides hexagona,"Globoturborotalita apertura (Cushman, 1918)",Globoturborotalita decoraperta,Globoturborotalita nepenthes,Globoturborotalita rubescens,"Globoturborotalita woodi (Jenkins, 1960)",Neogloboquadrina acostaensis,Neogloboquadrina dutertrei,Neogloboquadrina humerosa,Neogloboquadrina pachyderma (dextral),Neogloboquadrina pachyderma (sinistral),Orbulina universa,Pulleniatina obliquiloculata,Pulleniatina primalis,Sphaeroidinella dehiscens,Sphaeroidinellopsis kochi,Sphaeroidinellopsis seminulina,Tenuitella anfracta,preservation,File Data,Ship File Links,Shore File Links,Sample
-361,U1476,A,1,1-1,H,1,W,70/72-FORAM,0,2,0.7,0.72,,,,A,,,,,P,R,P,P,,,,,,P,P,,,,P,,R,,,,,R,,,,,,,P,,,R,F,,,,,R,,,R,,,,P,R,,,,,,,,,,361-U1476A-1H-1-W 70/72-FORAM
-361,U1476,A,1,1-2,H,2,W,70/72-FORAM,0,2,2.2,2.22,,,,A,,,,,P,R,P,P,,,,,,P,P,,,,R,,,,,,,P,,,,,,,P,,,R,R,,,,,R,,,R,,,,P,R,,,,,,,,,,361-U1476A-1H-2-W 70/72-FORAM
-361,U1476,A,1,1-3,H,3,W,80/82-FORAM,0,2,3.8,3.82,,,,A,,,,,P,R,P,P,,,,,F,P,P,,,,R,,,,,,,P,,,,,,,P,,,R,R,,,,,R,,,R,,,,P,R,,,,,,,,,,361-U1476A-1H-3-W 80/82-FORAM
-361,U1476,A,1,1-4,H,4,FORAM,,0,2,5.2,5.22,,,,A,,,,,P,R,P,P,,,,,R,P,P,,,,R,,,,,,,P,,,,,,,P,,,A,F,,,,,R,,,F,,,,P,F,,,,,,,,,,361-U1476A-1H-4-FORAM
-361,U1476,A,1,1-CC,H,CC,PAL,FORAM,0,5,5.67,5.72,,,,A,,,,,R,R,F,A,F,,,,R,A,A,,,,F,,A,,,,,P,,,,,,,R,,,A,A,,,,,,,,F,P,,,A,F,,R,,,,,,,,361-U1476A-1H-CC-PAL-FORAM
-361,U1476,A,2,2-1,H,1,W,70/72-FORAM,0,2,6.4,6.42,,,,A,,,,,P,,P,P,,,,,R,P,P,,,,R,,R,,,,,P,,,,,,,R,,,,F,,,,,,,,F,,,,P,R,,,,,,,,,,361-U1476A-2H-1-W 70/72-FORAM
-361,U1476,A,2,2-2,H,2,W,70/72-FORAM,0,2,7.9,7.92,,,,A,,,,,P,,P,P,P,,,,R,P,P,,,,P,,R,,,,,P,,,,,,,P,,,R,F,,,,,R,,,F,,,,P,F,,R,,,,,,,,361-U1476A-2H-2-W 70/72-FORAM
-361,U1476,A,2,2-3,H,3,W,70/72-FORAM,0,2,9.4,9.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,,,,F,,,,,,,P,,,F,F,,,,,,,,R,,,,P,R,,R,,,,,,,,361-U1476A-2H-3-W 70/72-FORAM
-361,U1476,A,2,2-4,H,4,W,70/72-FORAM,0,2,10.9,10.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,F,F,,,,,,,,F,,,,P,F,,R,,,,,,,,361-U1476A-2H-4-W 70/72-FORAM
-361,U1476,A,2,2-5,H,5,W,70/72-FORAM,0,2,12.4,12.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,R,A,,,,,R,,,A,,,,P,F,,R,,,,,,,,361-U1476A-2H-5-W 70/72-FORAM
-361,U1476,A,2,2-6,H,6,W,70/72-FORAM,0,2,13.9,13.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,R,F,,,,,R,,,F,,,,P,F,,R,,,,,,,,361-U1476A-2H-6-W 70/72-FORAM
-361,U1476,A,2,2-CC,H,CC,PAL,FORAM,0,5,15.39,15.44,,,,A,P,,,R,,,F,A,R,,,,,A,A,,,,F,,,,R,,,P,,,,,,,R,,,F,F,,,,,F,,,F,P,,,A,F,,R,,,,,,,,361-U1476A-2H-CC-PAL-FORAM
-361,U1476,A,3,3-1,H,1,W,70/72-FORAM,0,2,15.9,15.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,R,R,F,,,,,,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-1-W 70/72-FORAM
-361,U1476,A,3,3-2,H,2,W,60/62-FORAM,0,2,17.3,17.32,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,R,R,R,,,,,,,,F,,,,P,R,,P,,,,,,,,361-U1476A-3H-2-W 60/62-FORAM
-361,U1476,A,3,3-3,H,3,W,70/72-FORAM,0,2,18.9,18.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,P,,R,,,F,,,,,,,,,R,R,R,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-3-W 70/72-FORAM
-361,U1476,A,3,3-4,H,4,W,70/72-FORAM,0,2,20.4,20.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,R,,R,,R,,,P,,,,,,,P,,R,R,F,,,,,,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-4-W 70/72-FORAM
-361,U1476,A,3,3-5,H,5,W,60/62-FORAM,0,2,21.8,21.82,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,R,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-5-W 60/62-FORAM
-361,U1476,A,3,3-6,H,6,W,70/72-FORAM,0,2,23.4,23.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,F,,,,,R,,,P,,,,P,P,,P,,,,,,,,361-U1476A-3H-6-W 70/72-FORAM
-361,U1476,A,3,3-CC,H,CC,PAL,FORAM,0,5,24.96,25.01,,,,A,,,,R,F,,F,F,R,,P,,,A,A,,,,,,,,,,,P,,,,,,,R,,F,R,F,,,,,R,,,F,,R,,A,F,,R,,,,,,,,361-U1476A-3H-CC-PAL-FORAM
-361,U1476,A,4,4-1,H,1,W,70/72-FORAM,0,2,25.4,25.42,,,,A,,,,,P,,P,P,P,,P,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,R,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-4H-1-W 70/72-FORAM
-361,U1476,A,4,4-2,H,2,W,60/62-FORAM,0,2,26.8,26.82,,,,A,,,,,P,,P,P,P,,P,,,P,P,,,,,,,,,,,P,,,,,,,,,R,F,A,,,,,,,,F,,,,P,P,,F,,,,,,,,361-U1476A-4H-2-W 60/62-FORAM
-361,U1476,A,4,4-3,H,3,W,70/72-FORAM,0,2,28.4,28.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,,,,,,,,F,,,,,,,P,,F,R,A,,,,,R,,,A,,,,P,P,,F,,,,,,,,361-U1476A-4H-3-W 70/72-FORAM
-361,U1476,A,4,4-4,H,4,W,70/72-FORAM,0,2,29.9,29.92,,,,A,,,,,P,P,P,P,P,,P,,,A,D,,,,,,R,,,,,P,,,,,,,P,,F,R,A,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-4H-4-W 70/72-FORAM
-361,U1476,A,4,4-5,H,5,W,70/72-FORAM,0,2,31.4,31.42,,,,A,,,,P,P,,P,P,P,,,,,P,P,,,,,,R,,,,,P,,,,,,,P,,F,R,F,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-4H-5-W 70/72-FORAM
-361,U1476,A,4,4-6,H,6,W,60/62-FORAM,0,2,32.8,32.82,,,,A,,,,P,P,,P,P,P,,,,,P,P,,,,,,R,,P,,,P,,,,,,,P,,R,R,F,P,,,,R,,R,F,,R,,P,P,,P,,,,,,,,361-U1476A-4H-6-W 60/62-FORAM
-361,U1476,A,4,4-CC,H,CC,PAL,FORAM,0,5,34.52,34.57,,,,A,,,,R,F,R,F,F,F,,,,,D,F,,,,,,,,,,,P,,,,,,R,R,,F,P,R,R,,,,R,,,R,,R,,F,F,,F,,,,,,,,361-U1476A-4H-CC-PAL-FORAM
-361,U1476,A,5,5-1,H,1,W,70/72-FORAM,0,2,34.9,34.92,,,,A,,,R,P,P,P,P,P,P,,P,,,P,P,,,,,,,,P,,,P,,,,,,,P,,F,R,R,P,R,,,R,,R,R,,R,,P,P,,P,,,,,,,,361-U1476A-5H-1-W 70/72-FORAM
-361,U1476,A,5,5-2,H,2,W,70/72-FORAM,0,2,36.4,36.42,,,,A,,,P,P,P,,P,P,P,,,,,P,P,,,,,,,,P,,,P,,,,,,,P,,F,R,F,P,R,,,R,,,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-2-W 70/72-FORAM
-361,U1476,A,5,5-3,H,3,W,70/72-FORAM,0,2,37.9,37.92,,,,A,,,P,P,P,,P,P,P,,R,,,P,P,,,,,,,,,,,F,,,,,,,P,,F,R,R,P,R,,,R,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-3-W 70/72-FORAM
-361,U1476,A,5,5-4,H,4,W,70/72-FORAM,0,2,39.4,39.42,,,,A,,,,,P,,P,P,P,,R,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,R,P,R,,,P,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-4-W 70/72-FORAM
-361,U1476,A,5,5-5,H,5,W,60/62-FORAM,0,2,40.8,40.82,,,,A,,,,,P,,P,P,P,R,R,,,P,P,,,,,,,,,,,P,,,,,,,P,,F,R,F,P,,,,,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-5-W 60/62-FORAM
-361,U1476,A,5,5-6,H,6,W,70/72-FORAM,0,2,42.4,42.42,,,,A,,,,,P,P,P,P,P,R,R,,,P,P,,,,,,,,R,,,P,,,,,,,P,,F,F,F,,,,,,,R,,,,,F,R,,F,,,,,,,,361-U1476A-5H-6-W 70/72-FORAM
-361,U1476,A,5,5-CC,H,CC,PAL,FORAM,0,5,44.02,44.07,,,,A,,,R,,F,,F,F,F,R,F,,,D,A,,,,,,,,R,,,P,,,,,,,R,,R,R,R,R,R,,,,,R,R,,,,F,R,,F,,,,,,,,361-U1476A-5H-CC-PAL-FORAM
-361,U1476,A,6,6-1,H,1,W,70/72-FORAM,0,2,44.4,44.42,,,,A,,,,,P,,P,P,R,R,F,,,P,P,,,,,,,,P,,,P,,,,,,,R,,R,R,F,R,,,,,,R,F,,,,P,P,,P,,,,,,,,361-U1476A-6H-1-W 70/72-FORAM
-361,U1476,A,6,6-2,H,2,W,70/72-FORAM,0,2,45.9,45.92,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,R,R,R,,,,,,R,P,,,,P,P,,F,,,,,,,,361-U1476A-6H-2-W 70/72-FORAM
-361,U1476,A,6,6-3,H,3,W,70/72-FORAM,0,2,47.4,47.42,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,R,,,,P,,,F,,,,,,,R,,P,,R,R,,,,,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-6H-3-W 70/72-FORAM
-361,U1476,A,6,6-4,H,4,W,70/72-FORAM,0,2,48.9,48.92,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,R,,,,,,,P,,,,,,,P,,,,F,P,,,,,,R,P,P,,,P,P,,P,,,,,,,,361-U1476A-6H-4-W 70/72-FORAM
-361,U1476,A,6,6-5,H,5,W,60/62-FORAM,0,2,50.3,50.32,,,,A,P,,,P,P,,P,P,P,R,R,,,P,P,,,,P,,,,,,,P,,,,,,,P,,R,,F,R,,,,,R,R,R,P,,,P,P,,P,,,,,,,,361-U1476A-6H-5-W 60/62-FORAM
-361,U1476,A,6,6-6,H,6,W,70/72-FORAM,0,2,51.9,51.92,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,P,,P,,,,,P,,R,,,F,,R,,,,R,R,R,,,,R,R,,P,P,,P,P,,P,,,,,,,,361-U1476A-6H-6-W 70/72-FORAM
-361,U1476,A,6,6-CC,H,CC,PAL,FORAM,0,5,53.44,53.49,,,,A,R,,R,R,F,,F,R,F,R,R,,,D,F,,,,R,,,,R,,,P,,R,,,F,,R,,,,R,R,R,,,,R,R,,F,R,,F,F,,F,,,,,,,,361-U1476A-6H-CC-PAL-FORAM
-361,U1476,A,7,7-1,H,1,W,70/72-FORAM,0,2,53.9,53.92,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,P,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-1-W 70/72-FORAM
-361,U1476,A,7,7-2,H,2,W,60/62-FORAM,0,2,55.3,55.32,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,P,P,,P,,P,,,P,,P,,P,,P,P,,,,P,P,P,P,,P,,P,P,,P,,,,,,,,361-U1476A-7H-2-W 60/62-FORAM
-361,U1476,A,7,7-3,H,3,W,70/72-FORAM,0,2,56.9,56.92,,,,A,,,,,,,P,P,P,P,P,,,P,P,,,,,,,,,P,,F,,P,,,P,,P,,P,,P,P,,,,P,P,P,P,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-3-W 70/72-FORAM
-361,U1476,A,7,7-4,H,4,W,60/62-FORAM,0,2,58.3,58.32,,,,A,,,P,,,,P,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-4-W 60/62-FORAM
-361,U1476,A,7,7-5,H,5,W,70/72-FORAM,0,2,59.9,59.92,,,,A,P,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,P,P,P,P,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-5-W 70/72-FORAM
-361,U1476,A,7,7-6,H,6,W,70/72-FORAM,0,2,61.4,61.42,,,,A,,,,P,P,,,P,P,P,P,,,P,P,,,,P,,,,P,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-7H-6-W 70/72-FORAM
-361,U1476,A,7,7-CC,H,CC,PAL,FORAM,0,5,63.03,63.08,,,,A,,,,,F,,R,F,F,R,F,,,A,A,,,,,,,,,,,F,,F,,,F,,R,,,P,R,R,R,,,,R,R,,R,,,F,F,,F,,,,,,,,361-U1476A-7H-CC-PAL-FORAM
-361,U1476,A,8,8-1,H,1,W,70/72-FORAM,0,2,63.4,63.42,,,,A,,,,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,P,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-8H-1-W 70/72-FORAM
-361,U1476,A,8,8-2,H,2,W,70/72-FORAM,0,2,64.9,64.92,,,,A,,,P,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,P,,P,,P,P,,P,,,,,,,,361-U1476A-8H-2-W 70/72-FORAM
-361,U1476,A,8,8-3,H,3,W,70/72-FORAM,0,2,66.4,66.42,,,,A,,,,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-8H-3-W 70/72-FORAM
-361,U1476,A,8,8-4,H,4,W,70/72-FORAM,0,2,67.9,67.92,,,,A,,,,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-8H-4-W 70/72-FORAM
-361,U1476,A,8,8-5,H,5,W,70/72-FORAM,0,2,69.4,69.42,,,,A,P,,,,P,,P,P,P,P,,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,,,,P,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-8H-5-W 70/72-FORAM
-361,U1476,A,8,8-6,H,6,W,70/72-FORAM,0,2,70.9,70.92,,,,A,,,P,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,P,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-8H-6-W 70/72-FORAM
-361,U1476,A,8,8-CC,H,CC,FORAM,,0,5,72.26,72.31,,,,A,,,,,F,,R,F,F,R,F,,,A,A,,,,,,,,,,,F,,R,,,F,,R,,,,R,R,R,,,,R,R,R,R,,,F,R,,F,,,,,,,,361-U1476A-8H-CC-FORAM
-361,U1476,A,9,9-1,H,1,W,70/72-FORAM,0,2,72.9,72.92,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,P,P,P,,,P,,,P,,P,,,,,,,,361-U1476A-9H-1-W 70/72-FORAM
-361,U1476,A,9,9-2,H,2,W,70/72-FORAM,0,2,74.4,74.42,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-9H-2-W 70/72-FORAM
-361,U1476,A,9,9-3,H,3,W,70/72-FORAM,0,2,75.9,75.92,,,,A,,,,,,,,P,P,P,P,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,P,,,,P,P,P,,P,,P,P,,P,,,,,,,,361-U1476A-9H-3-W 70/72-FORAM
-361,U1476,A,9,9-4,H,4,W,70/72-FORAM,0,2,77.4,77.42,,,,A,,,,,,,,P,P,P,P,,,P,P,,,,P,,,,,P,,P,,P,,,P,,P,,P,,P,P,P,,,,P,P,,,P,,,P,,P,,,,,,,,361-U1476A-9H-4-W 70/72-FORAM
-361,U1476,A,9,9-5,H,5,W,70/72-FORAM,0,2,78.9,78.92,,,,A,,,,,,,,P,P,P,R,,,P,P,,,,P,,,,,,,P,,R,,,F,,R,,F,,R,R,R,,,,R,R,,R,R,,P,P,,P,,,,,,,,361-U1476A-9H-5-W 70/72-FORAM
-361,U1476,A,9,9-6,H,6,W,70/72-FORAM,0,2,80.4,80.42,,,,A,,F,,,,,,P,P,P,F,,,P,P,,,,P,,,,,,,R,,R,,,R,,R,,R,,R,R,R,,,,,R,,R,R,,P,P,,P,,,,,,,,361-U1476A-9H-6-W 70/72-FORAM
-361,U1476,A,9,9-CC,H,CC,PAL,FORAM,0,5,82.17,82.22,,,,A,,F,,,F,,,F,F,R,P,,,A,A,,,,R,,,,R,,,F,,R,,,R,,,,,,R,R,R,,,,R,R,,R,R,,F,R,,F,,,,,,,,361-U1476A-9H-CC-PAL-FORAM
-361,U1476,A,10,10-1,H,1,W,70/72-FORAM,0,2,82.4,82.42,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,,,P,,P,,,,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-1-W 70/72-FORAM
-361,U1476,A,10,10-2,H,2,W,70/72-FORAM,0,2,83.9,83.92,,,,A,,P,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,,,F,,P,,,,,,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-10H-2-W 70/72-FORAM
-361,U1476,A,10,10-3,H,3,W,70/72-FORAM,0,2,85.4,85.42,,,,A,,P,,,,,,P,P,P,P,,,P,P,,,,P,,,,,,,R,,P,,,,,,,,,,,P,,,,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-3-W 70/72-FORAM
-361,U1476,A,10,10-4,H,4,W,70/72-FORAM,0,2,86.9,86.92,,,,A,,P,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,,,F,,P,,,,,P,,,,P,,P,,,,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-4-W 70/72-FORAM
-361,U1476,A,10,10-5,H,5,W,70/72-FORAM,0,2,88.4,88.42,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,F,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-10H-5-W 70/72-FORAM
-361,U1476,A,10,10-6,H,6,FORAM,,0,2,89.9,89.92,,,,A,,P,,,,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,,,,,,,,,P,,,,P,,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-6-FORAM
-361,U1476,A,10,10-CC,H,CC,PAL,FORAM,0,5,91.58,91.63,,,,A,,F,R,,F,,R,R,F,R,P,,,D,A,,,,R,,,,,R,,R,,R,,,R,,R,,,,R,R,,,,,,R,,R,R,R,F,R,,F,,,,,,,,361-U1476A-10H-CC-PAL-FORAM
-361,U1476,A,11,11-1,H,1,W,70/72-FORAM,0,2,91.9,91.92,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-11H-1-W 70/72-FORAM
-361,U1476,A,11,11-2,H,2,W,70/72-FORAM,0,2,93.4,93.42,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-11H-2-W 70/72-FORAM
-361,U1476,A,11,11-3,H,3,W,70/72-FORAM,0,2,94.9,94.92,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-11H-3-W 70/72-FORAM
-361,U1476,A,11,11-4,H,4,W,70/72-FORAM,0,2,96.4,96.42,,,,A,,P,,,,,P,P,P,P,,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,P,,,R,,,,,,361-U1476A-11H-4-W 70/72-FORAM
-361,U1476,A,11,11-5,H,5,W,70/72-FORAM,0,2,97.9,97.92,,,,A,,P,,P,P,,P,P,P,P,,P,,P,P,,,,P,,,,,P,,,,,,,P,,P,,,,P,P,P,,,,,,,P,,,P,,P,R,,R,,,,,,361-U1476A-11H-5-W 70/72-FORAM
-361,U1476,A,11,11-6,H,6,W,70/72-FORAM,0,2,99.4,99.42,,,,A,,P,,P,P,,,P,P,P,,P,,P,P,,,,,,P,,,P,,,,P,,,P,,,,,,P,,,,,,P,P,,,P,,P,,,P,,P,,,,,,361-U1476A-11H-6-W 70/72-FORAM
-361,U1476,A,11,11-CC,H,CC,PAL,FORAM,0,5,101.14,101.19,,,,A,,R,R,R,F,,R,R,R,R,,R,,,A,,,,P,,,,,R,,R,,R,P,,R,,,,,,R,F,R,,,,R,,,R,R,,F,,R,F,,R,,,,,,361-U1476A-11H-CC-PAL-FORAM
-361,U1476,A,12,12-1,H,1,W,70/72-FORAM,0,2,101.4,101.42,,,,A,,P,P,P,P,,,P,P,P,,P,,,P,,,,,,,,,P,,,,P,,,P,,,,,,P,P,P,,,,P,,,,P,,P,,P,,,P,,,,,,361-U1476A-12H-1-W 70/72-FORAM
-361,U1476,A,12,12-2,H,2,W,70/72-FORAM,0,2,102.9,102.92,,,,A,,P,P,,P,,,P,P,P,,P,,,P,,,,,,,,,P,,P,,P,,,P,,,,,,P,P,,,,,P,,P,P,P,,P,,P,,,P,,,,,,361-U1476A-12H-2-W 70/72-FORAM
-361,U1476,A,12,12-3,H,3,W,70/72-FORAM,0,2,104.4,104.42,,,,A,,,,,,,,P,P,P,,P,,,P,,,,,,,,,P,,P,,P,,,P,,,,,,P,,,,,,P,P,,P,P,,P,,P,P,,P,,,,,,361-U1476A-12H-3-W 70/72-FORAM
-361,U1476,A,12,12-4,H,4,W,70/72-FORAM,0,2,105.9,105.92,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,P,,P,,P,,,P,,,,,,P,,P,,,,P,,,P,P,,P,,P,,P,P,,,,,,361-U1476A-12H-4-W 70/72-FORAM
-361,U1476,A,12,12-5,H,5,W,65/67-FORAM,0,2,107.35,107.37,,,,A,,P,P,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,,P,,P,R,,,,,,361-U1476A-12H-5-W 65/67-FORAM
-361,U1476,A,12,12-6,H,6,W,70/72-FORAM,0,2,108.9,108.92,,,,A,,P,P,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,P,,P,,,P,,,,,,P,P,,,,,P,,P,P,P,,P,,P,,,P,,,,,,361-U1476A-12H-6-W 70/72-FORAM
-361,U1476,A,12,12-CC,H,CC,PAL,FORAM,0,5,110.46,110.51,,,,A,,F,R,R,F,,R,R,R,F,,A,,,A,,,,,,R,,,F,F,P,,,P,,R,,,,,,R,F,,,,,,,,R,R,,F,,R,,R,R,,,,,,361-U1476A-12H-CC-PAL-FORAM
-361,U1476,A,13,13-1,H,1,W,70/72-FORAM,0,2,110.9,110.92,,,,A,,P,,,P,,,,P,P,,P,,,P,,,,,,P,,,,P,R,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-13H-1-W 70/72-FORAM
-361,U1476,A,13,13-2,H,2,W,70/72-FORAM,0,2,112.4,112.42,,,,A,,P,P,,P,,,,P,P,,P,,,P,,,,,,P,,,P,P,P,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-13H-2-W 70/72-FORAM
-361,U1476,A,13,13-3,H,3,W,70/72-FORAM,0,2,113.9,113.92,,,,A,,P,,,P,,,,P,P,,P,,,P,,,,,,P,,,P,P,R,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-13H-3-W 70/72-FORAM
-361,U1476,A,13,13-4,H,4,W,70/72-FORAM,0,2,115.4,115.42,,,,A,,P,P,,P,,P,P,P,P,,P,,,P,,,,,,P,,,,P,R,,,,,F,,,,,,P,P,,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-4-W 70/72-FORAM
-361,U1476,A,13,13-5,H,5,W,70/72-FORAM,0,2,116.9,116.92,,,,A,,P,,,P,,,P,P,P,,P,,,P,,,,,,P,,,,P,F,,P,,,F,,,,,,P,P,,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-5-W 70/72-FORAM
-361,U1476,A,13,13-6,H,6,W,70/72-FORAM,0,2,118.4,118.42,,,,A,,P,,,P,,,P,P,A,,P,,,P,,,,,,P,,,P,P,R,,P,,,F,,,,,,P,P,P,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-6-W 70/72-FORAM
-361,U1476,A,13,13-CC,H,CC,FORAM,,0,5,119.85,119.9,,,,A,,F,,,F,,R,R,R,F,,A,,,A,,,,,,R,,,F,F,F,,R,R,,R,,,,,,R,F,R,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-CC-FORAM
-361,U1476,A,14,14-1,H,1,W,70/72-FORAM,0,2,120.4,120.42,,,,A,,F,,,F,,,R,R,F,,P,,,A,,,,,,P,,,P,P,F,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-1-W 70/72-FORAM
-361,U1476,A,14,14-2,H,2,W,70/72-FORAM,0,2,121.9,121.92,,,,A,,F,,,F,,,R,R,F,,P,,,A,,,,,,P,,,,P,P,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-2-W 70/72-FORAM
-361,U1476,A,14,14-3,H,3,W,70/72-FORAM,0,2,123.4,123.42,,,,A,,P,,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,R,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,,P,,,,,,361-U1476A-14H-3-W 70/72-FORAM
-361,U1476,A,14,14-4,H,4,W,70/72-FORAM,0,2,124.9,124.92,,,,A,,P,,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,R,,P,,,P,,,,,,P,P,P,,R,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-4-W 70/72-FORAM
-361,U1476,A,14,14-5,H,5,W,70/72-FORAM,0,2,126.4,126.42,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,P,P,R,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-5-W 70/72-FORAM
-361,U1476,A,14,14-6,H,6,W,70/72-FORAM,0,2,127.9,127.92,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,R,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-6-W 70/72-FORAM
-361,U1476,A,14,14-CC,H,CC,PAL,FORAM,0,5,129.67,129.72,,,,A,,A,,,R,,R,R,R,R,,F,,,A,,,,,,,,,F,R,R,,R,R,,R,P,R,,,,F,F,F,,,,R,,,F,R,,R,,F,P,P,R,,,,,,361-U1476A-14H-CC-PAL-FORAM
-361,U1476,A,15,15-1,H,1,W,70/72-FORAM,0,2,129.9,129.92,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,,P,F,,P,,,P,,,,,,P,P,P,,P,,,P,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-1-W 70/72-FORAM
-361,U1476,A,15,15-2,H,2,W,70/72-FORAM,0,2,131.4,131.42,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-2-W 70/72-FORAM
-361,U1476,A,15,15-3,H,3,W,70/72-FORAM,0,2,132.9,132.92,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-3-W 70/72-FORAM
-361,U1476,A,15,15-4,H,4,W,70/72-FORAM,0,2,134.4,134.42,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,P,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-4-W 70/72-FORAM
-361,U1476,A,15,15-5,H,5,W,70/72-FORAM,0,2,135.9,135.92,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,P,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-5-W 70/72-FORAM
-361,U1476,A,15,15-6,H,6,W,70/72-FORAM,0,2,137.4,137.42,,,,A,,p,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-6-W 70/72-FORAM
-361,U1476,A,15,15-CC,H,CC,PAL,FORAM,0,5,138.84,138.89,,,,A,,f,,,R,,R,P,R,P,,F,,,F,,,,,,,,,F,R,,,,R,,R,,P,,,,R,,F,,F,,F,P,,F,R,,R,,R,P,P,R,,,,,,361-U1476A-15H-CC-PAL-FORAM
-361,U1476,A,16,16-1,H,1,W,60/62-FORAM,0,2,139.3,139.32,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,F,P,,,,,,361-U1476A-16H-1-W 60/62-FORAM
-361,U1476,A,16,16-2,H,2,W,60/62-FORAM,0,2,140.8,140.82,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-2-W 60/62-FORAM
-361,U1476,A,16,16-3,H,3,W,60/62-FORAM,0,2,142.3,142.32,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-3-W 60/62-FORAM
-361,U1476,A,16,16-4,H,4,W,60/62-FORAM,0,2,143.8,143.82,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-4-W 60/62-FORAM
-361,U1476,A,16,16-5,H,5,W,60/62-FORAM,0,2,145.3,145.32,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-5-W 60/62-FORAM
-361,U1476,A,16,16-6,H,6,W,60/62-FORAM,0,2,146.8,146.82,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,R,,P,,P,P,,,,,,361-U1476A-16H-6-W 60/62-FORAM
-361,U1476,A,16,16-CC,H,CC,PAL,FORAM,0,5,148.44,148.49,,,,A,,F,,,R,,R,P,R,A,,F,,,A,,,,,,,,,F,R,,,,R,P,R,,R,,,,R,R,F,,F,,F,R,,R,,,R,,R,,F,F,,,,,,361-U1476A-16H-CC-PAL-FORAM
-361,U1476,A,17,17-1,H,1,W,60/62-FORAM,0,2,148.8,148.82,,,,F,,P,,,P,,P,P,,P,,P,,,R,R,,,,,,,,R,,,,,R,,R,,,,,,R,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-1-W 60/62-FORAM
-361,U1476,A,17,17-2,H,2,W,60/62-FORAM,0,2,150.3,150.32,,,,A,,R,,,R,,,R,,R,,R,,,R,R,,,,,,,,R,,,,,F,,F,,,,,,F,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-2-W 60/62-FORAM
-361,U1476,A,17,17-3,H,3,W,60/62-FORAM,0,2,151.8,151.82,,,,A,,P,,,P,,,,,P,,P,,,P,R,,,,,,,,R,R,,,,F,,F,,,,,,F,P,P,,P,P,,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-17H-3-W 60/62-FORAM
-361,U1476,A,17,17-4,H,4,W,60/62-FORAM,0,2,153.3,153.32,,,,A,,P,,,P,,,P,P,P,,P,,,P,R,,,,,,,,R,,,,F,R,,F,,,,,,P,P,P,,P,,P,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-17H-4-W 60/62-FORAM
-361,U1476,A,17,17-5,H,5,W,60/62-FORAM,0,2,154.8,154.82,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,F,P,,,R,F,,F,,P,,,,P,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-5-W 60/62-FORAM
-361,U1476,A,17,17-6,H,6,W,60/62-FORAM,0,2,156.3,156.32,,,,A,,R,,,R,,,R,R,P,,P,,,P,R,,,,,,,,R,R,,,R,R,,R,,R,,,,R,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-6-W 60/62-FORAM
-361,U1476,A,17,17-CC,H,CC,PAL,FORAM,0,3,157.89,157.92,,,,A,,R,,,P,,,F,,A,,P,,,A,R,,,,,,,,F,,,,R,R,,F,,,,,,R,,F,,F,,P,,P,,,,F,,P,P,R,F,,,,,,361-U1476A-17H-CC-PAL-FORAM
-361,U1476,A,18,18-1,H,1,W,60/62-FORAM,0,2,158.3,158.32,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,R,,,,F,,F,,R,,,,R,P,P,,P,,P,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-18H-1-W 60/62-FORAM
-361,U1476,A,18,18-2,H,2,W,60/62-FORAM,0,2,159.8,159.82,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,R,,,,R,,F,,R,,,,F,P,P,,P,,P,P,,P,,,,,P,P,P,P,,,,,,361-U1476A-18H-2-W 60/62-FORAM
-361,U1476,A,18,18-3,H,3,W,60/62-FORAM,0,2,161.3,161.32,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,R,,,,R,,R,,R,,,,F,P,P,,P,,P,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-18H-3-W 60/62-FORAM
-361,U1476,A,18,18-4,H,4,W,60/62-FORAM,0,2,162.8,162.82,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,,,,,R,,,,R,,,,F,P,P,,P,,,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-18H-4-W 60/62-FORAM
-361,U1476,A,18,18-5,H,5,W,60/62-FORAM,0,2,164.3,164.32,,,,A,,P,,,,,,,,P,,P,,,P,R,,,,,,,,,R,,,,R,,,,R,,,,F,P,P,,P,,,,,P,,,P,,P,,P,P,,,,,,361-U1476A-18H-5-W 60/62-FORAM
-361,U1476,A,18,18-6,H,6,W,60/62-FORAM,0,2,165.8,165.82,,,,A,,P,,,P,,,P,P,P,,P,,,P,R,,,,,,,,,,,,,R,,,,R,,,,F,R,F,,A,,R,,,R,R,,R,,R,,R,R,,,,,,361-U1476A-18H-6-W 60/62-FORAM
-361,U1476,A,18,18-CC,H,CC,PAL,FORAM,0,5,167.65,167.7,,,,A,,R,,,,,,F,P,A,,P,,,A,P,,,,,P,,,F,R,,,P,P,,R,,,,,,F,P,R,,F,,R,P,P,P,P,,R,,R,,F,R,,,,,,361-U1476A-18H-CC-PAL-FORAM
-361,U1476,A,19,19-1,H,1,W,60/62-FORAM,0,2,167.8,167.82,,,,A,,P,P,,,,,,P,P,,P,,,P,P,,,,,,,,P,,,,,P,,,R,P,,,,F,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-1-W 60/62-FORAM
-361,U1476,A,19,19-2,H,2,W,60/62-FORAM,0,2,169.3,169.32,,,,A,,P,,,,,,,,P,,P,,,P,P,,,,,P,,,P,,,,,P,,,R,P,,,,R,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-2-W 60/62-FORAM
-361,U1476,A,19,19-3,H,3,W,60/62-FORAM,0,2,170.8,170.82,,,,A,,,,,,,,P,P,P,,P,,,P,R,,,,,,,,R,,,,,R,R,R,R,,,,,F,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-3-W 60/62-FORAM
-361,U1476,A,19,19-4,H,4,W,60/62-FORAM,0,2,172.3,172.32,,,,A,,,,,,,,,P,P,,P,,,P,R,,,,,R,,,R,,,,,R,,R,R,R,,,,F,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-4-W 60/62-FORAM
-361,U1476,A,19,19-5,H,5,W,60/62-FORAM,0,2,173.8,173.82,,,,A,,,,,,,,,P,P,,P,,,P,R,,,,,R,,,R,,,,,R,,R,,,,,,R,P,,,P,,P,,,P,P,,P,,P,,P,P,,,,,,361-U1476A-19H-5-W 60/62-FORAM
-361,U1476,A,19,19-6,H,6,W,60/62-FORAM,0,2,175.3,175.32,,,,A,,,,,,,,P,,P,,P,,,P,R,,,,,R,,,R,,,,,R,,,,,,,,F,P,P,,P,,P,P,,P,,P,P,,P,,P,P,,,,,,361-U1476A-19H-6-W 60/62-FORAM
-361,U1476,A,19,19-CC,H,CC,PAL,FORAM,0,5,176.92,176.97,,,,F,,,,,R,,P,F,R,A,,P,,,A,R,,,,,P,,,R,,,,P,R,P,R,,R,,,,F,R,R,,R,,P,P,,,P,,R,,,P,R,R,,,,,,361-U1476A-19H-CC-PAL-FORAM
-361,U1476,A,20,20-1,H,1,W,60/62-FORAM,0,2,177.3,177.32,,,,A,,,,,P,,P,,,P,,P,,,P,R,,,,,R,,,,,,,,R,P,,,R,,,,F,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-1-W 60/62-FORAM
-361,U1476,A,20,20-2,H,2,W,60/62-FORAM,0,2,178.8,178.82,,,,A,,,,,,,P,P,P,P,,P,,,P,R,,,,,R,,,,,,,,R,,R,,,,,,,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-2-W 60/62-FORAM
-361,U1476,A,20,20-3,H,3,W,60/62-FORAM,0,2,180.3,180.32,,,,A,,,,,,,P,,P,P,,P,,,P,R,,,,,,,,,,,,,F,,,,,,,,,P,P,,P,,P,,,,,,P,,P,,P,P,,,,,,361-U1476A-20H-3-W 60/62-FORAM
-361,U1476,A,20,20-4,H,4,W,60/62-FORAM,0,2,181.8,181.82,,,,A,,,,,P,,P,,P,P,,P,,,P,R,,,,,,,,,,,,,R,P,,,,,,,,P,P,,P,,,,,,,,P,,P,,P,P,,,,,,361-U1476A-20H-4-W 60/62-FORAM
-361,U1476,A,20,20-5,H,5,W,60/62-FORAM,0,2,183.3,183.32,,,,A,,R,,,,,,,P,P,,P,,,P,P,,,,,,,,,,,,,P,P,,,,,,,,P,P,,P,,,,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-5-W 60/62-FORAM
-361,U1476,A,20,20-6,H,6,W,60/62-FORAM,0,2,184.8,184.82,,,,A,,P,,,,,,,P,P,,P,,,P,,,,,,,,,,P,,,,P,,,,,,,,,P,P,,P,P,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-6-W 60/62-FORAM
-361,U1476,A,20,20-CC,H,CC,FORAM,,0,5,186.38,186.43,,,,A,,R,,,,,,F,P,A,,P,,,A,,,,,,,,,R,P,,,P,R,R,R,,,,,,,,R,,F,,P,P,,,P,,F,,R,,F,R,,,,,,361-U1476A-20H-CC-FORAM
-361,U1476,A,21,21-1,H,1,W,60/62-FORAM,0,2,186.8,186.82,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,,,,,,R,,,,,,,,,P,,A,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-1-W 60/62-FORAM
-361,U1476,A,21,21-2,H,2,W,60/62-FORAM,0,2,188.3,188.32,,,,F,,R,,,,,,,,P,,P,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,F,,R,D,,,,,,361-U1476A-21H-2-W 60/62-FORAM
-361,U1476,A,21,21-3,H,3,W,60/62-FORAM,0,2,189.8,189.82,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,,,,,,,,,,,,,,P,,,P,,,,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-3-W 60/62-FORAM
-361,U1476,A,21,21-4,H,4,W,60/62-FORAM,0,2,191.3,191.32,,,,F,,R,,,,,,,,P,,R,,,R,R,,,,,,,,R,,,,,R,,,,R,,,,,R,,,A,,,R,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-4-W 60/62-FORAM
-361,U1476,A,21,21-5,H,5,W,60/62-FORAM,0,2,192.8,192.82,,,,F,,P,,,,,,,,P,,P,,,P,,,,,,,,,P,,,,,P,,,,P,,,,,P,P,,A,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-5-W 60/62-FORAM
-361,U1476,A,21,21-6,H,6,W,60/62-FORAM,0,2,194.3,194.32,,,,F,,R,,,,,,,,P,,P,,,P,P,,,,,,,,P,P,,,,P,,,,P,,,,,P,P,,A,,P,P,,P,,,P,,P,,,P,,,,,,361-U1476A-21H-6-W 60/62-FORAM
-361,U1476,A,21,21-CC,H,CC,PAL,FORAM,0,5,196.0,196.05,,,,F,,R,,,R,,,F,,A,,P,,,A,P,,,R,,,,,P,R,,,,P,P,,,,,,,,,R,,A,,R,P,,P,,,F,,R,,F,F,,,,,,361-U1476A-21H-CC-PAL-FORAM
-361,U1476,A,22,22-1,H,1,W,60/62-FORAM,0,2,196.3,196.32,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,R,,,,P,,,,P,,,,,,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-22H-1-W 60/62-FORAM
-361,U1476,A,22,22-2,H,2,W,60/62-FORAM,0,2,197.8,197.82,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,R,,,,P,,,,P,,,,,,P,,A,,P,P,,,,,P,,P,,P,P,,,,,,361-U1476A-22H-2-W 60/62-FORAM
-361,U1476,A,22,22-3,H,3,W,60/62-FORAM,0,2,199.3,199.32,,,,F,,P,,,,,,,,P,,P,,,P,R,,,,,,,,,,,,,P,,,,P,,,,,,,,A,,P,P,,,,,P,,R,,,D,,,,,,361-U1476A-22H-3-W 60/62-FORAM
-361,U1476,A,22,22-4,H,4,W,60/62-FORAM,0,2,200.8,200.82,,,,F,,P,,,P,,,P,,P,,P,,,P,,,,,,,,,P,,,,,,,,,P,,,,,,P,,A,,P,P,,,,,P,,P,,,D,,,,,,361-U1476A-22H-4-W 60/62-FORAM
-361,U1476,A,22,22-6,H,6,W,60/62-FORAM,0,2,203.8,203.82,,,,F,,R,,,P,,,P,,P,,F,,,R,,,,,,,,,,,,,,,,,,R,,,,,R,F,,F,,F,R,,R,R,,R,,R,,,A,,,,,,361-U1476A-22H-6-W 60/62-FORAM
-361,U1476,A,22,22-CC,H,CC,PAL,FORAM,0,5,205.62,205.67,,,,F,,R,,,P,,,P,,P,,A,,,R,,,,,,,,,P,,,,P,R,,,,P,,,,,R,R,,F,,P,,,R,P,,F,,,,F,F,,,,,,361-U1476A-22H-CC-PAL-FORAM
-361,U1476,A,23,23-1,H,1,W,60/62-FORAM,0,2,205.8,205.82,,,,F,,R,,,,,,,,R,,R,,,F,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,F,,F,R,,R,R,,P,,,,,D,,,,,,361-U1476A-23H-1-W 60/62-FORAM
-361,U1476,A,23,23-2,H,2,W,60/62-FORAM,0,2,207.3,207.32,,,,F,,R,,,R,,,,,,,F,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,F,R,,R,R,,F,,,,,D,,,,,,361-U1476A-23H-2-W 60/62-FORAM
-361,U1476,A,23,23-3,H,3,W,60/62-FORAM,0,2,208.8,208.82,,,,F,,R,,,R,,,,,,,F,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,F,R,,,R,,F,,,,,D,,,,,,361-U1476A-23H-3-W 60/62-FORAM
-361,U1476,A,23,23-4,H,4,W,60/62-FORAM,0,2,210.3,210.32,,,,F,,R,,,R,,,,,,,R,,,R,,,,,,,,,,,,,,,,,,,,,,,R,F,,A,,F,R,,,F,,R,,,,,D,,,,,,361-U1476A-23H-4-W 60/62-FORAM
-361,U1476,A,23,23-5,H,5,W,60/62-FORAM,0,2,211.8,211.82,,,,F,,R,,,R,,,R,,R,,R,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,F,R,,,F,,P,,,,,D,,,,,,361-U1476A-23H-5-W 60/62-FORAM
-361,U1476,A,23,23-6,H,6,W,60/62-FORAM,0,2,213.3,213.32,,,,F,,R,,,R,,,R,,R,,F,,,F,R,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,A,R,,,R,,R,,,,R,D,,,,,,361-U1476A-23H-6-W 60/62-FORAM
-361,U1476,A,23,23-CC,H,CC,PAL,FORAM,0,5,215.19,215.24,,,,F,,R,,,R,,,R,,A,,,P,,A,,,,,,,,,P,,,,,P,P,P,,,,,,,,,,,,,,,,,,,,,,F,F,,,,,,361-U1476A-23H-CC-PAL-FORAM
-361,U1476,A,24,24-1,H,1,W,70/72-FORAM,0,2,215.4,215.42,,,,F,,R,,,R,,,R,,,,R,,,R,,,,,,,,,,,,,,,,,,R,,,,,R,R,,A,,F,R,,,R,,R,,,,R,A,,,,,,361-U1476A-24H-1-W 70/72-FORAM
-361,U1476,A,24,24-2,H,2,W,70/72-FORAM,0,2,216.9,216.92,,,,F,,R,,,R,,,R,,R,,R,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,R,,A,,F,R,,,F,,F,,,,R,D,,,,,,361-U1476A-24H-2-W 70/72-FORAM
-361,U1476,A,24,24-3,H,3,W,70/72-FORAM,0,2,218.4,218.42,,,,F,,P,,,P,,,R,,F,,,,,R,,,,,,,,,,,,,,,,,,R,,,,,R,R,,D,,R,R,,R,R,,R,,,,R,A,,,,,,361-U1476A-24H-3-W 70/72-FORAM
-361,U1476,A,24,24-4,H,4,W,70/72-FORAM,0,2,219.9,219.92,,,,F,,P,,,P,,,P,,A,,,,,F,,,,,,,,,,,,,,R,,,,R,,,,,R,,,D,,F,R,,R,F,,F,,,,R,A,,,,,,361-U1476A-24H-4-W 70/72-FORAM
-361,U1476,A,24,24-5,H,5,W,70/72-FORAM,0,2,221.4,221.42,,,,F,,P,,,P,,,P,,P,,R,,,P,,,,,,,,,,,,,,,,,,R,,,,,R,,,D,,R,R,,R,R,,R,,,,R,A,,,,,,361-U1476A-24H-5-W 70/72-FORAM
-361,U1476,A,24,24-6,H,6,W,70/72-FORAM,0,2,222.9,222.92,,,,F,,P,,,P,,,P,,F,,,,,F,,,,,,,,,,,,,,R,,,,R,,,,,,,,D,,F,R,,R,F,,R,,,,R,A,,,,,,361-U1476A-24H-6-W 70/72-FORAM
-361,U1476,A,24,24-CC,H,CC,PAL,FORAM,0,5,224.52,224.57,,,,F,,R,,,P,,,,,F,,,,,F,,,,,,,,,,,,,,R,P,,,,,,,,,,,F,,,P,,,,,,,,,R,A,,,,,,361-U1476A-24H-CC-PAL-FORAM
+Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Datum name,Zone name (short),Zone name,Group abundance,Beella digitata,Dentoglobigerina altispira,Globigerina bulloides,Globigerina falconensis,Globigerina glutinata,Globigerinella calida,Globigerinella obesa,Globigerinella siphonifera,Globigerinoides conglobatus,Globigerinoides extremus,Globigerinoides fistulosus,Globigerinoides obliquus,Globigerinoides ruber (pink),Globigerinoides ruber (white),Globigerinoides sacculifer,Globoquadrina venezuelana,Globorotalia conoidea,Globorotalia conomiozea,Globorotalia crassaformis,Globorotalia crassula,Globorotalia flexuosa,Globorotalia hirsuta (dex),Globorotalia inflata,Globorotalia limbata,Globorotalia margaritae,Globorotalia menardii,Globorotalia merotumida,Globorotalia multicamerata,Globorotalia plesiotumida,Globorotalia pliozea,Globorotalia pseudomiocenica,Globorotalia puncticulata,Globorotalia scitula,Globorotalia sphericomiozea,Globorotalia tosaensis,Globorotalia truncatulinoides,Globorotalia tumida,Globorotaloides hexagona,"Globoturborotalita apertura (Cushman, 1918)",Globoturborotalita decoraperta,Globoturborotalita nepenthes,Globoturborotalita rubescens,"Globoturborotalita woodi (Jenkins, 1960)",Neogloboquadrina acostaensis,Neogloboquadrina dutertrei,Neogloboquadrina humerosa,Neogloboquadrina pachyderma (dextral),Neogloboquadrina pachyderma (sinistral),Orbulina universa,Pulleniatina obliquiloculata,Pulleniatina primalis,Sphaeroidinella dehiscens,Sphaeroidinellopsis kochi,Sphaeroidinellopsis seminulina,Tenuitella anfracta,preservation,File Data,Ship File Links,Shore File Links,Sample,eodp_id
+361,U1476,A,1,1-1,H,1,W,70/72-FORAM,0,2,0.7,0.72,,,,A,,,,,P,R,P,P,,,,,,P,P,,,,P,,R,,,,,R,,,,,,,P,,,R,F,,,,,R,,,R,,,,P,R,,,,,,,,,,361-U1476A-1H-1-W 70/72-FORAM,32e24d0e14ab0e29ad7c39404005c4d2
+361,U1476,A,1,1-2,H,2,W,70/72-FORAM,0,2,2.2,2.22,,,,A,,,,,P,R,P,P,,,,,,P,P,,,,R,,,,,,,P,,,,,,,P,,,R,R,,,,,R,,,R,,,,P,R,,,,,,,,,,361-U1476A-1H-2-W 70/72-FORAM,8b657891aedfe3584e0fec2b0c373d84
+361,U1476,A,1,1-3,H,3,W,80/82-FORAM,0,2,3.8,3.82,,,,A,,,,,P,R,P,P,,,,,F,P,P,,,,R,,,,,,,P,,,,,,,P,,,R,R,,,,,R,,,R,,,,P,R,,,,,,,,,,361-U1476A-1H-3-W 80/82-FORAM,d83478279f29f4e39ea840697b2e1ca7
+361,U1476,A,1,1-4,H,4,FORAM,,0,2,5.2,5.22,,,,A,,,,,P,R,P,P,,,,,R,P,P,,,,R,,,,,,,P,,,,,,,P,,,A,F,,,,,R,,,F,,,,P,F,,,,,,,,,,361-U1476A-1H-4-FORAM,d6858e5ab4b3a1c327a99a159bf0c8af
+361,U1476,A,1,1-CC,H,CC,PAL,FORAM,0,5,5.67,5.72,,,,A,,,,,R,R,F,A,F,,,,R,A,A,,,,F,,A,,,,,P,,,,,,,R,,,A,A,,,,,,,,F,P,,,A,F,,R,,,,,,,,361-U1476A-1H-CC-PAL-FORAM,69671c0e87fd6bf7ce5e75c9f71a44f1
+361,U1476,A,2,2-1,H,1,W,70/72-FORAM,0,2,6.4,6.42,,,,A,,,,,P,,P,P,,,,,R,P,P,,,,R,,R,,,,,P,,,,,,,R,,,,F,,,,,,,,F,,,,P,R,,,,,,,,,,361-U1476A-2H-1-W 70/72-FORAM,2fe2bbbb0fef421215614ceff45efb85
+361,U1476,A,2,2-2,H,2,W,70/72-FORAM,0,2,7.9,7.92,,,,A,,,,,P,,P,P,P,,,,R,P,P,,,,P,,R,,,,,P,,,,,,,P,,,R,F,,,,,R,,,F,,,,P,F,,R,,,,,,,,361-U1476A-2H-2-W 70/72-FORAM,1cd628fa45a2c6ad63c49828f609c014
+361,U1476,A,2,2-3,H,3,W,70/72-FORAM,0,2,9.4,9.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,,,,F,,,,,,,P,,,F,F,,,,,,,,R,,,,P,R,,R,,,,,,,,361-U1476A-2H-3-W 70/72-FORAM,c7441bb62898828bc5af34796932883a
+361,U1476,A,2,2-4,H,4,W,70/72-FORAM,0,2,10.9,10.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,F,F,,,,,,,,F,,,,P,F,,R,,,,,,,,361-U1476A-2H-4-W 70/72-FORAM,6d6435a2752bcbe8456aa4a593238170
+361,U1476,A,2,2-5,H,5,W,70/72-FORAM,0,2,12.4,12.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,R,A,,,,,R,,,A,,,,P,F,,R,,,,,,,,361-U1476A-2H-5-W 70/72-FORAM,93ea8ac1a527d2f9563fb9a25b8b3498
+361,U1476,A,2,2-6,H,6,W,70/72-FORAM,0,2,13.9,13.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,R,F,,,,,R,,,F,,,,P,F,,R,,,,,,,,361-U1476A-2H-6-W 70/72-FORAM,0733dbd543665636ebc030bd72297355
+361,U1476,A,2,2-CC,H,CC,PAL,FORAM,0,5,15.39,15.44,,,,A,P,,,R,,,F,A,R,,,,,A,A,,,,F,,,,R,,,P,,,,,,,R,,,F,F,,,,,F,,,F,P,,,A,F,,R,,,,,,,,361-U1476A-2H-CC-PAL-FORAM,00da34a6e3595224fbb7f84dac698e7a
+361,U1476,A,3,3-1,H,1,W,70/72-FORAM,0,2,15.9,15.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,R,R,F,,,,,,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-1-W 70/72-FORAM,3a3172075f523dc02ffbbd0b8f091ce6
+361,U1476,A,3,3-2,H,2,W,60/62-FORAM,0,2,17.3,17.32,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,R,R,R,,,,,,,,F,,,,P,R,,P,,,,,,,,361-U1476A-3H-2-W 60/62-FORAM,86e720dd5841eac808a8df2d82c784d3
+361,U1476,A,3,3-3,H,3,W,70/72-FORAM,0,2,18.9,18.92,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,P,,P,,R,,,F,,,,,,,,,R,R,R,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-3-W 70/72-FORAM,d7dec672c5c413f31b529abd1614c386
+361,U1476,A,3,3-4,H,4,W,70/72-FORAM,0,2,20.4,20.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,R,,R,,R,,,P,,,,,,,P,,R,R,F,,,,,,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-4-W 70/72-FORAM,7723395a1972d0da5ac85e64328a9ca0
+361,U1476,A,3,3-5,H,5,W,60/62-FORAM,0,2,21.8,21.82,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,R,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-3H-5-W 60/62-FORAM,584f6ade44b3b3aaea9cd1146321d600
+361,U1476,A,3,3-6,H,6,W,70/72-FORAM,0,2,23.4,23.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,F,,,,,R,,,P,,,,P,P,,P,,,,,,,,361-U1476A-3H-6-W 70/72-FORAM,e048ffc3221662ebb848768f176a857b
+361,U1476,A,3,3-CC,H,CC,PAL,FORAM,0,5,24.96,25.01,,,,A,,,,R,F,,F,F,R,,P,,,A,A,,,,,,,,,,,P,,,,,,,R,,F,R,F,,,,,R,,,F,,R,,A,F,,R,,,,,,,,361-U1476A-3H-CC-PAL-FORAM,b864dab1554ce8a9294b71073ce5ca13
+361,U1476,A,4,4-1,H,1,W,70/72-FORAM,0,2,25.4,25.42,,,,A,,,,,P,,P,P,P,,P,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,R,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-4H-1-W 70/72-FORAM,4aa1f6b4da22aadeabb1867915016b75
+361,U1476,A,4,4-2,H,2,W,60/62-FORAM,0,2,26.8,26.82,,,,A,,,,,P,,P,P,P,,P,,,P,P,,,,,,,,,,,P,,,,,,,,,R,F,A,,,,,,,,F,,,,P,P,,F,,,,,,,,361-U1476A-4H-2-W 60/62-FORAM,f02fb2fb4dac364d70e111c088411912
+361,U1476,A,4,4-3,H,3,W,70/72-FORAM,0,2,28.4,28.42,,,,A,,,,,P,,P,P,P,,,,,P,P,,,,,,,,,,,F,,,,,,,P,,F,R,A,,,,,R,,,A,,,,P,P,,F,,,,,,,,361-U1476A-4H-3-W 70/72-FORAM,3842fdaa0b91238ae3ad3ce587169b8c
+361,U1476,A,4,4-4,H,4,W,70/72-FORAM,0,2,29.9,29.92,,,,A,,,,,P,P,P,P,P,,P,,,A,D,,,,,,R,,,,,P,,,,,,,P,,F,R,A,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-4H-4-W 70/72-FORAM,a533efc36882ec38e60df96771fc3d74
+361,U1476,A,4,4-5,H,5,W,70/72-FORAM,0,2,31.4,31.42,,,,A,,,,P,P,,P,P,P,,,,,P,P,,,,,,R,,,,,P,,,,,,,P,,F,R,F,,,,,R,,,F,,,,P,P,,P,,,,,,,,361-U1476A-4H-5-W 70/72-FORAM,b1eb33c445f9db409f4511c1d23bf08d
+361,U1476,A,4,4-6,H,6,W,60/62-FORAM,0,2,32.8,32.82,,,,A,,,,P,P,,P,P,P,,,,,P,P,,,,,,R,,P,,,P,,,,,,,P,,R,R,F,P,,,,R,,R,F,,R,,P,P,,P,,,,,,,,361-U1476A-4H-6-W 60/62-FORAM,9e167791e2c46561af9da35a4241442e
+361,U1476,A,4,4-CC,H,CC,PAL,FORAM,0,5,34.52,34.57,,,,A,,,,R,F,R,F,F,F,,,,,D,F,,,,,,,,,,,P,,,,,,R,R,,F,P,R,R,,,,R,,,R,,R,,F,F,,F,,,,,,,,361-U1476A-4H-CC-PAL-FORAM,35b8f96c28c53fd05b4a9c5d959b8610
+361,U1476,A,5,5-1,H,1,W,70/72-FORAM,0,2,34.9,34.92,,,,A,,,R,P,P,P,P,P,P,,P,,,P,P,,,,,,,,P,,,P,,,,,,,P,,F,R,R,P,R,,,R,,R,R,,R,,P,P,,P,,,,,,,,361-U1476A-5H-1-W 70/72-FORAM,367b9377342b5a10afd2898a501e3442
+361,U1476,A,5,5-2,H,2,W,70/72-FORAM,0,2,36.4,36.42,,,,A,,,P,P,P,,P,P,P,,,,,P,P,,,,,,,,P,,,P,,,,,,,P,,F,R,F,P,R,,,R,,,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-2-W 70/72-FORAM,e20e778ff25f5a958a8a2c639ec3a3d4
+361,U1476,A,5,5-3,H,3,W,70/72-FORAM,0,2,37.9,37.92,,,,A,,,P,P,P,,P,P,P,,R,,,P,P,,,,,,,,,,,F,,,,,,,P,,F,R,R,P,R,,,R,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-3-W 70/72-FORAM,fa055b68c0904a724903c506748d46cc
+361,U1476,A,5,5-4,H,4,W,70/72-FORAM,0,2,39.4,39.42,,,,A,,,,,P,,P,P,P,,R,,,P,P,,,,,,,,,,,P,,,,,,,P,,R,R,R,P,R,,,P,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-4-W 70/72-FORAM,de717ee0becdb32f592fad0bb7b0943d
+361,U1476,A,5,5-5,H,5,W,60/62-FORAM,0,2,40.8,40.82,,,,A,,,,,P,,P,P,P,R,R,,,P,P,,,,,,,,,,,P,,,,,,,P,,F,R,F,P,,,,,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-5H-5-W 60/62-FORAM,656e9a4b81d543ad738d6f99bd97d9a2
+361,U1476,A,5,5-6,H,6,W,70/72-FORAM,0,2,42.4,42.42,,,,A,,,,,P,P,P,P,P,R,R,,,P,P,,,,,,,,R,,,P,,,,,,,P,,F,F,F,,,,,,,R,,,,,F,R,,F,,,,,,,,361-U1476A-5H-6-W 70/72-FORAM,e847952c58cca23c786a42532469d90d
+361,U1476,A,5,5-CC,H,CC,PAL,FORAM,0,5,44.02,44.07,,,,A,,,R,,F,,F,F,F,R,F,,,D,A,,,,,,,,R,,,P,,,,,,,R,,R,R,R,R,R,,,,,R,R,,,,F,R,,F,,,,,,,,361-U1476A-5H-CC-PAL-FORAM,09885eafad503dd3ed21c0462c6a2ee9
+361,U1476,A,6,6-1,H,1,W,70/72-FORAM,0,2,44.4,44.42,,,,A,,,,,P,,P,P,R,R,F,,,P,P,,,,,,,,P,,,P,,,,,,,R,,R,R,F,R,,,,,,R,F,,,,P,P,,P,,,,,,,,361-U1476A-6H-1-W 70/72-FORAM,e07852a5941a4c96de8670edc6482d2b
+361,U1476,A,6,6-2,H,2,W,70/72-FORAM,0,2,45.9,45.92,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,P,,,,P,,,P,,,,,,,P,,,R,R,R,,,,,,R,P,,,,P,P,,F,,,,,,,,361-U1476A-6H-2-W 70/72-FORAM,2563cbb1f5247f3b344a28d43d867e91
+361,U1476,A,6,6-3,H,3,W,70/72-FORAM,0,2,47.4,47.42,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,R,,,,P,,,F,,,,,,,R,,P,,R,R,,,,,,R,P,,,,P,P,,P,,,,,,,,361-U1476A-6H-3-W 70/72-FORAM,7a1d8032c66a7b12222d1b1b85afa438
+361,U1476,A,6,6-4,H,4,W,70/72-FORAM,0,2,48.9,48.92,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,R,,,,,,,P,,,,,,,P,,,,F,P,,,,,,R,P,P,,,P,P,,P,,,,,,,,361-U1476A-6H-4-W 70/72-FORAM,e081c96774e5a4e59b51d9be587c6aed
+361,U1476,A,6,6-5,H,5,W,60/62-FORAM,0,2,50.3,50.32,,,,A,P,,,P,P,,P,P,P,R,R,,,P,P,,,,P,,,,,,,P,,,,,,,P,,R,,F,R,,,,,R,R,R,P,,,P,P,,P,,,,,,,,361-U1476A-6H-5-W 60/62-FORAM,cedcea53f556b0cbbb1f1c710d1f5203
+361,U1476,A,6,6-6,H,6,W,70/72-FORAM,0,2,51.9,51.92,,,,A,,,,P,P,,P,P,P,R,R,,,P,P,,,,P,,P,,,,,P,,R,,,F,,R,,,,R,R,R,,,,R,R,,P,P,,P,P,,P,,,,,,,,361-U1476A-6H-6-W 70/72-FORAM,8f4155c8a681ef56431df8c05b9011a3
+361,U1476,A,6,6-CC,H,CC,PAL,FORAM,0,5,53.44,53.49,,,,A,R,,R,R,F,,F,R,F,R,R,,,D,F,,,,R,,,,R,,,P,,R,,,F,,R,,,,R,R,R,,,,R,R,,F,R,,F,F,,F,,,,,,,,361-U1476A-6H-CC-PAL-FORAM,5bd759d6495ede7e68b76e39be0bc43e
+361,U1476,A,7,7-1,H,1,W,70/72-FORAM,0,2,53.9,53.92,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,P,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-1-W 70/72-FORAM,55eb0eef55ef2a8ffa9cb4fe2bb7c6ef
+361,U1476,A,7,7-2,H,2,W,60/62-FORAM,0,2,55.3,55.32,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,P,P,,P,,P,,,P,,P,,P,,P,P,,,,P,P,P,P,,P,,P,P,,P,,,,,,,,361-U1476A-7H-2-W 60/62-FORAM,37c3ad6704da869a6f49333076539419
+361,U1476,A,7,7-3,H,3,W,70/72-FORAM,0,2,56.9,56.92,,,,A,,,,,,,P,P,P,P,P,,,P,P,,,,,,,,,P,,F,,P,,,P,,P,,P,,P,P,,,,P,P,P,P,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-3-W 70/72-FORAM,6c3842223469e1691bc6dd6ed7ea4e93
+361,U1476,A,7,7-4,H,4,W,60/62-FORAM,0,2,58.3,58.32,,,,A,,,P,,,,P,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-4-W 60/62-FORAM,e241724dceedd703790b8e0ae441c8e6
+361,U1476,A,7,7-5,H,5,W,70/72-FORAM,0,2,59.9,59.92,,,,A,P,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,P,P,P,P,P,P,,P,P,,P,,,,,,,,361-U1476A-7H-5-W 70/72-FORAM,3ff1b0f89bfb6dd0c7e828a860d63455
+361,U1476,A,7,7-6,H,6,W,70/72-FORAM,0,2,61.4,61.42,,,,A,,,,P,P,,,P,P,P,P,,,P,P,,,,P,,,,P,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-7H-6-W 70/72-FORAM,aaa933aacb6cd6547d891d0f17c18249
+361,U1476,A,7,7-CC,H,CC,PAL,FORAM,0,5,63.03,63.08,,,,A,,,,,F,,R,F,F,R,F,,,A,A,,,,,,,,,,,F,,F,,,F,,R,,,P,R,R,R,,,,R,R,,R,,,F,F,,F,,,,,,,,361-U1476A-7H-CC-PAL-FORAM,da1691c58f61c41900a73738632ac3c4
+361,U1476,A,8,8-1,H,1,W,70/72-FORAM,0,2,63.4,63.42,,,,A,,,,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,P,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-8H-1-W 70/72-FORAM,bf062fb280298d4bea1b29b376df1e81
+361,U1476,A,8,8-2,H,2,W,70/72-FORAM,0,2,64.9,64.92,,,,A,,,P,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,P,,P,,P,P,,P,,,,,,,,361-U1476A-8H-2-W 70/72-FORAM,aad509d7e53df17d3ad70c46b55336a3
+361,U1476,A,8,8-3,H,3,W,70/72-FORAM,0,2,66.4,66.42,,,,A,,,,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-8H-3-W 70/72-FORAM,a592af8cb6ec692946dc7d5910389961
+361,U1476,A,8,8-4,H,4,W,70/72-FORAM,0,2,67.9,67.92,,,,A,,,,,P,,,P,P,P,,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,,,,P,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-8H-4-W 70/72-FORAM,f62f8d88a00cf53b009efc08d5494918
+361,U1476,A,8,8-5,H,5,W,70/72-FORAM,0,2,69.4,69.42,,,,A,P,,,,P,,P,P,P,P,,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,,,,P,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-8H-5-W 70/72-FORAM,cf86fe1f37d71c77570efb9f6e0296a9
+361,U1476,A,8,8-6,H,6,W,70/72-FORAM,0,2,70.9,70.92,,,,A,,,P,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,P,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-8H-6-W 70/72-FORAM,e03b43c585c044ee8a7c021d40686764
+361,U1476,A,8,8-CC,H,CC,FORAM,,0,5,72.26,72.31,,,,A,,,,,F,,R,F,F,R,F,,,A,A,,,,,,,,,,,F,,R,,,F,,R,,,,R,R,R,,,,R,R,R,R,,,F,R,,F,,,,,,,,361-U1476A-8H-CC-FORAM,897762574d95555a1b4ba435f6074eff
+361,U1476,A,9,9-1,H,1,W,70/72-FORAM,0,2,72.9,72.92,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,P,P,P,,,P,,,P,,P,,,,,,,,361-U1476A-9H-1-W 70/72-FORAM,93a72ae0e1770b7dff91bbc8d117ec15
+361,U1476,A,9,9-2,H,2,W,70/72-FORAM,0,2,74.4,74.42,,,,A,,,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,P,,P,P,P,,,,P,P,,,P,,P,P,,P,,,,,,,,361-U1476A-9H-2-W 70/72-FORAM,ddf978f4de9ea3db65fc96c01cd48d9a
+361,U1476,A,9,9-3,H,3,W,70/72-FORAM,0,2,75.9,75.92,,,,A,,,,,,,,P,P,P,P,,,P,P,,,,P,,,,,P,,R,,P,,,P,,P,,P,,P,P,P,,,,P,P,P,,P,,P,P,,P,,,,,,,,361-U1476A-9H-3-W 70/72-FORAM,ac4de17af0b924cf236011185198c73a
+361,U1476,A,9,9-4,H,4,W,70/72-FORAM,0,2,77.4,77.42,,,,A,,,,,,,,P,P,P,P,,,P,P,,,,P,,,,,P,,P,,P,,,P,,P,,P,,P,P,P,,,,P,P,,,P,,,P,,P,,,,,,,,361-U1476A-9H-4-W 70/72-FORAM,20ecb15ac6beb809b207a9675372a862
+361,U1476,A,9,9-5,H,5,W,70/72-FORAM,0,2,78.9,78.92,,,,A,,,,,,,,P,P,P,R,,,P,P,,,,P,,,,,,,P,,R,,,F,,R,,F,,R,R,R,,,,R,R,,R,R,,P,P,,P,,,,,,,,361-U1476A-9H-5-W 70/72-FORAM,e9bad56879f33c49e7c69cb0a22d5626
+361,U1476,A,9,9-6,H,6,W,70/72-FORAM,0,2,80.4,80.42,,,,A,,F,,,,,,P,P,P,F,,,P,P,,,,P,,,,,,,R,,R,,,R,,R,,R,,R,R,R,,,,,R,,R,R,,P,P,,P,,,,,,,,361-U1476A-9H-6-W 70/72-FORAM,75c203fa712bcf16524b09cfdc9b752b
+361,U1476,A,9,9-CC,H,CC,PAL,FORAM,0,5,82.17,82.22,,,,A,,F,,,F,,,F,F,R,P,,,A,A,,,,R,,,,R,,,F,,R,,,R,,,,,,R,R,R,,,,R,R,,R,R,,F,R,,F,,,,,,,,361-U1476A-9H-CC-PAL-FORAM,fd38c973531d0e629cc2bc40be02cb9b
+361,U1476,A,10,10-1,H,1,W,70/72-FORAM,0,2,82.4,82.42,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,P,,P,,,,P,,P,,,,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-1-W 70/72-FORAM,221c86513a8821a306636c18e2acc360
+361,U1476,A,10,10-2,H,2,W,70/72-FORAM,0,2,83.9,83.92,,,,A,,P,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,,,F,,P,,,,,,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-10H-2-W 70/72-FORAM,e98ab962fe6c84def3844a3da8fc373d
+361,U1476,A,10,10-3,H,3,W,70/72-FORAM,0,2,85.4,85.42,,,,A,,P,,,,,,P,P,P,P,,,P,P,,,,P,,,,,,,R,,P,,,,,,,,,,,P,,,,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-3-W 70/72-FORAM,4834fa4d15cc8478b562506bc3a59415
+361,U1476,A,10,10-4,H,4,W,70/72-FORAM,0,2,86.9,86.92,,,,A,,P,,,P,,,P,P,P,P,,,P,P,,,,P,,,,,,,F,,P,,,,,P,,,,P,,P,,,,P,P,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-4-W 70/72-FORAM,87a06de4e65bb5c1838221059b1d4d50
+361,U1476,A,10,10-5,H,5,W,70/72-FORAM,0,2,88.4,88.42,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,F,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-10H-5-W 70/72-FORAM,ce96488d446c53d5a8f0bd33fdff20cd
+361,U1476,A,10,10-6,H,6,FORAM,,0,2,89.9,89.92,,,,A,,P,,,,,,P,P,P,P,,,P,P,,,,P,,,,,P,,F,,P,,,,,,,,,,,P,,,,P,,,P,P,,P,P,,P,,,,,,,,361-U1476A-10H-6-FORAM,54459658ce649e7afc3eb3033dd5a774
+361,U1476,A,10,10-CC,H,CC,PAL,FORAM,0,5,91.58,91.63,,,,A,,F,R,,F,,R,R,F,R,P,,,D,A,,,,R,,,,,R,,R,,R,,,R,,R,,,,R,R,,,,,,R,,R,R,R,F,R,,F,,,,,,,,361-U1476A-10H-CC-PAL-FORAM,256ef0324f120a9293d785ac3a72d21c
+361,U1476,A,11,11-1,H,1,W,70/72-FORAM,0,2,91.9,91.92,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-11H-1-W 70/72-FORAM,df5321b5f451ff2d61b44382dbabd303
+361,U1476,A,11,11-2,H,2,W,70/72-FORAM,0,2,93.4,93.42,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-11H-2-W 70/72-FORAM,9188e19aaf59e65ae74480f5e7685525
+361,U1476,A,11,11-3,H,3,W,70/72-FORAM,0,2,94.9,94.92,,,,A,,P,,,,,P,P,P,P,P,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,,,,,,,,,,361-U1476A-11H-3-W 70/72-FORAM,52bf954be7945adcf0b4309ab2f82e7d
+361,U1476,A,11,11-4,H,4,W,70/72-FORAM,0,2,96.4,96.42,,,,A,,P,,,,,P,P,P,P,,,,P,P,,,,P,,,,,,,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,P,P,,,R,,,,,,361-U1476A-11H-4-W 70/72-FORAM,00725e4d0f087412e984c7eb9e5c4f72
+361,U1476,A,11,11-5,H,5,W,70/72-FORAM,0,2,97.9,97.92,,,,A,,P,,P,P,,P,P,P,P,,P,,P,P,,,,P,,,,,P,,,,,,,P,,P,,,,P,P,P,,,,,,,P,,,P,,P,R,,R,,,,,,361-U1476A-11H-5-W 70/72-FORAM,f028225b1b6b39579e6d4c0e9272ee65
+361,U1476,A,11,11-6,H,6,W,70/72-FORAM,0,2,99.4,99.42,,,,A,,P,,P,P,,,P,P,P,,P,,P,P,,,,,,P,,,P,,,,P,,,P,,,,,,P,,,,,,P,P,,,P,,P,,,P,,P,,,,,,361-U1476A-11H-6-W 70/72-FORAM,86f9696cfa96b4b6b00a343b7445193f
+361,U1476,A,11,11-CC,H,CC,PAL,FORAM,0,5,101.14,101.19,,,,A,,R,R,R,F,,R,R,R,R,,R,,,A,,,,P,,,,,R,,R,,R,P,,R,,,,,,R,F,R,,,,R,,,R,R,,F,,R,F,,R,,,,,,361-U1476A-11H-CC-PAL-FORAM,968cfd5ea7d8a432c6a1b63f80c3e70e
+361,U1476,A,12,12-1,H,1,W,70/72-FORAM,0,2,101.4,101.42,,,,A,,P,P,P,P,,,P,P,P,,P,,,P,,,,,,,,,P,,,,P,,,P,,,,,,P,P,P,,,,P,,,,P,,P,,P,,,P,,,,,,361-U1476A-12H-1-W 70/72-FORAM,c4ae1790980dcb2d85cd24133d34a6b0
+361,U1476,A,12,12-2,H,2,W,70/72-FORAM,0,2,102.9,102.92,,,,A,,P,P,,P,,,P,P,P,,P,,,P,,,,,,,,,P,,P,,P,,,P,,,,,,P,P,,,,,P,,P,P,P,,P,,P,,,P,,,,,,361-U1476A-12H-2-W 70/72-FORAM,6dda471855782dc52e86a551311f8d80
+361,U1476,A,12,12-3,H,3,W,70/72-FORAM,0,2,104.4,104.42,,,,A,,,,,,,,P,P,P,,P,,,P,,,,,,,,,P,,P,,P,,,P,,,,,,P,,,,,,P,P,,P,P,,P,,P,P,,P,,,,,,361-U1476A-12H-3-W 70/72-FORAM,b23d7a9f9d2089204de9150c7b70d816
+361,U1476,A,12,12-4,H,4,W,70/72-FORAM,0,2,105.9,105.92,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,P,,P,,P,,,P,,,,,,P,,P,,,,P,,,P,P,,P,,P,,P,P,,,,,,361-U1476A-12H-4-W 70/72-FORAM,1bc16ac687964119e61256aa8262192e
+361,U1476,A,12,12-5,H,5,W,65/67-FORAM,0,2,107.35,107.37,,,,A,,P,P,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,P,,P,,,,,P,,,,P,,P,,,,P,,,P,P,,P,,P,,P,R,,,,,,361-U1476A-12H-5-W 65/67-FORAM,94d530b9ccedd1c31d882bccccc72d57
+361,U1476,A,12,12-6,H,6,W,70/72-FORAM,0,2,108.9,108.92,,,,A,,P,P,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,P,,P,,,P,,,,,,P,P,,,,,P,,P,P,P,,P,,P,,,P,,,,,,361-U1476A-12H-6-W 70/72-FORAM,49f8a7fd5321e670a8656918dd353b8e
+361,U1476,A,12,12-CC,H,CC,PAL,FORAM,0,5,110.46,110.51,,,,A,,F,R,R,F,,R,R,R,F,,A,,,A,,,,,,R,,,F,F,P,,,P,,R,,,,,,R,F,,,,,,,,R,R,,F,,R,,R,R,,,,,,361-U1476A-12H-CC-PAL-FORAM,69da5097972e637525cf0e627f0f7f8d
+361,U1476,A,13,13-1,H,1,W,70/72-FORAM,0,2,110.9,110.92,,,,A,,P,,,P,,,,P,P,,P,,,P,,,,,,P,,,,P,R,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-13H-1-W 70/72-FORAM,2e540d62b8ba2942e6035ba14592d121
+361,U1476,A,13,13-2,H,2,W,70/72-FORAM,0,2,112.4,112.42,,,,A,,P,P,,P,,,,P,P,,P,,,P,,,,,,P,,,P,P,P,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-13H-2-W 70/72-FORAM,8d1c6ab6929c49cb7bd57a250bbab23d
+361,U1476,A,13,13-3,H,3,W,70/72-FORAM,0,2,113.9,113.92,,,,A,,P,,,P,,,,P,P,,P,,,P,,,,,,P,,,P,P,R,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-13H-3-W 70/72-FORAM,aa989df282e24d38039cbdd5b2d41678
+361,U1476,A,13,13-4,H,4,W,70/72-FORAM,0,2,115.4,115.42,,,,A,,P,P,,P,,P,P,P,P,,P,,,P,,,,,,P,,,,P,R,,,,,F,,,,,,P,P,,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-4-W 70/72-FORAM,7c9ea1dbb86b7991d34dc3116bece0f0
+361,U1476,A,13,13-5,H,5,W,70/72-FORAM,0,2,116.9,116.92,,,,A,,P,,,P,,,P,P,P,,P,,,P,,,,,,P,,,,P,F,,P,,,F,,,,,,P,P,,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-5-W 70/72-FORAM,4f9ea0722486db0cf68707b93f0d5c64
+361,U1476,A,13,13-6,H,6,W,70/72-FORAM,0,2,118.4,118.42,,,,A,,P,,,P,,,P,P,A,,P,,,P,,,,,,P,,,P,P,R,,P,,,F,,,,,,P,P,P,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-6-W 70/72-FORAM,7d1c762d994dded5df832dd6152af6b9
+361,U1476,A,13,13-CC,H,CC,FORAM,,0,5,119.85,119.9,,,,A,,F,,,F,,R,R,R,F,,A,,,A,,,,,,R,,,F,F,F,,R,R,,R,,,,,,R,F,R,,,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-13H-CC-FORAM,c1cefdabb9e83d7a1a78cacc28464f54
+361,U1476,A,14,14-1,H,1,W,70/72-FORAM,0,2,120.4,120.42,,,,A,,F,,,F,,,R,R,F,,P,,,A,,,,,,P,,,P,P,F,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-1-W 70/72-FORAM,5976b9499abf75e0ffbd92363948dbe5
+361,U1476,A,14,14-2,H,2,W,70/72-FORAM,0,2,121.9,121.92,,,,A,,F,,,F,,,R,R,F,,P,,,A,,,,,,P,,,,P,P,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-2-W 70/72-FORAM,a818d6ae4343131ad3110a3f9bf5dcc7
+361,U1476,A,14,14-3,H,3,W,70/72-FORAM,0,2,123.4,123.42,,,,A,,P,,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,R,,P,,,P,,,,,,P,P,P,,,,P,,P,,P,,P,,P,,,P,,,,,,361-U1476A-14H-3-W 70/72-FORAM,8d7e924789b50d3204e16d8a354a8295
+361,U1476,A,14,14-4,H,4,W,70/72-FORAM,0,2,124.9,124.92,,,,A,,P,,,P,,,P,P,P,,P,,,P,,,,,,,,,P,P,R,,P,,,P,,,,,,P,P,P,,R,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-4-W 70/72-FORAM,9d63d5e43a33c9480551ed8689cbf3b8
+361,U1476,A,14,14-5,H,5,W,70/72-FORAM,0,2,126.4,126.42,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,P,P,R,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-5-W 70/72-FORAM,f4e71b00e929f08682e19fa64e97084d
+361,U1476,A,14,14-6,H,6,W,70/72-FORAM,0,2,127.9,127.92,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,R,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-14H-6-W 70/72-FORAM,66003f363fc0795d860747cad6ddc4f3
+361,U1476,A,14,14-CC,H,CC,PAL,FORAM,0,5,129.67,129.72,,,,A,,A,,,R,,R,R,R,R,,F,,,A,,,,,,,,,F,R,R,,R,R,,R,P,R,,,,F,F,F,,,,R,,,F,R,,R,,F,P,P,R,,,,,,361-U1476A-14H-CC-PAL-FORAM,5186fe915e6d58fc2b36ea934c8b9491
+361,U1476,A,15,15-1,H,1,W,70/72-FORAM,0,2,129.9,129.92,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,,P,F,,P,,,P,,,,,,P,P,P,,P,,,P,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-1-W 70/72-FORAM,a02ad59d5157a23a47b370c2f326e9cb
+361,U1476,A,15,15-2,H,2,W,70/72-FORAM,0,2,131.4,131.42,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-2-W 70/72-FORAM,d26aaee59a04287beef6295a53a0a5cb
+361,U1476,A,15,15-3,H,3,W,70/72-FORAM,0,2,132.9,132.92,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-3-W 70/72-FORAM,713b4f2c9c0d45c3762ee8c50e26f0e5
+361,U1476,A,15,15-4,H,4,W,70/72-FORAM,0,2,134.4,134.42,,,,A,,P,,,,,,P,P,P,,P,,,P,,,,,,,,,P,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-4-W 70/72-FORAM,f336a573919c84cb20d907a849918d5a
+361,U1476,A,15,15-5,H,5,W,70/72-FORAM,0,2,135.9,135.92,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,P,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-5-W 70/72-FORAM,e145e5be287003beb983d0066902d0b8
+361,U1476,A,15,15-6,H,6,W,70/72-FORAM,0,2,137.4,137.42,,,,A,,p,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-15H-6-W 70/72-FORAM,1a9e3b18d6fc15ad60dba445e6fb4df4
+361,U1476,A,15,15-CC,H,CC,PAL,FORAM,0,5,138.84,138.89,,,,A,,f,,,R,,R,P,R,P,,F,,,F,,,,,,,,,F,R,,,,R,,R,,P,,,,R,,F,,F,,F,P,,F,R,,R,,R,P,P,R,,,,,,361-U1476A-15H-CC-PAL-FORAM,e1666f3e01930230b608776837aafc63
+361,U1476,A,16,16-1,H,1,W,60/62-FORAM,0,2,139.3,139.32,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,F,P,,,,,,361-U1476A-16H-1-W 60/62-FORAM,9b740b53dfef070d2047fc3850f8f232
+361,U1476,A,16,16-2,H,2,W,60/62-FORAM,0,2,140.8,140.82,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-2-W 60/62-FORAM,494af1548cc95744600ad1ae0c5ab005
+361,U1476,A,16,16-3,H,3,W,60/62-FORAM,0,2,142.3,142.32,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-3-W 60/62-FORAM,0aa27282e287d663cc3ca4b11b1c3d07
+361,U1476,A,16,16-4,H,4,W,60/62-FORAM,0,2,143.8,143.82,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-4-W 60/62-FORAM,3d8b0b98bc414ab4b93cd4b561a0fdc7
+361,U1476,A,16,16-5,H,5,W,60/62-FORAM,0,2,145.3,145.32,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,P,,P,,P,P,,,,,,361-U1476A-16H-5-W 60/62-FORAM,2c3c5609a4eaad16d81503f0b46ced9a
+361,U1476,A,16,16-6,H,6,W,60/62-FORAM,0,2,146.8,146.82,,,,A,,P,P,,,,,P,P,P,,P,,,P,,,,,,,,,,P,,,P,,,P,,,,,,P,P,P,,P,,,,P,,P,,R,,P,,P,P,,,,,,361-U1476A-16H-6-W 60/62-FORAM,f2d9f872a8ef2a5b1afa469e71edc927
+361,U1476,A,16,16-CC,H,CC,PAL,FORAM,0,5,148.44,148.49,,,,A,,F,,,R,,R,P,R,A,,F,,,A,,,,,,,,,F,R,,,,R,P,R,,R,,,,R,R,F,,F,,F,R,,R,,,R,,R,,F,F,,,,,,361-U1476A-16H-CC-PAL-FORAM,b35cbf332148f97b59cce5abb14b62e3
+361,U1476,A,17,17-1,H,1,W,60/62-FORAM,0,2,148.8,148.82,,,,F,,P,,,P,,P,P,,P,,P,,,R,R,,,,,,,,R,,,,,R,,R,,,,,,R,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-1-W 60/62-FORAM,43816d746779925cb10185d547cda930
+361,U1476,A,17,17-2,H,2,W,60/62-FORAM,0,2,150.3,150.32,,,,A,,R,,,R,,,R,,R,,R,,,R,R,,,,,,,,R,,,,,F,,F,,,,,,F,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-2-W 60/62-FORAM,f1df368e1caf6a8ba94940df6b5fb34d
+361,U1476,A,17,17-3,H,3,W,60/62-FORAM,0,2,151.8,151.82,,,,A,,P,,,P,,,,,P,,P,,,P,R,,,,,,,,R,R,,,,F,,F,,,,,,F,P,P,,P,P,,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-17H-3-W 60/62-FORAM,fac65669f5e7a16b947ca2ee121574e3
+361,U1476,A,17,17-4,H,4,W,60/62-FORAM,0,2,153.3,153.32,,,,A,,P,,,P,,,P,P,P,,P,,,P,R,,,,,,,,R,,,,F,R,,F,,,,,,P,P,P,,P,,P,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-17H-4-W 60/62-FORAM,08ca00df09ec7a9c2e9ce64b5283154b
+361,U1476,A,17,17-5,H,5,W,60/62-FORAM,0,2,154.8,154.82,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,F,P,,,R,F,,F,,P,,,,P,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-5-W 60/62-FORAM,c1a196ba261460536c79bdb6a3d5ea3d
+361,U1476,A,17,17-6,H,6,W,60/62-FORAM,0,2,156.3,156.32,,,,A,,R,,,R,,,R,R,P,,P,,,P,R,,,,,,,,R,R,,,R,R,,R,,R,,,,R,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-17H-6-W 60/62-FORAM,5b105edfae66fafb11572099d02fa486
+361,U1476,A,17,17-CC,H,CC,PAL,FORAM,0,3,157.89,157.92,,,,A,,R,,,P,,,F,,A,,P,,,A,R,,,,,,,,F,,,,R,R,,F,,,,,,R,,F,,F,,P,,P,,,,F,,P,P,R,F,,,,,,361-U1476A-17H-CC-PAL-FORAM,89eea81dd4e68e09fd688a4a9e04b987
+361,U1476,A,18,18-1,H,1,W,60/62-FORAM,0,2,158.3,158.32,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,R,,,,F,,F,,R,,,,R,P,P,,P,,P,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-18H-1-W 60/62-FORAM,bb55aa2ebac285726b844ad67243b91a
+361,U1476,A,18,18-2,H,2,W,60/62-FORAM,0,2,159.8,159.82,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,R,,,,R,,F,,R,,,,F,P,P,,P,,P,P,,P,,,,,P,P,P,P,,,,,,361-U1476A-18H-2-W 60/62-FORAM,d0418880069c9c5582e26319d218aa07
+361,U1476,A,18,18-3,H,3,W,60/62-FORAM,0,2,161.3,161.32,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,R,,,,R,,R,,R,,,,F,P,P,,P,,P,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-18H-3-W 60/62-FORAM,17c88aa4dd7a45c979ed5d03f7f367d0
+361,U1476,A,18,18-4,H,4,W,60/62-FORAM,0,2,162.8,162.82,,,,A,,P,,,P,,,P,,P,,P,,,P,R,,,,,,,,R,,,,,R,,,,R,,,,F,P,P,,P,,,P,,P,,,P,,P,P,P,P,,,,,,361-U1476A-18H-4-W 60/62-FORAM,a16682333426e7b42dce00024a10c1f8
+361,U1476,A,18,18-5,H,5,W,60/62-FORAM,0,2,164.3,164.32,,,,A,,P,,,,,,,,P,,P,,,P,R,,,,,,,,,R,,,,R,,,,R,,,,F,P,P,,P,,,,,P,,,P,,P,,P,P,,,,,,361-U1476A-18H-5-W 60/62-FORAM,9ec2eccbd2172d696a3a486ea7342031
+361,U1476,A,18,18-6,H,6,W,60/62-FORAM,0,2,165.8,165.82,,,,A,,P,,,P,,,P,P,P,,P,,,P,R,,,,,,,,,,,,,R,,,,R,,,,F,R,F,,A,,R,,,R,R,,R,,R,,R,R,,,,,,361-U1476A-18H-6-W 60/62-FORAM,8803952855141b303fe3a3571d50550f
+361,U1476,A,18,18-CC,H,CC,PAL,FORAM,0,5,167.65,167.7,,,,A,,R,,,,,,F,P,A,,P,,,A,P,,,,,P,,,F,R,,,P,P,,R,,,,,,F,P,R,,F,,R,P,P,P,P,,R,,R,,F,R,,,,,,361-U1476A-18H-CC-PAL-FORAM,7215673becaab1a77a061dfcde3f12d5
+361,U1476,A,19,19-1,H,1,W,60/62-FORAM,0,2,167.8,167.82,,,,A,,P,P,,,,,,P,P,,P,,,P,P,,,,,,,,P,,,,,P,,,R,P,,,,F,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-1-W 60/62-FORAM,93c7453b07503f174541fdd27b60bafa
+361,U1476,A,19,19-2,H,2,W,60/62-FORAM,0,2,169.3,169.32,,,,A,,P,,,,,,,,P,,P,,,P,P,,,,,P,,,P,,,,,P,,,R,P,,,,R,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-2-W 60/62-FORAM,bf52321fb766a23cd6b500d3d3d5adbf
+361,U1476,A,19,19-3,H,3,W,60/62-FORAM,0,2,170.8,170.82,,,,A,,,,,,,,P,P,P,,P,,,P,R,,,,,,,,R,,,,,R,R,R,R,,,,,F,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-3-W 60/62-FORAM,72098966c8ea22b70bd1de3c4628eadd
+361,U1476,A,19,19-4,H,4,W,60/62-FORAM,0,2,172.3,172.32,,,,A,,,,,,,,,P,P,,P,,,P,R,,,,,R,,,R,,,,,R,,R,R,R,,,,F,P,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-19H-4-W 60/62-FORAM,29a4f5c78556faef894aa1def0dab011
+361,U1476,A,19,19-5,H,5,W,60/62-FORAM,0,2,173.8,173.82,,,,A,,,,,,,,,P,P,,P,,,P,R,,,,,R,,,R,,,,,R,,R,,,,,,R,P,,,P,,P,,,P,P,,P,,P,,P,P,,,,,,361-U1476A-19H-5-W 60/62-FORAM,558c0a3f912f5603d69933ce8a95a48a
+361,U1476,A,19,19-6,H,6,W,60/62-FORAM,0,2,175.3,175.32,,,,A,,,,,,,,P,,P,,P,,,P,R,,,,,R,,,R,,,,,R,,,,,,,,F,P,P,,P,,P,P,,P,,P,P,,P,,P,P,,,,,,361-U1476A-19H-6-W 60/62-FORAM,ef098d114b508117088f7f72bb376db7
+361,U1476,A,19,19-CC,H,CC,PAL,FORAM,0,5,176.92,176.97,,,,F,,,,,R,,P,F,R,A,,P,,,A,R,,,,,P,,,R,,,,P,R,P,R,,R,,,,F,R,R,,R,,P,P,,,P,,R,,,P,R,R,,,,,,361-U1476A-19H-CC-PAL-FORAM,65e752e926241f44a92c1bb45b32b603
+361,U1476,A,20,20-1,H,1,W,60/62-FORAM,0,2,177.3,177.32,,,,A,,,,,P,,P,,,P,,P,,,P,R,,,,,R,,,,,,,,R,P,,,R,,,,F,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-1-W 60/62-FORAM,3f34b90d3dc28b4bc7e2e01437935816
+361,U1476,A,20,20-2,H,2,W,60/62-FORAM,0,2,178.8,178.82,,,,A,,,,,,,P,P,P,P,,P,,,P,R,,,,,R,,,,,,,,R,,R,,,,,,,P,P,,P,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-2-W 60/62-FORAM,0bfe8a69ae4ba2ef5639cb0ffa2364d2
+361,U1476,A,20,20-3,H,3,W,60/62-FORAM,0,2,180.3,180.32,,,,A,,,,,,,P,,P,P,,P,,,P,R,,,,,,,,,,,,,F,,,,,,,,,P,P,,P,,P,,,,,,P,,P,,P,P,,,,,,361-U1476A-20H-3-W 60/62-FORAM,dbe6ed497d972d2843523bfc49fb6422
+361,U1476,A,20,20-4,H,4,W,60/62-FORAM,0,2,181.8,181.82,,,,A,,,,,P,,P,,P,P,,P,,,P,R,,,,,,,,,,,,,R,P,,,,,,,,P,P,,P,,,,,,,,P,,P,,P,P,,,,,,361-U1476A-20H-4-W 60/62-FORAM,7c8cb6ceb2f4409d2bb146f6503431c8
+361,U1476,A,20,20-5,H,5,W,60/62-FORAM,0,2,183.3,183.32,,,,A,,R,,,,,,,P,P,,P,,,P,P,,,,,,,,,,,,,P,P,,,,,,,,P,P,,P,,,,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-5-W 60/62-FORAM,a08a8c8087bb951c211bdb63276b36dc
+361,U1476,A,20,20-6,H,6,W,60/62-FORAM,0,2,184.8,184.82,,,,A,,P,,,,,,,P,P,,P,,,P,,,,,,,,,,P,,,,P,,,,,,,,,P,P,,P,P,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-20H-6-W 60/62-FORAM,60b13a15d0c49ea772c686c00489a682
+361,U1476,A,20,20-CC,H,CC,FORAM,,0,5,186.38,186.43,,,,A,,R,,,,,,F,P,A,,P,,,A,,,,,,,,,R,P,,,P,R,R,R,,,,,,,,R,,F,,P,P,,,P,,F,,R,,F,R,,,,,,361-U1476A-20H-CC-FORAM,9541c74103aaf6e085b7a4b980a797a6
+361,U1476,A,21,21-1,H,1,W,60/62-FORAM,0,2,186.8,186.82,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,,,,,,R,,,,,,,,,P,,A,,P,,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-1-W 60/62-FORAM,17453dadc88f0da56fa27aeb38fb84f0
+361,U1476,A,21,21-2,H,2,W,60/62-FORAM,0,2,188.3,188.32,,,,F,,R,,,,,,,,P,,P,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,F,,R,D,,,,,,361-U1476A-21H-2-W 60/62-FORAM,325476fd790fb6ec8da61069dbc2a794
+361,U1476,A,21,21-3,H,3,W,60/62-FORAM,0,2,189.8,189.82,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,,,,,,,,,,,,,,P,,,P,,,,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-3-W 60/62-FORAM,253b0ff39916aecb6db6d67538bd1110
+361,U1476,A,21,21-4,H,4,W,60/62-FORAM,0,2,191.3,191.32,,,,F,,R,,,,,,,,P,,R,,,R,R,,,,,,,,R,,,,,R,,,,R,,,,,R,,,A,,,R,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-4-W 60/62-FORAM,1d02bc71097fabbd9ea34d5d0ae1d807
+361,U1476,A,21,21-5,H,5,W,60/62-FORAM,0,2,192.8,192.82,,,,F,,P,,,,,,,,P,,P,,,P,,,,,,,,,P,,,,,P,,,,P,,,,,P,P,,A,,,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-21H-5-W 60/62-FORAM,82867138f183a261a1ee4b747b804d5f
+361,U1476,A,21,21-6,H,6,W,60/62-FORAM,0,2,194.3,194.32,,,,F,,R,,,,,,,,P,,P,,,P,P,,,,,,,,P,P,,,,P,,,,P,,,,,P,P,,A,,P,P,,P,,,P,,P,,,P,,,,,,361-U1476A-21H-6-W 60/62-FORAM,35f111304203b9588d087b0a16d6356b
+361,U1476,A,21,21-CC,H,CC,PAL,FORAM,0,5,196.0,196.05,,,,F,,R,,,R,,,F,,A,,P,,,A,P,,,R,,,,,P,R,,,,P,P,,,,,,,,,R,,A,,R,P,,P,,,F,,R,,F,F,,,,,,361-U1476A-21H-CC-PAL-FORAM,661d0f1396e79cee897d2671c0980773
+361,U1476,A,22,22-1,H,1,W,60/62-FORAM,0,2,196.3,196.32,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,R,,,,P,,,,P,,,,,,P,,P,,P,P,,P,,,P,,P,,P,P,,,,,,361-U1476A-22H-1-W 60/62-FORAM,e4c1175535325d7abf8c1a7a39d40438
+361,U1476,A,22,22-2,H,2,W,60/62-FORAM,0,2,197.8,197.82,,,,F,,P,,,,,,,,P,,P,,,P,P,,,,,,,,P,R,,,,P,,,,P,,,,,,P,,A,,P,P,,,,,P,,P,,P,P,,,,,,361-U1476A-22H-2-W 60/62-FORAM,e8aa3094076ac0fec0fb9974a3b493e5
+361,U1476,A,22,22-3,H,3,W,60/62-FORAM,0,2,199.3,199.32,,,,F,,P,,,,,,,,P,,P,,,P,R,,,,,,,,,,,,,P,,,,P,,,,,,,,A,,P,P,,,,,P,,R,,,D,,,,,,361-U1476A-22H-3-W 60/62-FORAM,6ff3c047ad069481c8d537314a0fcff0
+361,U1476,A,22,22-4,H,4,W,60/62-FORAM,0,2,200.8,200.82,,,,F,,P,,,P,,,P,,P,,P,,,P,,,,,,,,,P,,,,,,,,,P,,,,,,P,,A,,P,P,,,,,P,,P,,,D,,,,,,361-U1476A-22H-4-W 60/62-FORAM,12cc77a721da18289ae2c61777d3f44f
+361,U1476,A,22,22-6,H,6,W,60/62-FORAM,0,2,203.8,203.82,,,,F,,R,,,P,,,P,,P,,F,,,R,,,,,,,,,,,,,,,,,,R,,,,,R,F,,F,,F,R,,R,R,,R,,R,,,A,,,,,,361-U1476A-22H-6-W 60/62-FORAM,b7817bf521a52a1c8f57c622ea305be2
+361,U1476,A,22,22-CC,H,CC,PAL,FORAM,0,5,205.62,205.67,,,,F,,R,,,P,,,P,,P,,A,,,R,,,,,,,,,P,,,,P,R,,,,P,,,,,R,R,,F,,P,,,R,P,,F,,,,F,F,,,,,,361-U1476A-22H-CC-PAL-FORAM,18b559bafb1e7f78ba32ddfab8586193
+361,U1476,A,23,23-1,H,1,W,60/62-FORAM,0,2,205.8,205.82,,,,F,,R,,,,,,,,R,,R,,,F,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,F,,F,R,,R,R,,P,,,,,D,,,,,,361-U1476A-23H-1-W 60/62-FORAM,4e09cfaec7215d60ca506bf250610d48
+361,U1476,A,23,23-2,H,2,W,60/62-FORAM,0,2,207.3,207.32,,,,F,,R,,,R,,,,,,,F,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,F,R,,R,R,,F,,,,,D,,,,,,361-U1476A-23H-2-W 60/62-FORAM,3b98698948aaa93ab44b33e9db84aab6
+361,U1476,A,23,23-3,H,3,W,60/62-FORAM,0,2,208.8,208.82,,,,F,,R,,,R,,,,,,,F,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,F,R,,,R,,F,,,,,D,,,,,,361-U1476A-23H-3-W 60/62-FORAM,13bf486b614b4bc00af0a52220eaf0f0
+361,U1476,A,23,23-4,H,4,W,60/62-FORAM,0,2,210.3,210.32,,,,F,,R,,,R,,,,,,,R,,,R,,,,,,,,,,,,,,,,,,,,,,,R,F,,A,,F,R,,,F,,R,,,,,D,,,,,,361-U1476A-23H-4-W 60/62-FORAM,da1794bef9cb5141df49e487800f881e
+361,U1476,A,23,23-5,H,5,W,60/62-FORAM,0,2,211.8,211.82,,,,F,,R,,,R,,,R,,R,,R,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,F,R,,,F,,P,,,,,D,,,,,,361-U1476A-23H-5-W 60/62-FORAM,cf59b20abb556749ffbb338a6358b668
+361,U1476,A,23,23-6,H,6,W,60/62-FORAM,0,2,213.3,213.32,,,,F,,R,,,R,,,R,,R,,F,,,F,R,,,,,,,,,,,,,R,,,,R,,,,,R,F,,A,,A,R,,,R,,R,,,,R,D,,,,,,361-U1476A-23H-6-W 60/62-FORAM,4617a1612eb51df2a50d23b0831c587c
+361,U1476,A,23,23-CC,H,CC,PAL,FORAM,0,5,215.19,215.24,,,,F,,R,,,R,,,R,,A,,,P,,A,,,,,,,,,P,,,,,P,P,P,,,,,,,,,,,,,,,,,,,,,,F,F,,,,,,361-U1476A-23H-CC-PAL-FORAM,393a649ce24b94b22c74c8c1059a5195
+361,U1476,A,24,24-1,H,1,W,70/72-FORAM,0,2,215.4,215.42,,,,F,,R,,,R,,,R,,,,R,,,R,,,,,,,,,,,,,,,,,,R,,,,,R,R,,A,,F,R,,,R,,R,,,,R,A,,,,,,361-U1476A-24H-1-W 70/72-FORAM,4c6f55fd38abe6da9c539bab1295c128
+361,U1476,A,24,24-2,H,2,W,70/72-FORAM,0,2,216.9,216.92,,,,F,,R,,,R,,,R,,R,,R,,,R,,,,,,,,,,,,,,R,,,,R,,,,,R,R,,A,,F,R,,,F,,F,,,,R,D,,,,,,361-U1476A-24H-2-W 70/72-FORAM,30b9733c11fde34655c7bd6f1f959616
+361,U1476,A,24,24-3,H,3,W,70/72-FORAM,0,2,218.4,218.42,,,,F,,P,,,P,,,R,,F,,,,,R,,,,,,,,,,,,,,,,,,R,,,,,R,R,,D,,R,R,,R,R,,R,,,,R,A,,,,,,361-U1476A-24H-3-W 70/72-FORAM,bde08d0ac2aadafc614b69b3b2c83210
+361,U1476,A,24,24-4,H,4,W,70/72-FORAM,0,2,219.9,219.92,,,,F,,P,,,P,,,P,,A,,,,,F,,,,,,,,,,,,,,R,,,,R,,,,,R,,,D,,F,R,,R,F,,F,,,,R,A,,,,,,361-U1476A-24H-4-W 70/72-FORAM,7d34199039abf49a1c350768ce51cb43
+361,U1476,A,24,24-5,H,5,W,70/72-FORAM,0,2,221.4,221.42,,,,F,,P,,,P,,,P,,P,,R,,,P,,,,,,,,,,,,,,,,,,R,,,,,R,,,D,,R,R,,R,R,,R,,,,R,A,,,,,,361-U1476A-24H-5-W 70/72-FORAM,011799eb2754293b212441ba2d24ff0e
+361,U1476,A,24,24-6,H,6,W,70/72-FORAM,0,2,222.9,222.92,,,,F,,P,,,P,,,P,,F,,,,,F,,,,,,,,,,,,,,R,,,,R,,,,,,,,D,,F,R,,R,F,,R,,,,R,A,,,,,,361-U1476A-24H-6-W 70/72-FORAM,a8363d18176f8a00ba975f41610e61b7
+361,U1476,A,24,24-CC,H,CC,PAL,FORAM,0,5,224.52,224.57,,,,F,,R,,,P,,,,,F,,,,,F,,,,,,,,,,,,,,R,P,,,,,,,,,,,F,,,P,,,,,,,,,R,A,,,,,,361-U1476A-24H-CC-PAL-FORAM,091b78214a57e25a411ba9e97b76e26e

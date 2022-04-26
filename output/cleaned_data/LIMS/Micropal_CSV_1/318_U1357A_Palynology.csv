@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Saccate pollen,Nothofagus pollen,other pollen,spores,fungal spores
-318-U1357A-3H-1-PAL-PALY-PALYA,318,U1357,A,3,3-1,H,1,PAL,PALY-PALYA,0,0,17.1,17.1,B,B,B,B,
-318-U1357A-10H-PALY-PALYA,318,U1357,A,10,10-PALY,H,PALY,PALYA,,0,0,83.6,83.6,B,B,B,B,
-318-U1357A-20H-4-PAL-PALY-PALY,318,U1357,A,20,20-4,H,4,PAL,PALY-PALY,0,0,184.25,184.25,B,B,B,B,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Saccate pollen,Nothofagus pollen,other pollen,spores,fungal spores,eodp_id
+318-U1357A-3H-1-PAL-PALY-PALYA,318,U1357,A,3,3-1,H,1,PAL,PALY-PALYA,0,0,17.1,17.1,B,B,B,B,,991a0013493cd65aa56cb1fdda36a4c1
+318-U1357A-10H-PALY-PALYA,318,U1357,A,10,10-PALY,H,PALY,PALYA,,0,0,83.6,83.6,B,B,B,B,,5403566fd2a3f5ae85e6b80230fb5f9b
+318-U1357A-20H-4-PAL-PALY-PALY,318,U1357,A,20,20-4,H,4,PAL,PALY-PALY,0,0,184.25,184.25,B,B,B,B,,7851ba1ddfdda8ea3d63cd131ebec702

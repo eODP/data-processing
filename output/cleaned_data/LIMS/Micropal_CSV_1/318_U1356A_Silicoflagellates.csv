@@ -1,20 +1,20 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Silicoflagellates group abundance,Silicoflagellate preservation dissolution,Silicoflagellate preservation fragmentation,Corbisema apiculata,Corbisema flexuosa,Corbisema hastata,Corbisema regina,Corbisema sp.,Corbisema triacantha,Dictyocha deflandrei,Dictyocha fibula,Dictyocha frenguellii,Dictyocha hexacantha,Dictyocha pentagona,Distephanus pseudofibulua,Distephanus speculum,Mesocena diadon diadon,Naviculopsis constricta,Naviculopsis foliacea,Septamesocena apiculata,Septamesocena pappii,Silicoflagellate species
-318-U1356A-1R-2-W 2/4-PAL-DIAT2,318,U1356,A,1,1-2,R,2,W,2/4-PAL-DIAT2,0,2.0,1.52,1.54,X,,,,,,,,,,,,,,X,,X,,,,,
-318-U1356A-15R-6-W 40/40-DIAT2,318,U1356,A,15,15-6,R,6,W,40/40-DIAT2,0,0.0,141.2,141.2,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-19R-CC-PAL-DIAT3,318,U1356,A,19,19-CC,R,CC,PAL,DIAT3,0,0.0,179.68,179.68,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-25R-CC-PAL-DIAT2,318,U1356,A,25,25-CC,R,CC,PAL,DIAT2,0,0.0,229.9,229.9,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-27R-CC-PAL-DIAT4,318,U1356,A,27,27-CC,R,CC,PAL,DIAT4,0,3.0,248.9,248.93,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-28R-CC-PAL-DIAT2,318,U1356,A,28,28-CC,R,CC,PAL,DIAT2,0,3.0,258.56,258.59,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-29R-CC-PAL-DIAT1,318,U1356,A,29,29-CC,R,CC,PAL,DIAT1,0,2.0,268.18,268.2,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-30R-CC-PAL-DIAT1,318,U1356,A,30,30-CC,R,CC,PAL,DIAT1,0,3.0,285.245,285.275,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-31R-CC-PAL-DIAT2,318,U1356,A,31,31-CC,R,CC,PAL,DIAT2,0,2.0,287.06,287.08,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-33R-CC-PAL-DIAT1,318,U1356,A,33,33-CC,R,CC,PAL,DIAT1,0,3.0,307.64,307.67,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-34R-2-W 55/55-DIAT1,318,U1356,A,34,34-2,R,2,W,55/55-DIAT1,0,0.0,317.95,317.95,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-35R-2-W 119/119-DIAT2,318,U1356,A,35,35-2,R,2,W,119/119-DIAT2,0,0.5,328.185,328.19,X,,,,,,,,,,,,,,,X,,,,,,
-318-U1356A-35R-CC-PAL-DIAT1,318,U1356,A,35,35-CC,R,CC,PAL,DIAT1,0,0.0,331.44,331.44,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-48R-CC-PAL-DIAT1,318,U1356,A,48,48-CC,R,CC,PAL,DIAT1,0,0.0,453.98,453.98,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-51R-1-W 30/30-DIAT4,318,U1356,A,51,51-1,R,1,W,30/30-DIAT4,0,0.0,478.9,478.9,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-76R-5-A 89/89-SED,318,U1356,A,76,76-5,R,5,A,89/89-SED,0,0.0,724.455,724.455,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-76R-5-W 87/88-DIAT1 paly res,318,U1356,A,76,76-5,R,5,W,87/88-DIAT1 paly res,0,1.0,724.44,724.45,X,,,,,,,,,,,,,,,,,,,,,
-318-U1356A-76R-CC-PAL-DIAT1 paly res,318,U1356,A,76,76-CC,R,CC,PAL,DIAT1 paly res,0,5.0,725.6,725.65,X,,,,,,,,,,,X,,,,,,,,,,
-318-U1356A-101R-CC-PAL-DIAT2,318,U1356,A,101,101-CC,R,CC,PAL,DIAT2,0,0.0,951.92,951.92,X,,,,,,,,,,,,,,,,,,X,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Silicoflagellates group abundance,Silicoflagellate preservation dissolution,Silicoflagellate preservation fragmentation,Corbisema apiculata,Corbisema flexuosa,Corbisema hastata,Corbisema regina,Corbisema sp.,Corbisema triacantha,Dictyocha deflandrei,Dictyocha fibula,Dictyocha frenguellii,Dictyocha hexacantha,Dictyocha pentagona,Distephanus pseudofibulua,Distephanus speculum,Mesocena diadon diadon,Naviculopsis constricta,Naviculopsis foliacea,Septamesocena apiculata,Septamesocena pappii,Silicoflagellate species,eodp_id
+318-U1356A-1R-2-W 2/4-PAL-DIAT2,318,U1356,A,1,1-2,R,2,W,2/4-PAL-DIAT2,0,2.0,1.52,1.54,X,,,,,,,,,,,,,,X,,X,,,,,,633e4ce1f605ede7faa52765e07101e5
+318-U1356A-15R-6-W 40/40-DIAT2,318,U1356,A,15,15-6,R,6,W,40/40-DIAT2,0,0.0,141.2,141.2,X,,,,,,,,,,,,,,,,,,,,,,d46c6f63aced2a0f871e30aa51546334
+318-U1356A-19R-CC-PAL-DIAT3,318,U1356,A,19,19-CC,R,CC,PAL,DIAT3,0,0.0,179.68,179.68,X,,,,,,,,,,,,,,,,,,,,,,b4cbb4cf1ae66ea643ffea3dcc8296cc
+318-U1356A-25R-CC-PAL-DIAT2,318,U1356,A,25,25-CC,R,CC,PAL,DIAT2,0,0.0,229.9,229.9,X,,,,,,,,,,,,,,,,,,,,,,9104684d9460193b3ff295f6cb4fb114
+318-U1356A-27R-CC-PAL-DIAT4,318,U1356,A,27,27-CC,R,CC,PAL,DIAT4,0,3.0,248.9,248.93,X,,,,,,,,,,,,,,,,,,,,,,841b5f5c7f388e0c0c0513c7ce86718c
+318-U1356A-28R-CC-PAL-DIAT2,318,U1356,A,28,28-CC,R,CC,PAL,DIAT2,0,3.0,258.56,258.59,X,,,,,,,,,,,,,,,,,,,,,,f333f1ec72bc2d2fb6f52f4937464177
+318-U1356A-29R-CC-PAL-DIAT1,318,U1356,A,29,29-CC,R,CC,PAL,DIAT1,0,2.0,268.18,268.2,X,,,,,,,,,,,,,,,,,,,,,,7d3b9f54aa58fa1aa58bfba46b23e3b8
+318-U1356A-30R-CC-PAL-DIAT1,318,U1356,A,30,30-CC,R,CC,PAL,DIAT1,0,3.0,285.245,285.275,X,,,,,,,,,,,,,,,,,,,,,,a02c4c354149fcb5505d61ef1aba8a0e
+318-U1356A-31R-CC-PAL-DIAT2,318,U1356,A,31,31-CC,R,CC,PAL,DIAT2,0,2.0,287.06,287.08,X,,,,,,,,,,,,,,,,,,,,,,40b5b9ce1e4971211c70223c0c116bf0
+318-U1356A-33R-CC-PAL-DIAT1,318,U1356,A,33,33-CC,R,CC,PAL,DIAT1,0,3.0,307.64,307.67,X,,,,,,,,,,,,,,,,,,,,,,2d7568a68edf17f5b5da6ebcc0e898d9
+318-U1356A-34R-2-W 55/55-DIAT1,318,U1356,A,34,34-2,R,2,W,55/55-DIAT1,0,0.0,317.95,317.95,X,,,,,,,,,,,,,,,,,,,,,,058f600fefb7c33617c998a0d49311f9
+318-U1356A-35R-2-W 119/119-DIAT2,318,U1356,A,35,35-2,R,2,W,119/119-DIAT2,0,0.5,328.185,328.19,X,,,,,,,,,,,,,,,X,,,,,,,bff4f9af3fcb65c3d98506334ad342b5
+318-U1356A-35R-CC-PAL-DIAT1,318,U1356,A,35,35-CC,R,CC,PAL,DIAT1,0,0.0,331.44,331.44,X,,,,,,,,,,,,,,,,,,,,,,0c38c2f93e38c5a1fc21e6bf164a5b17
+318-U1356A-48R-CC-PAL-DIAT1,318,U1356,A,48,48-CC,R,CC,PAL,DIAT1,0,0.0,453.98,453.98,X,,,,,,,,,,,,,,,,,,,,,,8b060399bb0aabfc2f31797ed9777741
+318-U1356A-51R-1-W 30/30-DIAT4,318,U1356,A,51,51-1,R,1,W,30/30-DIAT4,0,0.0,478.9,478.9,X,,,,,,,,,,,,,,,,,,,,,,5644c2db3bfdcd42578e8d5d3308d814
+318-U1356A-76R-5-A 89/89-SED,318,U1356,A,76,76-5,R,5,A,89/89-SED,0,0.0,724.455,724.455,X,,,,,,,,,,,,,,,,,,,,,,eb9625998f7b7ed4656f6913207e5c20
+318-U1356A-76R-5-W 87/88-DIAT1 paly res,318,U1356,A,76,76-5,R,5,W,87/88-DIAT1 paly res,0,1.0,724.44,724.45,X,,,,,,,,,,,,,,,,,,,,,,471015db37eba01106ad35266293de6d
+318-U1356A-76R-CC-PAL-DIAT1 paly res,318,U1356,A,76,76-CC,R,CC,PAL,DIAT1 paly res,0,5.0,725.6,725.65,X,,,,,,,,,,,X,,,,,,,,,,,508134bd51311a9302be7868efc6cae2
+318-U1356A-101R-CC-PAL-DIAT2,318,U1356,A,101,101-CC,R,CC,PAL,DIAT2,0,0.0,951.92,951.92,X,,,,,,,,,,,,,,,,,,X,,,,7a18f955b6aa40cc67068a8463b0cbb8

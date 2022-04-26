@@ -1,19 +1,19 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Comments,Zone name [short],PF Preservation,% Planktic Foraminifera within whole sample,Catapsydrax dissimilis,Catapsydrax cf. howei,Catapsydrax unicavus,Catapsydrax sp.,Dentoglobigerina galavasi,Dentoglobigerina pseudovenezuelana,Dentoglobigerina tripartita,Dentoglobigerina sp.,Globigerina angulisuturalis,Globigerina euapertura,Globigerina officinalis,Globigerina ouachitensis,Globigerina prasepis,Globigerina venezulana,Globorotalia praehumerosa,Globorotalia semivera,Globorotaloides suteri,Globoquadrina tapurensis,Globorotaloides quadrocameratus,Globoquadrina sp.,Paragloborotalia griffinoides,Paragloborotalia nana,Paragloborotalia opima,Paragloborotalia opima-mayeri transition,Paragloborotalia pseudocontinuosa,Parasubbotina griffinae,Parasubbotina inaquespira,Paragloborotalia sp.,Subbotina corpulenta,Subbotina angiporoides,Subbotina patagonica,Subbotina utilsindex,Subbotina yeguaensis,Subbotina sp.,Turborotalia ampliapertura,Turborotalia frontosa,Turbotalia,Globorotalia sp.
-320-U1332C-1H-CC-PAL-FORAMP,320,U1332,C,1,1-CC,H,CC,PAL,FORAMP,0,2,7.46,7.48,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-2H-CC-PAL-FORAMP,320,U1332,C,2,2-CC,H,CC,PAL,FORAMP,0,2,17.45,17.47,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-3H-CC-PAL-FORAMP,320,U1332,C,3,3-CC,H,CC,PAL,FORAMP,0,2,26.93,26.95,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-4H-CC-PAL-FORAMP,320,U1332,C,4,4-CC,H,CC,PAL,FORAMP,0,2,36.52,36.54,LLR,O2-O5,M,,,,R,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,
-320-U1332C-5H-CC-PAL-FORAMP,320,U1332,C,5,5-CC,H,CC,PAL,FORAMP,0,2,45.76,45.78,LLR,O4-O5,M,,,,,,,,R,,P,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-6H-CC-PAL-FORAMP,320,U1332,C,6,6-CC,H,CC,PAL,FORAMP,0,2,53.04,53.06,LLR + KME,E13-O2,M,,,,A,,,,P,,,,,,,,,,,,,,,A,,,,,,,,P,,,,,,,,
-320-U1332C-7H-CC-PAL-FORAMP,320,U1332,C,7,7-CC,H,CC,PAL,FORAMP,0,2,59.43,59.45,KME,E15-O2,M,,,,A,,R,P,,,,,,,,,,,A,P,,,,,,,,,,,,,,R,,,,,,
-320-U1332C-8H-CC-PAL-FORAMP,320,U1332,C,8,8-CC,H,CC,PAL,FORAMP,0,2,68.19,68.21,KME,E14-O2,M,,P,,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,P
-320-U1332C-9H-CC-PAL-FORAMP,320,U1332,C,9,9-CC,H,CC,PAL,FORAMP,0,2,75.91,75.93,KME,E15-O2,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,
-320-U1332C-10H-CC-PAL-FORAMP,320,U1332,C,10,10-CC,H,CC,PAL,FORAMP,0,2,85.53,85.55,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-11H-CC-PAL-FORAMP,320,U1332,C,11,11-CC,H,CC,PAL,FORAMP,0,2,94.05,94.07,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-12H-CC-PAL-FORAMP,320,U1332,C,12,12-CC,H,CC,PAL,FORAMP,0,2,103.2,103.22,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-13H-CC-PAL-FORAMP,320,U1332,C,13,13-CC,H,CC,PAL,FORAMP,0,2,114.08,114.1,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-14X-CC-PAL-FORAMP,320,U1332,C,14,14-CC,X,CC,PAL,FORAMP,0,2,119.69,119.71,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-15X-CC-PAL-FORAMP,320,U1332,C,15,15-CC,X,CC,PAL,FORAMP,0,2,127.38,127.4,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-16X-CC-PAL-FORAMP,320,U1332,C,16,16-CC,X,CC,PAL,FORAMP,0,2,134.64,134.66,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-17X-CC-PAL-FORAMP,320,U1332,C,17,17-CC,X,CC,PAL,FORAMP,0,2,139.91,139.93,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-320-U1332C-18X-CC,320,U1332,C,18,18-CC,X,CC,,,0,2,146.9,146.92,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Comments,Zone name [short],PF Preservation,% Planktic Foraminifera within whole sample,Catapsydrax dissimilis,Catapsydrax cf. howei,Catapsydrax unicavus,Catapsydrax sp.,Dentoglobigerina galavasi,Dentoglobigerina pseudovenezuelana,Dentoglobigerina tripartita,Dentoglobigerina sp.,Globigerina angulisuturalis,Globigerina euapertura,Globigerina officinalis,Globigerina ouachitensis,Globigerina prasepis,Globigerina venezulana,Globorotalia praehumerosa,Globorotalia semivera,Globorotaloides suteri,Globoquadrina tapurensis,Globorotaloides quadrocameratus,Globoquadrina sp.,Paragloborotalia griffinoides,Paragloborotalia nana,Paragloborotalia opima,Paragloborotalia opima-mayeri transition,Paragloborotalia pseudocontinuosa,Parasubbotina griffinae,Parasubbotina inaquespira,Paragloborotalia sp.,Subbotina corpulenta,Subbotina angiporoides,Subbotina patagonica,Subbotina utilsindex,Subbotina yeguaensis,Subbotina sp.,Turborotalia ampliapertura,Turborotalia frontosa,Turbotalia,Globorotalia sp.,eodp_id
+320-U1332C-1H-CC-PAL-FORAMP,320,U1332,C,1,1-CC,H,CC,PAL,FORAMP,0,2,7.46,7.48,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2df11110e1630519469ea2a80394bf6b
+320-U1332C-2H-CC-PAL-FORAMP,320,U1332,C,2,2-CC,H,CC,PAL,FORAMP,0,2,17.45,17.47,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a20de6739e02deee1b1e2b1d2135543f
+320-U1332C-3H-CC-PAL-FORAMP,320,U1332,C,3,3-CC,H,CC,PAL,FORAMP,0,2,26.93,26.95,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f3bfd5b592ac850293a5c1ea0c6c2812
+320-U1332C-4H-CC-PAL-FORAMP,320,U1332,C,4,4-CC,H,CC,PAL,FORAMP,0,2,36.52,36.54,LLR,O2-O5,M,,,,R,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,3e1159925edd6bb2cccdc4aea8012e24
+320-U1332C-5H-CC-PAL-FORAMP,320,U1332,C,5,5-CC,H,CC,PAL,FORAMP,0,2,45.76,45.78,LLR,O4-O5,M,,,,,,,,R,,P,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,57df12e9d80428a380dfda2cf3c7abae
+320-U1332C-6H-CC-PAL-FORAMP,320,U1332,C,6,6-CC,H,CC,PAL,FORAMP,0,2,53.04,53.06,LLR + KME,E13-O2,M,,,,A,,,,P,,,,,,,,,,,,,,,A,,,,,,,,P,,,,,,,,,4b20fd351465a324a50e14615d8c48fa
+320-U1332C-7H-CC-PAL-FORAMP,320,U1332,C,7,7-CC,H,CC,PAL,FORAMP,0,2,59.43,59.45,KME,E15-O2,M,,,,A,,R,P,,,,,,,,,,,A,P,,,,,,,,,,,,,,R,,,,,,,11a815d275a4e9cef66f3d3f8d4d73fa
+320-U1332C-8H-CC-PAL-FORAMP,320,U1332,C,8,8-CC,H,CC,PAL,FORAMP,0,2,68.19,68.21,KME,E14-O2,M,,P,,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,P,36193b83b450de7d78d85e093d977afe
+320-U1332C-9H-CC-PAL-FORAMP,320,U1332,C,9,9-CC,H,CC,PAL,FORAMP,0,2,75.91,75.93,KME,E15-O2,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,05686b85e51eef531cacc42858c8d681
+320-U1332C-10H-CC-PAL-FORAMP,320,U1332,C,10,10-CC,H,CC,PAL,FORAMP,0,2,85.53,85.55,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c6eaec7d055ef9c3817255fb0d86f0ed
+320-U1332C-11H-CC-PAL-FORAMP,320,U1332,C,11,11-CC,H,CC,PAL,FORAMP,0,2,94.05,94.07,KME BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8f8df6f2dfeecaf9cb0a3e16c6838d92
+320-U1332C-12H-CC-PAL-FORAMP,320,U1332,C,12,12-CC,H,CC,PAL,FORAMP,0,2,103.2,103.22,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dfd64c1f0d53d7b76c62544e08a9e754
+320-U1332C-13H-CC-PAL-FORAMP,320,U1332,C,13,13-CC,H,CC,PAL,FORAMP,0,2,114.08,114.1,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8b472d7374978a016b27648fe4c1818a
+320-U1332C-14X-CC-PAL-FORAMP,320,U1332,C,14,14-CC,X,CC,PAL,FORAMP,0,2,119.69,119.71,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c81599b27c5029aa5312a10cc394a5bb
+320-U1332C-15X-CC-PAL-FORAMP,320,U1332,C,15,15-CC,X,CC,PAL,FORAMP,0,2,127.38,127.4,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11f1b08ab1f3f17237ad818af0726af6
+320-U1332C-16X-CC-PAL-FORAMP,320,U1332,C,16,16-CC,X,CC,PAL,FORAMP,0,2,134.64,134.66,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bdc200cc65d0a18a97004de48d7ae9cd
+320-U1332C-17X-CC-PAL-FORAMP,320,U1332,C,17,17-CC,X,CC,PAL,FORAMP,0,2,139.91,139.93,LLR BARREN,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5fdb47fe171c5f150ff5d9052a9c6d40
+320-U1332C-18X-CC,320,U1332,C,18,18-CC,X,CC,,,0,2,146.9,146.92,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a46d70b816895381cc2879f1d0665891

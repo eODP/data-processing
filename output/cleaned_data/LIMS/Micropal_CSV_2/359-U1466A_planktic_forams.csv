@@ -1,49 +1,49 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",Group abundance,Comment (general),Preservation,Globigerinoides ruber (pink),Globorotalia tosaensis,Globigerinoides fistulosus,Globorotalia truncatulinoides,Globigerinoides extremus,Globorotalia miocenica,Globorotalia limbata,Globorotalia multicamerata,Dentoglobigerina altispira,Sphaeroidinellopsis seminulina,Pulleniatina primalis,Sphaeroidinella dehiscens,Globorotalia tumida,Globorotalia margaritae,Globoturborotalita nepenthes,Globorotalia merotumida,Globoquadrina dehiscens,Globorotalia lenguaensis,Neogloboquadrina acostaensis,Paragloborotalia mayeri,Fohsella fohsi,Fohsella robusta,Fohsella lobata,Fohsella peripheroacuta,Fohsella peripheroronda,Praeorbulina sicana,Globigerinatella insueta,Orbulina suturalis,Praeorbulina glomerosa,Catapsydrax dissimilis,Globigerina ciperoensis,Globigerinoides trilobus,Paragloborotalia kugleri,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-359-U1466A-1H-CC-PAL-FORAM >150,0,5,4.98,5.03,,,,VG,P,,,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,1,H,CC,PAL
-359-U1466A-2H-CC-REIJ-FORAM >150,0,5,13.76,13.81,,,Possible reworked G. fistulosus,VG,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,2,H,CC,REIJ
-359-U1466A-3H-CC-PAL-FORAM >150,0,5,23.86,23.91,,,Possible reworked G. fistulosus,G,,R,P,,,,,,,,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,3,H,CC,PAL
-359-U1466A-4H-CC-PAL-FORAM >150,0,5,32.97,33.02,,,,M,,P,R,,,,,,,,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,4,H,CC,PAL
-359-U1466A-5H-CC-PAL-FORAM >150,0,5,42.96,43.01,,,Possible reworked G. limbata,G,,P,R,,R,,P,,,,,,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,5,H,CC,PAL
-359-U1466A-6H-CC-PAL-FORAM >150,0,5,52.21,52.26,,,,G,,R,R,,R,P,R,P,,,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,6,H,CC,PAL
-359-U1466A-7H-CC-PAL-FORAM >150,0,5,61.16,61.21,,,,G,,,,,R,P,R,P,R,P,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,7,H,CC,PAL
-359-U1466A-8H-CC-PAL-FORAM >150,0,5,71.32,71.37,,,,VG,,,,,P,,,,C,P,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,8,H,CC,PAL
-359-U1466A-9H-CC-PAL-FORAM >150,0,5,79.94,79.99,,,,P,,,,,,,,,R,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1466,A,9,H,CC,PAL
-359-U1466A-10H-CC-PAL-FORAM >150,0,5,88.43,88.48,,,,M,,,,,R,,P,,C,P,,,,,,,P,,,,,,,,,,,P,,,,P,,,,,359,U1466,A,10,H,CC,PAL
-359-U1466A-11H-CC-PAL-FORAM >150,0,5,95.78,95.83,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,11,H,CC,PAL
-359-U1466A-12F-CC-PAL-FORAM >150,0,5,99.38,99.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,12,F,CC,PAL
-359-U1466A-13H-CC-PAL-FORAM >150,0,5,109.65,109.7,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,13,H,CC,PAL
-359-U1466A-14H-CC-PAL-FORAM >150,0,5,119.41,119.46,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,14,H,CC,PAL
-359-U1466A-15H-CC-PAL-FORAM >150,0,5,128.92,128.97,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,15,H,CC,PAL
-359-U1466A-16H-CC-PAL-FORAM >150,0,5,138.56,138.61,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,16,H,CC,PAL
-359-U1466A-17H-CC-PAL-FORAM >150,0,5,138.77,138.82,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,17,H,CC,PAL
-359-U1466A-18X-CC-FORAM >150,0,5,139.47,139.52,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,18,X,CC,FORAM
-359-U1466A-19F-CC-PAL-FORAM >150,0,5,149.98,150.03,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,19,F,CC,PAL
-359-U1466A-20F-CC-PAL-FORAM >150,0,5,154.9,154.95,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,20,F,CC,PAL
-359-U1466A-21H-CC-PAL-FORAM >150,0,5,162.34,162.39,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,21,H,CC,PAL
-359-U1466A-22H-CC-PAL-FORAM >150,0,5,171.78,171.83,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,22,H,CC,PAL
-359-U1466A-23H-CC-PAL-FORAM >150,0,5,172.17,172.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,23,H,CC,PAL
-359-U1466A-24X-CC-PAL-FORAM >150,0,5,175.17,175.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,24,X,CC,PAL
-359-U1466A-25H-CC-PAL-FORAM >150,0,5,183.38,183.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,25,H,CC,PAL
-359-U1466A-26F-CC-PAL-FORAM >150,0,5,187.88,187.93,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,26,F,CC,PAL
-359-U1466A-27F-CC-PAL-FORAM >150,0,5,192.6,192.65,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,27,F,CC,PAL
-359-U1466A-28F-CC-PAL-FORAM >150,0,5,197.07,197.12,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,28,F,CC,PAL
-359-U1466A-29F-CC-PAL-FORAM >150,0,5,202.09,202.14,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,29,F,CC,PAL
-359-U1466A-30F-CC-PAL-FORAM >150,0,5,206.81,206.86,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,30,F,CC,PAL
-359-U1466A-31F-CC-PAL-FORAM >150,0,5,211.59,211.64,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,31,F,CC,PAL
-359-U1466A-32F-CC-PAL-FORAM >150,0,5,216.08,216.13,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,32,F,CC,PAL
-359-U1466A-33F-CC-PAL-FORAM >150,0,5,220.73,220.78,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,33,F,CC,PAL
-359-U1466A-34F-CC-PAL-FORAM >150,0,5,225.49,225.54,,,,M,,,,,,,,,R,,,,,,,,,,,R,R,,,,,,,R,,,,,,,,,359,U1466,A,34,F,CC,PAL
-359-U1466A-35F-CC-PAL-FORAM >150,0,5,228.95,229,,,,P,,,,,,,,,,,,,,,,,,,,,R,,,,,,,R,,,,,,,,,359,U1466,A,35,F,CC,PAL
-359-U1466A-36F-1-PAL-FORAM >150,0,3,230.6,230.63,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,36,F,1,PAL
-359-U1466A-37X-CC-PAL-FORAM >150,0,5,232.07,232.12,,,,P,,,,,,,,,,,,,,,,,,,,,P,,,,,,,R,,,,,,,,,359,U1466,A,37,X,CC,PAL
-359-U1466A-38X-CC-PAL-FORAM >150,0,5,241.8,241.85,,,,VP,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,359,U1466,A,38,X,CC,PAL
-359-U1466A-40F-CC-PAL-FORAM >150,0,5,262.48,262.53,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,359,U1466,A,40,F,CC,PAL
-359-U1466A-41F-CC-PAL-FORAM >150,0,5,267.47,267.52,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,359,U1466,A,41,F,CC,PAL
-359-U1466A-42F-CC-PAL-FORAM >150,0,5,272.16,272.21,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,42,F,CC,PAL
-359-U1466A-43F-CC-PAL-FORAM >150,0,5,276.86,276.91,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,43,F,CC,PAL
-359-U1466A-44X-CC-PAL-FORAM >150,0,5,280.36,280.41,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,44,X,CC,PAL
-359-U1466A-45X-CC-PAL-FORAM >150,0,5,287.29,287.34,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,45,X,CC,PAL
-359-U1466A-47F-CC-PAL-FORAM >150,0,5,310.16,310.21,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,47,F,CC,PAL
-359-U1466A-48F-CC-PAL-FORAM >150,0,2,311,311.02,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,48,F,CC,PAL
-359-U1466A-49X-CC-PAL-FORAM >150,0,5,311.64,311.69,,,,M,,,,,,,,,P,,,,,,,,C,,,C,P,,,,,,,C,,,,P,,,,,359,U1466,A,49,X,CC,PAL
-359-U1466A-50X-CC-PAL-FORAM >150,0,5,317.72,317.77,,,,M,,,,,,,,,P,,,,,,,,P,,,C,P,,P,,,,,C,,,,C,,,,,359,U1466,A,50,X,CC,PAL
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",Group abundance,Comment (general),Preservation,Globigerinoides ruber (pink),Globorotalia tosaensis,Globigerinoides fistulosus,Globorotalia truncatulinoides,Globigerinoides extremus,Globorotalia miocenica,Globorotalia limbata,Globorotalia multicamerata,Dentoglobigerina altispira,Sphaeroidinellopsis seminulina,Pulleniatina primalis,Sphaeroidinella dehiscens,Globorotalia tumida,Globorotalia margaritae,Globoturborotalita nepenthes,Globorotalia merotumida,Globoquadrina dehiscens,Globorotalia lenguaensis,Neogloboquadrina acostaensis,Paragloborotalia mayeri,Fohsella fohsi,Fohsella robusta,Fohsella lobata,Fohsella peripheroacuta,Fohsella peripheroronda,Praeorbulina sicana,Globigerinatella insueta,Orbulina suturalis,Praeorbulina glomerosa,Catapsydrax dissimilis,Globigerina ciperoensis,Globigerinoides trilobus,Paragloborotalia kugleri,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
+359-U1466A-1H-CC-PAL-FORAM >150,0,5,4.98,5.03,,,,VG,P,,,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,1,H,CC,PAL,3dedbed31060b60b6232d1920a1bacbf
+359-U1466A-2H-CC-REIJ-FORAM >150,0,5,13.76,13.81,,,Possible reworked G. fistulosus,VG,,,P,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,2,H,CC,REIJ,0d9117e829f3fd2cfc1cef652c027e4f
+359-U1466A-3H-CC-PAL-FORAM >150,0,5,23.86,23.91,,,Possible reworked G. fistulosus,G,,R,P,,,,,,,,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,3,H,CC,PAL,d8e48e7466bcf11a91db1de92741be4d
+359-U1466A-4H-CC-PAL-FORAM >150,0,5,32.97,33.02,,,,M,,P,R,,,,,,,,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,4,H,CC,PAL,f976091bf861b5931816cab4648710b3
+359-U1466A-5H-CC-PAL-FORAM >150,0,5,42.96,43.01,,,Possible reworked G. limbata,G,,P,R,,R,,P,,,,,,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,5,H,CC,PAL,2ce6edef397bc9f0d3003b8060dcf429
+359-U1466A-6H-CC-PAL-FORAM >150,0,5,52.21,52.26,,,,G,,R,R,,R,P,R,P,,,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,6,H,CC,PAL,8970f304b090468a46d8bdbe0610b119
+359-U1466A-7H-CC-PAL-FORAM >150,0,5,61.16,61.21,,,,G,,,,,R,P,R,P,R,P,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,7,H,CC,PAL,c22860e6e7ee84eff5f12e9e0998c8c9
+359-U1466A-8H-CC-PAL-FORAM >150,0,5,71.32,71.37,,,,VG,,,,,P,,,,C,P,,R,R,,,,,,,,,,,,,,,R,,,,P,,,,,359,U1466,A,8,H,CC,PAL,42fa6e035d3b13d725e1dc2a2fe05f9a
+359-U1466A-9H-CC-PAL-FORAM >150,0,5,79.94,79.99,,,,P,,,,,,,,,R,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1466,A,9,H,CC,PAL,474d4b4a68fdff1b77cab9dcc79d25f1
+359-U1466A-10H-CC-PAL-FORAM >150,0,5,88.43,88.48,,,,M,,,,,R,,P,,C,P,,,,,,,P,,,,,,,,,,,P,,,,P,,,,,359,U1466,A,10,H,CC,PAL,19cc3bc111a4284cc662dafc792ada6f
+359-U1466A-11H-CC-PAL-FORAM >150,0,5,95.78,95.83,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,11,H,CC,PAL,e1e7fbfefec4bd464b785b6a92da0b12
+359-U1466A-12F-CC-PAL-FORAM >150,0,5,99.38,99.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,12,F,CC,PAL,4f7e00f1db431cf934129d48e641bdaa
+359-U1466A-13H-CC-PAL-FORAM >150,0,5,109.65,109.7,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,13,H,CC,PAL,2c1aedba87f23b28c2eec901bafbbb3b
+359-U1466A-14H-CC-PAL-FORAM >150,0,5,119.41,119.46,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,14,H,CC,PAL,dcff21b3da3059b30b23725d643a0a08
+359-U1466A-15H-CC-PAL-FORAM >150,0,5,128.92,128.97,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,15,H,CC,PAL,664fb3e6ad07d8e8fa7c8fc57a8f290f
+359-U1466A-16H-CC-PAL-FORAM >150,0,5,138.56,138.61,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,16,H,CC,PAL,7e8f31b663ed5ee3a8cd17ce8a107d74
+359-U1466A-17H-CC-PAL-FORAM >150,0,5,138.77,138.82,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,17,H,CC,PAL,de320e40cd394b01c9d43759de8e283c
+359-U1466A-18X-CC-FORAM >150,0,5,139.47,139.52,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,18,X,CC,FORAM,5adf10e2685ac8324f0c210c4eef1b9a
+359-U1466A-19F-CC-PAL-FORAM >150,0,5,149.98,150.03,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,19,F,CC,PAL,2facc38838e40762552d611d221ad847
+359-U1466A-20F-CC-PAL-FORAM >150,0,5,154.9,154.95,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,20,F,CC,PAL,292b4a96b25e7ce53ee0d773d5ba9160
+359-U1466A-21H-CC-PAL-FORAM >150,0,5,162.34,162.39,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,21,H,CC,PAL,4fa0776f010764589fe8e1e9ffa36be0
+359-U1466A-22H-CC-PAL-FORAM >150,0,5,171.78,171.83,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,22,H,CC,PAL,443dcd8da996560ea6a9e3ce540ef48c
+359-U1466A-23H-CC-PAL-FORAM >150,0,5,172.17,172.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,23,H,CC,PAL,939b4b40de99391537d165eb0cec2c34
+359-U1466A-24X-CC-PAL-FORAM >150,0,5,175.17,175.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,24,X,CC,PAL,9f25d53d3d8a9a90a007488268f56175
+359-U1466A-25H-CC-PAL-FORAM >150,0,5,183.38,183.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,25,H,CC,PAL,aecdf6a4bf4cb0aa4646086b4948e0d1
+359-U1466A-26F-CC-PAL-FORAM >150,0,5,187.88,187.93,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,26,F,CC,PAL,4e88f388a48f9a678be1958430d7a1eb
+359-U1466A-27F-CC-PAL-FORAM >150,0,5,192.6,192.65,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,27,F,CC,PAL,74feb106406466dd3515cd1f09b1afdc
+359-U1466A-28F-CC-PAL-FORAM >150,0,5,197.07,197.12,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,28,F,CC,PAL,613c3a63cf14d4ed99011d9e897d7629
+359-U1466A-29F-CC-PAL-FORAM >150,0,5,202.09,202.14,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,29,F,CC,PAL,9d67d7a44f9cc2757603b3691adc9f72
+359-U1466A-30F-CC-PAL-FORAM >150,0,5,206.81,206.86,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,30,F,CC,PAL,05ea87d211c19cac081b5057e7c7c321
+359-U1466A-31F-CC-PAL-FORAM >150,0,5,211.59,211.64,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,31,F,CC,PAL,8edb3b892a56e195e8f7a4ca5ed00679
+359-U1466A-32F-CC-PAL-FORAM >150,0,5,216.08,216.13,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,32,F,CC,PAL,d9aef239a5a0ae2c755df21fb6748555
+359-U1466A-33F-CC-PAL-FORAM >150,0,5,220.73,220.78,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,33,F,CC,PAL,51b0e840ec6e1001768c292ddae33b42
+359-U1466A-34F-CC-PAL-FORAM >150,0,5,225.49,225.54,,,,M,,,,,,,,,R,,,,,,,,,,,R,R,,,,,,,R,,,,,,,,,359,U1466,A,34,F,CC,PAL,0eae96f6730ade2afe91355e87b5c5f2
+359-U1466A-35F-CC-PAL-FORAM >150,0,5,228.95,229,,,,P,,,,,,,,,,,,,,,,,,,,,R,,,,,,,R,,,,,,,,,359,U1466,A,35,F,CC,PAL,aeb9e6b6d842beb0ebd752e7947d25df
+359-U1466A-36F-1-PAL-FORAM >150,0,3,230.6,230.63,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,36,F,1,PAL,288b3020353289d2e9a6807b1b448e62
+359-U1466A-37X-CC-PAL-FORAM >150,0,5,232.07,232.12,,,,P,,,,,,,,,,,,,,,,,,,,,P,,,,,,,R,,,,,,,,,359,U1466,A,37,X,CC,PAL,e20b1eec5528790bef99aa597f97165a
+359-U1466A-38X-CC-PAL-FORAM >150,0,5,241.8,241.85,,,,VP,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,359,U1466,A,38,X,CC,PAL,7bbfce8a48c49fc9996c377280b32b00
+359-U1466A-40F-CC-PAL-FORAM >150,0,5,262.48,262.53,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,359,U1466,A,40,F,CC,PAL,265f105ce9db9d6406885fd267b50c10
+359-U1466A-41F-CC-PAL-FORAM >150,0,5,267.47,267.52,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,359,U1466,A,41,F,CC,PAL,f500b2bbb6e614e4847834573cd6ef04
+359-U1466A-42F-CC-PAL-FORAM >150,0,5,272.16,272.21,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,42,F,CC,PAL,882c611f8144a7f865443607d808f22d
+359-U1466A-43F-CC-PAL-FORAM >150,0,5,276.86,276.91,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,43,F,CC,PAL,9e7eae670d39ba661d7f950d4c78d6e3
+359-U1466A-44X-CC-PAL-FORAM >150,0,5,280.36,280.41,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,44,X,CC,PAL,2beb4a9e8ec8ffdc72811dbe25f49e1c
+359-U1466A-45X-CC-PAL-FORAM >150,0,5,287.29,287.34,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,45,X,CC,PAL,bf001e68fea3e954f928f2c4dd3da54d
+359-U1466A-47F-CC-PAL-FORAM >150,0,5,310.16,310.21,,,few non-identifiable specimens,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,47,F,CC,PAL,41f8595379804791573aefebd8a18f76
+359-U1466A-48F-CC-PAL-FORAM >150,0,2,311,311.02,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1466,A,48,F,CC,PAL,9971c3d411dbf530a2a5e228301b1337
+359-U1466A-49X-CC-PAL-FORAM >150,0,5,311.64,311.69,,,,M,,,,,,,,,P,,,,,,,,C,,,C,P,,,,,,,C,,,,P,,,,,359,U1466,A,49,X,CC,PAL,c16f8fdb3a7162d8a2365765fb2d92ce
+359-U1466A-50X-CC-PAL-FORAM >150,0,5,317.72,317.77,,,,M,,,,,,,,,P,,,,,,,,P,,,C,P,,P,,,,,C,,,,C,,,,,359,U1466,A,50,X,CC,PAL,186278af205632b87621eafc3c8b8f45

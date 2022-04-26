@@ -1,85 +1,85 @@
-Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Alabaminella weddellensis,Brizalina cf. spathula,Brizalina earlandi,Brizalina pygmaea,Bulimina aff. exilis,Bulimina aff. mexicana,Bulimina sp.,Cassidulina laevigata var. carinata,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Cibicidoides sp.,Dentalina sp.,Elphidium cf. batialis,Epistominella pulchella,Fissurina sp,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Nodosaria aff. pyrula,Nodosaria spp.,Nonionella labradorica,Nonionella turgida digitata,Oridorsalis umbonatus,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia bulloides,Pullenia sp.,Pygmaeseistron cf. hispida,Pyrgo sp.,Quinqueloculina sp.,Reophax dentaliniformis,Triloculina cf. trihedra,Triloculina sp.,Uvigerina auberiana,Uvigerina cf. peregrina,Valvulineria sp.,Comments,A/W,Sample
-323,U1343,E,1,H,1,,0,0,0,0,G,A,,P,P,,P,,,,,,,,,R,,,,,F,,,P,,,,,A,P,,,,P,,P,,,F,,,,P,,MICA,,323-U1343E-1H-1-nan
-323,U1343,E,1,H,CC,,3,13,8.12,8.22,G,D,,,,,P,,,,,,,,,D,,,,,P,,,A,,,,,F,R,,,,,,,,,,,,,R,,rare sponge spicules,,323-U1343E-1H-CC-nan
-323,U1343,E,2,H,CC,,0,10,17.7,17.8,M,A,,,,,,,,,,,,,,A,,P,,,R,,,R,,,,,,,,,,,P,,,,,,,,,,,,323-U1343E-2H-CC-nan
-323,U1343,E,3,H,CC,,10,20,26.3,26.4,M,A,,,,,,,,,,,,,,A,,P,,,R,,,P,,,,,P,,,,,,,,,,,,,P,,,PYRITE TUBES,,323-U1343E-3H-CC-nan
-323,U1343,E,4,H,CC,,23,33,37.07,37.17,M,A,,,,,P,,,F,,P,,,,P,,,,P,F,,,F,,,,,R,R,,,,,,,,,,,,,,,"PYRITE TUBES, YELLOW PLANK",,323-U1343E-4H-CC-nan
-323,U1343,E,5,H,CC,,17,27,42.96,43.06,G,D,P,,,,A,,,,,A,,,,F,,,,,D,,,F,,,P,,,,,,,,P,,P,,,,,,P,,,,323-U1343E-5H-CC-nan
-323,U1343,E,6,H,CC,,23,33,55.45,55.55,M,A,,,,,P,,,,,,,,,A,,,,,,,,F,,,,,,,,,,,P,,,,,,,P,,,"PYRITE TUBES, MUTANTS",,323-U1343E-6H-CC-nan
-323,U1343,E,7,H,CC,,45,55,63.9,64,M,D,,,,,F,,,,P,A,,,,A,,,,,F,,,,,,,,F,P,,,,,F,,,,,,,P,F,,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-7H-CC-nan
-323,U1343,E,8,H,CC,,25,35,74.79,74.89,M,A,,,,,P,,P,,,,,,,F,,,,,F,,,A,,,,,F,P,,,,,R,,,,,,P,A,,R,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-8H-CC-nan
-323,U1343,E,9,H,CC,,49,59,84.05,84.15,G,D,,,,,F,,,,,F,,,,D,,,,,A,,,A,,,,,F,,,,,,R,,,,,,,F,R,R,PYRITE TUBES,,323-U1343E-9H-CC-nan
-323,U1343,E,10,H,CC,,25,35,90.98,91.08,M,D,,,,,R,,,,,F,,,,P,,,,,P,,,F,,,,,P,,,,,,P,,,,,,,D,,P,PYRITE TUBES,,323-U1343E-10H-CC-nan
-323,U1343,E,11,H,CC,,24,34,101.67,101.77,G,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SANDY, SOME PYRITE TUBES",,323-U1343E-11H-CC-nan
-323,U1343,E,12,H,CC,,39,49,106.59,106.69,G,D,,,,,R,,,,,A,,P,,F,,,,,F,,,F,,,,,F,,,,,,R,,,,,,,F,A,,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-12H-CC-nan
-323,U1343,E,14,H,CC,,5,15,115.95,116.05,M,D,,,,,A,,,,,F,,,P,D,,,,,F,,,F,,,,,F,,,,,,,,,,,P,,F,,,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-14H-CC-nan
-323,U1343,E,15,H,CC,,45,55,123.35,123.45,M,F,,,,,,,,,,,,,,R,,,,,F,,,F,,,,,F,,,,,,,,,,,,,,P,,"WOOD, MICA",,323-U1343E-15H-CC-nan
-323,U1343,E,16,H,CC,,31,41,129.46,129.56,G,A,,,,,R,,,,P,R,,,P,A,,,,,,,,D,,,,,P,,,,,,P,,,,,,,,R,,MICA,,323-U1343E-16H-CC-nan
-323,U1343,E,17,H,CC,,30,40,138.34,138.44,M,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, YELLOW FORAM",,323-U1343E-17H-CC-nan
-323,U1343,E,18,H,CC,,0,10,148.21,148.31,G,A,,,,,,,,,,P,,,,A,,,,,R,R,,,,,,,R,,,,,,,,,,,,,,P,,"LARGE ROCK FRAGMENT, PYRITE",,323-U1343E-18H-CC-nan
-323,U1343,E,19,H,CC,,24,34,155.87,155.97,G,A,,,,,R,,,,,R,,P,,R,,P,,,R,,,A,,,,,R,,,,,,,,,,,,,,P,,PYRITE,,323-U1343E-19H-CC-nan
-323,U1343,E,20,H,CC,,24,34,164.89,164.99,G,A,,,,P,R,,,,,,,,,A,,,,,F,,,P,,,,,A,,,,,,,,,,,,,,R,,"PYRITE, YELLOW FORAMS,  large rock fragment >5mm",,323-U1343E-20H-CC-nan
-323,U1343,E,21,H,CC,,0,10,175.07,175.17,M,F,,,,,R,,,,,,,,,F,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-21H-CC-nan
-323,U1343,E,22,H,CC,,29,39,183.76,183.86,M,A,,,R,,A,,,,,P,,,,P,,,P,,,,,A,,P,,,P,,,,P,,,,,,,,,,,,"PYRITE, YELLOW FORAMS",,323-U1343E-22H-CC-nan
-323,U1343,E,23,H,CC,,49,59,193.31,193.41,G,A,,,,,R,,,,,,,,,F,,,,,R,,,A,,,,,R,,,,,,,,,,,,,,,,,,323-U1343E-23H-CC-nan
-323,U1343,E,24,H,CC,,32,42,197.47,197.57,G,A,,,,,,,,,,,,,,R,,,,,,,,P,,,,,A,,,,,,,,,,,,,P,R,R,,,323-U1343E-24H-CC-nan
-323,U1343,E,25,H,CC,,19,29,207.99,208.09,G,D,,,P,,D,,,,,R,,,,R,,P,,,P,,,F,P,P,,,,,,,,,,,,,,,,,,,"YELLOW FORAMS, PYRITE",,323-U1343E-25H-CC-nan
-323,U1343,E,26,H,CC,,34,44,217.04,217.14,G,A,,,,,,,P,,,R,,,,A,,,,,,,,,,,,,,,,,,,,,,P,,,,R,,,VOLCANIC GLASS,,323-U1343E-26H-CC-nan
-323,U1343,E,27,H,CC,,5,15,226.01,226.11,G,A,,,,,,,,,,,,,,A,,,,,,,,R,,,,,,,,,,,,,,,,P,,P,,,MICA,,323-U1343E-27H-CC-nan
-323,U1343,E,28,H,CC,,45,55,234.72,234.82,G,A,,,,,,,,,,R,,,,,,,,,,,,A,,,,,R,,,,,,,,,,,,,,,P,"PYRITE TUBES, MICA",,323-U1343E-28H-CC-nan
-323,U1343,E,29,H,CC,,30,40,245.49,245.59,G,F,,,,,,,,,,R,,,,,,,P,,P,,,F,,,,,P,,,,,,P,,,,,,P,,,,"PYRITE TUBES, MICA, WOOD",,323-U1343E-29H-CC-nan
-323,U1343,E,30,H,CC,,25,35,254.21,254.31,G,R,P,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-30H-CC-nan
-323,U1343,E,31,H,CC,,16,26,263.75,263.85,G,A,,,,,,,,,,P,,,,A,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-31H-CC-nan
-323,U1343,E,32,H,CC,,16,26,272.49,272.59,G,P,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-32H-CC-nan
-323,U1343,E,33,H,CC,,79,89,282.2,282.3,G,F,,,,,,,,,,F,,,,R,,,,,,,,,,,,,P,,,,,,P,,,,,,,,R,,"PYRITE TUBES, MICA",,323-U1343E-33H-CC-nan
-323,U1343,E,34,H,CC,,50,60,291.18,291.28,G,F,P,,,,,,,,,P,,,,,,,,,,,,P,,,,,R,,,,,,,,,,,,P,,,,PYRITE TUBES,,323-U1343E-34H-CC-nan
-323,U1343,E,35,H,CC,,22,32,301.39,301.49,M,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,P,R,,,,323-U1343E-35H-CC-nan
-323,U1343,E,36,H,CC,,46,56,311.1,311.2,P,F,,,,,,,,,,R,,,,P,,,,,,,,,,,,P,P,,,P,,,,,,,,,,,,,MICA,,323-U1343E-36H-CC-nan
-323,U1343,E,37,H,CC,,77,87,320.19,320.29,G,A,,,,,,,,,,A,R,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,"pyrite, mica, fragments from bivalves",,323-U1343E-37H-CC-nan
-323,U1343,E,38,H,CC,,23,33,329.74,329.84,G,A,,,,,P,,,,,A,,,,A,,,,,P,,,F,,,,,,,,P,,,,,,,,,,,,,"PYRITE, WOOD",,323-U1343E-38H-CC-nan
-323,U1343,E,39,H,CC,,25,35,338.41,338.51,G,P,,,,,,,,,,,,,,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-39H-CC-nan
-323,U1343,E,40,H,CC,,26,36,346.74,346.84,G,F,,,,,,,,,,,,,,F,,,,,,,,F,,P,,,,,,,,,,,,,,,,,,,"PYRITE, ORANGE BENTHICS",,323-U1343E-40H-CC-nan
-323,U1343,E,41,H,CC,,33,43,354.32,354.42,G,R,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-41H-CC-nan
-323,U1343,E,42,X,CC,,24,34,359.57,359.67,M,D,,,,,R,,,,,,R,,,D,,,P,,,,,F,,,,P,,,,,,,,,,,,,,,,,"YELLOW FORAMS, PYRITE",,323-U1343E-42X-CC-nan
-323,U1343,E,43,X,CC,,31,41,367.32,367.42,M,A,,,,,A,,,,,,,,,P,,,,,P,,P,A,,,,,R,,,,,,,,,,,,,,,,"PYRITE, MICA",,323-U1343E-43X-CC-nan
-323,U1343,E,44,X,CC,,38,48,376.59,376.69,M,A,,,,,,,,,,,P,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA",,323-U1343E-44X-CC-nan
-323,U1343,E,45,X,CC,,30,40,388.26,388.36,M,F,,,,,R,,,,,,,,,F,,,,,R,,,R,,,,,,,,,,,,,P,,,,,,,P,PYRITE,,323-U1343E-45X-CC-nan
-323,U1343,E,46,H,CC,,13,23,398.57,398.67,M,F,,,,,R,,,,,,,,,R,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-46H-CC-nan
-323,U1343,E,47,H,CC,,27,37,405.99,406.09,M,A,,,,,,,,,,R,,,,A,R,,,,,,,P,,,,P,R,,,,,,,,,,,,,,P,P,PYRITE,,323-U1343E-47H-CC-nan
-323,U1343,E,48,H,CC,,23,33,412.33,412.43,G,F,,,,,,,,,,,,,,F,,,,,,,,P,,,P,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-48H-CC-nan
-323,U1343,E,49,H,CC,,24,34,418.44,418.54,G,A,,,,,,,,,,,,,,A,,,,,,,,R,,,R,,,,,,,,,,,,,,,,A,,"PYRITE TUBES, MICA",,323-U1343E-49H-CC-nan
-323,U1343,E,50,X,CC,,22,32,428.5,428.6,M,F,,,,,P,,,,,R,,,,P,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-50X-CC-nan
-323,U1343,E,51,X,CC,,14,24,435.85,435.95,M,A,,,,,,,,,,,,,,A,,,,,,,,,,P,,P,,,,,,,,,,,,,,,P,,MICA,,323-U1343E-51X-CC-nan
-323,U1343,E,52,X,CC,,7,12,446.16,446.21,G,R,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,"PYRITE TUBES, MICA",,323-U1343E-52X-CC-nan
-323,U1343,E,53,X,CC,,11,21,455.88,455.98,G,R,,,,,P,,,,,P,,,,,,,,,,,,R,,,P,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-53X-CC-nan
-323,U1343,E,54,X,CC,,34,44,463.39,463.49,G,F,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-54X-CC-nan
-323,U1343,E,55,X,CC,,32,42,475.6,475.7,G,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-55X-CC-nan
-323,U1343,E,56,X,CC,,78,88,482.57,482.67,G,A,,,,,A,P,,,,P,,,,F,,,,,,,,A,,,,,,,,,,P,,,,,,,,,,,,,323-U1343E-56X-CC-nan
-323,U1343,E,57,X,CC,,30,40,493.97,494.07,G,A,,,,,R,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-57X-CC-nan
-323,U1343,E,58,X,CC,,29,39,502.88,502.98,G,R,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-58X-CC-nan
-323,U1343,E,59,X,CC,,24,34,512.52,512.62,G,F,,,,,,,,,,R,,,,R,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-59X-CC-nan
-323,U1343,E,60,X,CC,,24,34,521.9,522,G,A,,,,,P,,,,,R,,,,A,,,,,,,,A,,,,,,,,,,,P,,,,,,,,,,,,323-U1343E-60X-CC-nan
-323,U1343,E,61,X,CC,,59,69,532.41,532.51,G,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,,,,,,,,P,PYRITE,,323-U1343E-61X-CC-nan
-323,U1343,E,62,X,CC,,48,58,541.78,541.88,G,A,P,,,,,,,,,,,,,P,,,,,P,,,A,,,,,,,,,,R,,,,,,,,,,P,PYRITE,,323-U1343E-62X-CC-nan
-323,U1343,E,63,X,CC,,35,45,550.54,550.64,G,A,,,,,,,,,P,,,,,A,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-63X-CC-nan
-323,U1343,E,64,X,CC,,30,40,561.05,561.15,G,F,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-64X-CC-nan
-323,U1343,E,65,X,CC,,36,46,568.77,568.87,M,F,F,,,,R,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-65X-CC-nan
-323,U1343,E,66,X,CC,,20,30,581.04,581.14,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-66X-CC-nan
-323,U1343,E,67,X,CC,,23,33,588.5,588.6,M,R,,,,,,,,,,,,,,R,,,R,,,,,P,,,,,,,,,,,,,,,,P,,,P,,"PYRITE, YELLOW FORAMS",,323-U1343E-67X-CC-nan
-323,U1343,E,68,X,CC,,56,66,599.26,599.36,M,A,,,,,R,,,,P,,,,,A,,,,,,,,R,,,,,,P,,,,,,,,,,,,,,,"PYRITE, YELLOW FORAMS",,323-U1343E-68X-CC-nan
-323,U1343,E,69,X,CC,,42,52,606.84,606.94,M,A,,,,,P,,,,,,,,,A,,,P,,,,,,,,,,R,,,,,,,,,,,,,,,,"PYRITE, MAINLY BROWN FORAMS",,323-U1343E-69X-CC-nan
-323,U1343,E,70,X,CC,,29,39,617.9,618,M,A,,,,,,,,,,,,,,A,,,R,,,,,R,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-70X-CC-nan
-323,U1343,E,71,X,CC,,31,41,628.16,628.26,G,D,,,,,R,,,,,P,,,,D,,,P,,,,,A,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-71X-CC-nan
-323,U1343,E,72,X,CC,,17,27,634.44,634.54,M,D,,,,,R,,,,,,,,,D,,,R,,,,P,F,,,,,,,,,,,,,,,,,,,,,"PYRITE, FEW BROWN-YELLOW FORAMS",,323-U1343E-72X-CC-nan
-323,U1343,E,73,X,CC,,45,55,643.79,643.89,M,D,P,,,,,,,,,,,,,D,,,P,,,,R,R,,,,,,,,,,,,,,,,,,,R,,"PYRITE, YELLOW FORAMS",,323-U1343E-73X-CC-nan
-323,U1343,E,74,X,CC,,35,45,657.41,657.51,P,F,,,,,,,,,,R,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-74X-CC-nan
-323,U1343,E,75,X,CC,,54,64,667.09,667.19,P,F,,,,,,,,,,R,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-75X-CC-nan
-323,U1343,E,76,X,CC,,32,42,674.96,675.06,M,A,,,,,,,,,,,,,,A,,,,,,,,,,,,P,,,P,,,,,,,,,,,,,,PYRITE TUBES,,323-U1343E-76X-CC-nan
-323,U1343,E,77,X,CC,,11,21,686.37,686.47,M,R,,,,,,,,,,,,,P,P,,,,,,,,P,,,,,,,,,,,,,,,,,,P,,,PYRITE TUBES,,323-U1343E-77X-CC-nan
-323,U1343,E,78,X,CC,,17,27,695.2,695.3,G,A,,,,,R,,,,,P,P,,,A,,P,,,,,,A,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-78X-CC-nan
-323,U1343,E,79,X,CC,,19,29,705.72,705.82,M,P,,,,,,,,,,P,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,,,,,323-U1343E-79X-CC-nan
-323,U1343,E,80,X,CC,,14,24,713.8,713.9,M,A,,,,,,,,,,,P,,,A,,,R,,,,,R,,,,,,,,,,,,,,,,,,,,,"YELLOW FORAMS, PYRITE",,323-U1343E-80X-CC-nan
-323,U1343,E,81,X,CC,,36,46,724.96,725.06,M,F,,,,,,,,,,,,,,,R,,,,,,,F,,,P,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-81X-CC-nan
-323,U1343,E,82,X,CC,,23,33,734.41,734.51,P,R,,,,,,,,,,,,,,R,,,,,R,,,P,,,,,P,,,,,,,,,,,,,,,,MICA,,323-U1343E-82X-CC-nan
-323,U1343,E,82,X,6,W,0,100,732.5,733.5,P,A,,,,,,,,,R,,,,,F,,,,,,,,R,,,,,F,,,,,,,,P,,,,,P,,R,"AB SHELL FRAG, YELLOW FORAMS",,323-U1343E-82X-6-nan
-323,U1343,E,83,X,CC,,30,40,743.9,744,M,F,R,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-83X-CC-nan
+Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Alabaminella weddellensis,Brizalina cf. spathula,Brizalina earlandi,Brizalina pygmaea,Bulimina aff. exilis,Bulimina aff. mexicana,Bulimina sp.,Cassidulina laevigata var. carinata,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Cibicidoides sp.,Dentalina sp.,Elphidium cf. batialis,Epistominella pulchella,Fissurina sp,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Nodosaria aff. pyrula,Nodosaria spp.,Nonionella labradorica,Nonionella turgida digitata,Oridorsalis umbonatus,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia bulloides,Pullenia sp.,Pygmaeseistron cf. hispida,Pyrgo sp.,Quinqueloculina sp.,Reophax dentaliniformis,Triloculina cf. trihedra,Triloculina sp.,Uvigerina auberiana,Uvigerina cf. peregrina,Valvulineria sp.,Comments,A/W,Sample,eodp_id
+323,U1343,E,1,H,1,,0,0,0,0,G,A,,P,P,,P,,,,,,,,,R,,,,,F,,,P,,,,,A,P,,,,P,,P,,,F,,,,P,,MICA,,323-U1343E-1H-1-nan,aa476f6cfd49c6d69c2206f873e6036a
+323,U1343,E,1,H,CC,,3,13,8.12,8.22,G,D,,,,,P,,,,,,,,,D,,,,,P,,,A,,,,,F,R,,,,,,,,,,,,,R,,rare sponge spicules,,323-U1343E-1H-CC-nan,cc9b07be740f2cbc2af69f025dee7ce1
+323,U1343,E,2,H,CC,,0,10,17.7,17.8,M,A,,,,,,,,,,,,,,A,,P,,,R,,,R,,,,,,,,,,,P,,,,,,,,,,,,323-U1343E-2H-CC-nan,d8cdf3678160e845aa8f8b03264cf9de
+323,U1343,E,3,H,CC,,10,20,26.3,26.4,M,A,,,,,,,,,,,,,,A,,P,,,R,,,P,,,,,P,,,,,,,,,,,,,P,,,PYRITE TUBES,,323-U1343E-3H-CC-nan,48a549012564583050b279a43ad057b3
+323,U1343,E,4,H,CC,,23,33,37.07,37.17,M,A,,,,,P,,,F,,P,,,,P,,,,P,F,,,F,,,,,R,R,,,,,,,,,,,,,,,"PYRITE TUBES, YELLOW PLANK",,323-U1343E-4H-CC-nan,8898affce5e59fa95110c41f3cfdf071
+323,U1343,E,5,H,CC,,17,27,42.96,43.06,G,D,P,,,,A,,,,,A,,,,F,,,,,D,,,F,,,P,,,,,,,,P,,P,,,,,,P,,,,323-U1343E-5H-CC-nan,84bbb73db6c88593cb1c7957286faed7
+323,U1343,E,6,H,CC,,23,33,55.45,55.55,M,A,,,,,P,,,,,,,,,A,,,,,,,,F,,,,,,,,,,,P,,,,,,,P,,,"PYRITE TUBES, MUTANTS",,323-U1343E-6H-CC-nan,d296ad1d26ef4ffc9b7b325574914c0d
+323,U1343,E,7,H,CC,,45,55,63.9,64,M,D,,,,,F,,,,P,A,,,,A,,,,,F,,,,,,,,F,P,,,,,F,,,,,,,P,F,,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-7H-CC-nan,b53d6e95f3142f3e1a609da3868c05ef
+323,U1343,E,8,H,CC,,25,35,74.79,74.89,M,A,,,,,P,,P,,,,,,,F,,,,,F,,,A,,,,,F,P,,,,,R,,,,,,P,A,,R,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-8H-CC-nan,11d16750b1ea654237eb91466585d118
+323,U1343,E,9,H,CC,,49,59,84.05,84.15,G,D,,,,,F,,,,,F,,,,D,,,,,A,,,A,,,,,F,,,,,,R,,,,,,,F,R,R,PYRITE TUBES,,323-U1343E-9H-CC-nan,572a16abf62ffd359180ced1f5942abd
+323,U1343,E,10,H,CC,,25,35,90.98,91.08,M,D,,,,,R,,,,,F,,,,P,,,,,P,,,F,,,,,P,,,,,,P,,,,,,,D,,P,PYRITE TUBES,,323-U1343E-10H-CC-nan,ac56ca3955c0c1b7d35e546c732793f8
+323,U1343,E,11,H,CC,,24,34,101.67,101.77,G,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SANDY, SOME PYRITE TUBES",,323-U1343E-11H-CC-nan,e212a1fc2ecf10e280b475dbf97a2b35
+323,U1343,E,12,H,CC,,39,49,106.59,106.69,G,D,,,,,R,,,,,A,,P,,F,,,,,F,,,F,,,,,F,,,,,,R,,,,,,,F,A,,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-12H-CC-nan,9b10235b7b7e0d9844bd948169a5f4ea
+323,U1343,E,14,H,CC,,5,15,115.95,116.05,M,D,,,,,A,,,,,F,,,P,D,,,,,F,,,F,,,,,F,,,,,,,,,,,P,,F,,,"PYRITE TUBES, YELLOW FORAMS",,323-U1343E-14H-CC-nan,aa6a94a8d21207beefe535089d171600
+323,U1343,E,15,H,CC,,45,55,123.35,123.45,M,F,,,,,,,,,,,,,,R,,,,,F,,,F,,,,,F,,,,,,,,,,,,,,P,,"WOOD, MICA",,323-U1343E-15H-CC-nan,d9931ad2941a88070bf5db08452da940
+323,U1343,E,16,H,CC,,31,41,129.46,129.56,G,A,,,,,R,,,,P,R,,,P,A,,,,,,,,D,,,,,P,,,,,,P,,,,,,,,R,,MICA,,323-U1343E-16H-CC-nan,2d3a5943180dcef7cb47b56de495bab3
+323,U1343,E,17,H,CC,,30,40,138.34,138.44,M,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, YELLOW FORAM",,323-U1343E-17H-CC-nan,82d246d78a9191966d16b82290914da1
+323,U1343,E,18,H,CC,,0,10,148.21,148.31,G,A,,,,,,,,,,P,,,,A,,,,,R,R,,,,,,,R,,,,,,,,,,,,,,P,,"LARGE ROCK FRAGMENT, PYRITE",,323-U1343E-18H-CC-nan,e2d2b1f8c52be738bfac62ed3a0886fe
+323,U1343,E,19,H,CC,,24,34,155.87,155.97,G,A,,,,,R,,,,,R,,P,,R,,P,,,R,,,A,,,,,R,,,,,,,,,,,,,,P,,PYRITE,,323-U1343E-19H-CC-nan,74614552f49e141be15bb58b7c8ca655
+323,U1343,E,20,H,CC,,24,34,164.89,164.99,G,A,,,,P,R,,,,,,,,,A,,,,,F,,,P,,,,,A,,,,,,,,,,,,,,R,,"PYRITE, YELLOW FORAMS,  large rock fragment >5mm",,323-U1343E-20H-CC-nan,db093fc5c76f788586467313a6f96314
+323,U1343,E,21,H,CC,,0,10,175.07,175.17,M,F,,,,,R,,,,,,,,,F,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-21H-CC-nan,e4098cd4757eff1b1f77387890afc603
+323,U1343,E,22,H,CC,,29,39,183.76,183.86,M,A,,,R,,A,,,,,P,,,,P,,,P,,,,,A,,P,,,P,,,,P,,,,,,,,,,,,"PYRITE, YELLOW FORAMS",,323-U1343E-22H-CC-nan,aafb53b026e280105214bb3b68258a93
+323,U1343,E,23,H,CC,,49,59,193.31,193.41,G,A,,,,,R,,,,,,,,,F,,,,,R,,,A,,,,,R,,,,,,,,,,,,,,,,,,323-U1343E-23H-CC-nan,7c3ea75e2345a69b0773e3c0b9d14c80
+323,U1343,E,24,H,CC,,32,42,197.47,197.57,G,A,,,,,,,,,,,,,,R,,,,,,,,P,,,,,A,,,,,,,,,,,,,P,R,R,,,323-U1343E-24H-CC-nan,27f930eba143b65f7f023f17b2218f90
+323,U1343,E,25,H,CC,,19,29,207.99,208.09,G,D,,,P,,D,,,,,R,,,,R,,P,,,P,,,F,P,P,,,,,,,,,,,,,,,,,,,"YELLOW FORAMS, PYRITE",,323-U1343E-25H-CC-nan,b97e42262b2895ece2903c2d71cc5637
+323,U1343,E,26,H,CC,,34,44,217.04,217.14,G,A,,,,,,,P,,,R,,,,A,,,,,,,,,,,,,,,,,,,,,,P,,,,R,,,VOLCANIC GLASS,,323-U1343E-26H-CC-nan,e419191a474a6136c559a79bd9dedd4a
+323,U1343,E,27,H,CC,,5,15,226.01,226.11,G,A,,,,,,,,,,,,,,A,,,,,,,,R,,,,,,,,,,,,,,,,P,,P,,,MICA,,323-U1343E-27H-CC-nan,cd0a26344ac096e9a3b6217825acd098
+323,U1343,E,28,H,CC,,45,55,234.72,234.82,G,A,,,,,,,,,,R,,,,,,,,,,,,A,,,,,R,,,,,,,,,,,,,,,P,"PYRITE TUBES, MICA",,323-U1343E-28H-CC-nan,4238b685e37b24404f36ad2c79dc4863
+323,U1343,E,29,H,CC,,30,40,245.49,245.59,G,F,,,,,,,,,,R,,,,,,,P,,P,,,F,,,,,P,,,,,,P,,,,,,P,,,,"PYRITE TUBES, MICA, WOOD",,323-U1343E-29H-CC-nan,478ed1d0fc307e7bc8a3f5c8466beb10
+323,U1343,E,30,H,CC,,25,35,254.21,254.31,G,R,P,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-30H-CC-nan,bdaef6d08d052db868157ad11868e8d1
+323,U1343,E,31,H,CC,,16,26,263.75,263.85,G,A,,,,,,,,,,P,,,,A,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-31H-CC-nan,ccb115ececf4709d5dbbc13f80f753b0
+323,U1343,E,32,H,CC,,16,26,272.49,272.59,G,P,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-32H-CC-nan,47a2e5927b3ad57f472b48e1625aee2f
+323,U1343,E,33,H,CC,,79,89,282.2,282.3,G,F,,,,,,,,,,F,,,,R,,,,,,,,,,,,,P,,,,,,P,,,,,,,,R,,"PYRITE TUBES, MICA",,323-U1343E-33H-CC-nan,9df63be1eb2e555ab4e7b34f955565e8
+323,U1343,E,34,H,CC,,50,60,291.18,291.28,G,F,P,,,,,,,,,P,,,,,,,,,,,,P,,,,,R,,,,,,,,,,,,P,,,,PYRITE TUBES,,323-U1343E-34H-CC-nan,3e826f1836d171fc3d32f3356388590a
+323,U1343,E,35,H,CC,,22,32,301.39,301.49,M,A,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,P,R,,,,323-U1343E-35H-CC-nan,2bc0d9e6bdbf7dae0e15332cc9a86840
+323,U1343,E,36,H,CC,,46,56,311.1,311.2,P,F,,,,,,,,,,R,,,,P,,,,,,,,,,,,P,P,,,P,,,,,,,,,,,,,MICA,,323-U1343E-36H-CC-nan,237e2bc2ca1f883fcb72666faf58a319
+323,U1343,E,37,H,CC,,77,87,320.19,320.29,G,A,,,,,,,,,,A,R,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,"pyrite, mica, fragments from bivalves",,323-U1343E-37H-CC-nan,a5a58571cc0fafe55515028d1dc4862b
+323,U1343,E,38,H,CC,,23,33,329.74,329.84,G,A,,,,,P,,,,,A,,,,A,,,,,P,,,F,,,,,,,,P,,,,,,,,,,,,,"PYRITE, WOOD",,323-U1343E-38H-CC-nan,3c053c65d695e2a635eff375f865a764
+323,U1343,E,39,H,CC,,25,35,338.41,338.51,G,P,,,,,,,,,,,,,,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-39H-CC-nan,0338916b6dbfb73908af82b55fd83900
+323,U1343,E,40,H,CC,,26,36,346.74,346.84,G,F,,,,,,,,,,,,,,F,,,,,,,,F,,P,,,,,,,,,,,,,,,,,,,"PYRITE, ORANGE BENTHICS",,323-U1343E-40H-CC-nan,2597f198b35e2c6d1ceadcec8177e471
+323,U1343,E,41,H,CC,,33,43,354.32,354.42,G,R,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-41H-CC-nan,83d99e8b85afe4d6ef26649ff61c05bb
+323,U1343,E,42,X,CC,,24,34,359.57,359.67,M,D,,,,,R,,,,,,R,,,D,,,P,,,,,F,,,,P,,,,,,,,,,,,,,,,,"YELLOW FORAMS, PYRITE",,323-U1343E-42X-CC-nan,f7f630243e4b2f06a2372b83ee61b30a
+323,U1343,E,43,X,CC,,31,41,367.32,367.42,M,A,,,,,A,,,,,,,,,P,,,,,P,,P,A,,,,,R,,,,,,,,,,,,,,,,"PYRITE, MICA",,323-U1343E-43X-CC-nan,6aa5a45c1bba458740c23b16f1f0ecad
+323,U1343,E,44,X,CC,,38,48,376.59,376.69,M,A,,,,,,,,,,,P,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE, MICA",,323-U1343E-44X-CC-nan,865b841622eb7eee14d8d92090dfafff
+323,U1343,E,45,X,CC,,30,40,388.26,388.36,M,F,,,,,R,,,,,,,,,F,,,,,R,,,R,,,,,,,,,,,,,P,,,,,,,P,PYRITE,,323-U1343E-45X-CC-nan,bcdf8d4c28e4780eb6101b99e3bff28b
+323,U1343,E,46,H,CC,,13,23,398.57,398.67,M,F,,,,,R,,,,,,,,,R,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-46H-CC-nan,acf36378ebaa0a74f7d3ea02b1fe3272
+323,U1343,E,47,H,CC,,27,37,405.99,406.09,M,A,,,,,,,,,,R,,,,A,R,,,,,,,P,,,,P,R,,,,,,,,,,,,,,P,P,PYRITE,,323-U1343E-47H-CC-nan,3368ccbfeb3460bba3c9823f25b21f5b
+323,U1343,E,48,H,CC,,23,33,412.33,412.43,G,F,,,,,,,,,,,,,,F,,,,,,,,P,,,P,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-48H-CC-nan,fa032630415e8dc5e873b1ff410b5928
+323,U1343,E,49,H,CC,,24,34,418.44,418.54,G,A,,,,,,,,,,,,,,A,,,,,,,,R,,,R,,,,,,,,,,,,,,,,A,,"PYRITE TUBES, MICA",,323-U1343E-49H-CC-nan,08bdf19e460bc00181cea14549fa1320
+323,U1343,E,50,X,CC,,22,32,428.5,428.6,M,F,,,,,P,,,,,R,,,,P,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-50X-CC-nan,bcda74a59a305c599dfe1ccdb9ec4619
+323,U1343,E,51,X,CC,,14,24,435.85,435.95,M,A,,,,,,,,,,,,,,A,,,,,,,,,,P,,P,,,,,,,,,,,,,,,P,,MICA,,323-U1343E-51X-CC-nan,85b36a823e922edd4548767d853db095
+323,U1343,E,52,X,CC,,7,12,446.16,446.21,G,R,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,"PYRITE TUBES, MICA",,323-U1343E-52X-CC-nan,d87f5a7aed33d7a8e6f9e5e4409562c4
+323,U1343,E,53,X,CC,,11,21,455.88,455.98,G,R,,,,,P,,,,,P,,,,,,,,,,,,R,,,P,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-53X-CC-nan,01d46fe16a64a3836a99d221598483ff
+323,U1343,E,54,X,CC,,34,44,463.39,463.49,G,F,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-54X-CC-nan,be1f8d5d645b00b2bf2b567483a1c744
+323,U1343,E,55,X,CC,,32,42,475.6,475.7,G,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-55X-CC-nan,1d64f75587403c2dff2f727f9a49fe0a
+323,U1343,E,56,X,CC,,78,88,482.57,482.67,G,A,,,,,A,P,,,,P,,,,F,,,,,,,,A,,,,,,,,,,P,,,,,,,,,,,,,323-U1343E-56X-CC-nan,25588f268101c7f994b4d6739a418a55
+323,U1343,E,57,X,CC,,30,40,493.97,494.07,G,A,,,,,R,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-57X-CC-nan,4160702d0665994592fafc213d0f0e24
+323,U1343,E,58,X,CC,,29,39,502.88,502.98,G,R,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-58X-CC-nan,86e8b9c3f5b428a43acaa9a993710015
+323,U1343,E,59,X,CC,,24,34,512.52,512.62,G,F,,,,,,,,,,R,,,,R,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-59X-CC-nan,1eb664346865f4d7eaeb6f27dd78a306
+323,U1343,E,60,X,CC,,24,34,521.9,522,G,A,,,,,P,,,,,R,,,,A,,,,,,,,A,,,,,,,,,,,P,,,,,,,,,,,,323-U1343E-60X-CC-nan,ff323a1376bffaade84575ee2cf6691d
+323,U1343,E,61,X,CC,,59,69,532.41,532.51,G,P,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,,,,,,,,P,PYRITE,,323-U1343E-61X-CC-nan,ddb77be123e2be6c5707c063804f6fde
+323,U1343,E,62,X,CC,,48,58,541.78,541.88,G,A,P,,,,,,,,,,,,,P,,,,,P,,,A,,,,,,,,,,R,,,,,,,,,,P,PYRITE,,323-U1343E-62X-CC-nan,abad669f4b919e02b260a05a14898e7a
+323,U1343,E,63,X,CC,,35,45,550.54,550.64,G,A,,,,,,,,,P,,,,,A,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-63X-CC-nan,e6e0fe082401b7769875f001280c940d
+323,U1343,E,64,X,CC,,30,40,561.05,561.15,G,F,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-64X-CC-nan,56acff63b7585c992151e9d975d59f62
+323,U1343,E,65,X,CC,,36,46,568.77,568.87,M,F,F,,,,R,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-65X-CC-nan,f9eaa4807047f3ab2bd861f0644c4c2d
+323,U1343,E,66,X,CC,,20,30,581.04,581.14,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,323-U1343E-66X-CC-nan,95fbe371c49dc28fb516be3939193d33
+323,U1343,E,67,X,CC,,23,33,588.5,588.6,M,R,,,,,,,,,,,,,,R,,,R,,,,,P,,,,,,,,,,,,,,,,P,,,P,,"PYRITE, YELLOW FORAMS",,323-U1343E-67X-CC-nan,5c0188bb8edbc4c218f3fe733e2e062c
+323,U1343,E,68,X,CC,,56,66,599.26,599.36,M,A,,,,,R,,,,P,,,,,A,,,,,,,,R,,,,,,P,,,,,,,,,,,,,,,"PYRITE, YELLOW FORAMS",,323-U1343E-68X-CC-nan,bfa58b1ead156174c1de188b56071be3
+323,U1343,E,69,X,CC,,42,52,606.84,606.94,M,A,,,,,P,,,,,,,,,A,,,P,,,,,,,,,,R,,,,,,,,,,,,,,,,"PYRITE, MAINLY BROWN FORAMS",,323-U1343E-69X-CC-nan,e7524778c69f13cf3db4ab6ef7adf163
+323,U1343,E,70,X,CC,,29,39,617.9,618,M,A,,,,,,,,,,,,,,A,,,R,,,,,R,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-70X-CC-nan,6bcd636c6f959fee84bae741325c3112
+323,U1343,E,71,X,CC,,31,41,628.16,628.26,G,D,,,,,R,,,,,P,,,,D,,,P,,,,,A,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-71X-CC-nan,aced0a3fd78ff4d37289a058e166d895
+323,U1343,E,72,X,CC,,17,27,634.44,634.54,M,D,,,,,R,,,,,,,,,D,,,R,,,,P,F,,,,,,,,,,,,,,,,,,,,,"PYRITE, FEW BROWN-YELLOW FORAMS",,323-U1343E-72X-CC-nan,18a9efdc663d441b260c9e89698bddbb
+323,U1343,E,73,X,CC,,45,55,643.79,643.89,M,D,P,,,,,,,,,,,,,D,,,P,,,,R,R,,,,,,,,,,,,,,,,,,,R,,"PYRITE, YELLOW FORAMS",,323-U1343E-73X-CC-nan,766eeb75731450ad46804c3537c89239
+323,U1343,E,74,X,CC,,35,45,657.41,657.51,P,F,,,,,,,,,,R,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-74X-CC-nan,82c3114956842d0b3849a8b18caf00a6
+323,U1343,E,75,X,CC,,54,64,667.09,667.19,P,F,,,,,,,,,,R,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,"PYRITE TUBES, MICA",,323-U1343E-75X-CC-nan,1bb55e2e8a04efdb7aa440674ad74ee1
+323,U1343,E,76,X,CC,,32,42,674.96,675.06,M,A,,,,,,,,,,,,,,A,,,,,,,,,,,,P,,,P,,,,,,,,,,,,,,PYRITE TUBES,,323-U1343E-76X-CC-nan,4b41d38c900af7ec6c6b6b998727a66d
+323,U1343,E,77,X,CC,,11,21,686.37,686.47,M,R,,,,,,,,,,,,,P,P,,,,,,,,P,,,,,,,,,,,,,,,,,,P,,,PYRITE TUBES,,323-U1343E-77X-CC-nan,e5e986e29e3676e504d6eef53e5f14ae
+323,U1343,E,78,X,CC,,17,27,695.2,695.3,G,A,,,,,R,,,,,P,P,,,A,,P,,,,,,A,,,,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-78X-CC-nan,40b4e05166519604d61a97ec7ecda6ae
+323,U1343,E,79,X,CC,,19,29,705.72,705.82,M,P,,,,,,,,,,P,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,,,,,323-U1343E-79X-CC-nan,fa80eb6af34ede9da9b0b75440d3bafe
+323,U1343,E,80,X,CC,,14,24,713.8,713.9,M,A,,,,,,,,,,,P,,,A,,,R,,,,,R,,,,,,,,,,,,,,,,,,,,,"YELLOW FORAMS, PYRITE",,323-U1343E-80X-CC-nan,2bb3fd0d07920fa4a3b74102fffa0ee3
+323,U1343,E,81,X,CC,,36,46,724.96,725.06,M,F,,,,,,,,,,,,,,,R,,,,,,,F,,,P,,,,,,,,,,,,,,,,,,PYRITE,,323-U1343E-81X-CC-nan,b88e87d4ac85404bec3f7ca5f5e6fab6
+323,U1343,E,82,X,CC,,23,33,734.41,734.51,P,R,,,,,,,,,,,,,,R,,,,,R,,,P,,,,,P,,,,,,,,,,,,,,,,MICA,,323-U1343E-82X-CC-nan,aad0b039f686a16becd2607b6bc33d23
+323,U1343,E,82,X,6,W,0,100,732.5,733.5,P,A,,,,,,,,,R,,,,,F,,,,,,,,R,,,,,F,,,,,,,,P,,,,,P,,R,"AB SHELL FRAG, YELLOW FORAMS",,323-U1343E-82X-6-nan,ca631e8d6e7272d156dd10ba106abedf
+323,U1343,E,83,X,CC,,30,40,743.9,744,M,F,R,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,MICA,,323-U1343E-83X-CC-nan,242425f5c6bf2cf95ebc4007f944da94

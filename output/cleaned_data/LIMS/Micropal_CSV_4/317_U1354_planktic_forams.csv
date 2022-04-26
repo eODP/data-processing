@@ -1,68 +1,68 @@
-Exp,Hole,Core,Type,Section,Top Depth [m],Foraminiferal preservation,Foraminiferal abundance,Planktic foraminiferal (%),Globigerina spp.,Globigerina bulloides,Globigerina falconensis,Globigerinella aequilateralis,Globigerinita glutinata,Globigerinoides ruber,Globoconella inflata,Globoconella puncticuloides,Neogloboquadrina dutertrei,Neogloboquadrina incompta,Neogloboquadrina pachyderma,Orbulina universa,Turborotalita spp.,Turborotalita quinqueloba,Truncorotalia crassaformis,Truncorotalia truncatulinoides,Zeaglobierina woodi,Bryozoa fragments,Echinoid plate fragments,Echinoid spines,Fish teeth,Micro-mollusks,Ostracods,Otoliths,Radiolarians,Shell fragments,Sponge spicules,Comments,Site,Top [cm],Bottom [cm],Bottom Depth [m],A/W,Sample
-317,A,1,H,1,0.00,G,A,53,X,X,,,,,X,,X,X,,X,X,X,,,,,,,,,F,,,,C,,U1354,,,,,317-U1354A-1H-1-nan
-317,A,1,H,CC,3.78,G,A,1,X,,,,,,X,,,X,,,X,X,,,,,F,F,,F,F,,,D,,,U1354,,,,,317-U1354A-1H-CC-nan
-317,A,2,H,CC,12.26,G,A,3,X,X,,,X,,X,,X,X,,,X,X,,,,,,C,,C,C,,,A,,,U1354,,,,,317-U1354A-2H-CC-nan
-317,A,3,H,CC,13.99,G,A,,,,,,,,,,,,,,,,,,,,,F,R,,F,,,D,,no planktics,U1354,,,,,317-U1354A-3H-CC-nan
-317,A,4,H,CC,14.30,G,A,2,X,,,,,,X,,,X,X,,X,,,,,,,F,,A,F,,,D,,,U1354,,,,,317-U1354A-4H-CC-nan
-317,A,5,H,CC,14.69,G,A,43,X,X,,,,,,,,X,X,X,X,X,,,,,F,F,,F,F,,,D,F,,U1354,,,,,317-U1354A-5H-CC-nan
-317,A,6,H,CC,24.25,G,C,<1,,X,,,,,,,,,,,,,,,,,R,,,,R,,,C,,,U1354,,,,,317-U1354A-6H-CC-nan
-317,A,7,H,CC,31.33,G,C,1,,,,,,,,,,,,,,,,,,,,,R,,R,,,D,,,U1354,,,,,317-U1354A-7H-CC-nan
-317,A,8,H,CC,38.14,G,A,51,X,X,,,,,X,X,,X,X,,X,X,,X,,,,,,,C,,,A,,,U1354,,,,,317-U1354A-8H-CC-nan
-317,A,9,H,CC,46.88,G,A,15,X,X,,,,,X,,,X,,X,X,X,,,,,,R,,,F,,,A,,,U1354,,,,,317-U1354A-9H-CC-nan
-317,A,10,H,CC,53.76,G,A,22,X,X,,,,,X,,,X,X,X,,X,,X,,,,,,,F,,,A,,,U1354,,,,,317-U1354A-10H-CC-nan
-317,A,11,H,CC,60.14,G,A,12,X,X,,X,cf,,X,,,X,,X,,X,,,,,,,,,F,,,A,,,U1354,,,,,317-U1354A-11H-CC-nan
-317,A,12,H,CC,64.90,G,A,5,X,X,,,,,X,,,X,X,,X,X,,,,,,,,,F,,A,A,,,U1354,,,,,317-U1354A-12H-CC-nan
-317,A,13,H,CC,73.54,G,A,2,X,X,,,,,,,,,X,,X,X,,,,,,,,,,,,,,,U1354,,,,,317-U1354A-13H-CC-nan
-317,A,14,H,CC,76.23,G,A,2,X,X,,,,,X,,,X,X,,X,X,,,,,,,,,R,,,A,,,U1354,,,,,317-U1354A-14H-CC-nan
-317,A,15,H,CC,76.20,G,A,<1,X,,,,X,,,,,X,X,,,X,,,,,,,,,R,,,A,,,U1354,,,,,317-U1354A-15H-CC-nan
-317,A,17,H,CC,80.16,G,A,<1,X,,,,,,,,,,,,,,,,,,,F,,,F,,,D,,,U1354,,,,,317-U1354A-17H-CC-nan
-317,A,18,H,CC,80.33,G,A,6,X,,,,,,X,,,X,X,,,X,,,,,,,,F,F,,,A,,,U1354,,,,,317-U1354A-18H-CC-nan
-317,A,19,H,CC,85.38,G,A,1,X,,,,,,,,,X,X,,,,,,,,,,,F,F,,,D,,,U1354,,,,,317-U1354A-19H-CC-nan
-317,B,1,H,1,0.00,G,A,33,X,X,,,,,X,,,X,X,,X,X,,,,,F,F,,F,C,,,A,C,,U1354,,,,,317-U1354B-1H-1-nan
-317,B,1,H,CC,4.06,G,A,2,X,,,,,,,,,X,,,,,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354B-1H-CC-nan
-317,B,2,H,CC,11.68,G,A,<1,,,,,,,,,,,,,,X,,,,,,,,,F,,,D,C,,U1354,,,,,317-U1354B-2H-CC-nan
-317,B,3,H,CC,12.08,G,A,<1,,,,,,,,,,,,,,,,,,,,F,,,,,,D,,,U1354,,,,,317-U1354B-3H-CC-nan
-317,B,4,H,CC,17.64,G,A,5,X,X,?,,,,X,,,X,,X,X,X,,,,R,,F,,F,F,,,D,,,U1354,,,,,317-U1354B-4H-CC-nan
-317,B,5,H,CC,20.31,G,A,5,X,X,,,,,X,,,X,X,,X,X,,,,,,C,,F,C,,,D,,,U1354,,,,,317-U1354B-5H-CC-nan
-317,B,6,H,CC,20.88,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no planktics,U1354,,,,,317-U1354B-6H-CC-nan
-317,B,7,H,CC,26.50,G,F,10,X,,,,,,X,,,,,,,X,,,,,,,,,,,,R,,,U1354,,,,,317-U1354B-7H-CC-nan
-317,B,8,H,CC,33.45,G,A,40,X,X,,,X,,X,,,X,,,X,X,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354B-8H-CC-nan
-317,B,9,H,CC,41.46,G,A,13,X,X,,,,,X,,,X,,,X,X,,,,,F,,,F,F,,,A,,,U1354,,,,,317-U1354B-9H-CC-nan
-317,B,10,H,CC,50.29,G,A,16,X,X,,,,,X,,,X,,X,X,X,,,,,,F,,F,F,R,,D,,,U1354,,,,,317-U1354B-10H-CC-nan
-317,B,11,H,CC,57.73,G,A,18,X,X,,,,,X,,,,,X,X,X,,,,,F,,,,F,,,D,C,,U1354,,,,,317-U1354B-11H-CC-nan
-317,B,12,H,CC,62.44,G,A,12,X,X,,,,X,X,,,X,X,,X,X,,,,,,,,F,F,,,A,,,U1354,,,,,317-U1354B-12H-CC-nan
-317,B,13,H,CC,70.40,G,A,1,X,X,,,,,,,,,X,,,X,,,,,,,,F,C,,,A,,,U1354,,,,,317-U1354B-13H-CC-nan
-317,B,14,H,CC,73.56,G,A,1,X,,,,,,X,,,X,X,,X,X,,,,,,,,,F,,,A,,,U1354,,,,,317-U1354B-14H-CC-nan
-317,B,15,H,CC,77.25,G,A,1,X,,,,,,?,,,,,,X,,,,,,,,,,F,,,A,,,U1354,,,,,317-U1354B-15H-CC-nan
-317,C,2,H,CC,72.57,G,A,3,X,X,,,,,X,,,X,X,,,X,,,,,F,,,,C,,,A,,,U1354,,,,,317-U1354C-2H-CC-nan
-317,C,3,H,CC,78.13,G,A,1,X,X,,,,,X,,,X,X,,X,X,,,,,,R,,,F,,,A,,,U1354,,,,,317-U1354C-3H-CC-nan
-317,C,4,X,CC,84.37,G,A,1,X,,,,,,X,,,X,X,,,X,,,,,F,F,,,F,,,A,,,U1354,,,,,317-U1354C-4X-CC-nan
-317,C,5,X,CC,86.84,G,A,5,X,X,,,,,,,,X,X,,X,X,,,,,,,,,,,,C,,,U1354,,,,,317-U1354C-5X-CC-nan
-317,C,6,X,CC,97.76,G,A,1,X,X,,,X,,X,,,X,X,,,X,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354C-6X-CC-nan
-317,C,7,X,CC,105.86,G,A,8,X,X,,,,,,,,X,X,,,,,,,,,,,,C,,,A,,,U1354,,,,,317-U1354C-7X-CC-nan
-317,C,8,X,CC,111.56,G,A,4,X,X,,,,,,,,X,X,,,X,,,,,,,,,C,,,A,,,U1354,,,,,317-U1354C-8X-CC-nan
-317,C,9,X,CC,122.20,G,A,<1,X,,,,,,X,,,,X,,,,,,,,,,,,,,,F,,,U1354,,,,,317-U1354C-9X-CC-nan
-317,C,10,X,CC,133.37,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no planktics,U1354,,,,,317-U1354C-10X-CC-nan
-317,C,11,X,CC,144.95,G,A,2,X,X,,,,,X,,,X,X,,X,X,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354C-11X-CC-nan
-317,C,12,X,CC,152.98,G,C,1,X,X,,,,,,,,,X,,X,,,,,,A,F,,F,C,,,C,,,U1354,,,,,317-U1354C-12X-CC-nan
-317,C,13,X,CC,163.04,M,C,,,,,,,,,,,,,,,,,,,,,F,,,,,,A,,no planktics,U1354,,,,,317-U1354C-13X-CC-nan
-317,C,14,X,CC,166.16,G,A,<1,X,,,,,,,,,,,,X,,,,,,,F,,F,F,,,A,,,U1354,,,,,317-U1354C-14X-CC-nan
-317,C,15,X,CC,181.01,M,C,,,,,,,,,,,,,,,,,,,,,C,,,F,,,A,,no planktics,U1354,,,,,317-U1354C-15X-CC-nan
-317,C,16,X,CC,183.20,M,F,,,,,,,,,,,,,,,,,,,,,F,,,,,,A,,no planktics,U1354,,,,,317-U1354C-16X-CC-nan
-317,C,17,X,CC,192.75,G,A,1,X,,,,,,,,,X,,,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-17X-CC-nan
-317,C,18,X,CC,207.65,G,A,3,X,,,,,,,,,,,,X,,,,,,A,F,,,F,,,A,,,U1354,,,,,317-U1354C-18X-CC-nan
-317,C,19,X,CC,217.90,M,C,,,,,,,,,,,,,,,,,,,,,F,,,,,,D,,no planktics,U1354,,,,,317-U1354C-19X-CC-nan
-317,C,20,X,CC,221.82,M,C,<1,X,,,,,,,,,,,,?,,,,,,F,F,,,,,,A,,,U1354,,,,,317-U1354C-20X-CC-nan
-317,C,21,X,CC,240.77,G,A,21,X,X,?,,X,,X,X,,X,X,X,X,X,X,,,,F,F,,F,F,,,D,,,U1354,,,,,317-U1354C-21X-CC-nan
-317,C,22,X,CC,247.41,G,A,<1,X,,,,,,,,,,,,,,,,,,,F,,F,F,,,A,,,U1354,,,,,317-U1354C-22X-CC-nan
-317,C,23,X,CC,250.81,G,A,,,,,,,,,,,,,,,,,,,,,R,,,R,,,A,,no planktics,U1354,,,,,317-U1354C-23X-CC-nan
-317,C,25,X,CC,269.49,M,A,<1,X,,,,,,,,,,,,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-25X-CC-nan
-317,C,26,X,CC,280.73,G,A,<1,X,X,,,,,,,,,,X,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-26X-CC-nan
-317,C,27,X,CC,293.32,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,no planktics,U1354,,,,,317-U1354C-27X-CC-nan
-317,C,28,X,CC,299.64,G,A,<1,X,X,,,,,,,,,,,,,,,X,,,R,,,R,,,A,,,U1354,,,,,317-U1354C-28X-CC-nan
-317,C,29,X,CC,308.34,G,A,1,X,X,,,,,X,,,,,,,,,,X,,,R,,,R,,,A,,,U1354,,,,,317-U1354C-29X-CC-nan
-317,C,30,X,CC,318.65,G,A,<1,X,,,,,,,,,,,X,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-30X-CC-nan
-317,C,31,X,CC,326.78,G,A,2,X,X,,,X,,X,X,,X,X,,,,,,X,,,,,,,,,X,,,U1354,,,,,317-U1354C-31X-CC-nan
-317,C,32,X,CC,336.92,G,A,<1,,,,,,,,,,,?,,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-32X-CC-nan
-317,C,33,X,CC,345.80,G,A,5,X,X,,,,,,X,,X,,X,,,,,X,,,,,,R,,,A,,,U1354,,,,,317-U1354C-33X-CC-nan
-317,C,36,X,CC,375.33,G,A,1,X,,,,,,,X,,,,,,,,,X,,,,,,,,,A,,,U1354,,,,,317-U1354C-36X-CC-nan
+Exp,Hole,Core,Type,Section,Top Depth [m],Foraminiferal preservation,Foraminiferal abundance,Planktic foraminiferal (%),Globigerina spp.,Globigerina bulloides,Globigerina falconensis,Globigerinella aequilateralis,Globigerinita glutinata,Globigerinoides ruber,Globoconella inflata,Globoconella puncticuloides,Neogloboquadrina dutertrei,Neogloboquadrina incompta,Neogloboquadrina pachyderma,Orbulina universa,Turborotalita spp.,Turborotalita quinqueloba,Truncorotalia crassaformis,Truncorotalia truncatulinoides,Zeaglobierina woodi,Bryozoa fragments,Echinoid plate fragments,Echinoid spines,Fish teeth,Micro-mollusks,Ostracods,Otoliths,Radiolarians,Shell fragments,Sponge spicules,Comments,Site,Top [cm],Bottom [cm],Bottom Depth [m],A/W,Sample,eodp_id
+317,A,1,H,1,0.00,G,A,53,X,X,,,,,X,,X,X,,X,X,X,,,,,,,,,F,,,,C,,U1354,,,,,317-U1354A-1H-1-nan,2aba63b73b7f9f06fda6a49fb567d24b
+317,A,1,H,CC,3.78,G,A,1,X,,,,,,X,,,X,,,X,X,,,,,F,F,,F,F,,,D,,,U1354,,,,,317-U1354A-1H-CC-nan,952addcbb26279addf4f68e83a618db9
+317,A,2,H,CC,12.26,G,A,3,X,X,,,X,,X,,X,X,,,X,X,,,,,,C,,C,C,,,A,,,U1354,,,,,317-U1354A-2H-CC-nan,5387619bec5b40014a57ca690845e9e7
+317,A,3,H,CC,13.99,G,A,,,,,,,,,,,,,,,,,,,,,F,R,,F,,,D,,no planktics,U1354,,,,,317-U1354A-3H-CC-nan,4a0f8b035aea43a640b255b73054dc50
+317,A,4,H,CC,14.30,G,A,2,X,,,,,,X,,,X,X,,X,,,,,,,F,,A,F,,,D,,,U1354,,,,,317-U1354A-4H-CC-nan,f9e1769f08950986fd152f6ade0bbb4a
+317,A,5,H,CC,14.69,G,A,43,X,X,,,,,,,,X,X,X,X,X,,,,,F,F,,F,F,,,D,F,,U1354,,,,,317-U1354A-5H-CC-nan,c144cf3db80c41bad1ac5fb303f0eaf1
+317,A,6,H,CC,24.25,G,C,<1,,X,,,,,,,,,,,,,,,,,R,,,,R,,,C,,,U1354,,,,,317-U1354A-6H-CC-nan,ae3b4188bc96a0ba00858b5892bccfdd
+317,A,7,H,CC,31.33,G,C,1,,,,,,,,,,,,,,,,,,,,,R,,R,,,D,,,U1354,,,,,317-U1354A-7H-CC-nan,81a06a215ebe8706f744e7273ce2b89b
+317,A,8,H,CC,38.14,G,A,51,X,X,,,,,X,X,,X,X,,X,X,,X,,,,,,,C,,,A,,,U1354,,,,,317-U1354A-8H-CC-nan,add6b09fa2d169f5adc2deaec4e29121
+317,A,9,H,CC,46.88,G,A,15,X,X,,,,,X,,,X,,X,X,X,,,,,,R,,,F,,,A,,,U1354,,,,,317-U1354A-9H-CC-nan,42111ea709459569745faa6552e30306
+317,A,10,H,CC,53.76,G,A,22,X,X,,,,,X,,,X,X,X,,X,,X,,,,,,,F,,,A,,,U1354,,,,,317-U1354A-10H-CC-nan,55a25c29957fd34f0db3e9ec2a28e233
+317,A,11,H,CC,60.14,G,A,12,X,X,,X,cf,,X,,,X,,X,,X,,,,,,,,,F,,,A,,,U1354,,,,,317-U1354A-11H-CC-nan,04613170b7156e4786852f8fe7ebeaf0
+317,A,12,H,CC,64.90,G,A,5,X,X,,,,,X,,,X,X,,X,X,,,,,,,,,F,,A,A,,,U1354,,,,,317-U1354A-12H-CC-nan,18da3ad5b27132bbf3e30a2cbccbe651
+317,A,13,H,CC,73.54,G,A,2,X,X,,,,,,,,,X,,X,X,,,,,,,,,,,,,,,U1354,,,,,317-U1354A-13H-CC-nan,f4a6eb44a5aec9cac4628f2829fc0da9
+317,A,14,H,CC,76.23,G,A,2,X,X,,,,,X,,,X,X,,X,X,,,,,,,,,R,,,A,,,U1354,,,,,317-U1354A-14H-CC-nan,7ac49d7cf21703d3689fb5baa24edff8
+317,A,15,H,CC,76.20,G,A,<1,X,,,,X,,,,,X,X,,,X,,,,,,,,,R,,,A,,,U1354,,,,,317-U1354A-15H-CC-nan,303a2de924f888963526b98b56b3bc70
+317,A,17,H,CC,80.16,G,A,<1,X,,,,,,,,,,,,,,,,,,,F,,,F,,,D,,,U1354,,,,,317-U1354A-17H-CC-nan,24af184753e87e3b515aa371fbc5251d
+317,A,18,H,CC,80.33,G,A,6,X,,,,,,X,,,X,X,,,X,,,,,,,,F,F,,,A,,,U1354,,,,,317-U1354A-18H-CC-nan,4f09387b115b399c646f54185e66b932
+317,A,19,H,CC,85.38,G,A,1,X,,,,,,,,,X,X,,,,,,,,,,,F,F,,,D,,,U1354,,,,,317-U1354A-19H-CC-nan,f253c109adeb7411ed3cde3ed87607b0
+317,B,1,H,1,0.00,G,A,33,X,X,,,,,X,,,X,X,,X,X,,,,,F,F,,F,C,,,A,C,,U1354,,,,,317-U1354B-1H-1-nan,eae19670e00142a5b4c04f77da7358aa
+317,B,1,H,CC,4.06,G,A,2,X,,,,,,,,,X,,,,,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354B-1H-CC-nan,a118451a1514100154054221d66c3fc8
+317,B,2,H,CC,11.68,G,A,<1,,,,,,,,,,,,,,X,,,,,,,,,F,,,D,C,,U1354,,,,,317-U1354B-2H-CC-nan,9045b3f7e6a2aa354132ab64ca7cdb78
+317,B,3,H,CC,12.08,G,A,<1,,,,,,,,,,,,,,,,,,,,F,,,,,,D,,,U1354,,,,,317-U1354B-3H-CC-nan,bc7159d1fef23ce61825aaac455b730e
+317,B,4,H,CC,17.64,G,A,5,X,X,?,,,,X,,,X,,X,X,X,,,,R,,F,,F,F,,,D,,,U1354,,,,,317-U1354B-4H-CC-nan,eb4b00c3b5e18d675b0b49b4f806785e
+317,B,5,H,CC,20.31,G,A,5,X,X,,,,,X,,,X,X,,X,X,,,,,,C,,F,C,,,D,,,U1354,,,,,317-U1354B-5H-CC-nan,d17c9685f538e632086e1206a1dbe1ee
+317,B,6,H,CC,20.88,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no planktics,U1354,,,,,317-U1354B-6H-CC-nan,dc7eb3ba205258fbbce4720679cadec3
+317,B,7,H,CC,26.50,G,F,10,X,,,,,,X,,,,,,,X,,,,,,,,,,,,R,,,U1354,,,,,317-U1354B-7H-CC-nan,701d432a8415d73cb94e23f5db07e70d
+317,B,8,H,CC,33.45,G,A,40,X,X,,,X,,X,,,X,,,X,X,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354B-8H-CC-nan,f5b2434547298f2fe4d2e0df9b218f89
+317,B,9,H,CC,41.46,G,A,13,X,X,,,,,X,,,X,,,X,X,,,,,F,,,F,F,,,A,,,U1354,,,,,317-U1354B-9H-CC-nan,0bc735c2d8de1b84bf8f5f8b1864ea7e
+317,B,10,H,CC,50.29,G,A,16,X,X,,,,,X,,,X,,X,X,X,,,,,,F,,F,F,R,,D,,,U1354,,,,,317-U1354B-10H-CC-nan,e738d2c60b56bcd5e3b97bae4456eb97
+317,B,11,H,CC,57.73,G,A,18,X,X,,,,,X,,,,,X,X,X,,,,,F,,,,F,,,D,C,,U1354,,,,,317-U1354B-11H-CC-nan,478494e8918440a26ecf87ea2fb34eda
+317,B,12,H,CC,62.44,G,A,12,X,X,,,,X,X,,,X,X,,X,X,,,,,,,,F,F,,,A,,,U1354,,,,,317-U1354B-12H-CC-nan,79b3ffbaf1ee61822078ff68f02a9313
+317,B,13,H,CC,70.40,G,A,1,X,X,,,,,,,,,X,,,X,,,,,,,,F,C,,,A,,,U1354,,,,,317-U1354B-13H-CC-nan,28c4f724387e238b53028a602fc57122
+317,B,14,H,CC,73.56,G,A,1,X,,,,,,X,,,X,X,,X,X,,,,,,,,,F,,,A,,,U1354,,,,,317-U1354B-14H-CC-nan,8bdd67c36d3f1e6d9ace1ea31f598d3c
+317,B,15,H,CC,77.25,G,A,1,X,,,,,,?,,,,,,X,,,,,,,,,,F,,,A,,,U1354,,,,,317-U1354B-15H-CC-nan,865570e1ffca3e21a5299480eb822b3d
+317,C,2,H,CC,72.57,G,A,3,X,X,,,,,X,,,X,X,,,X,,,,,F,,,,C,,,A,,,U1354,,,,,317-U1354C-2H-CC-nan,2ee57637568726d56b7e770ef2ede2ee
+317,C,3,H,CC,78.13,G,A,1,X,X,,,,,X,,,X,X,,X,X,,,,,,R,,,F,,,A,,,U1354,,,,,317-U1354C-3H-CC-nan,e7e903efd10f0ebd76918c31147be650
+317,C,4,X,CC,84.37,G,A,1,X,,,,,,X,,,X,X,,,X,,,,,F,F,,,F,,,A,,,U1354,,,,,317-U1354C-4X-CC-nan,f5247d7b74b1cc1b16b1005c91552732
+317,C,5,X,CC,86.84,G,A,5,X,X,,,,,,,,X,X,,X,X,,,,,,,,,,,,C,,,U1354,,,,,317-U1354C-5X-CC-nan,09b1ed0891060117e29792d04792ebb8
+317,C,6,X,CC,97.76,G,A,1,X,X,,,X,,X,,,X,X,,,X,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354C-6X-CC-nan,416b4ab4d39233f9148c45184ed69551
+317,C,7,X,CC,105.86,G,A,8,X,X,,,,,,,,X,X,,,,,,,,,,,,C,,,A,,,U1354,,,,,317-U1354C-7X-CC-nan,192ebaee9195853944a9bbd4f8dde4c0
+317,C,8,X,CC,111.56,G,A,4,X,X,,,,,,,,X,X,,,X,,,,,,,,,C,,,A,,,U1354,,,,,317-U1354C-8X-CC-nan,070959963cc1c0ad428e5a03830d579e
+317,C,9,X,CC,122.20,G,A,<1,X,,,,,,X,,,,X,,,,,,,,,,,,,,,F,,,U1354,,,,,317-U1354C-9X-CC-nan,f65f4b6fd2aab2d397afe127721aa71a
+317,C,10,X,CC,133.37,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no planktics,U1354,,,,,317-U1354C-10X-CC-nan,fe5467bf1edca42b8f28e22a72b6c9e4
+317,C,11,X,CC,144.95,G,A,2,X,X,,,,,X,,,X,X,,X,X,,,,,F,,,,F,,,A,,,U1354,,,,,317-U1354C-11X-CC-nan,060ac23de3addbd3e406af5630fcfcb5
+317,C,12,X,CC,152.98,G,C,1,X,X,,,,,,,,,X,,X,,,,,,A,F,,F,C,,,C,,,U1354,,,,,317-U1354C-12X-CC-nan,ad5b53a2301e0e370cc9acd40e45abde
+317,C,13,X,CC,163.04,M,C,,,,,,,,,,,,,,,,,,,,,F,,,,,,A,,no planktics,U1354,,,,,317-U1354C-13X-CC-nan,1cdae0a3d8bfd7e45d330706601f1ab6
+317,C,14,X,CC,166.16,G,A,<1,X,,,,,,,,,,,,X,,,,,,,F,,F,F,,,A,,,U1354,,,,,317-U1354C-14X-CC-nan,ca20be6361b2cfc3b9be281273b547e5
+317,C,15,X,CC,181.01,M,C,,,,,,,,,,,,,,,,,,,,,C,,,F,,,A,,no planktics,U1354,,,,,317-U1354C-15X-CC-nan,17571dfb1b4b079e347de51317216d68
+317,C,16,X,CC,183.20,M,F,,,,,,,,,,,,,,,,,,,,,F,,,,,,A,,no planktics,U1354,,,,,317-U1354C-16X-CC-nan,4f925d51b0d8250abb93262cf6216e5a
+317,C,17,X,CC,192.75,G,A,1,X,,,,,,,,,X,,,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-17X-CC-nan,01046291d60b4926c0ffbb616db78153
+317,C,18,X,CC,207.65,G,A,3,X,,,,,,,,,,,,X,,,,,,A,F,,,F,,,A,,,U1354,,,,,317-U1354C-18X-CC-nan,9e27a352d1c4e7d14664946c93bc22c4
+317,C,19,X,CC,217.90,M,C,,,,,,,,,,,,,,,,,,,,,F,,,,,,D,,no planktics,U1354,,,,,317-U1354C-19X-CC-nan,82fe0c702498cf360d5e69e7ff84c664
+317,C,20,X,CC,221.82,M,C,<1,X,,,,,,,,,,,,?,,,,,,F,F,,,,,,A,,,U1354,,,,,317-U1354C-20X-CC-nan,71ab1b7e98ad5d650139833555827705
+317,C,21,X,CC,240.77,G,A,21,X,X,?,,X,,X,X,,X,X,X,X,X,X,,,,F,F,,F,F,,,D,,,U1354,,,,,317-U1354C-21X-CC-nan,7ae05c6aabeb8e354852937f659579ce
+317,C,22,X,CC,247.41,G,A,<1,X,,,,,,,,,,,,,,,,,,,F,,F,F,,,A,,,U1354,,,,,317-U1354C-22X-CC-nan,2b9db173cade856e69cfe3f3fd6ab4a4
+317,C,23,X,CC,250.81,G,A,,,,,,,,,,,,,,,,,,,,,R,,,R,,,A,,no planktics,U1354,,,,,317-U1354C-23X-CC-nan,c1e696126e34c888ec6e3bd684b90e98
+317,C,25,X,CC,269.49,M,A,<1,X,,,,,,,,,,,,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-25X-CC-nan,21ebf79951a6f1845d84dff3c26b6e49
+317,C,26,X,CC,280.73,G,A,<1,X,X,,,,,,,,,,X,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-26X-CC-nan,9b84a27a121e75d3d0ec2b647bf8b9a5
+317,C,27,X,CC,293.32,G,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,no planktics,U1354,,,,,317-U1354C-27X-CC-nan,a9e11b79c7ca7c0edafc83f47a5fe882
+317,C,28,X,CC,299.64,G,A,<1,X,X,,,,,,,,,,,,,,,X,,,R,,,R,,,A,,,U1354,,,,,317-U1354C-28X-CC-nan,0213bab15a1409ffcb5bfac3a6682322
+317,C,29,X,CC,308.34,G,A,1,X,X,,,,,X,,,,,,,,,,X,,,R,,,R,,,A,,,U1354,,,,,317-U1354C-29X-CC-nan,bc6896e1023b83aa6b6c37c23b27c7b8
+317,C,30,X,CC,318.65,G,A,<1,X,,,,,,,,,,,X,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-30X-CC-nan,704ecb11fd0c52864cc444fa6d7a637c
+317,C,31,X,CC,326.78,G,A,2,X,X,,,X,,X,X,,X,X,,,,,,X,,,,,,,,,X,,,U1354,,,,,317-U1354C-31X-CC-nan,cb35d04a17eabec45ec23fea2945170d
+317,C,32,X,CC,336.92,G,A,<1,,,,,,,,,,,?,,,,,,,,,,,,,,,A,,,U1354,,,,,317-U1354C-32X-CC-nan,e7c6e429eaf6678c02859b2b3e7c2937
+317,C,33,X,CC,345.80,G,A,5,X,X,,,,,,X,,X,,X,,,,,X,,,,,,R,,,A,,,U1354,,,,,317-U1354C-33X-CC-nan,be166abff8dddfaf2131f6dc98c99bb4
+317,C,36,X,CC,375.33,G,A,1,X,,,,,,,X,,,,,,,,,X,,,,,,,,,A,,,U1354,,,,,317-U1354C-36X-CC-nan,b374552e7640ce68bfd39164fe61d9b1

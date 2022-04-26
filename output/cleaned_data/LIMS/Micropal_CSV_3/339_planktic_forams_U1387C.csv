@@ -1,118 +1,118 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Pteropod group abundance,Pteropod comment,PF preservation,PF group abundance,Globigerina bulloides,Globigerinoides ruber (white),Globigerinoides ruber (pink),Globigerinoides sacculifer,Globigerinoides trilobus,Globorotalia inflata,Globorotalia hirsuta (dex),Globorotalia hirsuta (sin),Globorotalia crassaformis s.l. (dex),Globorotalia crassaformis s.l. (sin),Globorotalia truncatulinoides (dex),Globorotalia truncatulinoides (sin),Beella digitata,Dentoglobigerina altispira,Globigerina apertura,Globigerina calida,Globigerina decoraperta,Globigerina falconensis,Globigerina nepenthes,Globigerinella siphonifera,Globigerinita glutinata,Globigerinoides conglobatus,Globigerinoides extremus,Globorotalia cf. crassula,Globorotalia margaritae,Globorotalia menardii (dex),Globorotalia menardii (sin),Globorotalia miocenica,Globorotalia miotumida,Globorotalia multicamerata,Globorotalia puncticulata,Globorotalia scitula (dex),Globorotalia scitula (sin),Globoturborotalita rubescens,Globoturborotalita tenella,Neogloboquadrina atlantica (dex),Neogloboquadrina atlantica (sin),Neogloboquadrina dutertrei,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Orbulina universa,Pulleniatina obliquiloculata,Sphaeroidinella dehiscens,Sphaeroidinellopsis seminulina,Sphaeroidinellopsis subdehiscens,Turborotalita humilis,Turborotalita iota,Turborotalita quinqueloba,Comment,File Data,
-339-U1387C-1W-CC-PAL-FORAM,339,U1387,C,1,1-CC,W,CC,PAL,FORAM,0,6,4.1,4.16,B,,G,D,F,R,,,,F,,,,P,R,,,,,,,,,P,,,,,,,,,,,,,,P,P,,,,D,P,R,,,,,,,,,,
-339-U1387C-2R-CC-PAL-FORAM,339,U1387,C,2,2-CC,R,CC,PAL,FORAM,0,5,299.54,299.59,B,,G,D,F,R,,,,F,,,,R,R,,,,,,,,,P,P,,,,,,,,,,,P,B,,,P,,,R,R,P,,,,,,,R,,,
-339-U1387C-3R-CC-PAL-FORAM,339,U1387,C,3,3-CC,R,CC,PAL,FORAM,0,5,308.31,308.36,B,,G,D,A,P,,,,F,,,,,,,,,,,,,,P,P,,,,,,,,,,,P,,,,P,,,F,,,,,,,,,F,,,
-339-U1387C-5R-CC-PAL-FORAM,339,U1387,C,5,5-CC,R,CC,PAL,FORAM,0,5,327.64,327.69,B,,G,D,A,R,,,,F,,,,,P,,,,,,,,,,P,,,,,,,,,,,,,,,R,,,A,,R,P,,,,,,,,,
-339-U1387C-6R-CC-PAL-FORAM,339,U1387,C,6,6-CC,R,CC,PAL,FORAM,0,5,336.25,336.3,B,,G,D,A,R,,,,A,,,,,R,P,,,,P,,,,R,P,P,,,,,,,,,,P,,,,R,,,A,,F,,,,,,,P,,,
-339-U1387C-7R-CC-PAL-FORAM,339,U1387,C,7,7-CC,R,CC,PAL,FORAM,0,5,346,346.05,B,,VG,D,A,A,,,,A,,,,,,,,,,P,,,,P,P,P,,,,,,,,,,P,,,,F,,,R,,F,,,,,,,P,,,
-339-U1387C-8R-CC-PAL-FORAM,339,U1387,C,8,8-CC,R,CC,PAL,FORAM,0,5,357.47,357.52,B,,VG,D,F,R,,,,A,,,,R,,,,,,,,,,R,P,,,,,,,,,,,P,,,,R,,,R,P,F,,,,,,,P,,,
-339-U1387C-9R-CC-PAL-FORAM,339,U1387,C,9,9-CC,R,CC,PAL,FORAM,0,5,365.2,365.25,B,,VG,D,F,F,,,,F,,,,P,,,,,,P,,,,P,P,,,,,,,,,,,P,,,,R,,,F,,P,,,,,,,,,,
-339-U1387C-10R-CC-PAL-FORAM,339,U1387,C,10,10-CC,R,CC,PAL,FORAM,0,5,376.49,376.54,B,,G,D,F,F,,,,A,,,P,P,,,,,,P,,,,R,P,,,,,,,,,,,P,,,,R,,,F,,F,,,,,,,,,,
-339-U1387C-12R-CC-PAL-FORAM,339,U1387,C,12,12-CC,R,CC,PAL,FORAM,0,5,395.41,395.46,B,,VG,D,F,R,,P,P,F,,,,,,,,,P,,,,,P,R,,,,,,,,,,,,,P,,F,,P,A,,R,,,,,,,P,,,
-339-U1387C-13R-CC-PAL-FORAM,339,U1387,C,13,13-CC,R,CC,PAL,FORAM,0,5,404.86,404.91,B,,M,D,A,A,,,P,F,,,,,P,,,,P,P,,,,P,R,,,,,,,,,,,,,,,R,,P,P,P,R,,,,,,,,,,
-339-U1387C-14R-CC-PAL-FORAM,339,U1387,C,14,14-CC,R,CC,PAL,FORAM,0,5,410.63,410.68,B,,M,D,A,R,,,P,F,,,,P,P,,,,P,,,,,P,R,,,,,,,,,,,,,P,,,,,A,P,R,,,,,,,,,,
-339-U1387C-15R-CC-PAL-FORAM,339,U1387,C,15,15-CC,R,CC,PAL,FORAM,0,6,422.92,422.98,B,,M,D,A,F,,,,,,P,,,,,,,P,,,,,P,R,,,,,,,,,,,P,,,,R,,P,A,,P,,,,,,,,,,
-339-U1387C-16R-CC-PAL-FORAM,339,U1387,C,16,16-CC,R,CC,PAL,FORAM,0,6,430.63,430.69,B,,M,A,F,F,,,,A,,,,,,,,,P,,,,,P,R,,,,,,,,,,,B,,,,F,,,P,,R,,P,,,P,,,,,
-339-U1387C-17R-CC-PAL-FORAM,339,U1387,C,17,17-CC,R,CC,PAL,FORAM,0,5,436.81,436.86,B,,G,D,R,F,,,P,R,,,,P,,P,,,,,,P,,P,R,P,,,,,,,,,,P,,P,P,F,,P,A,,R,P,P,,,R,,R,,,
-339-U1387C-18R-CC-PAL-FORAM,339,U1387,C,18,18-CC,R,CC,PAL,FORAM,0,5,452.57,452.62,B,,G,D,F,A,,,P,A,,,P,R,,P,,,,,,P,,P,,,,,,,,,,,,,,,,P,,,A,,F,,P,,,,,,,,
-339-U1387C-19R-2-W 46/48-7934-FORAM,339,U1387,C,19,19-2,R,2,W,46/48-7934-FORAM,0,2,454.96,454.98,B,,M,D,A,F,,,,F,,,R,,,,,,,P,,,,,P,,,,,,,,,,,,,,,P,,,F,,R,,,,,,,,,,
-339-U1387C-19R-3-W 20/22-7938-FORAM,339,U1387,C,19,19-3,R,3,W,20/22-7938-FORAM,0,2,456.2,456.22,B,,M,D,A,R,,P,F,R,,,R,P,P,,,,,,,,,,,,,,,,,,,,R,P,,,,,,,F,P,F,,,,,,,,G. truncatulinoides questionary,,
-339-U1387C-19R-4-W 19/21-7935-FORAM,339,U1387,C,19,19-4,R,4,W,19/21-7935-FORAM,0,2,457.69,457.71,B,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-339-U1387C-19R-CC-PAL-FORAM,339,U1387,C,19,19-CC,R,CC,PAL,FORAM,0,5,458.54,458.59,B,,M,D,F,R,,,,P,,,F,,,P,,,,,,,,,,P,,,,,,,,,P,,,,,P,,,R,,R,,P,P,B,,,,,,
-339-U1387C-20R-1-W 39/41-7939-FORAM,339,U1387,C,20,20-1,R,1,W,39/41-7939-FORAM,0,2,462.99,463.01,B,,M,D,A,R,,,R,,,,R,,,,,,,,,P,,,F,,,,,,,,,,F,P,,,,,,,P,,R,,,,,,,P,,,
-339-U1387C-20R-3-W 47/49-7940-FORAM,339,U1387,C,20,20-3,R,3,W,47/49-7940-FORAM,0,2,466.07,466.09,B,,G,A,A,P,,,,,,,R,,,,,,R,P,,,,,F,,,,,,,,,,,,,,,,,,D,P,R,,,,,,,P,,,
-339-U1387C-20R-5-W 49/51-7941-FORAM,339,U1387,C,20,20-5,R,5,W,49/51-7941-FORAM,0,2,469.09,469.11,B,,G,D,A,P,,,P,,,,R,,,,,,,,,,,,F,,,,,P,,P,,,R,,,P,P,,,,F,R,R,,,,,,,,,,
-339-U1387C-20R-7-W 39/41-7942-FORAM,339,U1387,C,20,20-7,R,7,W,39/41-7942-FORAM,0,2,471.99,472.01,B,,M,D,A,P,,,R,,,,P,,,,,,P,P,,,,,,,P,,,,,,,,R,P,,,,,,,F,,R,,,,,,,,,,
-339-U1387C-20R-CC-PAL-FORAM,339,U1387,C,20,20-CC,R,CC,PAL,FORAM,0,5,472.31,472.36,B,,M,D,F,R,,,R,,,,F,,,,,,R,,,,,,F,,,,,,,,,,P,,,,,,,,F,,R,,,,,,,,,,
-339-U1387C-21R-3-W 59/61-7944-FORAM,339,U1387,C,21,21-3,R,3,W,59/61-7944-FORAM,0,2,475.79,475.81,B,,G,D,F,R,,,,,,,A,,,,,,A,P,,,,,F,,,,,,,,,,,,,,,,,,F,P,R,,,,,,,,,,
-339-U1387C-21R-CC-PAL-FORAM,339,U1387,C,21,21-CC,R,CC,PAL,FORAM,0,5,479.37,479.42,B,,M,D,A,P,,,F,,,,F,,,,,,F,,,,,,R,,P,,,R,P,,,,R,,,,,,,,F,P,R,,,R,,,,R,,,
-339-U1387C-22R-3-W 61/63-7659-FORAM,339,U1387,C,22,22-3,R,3,W,61/63-7659-FORAM,0,2,485.41,485.43,B,,G,D,A,R,,,F,,,P,,R,,,,,P,P,,F,,P,F,,P,,,,,,,,P,,,,,,,,A,P,F,,,,,,,P,,,
-339-U1387C-22R-CC-PAL-FORAM,339,U1387,C,22,22-CC,R,CC,PAL,FORAM,0,5,489.7,489.75,B,,G,D,A,R,,,R,,,,,R,,,P,,R,,,,,,F,P,P,,,,,,,,R,P,,,,,,,A,,R,,,P,,,,,,,
-339-U1387C-23R-1-W 59/61-7660-FORAM,339,U1387,C,23,23-1,R,1,W,59/61-7660-FORAM,0,2,491.99,492.01,B,,P,A,A,,,,P,,,R,,P,,,,,P,,,P,,P,R,,,,,,,,,,,,,,,,,,D,,R,,,,,,,P,,,
-339-U1387C-23R-3-W 87/89-7661-FORAM,339,U1387,C,23,23-3,R,3,W,87/89-7661-FORAM,0,2,495.27,495.29,B,,P,F,D,P,,,R,,,R,,P,,,,,P,,,P,,,P,,,,,,,,,,,,,,,,,,D,,P,,,P,,,,P,,,
-339-U1387C-23R-5-W 88/90-7662-FORAM,339,U1387,C,23,23-5,R,5,W,88/90-7662-FORAM,0,2,498.28,498.3,B,,P,F,D,P,,,P,,P,,,,,,,,P,,,P,,P,R,,,,,,,,,,,,,,,,,,A,P,R,,,P,,,,,,,
-339-U1387C-23R-CC-PAL-FORAM,339,U1387,C,23,23-CC,R,CC,PAL,FORAM,0,5,499.79,499.84,B,,VG,D,F,F,,,,,,,R,R,,,,,F,,,,,P,R,,,,,,,,,,,P,,,,,,,A,,R,,,,,,,,,,
-339-U1387C-24R-CC-PAL-FORAM,339,U1387,C,24,24-CC,R,CC,PAL,FORAM,0,5,510.1,510.15,B,,VG,D,A,A,,R,R,B,,,,R,,,,,R,,,,,,R,,,,,,,R,,P,,,,,,,,,F,,A,,,P,,,,P,,,
-339-U1387C-25R-CC-PAL-FORAM,339,U1387,C,25,25-CC,R,CC,PAL,FORAM,0,5,520.19,520.24,B,,G,D,F,F,,,,,,,,R,,,,,F,,,,,P,R,,,,,,,,,,,,,,,,,,A,,F,,,P,,,,,,,
-339-U1387C-26R-1-W 57/59-7669-FORAM,339,U1387,C,26,26-1,R,1,W,57/59-7669-FORAM,0,2,520.47,520.49,B,,M,D,D,,,,P,,,,,P,,,,,P,,,P,,P,P,,P,,,,,,,,F,,,,,,,,A,,R,,,P,P,,,,radiolaria,,
-339-U1387C-26R-3-W 60/62-7670-FORAM,339,U1387,C,26,26-3,R,3,W,60/62-7670-FORAM,0,2,523.5,523.52,B,,M,D,A,F,,,,,,,,P,,,,,F,,P,P,,,P,P,R,,,,,,,,F,,,,,,,,F,,R,,,,,,,P,,,
-339-U1387C-26R-6-W 47/49-7671-FORAM,339,U1387,C,26,26-6,R,6,W,47/49-7671-FORAM,0,2,527.57,527.59,B,,G,D,A,P,,,P,,,,,,,,,,F,,P,R,,,P,,R,,,,,,,,F,,,,,,,,A,P,P,,,P,P,,,,,,
-339-U1387C-26R-CC-PAL-FORAM,339,U1387,C,26,26-CC,R,CC,PAL,FORAM,0,5,527.91,527.96,B,,M,R,F,F,,,,,P,,,P,,,,,A,,,,,,F,,R,,,,,,,,R,,,,,,,,A,,R,,,P,,,,,,,
-339-U1387C-27R-CC-PAL-FORAM,339,U1387,C,27,27-CC,R,CC,PAL,FORAM,0,5,539.4,539.45,B,,G,D,A,R,,,,,,,,,,,,,F,,,P,,,R,,,,,,,,,,F,,,,,,,,A,,P,,,P,,,,P,,,
-339-U1387C-28R-CC-PAL-FORAM,339,U1387,C,28,28-CC,R,CC,PAL,FORAM,0,5,545.8,545.85,B,,M,D,A,R,,P,P,,P,,,,,,,,P,,,P,,,,P,P,,P,,,,,,A,,,,,,,,R,,R,,,P,,,,,,,
-339-U1387C-29R-CC-PAL-FORAM,339,U1387,C,29,29-CC,R,CC,PAL,FORAM,0,5,558.56,558.61,B,,G,D,A,P,,,,,P,,,P,,,,,A,P,P,P,,P,R,,P,,,,,,,,A,P,,,,,,,R,,P,,,R,P,,,,radiolaria present,,
-339-U1387C-30R-1-W 59/60-7681-FORAM,339,U1387,C,30,30-1,R,1,W,59/60-7681-FORAM,0,1,558.89,558.9,B,,P,D,A,P,,P,P,,,,,P,,,,,,,,,,,R,,,,,,,,,,F,P,,,,,,,F,P,R,,,P,,,,,,,
-339-U1387C-30R-3-W 58/59-7682-FORAM,339,U1387,C,30,30-3,R,3,W,58/59-7682-FORAM,0,1,561.88,561.89,B,,G,D,A,F,,P,P,,,,P,,,,,,,,,,,P,P,,,,P,,,,,,F,P,,,,,,,F,,R,,,R,,,,,,,
-339-U1387C-30R-5-W 29/30-7683-FORAM,339,U1387,C,30,30-5,R,5,W,29/30-7683-FORAM,0,1,564.34,564.35,B,,G,D,A,,,,R,,,,P,,,,,,P,P,P,P,,,P,,R,,R,,,,,,R,,,,P,,,,A,,R,,,P,,,,P,,,
-339-U1387C-30R-CC-PAL-FORAM,339,U1387,C,30,30-CC,R,CC,PAL,FORAM,0,5,564.83,564.88,B,,G,D,A,P,,R,R,,,,,,,,,,P,,,,,P,P,,P,,P,,,,,,A,,,,,,,,R,,R,,,R,P,,,,,,
-339-U1387C-31R-CC-PAL-FORAM,339,U1387,C,31,31-CC,R,CC,PAL,FORAM,0,5,573.54,573.59,B,,G,D,A,R,,R,R,,,,,P,,,,,R,,P,,,P,P,P,P,,P,,,,,,A,,,,,,,,R,,R,,P,P,P,,,,,,
-339-U1387C-32R-CC-PAL-FORAM,339,U1387,C,32,32-CC,R,CC,PAL,FORAM,0,5,586.23,586.28,B,,G,D,F,P,,P,R,,,,P,A,,,,,A,,P,P,,P,P,,R,,,,,,,,P,,,,,,,,R,,P,,,R,P,,,,,,
-339-U1387C-33R-CC-PAL-FORAM,339,U1387,C,33,33-CC,R,CC,PAL,FORAM,0,5,596.96,597.01,B,,G,D,A,P,,P,P,,,,P,,,,,,A,,P,,,,R,,P,,R,,,,,,A,,,,,,,,F,,F,,,P,,,,,,,
-339-U1387C-34R-CC-PAL-FORAM,339,U1387,C,34,34-CC,R,CC,PAL,FORAM,0,5,603.77,603.82,B,,P,A,R,R,,,,,,,,F,,,,,A,,R,,,P,R,,R,,,,,,,,A,,,,,,,,A,P,R,,,P,,,,,SLUMP!,,
-339-U1387C-35R-CC-PAL-FORAM,339,U1387,C,35,35-CC,R,CC,PAL,FORAM,0,8,616.22,616.3,B,,G,R,A,R,,,,,,,,P,,,,,A,,P,,,,R,,P,,P,,,,,,A,,,,,,,,A,P,R,,,,,,,,,,
-339-U1387C-36R-CC-PAL-FORAM,339,U1387,C,36,36-CC,R,CC,PAL,FORAM,0,5,619.81,619.86,B,,P,R,A,,,P,R,,,,,,,,,,A,,,,,,R,,P,,R,,,,,,A,,,,,,,,A,P,R,,,,,,,,,,
-339-U1387C-37R-1-W 84/86-7702-FORAM,339,U1387,C,37,37-1,R,1,W,84/86-7702-FORAM,0,2,626.34,626.36,B,,G,D,A,P,,,F,,,,P,,,,,,P,,P,P,,,,,R,,P,,,,,,A,P,,,,,,,F,,F,,,,,,,,,,
-339-U1387C-37R-3-W 60/62-7703-FORAM,339,U1387,C,37,37-3,R,3,W,60/62-7703-FORAM,0,2,629.1,629.12,B,,M,P,A,P,,R,R,,,,P,,,,,,,,,,,P,P,,,,,,,,,,F,P,,,,,,,F,,R,,,,,,,,,,
-339-U1387C-37R-5-W 100/102-7704-FORAM,339,U1387,C,37,37-5,R,5,W,100/102-7704-FORAM,0,2,632.5,632.52,B,,M,P,A,P,,R,R,,,,P,,,,,,,,,,,,R,,,,R,,,,,,,P,,,,,,,F,,R,,,R,,,,,,,
-339-U1387C-37R-CC-PAL-FORAM,339,U1387,C,37,37-CC,R,CC,PAL,FORAM,0,5,634.49,634.54,B,,VG,D,F,P,,P,F,,,,,,,,,P,A,P,P,,,P,R,,R,,F,,,,,,,P,,,,,,R,A,P,F,,,,,,,,,,
-339-U1387C-38R-CC-PAL-FORAM,339,U1387,C,38,38-CC,R,CC,PAL,FORAM,0,4,643.55,643.59,B,,VG,R,A,P,,,,,,,,,,,,,A,,,,,,R,,R,,P,P,,,,,,,,,,,,,A,P,,,,,,,,,,,
-339-U1387C-39R-CC-PAL-FORAM,339,U1387,C,39,39-CC,R,CC,PAL,FORAM,0,5,650.31,650.36,B,,VG,R,A,,,P,R,,,,,,,,,,A,,,,,,R,,R,,R,,,,,,,P,,,,,,,A,,F,,,P,,,,R,,,
-339-U1387C-40R-1-W 68/70-7710-FORAM,339,U1387,C,40,40-1,R,1,W,68/70-7710-FORAM,0,2,654.98,655,,,G,R,A,,,,R,,,,,,,,,,A,,,,,,R,,R,,,,,,,,,,,,,,,,D,,R,,,,,,,,,,
-339-U1387C-40R-3-W 67/69-7711-FORAM,339,U1387,C,40,40-3,R,3,W,67/69-7711-FORAM,0,2,657.97,657.99,,,G,A,R,P,,,R,,,,,,,,,P,F,,,,,P,A,,R,,P,,,,,,,,,,,,,,R,P,R,,,,,,,,,,
-339-U1387C-40R-5-W 67/69-7712-FORAM,339,U1387,C,40,40-5,R,5,W,67/69-7712-FORAM,0,2,660.97,660.99,,,G,D,A,,,,R,,,,,,,,,,A,,,,,,R,,R,,B,,,,,,,,,,,,,,A,P,,,,,,,,,,,
-339-U1387C-40R-CC-PAL-FORAM,339,U1387,C,40,40-CC,R,CC,PAL,FORAM,0,5,662.32,662.37,B,,G,R,A,,,,P,,,,,,,,,,A,,,,,,R,,R,,,,,,,,,,,,,,,,A,,R,,,,,,,R,,,
-339-U1387C-41R-1-W 76/78-7713-FORAM,339,U1387,C,41,41-1,R,1,W,76/78-7713-FORAM,0,2,664.66,664.68,,,M,D,A,,,,P,,,,,,,,,,A,,,,,,R,,R,,B,,,,,,,P,,,,,P,,A,P,R,,,,,,,,,,
-339-U1387C-41R-CC-PAL-FORAM,339,U1387,C,41,41-CC,R,CC,PAL,FORAM,0,6,666.26,666.32,B,,G,A,A,,,,,,,,,,,,,,F,,,,,,R,,R,,R,,,,,,,,,,,,,,A,,R,,,,,,,P,,,
-339-U1387C-42R-1-W 77/79-7714-FORAM,339,U1387,C,42,42-1,R,1,W,77/79-7714-FORAM,0,2,674.27,674.29,,,G,R,A,P,,,P,,,,,,,,,,F,,,,,,R,,R,,P,,,,,,,R,,,,,,,F,,F,,,,,,,,"Some shallow water benthics, Ammonia, Elphidium.",,
-339-U1387C-42R-5-W 91/93-7716-FORAM,339,U1387,C,42,42-5,R,5,W,91/93-7716-FORAM,0,2,680.41,680.43,,,VG,D,A,,,,R,,,,,,,,,,R,,,P,,,F,,R,,R,,,,,,,P,,,,,,,A,,F,,,,,,,,Many shallow water benthics and vegetal remains,,
-339-U1387C-42R-CC-PAL-FORAM,339,U1387,C,42,42-CC,R,CC,PAL,FORAM,0,5,682.15,682.2,B,,VG,A,A,,,R,R,,,,,,,,,R,F,,,,,,R,,R,,R,,,,,,,,,,,,,,A,,F,,,R,,,,P,,,
-339-U1387C-43R-1-W 75/77-7717-FORAM,339,U1387,C,43,43-1,R,1,W,75/77-7717-FORAM,0,2,683.95,683.97,,,G,R,A,,,,R,,,,,,,,,,F,,,,,,R,,F,,B,,,,,,,,,,,,,,F,,F,,,R,,,,,,,
-339-U1387C-43R-2-PAL-FORAM,339,U1387,C,43,43-2,R,2,PAL,FORAM,0,4,685.76,685.8,B,,M,R,,,,,,,,,,,,,,P,A,,,,,,P,,F,,R,,,,,,,P,,,,,,,A,P,R,,,,,,,,,,
-339-U1387C-44R-1-PAL-FORAM,339,U1387,C,44,44-1,R,1,PAL,FORAM,0,2,693.03,693.05,B,,P,R,A,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,D,F,,,,,,,,,turbidite(?),,
-339-U1387C-47R-1-W 37/38-7719-FORAM,339,U1387,C,47,47-1,R,1,W,37/38-7719-FORAM,0,1,721.97,721.98,B,,G,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,almost barren; 2 specimens (G. trilobus; N. pachyderma (sin)); shelf benthic foraminifers and ostracods,,
-339-U1387C-47R-CC-PAL-FORAM,339,U1387,C,47,47-CC,R,CC,PAL,FORAM,0,5,722.04,722.09,B,,P,R,P,P,,,R,,,,,,,,,,P,,P,,,,,,P,,R,,,,,,,,,,,,,,A,P,R,,,,,,,,some recrystalisation,,
-339-U1387C-48R-3-W 59/60-7722-FORAM,339,U1387,C,48,48-3,R,3,W,59/60-7722-FORAM,0,1,734.79,734.8,B,,M,R,A,P,,R,R,,,,,,,,,,P,,P,,P,,R,,,,R,,,,,,,P,,,,,,,F,,R,,,F,,,,,,,
-339-U1387C-48R-5-W 27/29-7723-FORAM,339,U1387,C,48,48-5,R,5,W,27/29-7723-FORAM,0,2,737.08,737.1,B,,M,R,A,,,,R,,,,,,,,,,A,,,,,,R,,A,,,,,,,,,,,,,,,,A,P,F,,,,,,,,,,
-339-U1387C-48R-CC-PAL-FORAM,339,U1387,C,48,48-CC,R,CC,PAL,FORAM,0,5,737.45,737.5,B,,P,R,A,R,,,,,,,,,,,,R,P,,P,P,,,F,,P,,R,,,,,,,,,,,,,R,F,,F,,P,P,,,,,,,
-339-U1387C-49R-1-W 44/46-7724-FORAM,339,U1387,C,49,49-1,R,1,W,44/46-7724-FORAM,0,2,741.24,741.26,B,,M,R,F,,,,R,,,,,,,,,,A,,,,,P,F,,R,,P,,,,,,,,,,,,,,F,P,F,,,,,,,,,,
-339-U1387C-49R-3-W 39/41-7725-FORAM,339,U1387,C,49,49-3,R,3,W,39/41-7725-FORAM,0,2,744.19,744.21,B,,G,D,F,,,,P,,,,,,,,,P,A,P,,R,P,,R,,F,,R,P,,,P,,,,,,,,,,F,P,R,,,P,,,,,,,
-339-U1387C-49R-5-W 9/10-7726-FORAM,339,U1387,C,49,49-5,R,5,W,9/10-7726-FORAM,0,1,746.89,746.9,B,,M,P,P,,,,,,,,,,,,,,,,,P,,,P,,P,,,,,,,,,,,,,,,,P,,P,,,,,,,,less than 20 planktonic foraminifer specimens in sample; mainly benthic foraminifers,,
-339-U1387C-49R-CC-PAL-FORAM,339,U1387,C,49,49-CC,R,CC,PAL,FORAM,0,3,748.1,748.13,B,,P,R,F,R,,,R,,,,,,,,,,P,,P,P,,,R,,F,,P,,,,,,,,,,,,,,F,,,,P,,,,,,G. plesiotumida specimens found in sample.,,
-339-U1387C-50R-1-W 46/48-7727-FORAM,339,U1387,C,50,50-1,R,1,W,46/48-7727-FORAM,0,2,750.86,750.88,,,G,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,almost barren few planktonic foraminifers; shelf benthic foraminifers and ostracods,,
-339-U1387C-50R-1-W 67/68-7728-FORAM,339,U1387,C,50,50-1,R,1,W,67/68-7728-FORAM,0,1,751.07,751.08,,,M,D,R,,,P,A,,,,,,,,,P,F,P,,P,,,P,P,F,,R,,,,,,,,,,,,,,A,P,R,,,P,,,,P,,,
-339-U1387C-50R-CC-PAL-FORAM,339,U1387,C,50,50-CC,R,CC,PAL,FORAM,0,3,752.45,752.48,B,,P,R,F,R,,,R,,,,,,,,,,,,P,,P,,R,,F,,P,,P,,,P,,,,,,,,,F,,,,P,,,,,,,,
-339-U1387C-51R-1-W 70/72-7729-FORAM,339,U1387,C,51,51-1,R,1,W,70/72-7729-FORAM,0,2,760.7,760.72,,,G,F,R,,,,,,,,,,,,,P,A,,P,R,,P,R,P,P,,R,,,,,,,,P,,,,,,A,,P,,,P,P,,,,,,
-339-U1387C-51R-3-W 64/65-7730-FORAM,339,U1387,C,51,51-3,R,3,W,64/65-7730-FORAM,0,1,763.28,763.29,,,G,D,P,,,,,,,,,,,,,P,P,,,,,,,,P,,,,,,,,,,,,,,,,R,,P,,,,P,,,,Only 17 planktonic foraminifers were observed,,
-339-U1387C-51R-5-W 29/30-7731-FORAM,339,U1387,C,51,51-5,R,5,W,29/30-7731-FORAM,0,1,765.19,765.2,,,G,D,R,,,,,,,,,,,,,,A,,,R,,,R,,R,,F,,,,,,,P,,,,,P,,A,P,R,,,P,P,,,,,,
-339-U1387C-51R-CC-PAL-FORAM,339,U1387,C,51,51-CC,R,CC,PAL,FORAM,0,5,765.69,765.74,B,,P,D,A,P,,,,,,,,,,,,R,A,,,,,,F,,R,,R,,,,,,,P,,,,,,,F,P,R,,,P,,,,P,,,
-339-U1387C-52R-1-W 65/67-7732-FORAM,339,U1387,C,52,52-1,R,1,W,65/67-7732-FORAM,0,2,770.25,770.27,,,G,D,R,,,,F,,,,,,,,,R,A,,R,,P,P,R,,R,,R,,,,,,,,,,,,,,A,,R,,,R,,,,,,,
-339-U1387C-52R-3-W 75/76-7733-FORAM,339,U1387,C,52,52-3,R,3,W,75/76-7733-FORAM,0,1,772.82,772.83,,,M,F,F,,,,P,,,,,,,,,,F,,,,P,P,F,,R,,R,,,,,,,,P,,,,,,A,,R,,,P,P,,,,,,
-339-U1387C-52R-CC-PAL-FORAM,339,U1387,C,52,52-CC,R,CC,PAL,FORAM,0,6,772.92,772.98,B,,G,A,A,,,,,,,,,,,,,,A,P,P,,,,R,,F,,F,,,,,,,,,,,,,,A,P,F,,,R,,,,,,,
-339-U1387C-53R-1-W 92/93-7734-FORAM,339,U1387,C,53,53-1,R,1,W,92/93-7734-FORAM,0,1,780.12,780.13,,,G,A,A,,,,,,,,,,,,,,A,,R,,,,,,,,,,,,,,,,,,,,,,F,,F,,,,,,,,,,
-339-U1387C-53R-5-W 78/80-7736,339,U1387,C,53,53-5,R,5,W,78/80-7736,0,2,785.5,785.52,,,G,D,A,,,,R,,,,,,,,,,A,,,,,,R,,F,,F,,,,,,,,,,,,,,F,,F,,,P,,,,,,,
-339-U1387C-53R-6-PAL-FORAM,339,U1387,C,53,53-6,R,6,PAL,FORAM,0,5,786.65,786.7,B,,VG,D,A,,,,R,,,,,,,,,,A,,P,,P,,R,,F,,F,,,,,,,,,,,,,,R,P,F,,,P,,,,,,,
-339-U1387C-54R-1-W 80/82-7737-FORAM,339,U1387,C,54,54-1,R,1,W,80/82-7737-FORAM,0,2,789.6,789.62,B,,G,D,A,,,,,,,,,,,,,,F,,,P,P,,P,P,F,P,F,,,,,,,,,,,,,P,A,P,F,,,,P,,,,N. dutertrei are N. humerosa,,
-339-U1387C-54R-3-PAL-FORAM,339,U1387,C,54,54-3,R,3,PAL,FORAM,0,5,792.76,792.81,B,,G,A,A,,,,P,,,,,,,,,P,A,P,,,,,R,,R,,F,,,,,,,P,,,,,,,R,,R,,,P,,,,,,,
-339-U1387C-54R-3-W 80/82-7738-FORAM,339,U1387,C,54,54-3,R,3,W,80/82-7738-FORAM,0,2,792.53,792.55,B,,G,D,F,,,,R,,,,,,,,,,R,,P,R,P,R,R,,R,,R,,P,,P,,,,,,,,,,F,P,R,,,P,P,,,,,,
-339-U1387C-55R-1-W 75/77-7739-FORAM,339,U1387,C,55,55-1,R,1,W,75/77-7739-FORAM,0,2,799.15,799.17,,,G,D,R,,,,P,,,,,,,,,P,A,,P,R,P,P,R,,F,,R,,,,,,,,P,,,,,,A,,F,,,P,,,,,,,
-339-U1387C-55R-3-W 75/77-7740-FORAM,339,U1387,C,55,55-3,R,3,W,75/77-7740-FORAM,0,2,802.15,802.17,,,M,D,R,,,,P,,,,,,,,,P,A,P,R,P,P,,,,R,,R,,,,,,,P,,,,,,,A,,F,,,P,,,,,,,
-339-U1387C-55R-5-W 74/76-7741-FORAM,339,U1387,C,55,55-5,R,5,W,74/76-7741-FORAM,0,2,805.14,805.16,,,M,D,F,,,,,,,,,,,,,,A,P,P,P,P,,,,P,,R,,,,,,,P,,,,,,,D,P,R,,,,,,,,,,
-339-U1387C-55R-CC-PAL-FORAM,339,U1387,C,55,55-CC,R,CC,PAL,FORAM,0,6,805.62,805.68,B,,G,D,A,,,,,,,,,,,,,P,F,,,,P,,R,P,R,,F,,,,,,,P,,,,,,,F,,F,,,P,,,,,,,
-339-U1387C-56R-1-W 53/55-7742-FORAM,339,U1387,C,56,56-1,R,1,W,53/55-7742-FORAM,0,2,808.53,808.55,,,G,D,A,,,,,,,,,,,,,P,R,,P,R,P,P,P,,R,,P,,,,,,,P,,,,,,,D,F,R,,,,,,,,,,
-339-U1387C-56R-3-W 69/71-7743,339,U1387,C,56,56-3,R,3,W,69/71-7743,0,2,811.69,811.71,,,G,D,A,,,,,,,,,,,,,,A,,R,P,P,,P,,F,,F,P,,,,,,P,,,,,,,F,,F,,,,,,,,,,
-339-U1387C-56R-5-W 101/103-7744,339,U1387,C,56,56-5,R,5,W,101/103-7744,0,2,815.01,815.03,,,M,D,F,,,,P,,,,,,,,,P,A,,R,,P,,F,,R,,R,,,,,,,,,,,,,,D,,P,,,R,P,,,,,,
-339-U1387C-56R-7-PAL-FORAM,339,U1387,C,56,56-7,R,7,PAL,FORAM,0,5,817.13,817.18,B,,VG,D,A,,,,P,,,,,,,,,R,F,,R,,P,P,,,R,,F,,,,,,,P,,,,,,,R,P,F,,,P,P,,,,,,
-339-U1387C-57R-1-PAL-FORAM,339,U1387,C,57,57-1,R,1,PAL,FORAM,0,3,817.6,817.63,B,,M,D,F,,,,R,,,,,,,,,,F,,P,,P,,P,,R,,F,,,,,,,,P,,,,R,,A,F,R,,,R,,,,,,,
-339-U1387C-57R-1-W 106/108-7745-FORAM,339,U1387,C,57,57-1,R,1,W,106/108-7745-FORAM,0,2,818.66,818.68,,,M,D,A,,,,,,,,,,,,,,A,,P,,,,P,,R,,R,,,,,,,P,,,,,,,A,P,R,,,,,,,,,,
-339-U1387C-57R-3-W 86/88-7746-FORAM,339,U1387,C,57,57-3,R,3,W,86/88-7746-FORAM,0,2,821.49,821.51,,,M,D,A,,,,,,,,,,,,,,F,,P,,P,,P,,R,,R,,,,,,,P,,,,,,,A,F,R,,,P,,,,,,,
-339-U1387C-57R-CC-PAL-FORAM,339,U1387,C,57,57-CC,R,CC,PAL,FORAM,0,3,824.6,824.63,B,,P,D,R,,,,R,,,,,,,,,P,A,,,P,P,P,P,P,F,,R,P,P,,P,,,,P,,,,,,R,P,R,,,,P,,,,G. miotumida is G. conomiozea,,
-339-U1387C-58R-CC-PAL-FORAM,339,U1387,C,58,58-CC,R,CC,PAL,FORAM,0,5,834.33,834.38,B,,P,D,R,,,,R,,,,,,,,,R,P,,P,,,P,P,P,R,,P,,,,,,,P,,,,,P,A,F,A,F,,,P,P,,,,N. dutertrei are N. humerosa,,
-339-U1387C-59R-1-W 68/70-7747-FORAM,339,U1387,C,59,59-1,R,1,W,68/70-7747-FORAM,0,2,837.48,837.5,B,,M,D,A,,,,R,,,,,,,,,,A,,P,,,,,,R,,P,,,,,,,P,,,,,,,A,,F,,,R,,,,,,,
-339-U1387C-59R-3-W 72/74-7748-FORAM,339,U1387,C,59,59-3,R,3,W,72/74-7748-FORAM,0,2,840.52,840.54,B,,M,D,F,R,,,P,,,,,,,,,,,,,,,,P,,P,,,,,,,,,P,,,,,R,,A,P,R,,,R,,,,,,,
-339-U1387C-59R-5-W 90/92-7749-FORAM,339,U1387,C,59,59-5,R,5,W,90/92-7749-FORAM,0,2,843.7,843.72,B,,M,D,A,,,,R,,,,,,,,,,A,,P,,,,,,P,,P,,,,,,,P,,,,,,,F,P,F,,,R,,,,,,,
-339-U1387C-59R-CC-PAL-FORAM,339,U1387,C,59,59-CC,R,CC,PAL,FORAM,0,5,845.56,845.61,B,,P,D,F,,,,P,,,,,,,,,,P,,P,,,P,P,,R,,R,,P,,P,,,,,,,,,R,A,R,R,,,F,P,,,,Spaeroid. kochi; N. dutertrei are N. humerosa,,
-339-U1387C-60R-CC-PAL-FORAM,339,U1387,C,60,60-CC,R,CC,PAL,FORAM,0,3,846.4,846.43,B,,G,D,R,,,,P,,,,,,,,,,R,,,,,P,,,A,,F,,,,P,,,P,,,,,,P,A,P,F,,,F,P,,,,Spaeroid. kochi; N. dutertrei are N. humerosa; G. miotumida is G. conomiozea,,
-339-U1387C-61R-1-PAL-FORAM,339,U1387,C,61,61-1,R,1,PAL,FORAM,0,2,856,856.02,B,,G,D,F,,,,R,,,,,,,,,F,R,,P,,P,P,,,F,,R,,P,,P,,,P,,,,,,F,F,R,R,,R,,,,,,N. dutertrei are N. humerosa,,
-339-U1387C-61R-1-W 86/88-7750-FORAM,339,U1387,C,61,61-1,R,1,W,86/88-7750-FORAM,0,2,856.86,856.88,B,,G,D,A,,,,,,,,,,,,,R,F,,P,,,,F,,R,,,,,,,,,,,,,,,,D,P,F,,,,,,,,,,
-339-U1387C-61R-3-W 84/86-7751-FORAM,339,U1387,C,61,61-3,R,3,W,84/86-7751-FORAM,0,2,859.84,859.86,B,,G,D,A,,,,,,,,,,,,,,R,,,,,,R,,R,,P,,,,,,,,,,,,,,F,P,F,,,P,,,,,,,
-339-U1387C-61R-CC-PAL-FORAM,339,U1387,C,61,61-CC,R,CC,PAL,FORAM,0,5,865.8,865.85,B,,M,D,F,,,,R,,,,,,,,,R,R,,P,,P,P,,,R,,F,,,,,,,,,,,,,P,P,,R,,R,,,,,,N. dutertrei are N. humerosa,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Pteropod group abundance,Pteropod comment,PF preservation,PF group abundance,Globigerina bulloides,Globigerinoides ruber (white),Globigerinoides ruber (pink),Globigerinoides sacculifer,Globigerinoides trilobus,Globorotalia inflata,Globorotalia hirsuta (dex),Globorotalia hirsuta (sin),Globorotalia crassaformis s.l. (dex),Globorotalia crassaformis s.l. (sin),Globorotalia truncatulinoides (dex),Globorotalia truncatulinoides (sin),Beella digitata,Dentoglobigerina altispira,Globigerina apertura,Globigerina calida,Globigerina decoraperta,Globigerina falconensis,Globigerina nepenthes,Globigerinella siphonifera,Globigerinita glutinata,Globigerinoides conglobatus,Globigerinoides extremus,Globorotalia cf. crassula,Globorotalia margaritae,Globorotalia menardii (dex),Globorotalia menardii (sin),Globorotalia miocenica,Globorotalia miotumida,Globorotalia multicamerata,Globorotalia puncticulata,Globorotalia scitula (dex),Globorotalia scitula (sin),Globoturborotalita rubescens,Globoturborotalita tenella,Neogloboquadrina atlantica (dex),Neogloboquadrina atlantica (sin),Neogloboquadrina dutertrei,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Orbulina universa,Pulleniatina obliquiloculata,Sphaeroidinella dehiscens,Sphaeroidinellopsis seminulina,Sphaeroidinellopsis subdehiscens,Turborotalita humilis,Turborotalita iota,Turborotalita quinqueloba,Comment,File Data,Unnamed: 68,eodp_id
+339-U1387C-1W-CC-PAL-FORAM,339,U1387,C,1,1-CC,W,CC,PAL,FORAM,0,6,4.1,4.16,B,,G,D,F,R,,,,F,,,,P,R,,,,,,,,,P,,,,,,,,,,,,,,P,P,,,,D,P,R,,,,,,,,,,,37be8e3ff11e920d0c90ea421b8ce9e3
+339-U1387C-2R-CC-PAL-FORAM,339,U1387,C,2,2-CC,R,CC,PAL,FORAM,0,5,299.54,299.59,B,,G,D,F,R,,,,F,,,,R,R,,,,,,,,,P,P,,,,,,,,,,,P,B,,,P,,,R,R,P,,,,,,,R,,,,45f5e46dbdc7db1ca997ee24ff248f02
+339-U1387C-3R-CC-PAL-FORAM,339,U1387,C,3,3-CC,R,CC,PAL,FORAM,0,5,308.31,308.36,B,,G,D,A,P,,,,F,,,,,,,,,,,,,,P,P,,,,,,,,,,,P,,,,P,,,F,,,,,,,,,F,,,,3412fa773546f22f9d0e316df9be6e7c
+339-U1387C-5R-CC-PAL-FORAM,339,U1387,C,5,5-CC,R,CC,PAL,FORAM,0,5,327.64,327.69,B,,G,D,A,R,,,,F,,,,,P,,,,,,,,,,P,,,,,,,,,,,,,,,R,,,A,,R,P,,,,,,,,,,b208eb9a98033db860b6d8188de03e1e
+339-U1387C-6R-CC-PAL-FORAM,339,U1387,C,6,6-CC,R,CC,PAL,FORAM,0,5,336.25,336.3,B,,G,D,A,R,,,,A,,,,,R,P,,,,P,,,,R,P,P,,,,,,,,,,P,,,,R,,,A,,F,,,,,,,P,,,,7f06a521892bcf6433e651261d6b6bb3
+339-U1387C-7R-CC-PAL-FORAM,339,U1387,C,7,7-CC,R,CC,PAL,FORAM,0,5,346,346.05,B,,VG,D,A,A,,,,A,,,,,,,,,,P,,,,P,P,P,,,,,,,,,,P,,,,F,,,R,,F,,,,,,,P,,,,b0562db723299651e9c2cafdfb1ceea6
+339-U1387C-8R-CC-PAL-FORAM,339,U1387,C,8,8-CC,R,CC,PAL,FORAM,0,5,357.47,357.52,B,,VG,D,F,R,,,,A,,,,R,,,,,,,,,,R,P,,,,,,,,,,,P,,,,R,,,R,P,F,,,,,,,P,,,,fbe76bb3d5f43d99bd040d74f371e1e1
+339-U1387C-9R-CC-PAL-FORAM,339,U1387,C,9,9-CC,R,CC,PAL,FORAM,0,5,365.2,365.25,B,,VG,D,F,F,,,,F,,,,P,,,,,,P,,,,P,P,,,,,,,,,,,P,,,,R,,,F,,P,,,,,,,,,,,d043dad77f62d909d12c1f917c49841c
+339-U1387C-10R-CC-PAL-FORAM,339,U1387,C,10,10-CC,R,CC,PAL,FORAM,0,5,376.49,376.54,B,,G,D,F,F,,,,A,,,P,P,,,,,,P,,,,R,P,,,,,,,,,,,P,,,,R,,,F,,F,,,,,,,,,,,c3bfe8aefbf554097c161086f6c11226
+339-U1387C-12R-CC-PAL-FORAM,339,U1387,C,12,12-CC,R,CC,PAL,FORAM,0,5,395.41,395.46,B,,VG,D,F,R,,P,P,F,,,,,,,,,P,,,,,P,R,,,,,,,,,,,,,P,,F,,P,A,,R,,,,,,,P,,,,6e63cb1766c0955292c79c473c91b198
+339-U1387C-13R-CC-PAL-FORAM,339,U1387,C,13,13-CC,R,CC,PAL,FORAM,0,5,404.86,404.91,B,,M,D,A,A,,,P,F,,,,,P,,,,P,P,,,,P,R,,,,,,,,,,,,,,,R,,P,P,P,R,,,,,,,,,,,490dee644b4b2c0fbb09f5f81aa1e26f
+339-U1387C-14R-CC-PAL-FORAM,339,U1387,C,14,14-CC,R,CC,PAL,FORAM,0,5,410.63,410.68,B,,M,D,A,R,,,P,F,,,,P,P,,,,P,,,,,P,R,,,,,,,,,,,,,P,,,,,A,P,R,,,,,,,,,,,0c2ef1d437ac1baa755cc48fbb7fd6f7
+339-U1387C-15R-CC-PAL-FORAM,339,U1387,C,15,15-CC,R,CC,PAL,FORAM,0,6,422.92,422.98,B,,M,D,A,F,,,,,,P,,,,,,,P,,,,,P,R,,,,,,,,,,,P,,,,R,,P,A,,P,,,,,,,,,,,929253f22e66f9c77e042c5e3614d761
+339-U1387C-16R-CC-PAL-FORAM,339,U1387,C,16,16-CC,R,CC,PAL,FORAM,0,6,430.63,430.69,B,,M,A,F,F,,,,A,,,,,,,,,P,,,,,P,R,,,,,,,,,,,B,,,,F,,,P,,R,,P,,,P,,,,,,f0d1d8b8c0a8545065e7ebfe8ecf3443
+339-U1387C-17R-CC-PAL-FORAM,339,U1387,C,17,17-CC,R,CC,PAL,FORAM,0,5,436.81,436.86,B,,G,D,R,F,,,P,R,,,,P,,P,,,,,,P,,P,R,P,,,,,,,,,,P,,P,P,F,,P,A,,R,P,P,,,R,,R,,,,e86b6d0589a2a5de490a0f3161b7817a
+339-U1387C-18R-CC-PAL-FORAM,339,U1387,C,18,18-CC,R,CC,PAL,FORAM,0,5,452.57,452.62,B,,G,D,F,A,,,P,A,,,P,R,,P,,,,,,P,,P,,,,,,,,,,,,,,,,P,,,A,,F,,P,,,,,,,,,4fcb08b0c00a861580ae5269415273d5
+339-U1387C-19R-2-W 46/48-7934-FORAM,339,U1387,C,19,19-2,R,2,W,46/48-7934-FORAM,0,2,454.96,454.98,B,,M,D,A,F,,,,F,,,R,,,,,,,P,,,,,P,,,,,,,,,,,,,,,P,,,F,,R,,,,,,,,,,,a3c4f153bed8dad28508ab451117db71
+339-U1387C-19R-3-W 20/22-7938-FORAM,339,U1387,C,19,19-3,R,3,W,20/22-7938-FORAM,0,2,456.2,456.22,B,,M,D,A,R,,P,F,R,,,R,P,P,,,,,,,,,,,,,,,,,,,,R,P,,,,,,,F,P,F,,,,,,,,G. truncatulinoides questionary,,,d39ca37f0f437ed2e698930d04c8557a
+339-U1387C-19R-4-W 19/21-7935-FORAM,339,U1387,C,19,19-4,R,4,W,19/21-7935-FORAM,0,2,457.69,457.71,B,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3a6dcd1b03464514dfb54457313c866f
+339-U1387C-19R-CC-PAL-FORAM,339,U1387,C,19,19-CC,R,CC,PAL,FORAM,0,5,458.54,458.59,B,,M,D,F,R,,,,P,,,F,,,P,,,,,,,,,,P,,,,,,,,,P,,,,,P,,,R,,R,,P,P,B,,,,,,,d0eb2ea21ffed2e27af899726848d659
+339-U1387C-20R-1-W 39/41-7939-FORAM,339,U1387,C,20,20-1,R,1,W,39/41-7939-FORAM,0,2,462.99,463.01,B,,M,D,A,R,,,R,,,,R,,,,,,,,,P,,,F,,,,,,,,,,F,P,,,,,,,P,,R,,,,,,,P,,,,e6458841ebf5003c3ac4491b44f3f2b4
+339-U1387C-20R-3-W 47/49-7940-FORAM,339,U1387,C,20,20-3,R,3,W,47/49-7940-FORAM,0,2,466.07,466.09,B,,G,A,A,P,,,,,,,R,,,,,,R,P,,,,,F,,,,,,,,,,,,,,,,,,D,P,R,,,,,,,P,,,,10a38b4f7551f04f65e6e8a780b4c5ec
+339-U1387C-20R-5-W 49/51-7941-FORAM,339,U1387,C,20,20-5,R,5,W,49/51-7941-FORAM,0,2,469.09,469.11,B,,G,D,A,P,,,P,,,,R,,,,,,,,,,,,F,,,,,P,,P,,,R,,,P,P,,,,F,R,R,,,,,,,,,,,c7d408a3a54a80199de44e4b34a3c4c7
+339-U1387C-20R-7-W 39/41-7942-FORAM,339,U1387,C,20,20-7,R,7,W,39/41-7942-FORAM,0,2,471.99,472.01,B,,M,D,A,P,,,R,,,,P,,,,,,P,P,,,,,,,P,,,,,,,,R,P,,,,,,,F,,R,,,,,,,,,,,fe09d9c61b0f0b92502f538d318d27a8
+339-U1387C-20R-CC-PAL-FORAM,339,U1387,C,20,20-CC,R,CC,PAL,FORAM,0,5,472.31,472.36,B,,M,D,F,R,,,R,,,,F,,,,,,R,,,,,,F,,,,,,,,,,P,,,,,,,,F,,R,,,,,,,,,,,1183de4d39a7596c479381eb5ce17b0c
+339-U1387C-21R-3-W 59/61-7944-FORAM,339,U1387,C,21,21-3,R,3,W,59/61-7944-FORAM,0,2,475.79,475.81,B,,G,D,F,R,,,,,,,A,,,,,,A,P,,,,,F,,,,,,,,,,,,,,,,,,F,P,R,,,,,,,,,,,00a31ae17bb9d3b2da5c751bc226b57a
+339-U1387C-21R-CC-PAL-FORAM,339,U1387,C,21,21-CC,R,CC,PAL,FORAM,0,5,479.37,479.42,B,,M,D,A,P,,,F,,,,F,,,,,,F,,,,,,R,,P,,,R,P,,,,R,,,,,,,,F,P,R,,,R,,,,R,,,,e45b7df042e959027442ff1bdc239719
+339-U1387C-22R-3-W 61/63-7659-FORAM,339,U1387,C,22,22-3,R,3,W,61/63-7659-FORAM,0,2,485.41,485.43,B,,G,D,A,R,,,F,,,P,,R,,,,,P,P,,F,,P,F,,P,,,,,,,,P,,,,,,,,A,P,F,,,,,,,P,,,,a2ff039f5c63d454d8a470b7e6b37feb
+339-U1387C-22R-CC-PAL-FORAM,339,U1387,C,22,22-CC,R,CC,PAL,FORAM,0,5,489.7,489.75,B,,G,D,A,R,,,R,,,,,R,,,P,,R,,,,,,F,P,P,,,,,,,,R,P,,,,,,,A,,R,,,P,,,,,,,,efd07549da2fdea76d67f7b9c327794a
+339-U1387C-23R-1-W 59/61-7660-FORAM,339,U1387,C,23,23-1,R,1,W,59/61-7660-FORAM,0,2,491.99,492.01,B,,P,A,A,,,,P,,,R,,P,,,,,P,,,P,,P,R,,,,,,,,,,,,,,,,,,D,,R,,,,,,,P,,,,d72d946579c2e3e1a5dfccc45a5613ec
+339-U1387C-23R-3-W 87/89-7661-FORAM,339,U1387,C,23,23-3,R,3,W,87/89-7661-FORAM,0,2,495.27,495.29,B,,P,F,D,P,,,R,,,R,,P,,,,,P,,,P,,,P,,,,,,,,,,,,,,,,,,D,,P,,,P,,,,P,,,,911122bf8af782ba459a5b95b55253e6
+339-U1387C-23R-5-W 88/90-7662-FORAM,339,U1387,C,23,23-5,R,5,W,88/90-7662-FORAM,0,2,498.28,498.3,B,,P,F,D,P,,,P,,P,,,,,,,,P,,,P,,P,R,,,,,,,,,,,,,,,,,,A,P,R,,,P,,,,,,,,bb8ad04c0a9e2eaeaa0d643eb54fde87
+339-U1387C-23R-CC-PAL-FORAM,339,U1387,C,23,23-CC,R,CC,PAL,FORAM,0,5,499.79,499.84,B,,VG,D,F,F,,,,,,,R,R,,,,,F,,,,,P,R,,,,,,,,,,,P,,,,,,,A,,R,,,,,,,,,,,680fe7ab912347694a494b135a3a5275
+339-U1387C-24R-CC-PAL-FORAM,339,U1387,C,24,24-CC,R,CC,PAL,FORAM,0,5,510.1,510.15,B,,VG,D,A,A,,R,R,B,,,,R,,,,,R,,,,,,R,,,,,,,R,,P,,,,,,,,,F,,A,,,P,,,,P,,,,b88145f7eb4c8c8f16e70556b119adca
+339-U1387C-25R-CC-PAL-FORAM,339,U1387,C,25,25-CC,R,CC,PAL,FORAM,0,5,520.19,520.24,B,,G,D,F,F,,,,,,,,R,,,,,F,,,,,P,R,,,,,,,,,,,,,,,,,,A,,F,,,P,,,,,,,,0189510ab89766463d1161a740b83996
+339-U1387C-26R-1-W 57/59-7669-FORAM,339,U1387,C,26,26-1,R,1,W,57/59-7669-FORAM,0,2,520.47,520.49,B,,M,D,D,,,,P,,,,,P,,,,,P,,,P,,P,P,,P,,,,,,,,F,,,,,,,,A,,R,,,P,P,,,,radiolaria,,,7bdc48677ccc9ed8c7a8ae34101719eb
+339-U1387C-26R-3-W 60/62-7670-FORAM,339,U1387,C,26,26-3,R,3,W,60/62-7670-FORAM,0,2,523.5,523.52,B,,M,D,A,F,,,,,,,,P,,,,,F,,P,P,,,P,P,R,,,,,,,,F,,,,,,,,F,,R,,,,,,,P,,,,8ec43f141fc2c345382cb1790027bf7f
+339-U1387C-26R-6-W 47/49-7671-FORAM,339,U1387,C,26,26-6,R,6,W,47/49-7671-FORAM,0,2,527.57,527.59,B,,G,D,A,P,,,P,,,,,,,,,,F,,P,R,,,P,,R,,,,,,,,F,,,,,,,,A,P,P,,,P,P,,,,,,,d3916f2c1013fd088e77589eb95a1ad7
+339-U1387C-26R-CC-PAL-FORAM,339,U1387,C,26,26-CC,R,CC,PAL,FORAM,0,5,527.91,527.96,B,,M,R,F,F,,,,,P,,,P,,,,,A,,,,,,F,,R,,,,,,,,R,,,,,,,,A,,R,,,P,,,,,,,,3f22a894fddb6e5525e325e243270a4d
+339-U1387C-27R-CC-PAL-FORAM,339,U1387,C,27,27-CC,R,CC,PAL,FORAM,0,5,539.4,539.45,B,,G,D,A,R,,,,,,,,,,,,,F,,,P,,,R,,,,,,,,,,F,,,,,,,,A,,P,,,P,,,,P,,,,967a9f9f8d7f6e7e27f880f7469486e3
+339-U1387C-28R-CC-PAL-FORAM,339,U1387,C,28,28-CC,R,CC,PAL,FORAM,0,5,545.8,545.85,B,,M,D,A,R,,P,P,,P,,,,,,,,P,,,P,,,,P,P,,P,,,,,,A,,,,,,,,R,,R,,,P,,,,,,,,bcbb2a7972d49c7afed82c7037270723
+339-U1387C-29R-CC-PAL-FORAM,339,U1387,C,29,29-CC,R,CC,PAL,FORAM,0,5,558.56,558.61,B,,G,D,A,P,,,,,P,,,P,,,,,A,P,P,P,,P,R,,P,,,,,,,,A,P,,,,,,,R,,P,,,R,P,,,,radiolaria present,,,f28394986aafe4cb28d0ca6a90efe786
+339-U1387C-30R-1-W 59/60-7681-FORAM,339,U1387,C,30,30-1,R,1,W,59/60-7681-FORAM,0,1,558.89,558.9,B,,P,D,A,P,,P,P,,,,,P,,,,,,,,,,,R,,,,,,,,,,F,P,,,,,,,F,P,R,,,P,,,,,,,,3e4d0570728b97e11980ccc8d10610de
+339-U1387C-30R-3-W 58/59-7682-FORAM,339,U1387,C,30,30-3,R,3,W,58/59-7682-FORAM,0,1,561.88,561.89,B,,G,D,A,F,,P,P,,,,P,,,,,,,,,,,P,P,,,,P,,,,,,F,P,,,,,,,F,,R,,,R,,,,,,,,efd28044201d59735ae7525e1d4a2ca1
+339-U1387C-30R-5-W 29/30-7683-FORAM,339,U1387,C,30,30-5,R,5,W,29/30-7683-FORAM,0,1,564.34,564.35,B,,G,D,A,,,,R,,,,P,,,,,,P,P,P,P,,,P,,R,,R,,,,,,R,,,,P,,,,A,,R,,,P,,,,P,,,,35df55b991f9df7c9e61e15c03b99089
+339-U1387C-30R-CC-PAL-FORAM,339,U1387,C,30,30-CC,R,CC,PAL,FORAM,0,5,564.83,564.88,B,,G,D,A,P,,R,R,,,,,,,,,,P,,,,,P,P,,P,,P,,,,,,A,,,,,,,,R,,R,,,R,P,,,,,,,d4cd4b9f35b6edae8851db7a28c68089
+339-U1387C-31R-CC-PAL-FORAM,339,U1387,C,31,31-CC,R,CC,PAL,FORAM,0,5,573.54,573.59,B,,G,D,A,R,,R,R,,,,,P,,,,,R,,P,,,P,P,P,P,,P,,,,,,A,,,,,,,,R,,R,,P,P,P,,,,,,,ef0c62a57972109e840d1d4a11179a6c
+339-U1387C-32R-CC-PAL-FORAM,339,U1387,C,32,32-CC,R,CC,PAL,FORAM,0,5,586.23,586.28,B,,G,D,F,P,,P,R,,,,P,A,,,,,A,,P,P,,P,P,,R,,,,,,,,P,,,,,,,,R,,P,,,R,P,,,,,,,ffadc4dd22d08ac4ff0e2d6adbba1dbc
+339-U1387C-33R-CC-PAL-FORAM,339,U1387,C,33,33-CC,R,CC,PAL,FORAM,0,5,596.96,597.01,B,,G,D,A,P,,P,P,,,,P,,,,,,A,,P,,,,R,,P,,R,,,,,,A,,,,,,,,F,,F,,,P,,,,,,,,82aa0aa490403137af248fd97993d055
+339-U1387C-34R-CC-PAL-FORAM,339,U1387,C,34,34-CC,R,CC,PAL,FORAM,0,5,603.77,603.82,B,,P,A,R,R,,,,,,,,F,,,,,A,,R,,,P,R,,R,,,,,,,,A,,,,,,,,A,P,R,,,P,,,,,SLUMP!,,,189ba0157f55a73c14997766f361b20e
+339-U1387C-35R-CC-PAL-FORAM,339,U1387,C,35,35-CC,R,CC,PAL,FORAM,0,8,616.22,616.3,B,,G,R,A,R,,,,,,,,P,,,,,A,,P,,,,R,,P,,P,,,,,,A,,,,,,,,A,P,R,,,,,,,,,,,0d8961f6dd7c567198e7454785460062
+339-U1387C-36R-CC-PAL-FORAM,339,U1387,C,36,36-CC,R,CC,PAL,FORAM,0,5,619.81,619.86,B,,P,R,A,,,P,R,,,,,,,,,,A,,,,,,R,,P,,R,,,,,,A,,,,,,,,A,P,R,,,,,,,,,,,28e171706411c2d147bb01054df5aed6
+339-U1387C-37R-1-W 84/86-7702-FORAM,339,U1387,C,37,37-1,R,1,W,84/86-7702-FORAM,0,2,626.34,626.36,B,,G,D,A,P,,,F,,,,P,,,,,,P,,P,P,,,,,R,,P,,,,,,A,P,,,,,,,F,,F,,,,,,,,,,,42a661756b4c0b1bcc466f56a1e84a21
+339-U1387C-37R-3-W 60/62-7703-FORAM,339,U1387,C,37,37-3,R,3,W,60/62-7703-FORAM,0,2,629.1,629.12,B,,M,P,A,P,,R,R,,,,P,,,,,,,,,,,P,P,,,,,,,,,,F,P,,,,,,,F,,R,,,,,,,,,,,014f4d17072f44cf7fca89dbc34b8d99
+339-U1387C-37R-5-W 100/102-7704-FORAM,339,U1387,C,37,37-5,R,5,W,100/102-7704-FORAM,0,2,632.5,632.52,B,,M,P,A,P,,R,R,,,,P,,,,,,,,,,,,R,,,,R,,,,,,,P,,,,,,,F,,R,,,R,,,,,,,,1d0d72bc8c5056f5f614b71f48ebfff2
+339-U1387C-37R-CC-PAL-FORAM,339,U1387,C,37,37-CC,R,CC,PAL,FORAM,0,5,634.49,634.54,B,,VG,D,F,P,,P,F,,,,,,,,,P,A,P,P,,,P,R,,R,,F,,,,,,,P,,,,,,R,A,P,F,,,,,,,,,,,d97208d0aa9cc7bd000e6dcb8fbf81c4
+339-U1387C-38R-CC-PAL-FORAM,339,U1387,C,38,38-CC,R,CC,PAL,FORAM,0,4,643.55,643.59,B,,VG,R,A,P,,,,,,,,,,,,,A,,,,,,R,,R,,P,P,,,,,,,,,,,,,A,P,,,,,,,,,,,,021f306aef7269bf3aa9efad8906a82c
+339-U1387C-39R-CC-PAL-FORAM,339,U1387,C,39,39-CC,R,CC,PAL,FORAM,0,5,650.31,650.36,B,,VG,R,A,,,P,R,,,,,,,,,,A,,,,,,R,,R,,R,,,,,,,P,,,,,,,A,,F,,,P,,,,R,,,,ee268c22e0ed1ce6116ccfc2951a8dd8
+339-U1387C-40R-1-W 68/70-7710-FORAM,339,U1387,C,40,40-1,R,1,W,68/70-7710-FORAM,0,2,654.98,655,,,G,R,A,,,,R,,,,,,,,,,A,,,,,,R,,R,,,,,,,,,,,,,,,,D,,R,,,,,,,,,,,44ccefece24e91d97b0bdb9eb8a5f615
+339-U1387C-40R-3-W 67/69-7711-FORAM,339,U1387,C,40,40-3,R,3,W,67/69-7711-FORAM,0,2,657.97,657.99,,,G,A,R,P,,,R,,,,,,,,,P,F,,,,,P,A,,R,,P,,,,,,,,,,,,,,R,P,R,,,,,,,,,,,41a50da022c467a8c752b20f025d3ef5
+339-U1387C-40R-5-W 67/69-7712-FORAM,339,U1387,C,40,40-5,R,5,W,67/69-7712-FORAM,0,2,660.97,660.99,,,G,D,A,,,,R,,,,,,,,,,A,,,,,,R,,R,,B,,,,,,,,,,,,,,A,P,,,,,,,,,,,,3afa2ef8492d8bbfaa480e363b250a9d
+339-U1387C-40R-CC-PAL-FORAM,339,U1387,C,40,40-CC,R,CC,PAL,FORAM,0,5,662.32,662.37,B,,G,R,A,,,,P,,,,,,,,,,A,,,,,,R,,R,,,,,,,,,,,,,,,,A,,R,,,,,,,R,,,,6dea227ac1c74dd2b443d88634c71fcd
+339-U1387C-41R-1-W 76/78-7713-FORAM,339,U1387,C,41,41-1,R,1,W,76/78-7713-FORAM,0,2,664.66,664.68,,,M,D,A,,,,P,,,,,,,,,,A,,,,,,R,,R,,B,,,,,,,P,,,,,P,,A,P,R,,,,,,,,,,,e8ae1468958420debab198bcaddc71a8
+339-U1387C-41R-CC-PAL-FORAM,339,U1387,C,41,41-CC,R,CC,PAL,FORAM,0,6,666.26,666.32,B,,G,A,A,,,,,,,,,,,,,,F,,,,,,R,,R,,R,,,,,,,,,,,,,,A,,R,,,,,,,P,,,,b0047c52decc9d3e63d645a5f5342263
+339-U1387C-42R-1-W 77/79-7714-FORAM,339,U1387,C,42,42-1,R,1,W,77/79-7714-FORAM,0,2,674.27,674.29,,,G,R,A,P,,,P,,,,,,,,,,F,,,,,,R,,R,,P,,,,,,,R,,,,,,,F,,F,,,,,,,,"Some shallow water benthics, Ammonia, Elphidium.",,,3fed1c90d3aa61b7fa59c68c4a662f5d
+339-U1387C-42R-5-W 91/93-7716-FORAM,339,U1387,C,42,42-5,R,5,W,91/93-7716-FORAM,0,2,680.41,680.43,,,VG,D,A,,,,R,,,,,,,,,,R,,,P,,,F,,R,,R,,,,,,,P,,,,,,,A,,F,,,,,,,,Many shallow water benthics and vegetal remains,,,32565fcead3d38de1c93a770d99b8c10
+339-U1387C-42R-CC-PAL-FORAM,339,U1387,C,42,42-CC,R,CC,PAL,FORAM,0,5,682.15,682.2,B,,VG,A,A,,,R,R,,,,,,,,,R,F,,,,,,R,,R,,R,,,,,,,,,,,,,,A,,F,,,R,,,,P,,,,7d9fd8a1e15ce0bfd15d4414dd697c01
+339-U1387C-43R-1-W 75/77-7717-FORAM,339,U1387,C,43,43-1,R,1,W,75/77-7717-FORAM,0,2,683.95,683.97,,,G,R,A,,,,R,,,,,,,,,,F,,,,,,R,,F,,B,,,,,,,,,,,,,,F,,F,,,R,,,,,,,,eab02031a4bb7f45df33fa2863ff7bad
+339-U1387C-43R-2-PAL-FORAM,339,U1387,C,43,43-2,R,2,PAL,FORAM,0,4,685.76,685.8,B,,M,R,,,,,,,,,,,,,,P,A,,,,,,P,,F,,R,,,,,,,P,,,,,,,A,P,R,,,,,,,,,,,39b313f3dc61e35b6b38106a90a6d810
+339-U1387C-44R-1-PAL-FORAM,339,U1387,C,44,44-1,R,1,PAL,FORAM,0,2,693.03,693.05,B,,P,R,A,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,D,F,,,,,,,,,turbidite(?),,,2ce596d8615ab1ae6244fb0f73738a7b
+339-U1387C-47R-1-W 37/38-7719-FORAM,339,U1387,C,47,47-1,R,1,W,37/38-7719-FORAM,0,1,721.97,721.98,B,,G,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,almost barren; 2 specimens (G. trilobus; N. pachyderma (sin)); shelf benthic foraminifers and ostracods,,,d73a46fd9027f603f1cc5af1cc2b6a08
+339-U1387C-47R-CC-PAL-FORAM,339,U1387,C,47,47-CC,R,CC,PAL,FORAM,0,5,722.04,722.09,B,,P,R,P,P,,,R,,,,,,,,,,P,,P,,,,,,P,,R,,,,,,,,,,,,,,A,P,R,,,,,,,,some recrystalisation,,,1eb4e68ab1e16a2cab3d1a18776d6668
+339-U1387C-48R-3-W 59/60-7722-FORAM,339,U1387,C,48,48-3,R,3,W,59/60-7722-FORAM,0,1,734.79,734.8,B,,M,R,A,P,,R,R,,,,,,,,,,P,,P,,P,,R,,,,R,,,,,,,P,,,,,,,F,,R,,,F,,,,,,,,a7d9233e30bc2fcb444c8087993520c3
+339-U1387C-48R-5-W 27/29-7723-FORAM,339,U1387,C,48,48-5,R,5,W,27/29-7723-FORAM,0,2,737.08,737.1,B,,M,R,A,,,,R,,,,,,,,,,A,,,,,,R,,A,,,,,,,,,,,,,,,,A,P,F,,,,,,,,,,,22adeca1fa390151ca548c55cdb59c49
+339-U1387C-48R-CC-PAL-FORAM,339,U1387,C,48,48-CC,R,CC,PAL,FORAM,0,5,737.45,737.5,B,,P,R,A,R,,,,,,,,,,,,R,P,,P,P,,,F,,P,,R,,,,,,,,,,,,,R,F,,F,,P,P,,,,,,,,7bf770ca157bc9f44a8a43a5ef6dd622
+339-U1387C-49R-1-W 44/46-7724-FORAM,339,U1387,C,49,49-1,R,1,W,44/46-7724-FORAM,0,2,741.24,741.26,B,,M,R,F,,,,R,,,,,,,,,,A,,,,,P,F,,R,,P,,,,,,,,,,,,,,F,P,F,,,,,,,,,,,ce9f449f8a0c63dcfb18432de8645d90
+339-U1387C-49R-3-W 39/41-7725-FORAM,339,U1387,C,49,49-3,R,3,W,39/41-7725-FORAM,0,2,744.19,744.21,B,,G,D,F,,,,P,,,,,,,,,P,A,P,,R,P,,R,,F,,R,P,,,P,,,,,,,,,,F,P,R,,,P,,,,,,,,b58b98493f4a74823caad69babbf3102
+339-U1387C-49R-5-W 9/10-7726-FORAM,339,U1387,C,49,49-5,R,5,W,9/10-7726-FORAM,0,1,746.89,746.9,B,,M,P,P,,,,,,,,,,,,,,,,,P,,,P,,P,,,,,,,,,,,,,,,,P,,P,,,,,,,,less than 20 planktonic foraminifer specimens in sample; mainly benthic foraminifers,,,0b9c8dc6a16693419cd363f1ec9af1c0
+339-U1387C-49R-CC-PAL-FORAM,339,U1387,C,49,49-CC,R,CC,PAL,FORAM,0,3,748.1,748.13,B,,P,R,F,R,,,R,,,,,,,,,,P,,P,P,,,R,,F,,P,,,,,,,,,,,,,,F,,,,P,,,,,,G. plesiotumida specimens found in sample.,,,629bc6fca7a4e7b76f5b2b7cffc9ce01
+339-U1387C-50R-1-W 46/48-7727-FORAM,339,U1387,C,50,50-1,R,1,W,46/48-7727-FORAM,0,2,750.86,750.88,,,G,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,almost barren few planktonic foraminifers; shelf benthic foraminifers and ostracods,,,54aaa8213e0b6996fc148258bd4c93dc
+339-U1387C-50R-1-W 67/68-7728-FORAM,339,U1387,C,50,50-1,R,1,W,67/68-7728-FORAM,0,1,751.07,751.08,,,M,D,R,,,P,A,,,,,,,,,P,F,P,,P,,,P,P,F,,R,,,,,,,,,,,,,,A,P,R,,,P,,,,P,,,,1c20977a71016a80d0290bd41584a7cc
+339-U1387C-50R-CC-PAL-FORAM,339,U1387,C,50,50-CC,R,CC,PAL,FORAM,0,3,752.45,752.48,B,,P,R,F,R,,,R,,,,,,,,,,,,P,,P,,R,,F,,P,,P,,,P,,,,,,,,,F,,,,P,,,,,,,,,ef547efed2f248af4cc5073089dbe860
+339-U1387C-51R-1-W 70/72-7729-FORAM,339,U1387,C,51,51-1,R,1,W,70/72-7729-FORAM,0,2,760.7,760.72,,,G,F,R,,,,,,,,,,,,,P,A,,P,R,,P,R,P,P,,R,,,,,,,,P,,,,,,A,,P,,,P,P,,,,,,,06136b8a548730151a905c898fad0443
+339-U1387C-51R-3-W 64/65-7730-FORAM,339,U1387,C,51,51-3,R,3,W,64/65-7730-FORAM,0,1,763.28,763.29,,,G,D,P,,,,,,,,,,,,,P,P,,,,,,,,P,,,,,,,,,,,,,,,,R,,P,,,,P,,,,Only 17 planktonic foraminifers were observed,,,e552964bc2af20c748a1f51334f70a81
+339-U1387C-51R-5-W 29/30-7731-FORAM,339,U1387,C,51,51-5,R,5,W,29/30-7731-FORAM,0,1,765.19,765.2,,,G,D,R,,,,,,,,,,,,,,A,,,R,,,R,,R,,F,,,,,,,P,,,,,P,,A,P,R,,,P,P,,,,,,,cc2c00ce2a20b9a15a2666a39bb4bc36
+339-U1387C-51R-CC-PAL-FORAM,339,U1387,C,51,51-CC,R,CC,PAL,FORAM,0,5,765.69,765.74,B,,P,D,A,P,,,,,,,,,,,,R,A,,,,,,F,,R,,R,,,,,,,P,,,,,,,F,P,R,,,P,,,,P,,,,3d7953bd21bb34080adb052ab63edf1d
+339-U1387C-52R-1-W 65/67-7732-FORAM,339,U1387,C,52,52-1,R,1,W,65/67-7732-FORAM,0,2,770.25,770.27,,,G,D,R,,,,F,,,,,,,,,R,A,,R,,P,P,R,,R,,R,,,,,,,,,,,,,,A,,R,,,R,,,,,,,,b647eed5829005484ca2721822839d99
+339-U1387C-52R-3-W 75/76-7733-FORAM,339,U1387,C,52,52-3,R,3,W,75/76-7733-FORAM,0,1,772.82,772.83,,,M,F,F,,,,P,,,,,,,,,,F,,,,P,P,F,,R,,R,,,,,,,,P,,,,,,A,,R,,,P,P,,,,,,,49ae926af6bcfa39ff8b9bd48687f349
+339-U1387C-52R-CC-PAL-FORAM,339,U1387,C,52,52-CC,R,CC,PAL,FORAM,0,6,772.92,772.98,B,,G,A,A,,,,,,,,,,,,,,A,P,P,,,,R,,F,,F,,,,,,,,,,,,,,A,P,F,,,R,,,,,,,,c4d8be0fc9cd8162459c56ac8eee2602
+339-U1387C-53R-1-W 92/93-7734-FORAM,339,U1387,C,53,53-1,R,1,W,92/93-7734-FORAM,0,1,780.12,780.13,,,G,A,A,,,,,,,,,,,,,,A,,R,,,,,,,,,,,,,,,,,,,,,,F,,F,,,,,,,,,,,2a22ccdc6e3ab0374430b6e798328afa
+339-U1387C-53R-5-W 78/80-7736,339,U1387,C,53,53-5,R,5,W,78/80-7736,0,2,785.5,785.52,,,G,D,A,,,,R,,,,,,,,,,A,,,,,,R,,F,,F,,,,,,,,,,,,,,F,,F,,,P,,,,,,,,7530cde3e508f004a2e97612e7fbeb20
+339-U1387C-53R-6-PAL-FORAM,339,U1387,C,53,53-6,R,6,PAL,FORAM,0,5,786.65,786.7,B,,VG,D,A,,,,R,,,,,,,,,,A,,P,,P,,R,,F,,F,,,,,,,,,,,,,,R,P,F,,,P,,,,,,,,f0159cec19deba465f3a3727adf5d0d7
+339-U1387C-54R-1-W 80/82-7737-FORAM,339,U1387,C,54,54-1,R,1,W,80/82-7737-FORAM,0,2,789.6,789.62,B,,G,D,A,,,,,,,,,,,,,,F,,,P,P,,P,P,F,P,F,,,,,,,,,,,,,P,A,P,F,,,,P,,,,N. dutertrei are N. humerosa,,,4185bb1f4bf11bee33ea15f8a42d4430
+339-U1387C-54R-3-PAL-FORAM,339,U1387,C,54,54-3,R,3,PAL,FORAM,0,5,792.76,792.81,B,,G,A,A,,,,P,,,,,,,,,P,A,P,,,,,R,,R,,F,,,,,,,P,,,,,,,R,,R,,,P,,,,,,,,0932e3583654d4da0408ab1bb9373488
+339-U1387C-54R-3-W 80/82-7738-FORAM,339,U1387,C,54,54-3,R,3,W,80/82-7738-FORAM,0,2,792.53,792.55,B,,G,D,F,,,,R,,,,,,,,,,R,,P,R,P,R,R,,R,,R,,P,,P,,,,,,,,,,F,P,R,,,P,P,,,,,,,bfdba5a743bed758980acf36393bf9bc
+339-U1387C-55R-1-W 75/77-7739-FORAM,339,U1387,C,55,55-1,R,1,W,75/77-7739-FORAM,0,2,799.15,799.17,,,G,D,R,,,,P,,,,,,,,,P,A,,P,R,P,P,R,,F,,R,,,,,,,,P,,,,,,A,,F,,,P,,,,,,,,6ac55c44aabdd2b144c79ee586ec242b
+339-U1387C-55R-3-W 75/77-7740-FORAM,339,U1387,C,55,55-3,R,3,W,75/77-7740-FORAM,0,2,802.15,802.17,,,M,D,R,,,,P,,,,,,,,,P,A,P,R,P,P,,,,R,,R,,,,,,,P,,,,,,,A,,F,,,P,,,,,,,,0ac7c81460ac35b9fd75360c600fddf6
+339-U1387C-55R-5-W 74/76-7741-FORAM,339,U1387,C,55,55-5,R,5,W,74/76-7741-FORAM,0,2,805.14,805.16,,,M,D,F,,,,,,,,,,,,,,A,P,P,P,P,,,,P,,R,,,,,,,P,,,,,,,D,P,R,,,,,,,,,,,992383a05c35d0d8cae7ed7367003dae
+339-U1387C-55R-CC-PAL-FORAM,339,U1387,C,55,55-CC,R,CC,PAL,FORAM,0,6,805.62,805.68,B,,G,D,A,,,,,,,,,,,,,P,F,,,,P,,R,P,R,,F,,,,,,,P,,,,,,,F,,F,,,P,,,,,,,,e3345b28f8dfd27cd34378d1ce01d35e
+339-U1387C-56R-1-W 53/55-7742-FORAM,339,U1387,C,56,56-1,R,1,W,53/55-7742-FORAM,0,2,808.53,808.55,,,G,D,A,,,,,,,,,,,,,P,R,,P,R,P,P,P,,R,,P,,,,,,,P,,,,,,,D,F,R,,,,,,,,,,,c3e5a4b0eb8fa7c616ae85638085afbe
+339-U1387C-56R-3-W 69/71-7743,339,U1387,C,56,56-3,R,3,W,69/71-7743,0,2,811.69,811.71,,,G,D,A,,,,,,,,,,,,,,A,,R,P,P,,P,,F,,F,P,,,,,,P,,,,,,,F,,F,,,,,,,,,,,a02c8e6bc8f186b00852113ac55c8f53
+339-U1387C-56R-5-W 101/103-7744,339,U1387,C,56,56-5,R,5,W,101/103-7744,0,2,815.01,815.03,,,M,D,F,,,,P,,,,,,,,,P,A,,R,,P,,F,,R,,R,,,,,,,,,,,,,,D,,P,,,R,P,,,,,,,a325f95647716b1eb0205dd570bdd950
+339-U1387C-56R-7-PAL-FORAM,339,U1387,C,56,56-7,R,7,PAL,FORAM,0,5,817.13,817.18,B,,VG,D,A,,,,P,,,,,,,,,R,F,,R,,P,P,,,R,,F,,,,,,,P,,,,,,,R,P,F,,,P,P,,,,,,,47eec9e0fd86c5f61d18b418e84e72ef
+339-U1387C-57R-1-PAL-FORAM,339,U1387,C,57,57-1,R,1,PAL,FORAM,0,3,817.6,817.63,B,,M,D,F,,,,R,,,,,,,,,,F,,P,,P,,P,,R,,F,,,,,,,,P,,,,R,,A,F,R,,,R,,,,,,,,0bbeba187e33e015ceb7fee70928748d
+339-U1387C-57R-1-W 106/108-7745-FORAM,339,U1387,C,57,57-1,R,1,W,106/108-7745-FORAM,0,2,818.66,818.68,,,M,D,A,,,,,,,,,,,,,,A,,P,,,,P,,R,,R,,,,,,,P,,,,,,,A,P,R,,,,,,,,,,,a11cee88488f85b0c1eb2d7e3bc44606
+339-U1387C-57R-3-W 86/88-7746-FORAM,339,U1387,C,57,57-3,R,3,W,86/88-7746-FORAM,0,2,821.49,821.51,,,M,D,A,,,,,,,,,,,,,,F,,P,,P,,P,,R,,R,,,,,,,P,,,,,,,A,F,R,,,P,,,,,,,,ed3f584509f80f2a5d4545afff7795a2
+339-U1387C-57R-CC-PAL-FORAM,339,U1387,C,57,57-CC,R,CC,PAL,FORAM,0,3,824.6,824.63,B,,P,D,R,,,,R,,,,,,,,,P,A,,,P,P,P,P,P,F,,R,P,P,,P,,,,P,,,,,,R,P,R,,,,P,,,,G. miotumida is G. conomiozea,,,daa31881204fe145a80db092c484e37f
+339-U1387C-58R-CC-PAL-FORAM,339,U1387,C,58,58-CC,R,CC,PAL,FORAM,0,5,834.33,834.38,B,,P,D,R,,,,R,,,,,,,,,R,P,,P,,,P,P,P,R,,P,,,,,,,P,,,,,P,A,F,A,F,,,P,P,,,,N. dutertrei are N. humerosa,,,4cab2d71697c616166a3b343eff5984d
+339-U1387C-59R-1-W 68/70-7747-FORAM,339,U1387,C,59,59-1,R,1,W,68/70-7747-FORAM,0,2,837.48,837.5,B,,M,D,A,,,,R,,,,,,,,,,A,,P,,,,,,R,,P,,,,,,,P,,,,,,,A,,F,,,R,,,,,,,,82a434819b8ead7af6242d9cc762fc95
+339-U1387C-59R-3-W 72/74-7748-FORAM,339,U1387,C,59,59-3,R,3,W,72/74-7748-FORAM,0,2,840.52,840.54,B,,M,D,F,R,,,P,,,,,,,,,,,,,,,,P,,P,,,,,,,,,P,,,,,R,,A,P,R,,,R,,,,,,,,06228dd3e3224fb04475889606ba49c9
+339-U1387C-59R-5-W 90/92-7749-FORAM,339,U1387,C,59,59-5,R,5,W,90/92-7749-FORAM,0,2,843.7,843.72,B,,M,D,A,,,,R,,,,,,,,,,A,,P,,,,,,P,,P,,,,,,,P,,,,,,,F,P,F,,,R,,,,,,,,785928a425b8d2497bc50fe5b9d40699
+339-U1387C-59R-CC-PAL-FORAM,339,U1387,C,59,59-CC,R,CC,PAL,FORAM,0,5,845.56,845.61,B,,P,D,F,,,,P,,,,,,,,,,P,,P,,,P,P,,R,,R,,P,,P,,,,,,,,,R,A,R,R,,,F,P,,,,Spaeroid. kochi; N. dutertrei are N. humerosa,,,7a4698eb804326df669f5bea666e4247
+339-U1387C-60R-CC-PAL-FORAM,339,U1387,C,60,60-CC,R,CC,PAL,FORAM,0,3,846.4,846.43,B,,G,D,R,,,,P,,,,,,,,,,R,,,,,P,,,A,,F,,,,P,,,P,,,,,,P,A,P,F,,,F,P,,,,Spaeroid. kochi; N. dutertrei are N. humerosa; G. miotumida is G. conomiozea,,,f17dd5a13bf2a0834ad5bbee6f1de9d3
+339-U1387C-61R-1-PAL-FORAM,339,U1387,C,61,61-1,R,1,PAL,FORAM,0,2,856,856.02,B,,G,D,F,,,,R,,,,,,,,,F,R,,P,,P,P,,,F,,R,,P,,P,,,P,,,,,,F,F,R,R,,R,,,,,,N. dutertrei are N. humerosa,,,cfeee157987d7ff26c6752535b764aa1
+339-U1387C-61R-1-W 86/88-7750-FORAM,339,U1387,C,61,61-1,R,1,W,86/88-7750-FORAM,0,2,856.86,856.88,B,,G,D,A,,,,,,,,,,,,,R,F,,P,,,,F,,R,,,,,,,,,,,,,,,,D,P,F,,,,,,,,,,,945caf7deba366efb08bd5ef6243c7dd
+339-U1387C-61R-3-W 84/86-7751-FORAM,339,U1387,C,61,61-3,R,3,W,84/86-7751-FORAM,0,2,859.84,859.86,B,,G,D,A,,,,,,,,,,,,,,R,,,,,,R,,R,,P,,,,,,,,,,,,,,F,P,F,,,P,,,,,,,,624f4182f5a06eb41220ffab05beeb90
+339-U1387C-61R-CC-PAL-FORAM,339,U1387,C,61,61-CC,R,CC,PAL,FORAM,0,5,865.8,865.85,B,,M,D,F,,,,R,,,,,,,,,R,R,,P,,P,P,,,R,,F,,,,,,,,,,,,,P,P,,R,,R,,,,,,N. dutertrei are N. humerosa,,,df3d3a4c0546d99a09fc1076c832d9fa

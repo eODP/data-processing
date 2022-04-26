@@ -1,10 +1,10 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Silicoflagellates group abundance,Silicoflagellate preservation dissolution,Silicoflagellate preservation fragmentation,Corbisema apiculata,Corbisema flexuosa,Corbisema hastata,Corbisema regina,Corbisema sp,Corbisema triacantha,Dictyocha deflandrei,Dictyocha fibula,Dictyocha frenguellii,Dictyocha hexacantha,Dictyocha pentagona,Distephanus boliviensis (binoculoid),Distephanus crux group,Distephanus pseudofibulua,Distephanus speculum,Mesocena diadon diadon,Naviculopsis constricta,Naviculopsis foliacea,Paradictyocha sp,Septamesocena apiculata,Septamesocena pappii,Silicoflagellate species
-318-U1359B-12H-CC-W 19/23-PAL-DIAT4,318,U1359,B,12,12-CC,H,CC,W,19/23-PAL-DIAT4,0,5,112.51,112.56,R,,,,,,,,,,,,,,,,,,,,,,,,
-318-U1359B-13H-CC-W 0/0-DIAT1,318,U1359,B,13,13-CC,H,CC,W,0/0-DIAT1,0,0,120.03,120.03,X,,,,,,,,,,,,,,,,,,,,,,,,
-318-U1359B-14H-CC-W 22/25-PAL-DIAT3,318,U1359,B,14,14-CC,H,CC,W,22/25-PAL-DIAT3,0,0,128.64,128.64,X,,,,,,,,,,,,,,,,,,,,,,,,
-318-U1359B-15H-CC-W 19/22-PAL-DIAT1,318,U1359,B,15,15-CC,H,CC,W,19/22-PAL-DIAT1,0,0,134.815,134.815,X,,,,,,,,,,,,,,,,,,,,,,,,
-318-U1359B-17H-CC-W 18/21-PAL-DIAT2,318,U1359,B,17,17-CC,H,CC,W,18/21-PAL-DIAT2,0,3,159.51,159.54,R,,,,,,,,,,,,,,,X,,X,,,,,,,
-318-U1359B-18H-CC-W 5/8-PAL-DIAT1,318,U1359,B,18,18-CC,H,CC,W,5/8-PAL-DIAT1,0,0,169.215,169.215,R,,,,,,,,,,,,,,,,,R,,,,,,,
-318-U1359B-20H-CC-W 18/21-PAL-DIAT,318,U1359,B,20,20-CC,H,CC,W,18/21-PAL-DIAT,0,0,188.06,188.06,R,,,,,,,,,,,,,,X,X,,,,,,,,,
-318-U1359B-23H-CC-PAL-DIAT4,318,U1359,B,23,23-CC,H,CC,PAL,DIAT4,0,5,208.85,208.9,X,,,,,,,,,,,,,,,,,X,,,,,,,
-318-U1359B-28X-CC-PAL-DIAT1,318,U1359,B,28,28-CC,X,CC,PAL,DIAT1,0,5,243.06,243.11,R,,,,,,,,,,,,,,,,,,,,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Silicoflagellates group abundance,Silicoflagellate preservation dissolution,Silicoflagellate preservation fragmentation,Corbisema apiculata,Corbisema flexuosa,Corbisema hastata,Corbisema regina,Corbisema sp,Corbisema triacantha,Dictyocha deflandrei,Dictyocha fibula,Dictyocha frenguellii,Dictyocha hexacantha,Dictyocha pentagona,Distephanus boliviensis (binoculoid),Distephanus crux group,Distephanus pseudofibulua,Distephanus speculum,Mesocena diadon diadon,Naviculopsis constricta,Naviculopsis foliacea,Paradictyocha sp,Septamesocena apiculata,Septamesocena pappii,Silicoflagellate species,eodp_id
+318-U1359B-12H-CC-W 19/23-PAL-DIAT4,318,U1359,B,12,12-CC,H,CC,W,19/23-PAL-DIAT4,0,5,112.51,112.56,R,,,,,,,,,,,,,,,,,,,,,,,,,770977f47cce4fd6305574bd09f9f30f
+318-U1359B-13H-CC-W 0/0-DIAT1,318,U1359,B,13,13-CC,H,CC,W,0/0-DIAT1,0,0,120.03,120.03,X,,,,,,,,,,,,,,,,,,,,,,,,,087fd2356ae460b89a73b5e248c1c3fe
+318-U1359B-14H-CC-W 22/25-PAL-DIAT3,318,U1359,B,14,14-CC,H,CC,W,22/25-PAL-DIAT3,0,0,128.64,128.64,X,,,,,,,,,,,,,,,,,,,,,,,,,e2687ebf13afec07366546b1c953b09a
+318-U1359B-15H-CC-W 19/22-PAL-DIAT1,318,U1359,B,15,15-CC,H,CC,W,19/22-PAL-DIAT1,0,0,134.815,134.815,X,,,,,,,,,,,,,,,,,,,,,,,,,e459f80b5c274b73338142ec0803975b
+318-U1359B-17H-CC-W 18/21-PAL-DIAT2,318,U1359,B,17,17-CC,H,CC,W,18/21-PAL-DIAT2,0,3,159.51,159.54,R,,,,,,,,,,,,,,,X,,X,,,,,,,,ea264a0bbbbbf63a0f52f724646cca06
+318-U1359B-18H-CC-W 5/8-PAL-DIAT1,318,U1359,B,18,18-CC,H,CC,W,5/8-PAL-DIAT1,0,0,169.215,169.215,R,,,,,,,,,,,,,,,,,R,,,,,,,,8ac913700f06e206ab978cf6a6176e75
+318-U1359B-20H-CC-W 18/21-PAL-DIAT,318,U1359,B,20,20-CC,H,CC,W,18/21-PAL-DIAT,0,0,188.06,188.06,R,,,,,,,,,,,,,,X,X,,,,,,,,,,40694dc7ed5df3b8df052b167992dc3a
+318-U1359B-23H-CC-PAL-DIAT4,318,U1359,B,23,23-CC,H,CC,PAL,DIAT4,0,5,208.85,208.9,X,,,,,,,,,,,,,,,,,X,,,,,,,,b6ac461f05c67cbffb68058ecaa770cc
+318-U1359B-28X-CC-PAL-DIAT1,318,U1359,B,28,28-CC,X,CC,PAL,DIAT1,0,5,243.06,243.11,R,,,,,,,,,,,,,,,,,,,,,,,,,904c197bef503538e82f633053b70fd8

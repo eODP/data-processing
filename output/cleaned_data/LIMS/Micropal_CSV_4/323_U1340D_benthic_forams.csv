@@ -1,4 +1,4 @@
-Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Brizalina pygmaea,Brizalina earlandi,Bulimina aff. exilis,Cassidulina sp.,Cassidulinoides tenuis,Epistominella pulchella,Globobulimina pacifica,Islandiella norcrossi,Lenticulina sp.,Melonis barleanum,Nonionella turgida digitata,Oridorsalis umbonatus,Procerolagena cf. gracillima,Pullenia sp.,Uvigerina cf. peregrina,Valvulineria sp.,IRD,Other observations,Top [cm],Bottom [cm],A/W,Sample
-323,U1340,D,1,H,CC,7.19,7.29,G,A,R,,F,F,,F,F,P,,R,F,,,,D,,M,Quartz,,,,323-U1340D-1H-CC-nan
-323,U1340,D,2,H,CC,17.11,17.21,P,F,,,,,P,,F,P,,,,,,,R,,A,Quartz,,,,323-U1340D-2H-CC-nan
-323,U1340,D,3,H,CC,26.73,26.83,G,A,F,R,A,F,,,,,P,,R,R,P,R,A,F,M,"Quartz, sponge spicules",,,,323-U1340D-3H-CC-nan
+Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Brizalina pygmaea,Brizalina earlandi,Bulimina aff. exilis,Cassidulina sp.,Cassidulinoides tenuis,Epistominella pulchella,Globobulimina pacifica,Islandiella norcrossi,Lenticulina sp.,Melonis barleanum,Nonionella turgida digitata,Oridorsalis umbonatus,Procerolagena cf. gracillima,Pullenia sp.,Uvigerina cf. peregrina,Valvulineria sp.,IRD,Other observations,Top [cm],Bottom [cm],A/W,Sample,eodp_id
+323,U1340,D,1,H,CC,7.19,7.29,G,A,R,,F,F,,F,F,P,,R,F,,,,D,,M,Quartz,,,,323-U1340D-1H-CC-nan,f860222fd14e4b404177abbba993349f
+323,U1340,D,2,H,CC,17.11,17.21,P,F,,,,,P,,F,P,,,,,,,R,,A,Quartz,,,,323-U1340D-2H-CC-nan,8a1e029d6e9013e0fb31464d98db1a29
+323,U1340,D,3,H,CC,26.73,26.83,G,A,F,R,A,F,,,,,P,,R,R,P,R,A,F,M,"Quartz, sponge spicules",,,,323-U1340D-3H-CC-nan,99ee03e9a6119add93c4a79bb5d660a1

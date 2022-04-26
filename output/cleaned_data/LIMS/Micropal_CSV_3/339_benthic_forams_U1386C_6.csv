@@ -1,17 +1,17 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Technitella sp.,Textularia pseudogramen,Textularia spp.,Textulariella spp.?,Tolypammina vagans,Trifarina angulosa,Trifarina bradyi,Trifarina fornasinii,Trifarina spp.,Triloculina sp. 1,Triloculina spp.,Triloculina tricarinata,Triloculinella obliquinodus,Tritaxa spp.,Tritaxis fusca,Trochammina bellingshauseni,Trochammina earlandi,Trochammina globigeriniformis,Trochammina spp.,Trochammina squammata,Trochamminoides spp.,Uvigerina auberiana,Uvigerina cf. auberiana,Uvigerina cf. hispida,Uvigerina cf. mexicana,Uvigerina cf. proboscidea,Uvigerina bradyana,Uvigerina elongatastriata,Uvigerina hispida,Uvigerina mediterranea,Uvigerina peregrina,Uvigerina spp.,Uvigerinidae indet.,Vaginulina spp.,Vaginulinopsis spp.,Vaginulinidae indet.,Vaginulina subelegans,Valvulineria spp.,Verneuinulla spp.?,Virgulinella spp.,Vulvulina pennatula,Comment,File Data
-339-U1386C-2R-CC-PAL-FORAM,339,U1386,C,2,2-CC,R,CC,PAL,FORAM,0,5,168.76,168.81,,,R,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,
-339-U1386C-4R-CC-PAL-FORAM,339,U1386,C,4,4-CC,R,CC,PAL,FORAM,0,5,213.86,213.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,F,,,,,,,,,,,
-339-U1386C-5W-CC-PAL-FORAM,339,U1386,C,5,5-CC,W,CC,PAL,FORAM,0,5,218.37,218.42,,,R,,,P,,,,,,,,,,,,,,,,,,,,,,,,,R,R,,,,,,,,,,,
-339-U1386C-6R-CC-PAL-FORAM,339,U1386,C,6,6-CC,R,CC,PAL,FORAM,0,5,406.38,406.43,,,F,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,
-339-U1386C-7R-CC-PAL-FORAM,339,U1386,C,7,7-CC,R,CC,PAL,FORAM,0,5,421.7,421.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,P,,,,,
-339-U1386C-8R-CC-PAL-FORAM,339,U1386,C,8,8-CC,R,CC,PAL,FORAM,0,5,426.03,426.08,,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,
-339-U1386C-9R-CC-PAL-FORAM,339,U1386,C,9,9-CC,R,CC,PAL,FORAM,0,5,438.5,438.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,
-339-U1386C-10R-CC-PAL-FORAM,339,U1386,C,10,10-CC,R,CC,PAL,FORAM,0,5,451.59,451.64,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,R,R,A,,,,,,,,,,,
-339-U1386C-11R-CC-PAL-FORAM,339,U1386,C,11,11-CC,R,CC,PAL,FORAM,0,5,454.03,454.08,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,R,R,A,,,,,,,,,,,
-339-U1386C-12R-CC-PAL-FORAM,339,U1386,C,12,12-CC,R,CC,PAL,FORAM,0,5,467.86,467.91,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,
-339-U1386C-13R-CC-PAL-FORAM,339,U1386,C,13,13-CC,R,CC,PAL,FORAM,0,5,478.02,478.07,,,R,,,,,,P,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,
-339-U1386C-14R-CC-PAL-FORAM,339,U1386,C,14,14-CC,R,CC,PAL,FORAM,0,5,486.54,486.59,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,R,,,,,,,,,,,
-339-U1386C-15R-CC-PAL-FORAM,339,U1386,C,15,15-CC,R,CC,PAL,FORAM,0,5,498.36,498.41,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,R,,,,,,,,,,,
-339-U1386C-16R-CC-PAL-FORAM,339,U1386,C,16,16-CC,R,CC,PAL,FORAM,0,5,508.23,508.28,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,
-339-U1386C-17R-CC-PAL-FORAM,339,U1386,C,17,17-CC,R,CC,PAL,FORAM,0,5,517.28,517.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,
-339-U1386C-18R-CC-PAL-FORAM,339,U1386,C,18,18-CC,R,CC,PAL,FORAM,0,5,525.14,525.19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,P,,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Technitella sp.,Textularia pseudogramen,Textularia spp.,Textulariella spp.?,Tolypammina vagans,Trifarina angulosa,Trifarina bradyi,Trifarina fornasinii,Trifarina spp.,Triloculina sp. 1,Triloculina spp.,Triloculina tricarinata,Triloculinella obliquinodus,Tritaxa spp.,Tritaxis fusca,Trochammina bellingshauseni,Trochammina earlandi,Trochammina globigeriniformis,Trochammina spp.,Trochammina squammata,Trochamminoides spp.,Uvigerina auberiana,Uvigerina cf. auberiana,Uvigerina cf. hispida,Uvigerina cf. mexicana,Uvigerina cf. proboscidea,Uvigerina bradyana,Uvigerina elongatastriata,Uvigerina hispida,Uvigerina mediterranea,Uvigerina peregrina,Uvigerina spp.,Uvigerinidae indet.,Vaginulina spp.,Vaginulinopsis spp.,Vaginulinidae indet.,Vaginulina subelegans,Valvulineria spp.,Verneuinulla spp.?,Virgulinella spp.,Vulvulina pennatula,Comment,File Data,eodp_id
+339-U1386C-2R-CC-PAL-FORAM,339,U1386,C,2,2-CC,R,CC,PAL,FORAM,0,5,168.76,168.81,,,R,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,9e3ff37344c793d34760b12aef478b85
+339-U1386C-4R-CC-PAL-FORAM,339,U1386,C,4,4-CC,R,CC,PAL,FORAM,0,5,213.86,213.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,F,,,,,,,,,,,,8d0f029b66fe092d6544ddb31393974c
+339-U1386C-5W-CC-PAL-FORAM,339,U1386,C,5,5-CC,W,CC,PAL,FORAM,0,5,218.37,218.42,,,R,,,P,,,,,,,,,,,,,,,,,,,,,,,,,R,R,,,,,,,,,,,,2aebe0a63da5d627bbd756114fa610ca
+339-U1386C-6R-CC-PAL-FORAM,339,U1386,C,6,6-CC,R,CC,PAL,FORAM,0,5,406.38,406.43,,,F,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,f43ccb404ef3b7c1e247a7db1792beab
+339-U1386C-7R-CC-PAL-FORAM,339,U1386,C,7,7-CC,R,CC,PAL,FORAM,0,5,421.7,421.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,P,,,,,,d9727570606081e99dfb26535c72064f
+339-U1386C-8R-CC-PAL-FORAM,339,U1386,C,8,8-CC,R,CC,PAL,FORAM,0,5,426.03,426.08,,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,929442d49726870b261018d573a9a760
+339-U1386C-9R-CC-PAL-FORAM,339,U1386,C,9,9-CC,R,CC,PAL,FORAM,0,5,438.5,438.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,f6e51a7116e713baed0f52d20b8e99e0
+339-U1386C-10R-CC-PAL-FORAM,339,U1386,C,10,10-CC,R,CC,PAL,FORAM,0,5,451.59,451.64,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,R,R,A,,,,,,,,,,,,57f115c62dae8dd623beaec0b5788382
+339-U1386C-11R-CC-PAL-FORAM,339,U1386,C,11,11-CC,R,CC,PAL,FORAM,0,5,454.03,454.08,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,R,R,A,,,,,,,,,,,,b26c4fd123904b6429cdc4f46eba1af5
+339-U1386C-12R-CC-PAL-FORAM,339,U1386,C,12,12-CC,R,CC,PAL,FORAM,0,5,467.86,467.91,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,b10a210592c9b5a8516ddb5f6a409443
+339-U1386C-13R-CC-PAL-FORAM,339,U1386,C,13,13-CC,R,CC,PAL,FORAM,0,5,478.02,478.07,,,R,,,,,,P,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,05bbec1cd477b526ca5d0a2a8c56918c
+339-U1386C-14R-CC-PAL-FORAM,339,U1386,C,14,14-CC,R,CC,PAL,FORAM,0,5,486.54,486.59,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,R,,,,,,,,,,,,e949a8b30655929672f5da6afe702d66
+339-U1386C-15R-CC-PAL-FORAM,339,U1386,C,15,15-CC,R,CC,PAL,FORAM,0,5,498.36,498.41,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,R,,,,,,,,,,,,d5c26fb84bf8f05cb4b0436ffe1e8435
+339-U1386C-16R-CC-PAL-FORAM,339,U1386,C,16,16-CC,R,CC,PAL,FORAM,0,5,508.23,508.28,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,f660feadb582546eb3554dbb43593b98
+339-U1386C-17R-CC-PAL-FORAM,339,U1386,C,17,17-CC,R,CC,PAL,FORAM,0,5,517.28,517.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,3c655aa0b4a610cc42ddaa9587261ed6
+339-U1386C-18R-CC-PAL-FORAM,339,U1386,C,18,18-CC,R,CC,PAL,FORAM,0,5,525.14,525.19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,,,,,,P,,,,,,8a8f6f6fb3cc299e77903c830b44195a

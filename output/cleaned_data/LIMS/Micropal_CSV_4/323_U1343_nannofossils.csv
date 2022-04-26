@@ -1,118 +1,118 @@
-Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. pseudoumbilica (>7 microns),R.pseudoumbilica (5-7 microns),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W,Sample
-323,U1343,A,1,H,CC,,0,10,5.38,5.48,,R,M-G,,,,,,R,,,,,,,,,Slight etching in C. pelagicus,,323-U1343A-1H-CC-nan
-323,U1343,A,2,H,CC,,0,10,14.92,15.02,,B,,,,,,,,,,,,,,,,Thoracosphaera spp.,,323-U1343A-2H-CC-nan
-323,U1343,A,3,H,CC,,0,13,24.6,24.73,NN21,R,M-G,R,,,,,R,,,,,,,,,Slight etching in C. pelagicus,,323-U1343A-3H-CC-nan
-323,U1343,A,4,H,CC,,30,40,34.66,34.76,,R,M,,,R,,R,,,,,,,,,,,,323-U1343A-4H-CC-nan
-323,U1343,A,5,H,CC,,36,46,43.91,44.01,,B,B,,,,,,,,,,,,,,,,,323-U1343A-5H-CC-nan
-323,U1343,A,6,H,CC,,32,42,53.92,54.02,,B,,,,,,,,,,,,,,,,,,323-U1343A-6H-CC-nan
-323,U1343,A,7,H,CC,,46,56,62.19,62.29,,B,,,,,,,,,,,,,,,,,,323-U1343A-7H-CC-nan
-323,U1343,A,8,H,4,W,55,57,66.78,66.8,,B,,,,,,,,,,,,,,,,"Great quantity of tubular minerals, 4-6 microns (L), 1 micron (W), low birrefringence",,323-U1343A-8H-4-nan
-323,U1343,A,8,H,CC,,41,51,71.79,71.89,,B,,,,,,,,,,,,,,,,,,323-U1343A-8H-CC-nan
-323,U1343,A,9,H,CC,,38,48,81.9,82,,B,,,,,,,,,,,,,,,,,,323-U1343A-9H-CC-nan
-323,U1343,A,10,H,6,W,52,54,88.72,88.74,,B,,,,,,,,,,,,,,,,,,323-U1343A-10H-6-nan
-323,U1343,A,10,H,CC,,47,57,90.9,91,,B,,,,,,,,,,,,,,,,Reworked specimen (C. pliopelagicus),,323-U1343A-10H-CC-nan
-323,U1343,A,11,H,CC,,47,57,100.5,100.6,,B,,,,,,,,,,,,,,,,,,323-U1343A-11H-CC-nan
-323,U1343,A,12,H,6,W,67,67,108,108,,R,G,,,,,R,,,,,,,,,,Reworked specimens (Sphenolithus sp. Early to Middle Miocene),,323-U1343A-12H-6-nan
-323,U1343,A,12,H,6,W,75,75,108.08,108.08,,R,M-G,,,R,,R,R,,,,,,,,R,,,323-U1343A-12H-6-nan
-323,U1343,A,12,H,7,W,10,10,108.93,108.93,,A,G,,,A,,D,C,,,,,,,,,"Gephyrocapsids mostly G. caribbeanica. Abundant coccospheres. More than 10, usually more than 25 specimens per FOV",,323-U1343A-12H-7-nan
-323,U1343,A,12,H,7,W,35,37,109.18,109.2,,A,G,,,A,,D,A,,,,,,,,,"Gephyrocapsids mostly G. caribbeanica. More than 10 specimens per FOV. Frequent C. pelagicus >10 microns; B. bigelowii, Syracosphaera sp.",,323-U1343A-12H-7-nan
-323,U1343,A,12,H,7,W,46,46,109.29,109.29,NN19,C,M-G,,R,C,,C,R,,,,,,,,R,Gephyrocapsids are G. caribbeanica. More terrigenous material.,,323-U1343A-12H-7-nan
-323,U1343,A,12,H,CC,,22,32,110.42,110.52,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343A-12H-CC-nan
-323,U1343,A,13,H,CC,,35,45,119.32,119.42,,R,M,,,R,,,,,,,,,,,,,,323-U1343A-13H-CC-nan
-323,U1343,A,14,H,CC,,60,70,128.86,128.96,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343A-14H-CC-nan
-323,U1343,A,15,H,CC,,48,58,139.06,139.16,,B,,,,,,,,,,,,,,,,,,323-U1343A-15H-CC-nan
-323,U1343,A,16,H,CC,,70,80,147.11,147.21,,R,M-G,,,,,,,,,,,,R,,,,,323-U1343A-16H-CC-nan
-323,U1343,A,17,H,CC,,13,23,157.29,157.39,,R,M,,,,,R,R,,,,,,,,,Etching in C. pelagicus,,323-U1343A-17H-CC-nan
-323,U1343,A,18,H,CC,,49,59,166.12,166.22,,F,M,,,,,,F,,,,,,,,,Etching in C. pelagicus,,323-U1343A-18H-CC-nan
-323,U1343,A,19,H,CC,,46,56,173.8,173.9,,B,,,,,,,,,,,,,,,,,,323-U1343A-19H-CC-nan
-323,U1343,A,20,H,CC,,42,52,181.96,182.06,,B,,,,,,,,,,,,,,,,,,323-U1343A-20H-CC-nan
-323,U1343,A,21,H,CC,,47,57,191.5,191.6,,R,P,,,,,,R,,,,,,,,,Extreme etching in C. pelagicus,,323-U1343A-21H-CC-nan
-323,U1343,A,22,H,CC,,48,58,201.66,201.76,,R,P,,,,,,,,,,,,,,,,,323-U1343A-22H-CC-nan
-323,U1343,C,1,H,CC,,5,15,7.14,7.24,,R,M-G,,,,,,R,,,,,,,,,,,323-U1343C-1H-CC-nan
-323,U1343,C,2,H,CC,,5,15,16.57,16.67,,B,,,,,,,,,,,,,,,,,,323-U1343C-2H-CC-nan
-323,U1343,C,3,H,CC,,14,24,26.5,26.6,,B,,,,,,,,,,,,,,,,,,323-U1343C-3H-CC-nan
-323,U1343,C,4,H,CC,,21,31,36.3,36.4,,B,,,,,,,,,,,,,,,,,,323-U1343C-4H-CC-nan
-323,U1343,C,5,H,CC,,19,29,44.65,44.75,,R,P,,,,,,,,,,,,,,,,,323-U1343C-5H-CC-nan
-323,U1343,C,6,H,CC,,25,35,55.41,55.51,,B,,,,,,,,,,,,,,,,,,323-U1343C-6H-CC-nan
-323,U1343,C,7,H,CC,,33,43,63.81,63.91,,B,,,,,,,,,,,,,,,,,,323-U1343C-7H-CC-nan
-323,U1343,C,8,H,3,W,25,25,67.35,67.35,,A,M-G,,,,,F,A,,,,,,,F,R,Etching and overgrowth in specimens present in sample,,323-U1343C-8H-3-nan
-323,U1343,C,8,H,CC,,29,39,70.58,70.68,,R,M-G,,,,,,R,,,,,,,,R,,,323-U1343C-8H-CC-nan
-323,U1343,C,9,H,CC,,39,49,78.25,78.35,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343C-9H-CC-nan
-323,U1343,C,10,H,CC,,30,40,87.58,87.68,,A,G,,,R,,A,A,,,,,,,,,Medium Gephyrocapsa is G. muellerae; Syracosphaera spp.,,323-U1343C-10H-CC-nan
-323,U1343,C,11,H,CC,,26,36,97.44,97.54,,B,,,,,,,,,,,,,,,,,,323-U1343C-11H-CC-nan
-323,U1343,C,12,H,CC,,27,37,106.58,106.68,,B,,,,,,,,,,,,,,,,,,323-U1343C-12H-CC-nan
-323,U1343,C,13,H,CC,,38,48,116,116.1,,B,,,,,,,,,,,,,,,,,,323-U1343C-13H-CC-nan
-323,U1343,C,14,H,CC,,33,43,124.55,124.65,,F,M-G,,,R,,F,,,,,,,,,,,,323-U1343C-14H-CC-nan
-323,U1343,C,15,H,CC,,29,39,134.94,135.04,,A,M,,,A,,D,F,,,,,,,,,Severe etching. Small pieces might be fragments. More than 15 coccoliths per FOV,,323-U1343C-15H-CC-nan
-323,U1343,C,17,H,CC,,27,37,153.3,153.4,,R,M-G,,,,,,R,,,,,,,,,,,323-U1343C-17H-CC-nan
-323,U1343,C,18,H,CC,,63,73,163.05,163.15,,B,,,,,,,,,,,,,,,,,,323-U1343C-18H-CC-nan
-323,U1343,C,19,H,CC,,32,42,171.89,171.99,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343C-19H-CC-nan
-323,U1343,C,20,H,CC,,74,84,182.11,182.21,,B,,,,,,,,,,,,,,,,,,323-U1343C-20H-CC-nan
-323,U1343,C,21,H,CC,,18,28,192.05,192.15,,B,,,,,,,,,,,,,,,,,,323-U1343C-21H-CC-nan
-323,U1343,C,22,H,CC,,33,43,196.06,196.16,,B,,,,,,,,,,,,,,,,,,323-U1343C-22H-CC-nan
-323,U1343,C,23,H,CC,,16,26,205.35,205.45,,B,,,,,,,,,,,,,,,,,,323-U1343C-23H-CC-nan
-323,U1343,C,24,H,CC,,33,43,215.44,215.54,,B,,,,,,,,,,,,,,,,,,323-U1343C-24H-CC-nan
-323,U1343,C,25,H,CC,,31,41,224.67,224.77,,B,,,,,,,,,,,,,,,,,,323-U1343C-25H-CC-nan
-323,U1343,C,26,H,CC,,21,31,234.62,234.72,,B,,,,,,,,,,,,,,,,,,323-U1343C-26H-CC-nan
-323,U1343,E,1,H,CC,,3,13,8.12,8.22,,F,M,,,,,,F,,,,,,,,,,,323-U1343E-1H-CC-nan
-323,U1343,E,2,H,CC,,0,10,17.7,17.8,,B,,,,,,,,,,,,,,,,,,323-U1343E-2H-CC-nan
-323,U1343,E,3,H,CC,,10,20,26.3,26.4,,R,P,,,,,,R,,,,,,,,,,,323-U1343E-3H-CC-nan
-323,U1343,E,4,H,CC,,23,33,37.07,37.17,,R,M-G,,,,,R,R,,,,,,,,,,,323-U1343E-4H-CC-nan
-323,U1343,E,5,H,CC,,17,27,42.96,43.06,,B,,,,,,,,,,,,,,,,,,323-U1343E-5H-CC-nan
-323,U1343,E,6,H,CC,,23,33,55.45,55.55,,R,M-G,,,,,R,R,,,,,,,,,,,323-U1343E-6H-CC-nan
-323,U1343,E,7,H,CC,,45,55,63.9,64,,F,M,,,R,,R,F,,,,,,,,R,,,323-U1343E-7H-CC-nan
-323,U1343,E,8,H,CC,,25,35,74.79,74.89,,B,,,,,,,,,,,,,,,,Small acicular or tubular minerals with low birrefringence,,323-U1343E-8H-CC-nan
-323,U1343,E,9,H,CC,,49,59,84.05,84.15,,R,M-G,,,,,R,R,,,,,,,,,,,323-U1343E-9H-CC-nan
-323,U1343,E,10,H,CC,,25,35,90.98,91.08,,R,M-G,,,R,,R,,,,,,,,,,,,323-U1343E-10H-CC-nan
-323,U1343,E,11,H,CC,,24,34,101.67,101.77,,R,M-G,,,R,,,,,,,,,,,,,,323-U1343E-11H-CC-nan
-323,U1343,E,12,H,CC,,39,49,106.59,106.69,,F,P,,,R,,R,F,,,,,,,F,,"Small acicular minerals, low birrefringence, around 3 microns (L) x 0.5 microns (W)",,323-U1343E-12H-CC-nan
-323,U1343,E,14,H,CC,,5,15,115.95,116.05,,R,M,,,R,,R,R,,,,,,,,,Small acicular minerals,,323-U1343E-14H-CC-nan
-323,U1343,E,15,H,CC,,45,55,123.35,123.45,,R,M-G,,,R,,R,,,,,,,,,,Small acicular minerals,,323-U1343E-15H-CC-nan
-323,U1343,E,16,H,CC,,31,41,129.46,129.56,,R,M-G,,,,,,R,,,,,,,,,,,323-U1343E-16H-CC-nan
-323,U1343,E,17,H,CC,,30,40,138.34,138.44,,B,,,,,,,,,,,,,,,,,,323-U1343E-17H-CC-nan
-323,U1343,E,18,H,CC,,0,10,148.21,148.31,,B,,,,,,,,,,,,,,,,Reworked specimen Sphenolithus moriformis (Miocene),,323-U1343E-18H-CC-nan
-323,U1343,E,19,H,CC,,24,34,155.87,155.97,,R,M-G,,,,,R,,,,,,,,,,Reworked specimen (Dictyococcites sp. possibly  pre-Miocene),,323-U1343E-19H-CC-nan
-323,U1343,E,20,H,CC,,24,34,164.89,164.99,,B,,,,,,,,,,,,,,,,Small acicular  and tubular minerals,,323-U1343E-20H-CC-nan
-323,U1343,E,21,H,CC,,0,10,175.07,175.17,,B,,,,,,,,,,,,,,,,,,323-U1343E-21H-CC-nan
-323,U1343,E,22,H,1,W,117,117,176.17,176.17,,A,M-G,,,C,,D,A,,,,,,,,,,,323-U1343E-22H-1-nan
-323,U1343,E,22,H,3,W,75,75,178.57,178.57,,B,,,,,,,,,,,,,,,,,,323-U1343E-22H-3-nan
-323,U1343,E,22,H,CC,,29,39,183.76,183.86,,B,,,,,,,,,,,,,,,,,,323-U1343E-22H-CC-nan
-323,U1343,E,23,H,CC,,49,59,193.31,193.41,,B,,,,,,,,,,,,,,,,,,323-U1343E-23H-CC-nan
-323,U1343,E,24,H,CC,,32,42,197.47,197.57,,B,,,,,,,,,,,,,,,,,,323-U1343E-24H-CC-nan
-323,U1343,E,25,H,CC,,19,29,207.99,208.09,,B,,,,,,,,,,,,,,,,,,323-U1343E-25H-CC-nan
-323,U1343,E,26,H,CC,,34,44,217.04,217.14,,B,,,,,,,,,,,,,,,,,,323-U1343E-26H-CC-nan
-323,U1343,E,27,H,CC,,5,15,226.01,226.11,,B,,,,,,,,,,,,,,,,,,323-U1343E-27H-CC-nan
-323,U1343,E,28,H,CC,,45,55,234.72,234.82,,B,,,,,,,,,,,,,,,,,,323-U1343E-28H-CC-nan
-323,U1343,E,29,H,CC,,30,40,245.49,245.59,,B,,,,,,,,,,,,,,,,Reworked specimens (unidentified),,323-U1343E-29H-CC-nan
-323,U1343,E,30,H,CC,,25,35,254.21,254.31,,B,,,,,,,,,,,,,,,,,,323-U1343E-30H-CC-nan
-323,U1343,E,31,H,CC,,16,26,263.75,263.85,,B,,,,,,,,,,,,,,,,,,323-U1343E-31H-CC-nan
-323,U1343,E,32,H,CC,,16,26,272.49,272.59,,B,,,,,,,,,,,,,,,,,,323-U1343E-32H-CC-nan
-323,U1343,E,33,H,CC,,79,89,282.2,282.3,,B,,,,,,,,,,,,,,,,,,323-U1343E-33H-CC-nan
-323,U1343,E,34,H,CC,,50,60,291.18,291.28,,B,,,,,,,,,,,,,,,,,,323-U1343E-34H-CC-nan
-323,U1343,E,35,H,CC,,22,32,301.39,301.49,,R,M-G,,,R,,,R,,,,,,,,,Reworked specimens (unidentified),,323-U1343E-35H-CC-nan
-323,U1343,E,36,H,CC,,46,56,311.1,311.2,,B,,,,,,,,,,,,,,,,,,323-U1343E-36H-CC-nan
-323,U1343,E,37,H,CC,,77,87,320.19,320.29,,B,,,,,,,,,,,,,,,,,,323-U1343E-37H-CC-nan
-323,U1343,E,38,H,CC,,23,33,329.74,329.84,,B,,,,,,,,,,,,,,,,,,323-U1343E-38H-CC-nan
-323,U1343,E,39,H,CC,,25,35,338.41,338.51,,B,,,,,,,,,,,,,,,,,,323-U1343E-39H-CC-nan
-323,U1343,E,41,H,CC,,33,43,354.32,354.42,,R,G,,,,,,,,,,,,,,R,Reworked specimens (unidentified),,323-U1343E-41H-CC-nan
-323,U1343,E,43,X,CC,,31,41,367.32,367.42,,R,M-G,,,,,,,R,,,,,,,,Reworked specimens (unidentified),,323-U1343E-43X-CC-nan
-323,U1343,E,45,X,CC,,30,40,388.26,388.36,,R,M-G,,,,,,,,,,,,,,R,Reworked specimens (unidentified),,323-U1343E-45X-CC-nan
-323,U1343,E,47,H,CC,,27,37,405.99,406.09,,B,,,,,,,,,,,,,,,,,,323-U1343E-47H-CC-nan
-323,U1343,E,49,H,CC,,24,34,418.44,418.54,,B,,,,,,,,,,,,,,,,,,323-U1343E-49H-CC-nan
-323,U1343,E,51,X,CC,,14,24,435.85,435.95,,B,,,,,,,,,,,,,,,,Reworked specimens (unidentified),,323-U1343E-51X-CC-nan
-323,U1343,E,53,X,CC,,11,21,455.88,455.98,,B,,,,,,,,,,,,,,,,,,323-U1343E-53X-CC-nan
-323,U1343,E,55,X,CC,,32,42,475.6,475.7,,B,,,,,,,,,,,,,,,,,,323-U1343E-55X-CC-nan
-323,U1343,E,57,X,CC,,30,40,493.97,494.07,,B,,,,,,,,,,,,,,,,,,323-U1343E-57X-CC-nan
-323,U1343,E,59,X,CC,,24,34,512.52,512.62,,B,,,,,,,,,,,,,,,,,,323-U1343E-59X-CC-nan
-323,U1343,E,61,X,CC,,59,69,532.41,532.51,,B,,,,,,,,,,,,,,,,,,323-U1343E-61X-CC-nan
-323,U1343,E,63,X,CC,,35,45,550.54,550.64,,B,,,,,,,,,,,,,,,,,,323-U1343E-63X-CC-nan
-323,U1343,E,65,X,CC,,36,46,568.77,568.87,,B,,,,,,,,,,,,,,,,,,323-U1343E-65X-CC-nan
-323,U1343,E,67,X,CC,,23,33,588.5,588.6,,B,,,,,,,,,,,,,,,,,,323-U1343E-67X-CC-nan
-323,U1343,E,69,X,CC,,42,52,606.84,606.94,,B,,,,,,,,,,,,,,,,"Acicular minerals, low birrefringence, more than 5 microns long",,323-U1343E-69X-CC-nan
-323,U1343,E,71,X,CC,,31,41,628.16,628.26,,B,,,,,,,,,,,,,,,,Small high birrefringence minerals (dolomite?),,323-U1343E-71X-CC-nan
-323,U1343,E,73,X,CC,,45,55,643.79,643.89,,F,M,,,,,,F,,,,,,,,,Etching in C. pelagicus. Lots of small tubular low birrefringence minerals,,323-U1343E-73X-CC-nan
-323,U1343,E,75,X,CC,,54,64,667.09,667.19,,B,,,,,,,,,,,,,,,,,,323-U1343E-75X-CC-nan
-323,U1343,E,77,X,CC,,11,21,686.37,686.47,,B,,,,,,,,,,,,,,,,,,323-U1343E-77X-CC-nan
-323,U1343,E,79,X,CC,,19,29,705.72,705.82,,B,,,,,,,,,,,,,,,,,,323-U1343E-79X-CC-nan
-323,U1343,E,81,X,CC,,36,46,724.96,725.06,,B,,,,,,,,,,,,,,,,,,323-U1343E-81X-CC-nan
-323,U1343,E,83,X,CC,,30,40,743.9,744,,B,,,,,,,,,,,,,,,,,,323-U1343E-83X-CC-nan
+Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. pseudoumbilica (>7 microns),R.pseudoumbilica (5-7 microns),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W,Sample,eodp_id
+323,U1343,A,1,H,CC,,0,10,5.38,5.48,,R,M-G,,,,,,R,,,,,,,,,Slight etching in C. pelagicus,,323-U1343A-1H-CC-nan,b8e8c846a91bebca6fcffa6433366f73
+323,U1343,A,2,H,CC,,0,10,14.92,15.02,,B,,,,,,,,,,,,,,,,Thoracosphaera spp.,,323-U1343A-2H-CC-nan,785a6784f80f7d881aa82973bf58e00e
+323,U1343,A,3,H,CC,,0,13,24.6,24.73,NN21,R,M-G,R,,,,,R,,,,,,,,,Slight etching in C. pelagicus,,323-U1343A-3H-CC-nan,a172d255f66b5ad896f664032e78f0b6
+323,U1343,A,4,H,CC,,30,40,34.66,34.76,,R,M,,,R,,R,,,,,,,,,,,,323-U1343A-4H-CC-nan,4436a288fc59b17d648a1ff1b21c3f00
+323,U1343,A,5,H,CC,,36,46,43.91,44.01,,B,B,,,,,,,,,,,,,,,,,323-U1343A-5H-CC-nan,be4cb26b0e2483028f76c65e1c6ffc48
+323,U1343,A,6,H,CC,,32,42,53.92,54.02,,B,,,,,,,,,,,,,,,,,,323-U1343A-6H-CC-nan,62c1db82612ba3edefe75883dfa70e83
+323,U1343,A,7,H,CC,,46,56,62.19,62.29,,B,,,,,,,,,,,,,,,,,,323-U1343A-7H-CC-nan,1dc7b61fe3926f511aa943a77f14442f
+323,U1343,A,8,H,4,W,55,57,66.78,66.8,,B,,,,,,,,,,,,,,,,"Great quantity of tubular minerals, 4-6 microns (L), 1 micron (W), low birrefringence",,323-U1343A-8H-4-nan,f9d4ecb2ac61ffd00d59e90edf42177c
+323,U1343,A,8,H,CC,,41,51,71.79,71.89,,B,,,,,,,,,,,,,,,,,,323-U1343A-8H-CC-nan,970a68ac2593698305f52241c52ab7c3
+323,U1343,A,9,H,CC,,38,48,81.9,82,,B,,,,,,,,,,,,,,,,,,323-U1343A-9H-CC-nan,52d9fc89c9617f2cd97e11ec51fede95
+323,U1343,A,10,H,6,W,52,54,88.72,88.74,,B,,,,,,,,,,,,,,,,,,323-U1343A-10H-6-nan,735387f68d734c201407cd9b647d84ad
+323,U1343,A,10,H,CC,,47,57,90.9,91,,B,,,,,,,,,,,,,,,,Reworked specimen (C. pliopelagicus),,323-U1343A-10H-CC-nan,83660a0559d8550735ec28276576f70d
+323,U1343,A,11,H,CC,,47,57,100.5,100.6,,B,,,,,,,,,,,,,,,,,,323-U1343A-11H-CC-nan,b20319b236900dda52f1edc4476b79eb
+323,U1343,A,12,H,6,W,67,67,108,108,,R,G,,,,,R,,,,,,,,,,Reworked specimens (Sphenolithus sp. Early to Middle Miocene),,323-U1343A-12H-6-nan,0518738794ef55a1615b9a79c2360c18
+323,U1343,A,12,H,6,W,75,75,108.08,108.08,,R,M-G,,,R,,R,R,,,,,,,,R,,,323-U1343A-12H-6-nan,2f6cce4becfa4fc84d3ebaf8847715b2
+323,U1343,A,12,H,7,W,10,10,108.93,108.93,,A,G,,,A,,D,C,,,,,,,,,"Gephyrocapsids mostly G. caribbeanica. Abundant coccospheres. More than 10, usually more than 25 specimens per FOV",,323-U1343A-12H-7-nan,de40f1d2222fbb0c7eb60913c815bd6a
+323,U1343,A,12,H,7,W,35,37,109.18,109.2,,A,G,,,A,,D,A,,,,,,,,,"Gephyrocapsids mostly G. caribbeanica. More than 10 specimens per FOV. Frequent C. pelagicus >10 microns; B. bigelowii, Syracosphaera sp.",,323-U1343A-12H-7-nan,241af97f5c3d255160e13880bdd51e7a
+323,U1343,A,12,H,7,W,46,46,109.29,109.29,NN19,C,M-G,,R,C,,C,R,,,,,,,,R,Gephyrocapsids are G. caribbeanica. More terrigenous material.,,323-U1343A-12H-7-nan,fd56791bb803fa589a3121cbc8726c3d
+323,U1343,A,12,H,CC,,22,32,110.42,110.52,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343A-12H-CC-nan,3046921fa54d717a4eabddddc166d434
+323,U1343,A,13,H,CC,,35,45,119.32,119.42,,R,M,,,R,,,,,,,,,,,,,,323-U1343A-13H-CC-nan,7ad8f17a04e66b0907923505405626b5
+323,U1343,A,14,H,CC,,60,70,128.86,128.96,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343A-14H-CC-nan,153fb50acfe95bd1b1ade31a684da418
+323,U1343,A,15,H,CC,,48,58,139.06,139.16,,B,,,,,,,,,,,,,,,,,,323-U1343A-15H-CC-nan,ef7c7600fa7f951a9719e440e7b60c43
+323,U1343,A,16,H,CC,,70,80,147.11,147.21,,R,M-G,,,,,,,,,,,,R,,,,,323-U1343A-16H-CC-nan,e07c938c64a3c9198fd5aa99f7d6ebd7
+323,U1343,A,17,H,CC,,13,23,157.29,157.39,,R,M,,,,,R,R,,,,,,,,,Etching in C. pelagicus,,323-U1343A-17H-CC-nan,933ebefb4ff024814c8b484cc032fdd4
+323,U1343,A,18,H,CC,,49,59,166.12,166.22,,F,M,,,,,,F,,,,,,,,,Etching in C. pelagicus,,323-U1343A-18H-CC-nan,22bd49941a303984ae12e2272188ae7e
+323,U1343,A,19,H,CC,,46,56,173.8,173.9,,B,,,,,,,,,,,,,,,,,,323-U1343A-19H-CC-nan,7aa00a3298939b7ba0d299114bb4f7e4
+323,U1343,A,20,H,CC,,42,52,181.96,182.06,,B,,,,,,,,,,,,,,,,,,323-U1343A-20H-CC-nan,1f50e4555002f8e7ca51232945b830fe
+323,U1343,A,21,H,CC,,47,57,191.5,191.6,,R,P,,,,,,R,,,,,,,,,Extreme etching in C. pelagicus,,323-U1343A-21H-CC-nan,143c04fa68317e2ebd562af6237e82bb
+323,U1343,A,22,H,CC,,48,58,201.66,201.76,,R,P,,,,,,,,,,,,,,,,,323-U1343A-22H-CC-nan,622907fbd73a490ee7d40ba397df1acf
+323,U1343,C,1,H,CC,,5,15,7.14,7.24,,R,M-G,,,,,,R,,,,,,,,,,,323-U1343C-1H-CC-nan,69cf7dbd10d4bd0e3c62846e7b82e093
+323,U1343,C,2,H,CC,,5,15,16.57,16.67,,B,,,,,,,,,,,,,,,,,,323-U1343C-2H-CC-nan,8dc8ad9f43472f683a7afbe2df0fcf58
+323,U1343,C,3,H,CC,,14,24,26.5,26.6,,B,,,,,,,,,,,,,,,,,,323-U1343C-3H-CC-nan,9dbda0c2f783a1049230e3c7ccc0e6da
+323,U1343,C,4,H,CC,,21,31,36.3,36.4,,B,,,,,,,,,,,,,,,,,,323-U1343C-4H-CC-nan,6e33a657137500c3709567ab5bfc2990
+323,U1343,C,5,H,CC,,19,29,44.65,44.75,,R,P,,,,,,,,,,,,,,,,,323-U1343C-5H-CC-nan,0cff7f6d1897b10a59f1133d0950c7cd
+323,U1343,C,6,H,CC,,25,35,55.41,55.51,,B,,,,,,,,,,,,,,,,,,323-U1343C-6H-CC-nan,e47fc3a9da2e0586622a5b3b6abd2d2c
+323,U1343,C,7,H,CC,,33,43,63.81,63.91,,B,,,,,,,,,,,,,,,,,,323-U1343C-7H-CC-nan,3323507d93d996473a29c54524f63687
+323,U1343,C,8,H,3,W,25,25,67.35,67.35,,A,M-G,,,,,F,A,,,,,,,F,R,Etching and overgrowth in specimens present in sample,,323-U1343C-8H-3-nan,b8405d6137acdbe244d4c626b08910a9
+323,U1343,C,8,H,CC,,29,39,70.58,70.68,,R,M-G,,,,,,R,,,,,,,,R,,,323-U1343C-8H-CC-nan,94c2be8469405f957977a547eb93dfde
+323,U1343,C,9,H,CC,,39,49,78.25,78.35,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343C-9H-CC-nan,248fd5ffd2eb86460fdac1ca2efdd74e
+323,U1343,C,10,H,CC,,30,40,87.58,87.68,,A,G,,,R,,A,A,,,,,,,,,Medium Gephyrocapsa is G. muellerae; Syracosphaera spp.,,323-U1343C-10H-CC-nan,84c7cb73f3eab888b2d03565f8b402dd
+323,U1343,C,11,H,CC,,26,36,97.44,97.54,,B,,,,,,,,,,,,,,,,,,323-U1343C-11H-CC-nan,9502c944586fe05af7d7371da5936167
+323,U1343,C,12,H,CC,,27,37,106.58,106.68,,B,,,,,,,,,,,,,,,,,,323-U1343C-12H-CC-nan,c907fa37c1259c01d8c87b76086f34a7
+323,U1343,C,13,H,CC,,38,48,116,116.1,,B,,,,,,,,,,,,,,,,,,323-U1343C-13H-CC-nan,7540511b1efc0a3288d81d3b0dffe2e2
+323,U1343,C,14,H,CC,,33,43,124.55,124.65,,F,M-G,,,R,,F,,,,,,,,,,,,323-U1343C-14H-CC-nan,8c36b13f0f884c5f914857e219bf138c
+323,U1343,C,15,H,CC,,29,39,134.94,135.04,,A,M,,,A,,D,F,,,,,,,,,Severe etching. Small pieces might be fragments. More than 15 coccoliths per FOV,,323-U1343C-15H-CC-nan,1693ef63fbfcbd437a3dc3fcbea7891d
+323,U1343,C,17,H,CC,,27,37,153.3,153.4,,R,M-G,,,,,,R,,,,,,,,,,,323-U1343C-17H-CC-nan,128d78136e1a0422469b17ad71d59a9f
+323,U1343,C,18,H,CC,,63,73,163.05,163.15,,B,,,,,,,,,,,,,,,,,,323-U1343C-18H-CC-nan,a0bba91cd6567db2a387567f9f9b06b3
+323,U1343,C,19,H,CC,,32,42,171.89,171.99,,R,M-G,,,,,R,,,,,,,,,,,,323-U1343C-19H-CC-nan,fc87d37ff4190da215782f470a295429
+323,U1343,C,20,H,CC,,74,84,182.11,182.21,,B,,,,,,,,,,,,,,,,,,323-U1343C-20H-CC-nan,9089a5c6c5a4c4430aa4c4fcd03582f4
+323,U1343,C,21,H,CC,,18,28,192.05,192.15,,B,,,,,,,,,,,,,,,,,,323-U1343C-21H-CC-nan,96c3829f2afca53f76226294f32ca5f7
+323,U1343,C,22,H,CC,,33,43,196.06,196.16,,B,,,,,,,,,,,,,,,,,,323-U1343C-22H-CC-nan,d81b4ef22c5cd9410a30dfb1c09ffafc
+323,U1343,C,23,H,CC,,16,26,205.35,205.45,,B,,,,,,,,,,,,,,,,,,323-U1343C-23H-CC-nan,62fc576a5fc725b1a3724d69345f0d30
+323,U1343,C,24,H,CC,,33,43,215.44,215.54,,B,,,,,,,,,,,,,,,,,,323-U1343C-24H-CC-nan,e82645561eb1fe1c4168924c94c99c05
+323,U1343,C,25,H,CC,,31,41,224.67,224.77,,B,,,,,,,,,,,,,,,,,,323-U1343C-25H-CC-nan,da806583a3a6f43ca8fb7a967223d512
+323,U1343,C,26,H,CC,,21,31,234.62,234.72,,B,,,,,,,,,,,,,,,,,,323-U1343C-26H-CC-nan,74696d4658ba7d9b62446bc0aa13cd60
+323,U1343,E,1,H,CC,,3,13,8.12,8.22,,F,M,,,,,,F,,,,,,,,,,,323-U1343E-1H-CC-nan,6342b266cf9955bda32f686c180ff1c8
+323,U1343,E,2,H,CC,,0,10,17.7,17.8,,B,,,,,,,,,,,,,,,,,,323-U1343E-2H-CC-nan,f21249756e4f0571448c12fb2f68e6f0
+323,U1343,E,3,H,CC,,10,20,26.3,26.4,,R,P,,,,,,R,,,,,,,,,,,323-U1343E-3H-CC-nan,2c9960ff99b0478d3a243be51cd250fc
+323,U1343,E,4,H,CC,,23,33,37.07,37.17,,R,M-G,,,,,R,R,,,,,,,,,,,323-U1343E-4H-CC-nan,2240add595270df44fbcb5c00cb32834
+323,U1343,E,5,H,CC,,17,27,42.96,43.06,,B,,,,,,,,,,,,,,,,,,323-U1343E-5H-CC-nan,9f14650a4a6240c6fa9fbd5476617c00
+323,U1343,E,6,H,CC,,23,33,55.45,55.55,,R,M-G,,,,,R,R,,,,,,,,,,,323-U1343E-6H-CC-nan,4b412ec0860d9c05c6fad538c81971e5
+323,U1343,E,7,H,CC,,45,55,63.9,64,,F,M,,,R,,R,F,,,,,,,,R,,,323-U1343E-7H-CC-nan,fae5c56507d4077c48c884619f06a5bd
+323,U1343,E,8,H,CC,,25,35,74.79,74.89,,B,,,,,,,,,,,,,,,,Small acicular or tubular minerals with low birrefringence,,323-U1343E-8H-CC-nan,f4e78c6a2623d4bd6fe0e3a147430d16
+323,U1343,E,9,H,CC,,49,59,84.05,84.15,,R,M-G,,,,,R,R,,,,,,,,,,,323-U1343E-9H-CC-nan,8c1f36be360d4d28d897720915287a5a
+323,U1343,E,10,H,CC,,25,35,90.98,91.08,,R,M-G,,,R,,R,,,,,,,,,,,,323-U1343E-10H-CC-nan,649f030e51521a52dde3972dc1d8f13f
+323,U1343,E,11,H,CC,,24,34,101.67,101.77,,R,M-G,,,R,,,,,,,,,,,,,,323-U1343E-11H-CC-nan,49761e772e626df1122d34c5b58ba026
+323,U1343,E,12,H,CC,,39,49,106.59,106.69,,F,P,,,R,,R,F,,,,,,,F,,"Small acicular minerals, low birrefringence, around 3 microns (L) x 0.5 microns (W)",,323-U1343E-12H-CC-nan,3ad2e5c2c23131ebea3c2d2750ded4b4
+323,U1343,E,14,H,CC,,5,15,115.95,116.05,,R,M,,,R,,R,R,,,,,,,,,Small acicular minerals,,323-U1343E-14H-CC-nan,a6bbec2ffbfe02c45d78a0d6ffec3bfd
+323,U1343,E,15,H,CC,,45,55,123.35,123.45,,R,M-G,,,R,,R,,,,,,,,,,Small acicular minerals,,323-U1343E-15H-CC-nan,4b85afbbd88b264d018d95f9fca8e73a
+323,U1343,E,16,H,CC,,31,41,129.46,129.56,,R,M-G,,,,,,R,,,,,,,,,,,323-U1343E-16H-CC-nan,88b97490ec6cb2dd7e3127b9e5927b77
+323,U1343,E,17,H,CC,,30,40,138.34,138.44,,B,,,,,,,,,,,,,,,,,,323-U1343E-17H-CC-nan,8c15faee92856598954be7875752a553
+323,U1343,E,18,H,CC,,0,10,148.21,148.31,,B,,,,,,,,,,,,,,,,Reworked specimen Sphenolithus moriformis (Miocene),,323-U1343E-18H-CC-nan,da685caee1b15214edab477229bdd7b3
+323,U1343,E,19,H,CC,,24,34,155.87,155.97,,R,M-G,,,,,R,,,,,,,,,,Reworked specimen (Dictyococcites sp. possibly  pre-Miocene),,323-U1343E-19H-CC-nan,06204e3cf62eedce2cc0f175f8432f70
+323,U1343,E,20,H,CC,,24,34,164.89,164.99,,B,,,,,,,,,,,,,,,,Small acicular  and tubular minerals,,323-U1343E-20H-CC-nan,2d30f6325dc7b5d8022991a656baa1b3
+323,U1343,E,21,H,CC,,0,10,175.07,175.17,,B,,,,,,,,,,,,,,,,,,323-U1343E-21H-CC-nan,d5e3d703045dc2cca613ab2994b90dfd
+323,U1343,E,22,H,1,W,117,117,176.17,176.17,,A,M-G,,,C,,D,A,,,,,,,,,,,323-U1343E-22H-1-nan,e51caee7a4dcae5e2fd8845a496b79cb
+323,U1343,E,22,H,3,W,75,75,178.57,178.57,,B,,,,,,,,,,,,,,,,,,323-U1343E-22H-3-nan,116691cfac1bdf47e202bbe5d06e2f7a
+323,U1343,E,22,H,CC,,29,39,183.76,183.86,,B,,,,,,,,,,,,,,,,,,323-U1343E-22H-CC-nan,475e53d1e313b3da7b13000ec3a08306
+323,U1343,E,23,H,CC,,49,59,193.31,193.41,,B,,,,,,,,,,,,,,,,,,323-U1343E-23H-CC-nan,8df1dece79ea458c0d4f376959ed8ba0
+323,U1343,E,24,H,CC,,32,42,197.47,197.57,,B,,,,,,,,,,,,,,,,,,323-U1343E-24H-CC-nan,acf8245dca2a6fa392fce45640aa804e
+323,U1343,E,25,H,CC,,19,29,207.99,208.09,,B,,,,,,,,,,,,,,,,,,323-U1343E-25H-CC-nan,36c3ea70eec0dbd3e484a408c240c348
+323,U1343,E,26,H,CC,,34,44,217.04,217.14,,B,,,,,,,,,,,,,,,,,,323-U1343E-26H-CC-nan,017437bb7b30879cf79411c3f19eb1f8
+323,U1343,E,27,H,CC,,5,15,226.01,226.11,,B,,,,,,,,,,,,,,,,,,323-U1343E-27H-CC-nan,a73b487df9cbd4e8eff5bb365b95ec65
+323,U1343,E,28,H,CC,,45,55,234.72,234.82,,B,,,,,,,,,,,,,,,,,,323-U1343E-28H-CC-nan,81b1c9ddcbc9dfb265049b6cb4653642
+323,U1343,E,29,H,CC,,30,40,245.49,245.59,,B,,,,,,,,,,,,,,,,Reworked specimens (unidentified),,323-U1343E-29H-CC-nan,89815d167ed1426034a9b0a2f1a68c62
+323,U1343,E,30,H,CC,,25,35,254.21,254.31,,B,,,,,,,,,,,,,,,,,,323-U1343E-30H-CC-nan,43b2f6fc6ba50437073cd9c159e9afb5
+323,U1343,E,31,H,CC,,16,26,263.75,263.85,,B,,,,,,,,,,,,,,,,,,323-U1343E-31H-CC-nan,81848384a98ccbf37c7cbd5d42151c6d
+323,U1343,E,32,H,CC,,16,26,272.49,272.59,,B,,,,,,,,,,,,,,,,,,323-U1343E-32H-CC-nan,786ade5d9f12f617473abbe51a8a0d66
+323,U1343,E,33,H,CC,,79,89,282.2,282.3,,B,,,,,,,,,,,,,,,,,,323-U1343E-33H-CC-nan,cde73b424898d262fb99011c913a3f8c
+323,U1343,E,34,H,CC,,50,60,291.18,291.28,,B,,,,,,,,,,,,,,,,,,323-U1343E-34H-CC-nan,318590c2393fc62c901b852079395f06
+323,U1343,E,35,H,CC,,22,32,301.39,301.49,,R,M-G,,,R,,,R,,,,,,,,,Reworked specimens (unidentified),,323-U1343E-35H-CC-nan,20d1fd494a03c62d3a44ffb1a3b8ec84
+323,U1343,E,36,H,CC,,46,56,311.1,311.2,,B,,,,,,,,,,,,,,,,,,323-U1343E-36H-CC-nan,5cdff1146efee00da0b57fe17591b1e8
+323,U1343,E,37,H,CC,,77,87,320.19,320.29,,B,,,,,,,,,,,,,,,,,,323-U1343E-37H-CC-nan,15a3d3c4ed5a80ce4c53a9b5d3bb5076
+323,U1343,E,38,H,CC,,23,33,329.74,329.84,,B,,,,,,,,,,,,,,,,,,323-U1343E-38H-CC-nan,dc25c0627390a0088e34d37a3b28fee4
+323,U1343,E,39,H,CC,,25,35,338.41,338.51,,B,,,,,,,,,,,,,,,,,,323-U1343E-39H-CC-nan,71e49c14493a5702c5ef3668eb3b36ca
+323,U1343,E,41,H,CC,,33,43,354.32,354.42,,R,G,,,,,,,,,,,,,,R,Reworked specimens (unidentified),,323-U1343E-41H-CC-nan,de72b5912b702bf4b57bc906dd0a13b7
+323,U1343,E,43,X,CC,,31,41,367.32,367.42,,R,M-G,,,,,,,R,,,,,,,,Reworked specimens (unidentified),,323-U1343E-43X-CC-nan,c5461481f87933e94bf8d7b5a6877e92
+323,U1343,E,45,X,CC,,30,40,388.26,388.36,,R,M-G,,,,,,,,,,,,,,R,Reworked specimens (unidentified),,323-U1343E-45X-CC-nan,e8e963d2b3a9df4827832e2d86a34564
+323,U1343,E,47,H,CC,,27,37,405.99,406.09,,B,,,,,,,,,,,,,,,,,,323-U1343E-47H-CC-nan,45f5b10dd0f15ff0dcdf3dee66b6b47d
+323,U1343,E,49,H,CC,,24,34,418.44,418.54,,B,,,,,,,,,,,,,,,,,,323-U1343E-49H-CC-nan,189afddd6dea5c9efa6bc435d3148ca7
+323,U1343,E,51,X,CC,,14,24,435.85,435.95,,B,,,,,,,,,,,,,,,,Reworked specimens (unidentified),,323-U1343E-51X-CC-nan,9b7546fc73b19de78fefecd99e8a99cc
+323,U1343,E,53,X,CC,,11,21,455.88,455.98,,B,,,,,,,,,,,,,,,,,,323-U1343E-53X-CC-nan,1da340629c53d4eb5661a0aa42b178fc
+323,U1343,E,55,X,CC,,32,42,475.6,475.7,,B,,,,,,,,,,,,,,,,,,323-U1343E-55X-CC-nan,de0eabf4f67e18d7206d447e7079c6d9
+323,U1343,E,57,X,CC,,30,40,493.97,494.07,,B,,,,,,,,,,,,,,,,,,323-U1343E-57X-CC-nan,3c286df82896c319f6acd09ab351caab
+323,U1343,E,59,X,CC,,24,34,512.52,512.62,,B,,,,,,,,,,,,,,,,,,323-U1343E-59X-CC-nan,17fc6d6abccfcf6326b7891e985ebfa6
+323,U1343,E,61,X,CC,,59,69,532.41,532.51,,B,,,,,,,,,,,,,,,,,,323-U1343E-61X-CC-nan,24c7741d2f0013987b59e602de08f8f9
+323,U1343,E,63,X,CC,,35,45,550.54,550.64,,B,,,,,,,,,,,,,,,,,,323-U1343E-63X-CC-nan,f880c94ef80fe0465156002c75a9f0fd
+323,U1343,E,65,X,CC,,36,46,568.77,568.87,,B,,,,,,,,,,,,,,,,,,323-U1343E-65X-CC-nan,f8614586b559c7b1aedf961fa8a5f0b8
+323,U1343,E,67,X,CC,,23,33,588.5,588.6,,B,,,,,,,,,,,,,,,,,,323-U1343E-67X-CC-nan,f67cfbc8eb37edca8f635cc3e9f609d5
+323,U1343,E,69,X,CC,,42,52,606.84,606.94,,B,,,,,,,,,,,,,,,,"Acicular minerals, low birrefringence, more than 5 microns long",,323-U1343E-69X-CC-nan,752797d08b396eab3350a266024b1821
+323,U1343,E,71,X,CC,,31,41,628.16,628.26,,B,,,,,,,,,,,,,,,,Small high birrefringence minerals (dolomite?),,323-U1343E-71X-CC-nan,b47c6a9a3f83dc66908e665c95b8f30a
+323,U1343,E,73,X,CC,,45,55,643.79,643.89,,F,M,,,,,,F,,,,,,,,,Etching in C. pelagicus. Lots of small tubular low birrefringence minerals,,323-U1343E-73X-CC-nan,5c2fe427aa30d46b425c7cabc3fe0507
+323,U1343,E,75,X,CC,,54,64,667.09,667.19,,B,,,,,,,,,,,,,,,,,,323-U1343E-75X-CC-nan,e71e6174a77d9ca02c69a53a7debb879
+323,U1343,E,77,X,CC,,11,21,686.37,686.47,,B,,,,,,,,,,,,,,,,,,323-U1343E-77X-CC-nan,d968384abfecb8365cdd439683cc381a
+323,U1343,E,79,X,CC,,19,29,705.72,705.82,,B,,,,,,,,,,,,,,,,,,323-U1343E-79X-CC-nan,9ab1889d929855c1e923ad1db9b799ab
+323,U1343,E,81,X,CC,,36,46,724.96,725.06,,B,,,,,,,,,,,,,,,,,,323-U1343E-81X-CC-nan,39a10f70af6a8dc93a638669299636d6
+323,U1343,E,83,X,CC,,30,40,743.9,744,,B,,,,,,,,,,,,,,,,,,323-U1343E-83X-CC-nan,80a9d4fefbb3d872160b679f948982ab

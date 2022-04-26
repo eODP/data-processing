@@ -1,5 +1,5 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Type,A/W,Sample
-323,U1339,A,1,CC,0,0,4.82,4.82,A,G,,,,,,D,,,,H,,323-U1339A-1H-CC-nan
-323,U1339,A,2,CC,0,0,14.64,14.64,R,M-G,,,,,,R,,R,,H,,323-U1339A-2H-CC-nan
-323,U1339,A,3,CC,0,0,24.23,24.23,B,,,,,,,,,,,H,,323-U1339A-3H-CC-nan
-323,U1339,A,4,CC,0,0,33.96,33.96,C,M-G,,,C,,R,C,F,,,H,,323-U1339A-4H-CC-nan
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Type,A/W,Sample,eodp_id
+323,U1339,A,1,CC,0,0,4.82,4.82,A,G,,,,,,D,,,,H,,323-U1339A-1H-CC-nan,4893cda417fa417e62d0b2ca71d6fc62
+323,U1339,A,2,CC,0,0,14.64,14.64,R,M-G,,,,,,R,,R,,H,,323-U1339A-2H-CC-nan,dc68a8b6c61192bb531c65f15498e75f
+323,U1339,A,3,CC,0,0,24.23,24.23,B,,,,,,,,,,,H,,323-U1339A-3H-CC-nan,4cf126a2202647ea9dc69085372a6b38
+323,U1339,A,4,CC,0,0,33.96,33.96,C,M-G,,,C,,R,C,F,,,H,,323-U1339A-4H-CC-nan,79749f1400edf02cb851dcf9207509ff

@@ -1,31 +1,31 @@
 Sample,Top Depth [m],Zone name (short),Preservation,Group abundance,Acarinina cf. medizzi,Catapsydrax dissimilis,Catapsydrax unicavus,Catapsydrax spp.,Chiloguembelina cubensis,Chiloguembelina otara,Clavigerinella spp. (fragments),Dentoglobigerina altispira,Dentoglobigerina baroemoensis,Dentoglobigerina galavisi,Dentoglobigerina globularis,Dentoglobigerina tripartita,Dentoglobigerina pseudovenezuelana,Dentoglobigerina spp.,Globigerina angulisuturalis,Globigerina ciperoensis,Globigerina officianilis,Globigerina praebulloides,Globigerina spp.,Globigerinoides altiapertura,Globigerinoides immaturus,Globigerinoides primordius,Globigerinoides spp.,Globoquadrina binaiensis,Globoquadrina dehiscens,Globoquadrina euapertura,Globoquadrina praedehiscens,Globoquadrina rohri,Globoquadrina sellii,Globoquadrina spp.,Globoquadrina tapuriensis,Globoquadrina venezuelana,Globorotalia (Fohsella) fohsi lobata,Globorotalia (Fohsella) fohsi robusta,Globorotalia (Hirsutella) scitula,Globoturborotalita anguliofficinalis,Globoturborotalita brazeri,Globoturborotalita ouachitaensis,Globoturborotalita woodi,Paragloborotalia bella,Paragloborotalia continuosa,Paragloborotalia nana,Paragloborotalia griffinoides,Paragloborotalia kugleri,Paragloborotalia opima,Paragloborotalia opima-nana transition,Paragloborotalia pseudocontinuosa,Paragloborotalia pseudokugleri,Paragloborotalia semivera,Paragloborotalia siakensis/mayeri,"Parasubbotina varianta
-Paragloborotalia spp.",Parasubbotina griffinae,Praeorbulina sicana,Spharoidinellopsis disjuncta,Subbotina angiporoides,Subbotina eoceana,Subbotina linaperta,Subbotina utilisindex,Subbotina spp.,Turborotalia ampliapertura,Turborotalia increbescans,Turborotalia pomeroli,Turborotalia spp.,Tenuitellinata angustiumbilicata,Tenuitella munda,Tenuitutella spp.,,Top [cm],Bottom [cm],Bottom Depth [m],Exp,Site,Hole,Core,Type,Section,A/W
-320-U1344B-1H-CC,13.69,B,B,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,1,H,CC,
-320-U1344B-2H-CC,23.05,M12 or older,P,<1,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,,,,,320,U1344,B,2,H,CC,
-320-U1344B-3H-CC,32.63,M4 or younger,P,5,,,,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,3,H,CC,
-320-U1344B-4H-CC,41.93,B,B,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,4,H,CC,
-320-U1344B-5H-CC,50.93,M2–M3,M,30,,,P,,,,,,,,P,P,,P,,,,,,,,,P,,,P,,,,,P,P,,,,,,,,,P,P,,,,,,,P,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,5,H,CC,
-320-U1344B-6H-CC,59.20,M2,M,>50,,,P,,,,,,,,,,,P,,,,,,,,,,,,,P,P,,,P,P,,,,,,,,,,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,6,H,CC,
-320-U1344B-7H-CC,68.88,M1,G,50,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,7,H,CC,
-320-U1344B-8H-CC,78.04,M1,G,30,,P,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,P,,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,8,H,CC,
-320-U1344B-9H-CC,87.70,M1,M,<30,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,9,H,CC,
-320-U1344B-10H-CC,97.22,O6,M,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,10,H,CC,
-320-U1344B-11H-CC,106.53,O6,M,5,,P,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,11,H,CC,
-320-U1344B-12H-CC,116.14,O6,M,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,12,H,CC,
-320-U1344B-13H-CC,125.59,O6,M,10,,P,,,,,,,,,,P,P,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,P,,,,,P,,P,,,,,,,,,,,,,,,P,,,,,,,320,U1344,B,13,H,CC,
-320-U1344B-14H-CC,135.30,O6,M,2,,,P,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,P,P,,,,,,,,,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,14,H,CC,
-320-U1344B-15H-CC,144.55,O6,M,5,,P,P,,,,,,,,,P,,P,,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,15,H,CC,
-320-U1344B-16H-CC,154.18,O4–O5,M,10,,P,,,,,,,,P,,,,,P,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,P,,,P,,,,,,P,,,,,,,,,,,,,,,,,,,,320,U1344,B,16,H,CC,
-320-U1344B-17H-CC,163.68,O4–O5,G,>90,,,P,,,,,,,,,P,,P,P,,,,,,,,,,,P,,,,,,P,,,,,,,,,,P,,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,17,H,CC,
-320-U1344B-18H-CC,173.23,O4–O5,G,40,,P,,,,,,,,P,,,,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,,,,P,P,,,,,,,,,,,,320,U1344,B,18,H,CC,
-"320-U1344B-19H-CC, 0–2",182.37,O3,G,60,,P,P,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,P,,,,,P,P,,,,,,,,,,320,U1344,B,19,H,CC,
-320-U1344B-20H-CC,191.55,O3,M,50,,,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,P,,P,,,,,,,,,,320,U1344,B,20,H,CC,
-320-U1344B-21H-CC,201.26,O3,M,<30,,P,P,,,,,,,,,P,,,,,,,,,,,,,,P,,,,,,P,,,,,,,,,,P,,,,,,,P,,,,,,P,,,,,,,,,,,,,,,,320,U1344,B,21,H,CC,
-320-U1344B-22H-CC,211.10,O2,M,<10,,P,P,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,320,U1344,B,22,H,CC,
-320-U1344B-23X-CC,220.45,O2,M,50,,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,P,,,,,,,,,,P,,,,,P,,,,,,,,,,,320,U1344,B,23,X,CC,
-320-U1344B-24X-CC,228.70,E15–O2,M,30,,,P,,,,,,,P,,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,P,P,P,,,,P,,,,,,320,U1344,B,24,X,CC,
-320-U1344B-25X-CC,238.39,E15–O2,M,30,,,P,,,,,,P,,,,,P,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,P,,,,,,,,,,320,U1344,B,25,X,CC,
-320-U1344B-26X-CC,247.87,E9–O1,P,<1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,320,U1344,B,26,X,CC,
-320-U1344B-27X-CC,257.58,E9–O1,P,<1,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,27,X,CC,
-320-U1344B-28X-CC,267.29,B,B,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,28,X,CC,
-320-U1344B-29X-CC,276.89,B,P,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,P,,,,,,,,,,,,320,U1344,B,29,X,CC,
+Paragloborotalia spp.",Parasubbotina griffinae,Praeorbulina sicana,Spharoidinellopsis disjuncta,Subbotina angiporoides,Subbotina eoceana,Subbotina linaperta,Subbotina utilisindex,Subbotina spp.,Turborotalia ampliapertura,Turborotalia increbescans,Turborotalia pomeroli,Turborotalia spp.,Tenuitellinata angustiumbilicata,Tenuitella munda,Tenuitutella spp.,Unnamed: 71,Top [cm],Bottom [cm],Bottom Depth [m],Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
+320-U1344B-1H-CC,13.69,B,B,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,1,H,CC,,e8aa685c052074f41d571b29a3955819
+320-U1344B-2H-CC,23.05,M12 or older,P,<1,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,,,,,320,U1344,B,2,H,CC,,e52a31714896e7f27d320c093e13fb8b
+320-U1344B-3H-CC,32.63,M4 or younger,P,5,,,,P,,,,,,,,,,,,,,,,,,,,,,P,,,,,,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,3,H,CC,,95c8fbdaf337dc39e6dcfe09dbd76c9e
+320-U1344B-4H-CC,41.93,B,B,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,4,H,CC,,01f1b845e244cf5724174cdc577a441a
+320-U1344B-5H-CC,50.93,M2–M3,M,30,,,P,,,,,,,,P,P,,P,,,,,,,,,P,,,P,,,,,P,P,,,,,,,,,P,P,,,,,,,P,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,5,H,CC,,e39bd2adf586d5c99f034208c9ca7cd9
+320-U1344B-6H-CC,59.20,M2,M,>50,,,P,,,,,,,,,,,P,,,,,,,,,,,,,P,P,,,P,P,,,,,,,,,,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,6,H,CC,,ed91c99bb5839adb268c9ad103308435
+320-U1344B-7H-CC,68.88,M1,G,50,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,7,H,CC,,8bc746df1cb2e147cd6bde55e1541083
+320-U1344B-8H-CC,78.04,M1,G,30,,P,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,P,,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,,,,,,,,,,,,320,U1344,B,8,H,CC,,4594379d14b2032682f1063e916eacca
+320-U1344B-9H-CC,87.70,M1,M,<30,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,9,H,CC,,604dc08daea8be07970115a0560d331e
+320-U1344B-10H-CC,97.22,O6,M,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,10,H,CC,,fab51355367ef1882ec3b922d2bcd854
+320-U1344B-11H-CC,106.53,O6,M,5,,P,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,11,H,CC,,f38f018f958f485f701be67a0b5e019d
+320-U1344B-12H-CC,116.14,O6,M,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,12,H,CC,,77694c9f28a2673a2fff8a644c4c2e38
+320-U1344B-13H-CC,125.59,O6,M,10,,P,,,,,,,,,,P,P,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,P,,,,,P,,P,,,,,,,,,,,,,,,P,,,,,,,320,U1344,B,13,H,CC,,1c05539ba4a96e73b05cd90563824b0f
+320-U1344B-14H-CC,135.30,O6,M,2,,,P,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,P,P,,,,,,,,,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,14,H,CC,,672857239f8a5f6126ca3d83909a8728
+320-U1344B-15H-CC,144.55,O6,M,5,,P,P,,,,,,,,,P,,P,,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,15,H,CC,,b579870c92b54555f5882d1644bf0468
+320-U1344B-16H-CC,154.18,O4–O5,M,10,,P,,,,,,,,P,,,,,P,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,P,,,P,,,,,,P,,,,,,,,,,,,,,,,,,,,320,U1344,B,16,H,CC,,8b0917eb13e150041848b83ef334dde1
+320-U1344B-17H-CC,163.68,O4–O5,G,>90,,,P,,,,,,,,,P,,P,P,,,,,,,,,,,P,,,,,,P,,,,,,,,,,P,,,P,,,,P,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,17,H,CC,,461d7730a5ba520749434ac6ca695050
+320-U1344B-18H-CC,173.23,O4–O5,G,40,,P,,,,,,,,P,,,,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,,,,P,P,,,,,,,,,,,,320,U1344,B,18,H,CC,,16f918967cdcee4e569c3bfdc5d8c08f
+"320-U1344B-19H-CC, 0–2",182.37,O3,G,60,,P,P,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,,,P,,,,,P,P,,,,,,,,,,320,U1344,B,19,H,CC,,f4d462d5a60984349a0ea2ecda33fd2a
+320-U1344B-20H-CC,191.55,O3,M,50,,,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,P,,P,,,,,,,,,,320,U1344,B,20,H,CC,,1c0eed70660965061da9fbb58d3e88f1
+320-U1344B-21H-CC,201.26,O3,M,<30,,P,P,,,,,,,,,P,,,,,,,,,,,,,,P,,,,,,P,,,,,,,,,,P,,,,,,,P,,,,,,P,,,,,,,,,,,,,,,,320,U1344,B,21,H,CC,,31e79e7c9c28df3c2fa7c29f33b8d88c
+320-U1344B-22H-CC,211.10,O2,M,<10,,P,P,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,P,P,,,,,,,,,,320,U1344,B,22,H,CC,,6348c4ac53c23c9c0b60da27c671c347
+320-U1344B-23X-CC,220.45,O2,M,50,,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,,,P,,,,,,,,,,P,,,,,P,,,,,,,,,,,320,U1344,B,23,X,CC,,2beefc3f0ab4fac062e298305cadda5b
+320-U1344B-24X-CC,228.70,E15–O2,M,30,,,P,,,,,,,P,,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,P,P,P,,,,P,,,,,,320,U1344,B,24,X,CC,,fa76048f4318eed0f22086374776ecd0
+320-U1344B-25X-CC,238.39,E15–O2,M,30,,,P,,,,,,P,,,,,P,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,P,P,,,,,,,,,,320,U1344,B,25,X,CC,,a6f7063bef159f8cc1efd408d8849033
+320-U1344B-26X-CC,247.87,E9–O1,P,<1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,320,U1344,B,26,X,CC,,56cb84ad6e1b0673ed00fd84fd818357
+320-U1344B-27X-CC,257.58,E9–O1,P,<1,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,27,X,CC,,3ee7d9368374839d3f30351a84b1470b
+320-U1344B-28X-CC,267.29,B,B,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,320,U1344,B,28,X,CC,,cd0636c68396eb59929cfa16a8501d67
+320-U1344B-29X-CC,276.89,B,P,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,P,,,,,,,,,,,,320,U1344,B,29,X,CC,,99f5589b6b0c95b4c0e76c7b7b01477f

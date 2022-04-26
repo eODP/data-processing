@@ -1,45 +1,45 @@
-Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",Group abundance,Comment (general),Preservation,Globigerinoides ruber (pink),Globorotalia tosaensis,Globigerinoides fistulosus,Globorotalia truncatulinoides,Globigerinoides extremus,Globorotalia miocenica,Globorotalia limbata,Globorotalia multicamerata,Dentoglobigerina altispira,Sphaeroidinellopsis seminulina,Pulleniatina primalis,Sphaeroidinella dehiscens,Globorotalia tumida,Globorotalia margaritae,Globoturborotalita nepenthes,Globorotalia merotumida,Globoquadrina dehiscens,Globorotalia lenguaensis,Neogloboquadrina acostaensis,Paragloborotalia mayeri,Fohsella fohsi,Fohsella robusta,Fohsella lobata,Fohsella peripheroacuta,Fohsella peripheroronda,Praeorbulina sicana,Globigerinatella insueta,Orbulina suturalis,Praeorbulina glomerosa,Catapsydrax dissimilis,Globigerina ciperoensis,Globigerinoides trilobus,Paragloborotalia kugleri,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-359-U1471E-5R-1-W 37/41-PAL-FORAM >150,0,4,625.77,625.81,,,,VP,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,5,R,1,W
-359-U1471E-6R-3-W 49/51-PAL-FORAM >150,0,2,638.13,638.15,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,,,,,P,,,,,359,U1471,E,6,R,3,W
-359-U1471E-7R-2-W 99/102-PAL-FORAM >150,0,3,647.24,647.27,,,,VP,,,,,,,,,R,,,,,,P,R,,P,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,7,R,2,W
-359-U1471E-8R-5-W 15/17-PAL-FORAM >150,0,2,659.32,659.34,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,8,R,5,W
-359-U1471E-9R-2-W 59/62-PAL-FORAM >150,0,2,666.26,666.28,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,9,R,2,W
-359-U1471E-10R-1-W 1/3-FORAM >150,0,2,673.91,673.93,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,10,R,1,W
-359-U1471E-11R-2-W 101/103-FORAM >150,0,2,685.94,685.96,,,,VP,,,,,,,,,P,,,,,,,P,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,11,R,2,W
-359-U1471E-12R-1-W 38/40-FORAM >150,0,2,693.68,693.7,,,,VP,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,359,U1471,E,12,R,1,W
-359-U1471E-13R-3-W 71/73-FORAM >150,0,2,706.29,706.31,,,,VP,,,,,,,,,P,,,,,,,P,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,13,R,3,W
-359-U1471E-14R-1-W 31/33-FORAM >150,0,2,713.01,713.03,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,14,R,1,W
-359-U1471E-15R-1-W 12/14-FORAM >150,0,2,722.52,722.54,,,,VP,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,P,,,,P,,,,,359,U1471,E,15,R,1,W
-359-U1471E-16R-1-W 0/2-FORAM >150,0,2,732.1,732.12,,,,VP,,,,,,,,,,,,,,,,,,,,P,P,,,P,P,,,P,,,,P,,,,,359,U1471,E,16,R,1,W
-359-U1471E-17R-3-W 12/13-PAL-FORAM >150,0,1,744.25,744.26,,,,P,,,,,,,,,P,,,,,,,,,,,R,P,,,P,,,,P,,,,P,,,,,359,U1471,E,17,R,3,W
-359-U1471E-18R-4-W 42/43-PAL-FORAM >150,0,1,754.86,754.87,,,,VP,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,359,U1471,E,18,R,4,W
-359-U1471E-19R-4-W 17/18-PAL10-FORAM >150,0,1,764.84,764.85,,,,VP,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,,359,U1471,E,19,R,4,W
-359-U1471E-20R-CC-PAL-FORAM >150,0,1,774.64,774.65,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,P,,,,P,,,,P,,,,,359,U1471,E,20,R,CC,PAL
-359-U1471E-21R-CC-PAL-FORAM >150,0,5,785.36,785.41,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,P,,,,,,,,P,,,,,359,U1471,E,21,R,CC,PAL
-359-U1471E-22R-2-W 87/88-PAL-FORAM >150,0,1,792.72,792.73,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,359,U1471,E,22,R,2,W
-359-U1471E-23R-CC-PAL-FORAM >150,0,3,804.25,804.28,,,,VP,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,359,U1471,E,23,R,CC,PAL
-359-U1471E-24R-3-W 61/62-PAL-FORAM >150,0,1,812.43,812.44,,,,VP,,,,,,,,,P,,,,,,,,,,,P,P,,,,,,,,,,,P,,,,,359,U1471,E,24,R,3,W
-359-U1471E-24R-CC-PAL-FORAM >150,0,5,812.74,812.79,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,24,R,CC,PAL
-359-U1471E-25R-4-PAL-FORAM >150,0,1,824.76,824.77,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,25,R,4,PAL
-359-U1471E-26R-4-W 39/40-PAL-FORAM >150,0,1,833.55,833.56,,,,VP,,,,,,,,,P,,,,,,,,,,,P,P,,,,,,,P,,,,P,,,,,359,U1471,E,26,R,4,W
-359-U1471E-27R-3-PAL-FORAM >150,0,1,843.02,843.03,,,,VP,,,,,,,,,P,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,359,U1471,E,27,R,3,PAL
-359-U1471E-28R-4-PAL-FORAM >150,0,5,853.04,853.09,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,P,,,,,,,,P,,,,,359,U1471,E,28,R,4,PAL
-359-U1471E-29R-3-PAL-FORAM >150,0,4,861.53,861.57,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,29,R,3,PAL
-359-U1471E-30R-3-W 62/64-FORAM >150,0,2,871.43,871.45,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,30,R,3,W
-359-U1471E-31R-2-W 78/80-FORAM >150,0,2,879.79,879.81,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,31,R,2,W
-359-U1471E-32R-3-PAL-FORAM >150,0,2,890.04,890.06,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,P,,,,P,,,,P,,,,,359,U1471,E,32,R,3,PAL
-359-U1471E-33R-3-PAL-FORAM >150,0,2,900.61,900.63,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,33,R,3,PAL
-359-U1471E-34R-2-W 0/5-FORAM >150,0,5,908.02,908.07,,,,P,,,,,,,,,P,,,,,,,,,,,C,P,,,P,,,,P,,,,P,,,,,359,U1471,E,34,R,2,W
-359-U1471E-34R-CC-PAL-FORAM >150,0,5,913.93,913.98,,,,M,,,,,,,,,R,,,,,,,,,,,C,P,,,P,,,,P,,,,P,,,,,359,U1471,E,34,R,CC,PAL
-359-U1471E-35R-CC-PAL-FORAM >150,0,1,921.19,921.2,,,,P,,,,,,,,,P,,,,,,,,,,,C,P,,,P,,,,P,,,,P,,,,,359,U1471,E,35,R,CC,PAL
-359-U1471E-36R-1-W 1/3-FORAM >150,0,2,926.11,926.13,,,,P,,,,,,,,,P,,,,,,,,,,,C,,,,R,P,,,,,,,P,,,,,359,U1471,E,36,R,1,W
-359-U1471E-36R-CC-PAL-FORAM >150,0,5,931.23,931.28,,,,P,,,,,,,,,P,,,,,,,,,,,A,,,,,P,,,P,,,,P,,,,,359,U1471,E,36,R,CC,PAL
-359-U1471E-37R-CC-PAL-FORAM >150,0,1,939.98,939.99,,,,VP,,,,,,,,,P,,,,,,,,,,,R,,,,,,,,P,,,,P,,,,,359,U1471,E,37,R,CC,PAL
-359-U1471E-38R-CC-PAL-FORAM >150,0,1,950.73,950.74,,,,VP,,,,,,,,,P,,,,,,,,P,,,R,,,,P,P,P,,P,,,,P,,,,,359,U1471,E,38,R,CC,PAL
-359-U1471E-39R-3-PAL-FORAM >150,0,1,959.11,959.12,,,,VP,,,,,,,,,P,,,,,,,,P,,,R,,,,,,P,,,,,,P,,,,,359,U1471,E,39,R,3,PAL
-359-U1471E-40R-CC-PAL-FORAM >150,0,1,969.02,969.03,,,,VP,,,,,,,,,P,,,,,,,,,,,C,,,,P,P,P,,P,,,,P,,,,,359,U1471,E,40,R,CC,PAL
-359-U1471E-41R-CC-PAL-FORAM >150,0,5,973.11,973.16,,,,P,,,,,,,,,P,,,,,,,,,,,R,,,,R,,P,,,,,,,,,,,359,U1471,E,41,R,CC,PAL
-359-U1471E-42R-CC-PAL-FORAM >150,0,5,980.2,980.25,,,,VP,,,,,,,,,P,,,,,,,,,,,R,,,,P,,P,,,,,,P,,,,,359,U1471,E,42,R,CC,PAL
-359-U1471E-43R-CC-PAL-FORAM >150,0,5,991.31,991.36,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,,,,,,,,,,359,U1471,E,43,R,CC,PAL
-359-U1471E-44R-5-PAL-FORAM >150,0,2,999.93,999.95,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,44,R,5,PAL
-359-U1471E-44R-5-PAL-PAL,0,2,999.93,999.95,,,,P,,,,,,,,,P,,,,,,,,,,,C,,,,P,,R,,,,,,P,,,,,359,U1471,E,44,R,5,PAL
+Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",Group abundance,Comment (general),Preservation,Globigerinoides ruber (pink),Globorotalia tosaensis,Globigerinoides fistulosus,Globorotalia truncatulinoides,Globigerinoides extremus,Globorotalia miocenica,Globorotalia limbata,Globorotalia multicamerata,Dentoglobigerina altispira,Sphaeroidinellopsis seminulina,Pulleniatina primalis,Sphaeroidinella dehiscens,Globorotalia tumida,Globorotalia margaritae,Globoturborotalita nepenthes,Globorotalia merotumida,Globoquadrina dehiscens,Globorotalia lenguaensis,Neogloboquadrina acostaensis,Paragloborotalia mayeri,Fohsella fohsi,Fohsella robusta,Fohsella lobata,Fohsella peripheroacuta,Fohsella peripheroronda,Praeorbulina sicana,Globigerinatella insueta,Orbulina suturalis,Praeorbulina glomerosa,Catapsydrax dissimilis,Globigerina ciperoensis,Globigerinoides trilobus,Paragloborotalia kugleri,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
+359-U1471E-5R-1-W 37/41-PAL-FORAM >150,0,4,625.77,625.81,,,,VP,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,5,R,1,W,9db1f6d2013dc4ef06372fa478fea4b7
+359-U1471E-6R-3-W 49/51-PAL-FORAM >150,0,2,638.13,638.15,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,,,,,P,,,,,359,U1471,E,6,R,3,W,a7f7df1e099077d1886eda16ca603c7c
+359-U1471E-7R-2-W 99/102-PAL-FORAM >150,0,3,647.24,647.27,,,,VP,,,,,,,,,R,,,,,,P,R,,P,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,7,R,2,W,2cd330c8b9d8ade05fa663abc39ba55b
+359-U1471E-8R-5-W 15/17-PAL-FORAM >150,0,2,659.32,659.34,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,8,R,5,W,c795386cabe9f584fb0b17485cb8eb5c
+359-U1471E-9R-2-W 59/62-PAL-FORAM >150,0,2,666.26,666.28,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,9,R,2,W,cfb1a063b7a15ee12b426f6cddce7978
+359-U1471E-10R-1-W 1/3-FORAM >150,0,2,673.91,673.93,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,10,R,1,W,ec69918b8427370bd828e1d56d50b8bb
+359-U1471E-11R-2-W 101/103-FORAM >150,0,2,685.94,685.96,,,,VP,,,,,,,,,P,,,,,,,P,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,11,R,2,W,74a0920ec86241a2d8bde4fe7db3afa5
+359-U1471E-12R-1-W 38/40-FORAM >150,0,2,693.68,693.7,,,,VP,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,359,U1471,E,12,R,1,W,3b92c3ce10c734ba86a596dcb3cf13c3
+359-U1471E-13R-3-W 71/73-FORAM >150,0,2,706.29,706.31,,,,VP,,,,,,,,,P,,,,,,,P,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,13,R,3,W,3f003a1ebb2fab3eee4f2150aa039e80
+359-U1471E-14R-1-W 31/33-FORAM >150,0,2,713.01,713.03,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,14,R,1,W,cdbd8ebe7b8e3b5c8626ab43fb18b0c7
+359-U1471E-15R-1-W 12/14-FORAM >150,0,2,722.52,722.54,,,,VP,,,,,,,,,,,,,,,,,,,,P,P,,,,,,,P,,,,P,,,,,359,U1471,E,15,R,1,W,d89ddf3a589d2bde6b8ab54e3c3ff036
+359-U1471E-16R-1-W 0/2-FORAM >150,0,2,732.1,732.12,,,,VP,,,,,,,,,,,,,,,,,,,,P,P,,,P,P,,,P,,,,P,,,,,359,U1471,E,16,R,1,W,e6f317a97aa416900841ce0869216284
+359-U1471E-17R-3-W 12/13-PAL-FORAM >150,0,1,744.25,744.26,,,,P,,,,,,,,,P,,,,,,,,,,,R,P,,,P,,,,P,,,,P,,,,,359,U1471,E,17,R,3,W,83b6ddcb826a6dba7ba826e404553b16
+359-U1471E-18R-4-W 42/43-PAL-FORAM >150,0,1,754.86,754.87,,,,VP,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,,,,P,,,,,359,U1471,E,18,R,4,W,8195bf92dcc97f7af083b1e84fd2b8d4
+359-U1471E-19R-4-W 17/18-PAL10-FORAM >150,0,1,764.84,764.85,,,,VP,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,,359,U1471,E,19,R,4,W,bc21bc01a030c2b8b8756b2cb81855c3
+359-U1471E-20R-CC-PAL-FORAM >150,0,1,774.64,774.65,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,P,,,,P,,,,P,,,,,359,U1471,E,20,R,CC,PAL,64878be8f948235d23ee32aa747862fd
+359-U1471E-21R-CC-PAL-FORAM >150,0,5,785.36,785.41,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,P,,,,,,,,P,,,,,359,U1471,E,21,R,CC,PAL,ec166a7f0be8e26556a9b8ee08028369
+359-U1471E-22R-2-W 87/88-PAL-FORAM >150,0,1,792.72,792.73,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,359,U1471,E,22,R,2,W,fd9ef9c93e2c23eb446a929029c4a6f6
+359-U1471E-23R-CC-PAL-FORAM >150,0,3,804.25,804.28,,,,VP,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,359,U1471,E,23,R,CC,PAL,d9fd95ee1b9fb45ca15bf3a0f4733ed6
+359-U1471E-24R-3-W 61/62-PAL-FORAM >150,0,1,812.43,812.44,,,,VP,,,,,,,,,P,,,,,,,,,,,P,P,,,,,,,,,,,P,,,,,359,U1471,E,24,R,3,W,b74b26002f317f7469d1dafba150b99d
+359-U1471E-24R-CC-PAL-FORAM >150,0,5,812.74,812.79,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,24,R,CC,PAL,b2b2e415f2a1387bffef8134d539c997
+359-U1471E-25R-4-PAL-FORAM >150,0,1,824.76,824.77,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,25,R,4,PAL,82a1b5271dd0c7f92f5a891c13572331
+359-U1471E-26R-4-W 39/40-PAL-FORAM >150,0,1,833.55,833.56,,,,VP,,,,,,,,,P,,,,,,,,,,,P,P,,,,,,,P,,,,P,,,,,359,U1471,E,26,R,4,W,479bbcb857c145c89bea0612a7b8d246
+359-U1471E-27R-3-PAL-FORAM >150,0,1,843.02,843.03,,,,VP,,,,,,,,,P,,,,,,,,,,,,P,,,,,,,,,,,P,,,,,359,U1471,E,27,R,3,PAL,92756925113c05e55a677c2ad4a956cc
+359-U1471E-28R-4-PAL-FORAM >150,0,5,853.04,853.09,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,P,,,,,,,,P,,,,,359,U1471,E,28,R,4,PAL,17077df17573ca751962fd4f94974018
+359-U1471E-29R-3-PAL-FORAM >150,0,4,861.53,861.57,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,29,R,3,PAL,808ed3e27b63e1c19ceeded0fa464a64
+359-U1471E-30R-3-W 62/64-FORAM >150,0,2,871.43,871.45,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,30,R,3,W,77f447ce84885bc1744fa3405ba0edc9
+359-U1471E-31R-2-W 78/80-FORAM >150,0,2,879.79,879.81,,,,VP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,359,U1471,E,31,R,2,W,8bc184f574e6f5570e0fa9762176cdd9
+359-U1471E-32R-3-PAL-FORAM >150,0,2,890.04,890.06,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,P,,,,P,,,,P,,,,,359,U1471,E,32,R,3,PAL,fd7440e2b015bfb73f2e41c45a2c18d0
+359-U1471E-33R-3-PAL-FORAM >150,0,2,900.61,900.63,,,,VP,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,,P,,,,,359,U1471,E,33,R,3,PAL,2821e1e2fcbcf009a1b357964278c7d8
+359-U1471E-34R-2-W 0/5-FORAM >150,0,5,908.02,908.07,,,,P,,,,,,,,,P,,,,,,,,,,,C,P,,,P,,,,P,,,,P,,,,,359,U1471,E,34,R,2,W,7c2513d1cf610787b696908caa5e0af6
+359-U1471E-34R-CC-PAL-FORAM >150,0,5,913.93,913.98,,,,M,,,,,,,,,R,,,,,,,,,,,C,P,,,P,,,,P,,,,P,,,,,359,U1471,E,34,R,CC,PAL,b8e778c0fa74c16d588957574d8af865
+359-U1471E-35R-CC-PAL-FORAM >150,0,1,921.19,921.2,,,,P,,,,,,,,,P,,,,,,,,,,,C,P,,,P,,,,P,,,,P,,,,,359,U1471,E,35,R,CC,PAL,4f4ac4392e3ec1911f95ae83afcc8f4b
+359-U1471E-36R-1-W 1/3-FORAM >150,0,2,926.11,926.13,,,,P,,,,,,,,,P,,,,,,,,,,,C,,,,R,P,,,,,,,P,,,,,359,U1471,E,36,R,1,W,94a2e36bdd766f956a342c74c9d5f8e0
+359-U1471E-36R-CC-PAL-FORAM >150,0,5,931.23,931.28,,,,P,,,,,,,,,P,,,,,,,,,,,A,,,,,P,,,P,,,,P,,,,,359,U1471,E,36,R,CC,PAL,4927c74b5618acd0eb9629fd93fa34ee
+359-U1471E-37R-CC-PAL-FORAM >150,0,1,939.98,939.99,,,,VP,,,,,,,,,P,,,,,,,,,,,R,,,,,,,,P,,,,P,,,,,359,U1471,E,37,R,CC,PAL,63f0c646b39b5cedf73c945fe1392aeb
+359-U1471E-38R-CC-PAL-FORAM >150,0,1,950.73,950.74,,,,VP,,,,,,,,,P,,,,,,,,P,,,R,,,,P,P,P,,P,,,,P,,,,,359,U1471,E,38,R,CC,PAL,faa19ec1a298822226aa1d0b04f6def2
+359-U1471E-39R-3-PAL-FORAM >150,0,1,959.11,959.12,,,,VP,,,,,,,,,P,,,,,,,,P,,,R,,,,,,P,,,,,,P,,,,,359,U1471,E,39,R,3,PAL,06150c50b3cc6bbd021c61ab1febc3f1
+359-U1471E-40R-CC-PAL-FORAM >150,0,1,969.02,969.03,,,,VP,,,,,,,,,P,,,,,,,,,,,C,,,,P,P,P,,P,,,,P,,,,,359,U1471,E,40,R,CC,PAL,2d4781f8d3d5bbd01785204018b39d14
+359-U1471E-41R-CC-PAL-FORAM >150,0,5,973.11,973.16,,,,P,,,,,,,,,P,,,,,,,,,,,R,,,,R,,P,,,,,,,,,,,359,U1471,E,41,R,CC,PAL,b874e24ac9683f8a4002a82d0153bce4
+359-U1471E-42R-CC-PAL-FORAM >150,0,5,980.2,980.25,,,,VP,,,,,,,,,P,,,,,,,,,,,R,,,,P,,P,,,,,,P,,,,,359,U1471,E,42,R,CC,PAL,a47f5e377311f1c268cc0633a8313719
+359-U1471E-43R-CC-PAL-FORAM >150,0,5,991.31,991.36,,,,VP,,,,,,,,,P,,,,,,,,,,,P,,,,,,,,,,,,,,,,,359,U1471,E,43,R,CC,PAL,5f0da031eef80a54c296df6e3b5d6eda
+359-U1471E-44R-5-PAL-FORAM >150,0,2,999.93,999.95,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,359,U1471,E,44,R,5,PAL,a3350744e263d59232232a058b30d088
+359-U1471E-44R-5-PAL-PAL,0,2,999.93,999.95,,,,P,,,,,,,,,P,,,,,,,,,,,C,,,,P,,R,,,,,,P,,,,,359,U1471,E,44,R,5,PAL,c1b1da8d0df822c7b20f79e768f66290

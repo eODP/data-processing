@@ -1,5 +1,5 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Globigerina bulloides,Globigerina cf. woodi,Globoconella miozea,Neogloboquadrina acostaensis,Neogloboquadrina nympha,Neogloboquadrina cf. pachyderma,File Data
-318-U1359D-24R-CC-PAL-FORAM,318,U1359,D,24,24-CC,R,CC,PAL,FORAM,0,5,371.805,371.855,A,C,,F,F,,
-318-U1359D-27R-CC-PAL-FORAM,318,U1359,D,27,27-CC,R,CC,PAL,FORAM,0,5,391.6,391.65,,,,R,R,,
-318-U1359D-30R-CC-PAL-FORAM,318,U1359,D,30,30-CC,R,CC,PAL,FORAM,0,5,424.03,424.08,,R,,,,,
-318-U1359D-34R-CC-PAL-FORAM,318,U1359,D,34,34-CC,R,CC,PAL,FORAM,0,5,464.31,464.36,,,R,,,,
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Globigerina bulloides,Globigerina cf. woodi,Globoconella miozea,Neogloboquadrina acostaensis,Neogloboquadrina nympha,Neogloboquadrina cf. pachyderma,File Data,eodp_id
+318-U1359D-24R-CC-PAL-FORAM,318,U1359,D,24,24-CC,R,CC,PAL,FORAM,0,5,371.805,371.855,A,C,,F,F,,,83cdd2bb41043464e8a366b07f236df2
+318-U1359D-27R-CC-PAL-FORAM,318,U1359,D,27,27-CC,R,CC,PAL,FORAM,0,5,391.6,391.65,,,,R,R,,,e0fab4345d3165fd6721d2bad9698126
+318-U1359D-30R-CC-PAL-FORAM,318,U1359,D,30,30-CC,R,CC,PAL,FORAM,0,5,424.03,424.08,,R,,,,,,58bbce09e5d450022396b3f12f82b92e
+318-U1359D-34R-CC-PAL-FORAM,318,U1359,D,34,34-CC,R,CC,PAL,FORAM,0,5,464.31,464.36,,,R,,,,,f553f912f9aff8c7e7a33d3cb4fbfed4

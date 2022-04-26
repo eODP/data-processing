@@ -1,32 +1,32 @@
-Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Brizalina pygmaea,Brizalina earlandi,Brizalina cf. spathula,Bulimina aff. exilis,Bulimina aff. mexicana,Bulimina sp.,Cassidulina sp.,Cassidulina laevigata var. carinata,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Dentalina sp.,Eggerella bradyi,Elphidium sp.,Elphidium cf. batialis,Epistominella pulchella,Fissurina sp,Fursenkoina sp.,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Islandiella norcrossi,Nodosaria spp.,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina ariminensus,Procerolagena cf. gracillima,Pullenia sp.,Pullenia bulloides,Pygmaeseistron cf. hispida,Pyrgo sp.,Reophax dentaliniformis,Rhabdammina sp.,Stainforthia aff. fusiformis,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Uvigerina cf. proboscidea,Valvulineria sp.,Undifferentiated agglutinate,Comments,A/W,Sample
-323,U1343,A,1,H,1,,0,0,0,0,G,F,P,R,P,R,,P,F,,,,,,,P,,,,,,R,P,,,R,,R,,,,,,,,,P,,,R,,,,P,"dominant diatoms, few IRD, rare sponge spicules",,323-U1343A-1H-1-nan
-323,U1343,A,1,H,CC,,0,10,5.38,5.48,G,A,,,,F,,,,,P,,,,,R,,,,,,F,A,,,R,,P,P,,P,,,,,,P,,,P,R,,P,,"dominant rock fragments, rare bubblewalled glass shards",,323-U1343A-1H-CC-nan
-323,U1343,A,2,H,CC,,0,10,14.92,15.02,G,A,,,,,,,,,,,,,,P,,,,,,F,A,,,,,,,,,,,,,,,,,,R,,P,,"dominant rock fragments, few diatoms",,323-U1343A-2H-CC-nan
-323,U1343,A,3,H,CC,,0,13,24.6,24.73,G,G,,,,,,,,,,,,,,A,,,,,,R,F,,,R,,P,,,P,,,,,,,,,,,,,,"dominant rock fragments, rare diatoms",,323-U1343A-3H-CC-nan
-323,U1343,A,4,H,CC,,30,40,34.66,34.76,G,A,,,,,,,,,,,,,,A,,,,,,R,,,,A,,,,,,,,R,,,,,,,,,,,"dominant rock fragments, rare diatoms",,323-U1343A-4H-CC-nan
-323,U1343,A,5,H,CC,,36,46,43.91,44.01,G,A,,P,,R,,,,,R,,,,,A,,,,,,R,F,,,R,,,,,,,,,,,,,,,A,,R,,dominant rock fragments,,323-U1343A-5H-CC-nan
-323,U1343,A,6,H,CC,,32,42,53.92,54.02,G,F,,,,R,,,,,,,,,,F,,,,,,R,R,,,,,,,,P,,,,,,,,P,,,,,,dominant rock fragments,,323-U1343A-6H-CC-nan
-323,U1343,A,7,H,CC,,46,56,62.19,62.29,G,F,,,,P,,,P,,,,,F,,P,,,,,,,P,,,P,,,,,P,,,,,,,R,,,,,R,,dominant rock fragments,,323-U1343A-7H-CC-nan
-323,U1343,A,8,H,4,W,55,57,66.78,66.8,M,A,,,,D,,,,,F,,,,,R,,,,,,A,,,P,F,,,,,,,,,,,,,,R,,,P,,YELLOW FORAMS,,323-U1343A-8H-4-nan
-323,U1343,A,8,H,CC,,41,51,71.79,71.89,G,F,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,F,,,,"AB PYRITE TUBES, MICA",,323-U1343A-8H-CC-nan
-323,U1343,A,9,H,CC,,38,48,81.9,82,M,A,,P,,F,,,,,A,,,,,,,,,,,F,A,,,R,,P,,,,,,,,,,,,R,F,,,,"YELLOW FORAMS, PY TUBES",,323-U1343A-9H-CC-nan
-323,U1343,A,10,H,6,W,52,54,88.72,88.74,P,A,,,,F,,,,,F,,,,,A,,,,,,A,F,,,F,,,,,,,P,,,,,,,P,R,,P,,YELLOW FORAMS,,323-U1343A-10H-6-nan
-323,U1343,A,10,H,CC,,47,57,90.9,91,G,A,,,,A,,,,,F,,,,,F,,,,,,F,R,,,R,R,,,P,,,,,,,,,,,A,,P,,"WOOD, PY TUBES",,323-U1343A-10H-CC-nan
-323,U1343,A,11,H,CC,,47,57,100.5,100.6,G,F,,,,,,,,,P,,,,,F,,,,,,,R,,,R,,,,,,,,,,,,,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343A-11H-CC-nan
-323,U1343,A,12,H,7,W,35,37,109.18,109.2,G,D,,A,,D,,,,,,,,,,,,,,,,A,,,,F,,,,,,,,,,,,,,,,,,,"BENTHIC OOZE, FISH TEETH, SPIC",,323-U1343A-12H-7-nan
-323,U1343,A,12,H,CC,,22,32,110.42,110.52,G,A,,,,R,,,,R,R,,,,,A,,,,,,F,,,,P,,,,,,,,,,,,,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343A-12H-CC-nan
-323,U1343,A,13,H,CC,,35,45,119.32,119.42,G,A,,,,F,,,,,,,,,,R,,,,,,R,,,,P,,,,,,,,,,,,,,,,,P,,"WOOD, PY TUBES",,323-U1343A-13H-CC-nan
-323,U1343,A,14,H,CC,,60,70,128.86,128.96,G,A,,,,F,,,,,F,,,,,A,,,,,,R,F,,,F,,,,,,,,,,,,P,,R,,,,,"WOOD, PY TUBES",,323-U1343A-14H-CC-nan
-323,U1343,A,15,H,CC,,48,58,139.06,139.16,G,A,,,,P,,,,,R,,P,,,R,,,,,,,A,,P,,,,,,F,,,,,,,,,,,,,,PYRITE,,323-U1343A-15H-CC-nan
-323,U1343,A,16,H,CC,,70,80,147.11,147.21,G,A,,,,,,,,,R,,,,,A,,,,,,R,F,,,F,,,,,F,,,,,,,,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343A-16H-CC-nan
-323,U1343,A,17,H,CC,,13,23,157.29,157.39,G,A,,P,,A,,P,,,P,P,,,P,R,,,R,,,R,A,,,,,,,,,,,P,,,,,,R,P,,P,,"dominant rock fragments, bivalve fragments, and Scaphander sp.?",,323-U1343A-17H-CC-nan
-323,U1343,A,18,H,CC,,49,59,166.12,166.22,G,A,,,,A,,,,,,F,P,,,R,,,,,,R,R,,,R,,,,,,,P,,,,,,,F,,,,,dominant rock fragments,,323-U1343A-18H-CC-nan
-323,U1343,A,19,H,CC,,46,56,173.8,173.9,G,A,,,,A,,,,,R,,P,,,A,,P,,R,,R,R,,,R,,,,,,,P,,,,P,,,P,,,,,dominant rock fragments,,323-U1343A-19H-CC-nan
-323,U1343,A,20,H,CC,,42,52,181.96,182.06,G,D,,P,,D,,,,,P,,,,,R,,,,,,F,P,,,R,,,,,,,,,,,,,,P,P,,,,dominant rock fragments,,323-U1343A-20H-CC-nan
-323,U1343,A,21,H,CC,,47,57,191.5,191.6,M,R,,,,R,,,,,P,,,,,R,,,,P,,R,P,,,R,,,R,,,,,,,,,,,,,,,,dominant rock fragments,,323-U1343A-21H-CC-nan
-323,U1343,A,22,H,CC,,48,58,201.66,201.76,G,F,,P,,,,,,,P,,,,,F,,,,,,,,,,R,,,,,,,,,,,,,,A,,,A,,,,323-U1343A-22H-CC-nan
-323,U1343,B,1,H,1,,0,0,0,0,VG,A,,,,F,,,,,P,,,,,,,,,,P,R,,P,,F,,A,,,,,,,P,R,,,,P,,,,,,,323-U1343B-1H-1-nan
-323,U1343,B,1,H,CC,,0,13,6.72,6.85,G,A,,P,,F,,,,R,R,P,,,,A,P,,,,,F,A,,,F,,,,,,,,,,,P,P,,P,P,P,P,,Dominant rock fragments,,323-U1343B-1H-CC-nan
-323,U1343,B,2,H,CC,,16,26,16.77,16.87,G,F,,,,,,,P,P,,,,,,P,,,,,,F,P,,,,,,,,,,,,,,,,,,R,,P,,"AB PYRITE TUBES, MICA",,323-U1343B-2H-CC-nan
-323,U1343,B,3,H,CC,,12,22,24.98,25.08,G,D,,,,,,,,,,,,,,D,,,,,,F,A,,,R,,P,,,P,,,,,,,P,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343B-3H-CC-nan
-323,U1343,B,4,H,CC,,16,26,35.16,35.26,G,A,,,,R,P,,,,P,,,,,A,,,,,,P,,,,R,,F,,,,,,,,,,,,F,F,,,,MICA,,323-U1343B-4H-CC-nan
+Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Brizalina pygmaea,Brizalina earlandi,Brizalina cf. spathula,Bulimina aff. exilis,Bulimina aff. mexicana,Bulimina sp.,Cassidulina sp.,Cassidulina laevigata var. carinata,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Dentalina sp.,Eggerella bradyi,Elphidium sp.,Elphidium cf. batialis,Epistominella pulchella,Fissurina sp,Fursenkoina sp.,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Islandiella norcrossi,Nodosaria spp.,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina ariminensus,Procerolagena cf. gracillima,Pullenia sp.,Pullenia bulloides,Pygmaeseistron cf. hispida,Pyrgo sp.,Reophax dentaliniformis,Rhabdammina sp.,Stainforthia aff. fusiformis,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Uvigerina cf. proboscidea,Valvulineria sp.,Undifferentiated agglutinate,Comments,A/W,Sample,eodp_id
+323,U1343,A,1,H,1,,0,0,0,0,G,F,P,R,P,R,,P,F,,,,,,,P,,,,,,R,P,,,R,,R,,,,,,,,,P,,,R,,,,P,"dominant diatoms, few IRD, rare sponge spicules",,323-U1343A-1H-1-nan,913886d8d3d78557a0169c7ba7736919
+323,U1343,A,1,H,CC,,0,10,5.38,5.48,G,A,,,,F,,,,,P,,,,,R,,,,,,F,A,,,R,,P,P,,P,,,,,,P,,,P,R,,P,,"dominant rock fragments, rare bubblewalled glass shards",,323-U1343A-1H-CC-nan,f6d1220cf32eed6e063168c23a840e85
+323,U1343,A,2,H,CC,,0,10,14.92,15.02,G,A,,,,,,,,,,,,,,P,,,,,,F,A,,,,,,,,,,,,,,,,,,R,,P,,"dominant rock fragments, few diatoms",,323-U1343A-2H-CC-nan,b463b21b9af80acfdfcb095fca89d70a
+323,U1343,A,3,H,CC,,0,13,24.6,24.73,G,G,,,,,,,,,,,,,,A,,,,,,R,F,,,R,,P,,,P,,,,,,,,,,,,,,"dominant rock fragments, rare diatoms",,323-U1343A-3H-CC-nan,41831e82e7317c50b992ab79b0f50ce1
+323,U1343,A,4,H,CC,,30,40,34.66,34.76,G,A,,,,,,,,,,,,,,A,,,,,,R,,,,A,,,,,,,,R,,,,,,,,,,,"dominant rock fragments, rare diatoms",,323-U1343A-4H-CC-nan,62176bf2ef5fd2016e01a2460dcec9f0
+323,U1343,A,5,H,CC,,36,46,43.91,44.01,G,A,,P,,R,,,,,R,,,,,A,,,,,,R,F,,,R,,,,,,,,,,,,,,,A,,R,,dominant rock fragments,,323-U1343A-5H-CC-nan,06068466336ee104c49625a2a759c2f3
+323,U1343,A,6,H,CC,,32,42,53.92,54.02,G,F,,,,R,,,,,,,,,,F,,,,,,R,R,,,,,,,,P,,,,,,,,P,,,,,,dominant rock fragments,,323-U1343A-6H-CC-nan,ba192dbefe49d264726646d27d4e826f
+323,U1343,A,7,H,CC,,46,56,62.19,62.29,G,F,,,,P,,,P,,,,,F,,P,,,,,,,P,,,P,,,,,P,,,,,,,R,,,,,R,,dominant rock fragments,,323-U1343A-7H-CC-nan,f5ce175ca7bb8e4fd496c0ad28a61422
+323,U1343,A,8,H,4,W,55,57,66.78,66.8,M,A,,,,D,,,,,F,,,,,R,,,,,,A,,,P,F,,,,,,,,,,,,,,R,,,P,,YELLOW FORAMS,,323-U1343A-8H-4-nan,ef8f1e0bd1d559213c5d9c086656ee92
+323,U1343,A,8,H,CC,,41,51,71.79,71.89,G,F,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,F,,,,"AB PYRITE TUBES, MICA",,323-U1343A-8H-CC-nan,56e5dbd7d18b5f6d612d7994a8e9a6de
+323,U1343,A,9,H,CC,,38,48,81.9,82,M,A,,P,,F,,,,,A,,,,,,,,,,,F,A,,,R,,P,,,,,,,,,,,,R,F,,,,"YELLOW FORAMS, PY TUBES",,323-U1343A-9H-CC-nan,fed08b350f71c7b44b5ef20393e68ea3
+323,U1343,A,10,H,6,W,52,54,88.72,88.74,P,A,,,,F,,,,,F,,,,,A,,,,,,A,F,,,F,,,,,,,P,,,,,,,P,R,,P,,YELLOW FORAMS,,323-U1343A-10H-6-nan,8ea893ba7679e99f7984ff8561286885
+323,U1343,A,10,H,CC,,47,57,90.9,91,G,A,,,,A,,,,,F,,,,,F,,,,,,F,R,,,R,R,,,P,,,,,,,,,,,A,,P,,"WOOD, PY TUBES",,323-U1343A-10H-CC-nan,a6b38c872c222c9ffe7290f9c85b2b38
+323,U1343,A,11,H,CC,,47,57,100.5,100.6,G,F,,,,,,,,,P,,,,,F,,,,,,,R,,,R,,,,,,,,,,,,,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343A-11H-CC-nan,df690fc08b7f6fb641cca5681650127b
+323,U1343,A,12,H,7,W,35,37,109.18,109.2,G,D,,A,,D,,,,,,,,,,,,,,,,A,,,,F,,,,,,,,,,,,,,,,,,,"BENTHIC OOZE, FISH TEETH, SPIC",,323-U1343A-12H-7-nan,a19c1d9c2b28a3dbd3f865b8f40f9d75
+323,U1343,A,12,H,CC,,22,32,110.42,110.52,G,A,,,,R,,,,R,R,,,,,A,,,,,,F,,,,P,,,,,,,,,,,,,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343A-12H-CC-nan,d6c077552e4808676e876370aedaa648
+323,U1343,A,13,H,CC,,35,45,119.32,119.42,G,A,,,,F,,,,,,,,,,R,,,,,,R,,,,P,,,,,,,,,,,,,,,,,P,,"WOOD, PY TUBES",,323-U1343A-13H-CC-nan,bab2ff9762d561ca287b55227ac79ad2
+323,U1343,A,14,H,CC,,60,70,128.86,128.96,G,A,,,,F,,,,,F,,,,,A,,,,,,R,F,,,F,,,,,,,,,,,,P,,R,,,,,"WOOD, PY TUBES",,323-U1343A-14H-CC-nan,6a0636e744f63ef2084ff0b76166411f
+323,U1343,A,15,H,CC,,48,58,139.06,139.16,G,A,,,,P,,,,,R,,P,,,R,,,,,,,A,,P,,,,,,F,,,,,,,,,,,,,,PYRITE,,323-U1343A-15H-CC-nan,2c33c7e4fe1baf64312f12ccfaf3484f
+323,U1343,A,16,H,CC,,70,80,147.11,147.21,G,A,,,,,,,,,R,,,,,A,,,,,,R,F,,,F,,,,,F,,,,,,,,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343A-16H-CC-nan,2628aef72cd7274f40f7657a8baa9d20
+323,U1343,A,17,H,CC,,13,23,157.29,157.39,G,A,,P,,A,,P,,,P,P,,,P,R,,,R,,,R,A,,,,,,,,,,,P,,,,,,R,P,,P,,"dominant rock fragments, bivalve fragments, and Scaphander sp.?",,323-U1343A-17H-CC-nan,b85381900feae56fa6b77b6f92178d45
+323,U1343,A,18,H,CC,,49,59,166.12,166.22,G,A,,,,A,,,,,,F,P,,,R,,,,,,R,R,,,R,,,,,,,P,,,,,,,F,,,,,dominant rock fragments,,323-U1343A-18H-CC-nan,724dfa0eb99329b56c1f05c22925d54d
+323,U1343,A,19,H,CC,,46,56,173.8,173.9,G,A,,,,A,,,,,R,,P,,,A,,P,,R,,R,R,,,R,,,,,,,P,,,,P,,,P,,,,,dominant rock fragments,,323-U1343A-19H-CC-nan,075a96f2f8bf32663435f24ab6526706
+323,U1343,A,20,H,CC,,42,52,181.96,182.06,G,D,,P,,D,,,,,P,,,,,R,,,,,,F,P,,,R,,,,,,,,,,,,,,P,P,,,,dominant rock fragments,,323-U1343A-20H-CC-nan,746d9d5d16ddae1b54614092f299e3ad
+323,U1343,A,21,H,CC,,47,57,191.5,191.6,M,R,,,,R,,,,,P,,,,,R,,,,P,,R,P,,,R,,,R,,,,,,,,,,,,,,,,dominant rock fragments,,323-U1343A-21H-CC-nan,faea8783944ec9b60689ee77fc58c10f
+323,U1343,A,22,H,CC,,48,58,201.66,201.76,G,F,,P,,,,,,,P,,,,,F,,,,,,,,,,R,,,,,,,,,,,,,,A,,,A,,,,323-U1343A-22H-CC-nan,bb26928abbe3db0a5b9ade4c758f22fa
+323,U1343,B,1,H,1,,0,0,0,0,VG,A,,,,F,,,,,P,,,,,,,,,,P,R,,P,,F,,A,,,,,,,P,R,,,,P,,,,,,,323-U1343B-1H-1-nan,2d6768912dccc625d747de4a030481dd
+323,U1343,B,1,H,CC,,0,13,6.72,6.85,G,A,,P,,F,,,,R,R,P,,,,A,P,,,,,F,A,,,F,,,,,,,,,,,P,P,,P,P,P,P,,Dominant rock fragments,,323-U1343B-1H-CC-nan,9e0c35bcc0cfa9dccd394d8f7894067d
+323,U1343,B,2,H,CC,,16,26,16.77,16.87,G,F,,,,,,,P,P,,,,,,P,,,,,,F,P,,,,,,,,,,,,,,,,,,R,,P,,"AB PYRITE TUBES, MICA",,323-U1343B-2H-CC-nan,312094aee72fffcb0f3b1267729c75c7
+323,U1343,B,3,H,CC,,12,22,24.98,25.08,G,D,,,,,,,,,,,,,,D,,,,,,F,A,,,R,,P,,,P,,,,,,,P,,,,,,,"AB PYRITE TUBES, MICA",,323-U1343B-3H-CC-nan,6fafffeeb13f6a69b1b61c4296a25db0
+323,U1343,B,4,H,CC,,16,26,35.16,35.26,G,A,,,,R,P,,,,P,,,,,A,,,,,,P,,,,R,,F,,,,,,,,,,,,F,F,,,,MICA,,323-U1343B-4H-CC-nan,55202010ece4e5154bb28d3614800ac9
