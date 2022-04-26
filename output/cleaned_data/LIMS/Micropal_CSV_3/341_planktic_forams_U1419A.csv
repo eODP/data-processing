@@ -1,27 +1,27 @@
 Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Zone name,Datum name,Preservation,Group abundance,Globigerina bulloides,Globigerina foliata,Globigerina umbilicata,Globigerinita glutinata,Globigerinita iota,Globigerinita uvula,Globorotalia hirsuta,Globorotalia scitula,Neogloboquadrina humerosa,Neogloboquadrina inglei,Neogloboquadrina kagaensis,Neogloboquadrina incompta (dextral),Neogloboquadrina incompta (sinsitral),Neogloboquadrina pachyderma (sinistral),Neogloboquadrina pachyderma (dextral),"Neogloboquadrina pachyderma A (dextral, inflated form)","Neogloboquadrina pachyderma B (sinistral, inflated form)","Neogloboquadrina pachyderma C (sinistral, compressed form)",Orbulina universa,Comments,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W
-341-U1419A-1H-CC-PAL,0,5,7.38,7.43,,,,VG [P15],A [A83],D [A84],,D [A84],P [A84],,,,,,,,,R [A84],D [A84],,,R [A84],,,,,,,341,U1419,A,1,H,CC,PAL
-341-U1419A-2H-CC-PAL,0,5,17.15,17.2,,,,VG [P15],A [A83],D [A84],,A [A84],R [A84],,,,,,,,,,D [A84],R [A84],,R [A84],,,,,,,341,U1419,A,2,H,CC,PAL
-341-U1419A-3H-CC-PAL,0,5,26.6,26.65,,,,VG [P15],F [A83],A [A84],,F [A84],R [A84],,,,,,,,,R [A84],D [A84],R [A84],,,,,,,,,341,U1419,A,3,H,CC,PAL
-341-U1419A-5H-CC-PAL,0,1,35.91,35.92,,,,M [P15],R [A83],D [A84],,F [A84],R [A84],,,,,,,,,,D [A84],,,,,,,,,,341,U1419,A,5,H,CC,PAL
-341-U1419A-6H-CC-PAL,0,5,48.04,48.09,,,,G [P15],R [A83],A [A84],,A [A84],P [A84],,,,,,,,,R [A84],D [A84],P [A84],,P [A84],,,,,,,341,U1419,A,6,H,CC,PAL
-341-U1419A-8H-CC-PAL,0,5,68.16,68.21,,,,G [P15],R [A83],R [A84],,R [A84],R [A84],,,,,,,,R [A84],,D [A84],,,R [A84],,,brown foram,,,,341,U1419,A,8,H,CC,PAL
-341-U1419A-9H-CC-PAL,0,5,75.02,75.07,,,,G [P15],P [A83],R [A84],,R [A84],,,,,,,,,,,D [A84],,,R [A84],,,,,,,341,U1419,A,9,H,CC,PAL
-341-U1419A-10H-CC-PAL,0,5,83.74,83.79,,,,M [P15],A [A83],F [A84],,R [A84],R [A84],,,,,,,,,,D [A84],,,,,,,,,,341,U1419,A,10,H,CC,PAL
-341-U1419A-11H-CC-PAL,0,5,88.24,88.29,,,,M [P15],A [A83],R [A84],,R [A84],R [A84],,,,,,,,,P [A84],D [A84],R [A84],,,,,,,,,341,U1419,A,11,H,CC,PAL
-341-U1419A-12H-CC-PAL,0,5,97.71,97.76,,,,M [P15],A [A83],R [A84],,R [A84],,,,,,,,,,,D [A84],,,,,,brown foram,,,,341,U1419,A,12,H,CC,PAL
-341-U1419A-13H-CC-PAL,0,5,98.36,98.41,,,,M [P15],R [A83],F [A84],,D [A84],R [A84],,,,,,,,,R [A84],D [A84],R [A84],,R [A84],,,,,,,341,U1419,A,13,H,CC,PAL
-341-U1419A-14H-CC-PAL,0,5,102.44,102.49,,,,M [P15],F [A83],F [A84],,A [A84],P [A84],,,,,,,,,R [A84],D [A84],,,R [A84],,,,,,,341,U1419,A,14,H,CC,PAL
-341-U1419A-15H-CC-PAL,0,5,104.68,104.73,,,,M [P15],F [A83],F [A84],,A [A84],R [A84],,,,,,,,R [A84],R [A84],D [A84],R [A84],,,,,,,,,341,U1419,A,15,H,CC,PAL
-341-U1419A-16H-CC-PAL,0,5,109.54,109.59,,,,M [P15],F [A83],A [A84],,F [A84],R [A84],,,,,,,R [A84],,R [A84],D [A84],R [A84],,,,,,,,,341,U1419,A,16,H,CC,PAL
-341-U1419A-17H-CC-PAL,0,5,113.75,113.8,,,,M [P15],F [A83],A [A84],,F [A84],R [A84],,,,,,,,,,D [A84],R [A84],,R [A84],,,,,,,341,U1419,A,17,H,CC,PAL
-341-U1419A-18H-CC-PAL,0,5,116.4,116.45,,,,M [P15],P [A83],A [A84],,A [A84],,,,,,,,,,,D [A84],,,,,,brown foram,,,,341,U1419,A,18,H,CC,PAL
-341-U1419A-19H-CC-PAL,0,5,118.5,118.55,,,,,B [A83],,,,,,,,,,,,,,D [A84],,,,,,brown foram,,,,341,U1419,A,19,H,CC,PAL
-341-U1419A-20H-CC-PAL,0,2,118.5,118.52,,,,M [P15],P [A83],F [A84],,A [A84],F [A84],,,,,,,,,,D [A84],,,F [A84],,,brown foram,,,,341,U1419,A,20,H,CC,PAL
-341-U1419A-21X-CC-PAL,0,5,120,120.05,,,,M [P15],P [A83],F [A84],,A [A84],R [A84],,,,,,,,R [A84],R [A84],D [A84],,,R [A84],,,brown foram,,,,341,U1419,A,21,X,CC,PAL
-341-U1419A-23X-CC-PAL,0,5,144.43,144.48,,,,M [P15],F [A83],R [A84],,A [A84],R [A84],,,,P [A84],,,,,P [A84],D [A84],P [A84],,R [A84],,,,,,,341,U1419,A,23,X,CC,PAL
-341-U1419A-24X-CC-PAL,0,5,149.55,149.6,,,,M [P15],P [A83],,,,,,,,,,,,,D [A84],D [A84],,,,,,,,,,341,U1419,A,24,X,CC,PAL
-341-U1419A-25X-CC-PAL,0,5,158.47,158.52,,,,M [P15],F [A83],P [A84],,A [A84],,,,,,,,,,P [A84],D [A84],P [A84],,,,,,,,,341,U1419,A,25,X,CC,PAL
-341-U1419A-26X-CC-PAL,0,5,169.23,169.28,,,,M [P15],F [A83],F [A84],,F [A84],R [A84],,,,,,,R [A84],R [A84],R [A84],D [A84],R [A84],,R [A84],,,,,,,341,U1419,A,26,X,CC,PAL
-341-U1419A-27X-CC-PAL,0,5,177.61,177.66,,,,M [P15],P [A83],,,D [A84],,,,,,,,,,,,,,,,,,,,,341,U1419,A,27,X,CC,PAL
-341-U1419A-28X-CC-PAL,0,3,186.5,186.53,,,,M [P15],P [A83],A [A84],,,,,,,,,,,,,D [A84],,,,,,very sandy,,,,341,U1419,A,28,X,CC,PAL
-341-U1419A-29X-CC-PAL,0,8,189.5,189.58,,,,M [P15],P [A83],,,,,,,,,,,,,D [A84],,,,,,,,,,,341,U1419,A,29,X,CC,PAL
+341-U1419A-1H-CC-PAL,0,5,7.38,7.43,,,,VG [P15],A [A83],D,,D,P,,,,,,,,,R,D,,,R,,,,,,,341,U1419,A,1,H,CC,PAL
+341-U1419A-2H-CC-PAL,0,5,17.15,17.2,,,,VG [P15],A [A83],D,,A,R,,,,,,,,,,D,R,,R,,,,,,,341,U1419,A,2,H,CC,PAL
+341-U1419A-3H-CC-PAL,0,5,26.6,26.65,,,,VG [P15],F [A83],A,,F,R,,,,,,,,,R,D,R,,,,,,,,,341,U1419,A,3,H,CC,PAL
+341-U1419A-5H-CC-PAL,0,1,35.91,35.92,,,,M [P15],R [A83],D,,F,R,,,,,,,,,,D,,,,,,,,,,341,U1419,A,5,H,CC,PAL
+341-U1419A-6H-CC-PAL,0,5,48.04,48.09,,,,G [P15],R [A83],A,,A,P,,,,,,,,,R,D,P,,P,,,,,,,341,U1419,A,6,H,CC,PAL
+341-U1419A-8H-CC-PAL,0,5,68.16,68.21,,,,G [P15],R [A83],R,,R,R,,,,,,,,R,,D,,,R,,,brown foram,,,,341,U1419,A,8,H,CC,PAL
+341-U1419A-9H-CC-PAL,0,5,75.02,75.07,,,,G [P15],P [A83],R,,R,,,,,,,,,,,D,,,R,,,,,,,341,U1419,A,9,H,CC,PAL
+341-U1419A-10H-CC-PAL,0,5,83.74,83.79,,,,M [P15],A [A83],F,,R,R,,,,,,,,,,D,,,,,,,,,,341,U1419,A,10,H,CC,PAL
+341-U1419A-11H-CC-PAL,0,5,88.24,88.29,,,,M [P15],A [A83],R,,R,R,,,,,,,,,P,D,R,,,,,,,,,341,U1419,A,11,H,CC,PAL
+341-U1419A-12H-CC-PAL,0,5,97.71,97.76,,,,M [P15],A [A83],R,,R,,,,,,,,,,,D,,,,,,brown foram,,,,341,U1419,A,12,H,CC,PAL
+341-U1419A-13H-CC-PAL,0,5,98.36,98.41,,,,M [P15],R [A83],F,,D,R,,,,,,,,,R,D,R,,R,,,,,,,341,U1419,A,13,H,CC,PAL
+341-U1419A-14H-CC-PAL,0,5,102.44,102.49,,,,M [P15],F [A83],F,,A,P,,,,,,,,,R,D,,,R,,,,,,,341,U1419,A,14,H,CC,PAL
+341-U1419A-15H-CC-PAL,0,5,104.68,104.73,,,,M [P15],F [A83],F,,A,R,,,,,,,,R,R,D,R,,,,,,,,,341,U1419,A,15,H,CC,PAL
+341-U1419A-16H-CC-PAL,0,5,109.54,109.59,,,,M [P15],F [A83],A,,F,R,,,,,,,R,,R,D,R,,,,,,,,,341,U1419,A,16,H,CC,PAL
+341-U1419A-17H-CC-PAL,0,5,113.75,113.8,,,,M [P15],F [A83],A,,F,R,,,,,,,,,,D,R,,R,,,,,,,341,U1419,A,17,H,CC,PAL
+341-U1419A-18H-CC-PAL,0,5,116.4,116.45,,,,M [P15],P [A83],A,,A,,,,,,,,,,,D,,,,,,brown foram,,,,341,U1419,A,18,H,CC,PAL
+341-U1419A-19H-CC-PAL,0,5,118.5,118.55,,,,,B [A83],,,,,,,,,,,,,,D,,,,,,brown foram,,,,341,U1419,A,19,H,CC,PAL
+341-U1419A-20H-CC-PAL,0,2,118.5,118.52,,,,M [P15],P [A83],F,,A,F,,,,,,,,,,D,,,F,,,brown foram,,,,341,U1419,A,20,H,CC,PAL
+341-U1419A-21X-CC-PAL,0,5,120.0,120.05,,,,M [P15],P [A83],F,,A,R,,,,,,,,R,R,D,,,R,,,brown foram,,,,341,U1419,A,21,X,CC,PAL
+341-U1419A-23X-CC-PAL,0,5,144.43,144.48,,,,M [P15],F [A83],R,,A,R,,,,P,,,,,P,D,P,,R,,,,,,,341,U1419,A,23,X,CC,PAL
+341-U1419A-24X-CC-PAL,0,5,149.55,149.6,,,,M [P15],P [A83],,,,,,,,,,,,,D,D,,,,,,,,,,341,U1419,A,24,X,CC,PAL
+341-U1419A-25X-CC-PAL,0,5,158.47,158.52,,,,M [P15],F [A83],P,,A,,,,,,,,,,P,D,P,,,,,,,,,341,U1419,A,25,X,CC,PAL
+341-U1419A-26X-CC-PAL,0,5,169.23,169.28,,,,M [P15],F [A83],F,,F,R,,,,,,,R,R,R,D,R,,R,,,,,,,341,U1419,A,26,X,CC,PAL
+341-U1419A-27X-CC-PAL,0,5,177.61,177.66,,,,M [P15],P [A83],,,D,,,,,,,,,,,,,,,,,,,,,341,U1419,A,27,X,CC,PAL
+341-U1419A-28X-CC-PAL,0,3,186.5,186.53,,,,M [P15],P [A83],A,,,,,,,,,,,,,D,,,,,,very sandy,,,,341,U1419,A,28,X,CC,PAL
+341-U1419A-29X-CC-PAL,0,8,189.5,189.58,,,,M [P15],P [A83],,,,,,,,,,,,,D,,,,,,,,,,,341,U1419,A,29,X,CC,PAL
