@@ -1,22 +1,22 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Comments,Type,A/W
-323,U1339,C,1,CC,0,0,9.68,9.68,NN21,R,G,R,,,,,,,,,E. huxleyi abundance based in 1 specimen,H,
-323,U1339,C,2,CC,0,0,19.42,19.42,,R,M-G,,,,,,R,,,,,H,
-323,U1339,C,3,CC,0,0,29.09,29.09,,B,,,,,,,,,,,Thoracosphaera spp. observed,H,
-323,U1339,C,4,CC,0,0,38.86,38.86,,R,M-G,,,,,,R,,,,,H,
-323,U1339,C,5,CC,0,0,48.39,48.39,,B,,,,,,,,,,,reworked specimens,H,
-323,U1339,C,6,CC,0,0,57.84,57.84,,B,,,,,,,,,,,,H,
-323,U1339,C,7,CC,0,0,66.55,66.55,,B,,,,,,,,,,,,H,
-323,U1339,C,8,CC,0,0,76.49,76.49,,B,,,,,,,,,,,,H,
-323,U1339,C,9,CC,0,0,85.24,85.24,,R,M-G,,,R,,R,R,,,,Thoracosphaera spp. observed,H,
-323,U1339,C,10,CC,0,0,95.01,95.01,,F,M-G,,,,,F,R,,,,,H,
-323,U1339,C,11,CC,0,0,104.43,104.43,,F,M-G,,,,,F,F,,,,,H,
-323,U1339,C,12,CC,0,0,114.36,114.36,,B,,,,,,,,,,,,H,
-323,U1339,C,13,CC,0,0,123.71,123.71,,F,M,,,,,F,F,,,,overgrowth in C. pelagicus,H,
-323,U1339,C,14,CC,0,0,133.99,133.99,,B,,,,,,,,,,,,H,
-323,U1339,C,15,CC,0,0,142.92,142.92,,B,,,,,,,,,,,,H,
-323,U1339,C,16,CC,0,0,146.52,146.52,,B,,,,,,,,,,,,H,
-323,U1339,C,17,CC,0,2,157.51,157.53,,B,,,,,,,,,,,,H,
-323,U1339,C,18,CC,0,2,165.92,165.94,,B,,,,,,,,,,,maybe 1 extremely etched spec of C. pelagicus,H,
-323,U1339,C,19,CC,0,0,176.38,176.38,,R,M-G,,,,,R,R,,,,etched specimens,H,
-323,U1339,C,20,CC,0,0,185.75,185.75,,R,M-G,,,,,R,R,,,,,H,
-323,U1339,C,21,CC,0,0,195.24,195.24,,R,M,,,,,R,,,,,,H,
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Martini (1971) Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,C. braarudii,C. leptoporus,C. leptoporus (small),Comments,Type,A/W,Sample
+323,U1339,C,1,CC,0,0,9.68,9.68,NN21,R,G,R,,,,,,,,,E. huxleyi abundance based in 1 specimen,H,,323-U1339C-1H-CC-nan
+323,U1339,C,2,CC,0,0,19.42,19.42,,R,M-G,,,,,,R,,,,,H,,323-U1339C-2H-CC-nan
+323,U1339,C,3,CC,0,0,29.09,29.09,,B,,,,,,,,,,,Thoracosphaera spp. observed,H,,323-U1339C-3H-CC-nan
+323,U1339,C,4,CC,0,0,38.86,38.86,,R,M-G,,,,,,R,,,,,H,,323-U1339C-4H-CC-nan
+323,U1339,C,5,CC,0,0,48.39,48.39,,B,,,,,,,,,,,reworked specimens,H,,323-U1339C-5H-CC-nan
+323,U1339,C,6,CC,0,0,57.84,57.84,,B,,,,,,,,,,,,H,,323-U1339C-6H-CC-nan
+323,U1339,C,7,CC,0,0,66.55,66.55,,B,,,,,,,,,,,,H,,323-U1339C-7H-CC-nan
+323,U1339,C,8,CC,0,0,76.49,76.49,,B,,,,,,,,,,,,H,,323-U1339C-8H-CC-nan
+323,U1339,C,9,CC,0,0,85.24,85.24,,R,M-G,,,R,,R,R,,,,Thoracosphaera spp. observed,H,,323-U1339C-9H-CC-nan
+323,U1339,C,10,CC,0,0,95.01,95.01,,F,M-G,,,,,F,R,,,,,H,,323-U1339C-10H-CC-nan
+323,U1339,C,11,CC,0,0,104.43,104.43,,F,M-G,,,,,F,F,,,,,H,,323-U1339C-11H-CC-nan
+323,U1339,C,12,CC,0,0,114.36,114.36,,B,,,,,,,,,,,,H,,323-U1339C-12H-CC-nan
+323,U1339,C,13,CC,0,0,123.71,123.71,,F,M,,,,,F,F,,,,overgrowth in C. pelagicus,H,,323-U1339C-13H-CC-nan
+323,U1339,C,14,CC,0,0,133.99,133.99,,B,,,,,,,,,,,,H,,323-U1339C-14H-CC-nan
+323,U1339,C,15,CC,0,0,142.92,142.92,,B,,,,,,,,,,,,H,,323-U1339C-15H-CC-nan
+323,U1339,C,16,CC,0,0,146.52,146.52,,B,,,,,,,,,,,,H,,323-U1339C-16H-CC-nan
+323,U1339,C,17,CC,0,2,157.51,157.53,,B,,,,,,,,,,,,H,,323-U1339C-17H-CC-nan
+323,U1339,C,18,CC,0,2,165.92,165.94,,B,,,,,,,,,,,maybe 1 extremely etched spec of C. pelagicus,H,,323-U1339C-18H-CC-nan
+323,U1339,C,19,CC,0,0,176.38,176.38,,R,M-G,,,,,R,R,,,,etched specimens,H,,323-U1339C-19H-CC-nan
+323,U1339,C,20,CC,0,0,185.75,185.75,,R,M-G,,,,,R,R,,,,,H,,323-U1339C-20H-CC-nan
+323,U1339,C,21,CC,0,0,195.24,195.24,,R,M,,,,,R,,,,,,H,,323-U1339C-21H-CC-nan

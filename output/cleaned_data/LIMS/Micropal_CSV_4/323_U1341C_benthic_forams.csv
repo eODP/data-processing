@@ -1,28 +1,28 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Alabaminella weddellensis,Bolivina sp.,Brizalina pygmaea,Brizalina earlandi,Bulimina aff. exilis,Bulimina sp.,Cancris cf. phillipinensis,Cassidulina sp.,Cibicidoides sp.,Eggerella bradyi,Elphidium cf. batialis,Epistominella pulchella,Epistominella sp.,Fissurina sp,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Martinotiella communis,Melonis barleanum,Nodosaria spp.,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Oridorsalis umbonatus,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia sp.,Pullenia bulloides,Pyrgo sp.,Rhabdammina sp.,Sphaeroidina bulloides,Stainforthia aff. fusiformis,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Valvulineria sp.,Nodosaria longiscata,Cribrostomoides subglobosus,IRD,Other observations,Type,A/W
-323,U1341,C,1,1,0,0,0,0,VG,D,,F,P,,,D,,,,,,R,,,,F,,,,,,,,,,,,,,,,,,,,P,,,,,,R,,,R,A,Rare sponge spicules,H,
-323,U1341,C,1,CC,,,5.44,5.54,VG,A,,,,p,,F,,P,,,,,,,,,P,,,P,,P,,,,,,,P,R,p,,,,,P,,,,,P,A,R,R,,A,Rare sponge spicules,H,
-323,U1341,C,2,CC,,,15.34,15.44,G,A,,,,,,,,,,,,,F,,,,F,,R,A,,,,,P,,R,,R,,,,,,,,P,,R,P,F,F,,,,A,Rare sponge spicules,H,
-323,U1341,C,3,CC,,,24.82,24.92,G,A,,,,P,,P,,,,A,,,,,P,,R,,F,F,P,,,P,,,,,,,,P,P,,,,,,,P,,A,P,P,,A,Rare sponge spicules,H,
-323,U1341,C,4,CC,,,34.41,34.51,G,F,,,,R,,R,R,,R,F,,R,,,,,R,,R,,,,,R,P,,,P,,,,,P,,,,,,,,,,,,,D,Rare sponge spicules,H,
-323,U1341,C,5,CC,,,41.69,41.79,G,R,,,,,,P,,,P,,,R,,,,,R,,,,,,,,,,,P,,,,,,P,,,,,,,,R,,,,D,Rare sponge spicules,H,
-323,U1341,C,6,CC,,,53.52,53.62,M,F,,,,,,,,,,,,P,,,,,,F,,,,,,P,,,P,F,,,,,,P,,,,,,,,F,,,,D,Rare sponge spicules,H,
-323,U1341,C,7,CC,,,62.14,62.24,G,F,,,,,,F,,,P,,,,,,,,F,,R,,,,,R,P,,,R,P,,,,,P,,,,,,,,R,,,,D,Rare sponge spicules,H,
-323,U1341,C,8,CC,,,70.96,71.06,G,F,,,,P,P,P,,,,A,,,,,,,R,,R,F,,,,F,,,,P,,,,,,F,,,,P,,,P,P,,,,D,Rare sponge spicules,H,
-323,U1341,C,9,CC,,,80.52,80.62,G,R,,,,,,R,,,,,,P,,P,,,P,P,P,R,,,,R,P,,,,,,,,,,,,,,,,,A,,,,A,Rare sponge spicules,H,
-323,U1341,C,10,CC,,,89.95,90.05,G,D,,,,F,,D,P,,P,A,,,,,,,,R,,,,,,P,,,,R,,,,,R,,,,,,,,,R,,,,F,Rare sponge spicules,H,
-323,U1341,C,11,CC,,,96.93,97.03,G,F,,,,P,,F,,,P,F,,,,,,,R,P,,R,,,,,P,,R,,,,,,,,P,,,P,,,,F,,,,D,Rare sponge spicules,H,
-323,U1341,C,12,CC,,,105.64,105.74,G,R,,,,,,,,,,,,R,,,,,R,P,R,,,,,,,,,,,,,,P,,P,,,,,,,,,,,D,Rare sponge spicules,H,
-323,U1341,C,13,CC,,,115.05,115.15,G,D,,,,R,,,,,P,P,P,,R,,P,,R,P,,D,,,,,,,A,P,,,,,P,,,,,,,,,,,,,D,Rare sponge spicules,H,
-323,U1341,C,14,CC,,,124.56,124.66,G,R,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Rare sponge spicules,H,
-323,U1341,C,15,CC,,,133.96,134.06,M,R,,,,,,,P,,,P,,R,,,P,P,,,,P,,,,,,,,,,,,,,,,,,,,P,,,,,,D,Rare sponge spicules,H,
-323,U1341,C,16,CC,,,139.55,139.65,M,R,,,,,,R,,,,,,R,,,,,P,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,D,Rare sponge spicules,H,
-323,U1341,C,17,CC,,,147.08,147.18,M,F,,,,,,,,,,,P,F,,,,,F,,P,,,,,,P,,,,,,,,,,P,,P,,P,,,,,,,A,Rare sponge spicules,H,
-323,U1341,C,18,CC,,,157,157.1,M,F,,,,,,,,,,,,P,,,,,R,,P,,,,,R,,,,,,P,,,,F,P,,,,P,,,,,,,A,Rare sponge spicules,H,
-323,U1341,C,19,CC,,,166.5,166.6,P,R,,,,,,,,,,,,P,,,,,R,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,D,Few sponge spicules,H,
-323,U1341,C,20,CC,,,175.98,176.08,P,P,,,,,,,,,,,,F,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Few sponge spicules,H,
-323,U1341,C,21,CC,,,185.45,185.55,P,F,P,,,,,,,,,,,R,,,,,F,,,,,,,,P,,,,,,,,,,,,,,,,,,P,,,D,"Rare sponge spicules, wood",H,
-323,U1341,C,23,CC,,,196.96,197.06,G,A,,,,,,,,,P,R,,P,,,,,R,,F,F,,,,P,,R,,,,,,P,,F,,,,,,,,,,R,,A,Rare sponge spicules,H,
-323,U1341,C,24,CC,,,201.58,201.68,P,F,,,,,,,,,R,,,P,P,,,,R,,P,,,P,,,R,P,,,,,,,,,,,,,,P,,,,,,D,Yellow degraded planktonics,H,
-323,U1341,C,25,CC,,,211.17,211.27,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Clumped spicules, wood",H,
-323,U1341,C,26,CC,,,220.82,220.92,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,A,"Clumped spicules, wood",H,
-323,U1341,C,27,CC,,,230.44,230.54,G,R,,,,,,,,,,,,R,,,,,P,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,A,Clumped spicules,H,
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Alabaminella weddellensis,Bolivina sp.,Brizalina pygmaea,Brizalina earlandi,Bulimina aff. exilis,Bulimina sp.,Cancris cf. phillipinensis,Cassidulina sp.,Cibicidoides sp.,Eggerella bradyi,Elphidium cf. batialis,Epistominella pulchella,Epistominella sp.,Fissurina sp,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Martinotiella communis,Melonis barleanum,Nodosaria spp.,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Oridorsalis umbonatus,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia sp.,Pullenia bulloides,Pyrgo sp.,Rhabdammina sp.,Sphaeroidina bulloides,Stainforthia aff. fusiformis,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Valvulineria sp.,Nodosaria longiscata,Cribrostomoides subglobosus,IRD,Other observations,Type,A/W,Sample
+323,U1341,C,1,1,0,0,0,0,VG,D,,F,P,,,D,,,,,,R,,,,F,,,,,,,,,,,,,,,,,,,,P,,,,,,R,,,R,A,Rare sponge spicules,H,,323-U1341C-1H-1-nan
+323,U1341,C,1,CC,,,5.44,5.54,VG,A,,,,p,,F,,P,,,,,,,,,P,,,P,,P,,,,,,,P,R,p,,,,,P,,,,,P,A,R,R,,A,Rare sponge spicules,H,,323-U1341C-1H-CC-nan
+323,U1341,C,2,CC,,,15.34,15.44,G,A,,,,,,,,,,,,,F,,,,F,,R,A,,,,,P,,R,,R,,,,,,,,P,,R,P,F,F,,,,A,Rare sponge spicules,H,,323-U1341C-2H-CC-nan
+323,U1341,C,3,CC,,,24.82,24.92,G,A,,,,P,,P,,,,A,,,,,P,,R,,F,F,P,,,P,,,,,,,,P,P,,,,,,,P,,A,P,P,,A,Rare sponge spicules,H,,323-U1341C-3H-CC-nan
+323,U1341,C,4,CC,,,34.41,34.51,G,F,,,,R,,R,R,,R,F,,R,,,,,R,,R,,,,,R,P,,,P,,,,,P,,,,,,,,,,,,,D,Rare sponge spicules,H,,323-U1341C-4H-CC-nan
+323,U1341,C,5,CC,,,41.69,41.79,G,R,,,,,,P,,,P,,,R,,,,,R,,,,,,,,,,,P,,,,,,P,,,,,,,,R,,,,D,Rare sponge spicules,H,,323-U1341C-5H-CC-nan
+323,U1341,C,6,CC,,,53.52,53.62,M,F,,,,,,,,,,,,P,,,,,,F,,,,,,P,,,P,F,,,,,,P,,,,,,,,F,,,,D,Rare sponge spicules,H,,323-U1341C-6H-CC-nan
+323,U1341,C,7,CC,,,62.14,62.24,G,F,,,,,,F,,,P,,,,,,,,F,,R,,,,,R,P,,,R,P,,,,,P,,,,,,,,R,,,,D,Rare sponge spicules,H,,323-U1341C-7H-CC-nan
+323,U1341,C,8,CC,,,70.96,71.06,G,F,,,,P,P,P,,,,A,,,,,,,R,,R,F,,,,F,,,,P,,,,,,F,,,,P,,,P,P,,,,D,Rare sponge spicules,H,,323-U1341C-8H-CC-nan
+323,U1341,C,9,CC,,,80.52,80.62,G,R,,,,,,R,,,,,,P,,P,,,P,P,P,R,,,,R,P,,,,,,,,,,,,,,,,,A,,,,A,Rare sponge spicules,H,,323-U1341C-9H-CC-nan
+323,U1341,C,10,CC,,,89.95,90.05,G,D,,,,F,,D,P,,P,A,,,,,,,,R,,,,,,P,,,,R,,,,,R,,,,,,,,,R,,,,F,Rare sponge spicules,H,,323-U1341C-10H-CC-nan
+323,U1341,C,11,CC,,,96.93,97.03,G,F,,,,P,,F,,,P,F,,,,,,,R,P,,R,,,,,P,,R,,,,,,,,P,,,P,,,,F,,,,D,Rare sponge spicules,H,,323-U1341C-11H-CC-nan
+323,U1341,C,12,CC,,,105.64,105.74,G,R,,,,,,,,,,,,R,,,,,R,P,R,,,,,,,,,,,,,,P,,P,,,,,,,,,,,D,Rare sponge spicules,H,,323-U1341C-12H-CC-nan
+323,U1341,C,13,CC,,,115.05,115.15,G,D,,,,R,,,,,P,P,P,,R,,P,,R,P,,D,,,,,,,A,P,,,,,P,,,,,,,,,,,,,D,Rare sponge spicules,H,,323-U1341C-13H-CC-nan
+323,U1341,C,14,CC,,,124.56,124.66,G,R,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Rare sponge spicules,H,,323-U1341C-14H-CC-nan
+323,U1341,C,15,CC,,,133.96,134.06,M,R,,,,,,,P,,,P,,R,,,P,P,,,,P,,,,,,,,,,,,,,,,,,,,P,,,,,,D,Rare sponge spicules,H,,323-U1341C-15H-CC-nan
+323,U1341,C,16,CC,,,139.55,139.65,M,R,,,,,,R,,,,,,R,,,,,P,,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,D,Rare sponge spicules,H,,323-U1341C-16H-CC-nan
+323,U1341,C,17,CC,,,147.08,147.18,M,F,,,,,,,,,,,P,F,,,,,F,,P,,,,,,P,,,,,,,,,,P,,P,,P,,,,,,,A,Rare sponge spicules,H,,323-U1341C-17H-CC-nan
+323,U1341,C,18,CC,,,157,157.1,M,F,,,,,,,,,,,,P,,,,,R,,P,,,,,R,,,,,,P,,,,F,P,,,,P,,,,,,,A,Rare sponge spicules,H,,323-U1341C-18H-CC-nan
+323,U1341,C,19,CC,,,166.5,166.6,P,R,,,,,,,,,,,,P,,,,,R,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,D,Few sponge spicules,H,,323-U1341C-19H-CC-nan
+323,U1341,C,20,CC,,,175.98,176.08,P,P,,,,,,,,,,,,F,,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Few sponge spicules,H,,323-U1341C-20H-CC-nan
+323,U1341,C,21,CC,,,185.45,185.55,P,F,P,,,,,,,,,,,R,,,,,F,,,,,,,,P,,,,,,,,,,,,,,,,,,P,,,D,"Rare sponge spicules, wood",H,,323-U1341C-21H-CC-nan
+323,U1341,C,23,CC,,,196.96,197.06,G,A,,,,,,,,,P,R,,P,,,,,R,,F,F,,,,P,,R,,,,,,P,,F,,,,,,,,,,R,,A,Rare sponge spicules,H,,323-U1341C-23H-CC-nan
+323,U1341,C,24,CC,,,201.58,201.68,P,F,,,,,,,,,R,,,P,P,,,,R,,P,,,P,,,R,P,,,,,,,,,,,,,,P,,,,,,D,Yellow degraded planktonics,H,,323-U1341C-24H-CC-nan
+323,U1341,C,25,CC,,,211.17,211.27,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Clumped spicules, wood",H,,323-U1341C-25H-CC-nan
+323,U1341,C,26,CC,,,220.82,220.92,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,A,"Clumped spicules, wood",H,,323-U1341C-26H-CC-nan
+323,U1341,C,27,CC,,,230.44,230.54,G,R,,,,,,,,,,,,R,,,,,P,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,A,Clumped spicules,H,,323-U1341C-27H-CC-nan

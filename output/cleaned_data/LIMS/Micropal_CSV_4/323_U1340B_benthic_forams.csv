@@ -1,7 +1,7 @@
-Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Brizalina earlandi,Brizalina sp.,Bulimina aff. exilis,Elphidium cf. batialis,Epistominella pulchella,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Melonis barleanum,Nonionella labradorica,Nonionella turgida,Pullenia sp.,Stainforthia aff. fusiformis,Uvigerina cf. peregrina,Uvigerina auberiana,IRD,Other observations,Top [cm],Bottom [cm],A/W
-323,U1340,B,1,H,CC,6.29,6.43,G,A,,,R,,F,R,P,,F,,,P,,,A,P,D,"Quartz, few sponge spicules",,,
-323,U1340,B,2,H,CC,16.25,16.35,G,A,R,,F,,F,P,F,F,P,P,P,R,,,A,,R,Dominant planktic forams,,,
-323,U1340,B,3,H,CC,25.69,25.79,G,A,P,,A,,P,,R,P,F,P,P,P,P,,R,,A,Abundant sponge spicules,,,
-323,U1340,B,4,H,CC,35.29,35.39,G,A,A,,R,,R,,P,,,,,,,P,,,A,Abundant sponge spicules,,,
-323,U1340,B,5,H,CC,44.02,44.12,G,F,,P,F,P,,,R,,F,P,R,,P,,R,,A,Few sponge spicules,,,
-323,U1340,B,6,H,CC,54.33,54.43,G,,D,,F,,,,A,,R,,R,,,R,R,,F,Few sponge spicules,,,
+Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Brizalina earlandi,Brizalina sp.,Bulimina aff. exilis,Elphidium cf. batialis,Epistominella pulchella,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Melonis barleanum,Nonionella labradorica,Nonionella turgida,Pullenia sp.,Stainforthia aff. fusiformis,Uvigerina cf. peregrina,Uvigerina auberiana,IRD,Other observations,Top [cm],Bottom [cm],A/W,Sample
+323,U1340,B,1,H,CC,6.29,6.43,G,A,,,R,,F,R,P,,F,,,P,,,A,P,D,"Quartz, few sponge spicules",,,,323-U1340B-1H-CC-nan
+323,U1340,B,2,H,CC,16.25,16.35,G,A,R,,F,,F,P,F,F,P,P,P,R,,,A,,R,Dominant planktic forams,,,,323-U1340B-2H-CC-nan
+323,U1340,B,3,H,CC,25.69,25.79,G,A,P,,A,,P,,R,P,F,P,P,P,P,,R,,A,Abundant sponge spicules,,,,323-U1340B-3H-CC-nan
+323,U1340,B,4,H,CC,35.29,35.39,G,A,A,,R,,R,,P,,,,,,,P,,,A,Abundant sponge spicules,,,,323-U1340B-4H-CC-nan
+323,U1340,B,5,H,CC,44.02,44.12,G,F,,P,F,P,,,R,,F,P,R,,P,,R,,A,Few sponge spicules,,,,323-U1340B-5H-CC-nan
+323,U1340,B,6,H,CC,54.33,54.43,G,,D,,F,,,,A,,R,,R,,,R,R,,F,Few sponge spicules,,,,323-U1340B-6H-CC-nan

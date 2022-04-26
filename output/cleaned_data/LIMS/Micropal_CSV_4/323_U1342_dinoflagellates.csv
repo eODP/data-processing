@@ -1,13 +1,13 @@
-Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Dinoflagellate cysts,Organic lining of foraminifers,Bitectatodinium tepikiense,Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Gymnodinium catenatum,Impagidinium pallidum,Impagidinium spp.,Islandinium imnutum,Islandinium - Morphtype Cesare,Nematosphaeropsis lemniscata,Operculodinium centrocarpum,O. centrocarpum var. short processes,Pentapharsodinium dalei,Polykrikos - Arctic morphotype,Polykrikos schwartzii,Protoperidinium americanum,Top [cm],Bottom [cm],A/W
-323,U1342,A,1H,H,CC,1.65,1.75,G,C,C,A,R,A,D,,,,F,,,,,,,,,,,
-323,U1342,A,2H,H,CC,11.31,11.41,M,C,C,,,A,D,,,,,,,,,,,,,,,
-323,U1342,A,3H,H,CC,20.91,21.01,G,A,C,F,R,F,A,,,R,R,,F,A,A,R,A,,,,,
-323,U1342,A,4H,H,CC,30.65,30.75,M,C,C,R,A,A,D,,,,A,,R,,,,,,,,,
-323,U1342,A,5H,H,CC,40.12,40.22,M,C,C,D,,,D,,,,,,,,,,,,F,,,
-323,U1342,A,6H,H,CC,48.25,48.35,P,R,,P,,,,,,,,,,,,,,,,,,
-323,U1342,A,7H,H,CC,55.64,55.74,P,F,C,,,P,P,,,,,,,,,,,,,,,
-323,U1342,B,1H,H,CC,5.23,5.33,G,C,C,,F,A,D,F,,,F,,,,,,R,F,,,,
-323,U1342,B,2H,H,CC,14.98,15.08,M,C,C,F,F,,D,,F,,,,,F,,F,,,,,,
-323,U1342,B,3H,H,CC,24.71,24.81,M,C,C,,F,D,D,,,,A,,,,,,,,,,,
-323,U1342,B,4H,H,CC,33.97,34.07,M,C,C,,R,A,D,,,R,A,,,,,,,,,,,
-323,U1342,B,5H,H,CC,43.64,43.74,P,C,C,,,,P,,,,,,,,,,,,,,,
+Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Dinoflagellate cysts,Organic lining of foraminifers,Bitectatodinium tepikiense,Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Gymnodinium catenatum,Impagidinium pallidum,Impagidinium spp.,Islandinium imnutum,Islandinium - Morphtype Cesare,Nematosphaeropsis lemniscata,Operculodinium centrocarpum,O. centrocarpum var. short processes,Pentapharsodinium dalei,Polykrikos - Arctic morphotype,Polykrikos schwartzii,Protoperidinium americanum,Top [cm],Bottom [cm],A/W,Sample
+323,U1342,A,1H,H,CC,1.65,1.75,G,C,C,A,R,A,D,,,,F,,,,,,,,,,,,323-U1342A-1HH-CC-nan
+323,U1342,A,2H,H,CC,11.31,11.41,M,C,C,,,A,D,,,,,,,,,,,,,,,,323-U1342A-2HH-CC-nan
+323,U1342,A,3H,H,CC,20.91,21.01,G,A,C,F,R,F,A,,,R,R,,F,A,A,R,A,,,,,,323-U1342A-3HH-CC-nan
+323,U1342,A,4H,H,CC,30.65,30.75,M,C,C,R,A,A,D,,,,A,,R,,,,,,,,,,323-U1342A-4HH-CC-nan
+323,U1342,A,5H,H,CC,40.12,40.22,M,C,C,D,,,D,,,,,,,,,,,,F,,,,323-U1342A-5HH-CC-nan
+323,U1342,A,6H,H,CC,48.25,48.35,P,R,,P,,,,,,,,,,,,,,,,,,,323-U1342A-6HH-CC-nan
+323,U1342,A,7H,H,CC,55.64,55.74,P,F,C,,,P,P,,,,,,,,,,,,,,,,323-U1342A-7HH-CC-nan
+323,U1342,B,1H,H,CC,5.23,5.33,G,C,C,,F,A,D,F,,,F,,,,,,R,F,,,,,323-U1342B-1HH-CC-nan
+323,U1342,B,2H,H,CC,14.98,15.08,M,C,C,F,F,,D,,F,,,,,F,,F,,,,,,,323-U1342B-2HH-CC-nan
+323,U1342,B,3H,H,CC,24.71,24.81,M,C,C,,F,D,D,,,,A,,,,,,,,,,,,323-U1342B-3HH-CC-nan
+323,U1342,B,4H,H,CC,33.97,34.07,M,C,C,,R,A,D,,,R,A,,,,,,,,,,,,323-U1342B-4HH-CC-nan
+323,U1342,B,5H,H,CC,43.64,43.74,P,C,C,,,,P,,,,,,,,,,,,,,,,323-U1342B-5HH-CC-nan

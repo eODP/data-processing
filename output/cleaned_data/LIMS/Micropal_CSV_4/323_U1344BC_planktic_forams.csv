@@ -1,7 +1,7 @@
-Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Neogloboquadrina pachyderma (sin),comments,A/W
-323,U1344,B,1,H,1,0,0,0,0,,B,,,"dominant IRD, diatoms",
-323,U1344,B,1,H,CC,26,36,4.7,4.8,G,R,P,R,few IRD,
-323,U1344,C,1,H,CC,15,25,7.02,7.12,G,A,A,A,"rare IRD, pyrite, sponge spicules",
-323,U1344,C,2,H,CC,8,18,14.14,14.24,M,A,A,A,"abundant IRD, pyrite, sponge spicules, shell fragments",
-323,U1344,C,3,H,CC,0,15,26.25,26.4,M,A,F,F,"abundant IRD, pyrite, sponge spicules, yellow foraminiferal tests",
-323,U1344,C,4,H,CC,35,45,35.45,35.55,M,F,P,F,"few IRD, pyrite",
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Neogloboquadrina pachyderma (sin),comments,A/W,Sample
+323,U1344,B,1,H,1,0,0,0,0,,B,,,"dominant IRD, diatoms",,323-U1344B-1H-1-nan
+323,U1344,B,1,H,CC,26,36,4.7,4.8,G,R,P,R,few IRD,,323-U1344B-1H-CC-nan
+323,U1344,C,1,H,CC,15,25,7.02,7.12,G,A,A,A,"rare IRD, pyrite, sponge spicules",,323-U1344C-1H-CC-nan
+323,U1344,C,2,H,CC,8,18,14.14,14.24,M,A,A,A,"abundant IRD, pyrite, sponge spicules, shell fragments",,323-U1344C-2H-CC-nan
+323,U1344,C,3,H,CC,0,15,26.25,26.4,M,A,F,F,"abundant IRD, pyrite, sponge spicules, yellow foraminiferal tests",,323-U1344C-3H-CC-nan
+323,U1344,C,4,H,CC,35,45,35.45,35.55,M,F,P,F,"few IRD, pyrite",,323-U1344C-4H-CC-nan

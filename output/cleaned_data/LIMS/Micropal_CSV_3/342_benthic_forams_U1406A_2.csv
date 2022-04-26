@@ -1,4 +1,4 @@
-Label ID,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data
 342-U1406A-2H-2-W 100/102-PAL,342,U1406,A,2,2-2,H,2,W,100/102-PAL,0,2,8.7,8.72,8.71,VG [P21],P [A60],R [A60],R [A60],A [A60],A [A60],P [A60],,
 342-U1406A-2H-4-W 100/102-PAL,342,U1406,A,2,2-4,H,4,W,100/102-PAL,0,2,11.7,11.72,11.71,VG [P21],P [A60],P [A60],R [A60],A [A60],A [A60],P [A60],,
 342-U1406A-2H-5-W 100/102-PAL,342,U1406,A,2,2-5,H,5,W,100/102-PAL,0,2,13.2,13.22,13.21,VG [P21],P [A60],F [A60],A [A60],A [A60],A [A60],A [A60],,

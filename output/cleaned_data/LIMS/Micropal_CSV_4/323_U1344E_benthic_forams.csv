@@ -1,23 +1,23 @@
-Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Brizalina earlandi,Bulimina aff. exilis,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Elphidium cf. batialis,Globobulimina pacifica,Gyroidinoides soldanii,Islandiella norcrossi,Melonis pompilioides,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina wuellerstorfi,Pullenia bulloides,Pullenia sp.,Pyrgo sp.,Quinqueloculina sp.,Triloculina cf. trihedra,Uvigerina auberiana,Valvulineria sp.,Cibicidoides mundulus,Oolina globosa?,Comments,A/W
-323,U1344,E,1,H,CC,16,26,5.24,5.34,VG,D,,,,D,,,A,,,,R,,F,,,,,,,A,D,,,MICA,
-323,U1344,E,2,H,CC,11,21,14.92,15.02,G,A,,,,,,R,R,P,,P,A,,P,,,P,,,R,R,,,,"MICA, PYRITE TUBES",
-323,U1344,E,3,H,CC,14,24,24.75,24.85,M,A,,,,,,R,R,,,,A,,P,P,,,,,,,F,,,"MICA, PYRITE TUBES",
-323,U1344,E,4,H,CC,20,30,34.58,34.68,G,A,A,,,,,R,A,,,,A,,,,,,,,,F,,,,"MICA, PYRITE",
-323,U1344,E,5,H,CC,29,39,43.72,43.82,G,A,,,,,,F,,P,,,A,,,,,,,,,,,,,"MICA, PYRITE TUBES",
-323,U1344,E,6,H,CC,30,40,53.28,53.38,M,D,D,F,,F,,R,D,,,,,,D,,,,,,,,,,,"FORAM OOZE, YELLOW FORAMS",
-323,U1344,E,7,H,CC,35,45,62,62.1,M,F,,P,,,,R,R,,,F,F,,,,,,,P,,P,,P,,"MICA, PYRITE TUBES, WOOD",
-323,U1344,E,8,H,CC,24,34,71.95,72.05,M,F,,,,,,F,R,,,,R,,R,,,,,,,,,,,"MICA, PYRITE TUBES, WOOD, MUTANT",
-323,U1344,E,9,H,CC,30,40,81.27,81.37,M,F,,,,,,R,R,R,,P,R,,,,R,,,,,,,,R,"MICA, PYRITE TUBES, WOOD",
-323,U1344,E,10,H,CC,39,49,90.75,90.85,G,D,A,,,D,,A,,,,,A,,,,,,,,,P,P,,P,"MICA, PYRITE TUBES, WOOD",
-323,U1344,E,12,H,CC,34,44,102.95,103.05,G,F,P,F,,R,,,F,P,,,R,,,,,,,,,,R,,P,"MICA, PYRITE, GLASS SHARDS",
-323,U1344,E,13,H,CC,25,35,112.8,112.9,M,R,P,R,,,,,,,,,P,,,,,,,,,,P,,,"MICA, PYRITE, YELLOW FORAMS",
-323,U1344,E,14,H,CC,24,34,122.36,122.46,M,R,,P,,,R,R,,,P,R,,,,,P,,,,,P,,,,"MICA, PYRITE",
-323,U1344,E,15,H,CC,20,30,127,127.1,M,A,F,A,P,P,,,,R,,,P,R,,,,,,R,,P,P,,,"MICA, PYRITE, YELLOW FORAMS",
-323,U1344,E,16,H,CC,26,36,136.41,136.51,M,R,,,,,,R,P,,,,,,,,,,,,,,,,,"MICA, PYRITE, YELLOW FORAMS",
-323,U1344,E,17,H,CC,18,28,144.93,145.03,M,F,,F,,R,,P,P,,,,R,,,,,,,,,R,P,,,"MICA, PYRITE",
-323,U1344,E,18,H,CC,35,45,155.39,155.49,M,A,,R,,R,,A,P,,,,R,,,,,,,,,F,R,,,"MICA, PYRITE",
-323,U1344,E,19,H,CC,30,40,165.34,165.44,G,P,,,,,,,P,,,,,,,,,,,,,,,,,"MICA, PYRITE",
-323,U1344,E,20,H,CC,33,43,174.18,174.28,M,A,,F,,,,A,P,R,,R,,,,,,,P,,,F,R,,,"MICA, PYRITE",
-323,U1344,E,21,H,CC,22,32,182.52,182.62,M,A,,P,,,,A,,,,,,,,,P,,,,,R,P,,,"MICA, PYRITE, FEW YELLOW FORAMS",
-323,U1344,E,22,H,CC,16,26,193.75,193.85,M,R,,,,,,P,,,,,P,,,,,,,,,,R,,R,"MICA, PYRITE",
-323,U1344,E,23,H,CC,28,38,202.69,202.79,M,F,,,,,,P,,,,F,R,,,,,,,R,,R,P,,,"MICA, PYRITE",
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Brizalina earlandi,Bulimina aff. exilis,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Elphidium cf. batialis,Globobulimina pacifica,Gyroidinoides soldanii,Islandiella norcrossi,Melonis pompilioides,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Planulina wuellerstorfi,Pullenia bulloides,Pullenia sp.,Pyrgo sp.,Quinqueloculina sp.,Triloculina cf. trihedra,Uvigerina auberiana,Valvulineria sp.,Cibicidoides mundulus,Oolina globosa?,Comments,A/W,Sample
+323,U1344,E,1,H,CC,16,26,5.24,5.34,VG,D,,,,D,,,A,,,,R,,F,,,,,,,A,D,,,MICA,,323-U1344E-1H-CC-nan
+323,U1344,E,2,H,CC,11,21,14.92,15.02,G,A,,,,,,R,R,P,,P,A,,P,,,P,,,R,R,,,,"MICA, PYRITE TUBES",,323-U1344E-2H-CC-nan
+323,U1344,E,3,H,CC,14,24,24.75,24.85,M,A,,,,,,R,R,,,,A,,P,P,,,,,,,F,,,"MICA, PYRITE TUBES",,323-U1344E-3H-CC-nan
+323,U1344,E,4,H,CC,20,30,34.58,34.68,G,A,A,,,,,R,A,,,,A,,,,,,,,,F,,,,"MICA, PYRITE",,323-U1344E-4H-CC-nan
+323,U1344,E,5,H,CC,29,39,43.72,43.82,G,A,,,,,,F,,P,,,A,,,,,,,,,,,,,"MICA, PYRITE TUBES",,323-U1344E-5H-CC-nan
+323,U1344,E,6,H,CC,30,40,53.28,53.38,M,D,D,F,,F,,R,D,,,,,,D,,,,,,,,,,,"FORAM OOZE, YELLOW FORAMS",,323-U1344E-6H-CC-nan
+323,U1344,E,7,H,CC,35,45,62,62.1,M,F,,P,,,,R,R,,,F,F,,,,,,,P,,P,,P,,"MICA, PYRITE TUBES, WOOD",,323-U1344E-7H-CC-nan
+323,U1344,E,8,H,CC,24,34,71.95,72.05,M,F,,,,,,F,R,,,,R,,R,,,,,,,,,,,"MICA, PYRITE TUBES, WOOD, MUTANT",,323-U1344E-8H-CC-nan
+323,U1344,E,9,H,CC,30,40,81.27,81.37,M,F,,,,,,R,R,R,,P,R,,,,R,,,,,,,,R,"MICA, PYRITE TUBES, WOOD",,323-U1344E-9H-CC-nan
+323,U1344,E,10,H,CC,39,49,90.75,90.85,G,D,A,,,D,,A,,,,,A,,,,,,,,,P,P,,P,"MICA, PYRITE TUBES, WOOD",,323-U1344E-10H-CC-nan
+323,U1344,E,12,H,CC,34,44,102.95,103.05,G,F,P,F,,R,,,F,P,,,R,,,,,,,,,,R,,P,"MICA, PYRITE, GLASS SHARDS",,323-U1344E-12H-CC-nan
+323,U1344,E,13,H,CC,25,35,112.8,112.9,M,R,P,R,,,,,,,,,P,,,,,,,,,,P,,,"MICA, PYRITE, YELLOW FORAMS",,323-U1344E-13H-CC-nan
+323,U1344,E,14,H,CC,24,34,122.36,122.46,M,R,,P,,,R,R,,,P,R,,,,,P,,,,,P,,,,"MICA, PYRITE",,323-U1344E-14H-CC-nan
+323,U1344,E,15,H,CC,20,30,127,127.1,M,A,F,A,P,P,,,,R,,,P,R,,,,,,R,,P,P,,,"MICA, PYRITE, YELLOW FORAMS",,323-U1344E-15H-CC-nan
+323,U1344,E,16,H,CC,26,36,136.41,136.51,M,R,,,,,,R,P,,,,,,,,,,,,,,,,,"MICA, PYRITE, YELLOW FORAMS",,323-U1344E-16H-CC-nan
+323,U1344,E,17,H,CC,18,28,144.93,145.03,M,F,,F,,R,,P,P,,,,R,,,,,,,,,R,P,,,"MICA, PYRITE",,323-U1344E-17H-CC-nan
+323,U1344,E,18,H,CC,35,45,155.39,155.49,M,A,,R,,R,,A,P,,,,R,,,,,,,,,F,R,,,"MICA, PYRITE",,323-U1344E-18H-CC-nan
+323,U1344,E,19,H,CC,30,40,165.34,165.44,G,P,,,,,,,P,,,,,,,,,,,,,,,,,"MICA, PYRITE",,323-U1344E-19H-CC-nan
+323,U1344,E,20,H,CC,33,43,174.18,174.28,M,A,,F,,,,A,P,R,,R,,,,,,,P,,,F,R,,,"MICA, PYRITE",,323-U1344E-20H-CC-nan
+323,U1344,E,21,H,CC,22,32,182.52,182.62,M,A,,P,,,,A,,,,,,,,,P,,,,,R,P,,,"MICA, PYRITE, FEW YELLOW FORAMS",,323-U1344E-21H-CC-nan
+323,U1344,E,22,H,CC,16,26,193.75,193.85,M,R,,,,,,P,,,,,P,,,,,,,,,,R,,R,"MICA, PYRITE",,323-U1344E-22H-CC-nan
+323,U1344,E,23,H,CC,28,38,202.69,202.79,M,F,,,,,,P,,,,F,R,,,,,,,R,,R,P,,,"MICA, PYRITE",,323-U1344E-23H-CC-nan

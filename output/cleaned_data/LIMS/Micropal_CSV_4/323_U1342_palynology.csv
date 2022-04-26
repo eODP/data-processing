@@ -1,13 +1,13 @@
-Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Pollen (trees),Pollen (shrubs),Pollen (herbs),Spores (moss&fern),Reworked palynomorphs,Top [cm],Bottom [cm],A/W
-323,U1342,A,1H,H,CC,1.65,1.75,G,R,F,R,F,R,,,
-323,U1342,A,2H,H,CC,11.31,11.41,M,C,R,,F,F,,,
-323,U1342,A,3H,H,CC,20.91,21.01,G,C,C,R,C,F,,,
-323,U1342,A,4H,H,CC,30.65,30.75,M,C,R,,R,F,,,
-323,U1342,A,5H,H,CC,40.12,40.22,M,F,R,,R,R,,,
-323,U1342,A,6H,H,CC,48.25,48.35,P,R,F,,,,,,
-323,U1342,A,7H,H,CC,55.64,55.74,P,F,R,R,R,R,,,
-323,U1342,B,1H,H,CC,5.23,5.33,G,R,R,R,R,R,,,
-323,U1342,B,2H,H,CC,14.98,15.08,M,C,C,R,R,R,,,
-323,U1342,B,3H,H,CC,24.71,24.81,M,C,,,F,C,,,
-323,U1342,B,4H,H,CC,33.97,34.07,M,C,R,,C,,,,
-323,U1342,B,5H,H,CC,43.64,43.74,P,F,C,,F,C,,,
+Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Pollen (trees),Pollen (shrubs),Pollen (herbs),Spores (moss&fern),Reworked palynomorphs,Top [cm],Bottom [cm],A/W,Sample
+323,U1342,A,1H,H,CC,1.65,1.75,G,R,F,R,F,R,,,,323-U1342A-1HH-CC-nan
+323,U1342,A,2H,H,CC,11.31,11.41,M,C,R,,F,F,,,,323-U1342A-2HH-CC-nan
+323,U1342,A,3H,H,CC,20.91,21.01,G,C,C,R,C,F,,,,323-U1342A-3HH-CC-nan
+323,U1342,A,4H,H,CC,30.65,30.75,M,C,R,,R,F,,,,323-U1342A-4HH-CC-nan
+323,U1342,A,5H,H,CC,40.12,40.22,M,F,R,,R,R,,,,323-U1342A-5HH-CC-nan
+323,U1342,A,6H,H,CC,48.25,48.35,P,R,F,,,,,,,323-U1342A-6HH-CC-nan
+323,U1342,A,7H,H,CC,55.64,55.74,P,F,R,R,R,R,,,,323-U1342A-7HH-CC-nan
+323,U1342,B,1H,H,CC,5.23,5.33,G,R,R,R,R,R,,,,323-U1342B-1HH-CC-nan
+323,U1342,B,2H,H,CC,14.98,15.08,M,C,C,R,R,R,,,,323-U1342B-2HH-CC-nan
+323,U1342,B,3H,H,CC,24.71,24.81,M,C,,,F,C,,,,323-U1342B-3HH-CC-nan
+323,U1342,B,4H,H,CC,33.97,34.07,M,C,R,,C,,,,,323-U1342B-4HH-CC-nan
+323,U1342,B,5H,H,CC,43.64,43.74,P,F,C,,F,C,,,,323-U1342B-5HH-CC-nan

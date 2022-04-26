@@ -1,23 +1,23 @@
-Exp,Site,Hole,"Core, Section, Interval",Top Depth [m],Abundance,Preservation,Achnanthes spp.,Actinocyclus curvatulus,Actinocyclus ochotensis,Actinocyclus vulgaris,Actinoptychus senarius,Arachnoidiscus spp.,Azpeitia cf. tabularis,Bacterosira fragilis,Chaetoceros resting spore,Cocconeis costata,Cocconeis disculus,Cocconeis placentula,Cocconeis scutellum,Coscinodiscus marginatus,Coscinodiscus oculus-iridis,Delphineis kippae,Delphineis surirella,Diploneis bombus,Diploneis smithii,Eunotia spp.,Fragilaria spp.,Fragilariopsis cylindrus,Fragilariopsis oceanica,Gomphonema spp.,Grammatophora arcuata,Navicula spp.,Neodenticula seminae,Nitzschia spp.,Odontella aurita,Paralia sol,Paralia sulcata,Porosira glacialis,Proboscia curvirostris,Rhabdonema spp.,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. semispina,Pyxidicula turris,Thalassionema bacillaris,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira decipiens,Thalassiosira eccentrica,Thalassiosira hyalina,Thalassiosira jouseae,Thalassiosira latimarginata sl.,Thalassiosira lineata,Thalassiosira nordenskioeldii,Thalassiosira oestrupii,Thalassiothrix longissima,Thlalassiosira lucustris,Diatom Zone (NPD) in Yanagisawa and Akiba (1998),,Section,Core,Type,Top [cm],Bottom [cm],Bottom Depth [m],A/W
-323,U1339,C,1H-CC,9.68,,G,T,F,,,,,,F,,R,,,F,,,,F,,,R,T,F,,,,,C,,F,,F,F,,,T,F,,,,F,A,,,F,,R,,C,,,,Neodenticula seminae (NPD 12),,CC,1,H,,,,
-323,U1339,C,2H-CC,19.42,,,,C,F,,,,,T,F,R,,,,,,,,,,,,,F,,,,A,,T,,,,,,,,,,,,A,,,,,C,,,C,T,,,,CC,2,H,,,,
-323,U1339,C,3H-CC,29.09,,,,F,,,,,,T,,F,,,,,,,R,,,T,,,,,,,C,,C,,,R,,F,T,T,,T,,F,A,,T,T,,R,,,,R,T,,,CC,3,H,,,,
-323,U1339,C,4H-CC,38.86,,,T,F,,,,T,T,,C,T,,,,,R,,,,,,,,T,T,,T,C,R,R,,T,,,,,F,,,,T,C,,F,,,A,,,C,F,,,,CC,4,H,,,,
-323,U1339,C,5H-CC,48.39,,,,C,,,,,,R,,,,,,T,T,,,,,,,,,,,,C,,F,,F,,,,,F,,,,,A,,F,T,,C,T,,,F,,,,CC,5,H,,,,
-323,U1339,C,6H-CC,57.84,,,,F,,,,,,T,F,F,,,,,R,T,R,,T,,,,R,,T,,C,,T,,C,,,,,R,,,,,A,,R,,,C,,T,C,T,,,,CC,6,H,,,,
-323,U1339,C,7H-CC,66.55,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,C,,F,,,,,,C,,,,,,A,,,,,,,,,,,,,CC,7,H,,,,
-323,U1339,C,8H-CC,76.53,,,,,,,,,,,,,C,,,,,,,,,,,,,,,,A,,,,,,,,,C,,,,,A,,,,,,,,,,,,,CC,8,H,,,,
-323,U1339,C,9H-CC,85.24,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,A,,,,CC,9,H,,,,
-323,U1339,C,"10H-1, 25cm",86.05,,,,A,,,,,,T,,,,,,C,,,,T,,,,,,,,,C,,C,,,,F,,T,F,,,,C,C,,,,R,R,,,,C,,Proboscia curvirostris (NPD 11),,1,10,H,25,,,
-323,U1339,C,"10H-2, 25cm",86.55,,,,A,,,,,,,,,,,,,,,,,,,,,R,,,,C,,R,,,,C,,R,,,,,C,A,,,,,F,,,,R,,,,2,10,H,25,,,
-323,U1339,C,10H-CC,95.01,,,,C,,,,,,F,,,,T,,R,,,R,,,,,,,,,,C,,R,,,T,R,,C,,C,,,R,A,,,R,F,,,T,,,,,,CC,10,H,,,,
-323,U1339,C,12H-CC,114.36,,,,C,,,,,,F,,,,,,T,T,,,,,,,,,,,,C,,,,,R,,,,,,T,T,,A,,,R,,C,,,T,T,,,,CC,12,H,,,,
-323,U1339,C,13H-CC,123.71,,,,R,F,,T,,,T,F,,,,,,,F,,,,,,,,,,,A,T,T,T,F,,T,,,R,T,,,,C,,,T,C,F,,,C,T,,,,CC,13,H,,,,
-323,U1339,C,14H-CC,133.99,,,,F,,,,,,F,,F,,,,,,,,,,,,,,,,,A,,R,,F,,,R,,,,,,,C,,,R,A,F,,,,,,,,CC,14,H,,,,
-323,U1339,C,15H-CC,142.92,,,,C,R,,,,,F,F,R,,,,F,T,R,,,,,,,,,,,F,F,T,,T,T,F,,,,,,,,A,,T,,C,C,,,C,T,,,,CC,15,H,,,,
-323,U1339,C,16H-CC,146.52,,,,C,,,,,,,,,,,,C,T,,,,,,,,,,,,,,T,,T,,C,,R,R,,T,,,A,,,,R,C,,,,,,,,CC,16,H,,,,
-323,U1339,C,17H-CC,157.02,,,,C,,,,,,,F,T,,,,F,T,,T,,,,,,,,,,C,,F,,F,,,,,,R,R,,T,A,,,T,C,F,T,,C,,,,,CC,17,H,,,,
-323,U1339,C,18H-CC,165.92,,,,C,,,,,,T,,,,,,F,,,,,,,,,,,,,A,,T,,,T,T,,T,T,,F,,F,A,,,,F,C,,F,,R,,,,CC,18,H,,,,
-323,U1339,C,19H-CC,176.38,,,,F,,,,,,,,,,,,F,,,,,,,,,,T,,T,A,R,F,,,,,,T,,,R,,R,A,T,,T,C,C,,,,F,T,,,CC,19,H,,,,
-323,U1339,C,20H-CC,185.75,,,,C,,T,,,,,,,,,,,,,,,,,,,,,,,A,,,,T,,F,,T,T,,T,,,C,,,,T,F,,,R,,,,,CC,20,H,,,,
-323,U1339,C,21H-CC,195.24,,,,C,,,,,,F,F,,,,,,,T,,,,,,,T,,,,A,,R,,R,,,,,,T,C,,,C,T,,R,F,C,,T,F,,,,,CC,21,H,,,,
+Exp,Site,Hole,"Core, Section, Interval",Top Depth [m],Abundance,Preservation,Achnanthes spp.,Actinocyclus curvatulus,Actinocyclus ochotensis,Actinocyclus vulgaris,Actinoptychus senarius,Arachnoidiscus spp.,Azpeitia cf. tabularis,Bacterosira fragilis,Chaetoceros resting spore,Cocconeis costata,Cocconeis disculus,Cocconeis placentula,Cocconeis scutellum,Coscinodiscus marginatus,Coscinodiscus oculus-iridis,Delphineis kippae,Delphineis surirella,Diploneis bombus,Diploneis smithii,Eunotia spp.,Fragilaria spp.,Fragilariopsis cylindrus,Fragilariopsis oceanica,Gomphonema spp.,Grammatophora arcuata,Navicula spp.,Neodenticula seminae,Nitzschia spp.,Odontella aurita,Paralia sol,Paralia sulcata,Porosira glacialis,Proboscia curvirostris,Rhabdonema spp.,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. semispina,Pyxidicula turris,Thalassionema bacillaris,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira decipiens,Thalassiosira eccentrica,Thalassiosira hyalina,Thalassiosira jouseae,Thalassiosira latimarginata sl.,Thalassiosira lineata,Thalassiosira nordenskioeldii,Thalassiosira oestrupii,Thalassiothrix longissima,Thlalassiosira lucustris,Diatom Zone (NPD) in Yanagisawa and Akiba (1998),,Section,Core,Type,Top [cm],Bottom [cm],Bottom Depth [m],A/W,Sample
+323,U1339,C,1H-CC,9.68,,G,T,F,,,,,,F,,R,,,F,,,,F,,,R,T,F,,,,,C,,F,,F,F,,,T,F,,,,F,A,,,F,,R,,C,,,,Neodenticula seminae (NPD 12),,CC,1,H,,,,,323-U1339C-1H-CC-nan
+323,U1339,C,2H-CC,19.42,,,,C,F,,,,,T,F,R,,,,,,,,,,,,,F,,,,A,,T,,,,,,,,,,,,A,,,,,C,,,C,T,,,,CC,2,H,,,,,323-U1339C-2H-CC-nan
+323,U1339,C,3H-CC,29.09,,,,F,,,,,,T,,F,,,,,,,R,,,T,,,,,,,C,,C,,,R,,F,T,T,,T,,F,A,,T,T,,R,,,,R,T,,,CC,3,H,,,,,323-U1339C-3H-CC-nan
+323,U1339,C,4H-CC,38.86,,,T,F,,,,T,T,,C,T,,,,,R,,,,,,,,T,T,,T,C,R,R,,T,,,,,F,,,,T,C,,F,,,A,,,C,F,,,,CC,4,H,,,,,323-U1339C-4H-CC-nan
+323,U1339,C,5H-CC,48.39,,,,C,,,,,,R,,,,,,T,T,,,,,,,,,,,,C,,F,,F,,,,,F,,,,,A,,F,T,,C,T,,,F,,,,CC,5,H,,,,,323-U1339C-5H-CC-nan
+323,U1339,C,6H-CC,57.84,,,,F,,,,,,T,F,F,,,,,R,T,R,,T,,,,R,,T,,C,,T,,C,,,,,R,,,,,A,,R,,,C,,T,C,T,,,,CC,6,H,,,,,323-U1339C-6H-CC-nan
+323,U1339,C,7H-CC,66.55,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,C,,F,,,,,,C,,,,,,A,,,,,,,,,,,,,CC,7,H,,,,,323-U1339C-7H-CC-nan
+323,U1339,C,8H-CC,76.53,,,,,,,,,,,,,C,,,,,,,,,,,,,,,,A,,,,,,,,,C,,,,,A,,,,,,,,,,,,,CC,8,H,,,,,323-U1339C-8H-CC-nan
+323,U1339,C,9H-CC,85.24,,,,A,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,A,,,,CC,9,H,,,,,323-U1339C-9H-CC-nan
+323,U1339,C,"10H-1, 25cm",86.05,,,,A,,,,,,T,,,,,,C,,,,T,,,,,,,,,C,,C,,,,F,,T,F,,,,C,C,,,,R,R,,,,C,,Proboscia curvirostris (NPD 11),,1,10,H,25,,,,323-U1339C-10H-1-nan
+323,U1339,C,"10H-2, 25cm",86.55,,,,A,,,,,,,,,,,,,,,,,,,,,R,,,,C,,R,,,,C,,R,,,,,C,A,,,,,F,,,,R,,,,2,10,H,25,,,,323-U1339C-10H-2-nan
+323,U1339,C,10H-CC,95.01,,,,C,,,,,,F,,,,T,,R,,,R,,,,,,,,,,C,,R,,,T,R,,C,,C,,,R,A,,,R,F,,,T,,,,,,CC,10,H,,,,,323-U1339C-10H-CC-nan
+323,U1339,C,12H-CC,114.36,,,,C,,,,,,F,,,,,,T,T,,,,,,,,,,,,C,,,,,R,,,,,,T,T,,A,,,R,,C,,,T,T,,,,CC,12,H,,,,,323-U1339C-12H-CC-nan
+323,U1339,C,13H-CC,123.71,,,,R,F,,T,,,T,F,,,,,,,F,,,,,,,,,,,A,T,T,T,F,,T,,,R,T,,,,C,,,T,C,F,,,C,T,,,,CC,13,H,,,,,323-U1339C-13H-CC-nan
+323,U1339,C,14H-CC,133.99,,,,F,,,,,,F,,F,,,,,,,,,,,,,,,,,A,,R,,F,,,R,,,,,,,C,,,R,A,F,,,,,,,,CC,14,H,,,,,323-U1339C-14H-CC-nan
+323,U1339,C,15H-CC,142.92,,,,C,R,,,,,F,F,R,,,,F,T,R,,,,,,,,,,,F,F,T,,T,T,F,,,,,,,,A,,T,,C,C,,,C,T,,,,CC,15,H,,,,,323-U1339C-15H-CC-nan
+323,U1339,C,16H-CC,146.52,,,,C,,,,,,,,,,,,C,T,,,,,,,,,,,,,,T,,T,,C,,R,R,,T,,,A,,,,R,C,,,,,,,,CC,16,H,,,,,323-U1339C-16H-CC-nan
+323,U1339,C,17H-CC,157.02,,,,C,,,,,,,F,T,,,,F,T,,T,,,,,,,,,,C,,F,,F,,,,,,R,R,,T,A,,,T,C,F,T,,C,,,,,CC,17,H,,,,,323-U1339C-17H-CC-nan
+323,U1339,C,18H-CC,165.92,,,,C,,,,,,T,,,,,,F,,,,,,,,,,,,,A,,T,,,T,T,,T,T,,F,,F,A,,,,F,C,,F,,R,,,,CC,18,H,,,,,323-U1339C-18H-CC-nan
+323,U1339,C,19H-CC,176.38,,,,F,,,,,,,,,,,,F,,,,,,,,,,T,,T,A,R,F,,,,,,T,,,R,,R,A,T,,T,C,C,,,,F,T,,,CC,19,H,,,,,323-U1339C-19H-CC-nan
+323,U1339,C,20H-CC,185.75,,,,C,,T,,,,,,,,,,,,,,,,,,,,,,,A,,,,T,,F,,T,T,,T,,,C,,,,T,F,,,R,,,,,CC,20,H,,,,,323-U1339C-20H-CC-nan
+323,U1339,C,21H-CC,195.24,,,,C,,,,,,F,F,,,,,,,T,,,,,,,T,,,,A,,R,,R,,,,,,T,C,,,C,T,,R,F,C,,T,F,,,,,CC,21,H,,,,,323-U1339C-21H-CC-nan

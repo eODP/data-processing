@@ -1,23 +1,23 @@
-Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella norcrossi,Elphidium spp.,Elphidium cf. batialis,Stainforthia spp.,Takayanagia delicata,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Pyrgo sp.,Cibicides lobatulus,Globocassidulina sp.,Triloculina sp.,Brizalina earlandi,Pygmaeseistron cf. hispida,Nonionella turgida digitata,Nonionella turgida,Pullenia sp. 1,Uvigerina auberiana,Valvulineria sp.,Nodosaria aff. pyrula,Glandulina sp.,Laevigata sp.,Bulimina sp.,Epistominella sp.,Lagena spp.,Eggerella bradyi,Planulina wuellerstorfi,Oberservations,Type,A/W
-323,U1339,C,1,1,0,0,0,0,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,H,
-323,U1339,C,1,CC,0,0,9.68,9.68,G,R,A,,,A,P,P,,,,,,,,P,,P,,,,,,,,,,,,,FEW IRD,H,
-323,U1339,C,2,CC,0,0,19.42,19.42,G,R,F,P,R,,,,,,P,P,,,P,,,P,R,,,,,P,P,P,P,,,,MEDIUM IRD,H,
-323,U1339,C,3,CC,0,0,29.09,29.09,G,F,,P,,,,P,,,P,,,,,,,,,,,,P,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,4,CC,0,0,38.86,38.86,G,R,F,,R,F,,P,,,,,P,,,R,P,,P,,F,,,R,,,P,,,,HIGH IRD,H,
-323,U1339,C,5,CC,0,0,48.39,48.39,M,R,,P,R,R,,,,,P,,,P,,A,,P,,,,,,P,,P,,,,,HIGH IRD,H,
-323,U1339,C,6,CC,0,0,57.84,57.84,G,R,R,P,R,,,,,,,,,P,,,,P,P,P,,,,,,,P,,,,HIGH IRD,H,
-323,U1339,C,7,CC,0,0,66.55,66.55,M,A,D,,F,R,,A,F,,A,,,,P,,,P,,P,P,P,,P,,,,P,,,HIGH IRD,H,
-323,U1339,C,8,CC,0,0,76.49,76.49,M,R,R,,P,,,,,,,,,,P,,,,,,R,P,,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,9,CC,0,0,85.24,85.24,G,A,F,,P,R,,R,,,F,P,,,,P,,,,,A,,,P,,,,,,,FEW IRD,H,
-323,U1339,C,10,CC,0,0,95.01,95.01,M,R,F,P,D,P,,,,,,,,,,,,,,,,,,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,11,CC,0,0,104.43,104.43,G,F,A,F,,F,,R,,R,P,,,,P,,,,,P,,,,P,,,,,,,MEDIUM IRD,H,
-323,U1339,C,12,CC,0,0,114.36,114.36,G,R,R,,R,,,,,,R,,,,P,,,,,,,P,,,,,,,,,"MEDIUM IRD, PYRITISED TUBES",H,
-323,U1339,C,13,CC,0,0,123.71,123.71,G,A,A,R,A,1,,P,A,R,R,,,F,,,,,,P,,,,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,14,CC,0,0,133.99,133.99,G,F,R,,P,R,,,F,,,,,R,,,,,,,R,F,,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,15,CC,0,0,142.92,142.92,G,A,D,,A,A,,P,A,,R,,,,,,,,,,,,P,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,16,CC,0,0,146.52,146.52,P,F,F,F,,,,R,A,,,,,,,,,,,,R,,,,,,,,,,MEDIUM IRD,H,
-323,U1339,C,17,CC,0,2,157.51,157.53,G,R,R,F,A,,,,P,,,,,,,,,,,,,,,,,,,,,,HIGH IRD,H,
-323,U1339,C,18,CC,0,2,165.92,165.94,M,R,,P,A,P,,,,,P,,,,,,,,P,,,,,,,,,,,,HIGH IRD,H,
-323,U1339,C,19,CC,0,0,176.38,176.38,G,A,A,,A,R,,,A,,F,,,,P,,,,,,R,,,P,,,,,,,FEW IRD,H,
-323,U1339,C,20,CC,0,0,185.75,185.75,G,R,,,P,,,R,,,,,,,P,,,,,R,,,,,,,,,P,P,MEDIUM IRD,H,
-323,U1339,C,21,CC,0,0,195.24,195.24,G,A,F,,A,A,,,R,,A,,,,,R,,,,,,,,,,,,,,,FEW IRD,H,
+Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella norcrossi,Elphidium spp.,Elphidium cf. batialis,Stainforthia spp.,Takayanagia delicata,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Pyrgo sp.,Cibicides lobatulus,Globocassidulina sp.,Triloculina sp.,Brizalina earlandi,Pygmaeseistron cf. hispida,Nonionella turgida digitata,Nonionella turgida,Pullenia sp. 1,Uvigerina auberiana,Valvulineria sp.,Nodosaria aff. pyrula,Glandulina sp.,Laevigata sp.,Bulimina sp.,Epistominella sp.,Lagena spp.,Eggerella bradyi,Planulina wuellerstorfi,Oberservations,Type,A/W,Sample
+323,U1339,C,1,1,0,0,0,0,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,H,,323-U1339C-1H-1-nan
+323,U1339,C,1,CC,0,0,9.68,9.68,G,R,A,,,A,P,P,,,,,,,,P,,P,,,,,,,,,,,,,FEW IRD,H,,323-U1339C-1H-CC-nan
+323,U1339,C,2,CC,0,0,19.42,19.42,G,R,F,P,R,,,,,,P,P,,,P,,,P,R,,,,,P,P,P,P,,,,MEDIUM IRD,H,,323-U1339C-2H-CC-nan
+323,U1339,C,3,CC,0,0,29.09,29.09,G,F,,P,,,,P,,,P,,,,,,,,,,,,P,,,,,,,,MEDIUM IRD,H,,323-U1339C-3H-CC-nan
+323,U1339,C,4,CC,0,0,38.86,38.86,G,R,F,,R,F,,P,,,,,P,,,R,P,,P,,F,,,R,,,P,,,,HIGH IRD,H,,323-U1339C-4H-CC-nan
+323,U1339,C,5,CC,0,0,48.39,48.39,M,R,,P,R,R,,,,,P,,,P,,A,,P,,,,,,P,,P,,,,,HIGH IRD,H,,323-U1339C-5H-CC-nan
+323,U1339,C,6,CC,0,0,57.84,57.84,G,R,R,P,R,,,,,,,,,P,,,,P,P,P,,,,,,,P,,,,HIGH IRD,H,,323-U1339C-6H-CC-nan
+323,U1339,C,7,CC,0,0,66.55,66.55,M,A,D,,F,R,,A,F,,A,,,,P,,,P,,P,P,P,,P,,,,P,,,HIGH IRD,H,,323-U1339C-7H-CC-nan
+323,U1339,C,8,CC,0,0,76.49,76.49,M,R,R,,P,,,,,,,,,,P,,,,,,R,P,,,,,,,,,MEDIUM IRD,H,,323-U1339C-8H-CC-nan
+323,U1339,C,9,CC,0,0,85.24,85.24,G,A,F,,P,R,,R,,,F,P,,,,P,,,,,A,,,P,,,,,,,FEW IRD,H,,323-U1339C-9H-CC-nan
+323,U1339,C,10,CC,0,0,95.01,95.01,M,R,F,P,D,P,,,,,,,,,,,,,,,,,,,,,,,,,MEDIUM IRD,H,,323-U1339C-10H-CC-nan
+323,U1339,C,11,CC,0,0,104.43,104.43,G,F,A,F,,F,,R,,R,P,,,,P,,,,,P,,,,P,,,,,,,MEDIUM IRD,H,,323-U1339C-11H-CC-nan
+323,U1339,C,12,CC,0,0,114.36,114.36,G,R,R,,R,,,,,,R,,,,P,,,,,,,P,,,,,,,,,"MEDIUM IRD, PYRITISED TUBES",H,,323-U1339C-12H-CC-nan
+323,U1339,C,13,CC,0,0,123.71,123.71,G,A,A,R,A,1,,P,A,R,R,,,F,,,,,,P,,,,,,,,,,,MEDIUM IRD,H,,323-U1339C-13H-CC-nan
+323,U1339,C,14,CC,0,0,133.99,133.99,G,F,R,,P,R,,,F,,,,,R,,,,,,,R,F,,,,,,,,,MEDIUM IRD,H,,323-U1339C-14H-CC-nan
+323,U1339,C,15,CC,0,0,142.92,142.92,G,A,D,,A,A,,P,A,,R,,,,,,,,,,,,P,,,,,,,,MEDIUM IRD,H,,323-U1339C-15H-CC-nan
+323,U1339,C,16,CC,0,0,146.52,146.52,P,F,F,F,,,,R,A,,,,,,,,,,,,R,,,,,,,,,,MEDIUM IRD,H,,323-U1339C-16H-CC-nan
+323,U1339,C,17,CC,0,2,157.51,157.53,G,R,R,F,A,,,,P,,,,,,,,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339C-17H-CC-nan
+323,U1339,C,18,CC,0,2,165.92,165.94,M,R,,P,A,P,,,,,P,,,,,,,,P,,,,,,,,,,,,HIGH IRD,H,,323-U1339C-18H-CC-nan
+323,U1339,C,19,CC,0,0,176.38,176.38,G,A,A,,A,R,,,A,,F,,,,P,,,,,,R,,,P,,,,,,,FEW IRD,H,,323-U1339C-19H-CC-nan
+323,U1339,C,20,CC,0,0,185.75,185.75,G,R,,,P,,,R,,,,,,,P,,,,,R,,,,,,,,,P,P,MEDIUM IRD,H,,323-U1339C-20H-CC-nan
+323,U1339,C,21,CC,0,0,195.24,195.24,G,A,F,,A,A,,,R,,A,,,,,R,,,,,,,,,,,,,,,FEW IRD,H,,323-U1339C-21H-CC-nan

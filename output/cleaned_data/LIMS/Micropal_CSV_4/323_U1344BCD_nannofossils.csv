@@ -1,38 +1,38 @@
-Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W
-323,U1344,B,1,H,CC,26,36,4.7,4.8,NN21,R,M-G,R,,,,,R,,,,,,,Large (>4 microns) E. huxleyi present.,
-323,U1344,C,1,H,CC,15,25,7.02,7.12,NN21,F,M-G,R,,,,,F,,,,,,,,
-323,U1344,C,2,H,CC,8,18,14.14,14.24,,B,,,,,,,,,,,,,,,
-323,U1344,C,3,H,CC,0,15,26.25,26.4,,B,,,,,,,,,,,,,,,
-323,U1344,C,4,H,CC,35,45,35.45,35.55,,R,M,,,,,R,,,,,,,,,
-323,U1344,D,1,H,CC,0,10,2.63,2.73,,R,G,,,,,,R,,,,,,,,
-323,U1344,D,2,H,CC,7,17,12.15,12.25,,R,G,,,,,,R,,,,,,R,,
-323,U1344,D,3,H,CC,7,17,21.52,21.62,,B,,,,,,,,,,,,,,,
-323,U1344,D,4,H,CC,17,27,31.57,31.67,NN21,R,M,R,,,,,,,,,,,R,,
-323,U1344,D,5,H,CC,0,16,38.05,38.21,,R,M-G,,,,,,R,,,,,,,,
-323,U1344,D,6,H,CC,32,42,50.11,50.21,,R,M-G,,,,,,R,,,,,,,"Well-formed rhomboid minerals medium to high birrefringence, up to 6 microns long",
-323,U1344,D,7,H,CC,28,38,59.66,59.76,,R,G,,,,,,R,,,,,,,,
-323,U1344,D,8,H,CC,27,37,66.41,66.51,,B,,,,,,,,,,,,,,,
-323,U1344,D,9,H,CC,58,68,78.27,78.37,,B,,,,,,,,,,,,,,,
-323,U1344,D,10,H,CC,44,54,88.44,88.54,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),
-323,U1344,D,11,H,CC,29,39,97.76,97.86,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),
-323,U1344,D,12,H,CC,26,36,107.27,107.37,,B,,,,,,,,,,,,,,,
-323,U1344,D,13,H,CC,55,65,116.6,116.7,,B,,,,,,,,,,,,,,,
-323,U1344,D,14,H,CC,33,43,126.28,126.38,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular and tubular shape, low birrefringence",
-323,U1344,D,15,H,CC,104,114,135.67,135.77,,B,,,,,,,,,,,,,,,
-323,U1344,D,16,H,CC,10,20,145.3,145.4,,B,,,,,,,,,,,,,,,
-323,U1344,D,17,H,CC,35,45,155.02,155.12,,B,,,,,,,,,,,,,,,
-323,U1344,D,18,H,CC,31,41,164.29,164.39,,B,,,,,,,,,,,,,,,
-323,U1344,D,19,H,CC,33,43,174.31,174.41,,R,M,,,,,,R,,,,,,,,
-323,U1344,D,20,H,CC,38,48,182.98,183.08,,R,M,,,R,,R,R,,,,,,,,
-323,U1344,D,21,H,CC,23,33,192.83,192.93,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",
-323,U1344,D,22,H,CC,11,21,201.79,201.89,,F,M-G,,,R,,R,,,,,,,,Gephyrocapsids are G. caribbeanica type,
-323,U1344,D,23,H,CC,19,29,211.14,211.24,,R,M,,,,,R,,,,,,,,,
-323,U1344,D,24,H,CC,0,10,221.05,221.15,,B,,,,,,,,,,,,,,,
-323,U1344,D,25,H,CC,36,46,224.41,224.51,,R,P,,,,,R,,,,,,,,,
-323,U1344,D,26,H,CC,43,53,233.99,234.09,,B,,,,,,,,,,,,,,,
-323,U1344,D,27,H,CC,22,32,240.62,240.72,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",
-323,U1344,D,28,H,CC,54,64,248.28,248.38,,R,M-G,,,,,R,,,,,,,,,
-323,U1344,D,29,H,CC,39,49,258.31,258.41,,B,,,,,,,,,,,,,,,
-323,U1344,D,30,H,CC,34,44,267.3,267.4,,B,,,,,,,,,,,,,,,
-323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,,,,,,,,,,,
-323,U1344,D,32,H,CC,7,17,286.17,286.27,,R,M-G,,,,,,,R,,,,,,,
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W,Sample
+323,U1344,B,1,H,CC,26,36,4.7,4.8,NN21,R,M-G,R,,,,,R,,,,,,,Large (>4 microns) E. huxleyi present.,,323-U1344B-1H-CC-nan
+323,U1344,C,1,H,CC,15,25,7.02,7.12,NN21,F,M-G,R,,,,,F,,,,,,,,,323-U1344C-1H-CC-nan
+323,U1344,C,2,H,CC,8,18,14.14,14.24,,B,,,,,,,,,,,,,,,,323-U1344C-2H-CC-nan
+323,U1344,C,3,H,CC,0,15,26.25,26.4,,B,,,,,,,,,,,,,,,,323-U1344C-3H-CC-nan
+323,U1344,C,4,H,CC,35,45,35.45,35.55,,R,M,,,,,R,,,,,,,,,,323-U1344C-4H-CC-nan
+323,U1344,D,1,H,CC,0,10,2.63,2.73,,R,G,,,,,,R,,,,,,,,,323-U1344D-1H-CC-nan
+323,U1344,D,2,H,CC,7,17,12.15,12.25,,R,G,,,,,,R,,,,,,R,,,323-U1344D-2H-CC-nan
+323,U1344,D,3,H,CC,7,17,21.52,21.62,,B,,,,,,,,,,,,,,,,323-U1344D-3H-CC-nan
+323,U1344,D,4,H,CC,17,27,31.57,31.67,NN21,R,M,R,,,,,,,,,,,R,,,323-U1344D-4H-CC-nan
+323,U1344,D,5,H,CC,0,16,38.05,38.21,,R,M-G,,,,,,R,,,,,,,,,323-U1344D-5H-CC-nan
+323,U1344,D,6,H,CC,32,42,50.11,50.21,,R,M-G,,,,,,R,,,,,,,"Well-formed rhomboid minerals medium to high birrefringence, up to 6 microns long",,323-U1344D-6H-CC-nan
+323,U1344,D,7,H,CC,28,38,59.66,59.76,,R,G,,,,,,R,,,,,,,,,323-U1344D-7H-CC-nan
+323,U1344,D,8,H,CC,27,37,66.41,66.51,,B,,,,,,,,,,,,,,,,323-U1344D-8H-CC-nan
+323,U1344,D,9,H,CC,58,68,78.27,78.37,,B,,,,,,,,,,,,,,,,323-U1344D-9H-CC-nan
+323,U1344,D,10,H,CC,44,54,88.44,88.54,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),,323-U1344D-10H-CC-nan
+323,U1344,D,11,H,CC,29,39,97.76,97.86,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),,323-U1344D-11H-CC-nan
+323,U1344,D,12,H,CC,26,36,107.27,107.37,,B,,,,,,,,,,,,,,,,323-U1344D-12H-CC-nan
+323,U1344,D,13,H,CC,55,65,116.6,116.7,,B,,,,,,,,,,,,,,,,323-U1344D-13H-CC-nan
+323,U1344,D,14,H,CC,33,43,126.28,126.38,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular and tubular shape, low birrefringence",,323-U1344D-14H-CC-nan
+323,U1344,D,15,H,CC,104,114,135.67,135.77,,B,,,,,,,,,,,,,,,,323-U1344D-15H-CC-nan
+323,U1344,D,16,H,CC,10,20,145.3,145.4,,B,,,,,,,,,,,,,,,,323-U1344D-16H-CC-nan
+323,U1344,D,17,H,CC,35,45,155.02,155.12,,B,,,,,,,,,,,,,,,,323-U1344D-17H-CC-nan
+323,U1344,D,18,H,CC,31,41,164.29,164.39,,B,,,,,,,,,,,,,,,,323-U1344D-18H-CC-nan
+323,U1344,D,19,H,CC,33,43,174.31,174.41,,R,M,,,,,,R,,,,,,,,,323-U1344D-19H-CC-nan
+323,U1344,D,20,H,CC,38,48,182.98,183.08,,R,M,,,R,,R,R,,,,,,,,,323-U1344D-20H-CC-nan
+323,U1344,D,21,H,CC,23,33,192.83,192.93,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1344D-21H-CC-nan
+323,U1344,D,22,H,CC,11,21,201.79,201.89,,F,M-G,,,R,,R,,,,,,,,Gephyrocapsids are G. caribbeanica type,,323-U1344D-22H-CC-nan
+323,U1344,D,23,H,CC,19,29,211.14,211.24,,R,M,,,,,R,,,,,,,,,,323-U1344D-23H-CC-nan
+323,U1344,D,24,H,CC,0,10,221.05,221.15,,B,,,,,,,,,,,,,,,,323-U1344D-24H-CC-nan
+323,U1344,D,25,H,CC,36,46,224.41,224.51,,R,P,,,,,R,,,,,,,,,,323-U1344D-25H-CC-nan
+323,U1344,D,26,H,CC,43,53,233.99,234.09,,B,,,,,,,,,,,,,,,,323-U1344D-26H-CC-nan
+323,U1344,D,27,H,CC,22,32,240.62,240.72,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1344D-27H-CC-nan
+323,U1344,D,28,H,CC,54,64,248.28,248.38,,R,M-G,,,,,R,,,,,,,,,,323-U1344D-28H-CC-nan
+323,U1344,D,29,H,CC,39,49,258.31,258.41,,B,,,,,,,,,,,,,,,,323-U1344D-29H-CC-nan
+323,U1344,D,30,H,CC,34,44,267.3,267.4,,B,,,,,,,,,,,,,,,,323-U1344D-30H-CC-nan
+323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,,,,,,,,,,,,323-U1344D-31H-CC-nan
+323,U1344,D,32,H,CC,7,17,286.17,286.27,,R,M-G,,,,,,,R,,,,,,,,323-U1344D-32H-CC-nan
