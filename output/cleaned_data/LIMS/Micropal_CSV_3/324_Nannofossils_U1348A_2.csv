@@ -1,5 +1,5 @@
 Exp,Site,Hole,Core,Core-Sect,Type,Section,Piece,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Comment,Preservation,Abundance,Amaurolithus delicatus,Calcidiscus macintyrei,Ship File Links,Shore File Links,Discoaster deflandrei,Discoaster druggii,Discoaster kugleri,Discoaster pentaradiatus,Reticulofenestra pseudoumbilica,Reticulofenestra pseudoumbilicus,File Data,Sample
-324,U1348,A,1,1-1,W,1,1,PAL92,,0,6,0.0,0.06,,,C [324_F],,,F [320_Ns],C [320_Ns],F,F,,,C,,,324-U1348A-1W-1-PAL92
-324,U1348,A,2,2-1,R,1,,W,1/1-PAL93,0,0,84.21,84.21,,G [324_Ng],C [324_F],R,C,F [320_Ns],C [320_Ns],,,,,,,,324-U1348A-2R-1-W 1/1-PAL93
-324,U1348,A,2,2-1,R,1,,W,2/2-PAL94,0,0,84.22,84.22,,G [324_Ng],C [324_F],,C,F [320_Ns],C [320_Ns],,F,,,,,,324-U1348A-2R-1-W 2/2-PAL94
-324,U1348,A,2,2-1,R,1,,W,6/6-Nanno_grey,0,0,84.26,84.26,,G [324_Ng],C [324_F],,C,C [320_Ns],F [320_Ns],,,,R,,,,324-U1348A-2R-1-W 6/6-Nanno_grey
+324,U1348,A,1,1-1,W,1,1,PAL92,,0,6,0.0,0.06,,,C,,,F [320_Ns],C [320_Ns],F,F,,,C,,,324-U1348A-1W-1-PAL92
+324,U1348,A,2,2-1,R,1,,W,1/1-PAL93,0,0,84.21,84.21,,G [324_Ng],C,R,C,F [320_Ns],C [320_Ns],,,,,,,,324-U1348A-2R-1-W 1/1-PAL93
+324,U1348,A,2,2-1,R,1,,W,2/2-PAL94,0,0,84.22,84.22,,G [324_Ng],C,,C,F [320_Ns],C [320_Ns],,F,,,,,,324-U1348A-2R-1-W 2/2-PAL94
+324,U1348,A,2,2-1,R,1,,W,6/6-Nanno_grey,0,0,84.26,84.26,,G [324_Ng],C,,C,C [320_Ns],F [320_Ns],,,,R,,,,324-U1348A-2R-1-W 6/6-Nanno_grey
