@@ -436,14 +436,19 @@ class TestNormalizeExpeditionSectionCols:
         data = {
             "Col": [0, 1],
             "Sample": ["1-U1h-2t-3", "10-U2H-20T-3"],
+        }
+        df = pd.DataFrame(data)
+        data = {
+            "Col": [0, 1],
+            "Sample": ["1-U1h-2t-3", "10-U2H-20T-3"],
             "Exp": ["1", "10"],
             "Site": ["U1", "U2"],
             "Hole": ["h", "H"],
             "Core": ["2", "20"],
             "Type": ["t", "T"],
             "Section": ["3", "3"],
+            "A/W": [None, None]
         }
-        df = pd.DataFrame(data)
         expected = pd.DataFrame(data)
 
         df = normalize_expedition_section_cols(df)
