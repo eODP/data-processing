@@ -54,6 +54,9 @@ taxa_fields = ["non-taxa descriptor", "normalized_name", "taxon_group"]
 
 metadata_fields = [
     "verbatim_name",
+    "name comment field",
+    "Comment",
+    "Notes (change to Internal only notes?)",
     "comments",
 ]
 
