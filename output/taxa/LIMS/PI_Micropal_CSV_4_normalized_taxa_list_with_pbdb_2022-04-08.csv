@@ -388,13 +388,13 @@ dinoflagellates,Polykrikos - Arctic morphotype,Polykrikos sp.,,,,,Polykrikos,,,,
 dinoflagellates,Polykrikos schwartzii,,,,,,Polykrikos,,,,schwartzii,,,,,445345,,Polykrikos,genus,445346,Polykrikaceae,,,321578,Dinophyceae,,,,,,,FALSE
 dinoflagellates,Protoperidinium americanum,,,,,,Protoperidinium,,,,americanum,,,,,435343,,Protoperidinium,genus,323951,Protoperidiniaceae,277919,Peridiniales,321578,Dinophyceae,,,,,,,FALSE
 dinoflagellates,Pyxidiniopsis reticulata,Pyxidinopsis reticulata,genus misspelled,,,,Pyxidinopsis,,,,reticulata,,,,,435009,,Pyxidinopsis,genus,321603,Gonyaulacaceae,321606,Gonyaulacales,321578,Dinophyceae,,,,,,,FALSE
-dinoflagellates,Quinquecuspis concreta,,,"JAS in PBDB, so it will be classified correctly",,,Quinquecuspis,,,,concreta,,,,,453149,,Quinquecuspis,genus,,,,,,,,,,,,,FALSE
+dinoflagellates,Quinquecuspis concreta,,VP: not familiar with this name,JAS cannot find authority info for this genus; VP: this is a real taxon,,,Quinquecuspis,,,,concreta,,,,,453149,,Quinquecuspis,genus,,,,,,,,,,,,,FALSE
 dinoflagellates,Selenopemphix quanta,,,,,,Selenopemphix,,,,quanta,,,,,208980,,Selenopemphix,genus,323951,Protoperidiniaceae,277919,Peridiniales,321578,Dinophyceae,,,,,,,FALSE
 dinoflagellates,Spiniferites belerius,,,,,,Spiniferites,,,,belerius,,,,,264663,,Spiniferites,genus,,,,,321578,Dinophyceae,,,,,,,FALSE
 dinoflagellates,Spiniferites spp.,,,,,,Spiniferites,,,,spp.,,,,,264663,,Spiniferites,genus,,,,,321578,Dinophyceae,,,,,,,FALSE
 dinoflagellates,Trinovantedinium variabile,,,"in PBDB, so it will be classified correctly",,,Trinovantedinium,,,,variabile,,,,,453150,,Trinovantedinium,genus,277915,Peridiniaceae,277919,Peridiniales,321578,Dinophyceae,,,,,,,FALSE
 dinoflagellates,Votadinium spinosum,,,,,,Votadinium,,,,spinosum,,,,,445382,,Votadinium,genus,323951,Protoperidiniaceae,277919,Peridiniales,321578,Dinophyceae,,,,,,,FALSE
-dinoflagellates,cf. Hytrichosphaeropsis obscura,Dinophyceae indet.,VP: not familiar with this name,"JAS cannot find anything; Andy can you ask Vera about this? JAS asked Vera K (palynology) for assistance, but she did not know this",Dinophyceae indet.,,,,,,,,,,"""cf. Hytrichosphaeropsis obscura""",321578,,Dinophyceae,class,,,,,,,,,,,,,FALSE
+dinoflagellates,cf. Hytrichosphaeropsis obscura,Dinophyceae indet.,VP: not familiar with this name,"JAS cannot find anything; Andy can you ask Vera about this? JAS asked Vera K (palynology) for assistance, but she did not know this",Dinophyceae indet.,cf.,,,,,,,,,"""cf. Hytrichosphaeropsis obscura""",321578,,Dinophyceae,class,,,,,,,,,,,,,FALSE
 dinoflagellates,impagidinium japonicum,Impagidinium japonicum,,,,,Impagidinium,,,,japonicum,,,,,276906,,Impagidinium,genus,321603,Gonyaulacaceae,321606,Gonyaulacales,321578,Dinophyceae,,,,,,,FALSE
 ebridians,Ebriopsis antiqua antiqua (Ebridian),Ebriopsis antiqua antiqua,,,,,Ebriopsis,,,,antiqua,,antiqua,,,450955,,Ebriopsis,genus,450956,Ebriopsidaceae,450954,Ebriales,,,,,,,28595,Life,FALSE
 nannofossils,Bicolumnus ovatus,,,"in PBDB, so it will be classified correctly",,,Bicolumnus,,,,ovatus,,,,,453095,,Bicolumnus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
@@ -424,7 +424,7 @@ nannofossils,Cryptococcolithus cf. mediaperforatus,,,,,,Cryptococcolithus,,,cf.,
 nannofossils,Cyclicargolithus abisectus (10-11 μm),,,,,,Cyclicargolithus,,,,abisectus,,,(10-11 μm),,366219,,Cyclicargolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Cyclicargolithus abisectus (>11 μm),,,,,,Cyclicargolithus,,,,abisectus,,,(>11 μm),,366219,,Cyclicargolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Cyclicargolithus abisectus 10-11 μm,,,,,,Cyclicargolithus,,,,abisectus,,,10-11 μm,,366219,,Cyclicargolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
-nannofossils,D.deflandrei,Discoaster deflandrei,,,,,Discoaster,,,,deflandrei,,,,,366224,,Discoaster,,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
+nannofossils,D.deflandrei,Discoaster deflandrei,,,,,Discoaster,,,,deflandrei,,,,,87682,,Discoaster,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Dictyococcites (<3 µm),Dictyococcites spp. (<3 µm),,,,,Dictyococcites,,,,spp.,,,(<3 µm),,255393,,Dictyococcites,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Dictyococcites <3 µm,Dictyococcites spp. (<3 µm),,,,,Dictyococcites,,,,spp.,,,(<3 µm),,255393,,Dictyococcites,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Dictyococcites productellus (3-5 μm),,,,,,Dictyococcites,,,,productellus,,,(3-5 μm),,255393,,Dictyococcites,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
@@ -439,7 +439,7 @@ Discoaster prepentaradiatus",Discoaster loeblichii,,"LL: this is parsing error, 
 nannofossils,Discoaster tani nodifer,,,,,,Discoaster,,,,tani,,nodifer,,,87682,,Discoaster,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,E. huxleyi,Emiliania huxleyi,,,,,Emiliania,,,,huxleyi,,,,,421517,421517,Emiliania,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,TRUE
 nannofossils,Emiliania pujosae,,,,,,Emiliania,,,,pujosae,,,,,421517,421517,Emiliania,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
-nannofossils,Gephryocapsa ericsonii,Gephyrocapsa ericsonii,genus misspelled,,,,Gephyrocapsa,,,,ericsonii,,,,,421973,,Gephyrocapsa,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
+nannofossils,Gephryocapsa ericsonii,Gephyrocapsa ericsonii,genus misspelled,,,,Gephryocapsa,,,,ericsonii,,,,,,,,,,,,,,,,,,,,,FALSE
 nannofossils,Gephyrocapsa (large),Gephyrocapsa spp. (large),,,,,Gephyrocapsa,,,,spp.,,,(large),,421973,,Gephyrocapsa,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Gephyrocapsa (medium),Gephyrocapsa spp. (medium),,,,,Gephyrocapsa,,,,spp.,,,(medium),,421973,,Gephyrocapsa,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Gephyrocapsa (small),Gephyrocapsa spp. (small),,,,,Gephyrocapsa,,,,spp.,,,(small),,421973,,Gephyrocapsa,genus,419747,Noelaerhabdaceae,418931,Isochrysidales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
@@ -537,10 +537,10 @@ other,Radiolarians,Radiolaria indet.,,,Radiolaria indet.,,,,,,,,,,,4,,Radiolaria
 other,Shell (bivalve) fragments,Bivalvia indet.,,,Bivalvia indet.,,,,,,,,,,fragments,16005,,Bivalvia,class,,,,,,,7805,Mollusca,325038,Animalia,,,FALSE
 other,Shell (gastropod) fragments,Gastropoda indet.,,,Gastropoda indet.,,,,,,,,,,fragments,8304,,Gastropoda,class,,,,,,,7805,Mollusca,325038,Animalia,,,FALSE
 other,Shell (scaphopod) fragments,Scaphopoda indet.,,,Scaphopoda indet.,,,,,,,,,,fragments,8166,,Scaphopoda,class,,,,,,,7805,Mollusca,325038,Animalia,,,FALSE
-palynology,Botryococcus + Pediastrum,Chlorophyceae indet.,VK: these are algae,JAS asked Vera K for assistance; these are algae ,Chlorophyceae indet.,,,,,,,,,Botryococcus + Pediastrum,,54452,54452,Chlorophyceae,class,,,,,,,54811,Chlorophyta,,,28595,Life,FALSE
+palynology,Botryococcus + Pediastrum,Chlorophyceae indet.,VK: these are algae,JAS asked Vera K for assistance; these are algae ,Chlorophyceae indet.,,,,,,,,,Botryococcus + Pediastrum,,264632,,Botryococcus,genus,,,,,54452,Chlorophyceae,54811,Chlorophyta,,,28595,Life,FALSE
 palynology,Hallodinium,Halodinium sp.,Acritarcha,"in PBDB, so it will be classified correctly",,,Halodinium,,,,,,,,,453189,,Halodinium,genus,,,,,,,,,,,28595,Life,FALSE
 palynology,Herbs,"""Undifferentiated pollen from herbs""",,JAS has asked Vera K for assistance,"""Undifferentiated pollen from herbs""",,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-palynology,Pediastrum + Botryococcus,Chlorophyceae indet.,VK: these are algae,JAS has asked Vera K for assistance,Chlorophyceae indet.,,,,,,,,,Pediastrum + Botryococcus,,54452,54452,Chlorophyceae,class,,,,,,,54811,Chlorophyta,,,28595,Life,FALSE
+palynology,Pediastrum + Botryococcus,Chlorophyceae indet.,VK: these are algae,JAS has asked Vera K for assistance,Chlorophyceae indet.,,,,,,,,,Pediastrum + Botryococcus,,264972,,Pediastrum,genus,,,,,54452,Chlorophyceae,54811,Chlorophyta,,,28595,Life,FALSE
 palynology,Pollen,"""Undifferentiated pollen""",VK,JAS has asked Vera K for assistance,"""Undifferentiated pollen""",,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 palynology,Pollen (herbs),"""Undifferentiated pollen from herbs""",,JAS has asked Vera K for assistance,"""Undifferentiated pollen from herbs""",,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 palynology,Pollen (shrubs),"""Undifferentiated pollen from shrubs""",,JAS has asked Vera K for assistance,"""Undifferentiated pollen from shrubs""",,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
@@ -624,7 +624,7 @@ planktic_forams,Pulleniatina spp.,,,,,,Pulleniatina,,,,spp.,,,,,2325,,Pulleniati
 planktic_forams,Radiolarians,Radiolaria indet.,,,Radiolaria indet.,,,,,,,,,,,4,,Radiolaria,phylum,,,,,,,,,212476,Rhizaria,,,FALSE
 planktic_forams,Shell fragments,Mollusca indet.,,,Mollusca indet.,,,,,,,,,,shell fragments,7805,,Mollusca,phylum,,,,,,,,,325038,Animalia,,,FALSE
 planktic_forams,Spharoidinellopsis disjuncta,Sphaeroidinellopsis disjuncta,genus misspelled ,,,,Sphaeroidinellopsis,,,,disjuncta,,,,,2569,,Sphaeroidinellopsis,genus,82191,Globigerinidae,,,,,288974,Foraminifera,212476,Rhizaria,,,FALSE
-planktic_forams,Sponge spicules,Porifera indet.,,,Porifera indet.,,,,,,,,,,sponge spicules,2894,2894,Porifera,phylum,,,,,,,,,325038,Animalia,,,FALSE
+planktic_forams,Sponge spicules,Porifera indet.,,,,,,,,,,,,,sponge spicules,,,,,,,,,,,,,,,,,FALSE
 planktic_forams,Subbotina eoceana,,,,,,Subbotina,,,,eoceana,,,,,2631,,Subbotina,genus,,,,,,,288974,Foraminifera,212476,Rhizaria,,,FALSE
 planktic_forams,Subbotina spp.,,,,,,Subbotina,,,,spp.,,,,,2631,,Subbotina,genus,,,,,,,288974,Foraminifera,212476,Rhizaria,,,FALSE
 planktic_forams,Tenuitellinata angustiumbilicata,,,,,,Tenuitellinata,,,,angustiumbilicata,,,,,423707,,Tenuitellinata,genus,422373,Globigerinitidae,,,,,288974,Foraminifera,212476,Rhizaria,,,FALSE
