@@ -1,5 +1,5 @@
 import requests
-import numpy as np 
+import numpy as np
 
 PBDB_API = "https://paleobiodb.org/data1.2/"
 PBDB_TAXA_NAME = f"{PBDB_API}taxa/single.json?vocab=pbdb&name="
@@ -41,17 +41,22 @@ def fix_pbdb_id(df, correction_text, correct_id):
     """look up pbdb data for taxon id. update dateframe with new pdbd"""
     print(correct_id)
     columns = [
-        'pbdb_taxon_id',
-        'pbdb_taxon_name', 'pbdb_taxon_rank',
-        'family_taxon_id', 'family_taxon_name', 
-        'order_taxon_id',  'order_taxon_name', 
-        'class_taxon_id', 'class_taxon_name',
-        'phylum_taxon_id', 'phylum_taxon_name', 
-        'kingdom_taxon_id', 'kingdom_taxon_name',
-        'unranked clade_taxon_id', 'unranked clade_taxon_name'
+        "pbdb_taxon_id",
+        "pbdb_taxon_name",
+        "pbdb_taxon_rank",
+        "family_taxon_id",
+        "family_taxon_name",
+        "order_taxon_id",
+        "order_taxon_name",
+        "class_taxon_id",
+        "class_taxon_name",
+        "phylum_taxon_id",
+        "phylum_taxon_name",
+        "kingdom_taxon_id",
+        "kingdom_taxon_name",
+        "unranked clade_taxon_id",
+        "unranked clade_taxon_name",
     ]
-
-
 
     col = "Corrections to pbdb_taxon_id"
     url_parent = PBDB_TAXA_ID + str(correct_id)

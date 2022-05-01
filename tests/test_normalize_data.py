@@ -591,7 +591,7 @@ class TestNormalizeExpeditionSectionCols:
             "Core": ["2", "20"],
             "Type": ["t", "T"],
             "Section": ["3", "3"],
-            "A/W": [None, None]
+            "A/W": [None, None],
         }
         expected = pd.DataFrame(data)
 
@@ -1265,7 +1265,11 @@ class TestDeleteDuplicateColumns:
         assert_frame_equal(df, expected)
 
     def test_deletes_columns_with_same_names_and_all_nan(self):
-        csv_data = "a,a,a,b\n" f"{np.nan},{np.nan},{np.nan},1\n" f"{np.nan},{np.nan},{np.nan},2\n"
+        csv_data = (
+            "a,a,a,b\n"
+            f"{np.nan},{np.nan},{np.nan},1\n"
+            f"{np.nan},{np.nan},{np.nan},2\n"
+        )
         df = pd.read_csv(StringIO(csv_data))
         csv_data2 = "a,b\n" f"{np.nan},1\n" f"{np.nan},2\n"
         expected = pd.read_csv(StringIO(csv_data2))
@@ -1274,7 +1278,6 @@ class TestDeleteDuplicateColumns:
 
         assert list(df.columns) == ["a", "b"]
         assert_frame_equal(df, expected)
-
 
     def test_ignores_columns_with_same_names_but_different_values(self):
         csv_data = "a,a,a,b\n" "1,2,3,1\n" "4,5,6,2\n"
@@ -1342,7 +1345,11 @@ class TestDeleteDuplicateColumns:
         assert_frame_equal(df, expected)
 
     def test_deletes_columns_with_spaces_and_same_names_and_all_nan(self):
-        csv_data = "a, a, a,b\n" f"{np.nan},{np.nan},{np.nan},1\n" f"{np.nan},{np.nan},{np.nan},2\n"
+        csv_data = (
+            "a, a, a,b\n"
+            f"{np.nan},{np.nan},{np.nan},1\n"
+            f"{np.nan},{np.nan},{np.nan},2\n"
+        )
         df = pd.read_csv(StringIO(csv_data))
         csv_data2 = "a,b\n" f"{np.nan},1\n" f"{np.nan},2\n"
         expected = pd.read_csv(StringIO(csv_data2))

@@ -131,7 +131,7 @@ def valid_sample_value(name):
     if isinstance(name, str):
         if pd.notna(name):
             name = re.sub(r"-#\d*", "", name)
-            name = re.sub(r', [0-9]+[-–][0-9]+$' , '', name)
+            name = re.sub(r", [0-9]+[-–][0-9]+$", "", name)
 
     if name is None:
         return True
@@ -196,7 +196,7 @@ def create_sample_cols(series):
 
     for item in series.to_list():
         if pd.notna(item):
-            item = re.sub(r', [0-9]+[-–][0-9]+$' , '', item)
+            item = re.sub(r", [0-9]+[-–][0-9]+$", "", item)
 
         parts = extract_sample_parts(item)
         parts_dict = {
