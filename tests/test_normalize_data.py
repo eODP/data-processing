@@ -178,11 +178,47 @@ class TestCreateSampleName:
 
         assert_frame_equal(df, expected)
 
+    def test_creates_Sample_string_if_column_are_nan(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": ["h"],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-h-2t-3-a"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
     def test_creates_Sample_string_if_column_are_null_2(self):
         data = {
             "Exp": [1],
             "Site": [None],
             "Hole": [None],
+            "Core": [2],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-2t-3-a"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_creates_Sample_string_if_column_are_nan_2(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
             "Core": [2],
             "Type": ["t"],
             "Section": [3],
@@ -214,6 +250,24 @@ class TestCreateSampleName:
 
         assert_frame_equal(df, expected)
 
+    def test_creates_Sample_string_if_column_are_nan_3(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
+            "Core": [np.nan],
+            "Type": ["t"],
+            "Section": [3],
+            "A/W": ["a"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-t-3-a"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
     def test_creates_Sample_string_if_column_are_null_4(self):
         data = {
             "Exp": [1],
@@ -221,6 +275,24 @@ class TestCreateSampleName:
             "Hole": [None],
             "Core": [None],
             "Type": [None],
+            "Section": [3],
+            "A/W": ["a"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-3-a"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_creates_Sample_string_if_column_are_nan_4(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
+            "Core": [np.nan],
+            "Type": [np.nan],
             "Section": [3],
             "A/W": ["a"],
         }
@@ -250,6 +322,24 @@ class TestCreateSampleName:
 
         assert_frame_equal(df, expected)
 
+    def test_creates_Sample_string_if_column_are_nan_5(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
+            "Core": [np.nan],
+            "Type": [np.nan],
+            "Section": [np.nan],
+            "A/W": ["a"],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-a"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
     def test_creates_Sample_string_if_column_are_null_6(self):
         data = {
             "Exp": [1],
@@ -263,6 +353,24 @@ class TestCreateSampleName:
         df = pd.DataFrame(data)
         data["Sample"] = ["1"]
         expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_creates_Sample_string_if_column_are_nan_6(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
+            "Core": [np.nan],
+            "Type": [np.nan],
+            "Section": [np.nan],
+            "A/W": [np.nan],
+        }
+        df = pd.DataFrame(data, dtype=str)
+        data["Sample"] = ["1"]
+        expected = pd.DataFrame(data, dtype=str)
 
         create_sample_name(df)
 
@@ -286,6 +394,24 @@ class TestCreateSampleName:
 
         assert_frame_equal(df, expected)
 
+    def test_removes_dash_from_end_of_string_nan(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
+            "Core": [np.nan],
+            "Type": [np.nan],
+            "Section": [3],
+            "A/W": [np.nan],
+        }
+        df = pd.DataFrame(data, dtype=str)
+        data["Sample"] = ["1-3"]
+        expected = pd.DataFrame(data, dtype=str)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
     def test_removes_dash_from_end_of_string_2(self):
         data = {
             "Exp": [1],
@@ -295,6 +421,24 @@ class TestCreateSampleName:
             "Type": ["t"],
             "Section": [None],
             "A/W": [None],
+        }
+        df = pd.DataFrame(data)
+        data["Sample"] = ["1-t"]
+        expected = pd.DataFrame(data)
+
+        create_sample_name(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_removes_dash_from_end_of_string_nan_2(self):
+        data = {
+            "Exp": [1],
+            "Site": [np.nan],
+            "Hole": [np.nan],
+            "Core": [np.nan],
+            "Type": ["t"],
+            "Section": [np.nan],
+            "A/W": [np.nan],
         }
         df = pd.DataFrame(data)
         data["Sample"] = ["1-t"]

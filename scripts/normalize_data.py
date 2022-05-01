@@ -63,11 +63,31 @@ def normalize_sample_col(df):
         create_sample_name(df)
 
 
+def not_empty(col):
+    return pd.notna(col) and col == col
+
+
 def create_sample_name_for_row(row, columns):
-    name = (
-        f"{row['Exp']}-{row['Site']}{row['Hole']}-"
-        f"{row['Core']}{row['Type']}-{row['Section']}-{row['A/W']}"
-    )
+    name = ""
+    if not_empty(row["Exp"]):
+        name = f"{row['Exp']}"
+
+    name += "-"
+    if not_empty(row["Site"]):
+        name += f"{row['Site']}"
+    if not_empty(row["Hole"]):
+        name += f"{row['Hole']}"
+    name += "-"
+    if not_empty(row["Core"]):
+        name += f"{row['Core']}"
+    if not_empty(row["Type"]):
+        name += f"{row['Type']}"
+    name += "-"
+    if not_empty(row["Section"]):
+        name += f"{row['Section']}"
+    name += "-"
+    if not_empty(row["A/W"]):
+        name += f"{row['A/W']}"
 
     extra = "Extra Sample ID Data"
     if extra in columns and row[extra] is not None and row[extra] is not np.NaN:
@@ -76,7 +96,6 @@ def create_sample_name_for_row(row, columns):
         else:
             name = name + " " + row[extra]
 
-    name = re.sub("None", "", name)
     name = re.sub("-{2,}", "-", name)
     return re.sub("-$", "", name)
 
