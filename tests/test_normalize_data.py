@@ -22,6 +22,8 @@ from scripts.normalize_data import (
     clean_taxon_name,
     taxa_needs_review,
     remove_whitespace,
+    remove_bracket_text,
+    remove_empty_unnamed_columns,
 )
 
 
@@ -1192,5 +1194,39 @@ class TestRemoveWhitespace:
         expected = pd.DataFrame(data2)
 
         remove_whitespace(df)
+
+        assert_frame_equal(df, expected)
+
+
+class TestRemoveBracketText:
+    def test_removes_text_within_brackets_at_end_of_cell(self):
+        df = pd.DataFrame(["aa [A]", "bb [BB]", "cc [C] ", "dd  [dd]  "])
+        expected = pd.DataFrame(["aa", "bb", "cc", "dd"])
+
+        remove_bracket_text(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_does_not_remove_text_within_brackets_at_start_of_cell(self):
+        df = pd.DataFrame(["[A] aa", "[BB] bb", "[C] cc ", "  [dd]  dd "])
+        expected = df.copy()
+
+        remove_bracket_text(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_does_not_remove_text_within_brackets_in_middle_of_cell(self):
+        df = pd.DataFrame(["aa [A] aa", "bb [BB] bb", " cc [C] cc ", " dd  [dd]  dd "])
+        expected = df.copy()
+
+        remove_bracket_text(df)
+
+        assert_frame_equal(df, expected)
+
+    def test_removes_letters_numbers_punctuation_within_brackets(self):
+        df = pd.DataFrame(["aa [A A]", "bb [BB 123]", "cc [123-456.] "])
+        expected = pd.DataFrame(["aa", "bb", "cc"])
+
+        remove_bracket_text(df)
 
         assert_frame_equal(df, expected)

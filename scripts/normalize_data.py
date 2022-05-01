@@ -510,3 +510,9 @@ def remove_whitespace(df):
                 df[col] = df[col].map(str.strip)
             except TypeError:
                 print('Must call fillna("") before using whitespace_remover.')
+
+
+def remove_bracket_text(df):
+    """remove trailing text inside brackets."""
+    df.replace(r" *\[.*\] *$", "", regex=True, inplace=True)
+    return df
