@@ -1,7 +1,7 @@
 Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Brizalina earlandi,Brizalina sp.,Bulimina aff. exilis,Elphidium cf. batialis,Epistominella pulchella,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Melonis barleanum,Nonionella labradorica,Nonionella turgida,Pullenia sp.,Stainforthia aff. fusiformis,Uvigerina cf. peregrina,Uvigerina auberiana,IRD,Other observations,Top [cm],Bottom [cm],A/W,Sample,eodp_id
-323,U1340,B,1,H,CC,6.29,6.43,G,A,,,R,,F,R,P,,F,,,P,,,A,P,D,"Quartz, few sponge spicules",,,,323-U1340B-1H-CC-nan,2dacdf24b46ce9ad4c779fe6c208f4e5
-323,U1340,B,2,H,CC,16.25,16.35,G,A,R,,F,,F,P,F,F,P,P,P,R,,,A,,R,Dominant planktic forams,,,,323-U1340B-2H-CC-nan,8a95f56ba6136d90ae17899b23df84ad
-323,U1340,B,3,H,CC,25.69,25.79,G,A,P,,A,,P,,R,P,F,P,P,P,P,,R,,A,Abundant sponge spicules,,,,323-U1340B-3H-CC-nan,0b6f0305bf7cf5f4384757ad53212b9c
-323,U1340,B,4,H,CC,35.29,35.39,G,A,A,,R,,R,,P,,,,,,,P,,,A,Abundant sponge spicules,,,,323-U1340B-4H-CC-nan,dafcaf1fadccf90bf27bd69763924de3
-323,U1340,B,5,H,CC,44.02,44.12,G,F,,P,F,P,,,R,,F,P,R,,P,,R,,A,Few sponge spicules,,,,323-U1340B-5H-CC-nan,6fd451b6da7377828295c800021565a9
-323,U1340,B,6,H,CC,54.33,54.43,G,,D,,F,,,,A,,R,,R,,,R,R,,F,Few sponge spicules,,,,323-U1340B-6H-CC-nan,01c7b5b666ad466c0e98a8a75a332289
+323,U1340,B,1,H,CC,6.29,6.43,G,A,,,R,,F,R,P,,F,,,P,,,A,P,D,"Quartz, few sponge spicules",,,,323-U1340B-1H-CC,2dacdf24b46ce9ad4c779fe6c208f4e5
+323,U1340,B,2,H,CC,16.25,16.35,G,A,R,,F,,F,P,F,F,P,P,P,R,,,A,,R,Dominant planktic forams,,,,323-U1340B-2H-CC,8a95f56ba6136d90ae17899b23df84ad
+323,U1340,B,3,H,CC,25.69,25.79,G,A,P,,A,,P,,R,P,F,P,P,P,P,,R,,A,Abundant sponge spicules,,,,323-U1340B-3H-CC,0b6f0305bf7cf5f4384757ad53212b9c
+323,U1340,B,4,H,CC,35.29,35.39,G,A,A,,R,,R,,P,,,,,,,P,,,A,Abundant sponge spicules,,,,323-U1340B-4H-CC,dafcaf1fadccf90bf27bd69763924de3
+323,U1340,B,5,H,CC,44.02,44.12,G,F,,P,F,P,,,R,,F,P,R,,P,,R,,A,Few sponge spicules,,,,323-U1340B-5H-CC,6fd451b6da7377828295c800021565a9
+323,U1340,B,6,H,CC,54.33,54.43,G,,D,,F,,,,A,,R,,R,,,R,R,,F,Few sponge spicules,,,,323-U1340B-6H-CC,01c7b5b666ad466c0e98a8a75a332289

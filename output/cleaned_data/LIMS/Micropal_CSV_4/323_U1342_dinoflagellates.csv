@@ -1,13 +1,13 @@
 Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Dinoflagellate cysts,Organic lining of foraminifers,Bitectatodinium tepikiense,Brigantedinium cariacoense,Brigantedinium simplex,Brigantedinium spp.,Gymnodinium catenatum,Impagidinium pallidum,Impagidinium spp.,Islandinium imnutum,Islandinium - Morphtype Cesare,Nematosphaeropsis lemniscata,Operculodinium centrocarpum,O. centrocarpum var. short processes,Pentapharsodinium dalei,Polykrikos - Arctic morphotype,Polykrikos schwartzii,Protoperidinium americanum,Top [cm],Bottom [cm],A/W,Sample,eodp_id
-323,U1342,A,1H,H,CC,1.65,1.75,G,C,C,A,R,A,D,,,,F,,,,,,,,,,,,323-U1342A-1HH-CC-nan,50fba85c6243bc56ce813c01ce6eb67c
-323,U1342,A,2H,H,CC,11.31,11.41,M,C,C,,,A,D,,,,,,,,,,,,,,,,323-U1342A-2HH-CC-nan,70aeb15d3ce32bbbebfae7279ab1181a
-323,U1342,A,3H,H,CC,20.91,21.01,G,A,C,F,R,F,A,,,R,R,,F,A,A,R,A,,,,,,323-U1342A-3HH-CC-nan,40957924af2e712a3f8ff2915a3c3c92
-323,U1342,A,4H,H,CC,30.65,30.75,M,C,C,R,A,A,D,,,,A,,R,,,,,,,,,,323-U1342A-4HH-CC-nan,563bbf8caf2b7a8cc1ec3b9148bcb2f4
-323,U1342,A,5H,H,CC,40.12,40.22,M,C,C,D,,,D,,,,,,,,,,,,F,,,,323-U1342A-5HH-CC-nan,89b327be6475958337b4284f82c5266b
-323,U1342,A,6H,H,CC,48.25,48.35,P,R,,P,,,,,,,,,,,,,,,,,,,323-U1342A-6HH-CC-nan,f1909f504b20057aaa00cd8f95088570
-323,U1342,A,7H,H,CC,55.64,55.74,P,F,C,,,P,P,,,,,,,,,,,,,,,,323-U1342A-7HH-CC-nan,19dd09ce26c2db99aacfa42f8a513a0d
-323,U1342,B,1H,H,CC,5.23,5.33,G,C,C,,F,A,D,F,,,F,,,,,,R,F,,,,,323-U1342B-1HH-CC-nan,bd6bb8391a26d8011a6e415cb85bc11f
-323,U1342,B,2H,H,CC,14.98,15.08,M,C,C,F,F,,D,,F,,,,,F,,F,,,,,,,323-U1342B-2HH-CC-nan,03c2dc460784e315b2d4cfad13fbcb8b
-323,U1342,B,3H,H,CC,24.71,24.81,M,C,C,,F,D,D,,,,A,,,,,,,,,,,,323-U1342B-3HH-CC-nan,c0d9f681ad1f67484f193cb602c6ff60
-323,U1342,B,4H,H,CC,33.97,34.07,M,C,C,,R,A,D,,,R,A,,,,,,,,,,,,323-U1342B-4HH-CC-nan,52f8538425c64a868c43c97dcde592c0
-323,U1342,B,5H,H,CC,43.64,43.74,P,C,C,,,,P,,,,,,,,,,,,,,,,323-U1342B-5HH-CC-nan,225a2bafe29c6c57e90a72688a819743
+323,U1342,A,1H,H,CC,1.65,1.75,G,C,C,A,R,A,D,,,,F,,,,,,,,,,,,323-U1342A-1HH-CC,50fba85c6243bc56ce813c01ce6eb67c
+323,U1342,A,2H,H,CC,11.31,11.41,M,C,C,,,A,D,,,,,,,,,,,,,,,,323-U1342A-2HH-CC,70aeb15d3ce32bbbebfae7279ab1181a
+323,U1342,A,3H,H,CC,20.91,21.01,G,A,C,F,R,F,A,,,R,R,,F,A,A,R,A,,,,,,323-U1342A-3HH-CC,40957924af2e712a3f8ff2915a3c3c92
+323,U1342,A,4H,H,CC,30.65,30.75,M,C,C,R,A,A,D,,,,A,,R,,,,,,,,,,323-U1342A-4HH-CC,563bbf8caf2b7a8cc1ec3b9148bcb2f4
+323,U1342,A,5H,H,CC,40.12,40.22,M,C,C,D,,,D,,,,,,,,,,,,F,,,,323-U1342A-5HH-CC,89b327be6475958337b4284f82c5266b
+323,U1342,A,6H,H,CC,48.25,48.35,P,R,,P,,,,,,,,,,,,,,,,,,,323-U1342A-6HH-CC,f1909f504b20057aaa00cd8f95088570
+323,U1342,A,7H,H,CC,55.64,55.74,P,F,C,,,P,P,,,,,,,,,,,,,,,,323-U1342A-7HH-CC,19dd09ce26c2db99aacfa42f8a513a0d
+323,U1342,B,1H,H,CC,5.23,5.33,G,C,C,,F,A,D,F,,,F,,,,,,R,F,,,,,323-U1342B-1HH-CC,bd6bb8391a26d8011a6e415cb85bc11f
+323,U1342,B,2H,H,CC,14.98,15.08,M,C,C,F,F,,D,,F,,,,,F,,F,,,,,,,323-U1342B-2HH-CC,03c2dc460784e315b2d4cfad13fbcb8b
+323,U1342,B,3H,H,CC,24.71,24.81,M,C,C,,F,D,D,,,,A,,,,,,,,,,,,323-U1342B-3HH-CC,c0d9f681ad1f67484f193cb602c6ff60
+323,U1342,B,4H,H,CC,33.97,34.07,M,C,C,,R,A,D,,,R,A,,,,,,,,,,,,323-U1342B-4HH-CC,52f8538425c64a868c43c97dcde592c0
+323,U1342,B,5H,H,CC,43.64,43.74,P,C,C,,,,P,,,,,,,,,,,,,,,,323-U1342B-5HH-CC,225a2bafe29c6c57e90a72688a819743

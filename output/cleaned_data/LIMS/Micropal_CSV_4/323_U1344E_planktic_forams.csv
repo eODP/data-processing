@@ -1,23 +1,23 @@
 Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),comments,A/W,Sample,eodp_id
-323,U1344,E,1,H,CC,16,26,5.24,5.34,G,F,F,,F,"abundant IRD, pyrite, mica",,323-U1344E-1H-CC-nan,59719e14a13817258d4dc973fab9962c
-323,U1344,E,2,H,CC,11,21,14.92,15.02,G,D,F,,D,"few IRD, pyrite, mica",,323-U1344E-2H-CC-nan,534e9aaddd9ca69289ab10c73ad78b0b
-323,U1344,E,3,H,CC,14,24,24.75,24.85,M,A,R,,A,"few IRD, pyrite, mica",,323-U1344E-3H-CC-nan,b997d963f62bb2e60d25cb6f33851138
-323,U1344,E,4,H,CC,20,30,34.58,34.68,G,R,P,,R,"few IRD, pyrite, mica",,323-U1344E-4H-CC-nan,4a890de1faa9005bfc314fc5ae002149
-323,U1344,E,5,H,CC,29,39,43.72,43.82,G,F,F,,,"abundant IRD, pyrite, mica",,323-U1344E-5H-CC-nan,7b8759e0ab046ae4ed4923fe7d4052f7
-323,U1344,E,6,H,CC,30,40,53.28,53.38,M,D,A,,D,"few IRD, pyrite, mica",,323-U1344E-6H-CC-nan,4b9b6026affe84fc5dda40d227c3e215
-323,U1344,E,7,H,CC,35,45,62,62.1,G,A,P,,A,"abundant IRD, pyrite, mica",,323-U1344E-7H-CC-nan,ae1d19276390bf8750d9218a76f9a9dd
-323,U1344,E,8,H,CC,24,34,71.95,72.05,G,R,R,,,"abundant IRD, pyrite, mica",,323-U1344E-8H-CC-nan,4c30b8a5f248e4b5fbc2036e87ca3886
-323,U1344,E,9,H,CC,30,40,81.27,81.37,M,D,F,,D,"abundant IRD, pyrite, mica",,323-U1344E-9H-CC-nan,85e5eddfc82220faffaa1a22d822d51a
-323,U1344,E,10,H,CC,39,49,90.75,90.85,G,A,R,,A,"abundant IRD, pyrite, mica",,323-U1344E-10H-CC-nan,41979f55a583d68795b74eac10ab96b2
-323,U1344,E,12,H,CC,34,44,102.95,103.05,G,F,R,,F,"dominant IRD, pyrite, bubblewalled glass shards",,323-U1344E-12H-CC-nan,1e38348ec8187dd67ba3888789ebe797
-323,U1344,E,13,H,CC,25,35,112.8,112.9,M,R,P,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tets",,323-U1344E-13H-CC-nan,9bf68edfb98c0736c64305c8d6ce0ff6
-323,U1344,E,14,H,CC,24,34,122.36,122.46,G,F,R,,F,"dominant IRD, pyrite, mica",,323-U1344E-14H-CC-nan,6f608b7b0363f3469588a73ec248731d
-323,U1344,E,15,H,CC,20,30,127,127.1,M,R,P,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tets",,323-U1344E-15H-CC-nan,a87c8729ae15d27227b3c0b57b624a12
-323,U1344,E,16,H,CC,26,36,136.41,136.51,G,R,,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tets",,323-U1344E-16H-CC-nan,20121999512708dfb89de32ae4a62b6c
-323,U1344,E,17,H,CC,18,28,144.93,145.03,M,R,,,R,"dominant IRD, pyrite, mica",,323-U1344E-17H-CC-nan,7d4c3cc77dd467cc1e1c935b3768fde4
-323,U1344,E,18,H,CC,35,45,155.39,155.49,M,F,R,,F,"dominant IRD, pyrite, mica",,323-U1344E-18H-CC-nan,4c9afa8eb693e396794f57ff4005b294
-323,U1344,E,19,H,CC,30,40,165.34,165.44,M,P,,,P,"dominant IRD, pyrite, mica",,323-U1344E-19H-CC-nan,bd222afc5bcd019ee5d3cb6cadc48e58
-323,U1344,E,20,H,CC,33,43,174.18,174.28,M,F,R,,F,"dominant IRD, pyrite, mica",,323-U1344E-20H-CC-nan,c201c993bc1acdf8e981d6123460767a
-323,U1344,E,21,H,CC,22,32,182.52,182.62,M,F,R,,F,"dominant IRD, pyrite, mica, few yellow foraminiferal tests",,323-U1344E-21H-CC-nan,2a3bcbb1fa4e79b79b909dfc789ee144
-323,U1344,E,22,H,CC,16,26,193.75,193.85,M,P,,P,,"dominant IRD, pyrite, mica",,323-U1344E-22H-CC-nan,29a29711875db44af12e0d677913d248
-323,U1344,E,23,H,CC,28,38,202.69,202.79,M,A,,,A,"dominant IRD, pyrite, mica",,323-U1344E-23H-CC-nan,310be93c3f7a019697e8a39fe29133b4
+323,U1344,E,1,H,CC,16,26,5.24,5.34,G,F,F,,F,"abundant IRD, pyrite, mica",,323-U1344E-1H-CC,59719e14a13817258d4dc973fab9962c
+323,U1344,E,2,H,CC,11,21,14.92,15.02,G,D,F,,D,"few IRD, pyrite, mica",,323-U1344E-2H-CC,534e9aaddd9ca69289ab10c73ad78b0b
+323,U1344,E,3,H,CC,14,24,24.75,24.85,M,A,R,,A,"few IRD, pyrite, mica",,323-U1344E-3H-CC,b997d963f62bb2e60d25cb6f33851138
+323,U1344,E,4,H,CC,20,30,34.58,34.68,G,R,P,,R,"few IRD, pyrite, mica",,323-U1344E-4H-CC,4a890de1faa9005bfc314fc5ae002149
+323,U1344,E,5,H,CC,29,39,43.72,43.82,G,F,F,,,"abundant IRD, pyrite, mica",,323-U1344E-5H-CC,7b8759e0ab046ae4ed4923fe7d4052f7
+323,U1344,E,6,H,CC,30,40,53.28,53.38,M,D,A,,D,"few IRD, pyrite, mica",,323-U1344E-6H-CC,4b9b6026affe84fc5dda40d227c3e215
+323,U1344,E,7,H,CC,35,45,62,62.1,G,A,P,,A,"abundant IRD, pyrite, mica",,323-U1344E-7H-CC,ae1d19276390bf8750d9218a76f9a9dd
+323,U1344,E,8,H,CC,24,34,71.95,72.05,G,R,R,,,"abundant IRD, pyrite, mica",,323-U1344E-8H-CC,4c30b8a5f248e4b5fbc2036e87ca3886
+323,U1344,E,9,H,CC,30,40,81.27,81.37,M,D,F,,D,"abundant IRD, pyrite, mica",,323-U1344E-9H-CC,85e5eddfc82220faffaa1a22d822d51a
+323,U1344,E,10,H,CC,39,49,90.75,90.85,G,A,R,,A,"abundant IRD, pyrite, mica",,323-U1344E-10H-CC,41979f55a583d68795b74eac10ab96b2
+323,U1344,E,12,H,CC,34,44,102.95,103.05,G,F,R,,F,"dominant IRD, pyrite, bubblewalled glass shards",,323-U1344E-12H-CC,1e38348ec8187dd67ba3888789ebe797
+323,U1344,E,13,H,CC,25,35,112.8,112.9,M,R,P,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tets",,323-U1344E-13H-CC,9bf68edfb98c0736c64305c8d6ce0ff6
+323,U1344,E,14,H,CC,24,34,122.36,122.46,G,F,R,,F,"dominant IRD, pyrite, mica",,323-U1344E-14H-CC,6f608b7b0363f3469588a73ec248731d
+323,U1344,E,15,H,CC,20,30,127,127.1,M,R,P,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tets",,323-U1344E-15H-CC,a87c8729ae15d27227b3c0b57b624a12
+323,U1344,E,16,H,CC,26,36,136.41,136.51,G,R,,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tets",,323-U1344E-16H-CC,20121999512708dfb89de32ae4a62b6c
+323,U1344,E,17,H,CC,18,28,144.93,145.03,M,R,,,R,"dominant IRD, pyrite, mica",,323-U1344E-17H-CC,7d4c3cc77dd467cc1e1c935b3768fde4
+323,U1344,E,18,H,CC,35,45,155.39,155.49,M,F,R,,F,"dominant IRD, pyrite, mica",,323-U1344E-18H-CC,4c9afa8eb693e396794f57ff4005b294
+323,U1344,E,19,H,CC,30,40,165.34,165.44,M,P,,,P,"dominant IRD, pyrite, mica",,323-U1344E-19H-CC,bd222afc5bcd019ee5d3cb6cadc48e58
+323,U1344,E,20,H,CC,33,43,174.18,174.28,M,F,R,,F,"dominant IRD, pyrite, mica",,323-U1344E-20H-CC,c201c993bc1acdf8e981d6123460767a
+323,U1344,E,21,H,CC,22,32,182.52,182.62,M,F,R,,F,"dominant IRD, pyrite, mica, few yellow foraminiferal tests",,323-U1344E-21H-CC,2a3bcbb1fa4e79b79b909dfc789ee144
+323,U1344,E,22,H,CC,16,26,193.75,193.85,M,P,,P,,"dominant IRD, pyrite, mica",,323-U1344E-22H-CC,29a29711875db44af12e0d677913d248
+323,U1344,E,23,H,CC,28,38,202.69,202.79,M,A,,,A,"dominant IRD, pyrite, mica",,323-U1344E-23H-CC,310be93c3f7a019697e8a39fe29133b4

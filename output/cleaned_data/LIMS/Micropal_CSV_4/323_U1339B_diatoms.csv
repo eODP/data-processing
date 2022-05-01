@@ -1,25 +1,25 @@
 Exp,Site,Hole,"Core, Section, Interval",Top Depth [m],Abundance,Preservation,Actinocycluscurvatulus,Actinocyclus ochotensis,Actinocyclus sp. 1,Asteromphalus brookei,Asteromphalus robustus,Azpeitia cf. tabularis,Bacterosira fragilis,Chaetoceros resting spore,Cocconeis costata,Cocconeis placentula,Coscinodiscus marginatus,Coscinodiscus oculus-iridis,Coscinodiscus sp. 1,Cyclotella spp.,Cymbella spp.,Delphineis kippae,Delphineis surirella,Diploneis interrupta,Fragilaria sp.,Fragilariopsis cylindrus,Fragilariopsis oceanica,Gomphonema spp.,Navicula distans,Navicula spp.,Neodenticula seminae,Nitzschia spp.,Odontella aurita,Paralia sol,Paralia sulcata,Pinnularia gibba linearis,Pinnularia spp.,Pyxidicula turris,Porosira glacialis,Proboscia curvirostris,Rhabdonema spp.,Rhizosolenia hebetata f. hebetata,Rhizosolenia hebetata f. hiemalis,Rhizosolenia hebetata f. semispina,Rhizosolenia styliformis,Rhopalodia spp.,Roperia tesselata,Thalassionema bacillaris,Thalassionema nitzschioides,Thalassiosira antarctica spore,Thalassiosira anguste-lineata,Thalassiosira decipiens,Thalassiosira eccentrica,Thalassiosira gravida,Thalassiosira hyalina,Thalassiosira jouseae,Thalassiosira latimarginata sl.,Thalassiosira lineata,Thalassiosira nordenskioeldii,Thalassiosira oestrupii,Thalassiosira pacifica,Thalassiosira spp.,Thalassiothrix longissima,Diatom Zone (NPD) in Yanagisawa and Akiba (1998),Unnamed: 65,Section,Core,Type,Top [cm],Bottom [cm],Bottom Depth [m],A/W,Sample,eodp_id
-323,U1339,B,1H-CC,3.91,,,F,R,,,,T,F,R,T,,,,,,,,F,,,,T,,,,C,T,C,,,,,,,,,,,,,,,,T,,,,,A,,,F,,,C,,,,Neodenticula seminae (NPD 12),,CC,1,H,,,,,323-U1339B-1H-CC-nan,09351c30e883b80bf3cea7468317cdb6
-323,U1339,B,2H-CC,13.65,,,C,F,,,,,,C,F,T,,,,,,T,F,,,,T,,T,,A,,T,T,C,,,,,,,,,,,,,,,,,,,C,,,C,,,C,,,T,,,CC,2,H,,,,,323-U1339B-2H-CC-nan,81760487e1a02dc22e5120a0119f32ea
-323,U1339,B,3H-CC,23.36,,,C,T,,,,T,T,F,T,,,,,,,,T,,,,C,,,,C,,C,,,,,,,,T,T,,,,,,,,,,,,A,T,,F,,,T,,,,,,CC,3,H,,,,,323-U1339B-3H-CC-nan,7f1e694e0f1e191bfcd67bd6c113338a
-323,U1339,B,4H-CC,32.91,,,R,,,,T,,,C,,,T,T,,,,,,,,T,F,,,,A,,F,,T,,,T,T,,T,T,,F,,,,,T,,,,F,C,T,,C,,F,T,T,,T,,,CC,4,H,,,,,323-U1339B-4H-CC-nan,97b0bce65b70530dfa42ec18602ffbc8
-323,U1339,B,5H-CC,42.17,,,F,,,,,,C,F,T,,,,,,,,T,T,,T,F,,T,,A,,C,,F,,,,,,,F,,F,,T,,,C,,,,,C,,,F,,,C,,,,,,CC,5,H,,,,,323-U1339B-5H-CC-nan,4b0d66205bd8080f764bcfa0dff9daa6
-323,U1339,B,6H-CC,52.23,,,C,,,,,,,A,T,,,,,,,,,,,T,F,,,,C,,,,T,,,,,,,T,,,,,,,,,,,,C,F,,C,,T,F,,,T,,,CC,6,H,,,,,323-U1339B-6H-CC-nan,b30953725af5e1aed2ddef5ebe4ada97
-323,U1339,B,7H-CC,61.5,,,F,,,,,,T,F,T,,,,,,,,T,,,,T,,,,A,,T,,,,,,,,,T,,F,,,,,F,,,T,,C,F,T,C,,T,F,,F,T,,,CC,7,H,,,,,323-U1339B-7H-CC-nan,26546ca5f97270dfd49d10da10d20c33
-323,U1339,B,8H-CC,70.85,,,C,T,,,,,T,T,,,,,,,T,,,,,T,A,,,T,F,,T,,T,T,T,,T,,,F,,,,,T,,F,,,,,A,T,,C,,,T,,,,,,CC,8,H,,,,,323-U1339B-8H-CC-nan,8781c0db68425f8c4f88d60d04f23458
-323,U1339,B,"9H-2, 45",71.58,,,A,,,,,,,A,,,,T,,,,,,,,,,,,,C,,,,,,,,,,,F,T,,,,,,,F,,,,T,,,F,,T,,,,,,,2,9,H,45,,,,323-U1339B-9H-2-nan,b26ca20e2a6a6c22dd717d7489e4713d
-323,U1339,B,"9H-4, 45",74.54,,,A,,,,,,C,A,,,C,,,,,,,,,,,,,,C,,F,,,,,,,,,F,C,,,,,,,,,,,,,F,,,,,,,,Proboscia curvirostris (NPD 11),,4,9,H,45,,,,323-U1339B-9H-4-nan,ff13f148d1a98242de493ead5e975b2e
-323,U1339,B,9H-CC,80.37,,,,,F,,,,F,A,T,,,,,T,,,,,T,,,T,,,C,,,,,,,,T,T,,T,T,T,,,,,F,C,,,T,T,T,C,F,T,T,T,,,F,,,CC,9,H,,,,,323-U1339B-9H-CC-nan,1d61ed7d7134b54fdec5563f3ef7bcf2
-323,U1339,B,10H-CC,89.88,,,F,C,,,,,,F,F,,,F,,,,F,T,,,T,T,,,T,T,T,F,,F,,,,,,,,,,T,,,,,,T,,,A,T,F,F,,,C,,,T,,,CC,10,H,,,,,323-U1339B-10H-CC-nan,3482796efc773ec9cd1d59dbf6b12b43
-323,U1339,B,11H-CC,99.25,,,F,F,,,,,,F,,,F,T,,,,,,,,,,,,,A,T,F,,,,,T,,,,T,,F,,,,,,,,,,C,T,C,C,T,,F,,,,,,CC,11,H,,,,,323-U1339B-11H-CC-nan,d056d35800bf973d30464ed92e8c275b
-323,U1339,B,12H-CC,108.4,,,C,F,,,T,,,F,,,,C,,,,,,,,,,,,,F,,,,F,,,T,,F,,T,,,,,,,,,,,T,A,T,F,C,,,C,,,,,,CC,12,H,,,,,323-U1339B-12H-CC-nan,3de1c644118421703e8d2a89b78e0e7f
-323,U1339,B,13H-CC,108.89,,,C,F,,F,T,T,T,T,,,,T,,,,,,,,,,,,,C,,,,F,,T,T,,,,T,,T,,,,,,,,,T,A,,T,C,,,C,,,F,,,CC,13,H,,,,,323-U1339B-13H-CC-nan,6a470a996ba60563b580dc6a3e1df095
-323,U1339,B,14H-CC,120.47,,,C,F,,,,,F,F,T,,,,,,,,,,,,T,,,,C,,,,C,,,T,,T,C,T,,,,,,,,,,,T,C,,C,C,,T,C,,,F,,,CC,14,H,,,,,323-U1339B-14H-CC-nan,1e4282e0760dd0a2c9868bc2dbdfff3e
-323,U1339,B,15H-CC,130.02,,,F,C,,,,,F,C,T,,,F,,,,,,,,,,,,,F,,T,,T,,T,,,F,,,,,,,,,,,,,,A,,F,C,,,C,,,,,,CC,15,H,,,,,323-U1339B-15H-CC-nan,05f6ff02041510bc79c9e90d41c6db7a
-323,U1339,B,16H-CC,139.41,,,C,F,,,,,T,T,,,T,C,,,,,T,,,,,,,,C,,T,,F,,,,,C,,,,T,,,,,,,T,,T,A,,C,C,T,T,C,,,T,,,CC,16,H,,,,,323-U1339B-16H-CC-nan,0e947009fe417e750a96dffa4844e753
-323,U1339,B,17H-CC,148.57,,,C,,,T,,T,T,C,T,,,,,,T,T,T,,,,C,,,,C,T,T,,T,,,T,,T,,,,,,,,,,,,,,A,F,F,C,,T,C,T,,F,,,CC,17,H,,,,,323-U1339B-17H-CC-nan,309f7bd629980bd79aba4616b8bc0bbd
-323,U1339,B,18H-CC,158.79,,,F,F,,,,,T,A,,,,,,T,,,,,,,,,,,C,,,,,,,C,T,T,,,,T,,,,T,F,C,,,,T,,C,T,T,,,,,,,,CC,18,H,,,,,323-U1339B-18H-CC-nan,477cb75b7250ce10b997876a65557d73
-323,U1339,B,19H-CC,167.86,,,,,,,,,,,T,,,,,,,,,,,,,,,,A,,T,,C,,,T,,,C,,,,,,,,F,F,,,,T,T,F,F,,,,,,,,,CC,19,H,,,,,323-U1339B-19H-CC-nan,9032ec459a464783c97f55792fae6463
-323,U1339,B,20H-CC,177.31,,,C,,,T,,,F,,,,T,,,,,,,,,,,,,,A,,T,,,,,C,,,,,F,,,,,,C,C,,,,,,C,C,,,,,,F,,,CC,20,H,,,,,323-U1339B-20H-CC-nan,caff017a0387f57ff8011840851a9448
-323,U1339,B,21H-CC,187.6,,,C,,,,,,T,,,T,,,,,,,,,,,,,,,C,,,,,,,,F,F,,,T,,,,,,T,A,,,,T,,C,C,,,,,,T,,,CC,21,H,,,,,323-U1339B-21H-CC-nan,6bcfe6235ee8976895aa90a3b89c79b6
-323,U1339,B,22H-CC,196.83,,,R,T,,,,,C,A,,,,,F,,,,,,,,,,,,A,,,,,,,T,F,T,,,,T,,,,,,C,,,,F,,C,T,,C,,,,,,,CC,22,H,,,,,323-U1339B-22H-CC-nan,8c6ca6a72b75f8199db6a0864c748d8d
+323,U1339,B,1H-CC,3.91,,,F,R,,,,T,F,R,T,,,,,,,,F,,,,T,,,,C,T,C,,,,,,,,,,,,,,,,T,,,,,A,,,F,,,C,,,,Neodenticula seminae (NPD 12),,CC,1,H,,,,,323-U1339B-1H-CC,09351c30e883b80bf3cea7468317cdb6
+323,U1339,B,2H-CC,13.65,,,C,F,,,,,,C,F,T,,,,,,T,F,,,,T,,T,,A,,T,T,C,,,,,,,,,,,,,,,,,,,C,,,C,,,C,,,T,,,CC,2,H,,,,,323-U1339B-2H-CC,81760487e1a02dc22e5120a0119f32ea
+323,U1339,B,3H-CC,23.36,,,C,T,,,,T,T,F,T,,,,,,,,T,,,,C,,,,C,,C,,,,,,,,T,T,,,,,,,,,,,,A,T,,F,,,T,,,,,,CC,3,H,,,,,323-U1339B-3H-CC,7f1e694e0f1e191bfcd67bd6c113338a
+323,U1339,B,4H-CC,32.91,,,R,,,,T,,,C,,,T,T,,,,,,,,T,F,,,,A,,F,,T,,,T,T,,T,T,,F,,,,,T,,,,F,C,T,,C,,F,T,T,,T,,,CC,4,H,,,,,323-U1339B-4H-CC,97b0bce65b70530dfa42ec18602ffbc8
+323,U1339,B,5H-CC,42.17,,,F,,,,,,C,F,T,,,,,,,,T,T,,T,F,,T,,A,,C,,F,,,,,,,F,,F,,T,,,C,,,,,C,,,F,,,C,,,,,,CC,5,H,,,,,323-U1339B-5H-CC,4b0d66205bd8080f764bcfa0dff9daa6
+323,U1339,B,6H-CC,52.23,,,C,,,,,,,A,T,,,,,,,,,,,T,F,,,,C,,,,T,,,,,,,T,,,,,,,,,,,,C,F,,C,,T,F,,,T,,,CC,6,H,,,,,323-U1339B-6H-CC,b30953725af5e1aed2ddef5ebe4ada97
+323,U1339,B,7H-CC,61.5,,,F,,,,,,T,F,T,,,,,,,,T,,,,T,,,,A,,T,,,,,,,,,T,,F,,,,,F,,,T,,C,F,T,C,,T,F,,F,T,,,CC,7,H,,,,,323-U1339B-7H-CC,26546ca5f97270dfd49d10da10d20c33
+323,U1339,B,8H-CC,70.85,,,C,T,,,,,T,T,,,,,,,T,,,,,T,A,,,T,F,,T,,T,T,T,,T,,,F,,,,,T,,F,,,,,A,T,,C,,,T,,,,,,CC,8,H,,,,,323-U1339B-8H-CC,8781c0db68425f8c4f88d60d04f23458
+323,U1339,B,"9H-2, 45",71.58,,,A,,,,,,,A,,,,T,,,,,,,,,,,,,C,,,,,,,,,,,F,T,,,,,,,F,,,,T,,,F,,T,,,,,,,2,9,H,45,,,,323-U1339B-9H-2,b26ca20e2a6a6c22dd717d7489e4713d
+323,U1339,B,"9H-4, 45",74.54,,,A,,,,,,C,A,,,C,,,,,,,,,,,,,,C,,F,,,,,,,,,F,C,,,,,,,,,,,,,F,,,,,,,,Proboscia curvirostris (NPD 11),,4,9,H,45,,,,323-U1339B-9H-4,ff13f148d1a98242de493ead5e975b2e
+323,U1339,B,9H-CC,80.37,,,,,F,,,,F,A,T,,,,,T,,,,,T,,,T,,,C,,,,,,,,T,T,,T,T,T,,,,,F,C,,,T,T,T,C,F,T,T,T,,,F,,,CC,9,H,,,,,323-U1339B-9H-CC,1d61ed7d7134b54fdec5563f3ef7bcf2
+323,U1339,B,10H-CC,89.88,,,F,C,,,,,,F,F,,,F,,,,F,T,,,T,T,,,T,T,T,F,,F,,,,,,,,,,T,,,,,,T,,,A,T,F,F,,,C,,,T,,,CC,10,H,,,,,323-U1339B-10H-CC,3482796efc773ec9cd1d59dbf6b12b43
+323,U1339,B,11H-CC,99.25,,,F,F,,,,,,F,,,F,T,,,,,,,,,,,,,A,T,F,,,,,T,,,,T,,F,,,,,,,,,,C,T,C,C,T,,F,,,,,,CC,11,H,,,,,323-U1339B-11H-CC,d056d35800bf973d30464ed92e8c275b
+323,U1339,B,12H-CC,108.4,,,C,F,,,T,,,F,,,,C,,,,,,,,,,,,,F,,,,F,,,T,,F,,T,,,,,,,,,,,T,A,T,F,C,,,C,,,,,,CC,12,H,,,,,323-U1339B-12H-CC,3de1c644118421703e8d2a89b78e0e7f
+323,U1339,B,13H-CC,108.89,,,C,F,,F,T,T,T,T,,,,T,,,,,,,,,,,,,C,,,,F,,T,T,,,,T,,T,,,,,,,,,T,A,,T,C,,,C,,,F,,,CC,13,H,,,,,323-U1339B-13H-CC,6a470a996ba60563b580dc6a3e1df095
+323,U1339,B,14H-CC,120.47,,,C,F,,,,,F,F,T,,,,,,,,,,,,T,,,,C,,,,C,,,T,,T,C,T,,,,,,,,,,,T,C,,C,C,,T,C,,,F,,,CC,14,H,,,,,323-U1339B-14H-CC,1e4282e0760dd0a2c9868bc2dbdfff3e
+323,U1339,B,15H-CC,130.02,,,F,C,,,,,F,C,T,,,F,,,,,,,,,,,,,F,,T,,T,,T,,,F,,,,,,,,,,,,,,A,,F,C,,,C,,,,,,CC,15,H,,,,,323-U1339B-15H-CC,05f6ff02041510bc79c9e90d41c6db7a
+323,U1339,B,16H-CC,139.41,,,C,F,,,,,T,T,,,T,C,,,,,T,,,,,,,,C,,T,,F,,,,,C,,,,T,,,,,,,T,,T,A,,C,C,T,T,C,,,T,,,CC,16,H,,,,,323-U1339B-16H-CC,0e947009fe417e750a96dffa4844e753
+323,U1339,B,17H-CC,148.57,,,C,,,T,,T,T,C,T,,,,,,T,T,T,,,,C,,,,C,T,T,,T,,,T,,T,,,,,,,,,,,,,,A,F,F,C,,T,C,T,,F,,,CC,17,H,,,,,323-U1339B-17H-CC,309f7bd629980bd79aba4616b8bc0bbd
+323,U1339,B,18H-CC,158.79,,,F,F,,,,,T,A,,,,,,T,,,,,,,,,,,C,,,,,,,C,T,T,,,,T,,,,T,F,C,,,,T,,C,T,T,,,,,,,,CC,18,H,,,,,323-U1339B-18H-CC,477cb75b7250ce10b997876a65557d73
+323,U1339,B,19H-CC,167.86,,,,,,,,,,,T,,,,,,,,,,,,,,,,A,,T,,C,,,T,,,C,,,,,,,,F,F,,,,T,T,F,F,,,,,,,,,CC,19,H,,,,,323-U1339B-19H-CC,9032ec459a464783c97f55792fae6463
+323,U1339,B,20H-CC,177.31,,,C,,,T,,,F,,,,T,,,,,,,,,,,,,,A,,T,,,,,C,,,,,F,,,,,,C,C,,,,,,C,C,,,,,,F,,,CC,20,H,,,,,323-U1339B-20H-CC,caff017a0387f57ff8011840851a9448
+323,U1339,B,21H-CC,187.6,,,C,,,,,,T,,,T,,,,,,,,,,,,,,,C,,,,,,,,F,F,,,T,,,,,,T,A,,,,T,,C,C,,,,,,T,,,CC,21,H,,,,,323-U1339B-21H-CC,6bcfe6235ee8976895aa90a3b89c79b6
+323,U1339,B,22H-CC,196.83,,,R,T,,,,,C,A,,,,,F,,,,,,,,,,,,A,,,,,,,T,F,T,,,,T,,,,,,C,,,,F,,C,T,,C,,,,,,,CC,22,H,,,,,323-U1339B-22H-CC,8c6ca6a72b75f8199db6a0864c748d8d

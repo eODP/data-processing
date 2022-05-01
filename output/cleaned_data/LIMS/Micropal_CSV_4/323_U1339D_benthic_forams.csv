@@ -1,24 +1,24 @@
 Exp,Site,Hole,Core,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Islandiella norcrossi,Elphidium spp.,Elphidium cf. batialis,Stainforthia spp.,Oridorsalis umbonatus,Nonionella labradorica,Uvigerina cf. peregrina,Alabaminella weddellensis,Globobulimina pacifica,Cibicides lobatulus,Globocassidulina sp.,Triloculina sp. 1,Triloculina sp.,Brizalina earlandi,Pygmaeseistron cf. hispida,Nonionella turgida digitata,Nonionella turgida,Pullenia sp. 1,Uvigerina auberiana,Valvulineria sp.,Glandulina sp.,Bulimina sp.,Epistominella sp.,Lagena spp.,Planulina wuellerstorfi,Lenticulina sp.,Melonis barleanum,Observations,Type,A/W,Sample,eodp_id
-323,U1339,D,1,1,0,0,0,0,G,R,R,A,F,,,F,A,,R,,,,,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-1H-1-nan,319bb64aff491c3f35489200ef55b8fb
-323,U1339,D,1,CC,0,0,6.52,6.52,G,A,A,,A,R,,A,P,,,,,P,P,,,F,,P,R,,,,,,,,,HIGH IRD,H,,323-U1339D-1H-CC-nan,a36605286e641df0e76b35e2557c2881
-323,U1339,D,2,CC,0,0,16.04,16.04,G,R,A,,R,R,,,P,,,P,P,,,R,,,P,,,,,,P,P,,,,HIGH IRD,H,,323-U1339D-2H-CC-nan,179adbc7396d196b316d5ff637ee1aa0
-323,U1339,D,3,CC,0,0,25.59,25.59,G,R,R,R,F,,,,,,R,,,,P,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-3H-CC-nan,aebadd41028a0b96bc26b8d53300c23f
-323,U1339,D,4,CC,0,0,33.38,33.38,G,F,,P,A,P,,P,F,,P,,,,,,,P,R,,P,,,,,,,,,HIGH IRD,H,,323-U1339D-4H-CC-nan,75219e95e446e9ef05d5afe8c67a4a59
-323,U1339,D,5,CC,0,0,43.24,43.24,G,R,P,,F,P,,,R,,,,,,,R,P,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-5H-CC-nan,1c615759a366a5daa1739190a4806df9
-323,U1339,D,6,CC,0,0,52.97,52.97,G,R,P,,F,,,R,,,R,,,,R,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-6H-CC-nan,8cc2a8d03a79194084799e1bfb5952e1
-323,U1339,D,7,CC,0,0,62.48,62.48,G,R,F,R,A,R,,,,,R,,R,,A,P,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-7H-CC-nan,b1fedb44117e4b58f1f33678a4c97bb9
-323,U1339,D,8,CC,0,0,71.2,71.2,M,F,R,,,,,R,P,,P,,,,P,P,,,P,,,,P,P,,,,,P,HIGH IRD,H,,323-U1339D-8H-CC-nan,aa8d05872dfbc6b7a7fd5362e258513f
-323,U1339,D,9,CC,0,0,80.35,80.35,G,R,R,F,A,,,,A,,,,P,,,P,P,,P,,,,,,,P,,,,HIGH IRD,H,,323-U1339D-9H-CC-nan,d914389f751b15559f8f6920c7d2b630
-323,U1339,D,10,CC,0,0,90.53,90.53,G,F,,,,P,,,,,P,,,,,P,P,,P,,R,,,,,,,,,LOW IRD,H,,323-U1339D-10H-CC-nan,b0ba5fe71dc6833bf1f3e7258e032b62
-323,U1339,D,11,CC,0,0,100.38,100.38,M,F,,,R,P,,,,,P,,,,,,,,,,,,,,,,,,,LOW IRD,H,,323-U1339D-11H-CC-nan,46a9125a90ad3bb9da348d964965baf0
-323,U1339,D,12,CC,0,0,110.15,110.15,M,F,R,,F,R,,P,,,P,,,,,,,,P,,,,,,,,,,,LOW IRD,H,,323-U1339D-12H-CC-nan,4ca31da3504a573aed02776e92755321
-323,U1339,D,13,CC,0,0,119.89,119.89,G,A,F,,A,R,P,F,R,,F,,,,P,,,,,,,R,,,,,,,,MEDIUM IRD,H,,323-U1339D-13H-CC-nan,813b94e5e0e4167aa5dae5f49de1da11
-323,U1339,D,14,CC,0,0,128.83,128.83,G,A,P,R,D,P,,P,,,,,P,,,,,,R,P,,,,P,,,,,,MEDIUM IRD,H,,323-U1339D-14H-CC-nan,00d57cf62c1507d24ebfe4949cf3f91b
-323,U1339,D,15,CC,0,0,137.14,137.14,G,F,P,,R,,,,,,P,,,,,P,,,,,,,P,,,,,,,MEDIUM IRD,H,,323-U1339D-15H-CC-nan,86f6f2e562eab9ea9db47d6bc4a6afa9
-323,U1339,D,16,CC,0,0,147.16,147.16,G,F,F,P,D,F,,P,F,P,P,,,,,P,,P,,,P,,,,,,,P,,HIGH IRD,H,,323-U1339D-16H-CC-nan,8095887c6e4348c571fbaef381e31f55
-323,U1339,D,17,CC,0,0,157.88,157.88,G,F,F,,R,R,,,P,R,P,,,,,,,,,,,,,,,,,,,"HIGH IRD, YELLOW TESTS",H,,323-U1339D-17H-CC-nan,649537337e08134f531a521369c7f7d3
-323,U1339,D,18,CC,0,0,167.18,167.18,G,R,,,A,F,,,,,R,,,,,R,,,,,P,,,,,,,,,HIGH IRD,H,,323-U1339D-18H-CC-nan,c987bb18356b5c35bcbbb4b60377d684
-323,U1339,D,19,CC,0,0,176.77,176.77,G,F,R,P,F,,,R,P,,R,,,,,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-19H-CC-nan,d5f77d81a6c3683a0c6f295dede98f87
-323,U1339,D,20,CC,0,0,185.99,185.99,G,F,F,P,F,,,,R,P,,,,,,R,,,,,,,,,,,P,,,HIGH IRD,H,,323-U1339D-20H-CC-nan,8477ff852218f9f1e616d0d277dc9e61
-323,U1339,D,21,CC,0,2,194.11,194.13,G,R,P,,A,P,,P,P,,R,,,,,,,P,P,,P,,,,,,,,,HIGH IRD,H,,323-U1339D-21H-CC-nan,2ac6800c28e2d917875a0fb3bf418885
-323,U1339,D,22,CC,0,0,200.77,200.77,M,F,,,F,,,R,,,,,,,R,,,,,,,,,,,,,,,"MEDIUM IRD, YELLOW TESTS",H,,323-U1339D-22H-CC-nan,f9787a1af7ee481b813fb1fe0bbcdd66
+323,U1339,D,1,1,0,0,0,0,G,R,R,A,F,,,F,A,,R,,,,,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-1H-1,319bb64aff491c3f35489200ef55b8fb
+323,U1339,D,1,CC,0,0,6.52,6.52,G,A,A,,A,R,,A,P,,,,,P,P,,,F,,P,R,,,,,,,,,HIGH IRD,H,,323-U1339D-1H-CC,a36605286e641df0e76b35e2557c2881
+323,U1339,D,2,CC,0,0,16.04,16.04,G,R,A,,R,R,,,P,,,P,P,,,R,,,P,,,,,,P,P,,,,HIGH IRD,H,,323-U1339D-2H-CC,179adbc7396d196b316d5ff637ee1aa0
+323,U1339,D,3,CC,0,0,25.59,25.59,G,R,R,R,F,,,,,,R,,,,P,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-3H-CC,aebadd41028a0b96bc26b8d53300c23f
+323,U1339,D,4,CC,0,0,33.38,33.38,G,F,,P,A,P,,P,F,,P,,,,,,,P,R,,P,,,,,,,,,HIGH IRD,H,,323-U1339D-4H-CC,75219e95e446e9ef05d5afe8c67a4a59
+323,U1339,D,5,CC,0,0,43.24,43.24,G,R,P,,F,P,,,R,,,,,,,R,P,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-5H-CC,1c615759a366a5daa1739190a4806df9
+323,U1339,D,6,CC,0,0,52.97,52.97,G,R,P,,F,,,R,,,R,,,,R,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-6H-CC,8cc2a8d03a79194084799e1bfb5952e1
+323,U1339,D,7,CC,0,0,62.48,62.48,G,R,F,R,A,R,,,,,R,,R,,A,P,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-7H-CC,b1fedb44117e4b58f1f33678a4c97bb9
+323,U1339,D,8,CC,0,0,71.2,71.2,M,F,R,,,,,R,P,,P,,,,P,P,,,P,,,,P,P,,,,,P,HIGH IRD,H,,323-U1339D-8H-CC,aa8d05872dfbc6b7a7fd5362e258513f
+323,U1339,D,9,CC,0,0,80.35,80.35,G,R,R,F,A,,,,A,,,,P,,,P,P,,P,,,,,,,P,,,,HIGH IRD,H,,323-U1339D-9H-CC,d914389f751b15559f8f6920c7d2b630
+323,U1339,D,10,CC,0,0,90.53,90.53,G,F,,,,P,,,,,P,,,,,P,P,,P,,R,,,,,,,,,LOW IRD,H,,323-U1339D-10H-CC,b0ba5fe71dc6833bf1f3e7258e032b62
+323,U1339,D,11,CC,0,0,100.38,100.38,M,F,,,R,P,,,,,P,,,,,,,,,,,,,,,,,,,LOW IRD,H,,323-U1339D-11H-CC,46a9125a90ad3bb9da348d964965baf0
+323,U1339,D,12,CC,0,0,110.15,110.15,M,F,R,,F,R,,P,,,P,,,,,,,,P,,,,,,,,,,,LOW IRD,H,,323-U1339D-12H-CC,4ca31da3504a573aed02776e92755321
+323,U1339,D,13,CC,0,0,119.89,119.89,G,A,F,,A,R,P,F,R,,F,,,,P,,,,,,,R,,,,,,,,MEDIUM IRD,H,,323-U1339D-13H-CC,813b94e5e0e4167aa5dae5f49de1da11
+323,U1339,D,14,CC,0,0,128.83,128.83,G,A,P,R,D,P,,P,,,,,P,,,,,,R,P,,,,P,,,,,,MEDIUM IRD,H,,323-U1339D-14H-CC,00d57cf62c1507d24ebfe4949cf3f91b
+323,U1339,D,15,CC,0,0,137.14,137.14,G,F,P,,R,,,,,,P,,,,,P,,,,,,,P,,,,,,,MEDIUM IRD,H,,323-U1339D-15H-CC,86f6f2e562eab9ea9db47d6bc4a6afa9
+323,U1339,D,16,CC,0,0,147.16,147.16,G,F,F,P,D,F,,P,F,P,P,,,,,P,,P,,,P,,,,,,,P,,HIGH IRD,H,,323-U1339D-16H-CC,8095887c6e4348c571fbaef381e31f55
+323,U1339,D,17,CC,0,0,157.88,157.88,G,F,F,,R,R,,,P,R,P,,,,,,,,,,,,,,,,,,,"HIGH IRD, YELLOW TESTS",H,,323-U1339D-17H-CC,649537337e08134f531a521369c7f7d3
+323,U1339,D,18,CC,0,0,167.18,167.18,G,R,,,A,F,,,,,R,,,,,R,,,,,P,,,,,,,,,HIGH IRD,H,,323-U1339D-18H-CC,c987bb18356b5c35bcbbb4b60377d684
+323,U1339,D,19,CC,0,0,176.77,176.77,G,F,R,P,F,,,R,P,,R,,,,,,,,,,,,,,,,,,,HIGH IRD,H,,323-U1339D-19H-CC,d5f77d81a6c3683a0c6f295dede98f87
+323,U1339,D,20,CC,0,0,185.99,185.99,G,F,F,P,F,,,,R,P,,,,,,R,,,,,,,,,,,P,,,HIGH IRD,H,,323-U1339D-20H-CC,8477ff852218f9f1e616d0d277dc9e61
+323,U1339,D,21,CC,0,2,194.11,194.13,G,R,P,,A,P,,P,P,,R,,,,,,,P,P,,P,,,,,,,,,HIGH IRD,H,,323-U1339D-21H-CC,2ac6800c28e2d917875a0fb3bf418885
+323,U1339,D,22,CC,0,0,200.77,200.77,M,F,,,F,,,R,,,,,,,R,,,,,,,,,,,,,,,"MEDIUM IRD, YELLOW TESTS",H,,323-U1339D-22H-CC,f9787a1af7ee481b813fb1fe0bbcdd66

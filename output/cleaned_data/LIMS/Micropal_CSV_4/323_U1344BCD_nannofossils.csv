@@ -1,38 +1,38 @@
 Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone,Abundance,Preservation,E. huxleyi,P. lacunosa,Gephyrocapsa (medium),Gephyrocapsa (large),Gephyrocapsa (small),C. pelagicus,Dictyococcites spp. (small),Dictyococcites spp. (medium),R. minutula,R. minuta,C. leptoporus,C. leptoporus (small),Comments,A/W,Sample,eodp_id
-323,U1344,B,1,H,CC,26,36,4.7,4.8,NN21,R,M-G,R,,,,,R,,,,,,,Large (>4 microns) E. huxleyi present.,,323-U1344B-1H-CC-nan,4af07b25abff517f8a6090859b820dde
-323,U1344,C,1,H,CC,15,25,7.02,7.12,NN21,F,M-G,R,,,,,F,,,,,,,,,323-U1344C-1H-CC-nan,5038673fd1b087256b06f6e23f49d497
-323,U1344,C,2,H,CC,8,18,14.14,14.24,,B,,,,,,,,,,,,,,,,323-U1344C-2H-CC-nan,dc2b021db513c80926a236f804a20567
-323,U1344,C,3,H,CC,0,15,26.25,26.4,,B,,,,,,,,,,,,,,,,323-U1344C-3H-CC-nan,b3e982af2d54ad51b49b9dee254e448b
-323,U1344,C,4,H,CC,35,45,35.45,35.55,,R,M,,,,,R,,,,,,,,,,323-U1344C-4H-CC-nan,d84a4ecb1c8cbb20315e6a124e751e63
-323,U1344,D,1,H,CC,0,10,2.63,2.73,,R,G,,,,,,R,,,,,,,,,323-U1344D-1H-CC-nan,1cb2c018b74f05ef38a4191b3c20eb47
-323,U1344,D,2,H,CC,7,17,12.15,12.25,,R,G,,,,,,R,,,,,,R,,,323-U1344D-2H-CC-nan,bbb9c894644bcaadbd5ce85e5e3f0bba
-323,U1344,D,3,H,CC,7,17,21.52,21.62,,B,,,,,,,,,,,,,,,,323-U1344D-3H-CC-nan,97e8bf52ff3d219929fd99b78cfface7
-323,U1344,D,4,H,CC,17,27,31.57,31.67,NN21,R,M,R,,,,,,,,,,,R,,,323-U1344D-4H-CC-nan,ab2f1845067e6109712e5a17683a995e
-323,U1344,D,5,H,CC,0,16,38.05,38.21,,R,M-G,,,,,,R,,,,,,,,,323-U1344D-5H-CC-nan,9c574c170a5e62b778506d664aeeb198
-323,U1344,D,6,H,CC,32,42,50.11,50.21,,R,M-G,,,,,,R,,,,,,,"Well-formed rhomboid minerals medium to high birrefringence, up to 6 microns long",,323-U1344D-6H-CC-nan,4149006c78a3bf56cac2b584a8d206ec
-323,U1344,D,7,H,CC,28,38,59.66,59.76,,R,G,,,,,,R,,,,,,,,,323-U1344D-7H-CC-nan,cb9385b3d291a3e6740bcaf3af43b070
-323,U1344,D,8,H,CC,27,37,66.41,66.51,,B,,,,,,,,,,,,,,,,323-U1344D-8H-CC-nan,11096c229b1d1cdaabe8672851f100b1
-323,U1344,D,9,H,CC,58,68,78.27,78.37,,B,,,,,,,,,,,,,,,,323-U1344D-9H-CC-nan,9d2834d4cd32254058f86c5345034d33
-323,U1344,D,10,H,CC,44,54,88.44,88.54,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),,323-U1344D-10H-CC-nan,c403ea505622edbaae4a8ec1fd61960f
-323,U1344,D,11,H,CC,29,39,97.76,97.86,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),,323-U1344D-11H-CC-nan,a2ba6ad4451c057f4eb9eea0259e4c30
-323,U1344,D,12,H,CC,26,36,107.27,107.37,,B,,,,,,,,,,,,,,,,323-U1344D-12H-CC-nan,a8b2e4ca0144c43ab2f8a92cb367d0f0
-323,U1344,D,13,H,CC,55,65,116.6,116.7,,B,,,,,,,,,,,,,,,,323-U1344D-13H-CC-nan,88d83f8f0bf48ab81914036d499c26ec
-323,U1344,D,14,H,CC,33,43,126.28,126.38,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular and tubular shape, low birrefringence",,323-U1344D-14H-CC-nan,e0317ed4c92b1f63427aef0b6f67263b
-323,U1344,D,15,H,CC,104,114,135.67,135.77,,B,,,,,,,,,,,,,,,,323-U1344D-15H-CC-nan,04e839d823a1aa4ab8a21fcae6c6d9f6
-323,U1344,D,16,H,CC,10,20,145.3,145.4,,B,,,,,,,,,,,,,,,,323-U1344D-16H-CC-nan,1c3cfa4f5856b7ca521d93b1da932a55
-323,U1344,D,17,H,CC,35,45,155.02,155.12,,B,,,,,,,,,,,,,,,,323-U1344D-17H-CC-nan,fb84c65a8bf4bdd667e545b568524c12
-323,U1344,D,18,H,CC,31,41,164.29,164.39,,B,,,,,,,,,,,,,,,,323-U1344D-18H-CC-nan,9cdc7e32360aa1a4f75966481557bbd8
-323,U1344,D,19,H,CC,33,43,174.31,174.41,,R,M,,,,,,R,,,,,,,,,323-U1344D-19H-CC-nan,398026a7bdcd1f668a59830c9994e4b3
-323,U1344,D,20,H,CC,38,48,182.98,183.08,,R,M,,,R,,R,R,,,,,,,,,323-U1344D-20H-CC-nan,b0a83344427288b43d7f18655cb6836c
-323,U1344,D,21,H,CC,23,33,192.83,192.93,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1344D-21H-CC-nan,7c950c429a78890349d8566e50e97f2d
-323,U1344,D,22,H,CC,11,21,201.79,201.89,,F,M-G,,,R,,R,,,,,,,,Gephyrocapsids are G. caribbeanica type,,323-U1344D-22H-CC-nan,a2aa322e983781d5ed8d271165e0282c
-323,U1344,D,23,H,CC,19,29,211.14,211.24,,R,M,,,,,R,,,,,,,,,,323-U1344D-23H-CC-nan,36d52164d00a9f0c059b5036e7887557
-323,U1344,D,24,H,CC,0,10,221.05,221.15,,B,,,,,,,,,,,,,,,,323-U1344D-24H-CC-nan,7962a90ddeb85a6496bbd3df50b97c3c
-323,U1344,D,25,H,CC,36,46,224.41,224.51,,R,P,,,,,R,,,,,,,,,,323-U1344D-25H-CC-nan,76236c698e6e8697f0be5926ce636a49
-323,U1344,D,26,H,CC,43,53,233.99,234.09,,B,,,,,,,,,,,,,,,,323-U1344D-26H-CC-nan,9169f687f284902347d66911cb25e74c
-323,U1344,D,27,H,CC,22,32,240.62,240.72,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1344D-27H-CC-nan,c1141bef18f02bf2066aeb524100dd6c
-323,U1344,D,28,H,CC,54,64,248.28,248.38,,R,M-G,,,,,R,,,,,,,,,,323-U1344D-28H-CC-nan,4e274059d569b6e17eca7feb209558a8
-323,U1344,D,29,H,CC,39,49,258.31,258.41,,B,,,,,,,,,,,,,,,,323-U1344D-29H-CC-nan,7c6658855caeb579de51e8a696850f46
-323,U1344,D,30,H,CC,34,44,267.3,267.4,,B,,,,,,,,,,,,,,,,323-U1344D-30H-CC-nan,3767b58e2d220e029f3ec9a7689e8f04
-323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,,,,,,,,,,,,323-U1344D-31H-CC-nan,983b9f036bbdef01c534f9e58a99adee
-323,U1344,D,32,H,CC,7,17,286.17,286.27,,R,M-G,,,,,,,R,,,,,,,,323-U1344D-32H-CC-nan,7948c5ea3158ffdfe87620031d2701eb
+323,U1344,B,1,H,CC,26,36,4.7,4.8,NN21,R,M-G,R,,,,,R,,,,,,,Large (>4 microns) E. huxleyi present.,,323-U1344B-1H-CC,4af07b25abff517f8a6090859b820dde
+323,U1344,C,1,H,CC,15,25,7.02,7.12,NN21,F,M-G,R,,,,,F,,,,,,,,,323-U1344C-1H-CC,5038673fd1b087256b06f6e23f49d497
+323,U1344,C,2,H,CC,8,18,14.14,14.24,,B,,,,,,,,,,,,,,,,323-U1344C-2H-CC,dc2b021db513c80926a236f804a20567
+323,U1344,C,3,H,CC,0,15,26.25,26.4,,B,,,,,,,,,,,,,,,,323-U1344C-3H-CC,b3e982af2d54ad51b49b9dee254e448b
+323,U1344,C,4,H,CC,35,45,35.45,35.55,,R,M,,,,,R,,,,,,,,,,323-U1344C-4H-CC,d84a4ecb1c8cbb20315e6a124e751e63
+323,U1344,D,1,H,CC,0,10,2.63,2.73,,R,G,,,,,,R,,,,,,,,,323-U1344D-1H-CC,1cb2c018b74f05ef38a4191b3c20eb47
+323,U1344,D,2,H,CC,7,17,12.15,12.25,,R,G,,,,,,R,,,,,,R,,,323-U1344D-2H-CC,bbb9c894644bcaadbd5ce85e5e3f0bba
+323,U1344,D,3,H,CC,7,17,21.52,21.62,,B,,,,,,,,,,,,,,,,323-U1344D-3H-CC,97e8bf52ff3d219929fd99b78cfface7
+323,U1344,D,4,H,CC,17,27,31.57,31.67,NN21,R,M,R,,,,,,,,,,,R,,,323-U1344D-4H-CC,ab2f1845067e6109712e5a17683a995e
+323,U1344,D,5,H,CC,0,16,38.05,38.21,,R,M-G,,,,,,R,,,,,,,,,323-U1344D-5H-CC,9c574c170a5e62b778506d664aeeb198
+323,U1344,D,6,H,CC,32,42,50.11,50.21,,R,M-G,,,,,,R,,,,,,,"Well-formed rhomboid minerals medium to high birrefringence, up to 6 microns long",,323-U1344D-6H-CC,4149006c78a3bf56cac2b584a8d206ec
+323,U1344,D,7,H,CC,28,38,59.66,59.76,,R,G,,,,,,R,,,,,,,,,323-U1344D-7H-CC,cb9385b3d291a3e6740bcaf3af43b070
+323,U1344,D,8,H,CC,27,37,66.41,66.51,,B,,,,,,,,,,,,,,,,323-U1344D-8H-CC,11096c229b1d1cdaabe8672851f100b1
+323,U1344,D,9,H,CC,58,68,78.27,78.37,,B,,,,,,,,,,,,,,,,323-U1344D-9H-CC,9d2834d4cd32254058f86c5345034d33
+323,U1344,D,10,H,CC,44,54,88.44,88.54,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),,323-U1344D-10H-CC,c403ea505622edbaae4a8ec1fd61960f
+323,U1344,D,11,H,CC,29,39,97.76,97.86,,B,,,,,,,,,,,,,,Reworked specimen (unidentifiable),,323-U1344D-11H-CC,a2ba6ad4451c057f4eb9eea0259e4c30
+323,U1344,D,12,H,CC,26,36,107.27,107.37,,B,,,,,,,,,,,,,,,,323-U1344D-12H-CC,a8b2e4ca0144c43ab2f8a92cb367d0f0
+323,U1344,D,13,H,CC,55,65,116.6,116.7,,B,,,,,,,,,,,,,,,,323-U1344D-13H-CC,88d83f8f0bf48ab81914036d499c26ec
+323,U1344,D,14,H,CC,33,43,126.28,126.38,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular and tubular shape, low birrefringence",,323-U1344D-14H-CC,e0317ed4c92b1f63427aef0b6f67263b
+323,U1344,D,15,H,CC,104,114,135.67,135.77,,B,,,,,,,,,,,,,,,,323-U1344D-15H-CC,04e839d823a1aa4ab8a21fcae6c6d9f6
+323,U1344,D,16,H,CC,10,20,145.3,145.4,,B,,,,,,,,,,,,,,,,323-U1344D-16H-CC,1c3cfa4f5856b7ca521d93b1da932a55
+323,U1344,D,17,H,CC,35,45,155.02,155.12,,B,,,,,,,,,,,,,,,,323-U1344D-17H-CC,fb84c65a8bf4bdd667e545b568524c12
+323,U1344,D,18,H,CC,31,41,164.29,164.39,,B,,,,,,,,,,,,,,,,323-U1344D-18H-CC,9cdc7e32360aa1a4f75966481557bbd8
+323,U1344,D,19,H,CC,33,43,174.31,174.41,,R,M,,,,,,R,,,,,,,,,323-U1344D-19H-CC,398026a7bdcd1f668a59830c9994e4b3
+323,U1344,D,20,H,CC,38,48,182.98,183.08,,R,M,,,R,,R,R,,,,,,,,,323-U1344D-20H-CC,b0a83344427288b43d7f18655cb6836c
+323,U1344,D,21,H,CC,23,33,192.83,192.93,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1344D-21H-CC,7c950c429a78890349d8566e50e97f2d
+323,U1344,D,22,H,CC,11,21,201.79,201.89,,F,M-G,,,R,,R,,,,,,,,Gephyrocapsids are G. caribbeanica type,,323-U1344D-22H-CC,a2aa322e983781d5ed8d271165e0282c
+323,U1344,D,23,H,CC,19,29,211.14,211.24,,R,M,,,,,R,,,,,,,,,,323-U1344D-23H-CC,36d52164d00a9f0c059b5036e7887557
+323,U1344,D,24,H,CC,0,10,221.05,221.15,,B,,,,,,,,,,,,,,,,323-U1344D-24H-CC,7962a90ddeb85a6496bbd3df50b97c3c
+323,U1344,D,25,H,CC,36,46,224.41,224.51,,R,P,,,,,R,,,,,,,,,,323-U1344D-25H-CC,76236c698e6e8697f0be5926ce636a49
+323,U1344,D,26,H,CC,43,53,233.99,234.09,,B,,,,,,,,,,,,,,,,323-U1344D-26H-CC,9169f687f284902347d66911cb25e74c
+323,U1344,D,27,H,CC,22,32,240.62,240.72,,B,,,,,,,,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1344D-27H-CC,c1141bef18f02bf2066aeb524100dd6c
+323,U1344,D,28,H,CC,54,64,248.28,248.38,,R,M-G,,,,,R,,,,,,,,,,323-U1344D-28H-CC,4e274059d569b6e17eca7feb209558a8
+323,U1344,D,29,H,CC,39,49,258.31,258.41,,B,,,,,,,,,,,,,,,,323-U1344D-29H-CC,7c6658855caeb579de51e8a696850f46
+323,U1344,D,30,H,CC,34,44,267.3,267.4,,B,,,,,,,,,,,,,,,,323-U1344D-30H-CC,3767b58e2d220e029f3ec9a7689e8f04
+323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,,,,,,,,,,,,323-U1344D-31H-CC,983b9f036bbdef01c534f9e58a99adee
+323,U1344,D,32,H,CC,7,17,286.17,286.27,,R,M-G,,,,,,,R,,,,,,,,323-U1344D-32H-CC,7948c5ea3158ffdfe87620031d2701eb

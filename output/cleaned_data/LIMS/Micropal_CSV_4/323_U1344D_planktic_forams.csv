@@ -1,34 +1,34 @@
 Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Globigerina umbilicata,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Comments,A/W,Sample,eodp_id
-323,U1344,D,1,H,1,0,0,0,0,,B,,,,,,,323-U1344D-1H-1-nan,d735d6ab72a5205ebfa715fd61ee0484
-323,U1344,D,1,H,CC,0,10,2.63,2.73,G,R,,,,R,"abundant IRD, mica, rare sponge spicules",,323-U1344D-1H-CC-nan,b097c936514faec99219d31d9fd4e7bd
-323,U1344,D,2,H,CC,7,17,12.15,12.25,M,D,F,,R,D,"dominant IRD, pyrite, mica, few sponge spicules",,323-U1344D-2H-CC-nan,5b4ed70041f843bf6b1d1d3f3983a120
-323,U1344,D,3,H,CC,7,17,21.52,21.62,M,A,F,,,A,"dominant IRD, pyrite, rare sponge spicules",,323-U1344D-3H-CC-nan,94d52cbd1ed94ff15a67d96e74f675d1
-323,U1344,D,4,H,CC,17,27,31.57,31.67,,B,,,,,"abundant IRD, pyrite, mica",,323-U1344D-4H-CC-nan,ee11d80fe0723b74ca24854e4ec220c9
-323,U1344,D,5,H,CC,0,16,38.05,38.21,G,F,F,,,R,"dominant IRD, pyrite, mica, few sponge spicules, few yellow foraminiferal tests",,323-U1344D-5H-CC-nan,2399b1e58c315cd28cb093025551a7f8
-323,U1344,D,6,H,CC,32,42,50.11,50.21,G,R,,,,R,"dominant IRD, pyrite, mica, rare yellow foraminiferal tests",,323-U1344D-6H-CC-nan,e644e6f0e36029e927c5af0515682f57
-323,U1344,D,7,H,CC,28,38,59.66,59.76,G,A,A,,,A,"dominant IRD, pyrite, mica, rare yellow foraminiferal tests",,323-U1344D-7H-CC-nan,7aa60cc5187a3e544f57a73c3a6dc4da
-323,U1344,D,8,H,CC,27,37,66.41,66.51,G,A,F,R,,A,"dominant IRD, pyrite, mica",,323-U1344D-8H-CC-nan,940da0913f84922e975f55ab59d35cd0
-323,U1344,D,9,H,CC,58,68,78.27,78.37,G,R,R,,,,"dominant IRD, pyrite, mica",,323-U1344D-9H-CC-nan,8c998ad3e13d5c9891a7ed78112b30b4
-323,U1344,D,10,H,CC,44,54,88.44,88.54,M,A,R,,,A,"dominant IRD, pyrite, mica",,323-U1344D-10H-CC-nan,cdd6f80d6ae9ee0952315c80f1d526aa
-323,U1344,D,11,H,CC,29,39,97.76,97.86,P,F,F,,,P,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-11H-CC-nan,3b41a13f2cdcfaf557a83600ed5d81cb
-323,U1344,D,12,H,CC,26,36,107.27,107.37,P,F,F,,,R,"abundant IRD, pyrite, mica",,323-U1344D-12H-CC-nan,b33e3dd7ebfd913efd92187f437d53ac
-323,U1344,D,13,H,CC,55,65,116.6,116.7,M,F,F,,,R,"dominant IRD, pyrite, mica",,323-U1344D-13H-CC-nan,9ba2abbb75bba06a0af372aa107a5697
-323,U1344,D,14,H,CC,33,43,126.28,126.38,P,D,R,,,D,"few IRD, pyrite, mica",,323-U1344D-14H-CC-nan,d5baaf58f4b0b7c812ba3a0bec8dcaa5
-323,U1344,D,15,H,CC,104,114,135.67,135.77,M,F,P,,,F,"few IRD, pyrite, mica",,323-U1344D-15H-CC-nan,bd1217165fb72152cd6f402e6ad50205
-323,U1344,D,16,H,CC,10,20,145.3,145.4,,B,,,,,"few IRD, pyrite, mica",,323-U1344D-16H-CC-nan,3d32200830cf1e0d417e975a908ceaa9
-323,U1344,D,17,H,CC,35,45,155.02,155.12,M,R,,,,R,"few IRD, pyrite, mica",,323-U1344D-17H-CC-nan,2f59ccdef01f34901a9761585006a353
-323,U1344,D,18,H,CC,31,41,164.29,164.39,M,R,R,,,,"few IRD, pyrite, mica",,323-U1344D-18H-CC-nan,27c502c7bf2d7d936b7ade91fb453b45
-323,U1344,D,19,H,CC,33,43,174.31,174.41,M,R,R,P,,P,"dominant IRD, pyrite, mica",,323-U1344D-19H-CC-nan,f572af2cbf9307d550d5a9ec36272027
-323,U1344,D,20,H,CC,38,48,182.98,183.08,M,F,F,,,R,"abundant IRD, pyrite, mica",,323-U1344D-20H-CC-nan,d4f649e4c53cebfc5dd42b6fabaceb4d
-323,U1344,D,21,H,CC,23,33,192.83,192.93,P,A,A,,P,A,"dominant IRD, pyrite, mica, orange foraminiferal tests",,323-U1344D-21H-CC-nan,7fc1649162ad32d35d9980929d53a81a
-323,U1344,D,22,H,CC,11,21,201.79,201.89,M,A,R,,,A,"dominant IRD, pyrite, mica",,323-U1344D-22H-CC-nan,23a005d46eae31beec91fc40b9536018
-323,U1344,D,23,H,CC,19,29,211.14,211.24,M,F,R,,,F,"dominant IRD, pyrite, mica",,323-U1344D-23H-CC-nan,1fbb4fa3fb5f3c7cfe0eef4b0c5115df
-323,U1344,D,24,H,CC,0,10,221.05,221.15,M,D,A,,R,D,"dominant IRD, pyrite, mica, rare yellow foraminiferal tests",,323-U1344D-24H-CC-nan,00a23d6e0c53defc5721d1eaad5d8695
-323,U1344,D,25,H,CC,36,46,224.41,224.51,M,F,R,,,F,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-25H-CC-nan,7d58be8420595b94c4b12d266cb678b9
-323,U1344,D,26,H,CC,43,53,233.99,234.09,M,P,P,,,,"dominant IRD, pyrite, mica",,323-U1344D-26H-CC-nan,461c96046bd837250027a0cc3b7d8415
-323,U1344,D,27,H,CC,22,32,240.62,240.72,M,F,F,,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-27H-CC-nan,5f63aadd13b11c9bba652fe21471d416
-323,U1344,D,28,H,CC,54,64,248.28,248.38,M,R,R,,,R,"dominant IRD, pyrite, mica",,323-U1344D-28H-CC-nan,67bba18cbf6958b9c5e4ac0ff065f530
-323,U1344,D,29,H,CC,39,49,258.31,258.41,M,P,,,P,,"dominant IRD, pyrite, mica",,323-U1344D-29H-CC-nan,84b4e21fc7f0397b432f4ee8ae2d2f20
-323,U1344,D,30,H,CC,34,44,267.3,267.4,G,R,R,,,,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-30H-CC-nan,19072b4b169b4bfba59c708594b7c13a
-323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,"dominant IRD, pyrite, mica",,323-U1344D-31H-CC-nan,f8d7b2cbcaa4f9213f6c65ecd886a700
-323,U1344,D,32,H,CC,7,17,286.17,286.27,,B,,,,,"dominant IRD, pyrite, mica",,323-U1344D-32H-CC-nan,38894c1c0a60c055a16a05bdf3b4e10e
+323,U1344,D,1,H,1,0,0,0,0,,B,,,,,,,323-U1344D-1H-1,d735d6ab72a5205ebfa715fd61ee0484
+323,U1344,D,1,H,CC,0,10,2.63,2.73,G,R,,,,R,"abundant IRD, mica, rare sponge spicules",,323-U1344D-1H-CC,b097c936514faec99219d31d9fd4e7bd
+323,U1344,D,2,H,CC,7,17,12.15,12.25,M,D,F,,R,D,"dominant IRD, pyrite, mica, few sponge spicules",,323-U1344D-2H-CC,5b4ed70041f843bf6b1d1d3f3983a120
+323,U1344,D,3,H,CC,7,17,21.52,21.62,M,A,F,,,A,"dominant IRD, pyrite, rare sponge spicules",,323-U1344D-3H-CC,94d52cbd1ed94ff15a67d96e74f675d1
+323,U1344,D,4,H,CC,17,27,31.57,31.67,,B,,,,,"abundant IRD, pyrite, mica",,323-U1344D-4H-CC,ee11d80fe0723b74ca24854e4ec220c9
+323,U1344,D,5,H,CC,0,16,38.05,38.21,G,F,F,,,R,"dominant IRD, pyrite, mica, few sponge spicules, few yellow foraminiferal tests",,323-U1344D-5H-CC,2399b1e58c315cd28cb093025551a7f8
+323,U1344,D,6,H,CC,32,42,50.11,50.21,G,R,,,,R,"dominant IRD, pyrite, mica, rare yellow foraminiferal tests",,323-U1344D-6H-CC,e644e6f0e36029e927c5af0515682f57
+323,U1344,D,7,H,CC,28,38,59.66,59.76,G,A,A,,,A,"dominant IRD, pyrite, mica, rare yellow foraminiferal tests",,323-U1344D-7H-CC,7aa60cc5187a3e544f57a73c3a6dc4da
+323,U1344,D,8,H,CC,27,37,66.41,66.51,G,A,F,R,,A,"dominant IRD, pyrite, mica",,323-U1344D-8H-CC,940da0913f84922e975f55ab59d35cd0
+323,U1344,D,9,H,CC,58,68,78.27,78.37,G,R,R,,,,"dominant IRD, pyrite, mica",,323-U1344D-9H-CC,8c998ad3e13d5c9891a7ed78112b30b4
+323,U1344,D,10,H,CC,44,54,88.44,88.54,M,A,R,,,A,"dominant IRD, pyrite, mica",,323-U1344D-10H-CC,cdd6f80d6ae9ee0952315c80f1d526aa
+323,U1344,D,11,H,CC,29,39,97.76,97.86,P,F,F,,,P,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-11H-CC,3b41a13f2cdcfaf557a83600ed5d81cb
+323,U1344,D,12,H,CC,26,36,107.27,107.37,P,F,F,,,R,"abundant IRD, pyrite, mica",,323-U1344D-12H-CC,b33e3dd7ebfd913efd92187f437d53ac
+323,U1344,D,13,H,CC,55,65,116.6,116.7,M,F,F,,,R,"dominant IRD, pyrite, mica",,323-U1344D-13H-CC,9ba2abbb75bba06a0af372aa107a5697
+323,U1344,D,14,H,CC,33,43,126.28,126.38,P,D,R,,,D,"few IRD, pyrite, mica",,323-U1344D-14H-CC,d5baaf58f4b0b7c812ba3a0bec8dcaa5
+323,U1344,D,15,H,CC,104,114,135.67,135.77,M,F,P,,,F,"few IRD, pyrite, mica",,323-U1344D-15H-CC,bd1217165fb72152cd6f402e6ad50205
+323,U1344,D,16,H,CC,10,20,145.3,145.4,,B,,,,,"few IRD, pyrite, mica",,323-U1344D-16H-CC,3d32200830cf1e0d417e975a908ceaa9
+323,U1344,D,17,H,CC,35,45,155.02,155.12,M,R,,,,R,"few IRD, pyrite, mica",,323-U1344D-17H-CC,2f59ccdef01f34901a9761585006a353
+323,U1344,D,18,H,CC,31,41,164.29,164.39,M,R,R,,,,"few IRD, pyrite, mica",,323-U1344D-18H-CC,27c502c7bf2d7d936b7ade91fb453b45
+323,U1344,D,19,H,CC,33,43,174.31,174.41,M,R,R,P,,P,"dominant IRD, pyrite, mica",,323-U1344D-19H-CC,f572af2cbf9307d550d5a9ec36272027
+323,U1344,D,20,H,CC,38,48,182.98,183.08,M,F,F,,,R,"abundant IRD, pyrite, mica",,323-U1344D-20H-CC,d4f649e4c53cebfc5dd42b6fabaceb4d
+323,U1344,D,21,H,CC,23,33,192.83,192.93,P,A,A,,P,A,"dominant IRD, pyrite, mica, orange foraminiferal tests",,323-U1344D-21H-CC,7fc1649162ad32d35d9980929d53a81a
+323,U1344,D,22,H,CC,11,21,201.79,201.89,M,A,R,,,A,"dominant IRD, pyrite, mica",,323-U1344D-22H-CC,23a005d46eae31beec91fc40b9536018
+323,U1344,D,23,H,CC,19,29,211.14,211.24,M,F,R,,,F,"dominant IRD, pyrite, mica",,323-U1344D-23H-CC,1fbb4fa3fb5f3c7cfe0eef4b0c5115df
+323,U1344,D,24,H,CC,0,10,221.05,221.15,M,D,A,,R,D,"dominant IRD, pyrite, mica, rare yellow foraminiferal tests",,323-U1344D-24H-CC,00a23d6e0c53defc5721d1eaad5d8695
+323,U1344,D,25,H,CC,36,46,224.41,224.51,M,F,R,,,F,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-25H-CC,7d58be8420595b94c4b12d266cb678b9
+323,U1344,D,26,H,CC,43,53,233.99,234.09,M,P,P,,,,"dominant IRD, pyrite, mica",,323-U1344D-26H-CC,461c96046bd837250027a0cc3b7d8415
+323,U1344,D,27,H,CC,22,32,240.62,240.72,M,F,F,,,R,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-27H-CC,5f63aadd13b11c9bba652fe21471d416
+323,U1344,D,28,H,CC,54,64,248.28,248.38,M,R,R,,,R,"dominant IRD, pyrite, mica",,323-U1344D-28H-CC,67bba18cbf6958b9c5e4ac0ff065f530
+323,U1344,D,29,H,CC,39,49,258.31,258.41,M,P,,,P,,"dominant IRD, pyrite, mica",,323-U1344D-29H-CC,84b4e21fc7f0397b432f4ee8ae2d2f20
+323,U1344,D,30,H,CC,34,44,267.3,267.4,G,R,R,,,,"dominant IRD, pyrite, mica, yellow foraminiferal tests",,323-U1344D-30H-CC,19072b4b169b4bfba59c708594b7c13a
+323,U1344,D,31,H,CC,17,27,277.86,277.96,,B,,,,,"dominant IRD, pyrite, mica",,323-U1344D-31H-CC,f8d7b2cbcaa4f9213f6c65ecd886a700
+323,U1344,D,32,H,CC,7,17,286.17,286.27,,B,,,,,"dominant IRD, pyrite, mica",,323-U1344D-32H-CC,38894c1c0a60c055a16a05bdf3b4e10e
