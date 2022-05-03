@@ -3,6 +3,8 @@
 import pandas as pd
 import re
 
+from scripts.normalize_data import remove_whitespace
+
 # taxon_groups = [
 #     "benthic_foraminfera",
 #     "bolboformids",
@@ -179,3 +181,51 @@ def taxon_name_parser(taxon_name):
         name_parts["non-taxa descriptor"] = descriptor
 
     return name_parts
+
+
+def create_taxa_crosswalk_df(df):
+    fields = taxa_rank_fields + taxa_fields + metadata_fields
+    print("fields:", fields)
+
+    filtered_taxa = pd.DataFrame(df, columns=fields)
+    remove_whitespace(filtered_taxa)
+    print("initial df: ", filtered_taxa.shape)
+
+    add_normalized_name_column(filtered_taxa)
+
+    filtered_taxa = filtered_taxa.drop(
+        filtered_taxa[filtered_taxa["normalized_name"] == ""].index
+    )
+    print("remove nontaxa df: ", filtered_taxa.shape)
+
+    filtered_taxa.drop_duplicates(
+        keep="first",
+        inplace=True,
+        subset=["verbatim_name", "normalized_name", "taxon_group"],
+    )
+    print("drop duplicates df: ", filtered_taxa.shape)
+
+    return filtered_taxa
+
+
+def create_taxa_list_df(df):
+    fields = taxa_rank_fields + taxa_fields + pdbd_fields
+    print("fields:", fields)
+
+    filtered_taxa = pd.DataFrame(df, columns=fields)
+    remove_whitespace(filtered_taxa)
+    print("initial df: ", filtered_taxa.shape)
+
+    add_normalized_name_column(filtered_taxa)
+
+    filtered_taxa = filtered_taxa.drop(
+        filtered_taxa[filtered_taxa["normalized_name"] == ""].index
+    )
+    print("remove nontaxa df: ", filtered_taxa.shape)
+
+    filtered_taxa.drop_duplicates(
+        keep="first", inplace=True, subset=["normalized_name", "taxon_group"]
+    )
+    print("drop duplicates df: ", filtered_taxa.shape)
+
+    return filtered_taxa
