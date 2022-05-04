@@ -183,6 +183,64 @@ def taxon_name_parser(taxon_name):
     return name_parts
 
 
+dex_sin_conversion_1 = {
+    "Dextral:Sinistral _N. acostaensis_": [
+        "Neogloboquadrina acostaensis (dextral)",
+        "Neogloboquadrina acostaensis (sinistral)",
+    ],
+    "Dextral:Sinistral _P. finalis_": [
+        "Pulleniatina finalis (dextral)",
+        "Pulleniatina finalis (sinistral)",
+    ],
+    "Dextral:Sinistral _P. obliquiloculata_": [
+        "Pulleniatina obliquiloculata (dextral)",
+        "Pulleniatina obliquiloculata (sinistral)",
+    ],
+    "Dextral:Sinistral _P. praecursor_": [
+        "Pulleniatina praecursor (dextral)",
+        "Pulleniatina praecursor (sinistral)",
+    ],
+    "Dextral:Sinistral _P. praespectabilis_": [
+        "Pulleniatina praespectabilis (dextral)",
+        "Pulleniatina praespectabilis (sinistral)",
+    ],
+    "Dextral:Sinistral _P. primalis_": [
+        "Pulleniatina primalis (dextral)",
+        "Pulleniatina primalis (sinistral)",
+    ],
+    "Dextral:Sinistral _P. spectabilis_": [
+        "Pulleniatina spectabilis (dextral)",
+        "Pulleniatina spectabilis (sinistral)",
+    ],
+}
+
+
+dex_sin_conversion_2 = {
+    "Dextral:Sinistral _N. acostaensis_": [
+        "Dextral N. acostaensis",
+        "Sinistral N. acostaensis",
+    ],
+    "Dextral:Sinistral _P. finalis_": ["Dextral P. finalis", "Sinistral P. finalis"],
+    "Dextral:Sinistral _P. obliquiloculata_": [
+        "Dextral P. obliquiloculata",
+        "Sinistral P. obliquiloculata",
+    ],
+    "Dextral:Sinistral _P. praecursor_": [
+        "Dextral P. praecursor",
+        "Sinistral P. praecursor",
+    ],
+    "Dextral:Sinistral _P. praespectabilis_": [
+        "Dextral P. praespectabilis",
+        "Sinistral P. praespectabilis",
+    ],
+    "Dextral:Sinistral _P. primalis_": ["Dextral P. primalis", "Sinistral P. primalis"],
+    "Dextral:Sinistral _P. spectabilis_": [
+        "Dextral P. spectabilis",
+        "Sinistral P. spectabilis",
+    ],
+}
+
+
 def create_taxa_crosswalk_df(df):
     fields = taxa_rank_fields + taxa_fields + metadata_fields
     print("fields:", fields)

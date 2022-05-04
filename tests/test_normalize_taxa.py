@@ -3,7 +3,11 @@ import pandas as pd
 import numpy as np
 from pandas._testing import assert_frame_equal
 
-from scripts.normalize_taxa import add_normalized_name_column, taxon_name_parser
+from scripts.normalize_taxa import (
+    add_normalized_name_column,
+    taxon_name_parser,
+    create_taxa_crosswalk_df,
+)
 
 
 class TestAddNormalizedNameColumn:
@@ -307,3 +311,114 @@ class TestTaxonNameParser:
             "subspecies name": "text3",
         }
         assert taxon_name_parser(string) == expected
+
+
+class Test_create_taxa_crosswalk_df:
+    def format_df(self, attrs):
+        common_columns = {
+            "Any taxon above genus": np.nan,
+            "genus modifier": np.nan,
+            "genus name": np.nan,
+            "subgenera modifier": np.nan,
+            "subgenera name": np.nan,
+            "species modifier": np.nan,
+            "species name": np.nan,
+            "subspecies modifier": np.nan,
+            "subspecies name": np.nan,
+            "non-taxa descriptor": np.nan,
+            "normalized_name": np.nan,
+            "taxon_group": np.nan,
+            "verbatim_name": np.nan,
+            "name comment field": np.nan,
+            "Comment": np.nan,
+            "Notes (change to Internal only notes?)": np.nan,
+            "comments": np.nan,
+        }
+        for k, v in attrs.items():
+            common_columns[k] = v
+
+        return common_columns
+
+    def test_add_columns_for_crosswalk_df(self):
+        data = [
+            {
+                "verbatim_name": "a a1",
+                "genus name": "a",
+                "species name": "aa",
+                "taxon_group": "group",
+            },
+            {
+                "verbatim_name": "b b1",
+                "genus name": "b",
+                "species name": "bb",
+                "taxon_group": "group",
+            },
+        ]
+        df = pd.DataFrame(data)
+        data = [
+            self.format_df(
+                {
+                    "genus name": "a",
+                    "species name": "aa",
+                    "normalized_name": "a aa",
+                    "taxon_group": "group",
+                    "verbatim_name": "a a1",
+                }
+            ),
+            self.format_df(
+                {
+                    "genus name": "b",
+                    "species name": "bb",
+                    "normalized_name": "b bb",
+                    "taxon_group": "group",
+                    "verbatim_name": "b b1",
+                }
+            ),
+        ]
+        expected = pd.DataFrame(data)
+
+        new_df = create_taxa_crosswalk_df(df)
+
+        assert_frame_equal(new_df, expected)
+
+    def test_if_verbatim_name_has_Dextral_Sinistral(self):
+        data = [
+            {
+                "verbatim_name": "Dextral:Sinistral a a1",
+                "genus name": "a",
+                "species name": "aa",
+                "taxon_group": "group",
+            },
+            {
+                "verbatim_name": "Dextral:Sinistral b b1",
+                "genus name": "b",
+                "species name": "bb",
+                "taxon_group": "group",
+            },
+        ]
+        df = pd.DataFrame(data)
+        data = [
+            self.format_df(
+                {
+                    "genus name": "a",
+                    "species name": "aa",
+                    "normalized_name": "a aa",
+                    "taxon_group": "group",
+                    "verbatim_name": "Dextral:Sinistral a a1",
+                }
+            ),
+            self.format_df(
+                {
+                    "genus name": "b",
+                    "species name": "bb",
+                    "normalized_name": "b bb",
+                    "taxon_group": "group",
+                    "verbatim_name": "Dextral:Sinistral b b1",
+                }
+            ),
+        ]
+        expected = pd.DataFrame(data)
+
+        new_df = create_taxa_crosswalk_df(df)
+
+        assert_frame_equal(new_df, expected)
