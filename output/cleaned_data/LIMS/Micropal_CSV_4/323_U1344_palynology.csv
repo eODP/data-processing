@@ -1,4 +1,4 @@
-Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Picea,Pinus,Trees,Shrubs,Herbs,Total pollen,Spores of Sphagnum,Spores of Pteridophytes,Botryococcus + Pediastrum,Hallodinium,Tintinids,Reworked palynomorphs,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Top [cm],Bottom [cm],A/W,Sample,eodp_id
+Exp,Site,Hole,Core,Type,Section,Top Depth [m],Bottom Depth [m],Preservation,Picea,Pinus,Trees,Shrubs,Herbs,Total pollen,Spores of Sphagnum,Spores of Pteridophytes,Botryococcus + Pediastrum,Hallodinium,Tintinids,Reworked palynomorphs,,,,,,,,,,,,Top [cm],Bottom [cm],A/W,Sample,eodp_id
 323,U1344,A,1,H,CC,9.0,9.1,G,R,R,R,,,F,,C,F,,,R,,,,,,,,,,,,,,,323-U1344A-1H-CC,6f47bf23215f08fb50970320c57ff809
 323,U1344,A,2,H,CC,18.7,18.8,G,F,R,F,,,F,,R,R,,,R,,,,,,,,,,,,,,,323-U1344A-2H-CC,f7abd975570515f5317827724aabfee9
 323,U1344,A,3,H,CC,28.6,28.7,G,C,,C,,,C,R,R,R,,,,,,,,,,,,,,,,,,323-U1344A-3H-CC,67aeacc96e5e05a251c722b24ff688a7

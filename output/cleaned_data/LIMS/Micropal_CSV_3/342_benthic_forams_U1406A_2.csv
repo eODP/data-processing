@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Unnamed: 14,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data,eodp_id
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data,eodp_id
 342-U1406A-2H-2-W 100/102-PAL,342,U1406,A,2,2-2,H,2,W,100/102-PAL,0,2,8.7,8.72,8.71,VG [P21],P,R,R,A,A,P,,,47d767d8ec0a070be10679921e881db9
 342-U1406A-2H-4-W 100/102-PAL,342,U1406,A,2,2-4,H,4,W,100/102-PAL,0,2,11.7,11.72,11.71,VG [P21],P,P,R,A,A,P,,,1f224e8abef2903d4c083821a26eb0df
 342-U1406A-2H-5-W 100/102-PAL,342,U1406,A,2,2-5,H,5,W,100/102-PAL,0,2,13.2,13.22,13.21,VG [P21],P,F,A,A,A,A,,,f2835a22d6d4f97d352aeb2c005d3360

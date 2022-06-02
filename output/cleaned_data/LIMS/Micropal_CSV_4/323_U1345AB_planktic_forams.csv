@@ -1,4 +1,4 @@
-Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Globigerina umbilicata,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Turborotalia quinqueloba,comments,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,A/W,Sample,eodp_id
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Abundance,Globigerina bulloides,Globigerina umbilicata,Neogloboquadrina pachyderma (dex),Neogloboquadrina pachyderma (sin),Turborotalia quinqueloba,comments,,,,,,A/W,Sample,eodp_id
 323,U1345,A,1,H,CC,4,14,4.29,4.39,VG,D,D,,,D,R,abundant IRD,,,,,,,323-U1345A-1H-CC,6a6859406c5da6a02ebf94bf2821ddf7
 323,U1345,A,2,H,CC,0,11,13.98,14.09,G,F,R,,,F,,"dominant IRD, pyrite",,,,,,,323-U1345A-2H-CC,0c6c997925e87d8c560f535310395059
 323,U1345,A,3,H,CC,21,31,23.82,23.92,G,F,P,,,F,,"dominant IRD, pyrite",,,,,,,323-U1345A-3H-CC,55ec7785072127830589eb4d91073f56

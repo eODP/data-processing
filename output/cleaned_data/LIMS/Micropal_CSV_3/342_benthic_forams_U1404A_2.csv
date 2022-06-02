@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Unnamed: 14,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data,Unnamed: 24,eodp_id
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],,Preservation,Group abundance,Agglutinated,Elongated,Planispiral,Trochospiral,Tapered,Comments,File Data,,eodp_id
 342-U1404A-23H-5-W 101/103-FORAM,342,U1404,A,23,23-5,H,5,W,101/103-FORAM,0,2,201.91,201.93,201.92,G [P21],R,B,B,B,P,B,dwarfism?,,,942a2fe429b91752ae48c790f8809ada
 342-U1404A-23H-6-W 51/53-FORAM,342,U1404,A,23,23-6,H,6,W,51/53-FORAM,0,2,202.91,202.93,202.92,M [P21],D,P,F,B,D,B,,,,690537b519678c4f6a36c3e39a411679
 342-U1404A-23H-7-W 40/42-FORAM,342,U1404,A,23,23-7,H,7,W,40/42-FORAM,0,2,203.8,203.82,203.81,G [P21],D,B,R,B,D,B,dwarfism?,,,db4304c2c8fb88a88078bb478a32b81e

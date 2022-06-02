@@ -1,4 +1,4 @@
-Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Globigerina bulloides,Globigerina cf. woodi,Globoconella miozea,Neogloboquadrina acostaensis,Neogloboquadrina nympha,Neogloboquadrina cf. pachyderma,File Data,Unnamed: 21,eodp_id
+Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Globigerina bulloides,Globigerina cf. woodi,Globoconella miozea,Neogloboquadrina acostaensis,Neogloboquadrina nympha,Neogloboquadrina cf. pachyderma,File Data,,eodp_id
 318-U1359A-4H-CC-PAL-FORAM,318,U1359,A,4,4-CC,H,CC,PAL,FORAM,0,5,28.51,28.56,R,,,,,C,,,1d4b8d9038b4fc8dca0fdead125389d5
 318-U1359A-4H-CC-PAL-FORAM,318,U1359,A,4,4-CC,H,CC,PAL,FORAM,0,5,28.51,28.56,,,,,,R,,,6a130ad871b3cb2057cd32f4b749b0b3
 318-U1359A-5H-CC-PAL-FORAM,318,U1359,A,5,5-CC,H,CC,PAL,FORAM,0,5,29.28,29.33,R,,,,,C,,,161097c6774b9bea1763ad991f1e1187
