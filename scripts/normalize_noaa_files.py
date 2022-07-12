@@ -5,11 +5,12 @@ import re
 
 def unique_filenames_for_paths(paths):
     """Find all the unique filenames for a list of paths"""
-    index = filename_index(paths[0])
-
     files = set()
     for path in paths:
-        filename = Path(path).parts[index]
+        if '.ipynb_checkpoints' in str(path):
+            continue
+
+        filename = Path(path).name
         files.add(filename)
 
     return files
