@@ -22,6 +22,15 @@ def fetch_all(sql):
     return cursor.fetchall()
 
 
+def fetch_all_dict(sql):
+    conn = connect()
+    cursor = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
+
+    cursor.execute(sql)
+
+    return cursor.fetchall()
+
+
 def fetch_one(sql):
     conn = connect()
     cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
