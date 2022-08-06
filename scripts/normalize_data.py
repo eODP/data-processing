@@ -492,3 +492,72 @@ def remove_empty_unnamed_columns(df):
 def print_df(df, num_rows=5):
     print(df.shape)
     return df.head(num_rows)
+
+
+def normalize_abundance_codes(
+    df, file_taxon_group, codes_df, verbatim_names_taxon_groups, path=None
+):
+    changed = False
+
+    exps = df["Exp"].unique()
+    if len(exps) > 1:
+        print("multiple expeditions: ", path, exps)
+    exp = exps[0]
+
+    verbatim_names = verbatim_names_taxon_groups.keys()
+    taxa_cols = list(set(df.columns).intersection(set(verbatim_names)))
+    if len(taxa_cols) == 0:
+        return {"changed": changed, "df": df}
+
+    codes_filter_df = codes_df[(codes_df["expedition"] == exp)]
+
+    for taxon in taxa_cols:
+        # get taxon groups vetted by the PIs
+        groups = verbatim_names_taxon_groups[taxon]
+
+        if len(groups) == 0:
+            raise (ValueError(f"{taxon} does not have taxon groups."))
+
+        # if taxa has one taxon group, use PI approved taxon group
+        if len(groups) == 1:
+            codes_filter_df = codes_df[
+                (codes_df["expedition"] == exp) & (codes_df["taxon_group"] == groups[0])
+            ]
+            for ind, row in codes_filter_df.iterrows():
+                if row["taxon_group"] != groups[0]:
+                    continue
+
+                # update abundance code for a particular taxon
+                taxa_filter_df = df[taxon]
+                df[taxon] = taxa_filter_df.replace(
+                    to_replace=row["original_abundance"],
+                    value=row["normalized_abundance"],
+                    regex=False,
+                )
+                if not taxa_filter_df.fillna("").equals(df[taxon].fillna("")):
+                    changed = True
+
+        # if taxa has multiple taxon groups
+        elif len(groups) > 1:
+            codes_filter_df = codes_df[
+                (codes_df["expedition"] == exp)
+                & (codes_df["taxon_group"] == file_taxon_group)
+            ]
+            for ind, row in codes_filter_df.iterrows():
+                if file_taxon_group not in groups:
+                    raise (
+                        ValueError(f"{taxon} does not belong to {file_taxon_group}.")
+                    )
+
+                # update abundance code for a particular taxon
+                taxa_filter_df = df[taxon]
+                df[taxon] = taxa_filter_df.replace(
+                    to_replace=row["original_abundance"],
+                    value=row["normalized_abundance"],
+                    regex=False,
+                )
+
+                if not taxa_filter_df.fillna("").equals(df[taxon].fillna("")):
+                    changed = True
+
+    return {"changed": changed, "df": df}

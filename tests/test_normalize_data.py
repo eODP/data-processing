@@ -24,6 +24,7 @@ from scripts.normalize_data import (
     delete_duplicate_columns,
     remove_bracket_text,
     remove_empty_unnamed_columns,
+    normalize_abundance_codes,
 )
 
 
@@ -1461,3 +1462,476 @@ class TestRemoveEmptyUnnamedColumns:
         remove_empty_unnamed_columns(df)
 
         assert_frame_equal(df, expected)
+
+
+class TestNormalizeAbundanceCodes:
+    def create_df(self):
+        return pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "a"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+
+    def create_multi_df(self):
+        return pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "a", "taxon B": np.nan, "taxon C": "cc"},
+                {"Exp": "1", "taxon A": np.nan, "taxon B": "bb", "taxon C": "c"},
+                {"Exp": "1", "taxon A": "aa", "taxon B": "b", "taxon C": np.nan},
+            ]
+        )
+
+    def test_no_changes_if_original_and_normalized_abundances_are_the_same(
+        self,
+    ):
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "a",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 1"]}
+
+        expected_df = self.create_df()
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == False
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_change_abundances_if_different_abundances_same_expedition_same_group(
+        self,
+    ):
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 1"]}
+
+        expected_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "z"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_ignore_normalized_abundances_from_different_expeditions(self):
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "10",
+                "taxon_group": "group 1",
+                "normalized_abundance": "y",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "10",
+                "taxon_group": "group 1",
+                "normalized_abundance": "yy",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 1"]}
+
+        expected_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "z"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_ignore_normalized_abundances_from_different_taxon_group(self):
+        file_taxon_group = "group 1"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "y",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "yy",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 1"]}
+
+        expected_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "z"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_uses_taxon_group_from_verbatim_names_taxon_groups_if_taxon_has_one_group(
+        self,
+    ):
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "y",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "yy",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 1"]}
+
+        expected_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "z"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_uses_taxon_group_from_file_if_taxon_has_multiple_groups(self):
+        file_taxon_group = "group 1"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "y",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "yy",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 2", "group 1"]}
+
+        expected_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "z"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_handles_multiple_taxa_and_taxon_groups(self):
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "b",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "b",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+            {
+                "original_abundance": "bb",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "yy",
+            },
+            {
+                "original_abundance": "c",
+                "expedition": "1",
+                "taxon_group": "group 3",
+                "normalized_abundance": "c",
+            },
+            {
+                "original_abundance": "cc",
+                "expedition": "1",
+                "taxon_group": "group 3",
+                "normalized_abundance": "cc",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 3",
+                "normalized_abundance": "x",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {
+            "taxon A": ["group 1"],
+            "taxon B": ["group 2"],
+            "taxon C": ["group 3"],
+        }
+
+        expected_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "z", "taxon B": np.nan, "taxon C": "cc"},
+                {"Exp": "1", "taxon A": np.nan, "taxon B": "yy", "taxon C": "c"},
+                {"Exp": "1", "taxon A": "aa", "taxon B": "b", "taxon C": np.nan},
+            ]
+        )
+
+        result = normalize_abundance_codes(
+            self.create_multi_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected_df)
+
+    def test_return_original_df_if_taxa_not_in_verbatim_names(self):
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "a",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon C": ["group 1"]}
+        expected = self.create_df()
+
+        result = normalize_abundance_codes(
+            self.create_df(),
+            file_taxon_group,
+            codes_df,
+            verbatim_names_taxon_groups,
+        )
+
+        assert result["changed"] == False
+        assert_frame_equal(result["df"], expected)
+
+    def test_raise_error_if_df_has_taxon_does_not_have_taxon_groups(self):
+        demo_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "a"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "a",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": []}
+
+        message = "taxon A does not have taxon groups."
+        with pytest.raises(ValueError, match=message):
+            normalize_abundance_codes(
+                demo_df,
+                file_taxon_group,
+                codes_df,
+                verbatim_names_taxon_groups,
+            )
+
+    def test_raise_error_if_file_taxon_group_does_not_match_taxa_taxon_groups(self):
+        demo_df = pd.DataFrame(
+            [
+                {"Exp": "1", "taxon A": "a"},
+                {"Exp": "1", "taxon A": np.nan},
+                {"Exp": "1", "taxon A": "aa"},
+            ]
+        )
+        file_taxon_group = "group 2"
+        codes_data = [
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "a",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 1",
+                "normalized_abundance": "aa",
+            },
+            {
+                "original_abundance": "a",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "z",
+            },
+            {
+                "original_abundance": "aa",
+                "expedition": "1",
+                "taxon_group": "group 2",
+                "normalized_abundance": "zz",
+            },
+        ]
+        codes_df = pd.DataFrame(codes_data)
+        verbatim_names_taxon_groups = {"taxon A": ["group 1", "group 3"]}
+
+        message = "taxon A does not belong to group 2."
+        with pytest.raises(ValueError, match=message):
+            normalize_abundance_codes(
+                demo_df,
+                file_taxon_group,
+                codes_df,
+                verbatim_names_taxon_groups,
+            )
