@@ -7,7 +7,7 @@ def unique_filenames_for_paths(paths):
     """Find all the unique filenames for a list of paths"""
     files = set()
     for path in paths:
-        if '.ipynb_checkpoints' in str(path):
+        if ".ipynb_checkpoints" in str(path):
             continue
 
         filename = Path(path).name
