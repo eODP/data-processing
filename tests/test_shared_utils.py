@@ -1,5 +1,8 @@
+import pandas as pd
+
 from scripts.shared_utils import (
     extract_taxon_group_from_filename,
+    get_taxa_and_taxon_groups,
 )
 
 
@@ -93,3 +96,54 @@ class TestExtractTaxonGroupFromFilename:
 
         assert extract_taxon_group_from_filename(file1) == "taxon_group"
         assert extract_taxon_group_from_filename(file2) == "taxon_group"
+
+
+class TestGetTaxaAndTaxonGroups:
+    def test_returns_a_dictionary_of_verbatim_names_and_taxon_groups(self):
+        data = [
+            {"verbatim_name": "taxon A", "taxon_group": "group 1", "name": "A a"},
+            {"verbatim_name": "taxon B", "taxon_group": "group 2", "name": "B b"},
+            {"verbatim_name": "taxon C", "taxon_group": "group 3", "name": "C c"},
+        ]
+        taxa_df = pd.DataFrame(data)
+
+        expected = {
+            "taxon A": ["group 1"],
+            "taxon B": ["group 2"],
+            "taxon C": ["group 3"],
+        }
+        assert get_taxa_and_taxon_groups(taxa_df) == expected
+
+    def test_handles_verbatim_names_with_multiple_taxon_groups(self):
+        data = [
+            {"verbatim_name": "taxon A", "taxon_group": "group 1", "name": "A a"},
+            {"verbatim_name": "taxon A", "taxon_group": "group 2", "name": "A a"},
+            {"verbatim_name": "taxon B", "taxon_group": "group 2", "name": "C c"},
+        ]
+        taxa_df = pd.DataFrame(data)
+
+        expected = {"taxon A": ["group 1", "group 2"], "taxon B": ["group 2"]}
+        assert get_taxa_and_taxon_groups(taxa_df) == expected
+
+    def test_ignores_record_with_duplicate_verbatim_name_and_taxon_group(self):
+        data = [
+            {"verbatim_name": "taxon A", "taxon_group": "group 1", "name": "A a"},
+            {"verbatim_name": "taxon A", "taxon_group": "group 1", "name": "B b"},
+            {"verbatim_name": "taxon A", "taxon_group": "group 2", "name": "A a"},
+        ]
+        taxa_df = pd.DataFrame(data)
+
+        expected = {"taxon A": ["group 1", "group 2"]}
+        assert get_taxa_and_taxon_groups(taxa_df) == expected
+
+    def test_strips_extra_whitespace_from_verbatim_name(self):
+        data = [
+            {"verbatim_name": "taxon A", "taxon_group": "group 1", "name": "A a"},
+            {"verbatim_name": " taxon A", "taxon_group": "group 1", "name": "B b"},
+            {"verbatim_name": " taxon A ", "taxon_group": "group 1", "name": "C c"},
+            {"verbatim_name": " taxon A", "taxon_group": "group 1", "name": "D d"},
+        ]
+        taxa_df = pd.DataFrame(data)
+
+        expected = {"taxon A": ["group 1"]}
+        assert get_taxa_and_taxon_groups(taxa_df) == expected
