@@ -1,0 +1,771 @@
+expedition,taxon_group,original_abundance,normalized_abundance,definition,notes,type
+323,diatoms,20.8,,,Depth/age in wrong spot,groups
+323,diatoms,30.48,,,Depth/age in wrong spot,groups
+382,benthic_forams,B,B,barren,,groups
+383,benthic_forams,B,B,barren,,groups
+327,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+328,benthic_forams,A,,,I think there's something wrong w/ the Exp numbers here,groups
+329,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+331,benthic_forams,A,,,I think there's something wrong w/ the Exp numbers here,groups
+332,benthic_forams,A,,,I think there's something wrong w/ the Exp numbers here,groups
+333,benthic_forams,A,,,I think there's something wrong w/ the Exp numbers here,groups
+334,benthic_forams,R,,,I think there's something wrong w/ the Exp numbers here,groups
+335,benthic_forams,R,,,I think there's something wrong w/ the Exp numbers here,groups
+336,benthic_forams,A,,,I think there's something wrong w/ the Exp numbers here,groups
+337,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+338,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+345,benthic_forams,A,,,I think there's something wrong w/ the Exp numbers here,groups
+360,benthic_forams,P,,,I think there's something wrong w/ the Exp numbers here,groups
+380,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+381,benthic_forams,R,,,I think there's something wrong w/ the Exp numbers here,groups
+384,benthic_forams,R,,,I think there's something wrong w/ the Exp numbers here,groups
+385,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+386,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here,groups
+387,benthic_forams,P,,,I think there's something wrong w/ the Exp numbers here,groups
+388,benthic_forams,P,,,I think there's something wrong w/ the Exp numbers here,groups
+389,benthic_forams,P,,,I think there's something wrong w/ the Exp numbers here,groups
+390,benthic_forams,R,,,I think there's something wrong w/ the Exp numbers here,groups
+326,benthic_forams,F,,,I think there's something wrong w/ the Exp numbers here. ,groups
+317,benthic_forams,G,,,Likely preservation not abundance,groups
+317,benthic_forams,M,,,Likely preservation not abundance,groups
+317,nannofossils,M,,,Likely preservation not abundance,groups
+320,radiolarians,G,,,Likely preservation not abundance,groups
+320,radiolarians,M,,,Likely preservation not abundance,groups
+323,benthic_forams,G,,,Likely preservation not abundance,groups
+323,benthic_forams,M,,,Likely preservation not abundance,groups
+323,diatoms,M-G,,,Likely preservation not abundance,groups
+323,diatoms,P,,,Likely preservation not abundance,groups
+323,diatoms,P-M,,,Likely preservation not abundance,groups
+341,benthic_forams,G,,,Likely preservation not abundance,groups
+342,planktic_forams,G,,,Likely preservation not abundance,groups
+349,nannofossils,G,,,Likely preservation not abundance,groups
+369,nannofossils,E,,,Likely preservation not abundance,groups
+369,nannofossils,G,,,Likely preservation not abundance,groups
+369,nannofossils,M,,,Likely preservation not abundance,groups
+369,nannofossils,P,,,Likely preservation not abundance,groups
+371,benthic_forams,E,,,Likely preservation not abundance,groups
+371,benthic_forams,M,,,Likely preservation not abundance,groups
+371,benthic_forams,VG,,,Likely preservation not abundance,groups
+317,diatoms,M,,,Unclear if this is preservation or count. Mass is used in some diatom abundances to be >60% diatoms. Clearly M-G and P-M are preservation states,groups
+323,diatoms,M,,,Unclear if this is preservation or count. Mass is used in some diatom abundances to be >60% diatoms. Clearly M-G and P-M are preservation states,groups
+341,diatoms,A,A,abundant (~20%–60% valves),,groups
+353,diatoms,A,A,abundant (~20%–60% valves),,groups
+361,nannofossils,A,A,abundant (>10 specimens per field of view),,groups
+318,diatoms,A,A,abundant (>10 valves per field of view),,groups
+356,benthic_forams,A,A,abundant (>10%−30% benthic foraminifer specimens in total assemblage),,groups
+369,benthic_forams,A,A,abundant (>10%–30% benthic foraminifera to sediment particles),,groups
+371,benthic_forams,A,A,abundant (>10%–30% benthic foraminifera to sediment particles),,groups
+341,benthic_forams,A,A,abundant (>10%–30% benthic foraminifers in relation to the total >63 µm size fraction),,groups
+339,planktic_forams,A,A,abundant (>10%–30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,benthic_forams,A,A,abundant (>10%–30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,planktic_forams,A,A,abundant (>10%–30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,benthic_forams,A,A,abundant (>10%–30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+342,planktic_forams,A,A,abundant (>10%–30% of total sediment particles),,groups
+342,benthic_forams,A,A,abundant (>10%–30% of total sediment particles),,groups
+341,planktic_forams,A,A,abundant (>10%–30% planktonic foraminifers in relation to the total >125 µm size fraction),,groups
+342,radiolarians,A,A,"abundant (>10,000 specimens in a 5 cm3 sample)",,groups
+342,radiolarians,A,A,"abundant (>10,000 specimens in a 5 cm3 sample)",,groups
+346,radiolarians,A,A,"abundant (>10,000 specimens in a sample)",,groups
+359,radiolarians,A,A,abundant (>100 specimens in a sample),,groups
+349,radiolarians,A,A,abundant (>100 specimens per slide traverse),,groups
+371,radiolarians,A,A,abundant (>100 specimens per slide traverse),,groups
+374,radiolarians,A,A,abundant (>100 specimens per slide traverse),,groups
+324,nannofossils,A,A,abundant (>10–100 specimens per field of view),,groups
+352,nannofossils,A,A,abundant (>10–100 specimens per field of view),,groups
+344,radiolarians,A,A,abundant (>200 specimens per slide traverse),,groups
+339,palynology,A,A,abundant (>2000/cm3),,groups
+362,planktic_forams,A,A,abundant (>25% planktic foraminifera in total residue),,groups
+354,planktic_forams,A,A,abundant (>25% specimens in total residue),,groups
+374,benthic_forams,A,A,abundant (>25%–50% benthic foraminifera to sediment particles),,groups
+362,radiolarians,A,A,abundant (>30 specimens per slide traverse),,groups
+351,benthic_forams,A,A,abundant (>30% foraminifers in the >150um fraction),,groups
+351,planktic_forams,abundant,A,abundant (>30% foraminifers in the >150um fraction),,groups
+369,planktic_forams,A,A,abundant (>30% planktic foraminifera to sediment particles),,groups
+350,planktic_forams,Abundant,A,abundant (>30% planktic foraminifers in the >150um fraction),,groups
+350,planktic_forams,abundant,A,abundant (>30% planktic foraminifers in the >150um fraction),,groups
+350,planktic_forams,abundant,A,abundant (>30% planktic foraminifers in the >150um fraction),,groups
+350,planktic_forams,Abundant,A,abundant (>30% planktic foraminifers in the >150um fraction),,groups
+356,planktic_forams,A,A,abundant (>30% planktonic foraminifer specimens in total assemblage),,groups
+349,planktic_forams,A,A,abundant (>30% planktonic foraminifer specimens in total residue),,groups
+367,planktic_forams,A,A,abundant (>30% planktonic foraminifer specimens in total residue),,groups
+368,planktic_forams,A,A,abundant (>30% planktonic foraminifer specimens in total residue),,groups
+341,radiolarians,A,A,abundant (>300 specimens per slide),,groups
+374,diatoms,A,A,abundant (>5 complete valves per field of view),,groups
+318,nannofossils,A,A,abundant (>50 nannoliths per field of view),,groups
+330,planktic_forams,A,A,abundant (>50% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+342,nannofossils,A,A,abundant (>50% of sediment particles),,groups
+342,nannofossils,A,A,abundant (>50% of sediment particles),,groups
+359,nannofossils,A,A,abundant (>50% of sediment particles),,groups
+362,nannofossils,A,A,abundant (>50% of sediment particles),,groups
+369,nannofossils,A,A,abundant (>50% of sediment particles),,groups
+355,planktic_forams,A,A,abundant (>50% of the total sediment particles),,groups
+355,planktic_forams,A,A,abundant (>50% of the total sediment particles),,groups
+361,planktic_forams,A,A,abundant (>50% planktic foraminifers to the total sediment particles).,,groups
+361,planktic_forams,A,A,abundant (>50% planktic foraminifers to the total sediment particles).,,groups
+371,benthic_forams,A,A,abundant (>50%–90% benthic foraminifera to sediment particles),,groups
+355,nannofossils,A,A,abundant (>50%−90% of sediment particles),,groups
+367,nannofossils,A,A,abundant (>50%−90% of sediment particles),,groups
+368,nannofossils,A,A,abundant (>50%−90% of sediment particles),,groups
+320,nannofossils,A [320_Ng],A,abundant (>50%–90% of sediment particles),,groups
+320,nannofossils,A [320_Ng],A,abundant (>50%–90% of sediment particles),,groups
+321,diatoms,A,A,abundant (>50%–90% of sediment particles),,groups
+321,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+349,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+356,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+363,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+368,diatoms,A,A,abundant (>50%–90% of sediment particles),,groups
+371,nannofossils,a,A,abundant (>50%–90% of sediment particles),,groups
+371,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+372,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+375,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+371,planktic_forams,A,A,abundant (>50%–90% planktic foraminifera to sediment particles),,groups
+330,benthic_forams,A,A,abundant (>50%foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+346,benthic_forams,A,A,abundant (>70% foraminifers of sediment particles),,groups
+346,planktic_forams,A,A,abundant (>70% foraminifers of sediment particles),,groups
+324,benthic_forams,A,A,abundant (≥11 specimens in ~200 specimens),,groups
+350,benthic_forams,A,A,abundant (10%-30% benthic foraminifers in the >150 µm fraction),,groups
+363,planktic_forams,A,A,abundant (10%–30% of sediment particles),,groups
+354,nannofossils,A,A,abundant (10–100 specimens per field of view at 1000× magnification),,groups
+339,nannofossils,A,A,abundant (11–100 specimens per field of view),,groups
+351,nannofossils,A,A,abundant (11–100 specimens per field of view),,groups
+353,planktic_forams,A,A,abundant (20%–50% planktonic foraminifers in total residue),,groups
+346,diatoms,a,A,abundant (20%–60% diatoms),,groups
+346,diatoms,A,A,abundant (20%–60% diatoms),,groups
+346,nannofossils,A,A,abundant (50%–90% of sediment particles),,groups
+353,nannofossils,A,A,abundant (50%–90% of sediment particles),,groups
+353,nannofossils,A,A,abundant (50%–90% of sediment particles),,groups
+344,nannofossils,A,A,abundant (50%–90%) of sediment particles,,groups
+375,benthic_forams,A,A,abundant (foraminifers compose >20%–50% of the washed sample),,groups
+375,planktic_forams,A,A,abundant (foraminifers compose >20%–50% of the washed sample),,groups
+320,radiolarians,A,A,abundant (qualitative assessment),,groups
+320,radiolarians,A,A,abundant (qualitative assessment),,groups
+321,radiolarians,A,A,abundant (qualitative assessment),,groups
+323,diatoms,A,A,abundant (~20%–60% diatoms),,groups
+323,nannofossils,A,A,abundant (>1 specimen per field of view),,groups
+340,planktic_forams,A,A,abundant (>10%–30% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+340,benthic_forams,A,A,abundant (>10%–30% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+323,benthic_forams,A,A,abundant (>10%–30% of total residue),,groups
+323,planktic_forams,A,A,abundant (>10%–30% of total residue),,groups
+317,planktic_forams,A,A,abundant (>20%–50% of the washed sample),,groups
+317,benthic_forams,A,A,abundant (>20%–50% of the washed sample),,groups
+323,radiolarians,A,A,abundant (>200 specimens per slide traverse),,groups
+323,ebridians,A,A,abundant (>50 specimens over eight traverses at 400x),,groups
+323,silicoflagellates,A,A,abundant (>50 specimens over eight traverses at 400x),,groups
+317,nannofossils,A,A,abundant (>50%–90% of sediment particles),,groups
+347,benthic_forams,A,A,abundant (>500 specimens ),,groups
+340,nannofossils,A,A,abundant (1–10 specimens per field of view),,groups
+317,diatoms,B,B,barren,,groups
+317,nannofossils,B,B,barren,,groups
+318,diatoms,B,B,barren,,groups
+318,nannofossils,B,B,barren,,groups
+318,nannofossils,B,B,barren,,groups
+320,nannofossils,B [320_Ng],B,barren,,groups
+320,radiolarians,B,B,barren,,groups
+320,nannofossils,B [320_Ng],B,barren,,groups
+321,diatoms,B,B,barren,,groups
+321,radiolarians,B,B,barren,,groups
+323,benthic_forams,B,B,barren,,groups
+323,diatoms,B,B,barren,,groups
+323,nannofossils,B,B,barren,,groups
+323,planktic_forams,B,B,barren,,groups
+323,silicoflagellates,B,B,barren,,groups
+323,nannofossils,B,B,barren,,groups
+323,silicoflagellates,B,B,barren,,groups
+330,nannofossils,B,B,barren,,groups
+330,planktic_forams,B,B,barren,,groups
+339,benthic_forams,B,B,barren,,groups
+339,nannofossils,B,B,barren,,groups
+339,planktic_forams,B,B,barren,,groups
+339,planktic_forams,B,B,barren,,groups
+340,benthic_forams,B,B,barren,,groups
+340,planktic_forams,B,B,barren,,groups
+340,nannofossils,B,B,barren,,groups
+341,benthic_forams,B,B,barren,,groups
+341,diatoms,B,B,barren,,groups
+341,planktic_forams,B,B,barren,,groups
+341,radiolarians,B,B,barren,,groups
+341,diatoms,B,B,barren,,groups
+341,radiolarians,B,B,barren,,groups
+342,benthic_forams,B,B,barren,,groups
+342,benthic_forams,b,B,barren,,groups
+342,nannofossils,B,B,barren,,groups
+342,planktic_forams,B,B,barren,,groups
+342,radiolarians,B,B,barren,,groups
+342,planktic_forams,B,B,barren,,groups
+344,nannofossils,B,B,barren,,groups
+346,benthic_forams,B,B,barren,,groups
+346,diatoms,B,B,barren,,groups
+346,nannofossils,B,B,barren,,groups
+346,planktic_forams,B,B,barren,,groups
+346,planktic_forams,b,B,barren,,groups
+346,radiolarians,B,B,barren,,groups
+346,diatoms,B,B,barren,,groups
+346,planktic_forams,B,B,barren,,groups
+346,radiolarians,B,B,barren,,groups
+348,benthic_forams,B,B,barren,,groups
+349,nannofossils,B,B,barren,,groups
+349,planktic_forams,B,B,barren,,groups
+349,radiolarians,B,B,barren,,groups
+349,planktic_forams,B,B,barren,,groups
+350,benthic_forams,B,B,barren,,groups
+350,planktic_forams,barren,B,barren,,groups
+350,nannofossils,B,B,barren,,groups
+351,benthic_forams,B,B,barren,,groups
+351,nannofossils,B,B,barren,,groups
+351,planktic_forams,barren,B,barren,,groups
+351,radiolarians,B,B,barren,,groups
+353,diatoms,B,B,barren,,groups
+353,nannofossils,B,B,barren,,groups
+354,nannofossils,B,B,barren,,groups
+354,planktic_forams,B,B,barren,,groups
+354,planktic_forams,b,B,barren,,groups
+354,nannofossils,B,B,barren,,groups
+354,planktic_forams,B,B,barren,,groups
+355,benthic_forams,B,B,barren,,groups
+355,diatoms,B,B,barren,,groups
+355,nannofossils,B,B,barren,,groups
+355,planktic_forams,B,B,barren,,groups
+355,radiolarians,B,B,barren,,groups
+355,planktic_forams,B,B,barren,,groups
+356,benthic_forams,0,B,barren,,groups
+356,benthic_forams,B,B,barren,,groups
+356,nannofossils,B,B,barren,,groups
+356,planktic_forams,B,B,barren,,groups
+356,planktic_forams,B,B,barren,,groups
+357,benthic_forams,B,B,barren,,groups
+358,benthic_forams,B,B,barren,,groups
+359,benthic_forams,B,B,barren,,groups
+359,planktic_forams,B,B,barren,,groups
+359,radiolarians,B,B,barren,,groups
+361,benthic_forams,B,B,barren,,groups
+361,diatoms,B,B,barren,,groups
+361,planktic_forams,B,B,barren,,groups
+361,diatoms,B,B,barren,,groups
+362,benthic_forams,B,B,barren,,groups
+362,diatoms,B,B,barren,,groups
+362,nannofossils,B,B,barren,,groups
+362,planktic_forams,B,B,barren,,groups
+362,radiolarians,B,B,barren,,groups
+363,planktic_forams,B,B,barren,,groups
+366,benthic_forams,B,B,barren,,groups
+367,benthic_forams,B,B,barren,,groups
+367,nannofossils,B,B,barren,,groups
+367,planktic_forams,B,B,barren,,groups
+367,planktic_forams,B,B,barren,,groups
+368,diatoms,B,B,barren,,groups
+368,nannofossils,B,B,barren,,groups
+368,planktic_forams,B,B,barren,,groups
+368,planktic_forams,B,B,barren,,groups
+369,benthic_forams,B,B,barren,,groups
+369,nannofossils,B,B,barren,,groups
+369,planktic_forams,B,B,barren,,groups
+370,benthic_forams,B,B,barren,,groups
+371,benthic_forams,B,B,barren,,groups
+371,nannofossils,B,B,barren,,groups
+371,planktic_forams,B,B,barren,,groups
+371,radiolarians,B,B,barren,,groups
+371,planktic_forams,B,B,barren,,groups
+372,benthic_forams,B,B,barren,,groups
+373,benthic_forams,B,B,barren,,groups
+374,benthic_forams,B,B,barren,,groups
+374,diatoms,B,B,barren,,groups
+374,nannofossils,B,B,barren,,groups
+374,radiolarians,B,B,barren,,groups
+375,nannofossils,B,B,barren,,groups
+376,benthic_forams,B,B,barren,,groups
+377,benthic_forams,B,B,barren,,groups
+323,radiolarians,N,B,barren original code = N,,groups
+341,diatoms,C,C,common (~5%–20% valves),,groups
+341,diatoms,C,C,common (~5%–20% valves),,groups
+353,diatoms,C,C,common (~5%–20% valves),,groups
+374,benthic_forams,C,C,common (>10%–25% benthic foraminifera to sediment particles),,groups
+362,planktic_forams,C,C,common (>10%−25% specimens in total residue),,groups
+356,planktic_forams,C,C,common (>10%−30% planktonic foraminifer specimens in total assemblage),,groups
+356,planktic_forams,C,C,common (>10%−30% planktonic foraminifer specimens in total assemblage),,groups
+355,nannofossils,C,C,common (>10%−50% of sediment particles),,groups
+367,nannofossils,C,C,common (>10%−50% of sediment particles),,groups
+368,nannofossils,C,C,common (>10%−50% of sediment particles),,groups
+320,nannofossils,C [320_Ng],C,common (>10%–50% of sediment particles),,groups
+321,diatoms,C,C,common (>10%–50% of sediment particles),,groups
+321,diatoms,C,C,common (>10%–50% of sediment particles),,groups
+321,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+342,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+349,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+356,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+359,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+362,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+363,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+363,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+363,nannofossils,c,C,common (>10%–50% of sediment particles),,groups
+368,diatoms,C,C,common (>10%–50% of sediment particles),,groups
+369,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+371,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+372,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+375,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+324,nannofossils,C,C,common (>1–10 specimens per field of view),,groups
+324,nannofossils,C,C,common (>1–10 specimens per field of view),,groups
+361,nannofossils,C,C,common (>1–10 specimens per field of view),,groups
+352,nannofossils,C,C,common (>1–10) specimens per field of view),,groups
+351,radiolarians,C,C,"common (>2,000–10,000 specimens per slide)",,groups
+361,benthic_forams,C,C,common (>25%–50% benthic foraminifers to the total sediment particles),,groups
+330,planktic_forams,C,C,common (>25%–50% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+355,planktic_forams,C,C,common (>25%–50% of the total sediment particles),,groups
+355,planktic_forams,C,C,common (>25%–50% of the total sediment particles),,groups
+361,planktic_forams,C,C,common (>25%–50% planktic foraminifers to the total sediment particles),,groups
+361,planktic_forams,C,C,common (>25%–50% planktic foraminifers to the total sediment particles),,groups
+318,diatoms,C,C,common (≥1–10 valves per field of view),,groups
+361,diatoms,C,C,common (≥1–10 valves per field of view),,groups
+351,benthic_forams,C,C,common (10%–30% foraminifers in the >150 µm fraction),,groups
+351,planktic_forams,common,C,common (10%–30% foraminifers in the >150 µm fraction),,groups
+369,planktic_forams,C,C,common (10%–30% of sediment particles),,groups
+350,planktic_forams,Common,C,common (10%-30% planktic foraminifers in the >150 µm fraction),,groups
+350,planktic_forams,common,C,common (10%-30% planktic foraminifers in the >150 µm fraction),,groups
+367,planktic_forams,C,C,common (10%−30% planktonic foraminifer specimens in total residue),,groups
+368,planktic_forams,C,C,common (10%−30% planktonic foraminifer specimens in total residue),,groups
+349,planktic_forams,C,C,common (10%–30% planktonic foraminifer specimens in total residue),,groups
+344,nannofossils,C,C,common (10%–50% of sediment particles),,groups
+346,nannofossils,C,C,common (10%–50% of sediment particles),,groups
+353,nannofossils,C,C,common (10%–50% of sediment particles),,groups
+353,nannofossils,C,C,common (10%–50% of sediment particles),,groups
+318,nannofossils,C,C,common (10–49 nannoliths per field of view),,groups
+354,planktic_forams,C,C,common (11%−25% specimens in total residue),,groups
+354,planktic_forams,C,C,common (11%−25% specimens in total residue),,groups
+339,nannofossils,C,C,common (1–10 specimens per field of view),,groups
+351,nannofossils,C,C,common (1–10 specimens per field of view),,groups
+354,nannofossils,C,C,common (1–10 specimens per field of view at 1000× magnification),,groups
+355,diatoms,C,C,common (1–10 valves per field of view),,groups
+374,diatoms,C,C,common (2 to 5 complete valves per field of view),,groups
+346,radiolarians,C,C,"common (2,000–10,000 specimens in a sample)",,groups
+342,radiolarians,C,C,"common (2000–10,000 specimens in a 5 cm3 sample)",,groups
+342,radiolarians,C,C,"common (2000–10,000 specimens in a 5 cm3 sample)",,groups
+341,radiolarians,C,C,common (200–300 specimens per slide),,groups
+346,diatoms,C,C,common (5%–20% diatoms),,groups
+353,planktic_forams,C,C,common (5%–20% planktonic foraminifers in total residue),,groups
+339,palynology,C,C,common (500–2000/cm3),,groups
+344,radiolarians,C,C,common (50–200 specimens per slide traverse),,groups
+359,radiolarians,C,C,common (51–100 specimens in a sample),,groups
+349,radiolarians,C,C,common (51–100 specimens per slide traverse),,groups
+371,radiolarians,C,C,common (51–100 specimens per slide traverse),,groups
+374,radiolarians,C,C,common (51–100 specimens per slide traverse),,groups
+362,radiolarians,C,C,common (6–30 specimens per slide traverse),,groups
+375,benthic_forams,C,C,common (foraminifers compose >5%–20% of the washed sample),,groups
+375,planktic_forams,C,C,common (foraminifers compose >5%–20% of the washed sample),,groups
+320,radiolarians,C,C,common (qualitative assessment),,groups
+320,radiolarians,C,C,common (qualitative assessment),,groups
+321,radiolarians,C,C,common (qualitative assessment),,groups
+323,diatoms,C,C,common (~5%–20% diatoms),,groups
+317,nannofossils,C,C,common (>10%–50% of sediment particles),,groups
+317,planktic_forams,C,C,common (>5%–20% of the washed sample),,groups
+317,benthic_forams,C,C,common (>5%–20% of the washed sample),,groups
+323,nannofossils,C,C,common (≤1 specimen per field of view),,groups
+340,nannofossils,C,C,common (1 specimen per 2–10 fields of view),,groups
+317,diatoms,C,C,common (1–10 valves per field of view),,groups
+323,ebridians,C,C,common (16–50 specimens over eight traverses at 400x),,groups
+323,silicoflagellates,C,C,common (16–50 specimens over eight traverses at 400x),,groups
+323,radiolarians,C,C,common (50–200 specimens per slide traverse),,groups
+320,planktic_forams,0,0,count,,groups
+320,planktic_forams,0,0,count,,groups
+320,planktic_forams,1,1,count,,groups
+320,planktic_forams,10,10,count,,groups
+320,planktic_forams,15,15,count,,groups
+320,planktic_forams,2,2,count,,groups
+320,planktic_forams,20,20,count,,groups
+320,planktic_forams,24,24,count,,groups
+320,planktic_forams,25,25,count,,groups
+320,planktic_forams,30,30,count,,groups
+320,planktic_forams,32,32,count,,groups
+320,planktic_forams,35,35,count,,groups
+320,planktic_forams,40,40,count,,groups
+320,planktic_forams,42,42,count,,groups
+320,planktic_forams,43,43,count,,groups
+320,planktic_forams,5,5,count,,groups
+320,planktic_forams,50,50,count,,groups
+320,planktic_forams,6,6,count,,groups
+320,planktic_forams,60,60,count,,groups
+320,planktic_forams,65,65,count,,groups
+320,planktic_forams,67,67,count,,groups
+320,planktic_forams,70,70,count,,groups
+320,planktic_forams,77,77,count,,groups
+320,planktic_forams,78,78,count,,groups
+320,planktic_forams,80,80,count,,groups
+320,planktic_forams,84,84,count,,groups
+320,planktic_forams,85,85,count,,groups
+320,planktic_forams,87,87,count,,groups
+320,planktic_forams,89,89,count,,groups
+320,planktic_forams,90,90,count,,groups
+320,planktic_forams,92,92,count,,groups
+320,planktic_forams,95,95,count,,groups
+320,planktic_forams,96,96,count,,groups
+320,planktic_forams,98,98,count,,groups
+320,planktic_forams,99,99,count,,groups
+320,planktic_forams,<1,<1,count,,groups
+320,planktic_forams,<10,<10,count,,groups
+320,planktic_forams,<2,<2,count,,groups
+320,planktic_forams,<30,<30,count,,groups
+320,planktic_forams,<5,<5,count,,groups
+320,planktic_forams,>50,>50,count,,groups
+320,planktic_forams,>80,>80,count,,groups
+320,planktic_forams,>90,>90,count,,groups
+320,planktic_forams,>95,>95,count,,groups
+356,benthic_forams,D,D,dominant (>30% benthic foraminifera to total assemblage),,groups
+369,benthic_forams,D,D,dominant (>30% benthic foraminifera to sediment particles),,groups
+341,benthic_forams,D,D,dominant (>30% benthic foraminifers in relation to the total >63 µm size fraction),,groups
+339,planktic_forams,D,D,dominant (>30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,benthic_forams,D,D,dominant (>30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,planktic_forams,D,D,dominant (>30% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+342,planktic_forams,D,D,dominant (>30% of sediment particles),,groups
+363,planktic_forams,D,D,dominant (>30% of sediment particles),,groups
+363,planktic_forams,D,D,dominant (>30% of sediment particles),,groups
+342,benthic_forams,D,D,dominant (>30% of total sediment particles),,groups
+371,planktic_forams,D,D,dominant (>30% planktic foraminifera to sediment particles),,groups
+341,planktic_forams,D,D,dominant (>30% planktonic foraminifers in relation to the total >125 µm size fraction),,groups
+353,planktic_forams,D,D,dominant (>50% planktonic foraminifers in total residue),,groups
+346,diatoms,D,D,dominant (>60% diatoms),,groups
+341,diatoms,D,D,dominant (>60% valves),,groups
+341,diatoms,D,D,dominant (>60% valves),,groups
+353,diatoms,D,D,dominant (>60% valves),,groups
+320,nannofossils,D [320_Ng],D,dominant (>90% of sediment particles),,groups
+321,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+344,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+346,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+349,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+353,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+356,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+363,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+375,nannofossils,D,D,dominant (>90% of sediment particles),,groups
+375,benthic_forams,D,D,dominant (foraminifers compose >50% of the washed sample),,groups
+375,planktic_forams,D,D,dominant (foraminifers compose >50% of the washed sample),,groups
+340,planktic_forams,D,D,dominant (>30% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+340,benthic_forams,D,D,dominant (>30% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+323,benthic_forams,D,D,dominant (>30% of total residue),,groups
+323,planktic_forams,D,D,dominant (>30% of total residue),,groups
+317,planktic_forams,D,D,dominant (>50% of the washed sample),,groups
+317,benthic_forams,D,D,dominant (>50% of the washed sample),,groups
+342,radiolarians,F,F,few (<500 specimens in a 5 cm3 sample),,groups
+330,planktic_forams,F,F,few (>10%–25% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+362,radiolarians,F,F,few (>1–5 specimens per slide traverse),,groups
+369,benthic_forams,F,F,few (>5% to <10% benthic foraminifera to sediment particles),,groups
+371,benthic_forams,F,F,few (>5% to <10% benthic foraminifera to sediment particles),,groups
+342,planktic_forams,F,F,few (>5% to <10% of total sediment particles),,groups
+342,benthic_forams,F,F,few (>5% to <10% of total sediment particles),,groups
+342,benthic_forams,F,F,few (>5% to <10% of total sediment particles),,groups
+356,benthic_forams,F,F,few (>5%–10% benthic foraminifera in total assemblage),,groups
+374,benthic_forams,F,F,few (>5%–10% benthic foraminifera to sediment particles),,groups
+341,benthic_forams,F,F,few (>5%–10% benthic foraminifers in relation to the total >63 µm size fraction),,groups
+378,benthic_forams,F,F,few (>5%–10% benthic foraminifers to total sediment particles).,,groups
+339,benthic_forams,F,F,few (>5%–10% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,planktic_forams,F,F,few (>5%–10% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+341,planktic_forams,F,F,few (>5%–10% planktonic foraminifers in relation to the total >125 µm size fraction),,groups
+355,planktic_forams,F,F,few (>5%–25% of the total sediment particles),,groups
+318,ebridians,F[318_Si],,few (≥1 valve every 10 fields of view and <1 valve per field of view),,groups
+318,silicoflagellates,F,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,groups
+318,diatoms,F,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,groups
+355,diatoms,F,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,groups
+361,diatoms,F,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,groups
+361,nannofossils,F,F,few (1 specimen per 1–10 fields of view),,groups
+339,nannofossils,F,F,few (1 specimen per 2–10 fields of view),,groups
+318,nannofossils,F,F,few (1 to 9 nannoliths per field of view),,groups
+371,benthic_forams,F,F,few (1%–10% benthic foraminifera to sediment particles),,groups
+371,planktic_forams,F,F,few (1%–10% benthic foraminifera to sediment particles),,groups
+355,nannofossils,F,F,few (1%−10% of sediment particles),,groups
+320,nannofossils,F [320_Ng],F,few (1%–10% of sediment particles),,groups
+321,diatoms,F,F,few (1%–10% of sediment particles),,groups
+321,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+342,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+344,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+346,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+349,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+353,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+356,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+359,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+362,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+362,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+363,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+367,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+368,diatoms,F,F,few (1%–10% of sediment particles),,groups
+368,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+369,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+371,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+372,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+375,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+350,benthic_forams,F,F,few (1%–5% benthic foraminifers in the >150 µm fraction).,,groups
+350,benthic_forams,F,F,few (1%–5% benthic foraminifers in the >150 µm fraction).,,groups
+353,benthic_forams,F,F,few (1%–5% planktonic foraminifers in total residue),,groups
+353,planktic_forams,F,F,few (1%–5% planktonic foraminifers in total residue),,groups
+341,radiolarians,F,F,few (100–200 specimens per slide),,groups
+354,nannofossils,F,F,few (1–10 specimens per 2–10 fields of view at 1000× magnification),,groups
+359,radiolarians,F,F,few (11–50 specimens in a sample),,groups
+349,radiolarians,F,F,few (11–50 specimens per slide traverse),,groups
+371,radiolarians,F,F,few (11–50 specimens per slide traverse),,groups
+344,radiolarians,F,F,few (1–49 specimens per slide traverse),,groups
+346,diatoms,F,F,few (2%–5% diatoms),,groups
+346,diatoms,F,F,few (2%–5% diatoms),,groups
+341,diatoms,F,F,few (2%–5% valves),,groups
+353,diatoms,F,F,few (2%–5% valves),,groups
+351,nannofossils,F,F,few (2–10 specimens per 2–10 fields of view),,groups
+363,planktic_forams,F,F,few (5% to <10% of sediment particles),,groups
+369,planktic_forams,F,F,few (5% to <10% of sediment particles),,groups
+351,benthic_forams,F,F,few (5%–10% foraminifers in the >150 µm fraction),,groups
+344,benthic_forams,F,F,few (5%–10% of the >125 µm size fraction),,groups
+356,planktic_forams,F,F,few (5%–10% planktonic foraminifer specimens in total assemblage),,groups
+356,planktic_forams,F,F,few (5%–10% planktonic foraminifer specimens in total assemblage),,groups
+362,planktic_forams,F,F,few (5%−10% specimens in total residue),,groups
+361,benthic_forams,F,F,few (5%–25% benthic foraminifers to the total sediment particles),,groups
+361,planktic_forams,F,F,few (5%–25% planktic foraminifers to the total sediment particles),,groups
+361,planktic_forams,F,F,few (5%–25% planktic foraminifers to the total sediment particles),,groups
+346,radiolarians,F,F,few (500–2000 specimens in a sample),,groups
+354,planktic_forams,F,F,few (6%−10% specimens in total residue),,groups
+354,planktic_forams,F,F,few (6%−10% specimens in total residue),,groups
+375,benthic_forams,F,F,few (foraminifers compose 1%–5% of the washed sample),,groups
+375,planktic_forams,F,F,few (foraminifers compose 1%–5% of the washed sample),,groups
+320,radiolarians,F,F,few (qualitative assessment),,groups
+323,nannofossils,F,F,few (<1 specimen per 2–10 fields of view),,groups
+340,planktic_forams,F,F,few (>5%–10% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+340,benthic_forams,F,F,few (>5%–10% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+323,benthic_forams,F,F,few; (>5%–10% of total residue),,groups
+323,planktic_forams,F,F,few (>5%–10% of total residue),,groups
+317,diatoms,F,F,few (≥1 valve per 10 fields of view and <1 valve per field of view),,groups
+340,nannofossils,F,F,few (1 specimen per 11–100 fields of view),,groups
+317,nannofossils,F,F,few (1%–10% of sediment particles),,groups
+317,planktic_forams,F,F,few (1%–5% of the washed sample),,groups
+317,benthic_forams,F,F,few (1%–5% of the washed sample),,groups
+323,radiolarians,F,F,few (1–49 specimens per slide traverse),,groups
+323,diatoms,F,F,few (2%–5% diatoms),,groups
+323,ebridians,F,F,few (6–15 specimens over eight traverses at 400x),,groups
+323,silicoflagellates,F,F,few (6–15 specimens over eight traverses at 400x),,groups
+374,diatoms,F,Freq,frequent (1 complete valve in 1 to 5 fields of view),,groups
+324,nannofossils,F,Freq,frequent (1 specimen per 1–10 fields of view),,groups
+374,radiolarians,F,Freq,frequent (11–50 specimens per traverse),,groups
+368,nannofossils,VA,VA,"not defined, suggest dominant (>90% of sediment particles)",,groups
+356,benthic_forams,P,P,present (<1% benthic foraminifer specimens in total assemblage),,groups
+369,benthic_forams,P,P,present (<1% benthic foraminifera to sediment particles),,groups
+371,benthic_forams,P,P,present (<1% benthic foraminifera to sediment particles),,groups
+371,planktic_forams,P,P,present (<1% benthic foraminifera to sediment particles),,groups
+371,benthic_forams,P,P,present (<1% benthic foraminifera to sediment particles),,groups
+371,planktic_forams,P,P,present (<1% benthic foraminifera to sediment particles),,groups
+374,benthic_forams,P,P,present (<1% benthic foraminifera to sediment particles),,groups
+341,benthic_forams,P,P,present (<1% benthic foraminifers in relation to the total >63 µm size fraction),,groups
+339,planktic_forams,P,P,present (<1% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,benthic_forams,P,P,present (<1% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,planktic_forams,P,P,present (<1% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+351,benthic_forams,P,P,present (<1% foraminifers in the >150 µm fraction),,groups
+351,planktic_forams,present,P,present (<1% foraminifers in the >150 µm fraction),,groups
+342,planktic_forams,P,P,present (<1% of sediment particles),,groups
+364,benthic_forams,P,P,present (<1% of sediment particles),,groups
+365,benthic_forams,P,P,present (<1% of sediment particles),,groups
+342,benthic_forams,P,P,present (<1% of total sediment particles),,groups
+342,benthic_forams,P,P,present (<1% of total sediment particles),,groups
+349,planktic_forams,P,P,present (<1% planktonic foraminifer specimens in total residue),,groups
+367,planktic_forams,P,P,present (<1% planktonic foraminifer specimens in total residue),,groups
+368,planktic_forams,P,P,present (<1% planktonic foraminifer specimens in total residue),,groups
+341,planktic_forams,P,P,present (<1% planktonic foraminifers in relation to the total >125 µm size fraction),,groups
+341,planktic_forams,P,P,present (<1% planktonic foraminifers in relation to the total >125 µm size fraction),,groups
+340,planktic_forams,P,P,present (<1% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+340,planktic_forams,P,P,present (<1% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+340,benthic_forams,P,P,present (<1% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+323,benthic_forams,P,P,present (<1% of total residue),,groups
+323,planktic_forams,P,P,present (<1% of total residue),,groups
+317,diatoms,X,P,"present (<3 valves per traverse of coverslip, including fragments)",,groups
+324,nannofossils,R,R,rare (<1 specimen per 10 fields of view),,groups
+361,nannofossils,R,R,rare (<1 specimen per 10 fields of view),,groups
+350,benthic_forams,R,R,rare (<1% benthic foraminifers in the >150 µm fraction),,groups
+350,benthic_forams,R,R,rare (<1% benthic foraminifers in the >150 µm fraction),,groups
+318,nannofossils,R,R,rare (<1% nannoliths per field of view),,groups
+353,planktic_forams,R,R,rare (<1% of planktonic foraminifers in total residue),,groups
+320,nannofossils,R [320_Ng],R,rare (<1% of sediment particles),,groups
+321,nannofossils,R,R,rare (<1% of sediment particles),,groups
+342,nannofossils,R,R,rare (<1% of sediment particles),,groups
+342,nannofossils,R,R,rare (<1% of sediment particles),,groups
+344,nannofossils,R,R,rare (<1% of sediment particles),,groups
+346,benthic_forams,R,R,rare (<1% of sediment particles),,groups
+346,nannofossils,R,R,rare (<1% of sediment particles),,groups
+349,nannofossils,R,R,rare (<1% of sediment particles),,groups
+353,nannofossils,R,R,rare (<1% of sediment particles),,groups
+353,nannofossils,R,R,rare (<1% of sediment particles),,groups
+355,nannofossils,R,R,rare (<1% of sediment particles),,groups
+356,nannofossils,R,R,rare (<1% of sediment particles),,groups
+356,nannofossils,R,R,rare (<1% of sediment particles),,groups
+359,nannofossils,R,R,rare (<1% of sediment particles),,groups
+362,nannofossils,R,R,rare (<1% of sediment particles),,groups
+362,nannofossils,R,R,rare (<1% of sediment particles),,groups
+367,nannofossils,R,R,rare (<1% of sediment particles),,groups
+368,nannofossils,R,R,rare (<1% of sediment particles),,groups
+368,nannofossils,R,R,rare (<1% of sediment particles),,groups
+369,nannofossils,R,R,rare (<1% of sediment particles),,groups
+371,nannofossils,R,R,rare (<1% of sediment particles),,groups
+375,nannofossils,R,R,rare (<1% of sediment particles),,groups
+321,diatoms,R,R,rare (<1% of sediments particles),,groups
+368,diatoms,R,R,rare (<1% of sediments particles),,groups
+368,diatoms,R,R,rare (<1% of sediments particles),,groups
+350,planktic_forams,Rare,R,rare (<10% planktic foraminifers in the >150 µm fraction),,groups
+350,planktic_forams,rare,R,rare (<10% planktic foraminifers in the >150 µm fraction),,groups
+350,planktic_forams,rare,R,rare (<10% planktic foraminifers in the >150 µm fraction),,groups
+350,planktic_forams,Rare,R,rare (<10% planktic foraminifers in the >150 µm fraction),,groups
+346,diatoms,R,R,rare (<2% diatoms),,groups
+346,diatoms,R,R,rare (<2% diatoms),,groups
+353,diatoms,R,R,rare (<2% of valves),,groups
+353,diatoms,R,R,rare (<2% of valves),,groups
+341,diatoms,R,R,rare (<2% valves),,groups
+341,diatoms,R,R,rare (<2% valves),,groups
+346,planktic_forams,R,R,rare (<30% foraminifers of sediment particles),,groups
+346,benthic_forams,R,R,rare (<30% foraminifers of sediment particles),,groups
+346,planktic_forams,R,R,rare (<30% foraminifers of sediment particles),,groups
+361,benthic_forams,R,R,rare (<5% benthic foraminifers to the total sediment particles),,groups
+369,planktic_forams,R,R,rare (<5% of sediment particles),,groups
+369,planktic_forams,R,R,rare (<5% of sediment particles),,groups
+361,planktic_forams,R,R,rare (<5% planktic foraminifers to the total sediment particles),,groups
+361,planktic_forams,R,R,rare (<5% planktic foraminifers to the total sediment particles),,groups
+354,planktic_forams,R,R,rare (<5% specimens in total residue),,groups
+354,planktic_forams,R,R,rare (<5% specimens in total residue),,groups
+362,planktic_forams,R,R,rare (<5% specimens in total residue),,groups
+351,radiolarians,R,R,rare (>0–500 specimens per slide),,groups
+369,benthic_forams,R,R,rare (>1% to <5% benthic foraminifera to sediment particles),,groups
+342,planktic_forams,R,R,rare (>1% to <5% of sediment particles),,groups
+371,planktic_forams,R,R,rare (>1% to <5% of sediment particles; only applies to planktic foraminifers),,groups
+342,benthic_forams,R,R,rare (>1% to <5% of total sediment particles),,groups
+342,benthic_forams,R,R,rare (>1% to <5% of total sediment particles),,groups
+374,benthic_forams,R,R,rare (>1%–5% benthic foraminifera to sediment particles),,groups
+355,planktic_forams,R,R,rare (≤5% of the total sediment particles),,groups
+355,planktic_forams,R,R,rare (≤5% of the total sediment particles),,groups
+318,ebridians,R[318_Si],,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,groups
+318,silicoflagellates,R,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,groups
+318,diatoms,R,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,groups
+355,diatoms,R,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,groups
+361,diatoms,R,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,groups
+374,diatoms,R,R,rare (1 complete valve in 6 to 30 fields of view),,groups
+374,nannofossils,R,R,rare (1 or more specimens per traverse of a 30 mm cover glass),,groups
+351,nannofossils,R,R,rare (1 specimen per >10 fields of view),,groups
+354,nannofossils,R,R,rare (1 specimen per >10 fields of view at 1000× magnification),,groups
+339,nannofossils,R,R,rare (1 specimen per ≥11 fields of view),,groups
+363,benthic_forams,R,R,rare (1% to <5% of sediment particles),,groups
+363,planktic_forams,R,R,rare (1% to <5% of sediment particles),,groups
+367,planktic_forams,R,R,rare (1%−10% planktonic foraminifer specimens in total residue),,groups
+368,planktic_forams,R,R,rare (1%−10% planktonic foraminifer specimens in total residue),,groups
+349,benthic_forams,F,R,rare (1%–10% planktonic foraminifer specimens in total residue),,groups
+349,planktic_forams,R,R,rare (1%–10% planktonic foraminifer specimens in total residue),,groups
+356,benthic_forams,R,R,rare (1%−5% benthic foraminifer specimens in total assemblage),,groups
+341,benthic_forams,R,R,rare (1%–5% benthic foraminifers in relation to the total >63 µm size fraction),,groups
+339,benthic_forams,R,R,rare (1%–5% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+339,planktic_forams,R,R,rare (1%–5% foraminiferal abundance in the >150 µm fraction in relation to the total residue),,groups
+351,benthic_forams,R,R,rare (1%–5% foraminifers in the >150 µm fraction),,groups
+351,planktic_forams,rare,R,rare (1%–5% foraminifers in the >150 µm fraction),,groups
+356,planktic_forams,R,R,rare (1%−5% planktonic foraminifer specimens in total assemblage),,groups
+356,planktic_forams,R,R,rare (1%−5% planktonic foraminifer specimens in total assemblage),,groups
+341,planktic_forams,R,R,rare (1%–5% planktonic foraminifers in relation to the total >125 µm size fraction),,groups
+359,radiolarians,R,R,rare (1–10 specimens in a sample),,groups
+359,radiolarians,R,R,rare (1–10 specimens in a sample),,groups
+355,radiolarians,R,R,rare (1−10 specimens per slide traverse),,groups
+349,radiolarians,R,R,rare (1−10 specimens per slide traverse),,groups
+371,radiolarians,R,R,rare (1−10 specimens per slide traverse),,groups
+374,radiolarians,R,R,rare (1−10 specimens per slide traverse),,groups
+342,radiolarians,R,R,rare (500–1999 specimens in a 5 cm3 sample),,groups
+342,radiolarians,R,R,rare (500–1999 specimens in a 5 cm3 sample),,groups
+341,radiolarians,R,R,rare (50–100 specimens per slide),,groups
+341,radiolarians,R,R,rare (50–100 specimens per slide),,groups
+346,radiolarians,R,R,rare (50–500 specimens in a sample),,groups
+375,benthic_forams,R,R,rare (foraminifers compose <1% of the washed sample),,groups
+375,planktic_forams,R,R,rare (foraminifers compose <1% of the washed sample),,groups
+320,radiolarians,R,R,rare (qualitative assessment),,groups
+321,radiolarians,R,R,rare (qualitative assessment),,groups
+323,nannofossils,R,R,rare (<1 specimen per 11–100 fields of view),,groups
+317,nannofossils,R,R,rare (<1% of sediment particles),,groups
+317,planktic_forams,R,R,rare (<1% of the washed sample),,groups
+317,benthic_forams,R,R,rare (<1% of the washed sample),,groups
+323,diatoms,R,R,rare (<2% diatoms),,groups
+317,diatoms,R,R,rare (≥3 valves per traverse of coverslip and <1 valve per 10 fields of view),,groups
+340,nannofossils,R,R,rare (1 specimen per 101–1000 fields of view),,groups
+340,planktic_forams,R,R,rare (1%–5% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+340,benthic_forams,R,R,rare (1%–5% foraminiferal abundance in relation to the total residue in the >150 µm fraction),,groups
+323,benthic_forams,R,R,rare (1%–5% of total residue),,groups
+323,planktic_forams,R,R,rare (1%–5% of total residue),,groups
+323,ebridians,R,R,rare (2–5 specimens over eight traverses at 400x),,groups
+323,silicoflagellates,R,R,rare (2–5 specimens over eight traverses at 400x),,groups
+342,nannofossils,VB,VR,"undefined, suggest very rare (<5 specimens seen while logging slide), original code VB",,groups
+318,ebridians,X[318_Si],X,"trace (<3 valves per traverse, including fragments)",,groups
+318,silicoflagellates,X,X,"trace (<3 valves per traverse, including fragments)",,groups
+318,diatoms,X,X,"trace (<3 valves per traverse, including fragments)",,groups
+318,,X[318_Si],X,"trace (<3 valves per traverse, including fragments)",,groups
+355,diatoms,X,X,"trace (<3 valves per traverse, including fragments)",,groups
+355,diatoms,X,X,"trace (<3 valves per traverse, including fragments)",,groups
+361,diatoms,X,X,"trace (<3 valves per traverse, including fragments)",,groups
+371,radiolarians,tr,X,trace (1–10 specimens per slide),,groups
+371,radiolarians,tr,X,trace (1–10 specimens per slide),,groups
+371,radiolarians,Tr,X,trace (1–10 specimens per slide),,groups
+374,radiolarians,Tr,X,trace (1–10 specimens/slide),,groups
+374,diatoms,Tr,X,trace (very rare valves or diatom fragments),,groups
+323,ebridians,T,X,trace (1 specimen over eight traverses at 400x) original code = T,,groups
+323,silicoflagellates,T,X,trace (1 specimen over eight traverses at 400x) original code = T,,groups
+343,benthic_forams,F,F,undefined,,groups
+343,radiolarians,C,C,undefined,,groups
+346,diatoms,?,?,undefined,,groups
+346,diatoms,H,H,undefined,,groups
+350,nannofossils,A,A,"undefined, suggest abundant (>10–100 specimens per field of view)",,groups
+350,nannofossils,C,C,"undefined, suggest common (>1–10 specimens per field of view)",,groups
+350,nannofossils,F,F,"undefined, suggest few (>1–10 specimens per 2–10 fields of view)",,groups
+355,diatoms,R-F,R-F,"undefined, suggest ~1 valve per 10 fields of view",,groups
+318,diatoms,R-F,R-F,"undefined, suggest ~1 valve per 10 fields of view",,groups
+318,diatoms,F-C,F-C,"undefined, suggest ~1 valve per field of view",,groups
+356,benthic_forams,VR,VR,"undefined, suggest ~1% benthic foraminifer specimens in total assemblage",,groups
+371,nannofossils,F/R,F-R,"undefined, suggest ~1% of sediment particles",,groups
+350,planktic_forams,Present,P,"undefined, suggest ~1% planktic foraminifers in the >150 µm fraction",,groups
+350,planktic_forams,present,P,"undefined, suggest ~1% planktic foraminifers in the >150 µm fraction",,groups
+318,diatoms,C-A,C-A,"undefined, suggest ~10 valves per field of view",,groups
+356,benthic_forams,C,C,"undefined, suggest ~10% of benthic foraminifer specimens in total assemblage",,groups
+342,nannofossils,F-C,F-C,"undefined, suggest ~10% of sediment particles",,groups
+341,planktic_forams,C,C,"undefined, suggest ~10% planktonic foraminifers in relation to the total >125 µm size fraction",,groups
+323,diatoms,R-F,R-F,"undefined, suggest ~2% diatoms",,groups
+346,diatoms,F/R,F-R,"undefined, suggest ~2% diatoms",,groups
+323,diatoms,C-A,C-A,"undefined, suggest ~20% diatoms",,groups
+318,diatoms,X-R,X-R,"undefined, suggest ~3 valves per field of view",,groups
+323,diatoms,F-C,F-C,"undefined, suggest ~5% diatoms",,groups
+342,nannofossils,C-A,C-A,"undefined, suggest ~50% of sediment particles",,groups
+346,diatoms,A/D,A-D,"undefined, suggest ~60% diatoms",,groups
+346,diatoms,R/B,R-B,"undefined, suggest <<2% diatoms",,groups
+342,nannofossils,A/D,A-D,"undefined, suggest >>50% of sediment particles",,groups
+346,benthic_forams,D,D,"undefined, suggest >30% of sediment particles",,groups
+346,planktic_forams,D,D,"undefined, suggest >30% of sediment particles",,groups
+346,benthic_forams,F,F,"undefined, suggest 1-5% of sediment particles",,groups
+346,planktic_forams,F,F,"undefined, suggest 1-5% of sediment particles",,groups
+369,benthic_forams,-,-,"undefined, suggest barren",,groups
+342,planktic_forams,C,C,"undefined, suggest common (20–49 specimens on the tray)",,groups
+342,planktic_forams,C,C,"undefined, suggest common (20–49 specimens on the tray)",,groups
+342,nannofossils,C-R,C-R,"undefined, suggest few (1%-10% of sediment particles)",,groups
+350,planktic_forams,Few,F,"undefined, suggest few (1%–5% planktic foraminifers in the >150 µm fraction)",,groups
+350,planktic_forams,few,F,"undefined, suggest few (1%–5% planktic foraminifers in the >150 µm fraction)",,groups
+350,planktic_forams,few,F,"undefined, suggest few (1%–5% planktic foraminifers in the >150 µm fraction)",,groups
+350,planktic_forams,Few,F,"undefined, suggest few (1%–5% planktic foraminifers in the >150 µm fraction)",,groups
+352,benthic_forams,F,F,"undefined, suggest few (1%–5% planktic foraminifers in the >150 µm fraction)",,groups
+369,planktic_forams,P,P,"undefined, suggest present (<1% of the sediment particles)",,groups
+375,benthic_forams,P,P,"undefined, suggest present (present in sample; abundance undetermined) Original code = P, present in methods is X",,groups
+339,nannofossils,P,P,"undefined, suggest present < 1 specimen per 11 fields of view)",,groups
+349,nannofossils,P,P,"undefined, suggest present <1% of sediment particles",,groups
+317,diatoms,P,P,"undefined, suggest present (<3 valves per traverse of coverslip, including fragments)",,groups
+371,nannofossils,ALMOST BARREN,R,"undefined, suggest rare (<1% of sediment particles) Original code = ALMOST BARREN",,groups
+362,diatoms,R,R,"undefined, suggest rare (<2 valves per traverse of coverslip) NOTE: overall low abundance of diatoms. Processing concentrated abundances",,groups
+354,benthic_forams,R,R,"undefined, suggest rare (<5% specimens in total residue)",,groups
+368,benthic_forams,R,R,"undefined, suggest rare (1%−10% benthic foraminifer specimens in total residue)",,groups
+325,benthic_forams,R,R,"undefined, suggest rare (2–3 specimens in ~200 specimens)",,groups
+379,benthic_forams,R,R,"undefined, suggest rare (foraminifers compose <1% of the washed sample)",,groups
+371,nannofossils,VR,VR,"undefined, suggest very rare (<<1% of sediment particles)",,groups
+371,nannofossils,VR,VR,"undefined, suggest very rare (<<1% of sediment particles)",,groups
+321,radiolarians,vR,VR,"undefined, suggest very rare (qualitative assessment)",,groups
+317,nannofossils,VR,VR,"undefined, suggest very rare (<0.1% of sediment particles)",,groups
+350,nannofossils,VF,VF,"undefined, suggest very few (1 specimen per 2–10 fields of view)",,groups
+339,nannofossils,VA,VA,very abundant (>100 specimens per field of view),,groups
+339,nannofossils,vA,VA,very abundant (>100 specimens per field of view),,groups
+354,nannofossils,V,VA,very abundant (>100 specimens per field of view at 1000× magnification),,groups
+352,nannofossils,V,VA,very abundant (>100 specimens per field of view),,groups
+355,nannofossils,V,VA,very abundant (>90% of sediment particles),,groups
+317,nannofossils,VA,VA,very abundant; >90% of sediment particles,,groups
+354,nannofossils,VF,VF,very few (1 specimen per 2–10 field of view at 1000× magnification),,groups
+354,planktic_forams,VR,VR,very rare (<0.1% specimens in total residue),,groups
+354,planktic_forams,VR,VR,very rare (<0.1% specimens in total residue),,groups
+362,planktic_forams,VR,VR,very rare (<0.1% specimens in total residue),,groups
+362,planktic_forams,VR,VR,very rare (<0.1% specimens in total residue),,groups
+374,nannofossils,VR,VR,very rare (<1 specimen per traverse),,groups
+356,planktic_forams,VR,VR,very rare (<1% planktonic foraminifer specimens in total assemblage),,groups
+356,planktic_forams,VR,VR,very rare (<1% planktonic foraminifer specimens in total assemblage),,groups
+342,nannofossils,VR,VR,very rare (<5 specimens seen while logging slide),,groups
+342,nannofossils,almost barren,VR,"very rare (<5 specimens seen while logging slide), original code ""almost barren""",,groups
+339,nannofossils,*,*,"undefined, suggest rare (1 specimen per ≥11 fields of view)",,groups
+339,palynology,A,A-D,abundant (>2000/cm3),,groups

@@ -1,0 +1,1110 @@
+original_abundance,expedition,taxon_group,normalized_abundance,definition,notes,type
+2?,371,nannofossils,2?,"count, undefined suggest questionable",?,taxa
+?,342,nannofossils,?,questionable occurrence,?,taxa
+?,371,radiolarians,?,questionable occurrence,?,taxa
+?,318,diatoms,?,questionable occurrence,?,taxa
+??,318,diatoms,?,questionable occurrence,?,taxa
+?,320,radiolarians,?,questionable occurrence,?,taxa
+?,321,diatoms,?,questionable occurrence,?,taxa
+?,342,planktic_forams,?,questionable occurrence,?,taxa
+?,342,radiolarians,?,questionable occurrence,?,taxa
+?,353,diatoms,?,questionable occurrence,?,taxa
+?,355,nannofossils,?,questionable occurrence,?,taxa
+?,371,planktic_forams,?,questionable occurrence,?,taxa
+?,374,benthic_forams,?,questionable occurrence,?,taxa
+?,374,diatoms,?,questionable occurrence,?,taxa
+?,374,nannofossils,?,questionable occurrence,?,taxa
+?,374,planktic_forams,?,questionable occurrence,?,taxa
+?,375,nannofossils,?,questionable occurrence,?,taxa
+?A,350,planktic_forams,A?,"questionable, abundant (10%-30% of total assemblage)",?,taxa
+?C,342,nannofossils,C?,"questionable, common (>1–10 specimens per field of view)",?,taxa
+?1,342,nannofossils,1?,"questionable, count (per field of view)",?,taxa
+1?,342,nannofossils,1?,"questionable, count (per field of view)",?,taxa
+?2,342,nannofossils,2?,"questionable, count (per field of view)",?,taxa
+2?,342,nannofossils,2?,"questionable, count (per field of view)",?,taxa
+F?,321,diatoms,F?,"questionable, few (>1–10 valves per counted transect)",?,taxa
+F?,369,planktic_forams,F?,"questionable, few (>5%–10% of the planktonic foraminiferal assemblage)",?,taxa
+F?,318,diatoms,F?,"questionable, few (≥1 valve every 10 fields of view and <1 valve per field of view).",?,taxa
+?F,342,nannofossils,F?,"questionable, few (1 specimen per 1–10 fields of view)",?,taxa
+F?,342,nannofossils,F?,"questionable, few (1 specimen per 1–10 fields of view)",?,taxa
+P?,367,planktic_forams,P?,"questionable, present (<1% of the assemblage)",?,taxa
+P?,369,planktic_forams,P?,"questionable, present (<1% of the planktonic foraminiferal assemblage)",?,taxa
+?P,350,planktic_forams,P?,"questionable, present (<1% of total assemblage)",?,taxa
+p?,350,planktic_forams,P?,"questionable, present (<1% of total assemblage)",?,taxa
+P?,350,planktic_forams,P?,"questionable, present (<1% of total assemblage)",?,taxa
+P?,371,planktic_forams,P?,"questionable, present (<2% species on the tray)",?,taxa
+R-F?,318,diatoms,R-F?,"questionable, ~1 valve per 10 fields of view",?,taxa
+?R,320,nannofossils,R?,"questionable, rare (<1 specimen per 10 fields of view)",?,taxa
+R?,371,nannofossils,R?,"questionable, rare (<1 specimen per 10 fields of view)",?,taxa
+?R,342,nannofossils,R?,"questionable, rare (<1 specimen per 10 fields of view)",?,taxa
+R?,342,nannofossils,R?,"questionable, rare (<1 specimen per 10 fields of view)",?,taxa
+R?,320,radiolarians,R?,"questionable, rare (<10 specimens per slide)",?,taxa
+R?,321,planktic_forams,R?,"questionable, rare (>1% to <5% of foraminifer assemblage)",?,taxa
+R?,321,diatoms,R?,"questionable, rare (≤1 valve per counted transect)",?,taxa
+R?,318,diatoms,R?,"questionable, rare (≥3 valves per traverse and <1 valve per 10 fields of view)",?,taxa
+?R,350,nannofossils,R?,"questionable, rare (1 specimen per >10 fields of view)",?,taxa
+R?,350,nannofossils,R?,"questionable, rare (1 specimen per >10 fields of view)",?,taxa
+R?,369,planktic_forams,R?,"questionable, rare (1%–5% of the planktonic foraminiferal assemblage)",?,taxa
+?R,350,planktic_forams,R?,"questionable, rare (1%-5% of total assemblage)",?,taxa
+R?,371,planktic_forams,R?,"questionable, rare (2%–9% species on the tray)",?,taxa
+(R?),375,planktic_forams,R?,"questionable, rare (foraminifers compose <1% of the washed sample)",?,taxa
+R?,375,planktic_forams,R?,"questionable, rare (foraminifers compose <1% of the washed sample)",?,taxa
+?X,318,diatoms,X?,"questionable, trace (<3 valves per traverse, including fragments)",?,taxa
+X?,318,diatoms,X?,"questionable, trace (<3 valves per traverse, including fragments)",?,taxa
+x?,318,diatoms,X?,"questionable, trace (<3 valves per traverse, including fragments)",?,taxa
+VR?,320,radiolarians,VR?,"questionable, very rare (1–2 specimens per slide)",?,taxa
+vR?,320,radiolarians,VR?,"questionable, very rare (1–2 specimens per slide)",?,taxa
+*?,350,nannofossils,*?,"reworked, questionable",?,taxa
+?*,350,nannofossils,*?,"reworked, questionable",?,taxa
+P*?,350,planktic_forams,P*?,"reworked, questionable, present (<1% of total assemblage)",?,taxa
+1?,371,nannofossils,1?,"undefined, suggest questionable, count",?,taxa
+?,371,nannofossils,?,"undefined, suggest questionable",?,taxa
+??,371,nannofossils,?,"undefined, suggest questionable",?,taxa
+2RW?,371,nannofossils,2*?,"undefined, suggest questionable, reworked, 2 individuals",?,taxa
+rw?,369,planktic_forams,rw?,"undefined, suggest questionable reworked",?,taxa
+1rw?,369,planktic_forams,1rw?,"undefined, suggest questionable reworked individual",?,taxa
+vR,320,radiolarians,VR,"questionable, very rare (1–2 specimens per slide)",?,taxa
+aff.X,318,diatoms,X,"trace (<3 valves per traverse, including fragments)",affinity,taxa
+Xaff.,318,diatoms,X,"trace (<3 valves per traverse, including fragments)",affinity,taxa
+3cf,371,nannofossils,3,"count, cf",cf.,taxa
+4cf,371,nannofossils,4,"count, cf",cf.,taxa
+cf. P,321,planktic_forams,P,present (<1% of foraminifer assemblage),cf.,taxa
+cf. R,321,planktic_forams,R,rare (>1% to <5% of foraminifer assemblage),cf.,taxa
+1cf,371,nannofossils,1,count,cf.,taxa
+cf,342,nannofossils,,,cf.,taxa
+cf.,342,nannofossils,,,cf.,taxa
+cf,369,planktic_forams,,,cf.,taxa
+cf.,369,planktic_forams,,,cf.,taxa
+2cf,371,nannofossils,2,count,cf.,taxa
+cf,371,nannofossils,,,cf.,taxa
+3.57,371,nannofossils,,,Depth/age in wrong cell,taxa
+19.03,371,nannofossils,,,Depth/age in wrong cell,taxa
+22.6,371,nannofossils,,,Depth/age in wrong cell,taxa
+,320,radiolarians,,,Discard/blank,taxa
+,353,diatoms,,,Discard/blank,taxa
+M,318,diatoms,,,Either preservation or diatom abundance value massive (>>10 valuves per counted transect),taxa
+M,321,diatoms,,,Either preservation or diatom abundance value massive (>>50 valuves per counted transect),taxa
+G,318,diatoms,,,Preservation,taxa
+Cc,344,radiolarians,C,common (>6–30 specimens per slide traverse),"This could be either a typo, or the next header could be missing data. Would need Hole/species info to check",taxa
+CC,359,nannofossils,C,common (>1–10 specimens per field of view),This looks like poorly formatted data. I suspect that the assemblage file is incorrectly processed and that the header to the right of this entry is missing what should be a 'R' for the value,taxa
+FR,342,planktic_forams,F,few (10–19 specimens on the tray),This looks like poorly formatted data. I suspect that the assemblage file is incorrectly processed and that the header to the right of this entry is missing what should be a 'R' for the value,taxa
+RR,342,nannofossils,R,rare (<1 specimen per 10 fields of view),This looks like poorly formatted data. I suspect that the assemblage file is incorrectly processed and that the header to the right of this entry is missing what should be a 'R' for the value,taxa
+RRR,342,nannofossils,R,rare (<1 specimen per 10 fields of view),This looks like poorly formatted data. I suspect that the assemblage file is incorrectly processed and that the header to the right of this entry is missing what should be a 'R' for the value,taxa
+RR,346,diatoms,R,rare (<2 valves in two slide transects),This looks like poorly formatted data. I suspect that the assemblage file is incorrectly processed and that the header to the right of this entry is missing what should be a 'R' for the value,taxa
+RR,356,benthic_forams,R,rare (1%−5% benthic foraminifer specimens in total assemblage),This looks like poorly formatted data. I suspect that the assemblage file is incorrectly processed and that the header to the right of this entry is missing what should be a 'R' for the value,taxa
+R,355,diatoms,R,rare (≥3 valves per traverse and <1 valve per 10 field of view),,taxa
+D,340,benthic_forams,D,dominant (>30 specimens),,taxa
+-,318,diatoms,-,"undefined, suggest barren",,taxa
+-,320,radiolarians,-,"undefined, suggest barren",,taxa
+-,342,nannofossils,-,"undefined, suggest barren",,taxa
+-,363,nannofossils,-,"undefined, suggest barren",,taxa
+-,371,nannofossils,-,"undefined, suggest barren",,taxa
+A,342,nannofossils,A,abundant (>10 specimens per field of view),,taxa
+A,361,nannofossils,A,abundant (>10 specimens per field of view),,taxa
+A,359,nannofossils,A,abundant (>10 specimens per field of view),,taxa
+A,362,nannofossils,A,abundant (>10 specimens per field of view),,taxa
+A,318,diatoms,A,abundant (>10 valves per field of view),,taxa
+A,318,dinoflagellates,A,abundant (>10 valves per field of view),,taxa
+A,341,diatoms,A,abundant (>10 valves per field of view),,taxa
+A,353,diatoms,A,abundant (>10 valves per field of view),,taxa
+A,356,benthic_forams,A,abundant (>10%−30% benthic foraminifer specimens in total assemblage),,taxa
+A,342,benthic_forams,A,abundant (>10%–30% of benthic assemblage),,taxa
+A,320,planktic_forams,A,abundant (>10%–30% of foraminifer assemblage),,taxa
+A,321,planktic_forams,A,abundant (>10%–30% of foraminifer assemblage),,taxa
+A,323,planktic_forams,A,abundant (>10%–30% of foraminifer assemblage),,taxa
+A,369,benthic_forams,A,abundant (>10%–30% of sediment particles),,taxa
+A,374,benthic_forams,A,abundant (>10%–30% of species on the tray),,taxa
+A,374,planktic_forams,A,abundant (>10%–30% of species on the tray),,taxa
+A,368,planktic_forams,A,abundant (>10%−30% of the assemblage),,taxa
+A,341,benthic_forams,A,abundant (>10%–30% of total assemblage),,taxa
+A,341,planktic_forams,A,abundant (>10%–30% of total assemblage),,taxa
+A,367,planktic_forams,A,abundant (>10%−30%),,taxa
+A,330,planktic_forams,A,abundant (>10%–30%),,taxa
+A,339,benthic_forams,A,abundant (>10%–30%),,taxa
+A,339,planktic_forams,A,abundant (>10%–30%),,taxa
+A,340,planktic_forams,A,abundant (>10%–30%),,taxa
+A,318,benthic_forams,A,abundant (>10%–50% of total assemblage),,taxa
+A,318,planktic_forams,A,abundant (>10%–50% of total assemblage),,taxa
+A,320,nannofossils,A,abundant (>10–100 specimens per field of view),,taxa
+A,323,nannofossils,A,abundant (>10–100 specimens per field of view),,taxa
+A,324,nannofossils,A,abundant (>10–100 specimens per field of view),,taxa
+A,330,nannofossils,A,abundant (>10–100 specimens per field of view),,taxa
+A,375,nannofossils,A,abundant (>10–100 specimens per field of view),,taxa
+A,355,nannofossils,A,abundant (>10–100 specimens per field of view),,taxa
+A,340,benthic_forams,A,abundant (>10–30 specimens),,taxa
+A,346,radiolarians,A,abundant (>16% of the radiolarian assemblage),,taxa
+A,341,radiolarians,A,abundant (>20 specimens per 300 counts),,taxa
+A,363,planktic_forams,A,abundant (>20% of the planktonic foraminifer assemblage),,taxa
+A,369,planktic_forams,A,abundant (>20% of the planktonic foraminiferal assemblage),,taxa
+A,339,palynology,A,abundant (>2000/cm3),,taxa
+A,321,diatoms,A,abundant (>20–50 valves per counted transect),,taxa
+A,362,planktic_forams,A,abundant (>25 specimens),,taxa
+A,354,planktic_forams,A,abundant (>25% of the assemblage),,taxa
+A,344,radiolarians,A,abundant (>30 specimens per slide traverse),,taxa
+A,359,benthic_forams,A,abundant (>30% of the assemblage),,taxa
+A,359,planktic_forams,A,abundant (>30% of the assemblage),,taxa
+A,356,planktic_forams,A,abundant (>30% planktonic foraminifer specimens in total assemblage),,taxa
+A,374,diatoms,A,abundant (>5 and <10 valves per field of view),,taxa
+A,346,diatoms,A,abundant (>5 valves in two slide transects),,taxa
+a,346,diatoms,A,abundant (>5 valves in two slide transects),,taxa
+A,362,diatoms,A,abundant (>5 valves per field of view),,taxa
+A,342,planktic_forams,A,abundant (>50 specimens on the tray),,taxa
+A,371,benthic_forams,A,abundant (>50% species on the tray),,taxa
+A,371,planktic_forams,A,abundant (>50% species on the tray),,taxa
+A,371,dinoflagellates,A,abundant (>50%–90% of palynomorphs),,taxa
+A,371,palynology,A,abundant (>50%–90% of palynomorphs),,taxa
+A,374,dinoflagellates,A,abundant (>50%–90% of palynomorphs),,taxa
+A,374,palynology,A,abundant (>50%–90% of palynomorphs),,taxa
+A,324,benthic_forams,A,abundant (≥11 specimens),,taxa
+A,324,planktic_forams,A,abundant (≥11 specimens),,taxa
+A,374,radiolarians,A,abundant (≥2 specimens per field of view),,taxa
+A,349,planktic_forams,A,abundant (10%–30% of ~400 specimens),,taxa
+A,346,benthic_forams,A,abundant (10%–30% of foraminiferal assemblage),,taxa
+a,346,planktic_forams,A,abundant (10%–30% of foraminiferal assemblage),,taxa
+A,346,planktic_forams,A,abundant (10%–30% of foraminiferal assemblage),,taxa
+A,361,benthic_forams,A,abundant (10%–30% of the benthic foraminifer assemblage),,taxa
+A,361,planktic_forams,A,abundant (10%–30% of the planktonic foraminifer assemblage),,taxa
+A,353,planktic_forams,A,abundant (10%-30% of the planktonic foraminiferal assemblage),,taxa
+A,355,planktic_forams,A,abundant (10%–30% of the total planktonic foraminifer assemblage),,taxa
+A,350,benthic_forams,A,abundant (10%-30% of total assemblage),,taxa
+A,350,planktic_forams,A,abundant (10%-30% of total assemblage),,taxa
+A,351,planktic_forams,A,abundant (10%-30% of total biogenic assemblage),,taxa
+A,349,nannofossils,A,"abundant (10%–50%, or 10–100 specimens per field of view)",,taxa
+A,367,nannofossils,A,"abundant (10%–50%, or 10–100 specimens per field of view)",,taxa
+A,368,nannofossils,A,"abundant (10%–50%, or 10–100 specimens per field of view)",,taxa
+A,344,nannofossils,A,abundant (10–100 specimens per field of view at 1000× magnification),,taxa
+A,350,nannofossils,A,abundant (10-100 specimens per field of view),,taxa
+A,353,nannofossils,A,abundant (10–100 specimens per field of view at 1000× magnification),,taxa
+A,354,nannofossils,A,abundant (10–100 specimens per field of view at 1000× magnification),,taxa
+A,356,nannofossils,A,abundant (10–100 specimens per field of view at 1000× magnification),,taxa
+A,346,nannofossils,A,abundant (10–100 specimens per field of view),,taxa
+a,363,nannofossils,A,abundant (10–100 specimens per field of view),,taxa
+A,363,nannofossils,A,abundant (10–100 specimens per field of view),,taxa
+A,369,nannofossils,A,abundant (10–100 specimens per field of view),,taxa
+A,340,nannofossils,A,abundant (1–10 specimens per field of view),,taxa
+A,339,nannofossils,A,abundant (11–20 specimens per field of view),,taxa
+A,352,nannofossils,A,abundant (15%-30% of slide),,taxa
+(A),375,planktic_forams,A,abundant (foraminifers compose >20%–50% of the washed sample),,taxa
+A,375,benthic_forams,A,abundant (foraminifers compose >20%–50% of the washed sample),,taxa
+A,375,planktic_forams,A,abundant (foraminifers compose >20%–50% of the washed sample),,taxa
+A,318,palynology,A,abundant (qualitative),,taxa
+B,318,dinoflagellates,B,barren,,taxa
+B,318,palynology,B,barren,,taxa
+0,320,radiolarians,B,barren,,taxa
+B,321,diatoms,B,barren,,taxa
+B,339,planktic_forams,B,barren,,taxa
+B,342,benthic_forams,B,barren,,taxa
+B,342,planktic_forams,B,barren,,taxa
+B,346,benthic_forams,B,barren,,taxa
+B,349,planktic_forams,B,barren,,taxa
+B,353,diatoms,B,barren,,taxa
+B,362,planktic_forams,B,barren,,taxa
+B,367,planktic_forams,B,barren,,taxa
+B,371,dinoflagellates,B,barren,,taxa
+B,371,palynology,B,barren,,taxa
+B,374,dinoflagellates,B,barren,,taxa
+B,374,palynology,B,barren,,taxa
+BR,374,dinoflagellates,BR,barren to rare (few specimens identified in two slides),,taxa
+BR,374,palynology,BR,barren to rare (few specimens identified in two slides),,taxa
+C,318,benthic_forams,C,common (>1%–10% of total assemblage),,taxa
+C,318,planktic_forams,C,common (>1%–10% of total assemblage),,taxa
+C,363,planktic_forams,C,common (>10%–20% of the planktonic foraminifer assemblage),,taxa
+C,369,planktic_forams,C,common (>10%–20% of the planktonic foraminiferal assemblage),,taxa
+C,371,dinoflagellates,C,common (>10%–50% of palynomorphs),,taxa
+C,371,palynology,C,common (>10%–50% of palynomorphs),,taxa
+C,374,dinoflagellates,C,common (>10%–50% of palynomorphs),,taxa
+C,374,palynology,C,common (>10%–50% of palynomorphs),,taxa
+C,320,radiolarians,C,common (>100 specimens per slide),,taxa
+C,321,radiolarians,C,common (>100 specimens per slide),,taxa
+A,323,radiolarians,A,abundant (>30 specimens per slide traverse),,taxa
+C,323,radiolarians,C,common (>100 specimens per slide),,taxa
+C,321,diatoms,C,common (>10–20 valves per counted transect),,taxa
+C,368,diatoms,C,common (>10–20 valves per counted transect),,taxa
+C,320,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,323,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,324,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,359,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,371,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,375,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,342,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C-A,342,nannofossils,C-A,"undefined, suggest ~10 specimens per field of view",,taxa
+C,361,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,362,nannofossils,C,common (>1–10 specimens per field of view),,taxa
+C,342,radiolarians,C,common (>4%–16% of census),,taxa
+C,344,radiolarians,C,common (>6–30 specimens per slide traverse),,taxa
+C,318,diatoms,C,common (≥1–10 valves per field of view),,taxa
+C,318,dinoflagellates,C,common (≥1–10 valves per field of view),,taxa
+C,361,diatoms,C,common (≥1–10 valves per field of view),,taxa
+C,340,nannofossils,C,common (1 specimen per 2–10 fields of view),,taxa
+C,374,radiolarians,C,common (1 specimen per field of view),,taxa
+C,367,nannofossils,C,"common (1%−10%, or 1–10 specimens per field of view)",,taxa
+C,368,nannofossils,C,"common (1%−10%, or 1–10 specimens per field of view)",,taxa
+C,349,nannofossils,C,"common (1%–10%, or 1–10 specimens per field of view)",,taxa
+C,359,benthic_forams,C,common (10%−30% of the assemblage),,taxa
+C,359,planktic_forams,C,common (10%−30% of the assemblage),,taxa
+C,349,radiolarians,C,common (10%–30% of the total sample),,taxa
+C,341,radiolarians,C,common (10–20 specimens per 300 counts),,taxa
+c,341,radiolarians,C,common (10–20 specimens per 300 counts),,taxa
+C,354,planktic_forams,C,common (11%−25% of the assemblage),,taxa
+C,344,nannofossils,C,common (1–10 specimens per field of view at 1000× magnification),,taxa
+c,350,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,350,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,351,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,355,nannofossils,C,common (1–10 specimens per field of view),,taxa
+c,355,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,330,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,339,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,354,nannofossils,C,common (1–10 specimens per field of view at 1000× magnification),,taxa
+C,346,nannofossils,C,common (1–10 specimens per field of view),,taxa
+C,341,diatoms,C,common (1–10 specimens per field of view),,taxa
+C,353,diatoms,C,common (1–10 specimens per field of view),,taxa
+C,362,planktic_forams,C,common (11−25 specimens),,taxa
+C,374,diatoms,C,common (1–5 valves per field of view),,taxa
+C,356,nannofossils,C,common (1-9 specimens per field of view at 1000x magnification),,taxa
+C,353,nannofossils,C,common (1-9 specimens per field of view at 1000x magnification),,taxa
+C,363,nannofossils,C,common (1–9 specimens per field of view),,taxa
+c,363,nannofossils,C,common (1–9 specimens per field of view),,taxa
+C,369,nannofossils,C,common (1–9 specimens per field of view),,taxa
+C,371,planktic_forams,C,common (20%–49% species on the tray),,taxa
+C,342,planktic_forams,C,common (20–49 specimens on the tray),,taxa
+c,346,diatoms,C,common (3–5 valves in two slide transects),,taxa
+C,346,diatoms,C,common (3–5 valves in two slide transects),,taxa
+C,362,diatoms,C,common (3–5 valves per field of view),,taxa
+C,346,radiolarians,C,common (4%–16% of the radiolarian assemblage),,taxa
+C,353,planktic_forams,C,common (5%-10% of the planktonic foraminiferal assemblage),,taxa
+C,352,nannofossils,C,common (5%-15% of slide),,taxa
+C,339,palynology,C,common (500–2000/cm3),,taxa
+C,324,benthic_forams,C,common (6–10 specimens),,taxa
+C,324,planktic_forams,C,common (6–10 specimens),,taxa
+C,362,radiolarians,C,common (6–30 specimens per slide traverse),,taxa
+(C),375,planktic_forams,C,common (foraminifers compose >5%–20% of the washed sample),,taxa
+C,375,benthic_forams,C,common (foraminifers compose >5%–20% of the washed sample),,taxa
+C,375,planktic_forams,C,common (foraminifers compose >5%–20% of the washed sample),,taxa
+C,318,palynology,C,common (qualitative),,taxa
+C-A,318,diatoms,C-A,"undefined, suggest ~10 valves per field of view",,taxa
+XX,374,dinoflagellates,C-A,common to abundant (10%-90% of palynomorphs),,taxa
+XX,374,palynology,C-A,common to abundant (10%-90% of palynomorphs),,taxa
+0,363,planktic_forams,0,count,,taxa
+0,371,nannofossils,0,count,,taxa
+0,375,planktic_forams,0,count,,taxa
+1,318,palynology,1,count,,taxa
+1,321,benthic_forams,1,count,,taxa
+1,339,palynology,1,count,,taxa
+1,344,benthic_forams,1,count,,taxa
+1,363,planktic_forams,1,count,,taxa
+1,371,nannofossils,1,count,,taxa
+1,375,planktic_forams,1,count,,taxa
+2,318,palynology,2,count,,taxa
+2,321,benthic_forams,2,count,,taxa
+2,339,palynology,2,count,,taxa
+2,344,benthic_forams,2,count,,taxa
+2,363,planktic_forams,2,count,,taxa
+2,371,nannofossils,2,count,,taxa
+2,375,planktic_forams,2,count,,taxa
+3,321,benthic_forams,3,count,,taxa
+3,339,palynology,3,count,,taxa
+3,344,benthic_forams,3,count,,taxa
+3,363,planktic_forams,3,count,,taxa
+3,371,nannofossils,3,count,,taxa
+3,375,planktic_forams,3,count,,taxa
+4,321,benthic_forams,4,count,,taxa
+4,344,benthic_forams,4,count,,taxa
+4,363,planktic_forams,4,count,,taxa
+4,371,nannofossils,4,count,,taxa
+4,375,planktic_forams,4,count,,taxa
+5,321,benthic_forams,5,count,,taxa
+5,344,benthic_forams,5,count,,taxa
+5,363,planktic_forams,5,count,,taxa
+5,371,nannofossils,5,count,,taxa
+5,375,planktic_forams,5,count,,taxa
+6,321,benthic_forams,6,count,,taxa
+6,344,benthic_forams,6,count,,taxa
+6,363,planktic_forams,6,count,,taxa
+6,371,nannofossils,6,count,,taxa
+6,375,planktic_forams,6,count,,taxa
+7,321,benthic_forams,7,count,,taxa
+7,344,benthic_forams,7,count,,taxa
+7,354,planktic_forams,7,count,,taxa
+7,363,planktic_forams,7,count,,taxa
+7,371,nannofossils,7,count,,taxa
+7,375,planktic_forams,7,count,,taxa
+8,321,benthic_forams,8,count,,taxa
+8,344,benthic_forams,8,count,,taxa
+8,363,planktic_forams,8,count,,taxa
+8,371,nannofossils,8,count,,taxa
+8,375,planktic_forams,8,count,,taxa
+9,321,benthic_forams,9,count,,taxa
+9,344,benthic_forams,9,count,,taxa
+9,363,planktic_forams,9,count,,taxa
+9,375,planktic_forams,9,count,,taxa
+10,321,benthic_forams,10,count,,taxa
+10,344,benthic_forams,10,count,,taxa
+10,363,planktic_forams,10,count,,taxa
+10,371,nannofossils,10,count,,taxa
+10,375,planktic_forams,10,count,,taxa
+11,321,benthic_forams,11,count,,taxa
+11,344,benthic_forams,11,count,,taxa
+11,363,planktic_forams,11,count,,taxa
+11,371,nannofossils,11,count,,taxa
+11,375,planktic_forams,11,count,,taxa
+12,321,benthic_forams,12,count,,taxa
+12,344,benthic_forams,12,count,,taxa
+12,363,planktic_forams,12,count,,taxa
+12,371,nannofossils,12,count,,taxa
+12,375,planktic_forams,12,count,,taxa
+13,321,benthic_forams,13,count,,taxa
+13,344,benthic_forams,13,count,,taxa
+13,363,planktic_forams,13,count,,taxa
+13,375,planktic_forams,13,count,,taxa
+14,321,benthic_forams,14,count,,taxa
+14,344,benthic_forams,14,count,,taxa
+14,363,planktic_forams,14,count,,taxa
+14,371,nannofossils,14,count,,taxa
+14,375,planktic_forams,14,count,,taxa
+15,321,benthic_forams,15,count,,taxa
+15,344,benthic_forams,15,count,,taxa
+15,363,planktic_forams,15,count,,taxa
+15,371,nannofossils,15,count,,taxa
+15,375,planktic_forams,15,count,,taxa
+16,321,benthic_forams,16,count,,taxa
+16,344,benthic_forams,16,count,,taxa
+16,363,planktic_forams,16,count,,taxa
+16,375,planktic_forams,16,count,,taxa
+17,321,benthic_forams,17,count,,taxa
+17,344,benthic_forams,17,count,,taxa
+17,363,planktic_forams,17,count,,taxa
+17,375,planktic_forams,17,count,,taxa
+18,321,benthic_forams,18,count,,taxa
+18,344,benthic_forams,18,count,,taxa
+18,363,planktic_forams,18,count,,taxa
+18,375,planktic_forams,18,count,,taxa
+19,321,benthic_forams,19,count,,taxa
+19,344,benthic_forams,19,count,,taxa
+19,363,planktic_forams,19,count,,taxa
+19,375,planktic_forams,19,count,,taxa
+20,321,benthic_forams,20,count,,taxa
+20,344,benthic_forams,20,count,,taxa
+20,363,planktic_forams,20,count,,taxa
+20,375,planktic_forams,20,count,,taxa
+21,321,benthic_forams,21,count,,taxa
+21,344,benthic_forams,21,count,,taxa
+21,363,planktic_forams,21,count,,taxa
+21,375,planktic_forams,21,count,,taxa
+22,321,benthic_forams,22,count,,taxa
+22,344,benthic_forams,22,count,,taxa
+22,363,planktic_forams,22,count,,taxa
+22,375,planktic_forams,22,count,,taxa
+23,321,benthic_forams,23,count,,taxa
+23,344,benthic_forams,23,count,,taxa
+23,363,planktic_forams,23,count,,taxa
+24,321,benthic_forams,24,count,,taxa
+24,344,benthic_forams,24,count,,taxa
+24,363,planktic_forams,24,count,,taxa
+24,375,planktic_forams,24,count,,taxa
+25,321,benthic_forams,25,count,,taxa
+25,344,benthic_forams,25,count,,taxa
+25,363,planktic_forams,25,count,,taxa
+25,375,planktic_forams,25,count,,taxa
+26,321,benthic_forams,26,count,,taxa
+26,344,benthic_forams,26,count,,taxa
+26,363,planktic_forams,26,count,,taxa
+26,375,planktic_forams,26,count,,taxa
+27,321,benthic_forams,27,count,,taxa
+27,344,benthic_forams,27,count,,taxa
+27,363,planktic_forams,27,count,,taxa
+27,371,nannofossils,27,count,,taxa
+27,375,planktic_forams,27,count,,taxa
+28,321,benthic_forams,28,count,,taxa
+28,344,benthic_forams,28,count,,taxa
+28,363,planktic_forams,28,count,,taxa
+28,375,planktic_forams,28,count,,taxa
+29,321,benthic_forams,29,count,,taxa
+29,344,benthic_forams,29,count,,taxa
+29,363,planktic_forams,29,count,,taxa
+29,375,planktic_forams,29,count,,taxa
+30,321,benthic_forams,30,count,,taxa
+30,344,benthic_forams,30,count,,taxa
+30,363,planktic_forams,30,count,,taxa
+31,321,benthic_forams,31,count,,taxa
+31,344,benthic_forams,31,count,,taxa
+31,363,planktic_forams,31,count,,taxa
+32,321,benthic_forams,32,count,,taxa
+32,344,benthic_forams,32,count,,taxa
+32,363,planktic_forams,32,count,,taxa
+32,375,planktic_forams,32,count,,taxa
+33,344,benthic_forams,33,count,,taxa
+33,363,planktic_forams,33,count,,taxa
+33,375,planktic_forams,33,count,,taxa
+34,344,benthic_forams,34,count,,taxa
+34,363,planktic_forams,34,count,,taxa
+34,375,planktic_forams,34,count,,taxa
+35,321,benthic_forams,35,count,,taxa
+35,344,benthic_forams,35,count,,taxa
+35,363,planktic_forams,35,count,,taxa
+35,375,planktic_forams,35,count,,taxa
+36,321,benthic_forams,36,count,,taxa
+36,344,benthic_forams,36,count,,taxa
+36,363,planktic_forams,36,count,,taxa
+36,375,planktic_forams,36,count,,taxa
+37,321,benthic_forams,37,count,,taxa
+37,344,benthic_forams,37,count,,taxa
+37,363,planktic_forams,37,count,,taxa
+37,375,planktic_forams,37,count,,taxa
+38,321,benthic_forams,38,count,,taxa
+38,344,benthic_forams,38,count,,taxa
+38,363,planktic_forams,38,count,,taxa
+38,375,planktic_forams,38,count,,taxa
+39,321,benthic_forams,39,count,,taxa
+39,344,benthic_forams,39,count,,taxa
+39,363,planktic_forams,39,count,,taxa
+39,375,planktic_forams,39,count,,taxa
+40,321,benthic_forams,40,count,,taxa
+40,344,benthic_forams,40,count,,taxa
+40,363,planktic_forams,40,count,,taxa
+40,375,planktic_forams,40,count,,taxa
+41,344,benthic_forams,41,count,,taxa
+41,363,planktic_forams,41,count,,taxa
+41,375,planktic_forams,41,count,,taxa
+42,321,benthic_forams,42,count,,taxa
+42,344,benthic_forams,42,count,,taxa
+42,363,planktic_forams,42,count,,taxa
+42,375,planktic_forams,42,count,,taxa
+43,321,benthic_forams,43,count,,taxa
+43,344,benthic_forams,43,count,,taxa
+43,363,planktic_forams,43,count,,taxa
+44,321,benthic_forams,44,count,,taxa
+44,344,benthic_forams,44,count,,taxa
+44,363,planktic_forams,44,count,,taxa
+45,321,benthic_forams,45,count,,taxa
+45,344,benthic_forams,45,count,,taxa
+45,363,planktic_forams,45,count,,taxa
+46,344,benthic_forams,46,count,,taxa
+46,363,planktic_forams,46,count,,taxa
+46,375,planktic_forams,46,count,,taxa
+47,344,benthic_forams,47,count,,taxa
+47,363,planktic_forams,47,count,,taxa
+47,375,planktic_forams,47,count,,taxa
+48,321,benthic_forams,48,count,,taxa
+48,344,benthic_forams,48,count,,taxa
+48,363,planktic_forams,48,count,,taxa
+49,321,benthic_forams,49,count,,taxa
+49,344,benthic_forams,49,count,,taxa
+49,363,planktic_forams,49,count,,taxa
+50,321,benthic_forams,50,count,,taxa
+50,344,benthic_forams,50,count,,taxa
+50,363,planktic_forams,50,count,,taxa
+52,344,benthic_forams,52,count,,taxa
+53,344,benthic_forams,53,count,,taxa
+53,375,planktic_forams,53,count,,taxa
+54,344,benthic_forams,54,count,,taxa
+55,321,benthic_forams,55,count,,taxa
+55,344,benthic_forams,55,count,,taxa
+57,344,benthic_forams,57,count,,taxa
+58,321,benthic_forams,58,count,,taxa
+58,344,benthic_forams,58,count,,taxa
+60,321,benthic_forams,60,count,,taxa
+60,375,planktic_forams,60,count,,taxa
+61,344,benthic_forams,61,count,,taxa
+61,363,planktic_forams,61,count,,taxa
+62,344,benthic_forams,62,count,,taxa
+63,344,benthic_forams,63,count,,taxa
+63,363,planktic_forams,63,count,,taxa
+65,344,benthic_forams,65,count,,taxa
+66,321,benthic_forams,66,count,,taxa
+66,344,benthic_forams,66,count,,taxa
+67,344,benthic_forams,67,count,,taxa
+67,363,planktic_forams,67,count,,taxa
+70,321,benthic_forams,70,count,,taxa
+71,344,benthic_forams,71,count,,taxa
+73,344,benthic_forams,73,count,,taxa
+74,344,benthic_forams,74,count,,taxa
+76,344,benthic_forams,76,count,,taxa
+78,344,benthic_forams,78,count,,taxa
+80,321,benthic_forams,80,count,,taxa
+80,344,benthic_forams,80,count,,taxa
+80,363,planktic_forams,80,count,,taxa
+84,344,benthic_forams,84,count,,taxa
+91,344,benthic_forams,91,count,,taxa
+98,363,planktic_forams,98,count,,taxa
+99,363,planktic_forams,99,count,,taxa
+100,344,benthic_forams,100,count,,taxa
+100,363,planktic_forams,100,count,,taxa
+108,321,benthic_forams,108,count,,taxa
+112,321,benthic_forams,112,count,,taxa
+114,344,benthic_forams,114,count,,taxa
+115,344,benthic_forams,115,count,,taxa
+121,344,benthic_forams,121,count,,taxa
+127,344,benthic_forams,127,count,,taxa
+134,344,benthic_forams,134,count,,taxa
+135,344,benthic_forams,135,count,,taxa
+136,344,benthic_forams,136,count,,taxa
+147,344,benthic_forams,147,count,,taxa
+177,363,planktic_forams,177,count,,taxa
+189,344,benthic_forams,189,count,,taxa
+205,344,benthic_forams,205,count,,taxa
+0,363,benthic_forams,0,count (>100 specimens counted),,taxa
+1,363,benthic_forams,1,count (>100 specimens counted),,taxa
+2,363,benthic_forams,2,count (>100 specimens counted),,taxa
+3,363,benthic_forams,3,count (>100 specimens counted),,taxa
+4,363,benthic_forams,4,count (>100 specimens counted),,taxa
+5,363,benthic_forams,5,count (>100 specimens counted),,taxa
+6,363,benthic_forams,6,count (>100 specimens counted),,taxa
+7,363,benthic_forams,7,count (>100 specimens counted),,taxa
+8,363,benthic_forams,8,count (>100 specimens counted),,taxa
+9,363,benthic_forams,9,count (>100 specimens counted),,taxa
+10,363,benthic_forams,10,count (>100 specimens counted),,taxa
+11,363,benthic_forams,11,count (>100 specimens counted),,taxa
+12,363,benthic_forams,12,count (>100 specimens counted),,taxa
+13,363,benthic_forams,13,count (>100 specimens counted),,taxa
+14,363,benthic_forams,14,count (>100 specimens counted),,taxa
+15,363,benthic_forams,15,count (>100 specimens counted),,taxa
+16,363,benthic_forams,16,count (>100 specimens counted),,taxa
+17,363,benthic_forams,17,count (>100 specimens counted),,taxa
+18,363,benthic_forams,18,count (>100 specimens counted),,taxa
+19,363,benthic_forams,19,count (>100 specimens counted),,taxa
+20,363,benthic_forams,20,count (>100 specimens counted),,taxa
+21,363,benthic_forams,21,count (>100 specimens counted),,taxa
+22,363,benthic_forams,22,count (>100 specimens counted),,taxa
+23,363,benthic_forams,23,count (>100 specimens counted),,taxa
+24,363,benthic_forams,24,count (>100 specimens counted),,taxa
+25,363,benthic_forams,25,count (>100 specimens counted),,taxa
+26,363,benthic_forams,26,count (>100 specimens counted),,taxa
+27,363,benthic_forams,27,count (>100 specimens counted),,taxa
+28,363,benthic_forams,28,count (>100 specimens counted),,taxa
+29,363,benthic_forams,29,count (>100 specimens counted),,taxa
+30,363,benthic_forams,30,count (>100 specimens counted),,taxa
+31,363,benthic_forams,31,count (>100 specimens counted),,taxa
+32,363,benthic_forams,32,count (>100 specimens counted),,taxa
+35,363,benthic_forams,35,count (>100 specimens counted),,taxa
+36,363,benthic_forams,36,count (>100 specimens counted),,taxa
+39,363,benthic_forams,39,count (>100 specimens counted),,taxa
+40,363,benthic_forams,40,count (>100 specimens counted),,taxa
+41,363,benthic_forams,41,count (>100 specimens counted),,taxa
+42,363,benthic_forams,42,count (>100 specimens counted),,taxa
+43,363,benthic_forams,43,count (>100 specimens counted),,taxa
+45,363,benthic_forams,45,count (>100 specimens counted),,taxa
+48,363,benthic_forams,48,count (>100 specimens counted),,taxa
+49,363,benthic_forams,49,count (>100 specimens counted),,taxa
+54,363,benthic_forams,54,count (>100 specimens counted),,taxa
+56,363,benthic_forams,56,count (>100 specimens counted),,taxa
+65,363,benthic_forams,65,count (>100 specimens counted),,taxa
+69,363,benthic_forams,69,count (>100 specimens counted),,taxa
+71,363,benthic_forams,71,count (>100 specimens counted),,taxa
+96,363,benthic_forams,96,count (>100 specimens counted),,taxa
+97,363,benthic_forams,97,count (>100 specimens counted),,taxa
+107,363,benthic_forams,107,count (>100 specimens counted),,taxa
+0,371,ostracods,0,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+1,371,ostracods,1,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+2,371,ostracods,2,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+3,371,ostracods,3,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+4,371,ostracods,4,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+5,371,ostracods,5,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+6,371,ostracods,6,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+7,371,ostracods,7,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+8,371,ostracods,8,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+9,371,ostracods,9,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+10,371,ostracods,10,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+11,371,ostracods,11,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+12,371,ostracods,12,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+13,371,ostracods,13,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+14,371,ostracods,14,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+15,371,ostracods,15,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+16,371,ostracods,16,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+18,371,ostracods,18,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+19,371,ostracods,19,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+20,371,ostracods,20,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+21,371,ostracods,21,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+22,371,ostracods,22,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+26,371,ostracods,26,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+27,371,ostracods,27,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+29,371,ostracods,29,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+30,371,ostracods,30,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+31,371,ostracods,31,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+32,371,ostracods,32,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+33,371,ostracods,33,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+35,371,ostracods,35,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+48,371,ostracods,48,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+49,371,ostracods,49,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+57,371,ostracods,57,"count (based on 5-10 trays of sediment, one tray is roughly 45 cm2 of sediment)",,taxa
+0,362,planktic_forams,0,count (fewer than ~150 specimen counted),,taxa
+1,362,planktic_forams,1,count (fewer than ~150 specimen counted),,taxa
+2,362,planktic_forams,2,count (fewer than ~150 specimen counted),,taxa
+3,362,planktic_forams,3,count (fewer than ~150 specimen counted),,taxa
+4,362,planktic_forams,4,count (fewer than ~150 specimen counted),,taxa
+5,362,planktic_forams,5,count (fewer than ~150 specimen counted),,taxa
+6,362,planktic_forams,6,count (fewer than ~150 specimen counted),,taxa
+7,362,planktic_forams,7,count (fewer than ~150 specimen counted),,taxa
+8,362,planktic_forams,8,count (fewer than ~150 specimen counted),,taxa
+10,362,planktic_forams,10,count (fewer than ~150 specimen counted),,taxa
+11,362,planktic_forams,11,count (fewer than ~150 specimen counted),,taxa
+12,362,planktic_forams,12,count (fewer than ~150 specimen counted),,taxa
+13,362,planktic_forams,13,count (fewer than ~150 specimen counted),,taxa
+16,362,planktic_forams,16,count (fewer than ~150 specimen counted),,taxa
+17,362,planktic_forams,17,count (fewer than ~150 specimen counted),,taxa
+18,362,planktic_forams,18,count (fewer than ~150 specimen counted),,taxa
+20,362,planktic_forams,20,count (fewer than ~150 specimen counted),,taxa
+21,362,planktic_forams,21,count (fewer than ~150 specimen counted),,taxa
+23,362,planktic_forams,23,count (fewer than ~150 specimen counted),,taxa
+24,362,planktic_forams,24,count (fewer than ~150 specimen counted),,taxa
+25,362,planktic_forams,25,count (fewer than ~150 specimen counted),,taxa
+26,362,planktic_forams,26,count (fewer than ~150 specimen counted),,taxa
+28,362,planktic_forams,28,count (fewer than ~150 specimen counted),,taxa
+29,362,planktic_forams,29,count (fewer than ~150 specimen counted),,taxa
+30,362,planktic_forams,30,count (fewer than ~150 specimen counted),,taxa
+35,362,planktic_forams,35,count (fewer than ~150 specimen counted),,taxa
+38,362,planktic_forams,38,count (fewer than ~150 specimen counted),,taxa
+40,362,planktic_forams,40,count (fewer than ~150 specimen counted),,taxa
+51,362,planktic_forams,51,count (fewer than ~150 specimen counted),,taxa
+53,362,planktic_forams,53,count (fewer than ~150 specimen counted),,taxa
+1,342,nannofossils,1,count (per field of view),,taxa
+2,342,nannofossils,2,count (per field of view),,taxa
+3,342,nannofossils,3,count (per field of view),,taxa
+4,342,nannofossils,4,count (per field of view),,taxa
+5,342,nannofossils,5,count (per field of view),,taxa
+6,342,nannofossils,6,count (per field of view),,taxa
+7,342,nannofossils,7,count (per field of view),,taxa
+8,342,nannofossils,8,count (per field of view),,taxa
+10,342,nannofossils,10,count (per field of view),,taxa
+20,342,nannofossils,20,count (per field of view),,taxa
+22,342,nannofossils,22,count (per field of view),,taxa
+25,342,nannofossils,25,count (per field of view),,taxa
+1,318,diatoms,1,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+1,318,dinoflagellates,1,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+2,318,dinoflagellates,2,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+3,318,dinoflagellates,3,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+4,318,dinoflagellates,4,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+5,318,dinoflagellates,5,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+6,318,dinoflagellates,6,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+8,318,dinoflagellates,8,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+11,318,dinoflagellates,11,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+19,318,dinoflagellates,19,count (two 22mm traverses of a smear slide at 630x magnification),,taxa
+D,344,nannofossils,D,dominant (>100 specimens per field of view at 1000× magnification),,taxa
+D,320,nannofossils,D,dominant (>100 specimens per field of view),,taxa
+D,323,nannofossils,D,dominant (>100 specimens per field of view),,taxa
+D,375,nannofossils,D,dominant (>100 specimens per field of view),,taxa
+D,346,nannofossils,D,dominant (>100 specimens per field of view),,taxa
+D,356,benthic_forams,D,dominant (>30% benthic foraminiferal specimens in total assemblage),,taxa
+D,349,planktic_forams,D,dominant (>30% of ~400 specimens),,taxa
+D,342,benthic_forams,D,dominant (>30% of benthic foraminiferal assemblage),,taxa
+D,320,planktic_forams,D,dominant (>30% of foraminiferal assemblage),,taxa
+D,321,planktic_forams,D,dominant (>30% of foraminiferal assemblage),,taxa
+D,323,planktic_forams,D,dominant (>30% of foraminiferal assemblage),,taxa
+D,346,benthic_forams,D,dominant (>30% of foraminiferal assemblage),,taxa
+D,346,planktic_forams,D,dominant (>30% of foraminiferal assemblage),,taxa
+d,346,planktic_forams,D,dominant (>30% of foraminiferal assemblage),,taxa
+D,369,benthic_forams,D,dominant (>30% of sediment particles),,taxa
+D,367,planktic_forams,D,dominant (>30% of the assemblage),,taxa
+D,368,planktic_forams,D,dominant (>30% of the assemblage),,taxa
+D,361,benthic_forams,D,dominant (>30% of the benthic foraminifer assemblage),,taxa
+D,361,planktic_forams,D,dominant (>30% of the planktonic foraminiferal assemblage),,taxa
+D,353,planktic_forams,D,dominant (>30% of the planktonic foraminiferal assemblage),,taxa
+D,355,planktic_forams,D,dominant (>30% of the planktonic foraminiferal assemblage),,taxa
+D,341,benthic_forams,D,dominant (>30% of total assemblage),,taxa
+D,341,planktic_forams,D,dominant (>30% of total assemblage),,taxa
+D,350,benthic_forams,D,dominant (>30% of total assemblage),,taxa
+D,350,planktic_forams,D,dominant (>30% of total assemblage),,taxa
+D,339,benthic_forams,D,dominant (>30%),,taxa
+D,339,planktic_forams,D,dominant (>30%),,taxa
+D,340,planktic_forams,D,dominant (>30%),,taxa
+D,321,diatoms,D,dominant (>50 valves per counted transect),,taxa
+D,349,nannofossils,D,"dominant (>50%, or 100 specimens per field of view)",,taxa
+D,367,nannofossils,D,"dominant (>50%, or 100 specimens per field of view)",,taxa
+D,368,nannofossils,D,"dominant (>50%, or 100 specimens per field of view)",,taxa
+D,371,dinoflagellates,D,dominant (>90% of palynomorphs),,taxa
+D,371,palynology,D,dominant (>90% of palynomorphs),,taxa
+D,375,planktic_forams,D,dominant (foraminifers compose >50% of the washed sample),,taxa
+F,374,ebridians,F,"undefined, ebridians not discussed in methods, suggest few (1%-10% of palynomorphs)",,taxa
+X,374,ebridians,X,"undefined, ebridians not discussed in methods, suggest <0.1% of palynomorphs",,taxa
+R,374,ebridians,R,"undefined, ebridians not discussed in methods, suggest rare (<1% of palynomorphs)",,taxa
+F,342,benthic_forams,F,few (>1% to <10% of benthic assemblage),,taxa
+F,342,radiolarians,F,few (>1%–4% of census),,taxa
+F,351,radiolarians,F,few (>1%-5% of slide),,taxa
+F,320,radiolarians,F,few (>10–100 specimens per slide),,taxa
+F,321,radiolarians,F,few (>10–100 specimens per slide),,taxa
+F,321,silicoflagellates,F,few (>10–100 specimens per slide),,taxa
+F,323,radiolarians,F,few (>10–100 specimens per slide),,taxa
+F,321,diatoms,F,few (>1–10 valves per counted transect),,taxa
+F,368,diatoms,F,few (>1–10 valves per counted transect),,taxa
+F,344,radiolarians,F,few (>1–5 specimens per slide traverse),,taxa
+F,362,radiolarians,F,few (>1–5 specimens per slide traverse),,taxa
+F,355,radiolarians,F,few (>5% of 10% of the total sample),,taxa
+F,320,planktic_forams,F,few (>5% to <10% of foraminifer assemblage),,taxa
+F,321,planktic_forams,F,few (>5% to <10% of foraminifer assemblage),,taxa
+F,323,planktic_forams,F,few (>5% to <10% of foraminifer assemblage),,taxa
+F,369,benthic_forams,F,few (>5% to <10% of sediment particles),,taxa
+F,356,benthic_forams,F,few (>5%–10% benthic foraminifer specimens in total assemblage),,taxa
+F,374,benthic_forams,F,few (>5%–10% of species on the tray),,taxa
+F,374,planktic_forams,F,few (>5%–10% of species on the tray),,taxa
+F,367,planktic_forams,F,few (>5%−10% of the assemblage),,taxa
+F,368,planktic_forams,F,few (>5%−10% of the assemblage),,taxa
+F,363,planktic_forams,F,few (>5%–10% of the planktonic foraminiferal assemblage),,taxa
+F,369,planktic_forams,F,few (>5%–10% of the planktonic foraminiferal assemblage),,taxa
+F,341,benthic_forams,F,few (>5%–10% of total assemblage),,taxa
+f,341,benthic_forams,F,few (>5%–10% of total assemblage),,taxa
+F,341,planktic_forams,F,few (>5%–10% of total assemblage),,taxa
+F,340,planktic_forams,F,few (>5%-10%),,taxa
+F,330,planktic_forams,F,few (>5%–10%),,taxa
+F,339,benthic_forams,F,few (>5%–10%),,taxa
+F,339,planktic_forams,F,few (>5%–10%),,taxa
+F,340,benthic_forams,F,few (>5–10 specimens),,taxa
+F,318,silicoflagellates,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,taxa
+F,318,diatoms,F,few (≥1 valve every 10 fields of view and <1 valve per field of view).,,taxa
+F,318,dinoflagellates,F,few (≥1 valve every 10 fields of view and <1 valve per field of view).,,taxa
+F,318,ebridians,F,few (≥1 valve every 10 fields of view and <1 valve per field of view).,,taxa
+F,355,diatoms,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,taxa
+F,361,diatoms,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,taxa
+F,361,radiolarians,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,taxa
+F,353,diatoms,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,taxa
+F,341,diatoms,F,few (≥1 valve every 10 fields of view and <1 valve per field of view),,taxa
+F,349,nannofossils,F,"few (0.1%–1%, or 1 specimen per 1–10 fields of view)",,taxa
+F,367,nannofossils,F,"few (0.1%–1%, or 1 specimen per 1–10 fields of view)",,taxa
+F,368,nannofossils,F,"few (0.1%–1%, or 1 specimen per 1–10 fields of view)",,taxa
+F,318,benthic_forams,F,few (0.1%–1.0% of total assemblage),,taxa
+F,318,planktic_forams,F,few (0.1%–1.0% of total assemblage),,taxa
+F,320,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,323,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,330,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,359,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,371,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+f,371,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,375,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,342,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F-C,342,nannofossils,F-C,"undefined, suggest ~1 specimen per field of view",,taxa
+Freq,342,nannofossils,Freq,"undefined, suggest >1 specimen per 1-10 fields of view",,taxa
+F,361,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,346,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,362,nannofossils,F,few (1 specimen per 1–10 fields of view),,taxa
+F,339,nannofossils,F,few (1 specimen per 2–10 fields of view),,taxa
+f,339,nannofossils,F,few (1 specimen per 2–10 fields of view),,taxa
+F,356,nannofossils,F,few (1 specimen per 2–10 fields of view at 1000× magnification),,taxa
+F,355,nannofossils,F,few (1 specimen per 2–10 fields of view),,taxa
+F,363,nannofossils,F,few (1 specimen per 2–10 fields of view),,taxa
+f,363,nannofossils,F,few (1 specimen per 2–10 fields of view),,taxa
+F,369,nannofossils,F,few (1 specimen per 2–10 fields of view),,taxa
+F,353,nannofossils,F,few (1 specimen per 2-10 fields of view at 1000x magnification),,taxa
+F,340,nannofossils,F,few (1 specimen per 11–100 fields of view),,taxa
+F,352,nannofossils,F,few (1% or less of slide),,taxa
+F,371,dinoflagellates,F,few (1%–10% of palynomorphs),,taxa
+F,371,palynology,F,few (1%–10% of palynomorphs),,taxa
+F,374,dinoflagellates,F,few (1%–10% of palynomorphs),,taxa
+F,374,palynology,F,few (1%–10% of palynomorphs),,taxa
+F,346,radiolarians,F,few (1%–4% of the radiolarian assemblage),,taxa
+F,353,planktic_forams,F,few (1%-5% of the planktonic foraminiferal assemblage),,taxa
+F,371,benthic_forams,F,few (10%–19% species on the tray),,taxa
+F,371,planktic_forams,F,few (10%–19% species on the tray),,taxa
+F,339,palynology,F,few (100–500/cm3),,taxa
+F,342,planktic_forams,F,few (10–19 specimens on the tray),,taxa
+F,350,nannofossils,F,few (1-10 specimens per 2-10 fields of view),,taxa
+F,354,nannofossils,F,few (1-10 specimens per 2-10 fields of view at 1000× magnification),,taxa
+F,362,diatoms,F,few (1–2 valves per field of view),,taxa
+f,346,diatoms,F,few (2 valves in two slide transects),,taxa
+F,346,diatoms,F,few (2 valves in two slide transects),,taxa
+F,351,nannofossils,F,few (2-10 specimens per 2-10 fields of view),,taxa
+F,324,benthic_forams,F,few (4–5 specimens),,taxa
+F,324,planktic_forams,F,few (4–5 specimens),,taxa
+F,346,benthic_forams,F,few (5% to <10% of foraminiferal assemblage),,taxa
+F,346,planktic_forams,F,few (5% to <10% of foraminiferal assemblage),,taxa
+F,349,planktic_forams,F,few (5%–10% of ~400 specimens),,taxa
+F,361,benthic_forams,F,few (5%–10% of the benthic foraminifer assemblage),,taxa
+f,361,planktic_forams,F,few (5%–10% of the planktonic foraminifer assemblage),,taxa
+F,361,planktic_forams,F,few (5%–10% of the planktonic foraminifer assemblage),,taxa
+F,355,planktic_forams,F,few (5%–10% of the planktonic foraminifer assemblage),,taxa
+F,349,radiolarians,F,few (5%–10% of the total sample),,taxa
+F,350,benthic_forams,F,few (5%-10% of total assemblage),,taxa
+F,350,planktic_forams,F,few (5%-10% of total assemblage),,taxa
+F,351,benthic_forams,F,few (5%-10% of total biogenic assemblage),,taxa
+F,351,planktic_forams,F,few (5%-10% of total biogenic assemblage),,taxa
+F,356,planktic_forams,F,few (5%–10% planktonic foraminifer specimens in total assemblage),,taxa
+F,362,planktic_forams,F,few (5−10 specimens),,taxa
+F,341,radiolarians,F,few (5–10 specimens per 300 counts),,taxa
+F,354,planktic_forams,F,few (6%−10% of the assemblage),,taxa
+(F),375,planktic_forams,F,few (foraminifers compose 1%–5% of the washed sample),,taxa
+F,375,benthic_forams,F,few (foraminifers compose 1%–5% of the washed sample),,taxa
+F,375,bolboformids,F,few (foraminifers compose 1%–5% of the washed sample),,taxa
+F,375,planktic_forams,F,few (foraminifers compose 1%–5% of the washed sample),,taxa
+F,318,palynology,F,few (qualitative),,taxa
+F-C,318,diatoms,F-C,"undefined, few to common (~1 valve per field of view)",,taxa
+Freq,344,nannofossils,Freq,frequent (1 specimen per 1–10 fields of view at 1000× magnification),,taxa
+F,324,nannofossils,Freq,frequent (1 specimen per 1–10 fields of view),,taxa
+F,374,radiolarians,Freq,frequent (1 specimen per 2–5 fields of view),,taxa
+F,374,diatoms,Freq,frequent (1 valve in every 10 fields of view),,taxa
+Indeterminate due to data source,371,planktic_forams,Ind,Indeterminate due to data source,,taxa
+Indeterminate due to data source,374,radiolarians,Ind,Indeterminate due to data source,,taxa
+Ma,346,diatoms,Ma,massive (>10 valves in two slide transects),,taxa
+P,346,radiolarians,P,present (<0.2%),,taxa
+P,353,nannofossils,P,present (<1 specimen per 100 fields of view at 1000x magnification),,taxa
+P,349,planktic_forams,P,present (<1% of ~400 specimens),,taxa
+P,342,benthic_forams,P,present (<1% of benthic assemblage),,taxa
+P,356,benthic_forams,P,present (<1% of benthic foraminifer specimens in total assemblage),,taxa
+P,320,planktic_forams,P,present (<1% of foraminifer assemblage),,taxa
+P,321,planktic_forams,P,present (<1% of foraminifer assemblage),,taxa
+P,323,planktic_forams,P,present (<1% of foraminifer assemblage),,taxa
+p,369,benthic_forams,P,present (<1% of sediment particles),,taxa
+P,369,benthic_forams,P,present (<1% of sediment particles),,taxa
+P,374,benthic_forams,P,present (<1% of species on the tray),,taxa
+P,374,planktic_forams,P,present (<1% of species on the tray),,taxa
+P,359,benthic_forams,P,present (<1% of the assemblage),,taxa
+P,359,planktic_forams,P,present (<1% of the assemblage),,taxa
+p,367,planktic_forams,P,present (<1% of the assemblage),,taxa
+P,367,planktic_forams,P,present (<1% of the assemblage),,taxa
+P,368,planktic_forams,P,present (<1% of the assemblage),,taxa
+p,368,planktic_forams,P,present (<1% of the assemblage),,taxa
+P,361,benthic_forams,P,present (<1% of the benthic foraminifer assemblage),,taxa
+P,361,planktic_forams,P,present (<1% of the planktonic foraminiferal assemblage),,taxa
+p,361,planktic_forams,P,present (<1% of the planktonic foraminiferal assemblage),,taxa
+p,363,planktic_forams,P,present (<1% of the planktonic foraminiferal assemblage),,taxa
+P,363,planktic_forams,P,present (<1% of the planktonic foraminiferal assemblage),,taxa
+P,369,planktic_forams,P,present (<1% of the planktonic foraminiferal assemblage),,taxa
+P,355,planktic_forams,P,present (<1% of the planktonic foraminiferal assemblage),,taxa
+P,341,benthic_forams,P,present (<1% of total assemblage),,taxa
+P,341,planktic_forams,P,present (<1% of total assemblage),,taxa
+p,350,benthic_forams,P,present (<1% of total assemblage),,taxa
+P,350,benthic_forams,P,present (<1% of total assemblage),,taxa
+p,350,planktic_forams,P,present (<1% of total assemblage),,taxa
+P,350,planktic_forams,P,present (<1% of total assemblage),,taxa
+P,351,benthic_forams,P,present (<1% of total biogenic assemblage),,taxa
+P,351,planktic_forams,P,present (<1% of total biogenic assemblage),,taxa
+P,330,planktic_forams,P,present (<1%),,taxa
+P,339,benthic_forams,P,present (<1%),,taxa
+P,339,planktic_forams,P,present (<1%),,taxa
+P,340,planktic_forams,P,present (<1%),,taxa
+p,342,planktic_forams,P,present (<2 specimens on the tray),,taxa
+P,342,planktic_forams,P,present (<2 specimens on the tray),,taxa
+P,371,benthic_forams,P,present (<2% species on the tray),,taxa
+P,371,planktic_forams,P,present (<2% species on the tray),,taxa
+X,341,diatoms,X,"present (<3 valves per traverse of coverslip, including fragments)",,taxa
+X,353,diatoms,X,"present (<3 valves per traverse of coverslip, including fragments)",,taxa
+X,374,radiolarians,X,present (≤1 specimen per traverse),,taxa
+P,356,nannofossils,P,present (1 specimen per >100 fields of view at 1000× magnification),,taxa
+P,363,nannofossils,P,present (1 specimen per >100 fields of view),,taxa
+p,363,nannofossils,P,present (1 specimen per >100 fields of view),,taxa
+P,369,nannofossils,P,present (1 specimen per >100 fields of view),,taxa
+P,340,benthic_forams,P,present (1 specimen),,taxa
+P,339,nannofossils,P,present (abundance not quantitatively determined),,taxa
+P,362,diatoms,P,"present (at least 1 valve observed, including fragments)",,taxa
+X,374,dinoflagellates,P,"present (not defined quantitatively, suggest <10% of palynomorphs)",,taxa
+X,374,palynology,P,"present (not defined quantitatively, suggest <10% of palynomorphs)",,taxa
+X,374,silicoflagellates,P,"present (not defined quantitatively, suggest <10% of palynomorphs)",,taxa
+(X),375,planktic_forams,P,present (present in sample; abundance undetermined),,taxa
+(X),375,benthic_forams,P,present (present in sample; abundance undetermined),,taxa
+x,375,benthic_forams,P,present (present in sample; abundance undetermined),,taxa
+X,375,benthic_forams,P,present (present in sample; abundance undetermined),,taxa
+X,375,bolboformids,P,present (present in sample; abundance undetermined),,taxa
+X,375,planktic_forams,P,present (present in sample; abundance undetermined),,taxa
+P,342,radiolarians,P,present (present but not observed in census),,taxa
+R-F,318,diatoms,R-F,"undefined, ~1 valve per 10 fields of view",,taxa
+R,318,benthic_forams,R,rare (<0.1% of total assemblage),,taxa
+R,318,planktic_forams,R,rare (<0.1% of total assemblage),,taxa
+R,349,nannofossils,R,"rare (<0.1%, or <1 specimen per 10 fields of view)",,taxa
+R,367,nannofossils,R,"rare (<0.1%, or <1 specimen per 10 fields of view)",,taxa
+R,368,nannofossils,R,"rare (<0.1%, or <1 specimen per 10 fields of view)",,taxa
+R,344,nannofossils,R,rare (<1 specimen per 10 fields of view at 1000× magnification),,taxa
+R,320,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,323,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,324,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+r,330,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,330,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,359,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,375,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,342,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R-F,342,nannofossils,R-F,"undefined, ~1 specimen per 10 fields of view",,taxa
+R,355,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,361,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,362,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
+R,342,radiolarians,R,rare (<1% of census),,taxa
+R,371,dinoflagellates,R,rare (<1% of palynomorphs),,taxa
+R,371,palynology,R,rare (<1% of palynomorphs),,taxa
+R,374,dinoflagellates,R,rare (<1% of palynomorphs),,taxa
+R,374,palynology,R,rare (<1% of palynomorphs),,taxa
+R,353,planktic_forams,R,rare (<1% of the planktonic foraminiferal assemblage),,taxa
+r,320,radiolarians,R,rare (<10 specimens per slide),,taxa
+R,320,radiolarians,R,rare (<10 specimens per slide),,taxa
+R,321,radiolarians,R,rare (<10 specimens per slide),,taxa
+R,321,silicoflagellates,R,rare (<10 specimens per slide),,taxa
+R,339,palynology,R,rare (<100/cm3),,taxa
+r,346,diatoms,R,rare (<2 valves in two slide transects),,taxa
+R,346,diatoms,R,rare (<2 valves in two slide transects),,taxa
+R,362,planktic_forams,R,rare (<5 specimens),,taxa
+R,374,diatoms,R,rare (<5 valves per traverse),,taxa
+r,354,planktic_forams,R,rare (<5% of the assemblage),,taxa
+R,354,planktic_forams,R,rare (<5% of the assemblage),,taxa
+r,349,radiolarians,R,rare (<5% of the total sample),,taxa
+R,349,radiolarians,R,rare (<5% of the total sample),,taxa
+R,320,planktic_forams,R,rare (>1% to <5% of foraminifer assemblage),,taxa
+R,321,planktic_forams,R,rare (>1% to <5% of foraminifer assemblage),,taxa
+R,323,planktic_forams,R,rare (>1% to <5% of foraminifer assemblage),,taxa
+R,374,benthic_forams,R,rare (>1%–5% of species on the tray),,taxa
+R,374,planktic_forams,R,rare (>1%–5% of species on the tray),,taxa
+R,340,benthic_forams,R,rare (>1–5 specimens),,taxa
+R,346,nannofossils,R,rare (≤1 specimen per 10 fields of view),,taxa
+R,321,diatoms,R,rare (≤1 valve per counted transect),,taxa
+R,368,diatoms,R,rare (≤1 valve per counted transect),,taxa
+R,355,radiolarians,R,rare (≤5% of the total sample),,taxa
+R,362,diatoms,R,rare (≥2 valves per traverse of coverslip),,taxa
+R,318,diatoms,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,taxa
+R,318,silicoflagellates,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,taxa
+R,361,diatoms,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,taxa
+R,361,radiolarians,R,rare (≥3 valves per traverse and <1 valve per 10 fields of view),,taxa
+R,341,diatoms,R,rare (≥3 valves per traverse of coverslip and <1 valve per 10 fields of view),,taxa
+R,353,diatoms,R,rare (≥3 valves per traverse of coverslip and <1 valve per 10 fields of view),,taxa
+R,346,radiolarians,R,rare (0.2%–1% of the radiolarian assemblage),,taxa
+R,374,nannofossils,R,rare (1 or more specimens/traverse of a 30 mm cover glass),,taxa
+R,350,nannofossils,R,rare (1 specimen per >10 fields of view),,taxa
+R (2),350,nannofossils,R,rare (1 specimen per >10 fields of view),,taxa
+R,351,nannofossils,R,rare (1 specimen per >10 fields of view),,taxa
+R,354,nannofossils,R,rare (1 specimen per >10 fields of view at 1000× magnification),,taxa
+R,339,nannofossils,R,rare (1 specimen per ≥11 fields of view),,taxa
+R,356,nannofossils,R,rare (1 specimen per 11–100 fields of view at 1000× magnification),,taxa
+r,363,nannofossils,R,rare (1 specimen per 11–100 fields of view),,taxa
+R,363,nannofossils,R,rare (1 specimen per 11–100 fields of view),,taxa
+R,369,nannofossils,R,rare (1 specimen per 11–100 fields of view),,taxa
+R,353,nannofossils,R,rare (1 specimen per 11–100 fields of view at 1000× magnification),,taxa
+R,340,nannofossils,R,rare (1 specimen per 101–1000 fields of view),,taxa
+R,374,radiolarians,R,rare (1 specimen per 5–30 fields of view),,taxa
+R,351,radiolarians,R,rare (1% or less of slide),,taxa
+R,352,nannofossils,R,rare (1% or less of slide),,taxa
+R,346,benthic_forams,R,rare (1% to <5% of foraminiferal assemblage),,taxa
+R,346,planktic_forams,R,rare (1% to <5% of foraminiferal assemblage),,taxa
+r,346,planktic_forams,R,rare (1% to <5% of foraminiferal assemblage),,taxa
+R,359,benthic_forams,R,rare (1%−10% of the assemblage),,taxa
+R,359,planktic_forams,R,rare (1%−10% of the assemblage),,taxa
+R,356,benthic_forams,R,rare (1%−5% benthic foraminifer specimens in total assemblage),,taxa
+R,349,planktic_forams,R,rare (1%–5% of ~400 specimens),,taxa
+R,367,planktic_forams,R,rare (1%−5% of the assemblage),,taxa
+R,368,planktic_forams,R,rare (1%−5% of the assemblage),,taxa
+R,361,benthic_forams,R,rare (1%–5% of the benthic foraminifer assemblage),,taxa
+R,361,planktic_forams,R,rare (1%–5% of the planktonic foraminifer assemblage),,taxa
+R,363,planktic_forams,R,rare (1%–5% of the planktonic foraminifer assemblage),,taxa
+R,369,planktic_forams,R,rare (1%–5% of the planktonic foraminiferal assemblage),,taxa
+R,355,planktic_forams,R,rare (1%-5% of the total planktonic foraminifer assemblage),,taxa
+R,350,benthic_forams,R,rare (1%-5% of total assemblage),,taxa
+R,350,planktic_forams,R,rare (1%-5% of total assemblage),,taxa
+R,341,benthic_forams,R,rare (1%–5% of total assemblage),,taxa
+R,341,planktic_forams,R,rare (1%–5% of total assemblage),,taxa
+R,351,benthic_forams,R,rare (1%-5% of total biogenic assemblage),,taxa
+R,351,planktic_forams,R,rare (1%-5% of total biogenic assemblage),,taxa
+R,356,planktic_forams,R,rare (1%−5% planktonic foraminifer specimens in total assemblage),,taxa
+R,340,planktic_forams,R,rare (1%-5%),,taxa
+R,330,planktic_forams,R,rare (1%–5%),,taxa
+R,339,benthic_forams,R,rare (1%–5%),,taxa
+R,339,planktic_forams,R,rare (1%–5%),,taxa
+R,341,radiolarians,R,rare (1–5 specimens per 300 counts),,taxa
+R,371,planktic_forams,R,rare (2%–9% species on the tray),,taxa
+R,324,benthic_forams,R,rare (2–3 specimens),,taxa
+R,324,planktic_forams,R,rare (2–3 specimens),,taxa
+R,342,planktic_forams,R,rare (2–9 specimens on the tray),,taxa
+(R),375,planktic_forams,R,rare (foraminifers compose <1% of the washed sample),,taxa
+R,375,benthic_forams,R,rare (foraminifers compose <1% of the washed sample),,taxa
+R,375,planktic_forams,R,rare (foraminifers compose <1% of the washed sample),,taxa
+rw,374,ebridians,*,reworked,,taxa
+*,374,nannofossils,*,reworked (presence of species interpreted as reworked),,taxa
+*,350,nannofossils,*,reworked,,taxa
+*,351,nannofossils,*,reworked,,taxa
+*,352,nannofossils,*,reworked,,taxa
+*,354,nannofossils,*,reworked,,taxa
+*,355,nannofossils,*,reworked,,taxa
+*,375,nannofossils,*,reworked,,taxa
+P*,350,planktic_forams,P*,"reworked, present (<1% of total assemblage)",,taxa
+RRW?,371,nannofossils,R*,"reworked, rare (<1 specimen per 10 fields of view)",,taxa
+R*,350,nannofossils,R*,"reworked, rare (1 specimen per >10 fields of view)",,taxa
+T*,350,planktic_forams,X*,"reworked, trace (<0.1% of total assemblage)",,taxa
+T,350,planktic_forams,X,trace (<0.1% of total assemblage),,taxa
+X,374,diatoms,X,trace (<1 valve per traverse or fragments noted),,taxa
+X,318,chrysophyte_cysts,X,"trace (<3 valves per traverse, including fragments)",,taxa
+(X),318,diatoms,X,"trace (<3 valves per traverse, including fragments)",,taxa
+T,318,diatoms,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X,318,diatoms,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X-R,318,diatoms,X,"trace (<3 valves per traverse, including fragments)",,taxa
+T,318,dinoflagellates,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X,318,ebridians,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X,318,silicoflagellates,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X,355,diatoms,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X,361,diatoms,X,"trace (<3 valves per traverse, including fragments)",,taxa
+X,361,radiolarians,X,"trace (<3 valves per traverse, including fragments)",,taxa
+T,324,benthic_forams,X,trace (≤1 specimens),,taxa
+T,324,planktic_forams,X,trace (≤1 specimens),,taxa
+T,318,palynology,X,trace (qualitative),,taxa
+!,342,nannofossils,!,"undefined, suggest 1 individual",,taxa
+F/C,371,nannofossils,F-C,"undefined, suggest ~1 specimen per 1 fields of view",,taxa
+2RW,371,nannofossils,2*,"undefined, suggest reworked, 2 individuals",,taxa
+1RW,371,nannofossils,1*,"undefined, suggest reworked individual",,taxa
+P,359,nannofossils,P,"undefined, suggest ~1 specimen per 1-10 fields of view",,taxa
+P,361,nannofossils,P,"undefined, suggest ~1 specimen per 1-10 fields of view",,taxa
+P,362,nannofossils,P,"undefined, suggest ~1 specimen per 1-10 fields of view",,taxa
+F-R,355,diatoms,F-R,"undefined, suggest ~1 valves per 10 fields of view",,taxa
+C,361,planktic_forams,C,"undefined, suggest 10%-20% of planktonic foraminifer assemblage",,taxa
+F/R,371,nannofossils,F-R,"undefined, suggest ~1 specimen per 10 fields of view",,taxa
+R/F,371,nannofossils,F-R,"undefined, suggest ~1 specimen per 10 fields of view",,taxa
+F-R,371,palynology,F-R,"undefined, suggest ~1% of palynomorphs",,taxa
+F-C,371,dinoflagellates,F-C,"undefined, suggest ~10% of palynomorphs",,taxa
+F-C,371,palynology,F-C,"undefined, suggest ~10% of palynomorphs",,taxa
+A-D,371,palynology,A-D,"undefined, suggest ~90% of palynomorphs",,taxa
+P,320,radiolarians,P,"undefined, suggest <1 specimen per slide",,taxa
+P,346,planktic_forams,P,"undefined, suggest <1% of foraminiferal assemblage",,taxa
+P,371,palynology,P,"undefined, suggest <1% of palynomorphs",,taxa
+T,371,palynology,X,"undefined, suggest <1% of palynomorphs",,taxa
+fr,374,nannofossils,F,"undefined, suggest >1 specimen/traverse of a 30 mm coverglass",,taxa
+D,371,benthic_forams,D,"undefined, suggest >50% of species on the tray",,taxa
+S,342,nannofossils,S,"undefined, suggest abundant (>10 specimens per field of view)",,taxa
+A,343,radiolarians,A,"undefined, suggest abundant (>20 specimens per 300 counts)",,taxa
+S,342,planktic_forams,S,"undefined, suggest abundant (>50 specimens on the tray)",,taxa
+B,355,planktic_forams,B,barren,,taxa
+C,368,planktic_forams,C,"undefined, suggest common (~10% of the assemblage)",,taxa
+C,355,planktic_forams,C,"undefined, suggest common (~10% of the total planktonic foraminifer assemblage)",,taxa
+C,343,radiolarians,C,"undefined, suggest common (10–20 specimens per 300 counts)",,taxa
+D,342,planktic_forams,D,"undefined, suggest dominant (>30% of sediment particles)",,taxa
+D,356,planktic_forams,D,"undefined, suggest dominant (>50% planktonic foraminifer specimens in total assemblage)",,taxa
+D,346,diatoms,D,"undefined, suggest dominant (>60% diatoms)",,taxa
+E,321,radiolarians,E,"undefined, suggest few (>10–100 specimens per slide)",,taxa
+E,320,radiolarians,E,"undefined, suggest few (>10–100 specimens per slide)",,taxa
+V,352,nannofossils,V,"undefined, suggest few (1%-5% of foraminiferal assemblage)",,taxa
+VF,352,nannofossils,VF,"undefined, suggest few (1%-5% of foraminiferal assemblage)",,taxa
+E,342,planktic_forams,E,"undefined, suggest few (10–19 specimens on the tray)",,taxa
+F,343,radiolarians,F,"undefined, suggest few (5–10 specimens per 300 counts)",,taxa
+FO,361,benthic_forams,FO,"undefined, suggest first occurrence. No quantitative abundance info",,taxa
+Freq,346,nannofossils,Freq,"undefined, suggest frequent (1 specimen per 1–10 fields of view at 1000× magnification)",,taxa
+R,342,benthic_forams,R,"undefined, suggest from group abundance rare (>1% to <5% of total sediment particles)",,taxa
+atlantic,363,nannofossils,atlantic,"undefined, suggest occurrence of specific geographic type",,taxa
+P,356,radiolarians,P,"undefined, suggest present (<1% of radiolarian specimens in total assemblage)",,taxa
+L,359,planktic_forams,L,"undefined, suggest present (<1% of the assemblage)",,taxa
+X,361,planktic_forams,X,"undefined, suggest present (<1% of the planktonic foraminifer assemblage)",,taxa
+x,363,planktic_forams,X,"undefined, suggest present (<1% of the planktonic foraminifer assemblage)",,taxa
+**,363,nannofossils,**,"undefined, suggest present (1 specimen per >100 fields of view)",,taxa
+X,363,nannofossils,X,"undefined, suggest present (1 specimen per >100 fields of view)",,taxa
+x,363,nannofossils,X,"undefined, suggest present (1 specimen per >100 fields of view)",,taxa
+y,363,nannofossils,Y,"undefined, suggest present (1 specimen per >100 fields of view)",,taxa
+X lcYES,363,nannofossils,X,"undefined, suggest present (1 specimen per >100 fields of view) and last common",,taxa
+?,363,nannofossils,?,"undefined, suggest questionable",,taxa
+S,321,radiolarians,S,"undefined, suggest rare (<10 specimens per slide)",,taxa
+T,321,diatoms,T,"undefined, suggest rare (≤1 valve per counted transect)",,taxa
+P,346,benthic_forams,P,"undefined, suggest rare (1% to <5% of foraminiferal assemblage)",,taxa
+R,343,radiolarians,R,"undefined, suggest rare (1–5 specimens per 300 counts)",,taxa
+F,356,radiolarians,F,"undefined, suggest rare (5%–10% radiolarian specimens in total assemblage)",,taxa
+*,339,nannofossils,*,"undefined, suggest reworked",,taxa
+*,344,nannofossils,*,"undefined, suggest reworked",,taxa
+*,346,nannofossils,*,"undefined, suggest reworked",,taxa
+*,354,planktic_forams,*,"undefined, suggest reworked",,taxa
+re,371,nannofossils,re,"undefined, suggest reworked",,taxa
+rw,369,planktic_forams,rw,"undefined, suggest reworked",,taxa
+rw,374,diatoms,rw,"undefined, suggest reworked",,taxa
+Rrw,369,planktic_forams,Rrw,"undefined, suggest reworked rare (1%-5% of planktonic foraminiferal assembalge)",,taxa
+P,371,radiolarians,P,"undefined, suggest trace (1–10 specimens per slide)",,taxa
+p,371,radiolarians,P,"undefined, suggest trace (1–10 specimens per slide)",,taxa
+.,374,diatoms,.,"undefined, suggest typo, barren",,taxa
+`,342,nannofossils,`,"undefined, suggest typo, barren",,taxa
+V,355,nannofossils,V,"undefined, suggest very abundant (>100 specimens per fields of view)",,taxa
+P,356,planktic_forams,P,"undefined, suggest very rare (<1% planktonic foraminifer specimens in total assemblage)",,taxa
+P,342,nannofossils,P,"undefined, suggest very rare (<5 specimens seen while logging slide)",,taxa
+VA,339,nannofossils,VA,"undefined, suggest dominant (>20 specimens per field of view)",,taxa
+V,356,nannofossils,VA,very abundant (>100 specimens per field of view at 1000× magnification),,taxa
+V,353,nannofossils,VA,very abundant (>100 specimens per field of view at 1000× magnification),,taxa
+V,350,nannofossils,VA,very abundant (>100 specimens per field of view),,taxa
+V,354,nannofossils,VA,very abundant (>100 specimens per field of view at 1000× magnification),,taxa
+v,363,nannofossils,VA,very abundant (>100 specimens per field of view),,taxa
+V,363,nannofossils,VA,very abundant (>100 specimens per field of view),,taxa
+V,369,nannofossils,VA,very abundant (>100 specimens per field of view),,taxa
+VF,350,nannofossils,VF,very few (1 specimen per 2–10 fields of view),,taxa
+VF,354,nannofossils,VF,very few (1 specimen per 2–10 fields of view at 1000× magnification),,taxa
+VR,374,nannofossils,VR,very rare (<1 specimen per traverse),,taxa
+VR,371,nannofossils,VR,very rare (<5 specimens seen while logging slide),,taxa
+R,371,nannofossils,R,rare (<1 specimen per 10 fields of view),,taxa
