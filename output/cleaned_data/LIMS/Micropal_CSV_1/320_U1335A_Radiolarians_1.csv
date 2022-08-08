@@ -1,39 +1,39 @@
 Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name [short],Abundance,Preservation,Mixing,Stylatractus universus,Collosphaera tuberosa,Lamprocyrtis neoheteroporos,Anthocyrtidium angulare,Lamprocyrtis nigriniae,Theocorythium vetulum,Lamprocyrtis heteroporos,Theocorythium trachelium,Pterocorys minythorax,Pterocanium prismatium,Didymocyrtis avita,Anthocyrtidium jenghisi,Theocalyptra davisiana,Stichocorys peregrina,Anthocyrtidium pliocenica,Phormostichoartus fistula,Lychnodictyum audax,Spongaster pentas,Phormostichoartus doliolum,Amphirhopalum ypsilon,Didymocyrtis penultima,Spongaster tetras,Nephrospyris renilla,Solenosphaera omnitubus,Spongaster berminghami,Didymocyrtis antepenultima,Stichocorys johnsoni,Calocycletta caepa,Didymocyrtis tetrathalamus,Stichocorys delmontensis,Acrobotrys tritubus,Stylosphaera sp. C,Acrobotris tritubus,Diartus hughesi,Didymocyrtis laticonus,Botryostrobus miralestensis,Diartus petterssoni,Stichocorys wolffii,Cladococcus abietinus,Stauroxiphos communis,Cyrtocapsella japonica,Carpocanopsis cristata,Lithopera neotera,Cyrtocapsella cornuta,Dorcadospyris alata,Cyrtocapsella tetrapera,Lithopera renzae,Comments,File data,,eodp_id
-320-U1335A-1H-2-W,320,U1335,A,1,1-2,H,2,W,,103,105,2.53,2.55,RN14,A,G,2,,,,,,,vR,F,R,,,,R,,,,,,,R,,R,R,,,,,,R,vR,,,,,,,,,,,,,,,,,,COMMON DIATOMS,,,2a8611c1b453a3b0c1f95863069c9fae
+320-U1335A-1H-2-W,320,U1335,A,1,1-2,H,2,W,,103,105,2.53,2.55,RN14,A,G,2,,,,,,,VR,F,R,,,,R,,,,,,,R,,R,R,,,,,,R,VR,,,,,,,,,,,,,,,,,,COMMON DIATOMS,,,2a8611c1b453a3b0c1f95863069c9fae
 320-U1335A-1H-4-W,320,U1335,A,1,1-4,H,4,W,,103,105,5.53,5.55,RN14,A,G,2,,,,,R,,,,,,,,R,,,,,,,R,,R,R,,,,,,R,,,,,,,,,,,,,,,,,,,COMMON DIATOMS,,,0e9ed13bf97ab7027de8eb5676d7e49c
-320-U1335A-1H-CC-PAL-RADS,320,U1335,A,1,1-CC,H,CC,PAL,RADS,0,0,8.81,8.81,RN13,A,G,3,,,R,R,,,R,R,,,,,R,vR,,vR,,,,R,,R,R,,,,,,R,,,,,,,,,,,,,,,,,,,,,,eae32f6fd3415df679c6fcc14f1d14cf
-320-U1335A-2H-2-W 38/40,320,U1335,A,2,2-2,H,2,W,38/40,38,40,11.16,11.18,RN12,C,M,2,,,,,,R,,,,F,,,R,,R,,,,,R,,R,R,,,,,,R,,,,,,,,,,,R,,vR,,,,,,,,,87c32d0d779512da85cb3d6feb8ca411
-320-U1335A-2H-4-W 38/40,320,U1335,A,2,2-4,H,4,W,38/40,38,40,14.16,14.18,RN12,C,M,2,,,vR,,,R,,,,F,,R,,,,,,,,R,,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,,8788b7d4dfbad5e5ce15419be333ba0b
-320-U1335A-2H-CC-PAL-RADS,320,U1335,A,2,2-CC,H,CC,PAL,RADS,0,0,18.85,18.85,RN11,A,G,3,,,,,,R,,,,R,R,R,,C,,vR,,,,,vR,R,R,,,,,,R,,,,,,,vR,,,,,,,,,,,,,,,414d5a422d3b8c931fd698a0bea58116
-320-U1335A-3H-2-W 105/107,320,U1335,A,3,3-2,H,2,W,105/107,105,107,22,22.02,RN10,C,M,3,,,,,,,,,,R,R,,,C,,,,R,R,,R,,R,,,,vR,R,R,R,,,,R,,R,,,R,,,,,,,,,,,,b33c6402b4a52ba62790b85be6af909b
-320-U1335A-3H-CC-PAL-RADS,320,U1335,A,3,3-CC,H,CC,PAL,RADS,0,0,28.13,28.13,RN9,A,G,2,,,,,,R,,,,,R,R,,C,,vR,,R,R,,R,,R,R,,,,,R,,,,,,,,,,R,,,,,,,,,DIATOMS,,,1fffcc66a2aa74a643f922e8ef04e32a
-320-U1335A-4H-2-W 100/102,320,U1335,A,4,4-2,H,2,W,100/102,100,102,31.4,31.42,RN9,C,M,2,,,,,,R,,,,,R,,,F,,R,R,R,R,,F,,,F,R,,vR,,,F,,,,,,,,,,,vR,,vR,,,,,DIATOMS,,,e5c4b8f3dcbca2acf67f8f16977967bf
-320-U1335A-4H-4-W,320,U1335,A,4,4-4,H,4,W,,100,102,33.4,33.42,RN9,A,G,1,,,,,,R,,,,,R,,,F,,vR,R,R,vR,,F,,,F,,,vR,,,F,,,,,,,,,R,,vR,,vR,,,,,DIATOMS,,,131e021e8692f10397a43ed81dbc22c9
-320-U1335A-4H-CC-PAL-RADS,320,U1335,A,4,4-CC,H,CC,PAL,RADS,0,0,37.8,37.8,RN9,A,G,,,,,,,R,,,,,R,,,F,,,R,,vR,,R,,,R,R,,R,R,,F,R,,R,,,,,,,,,,,,,,,COMMON DIATOMS,,,be173278581b776dab305561903ae97a
+320-U1335A-1H-CC-PAL-RADS,320,U1335,A,1,1-CC,H,CC,PAL,RADS,0,0,8.81,8.81,RN13,A,G,3,,,R,R,,,R,R,,,,,R,VR,,VR,,,,R,,R,R,,,,,,R,,,,,,,,,,,,,,,,,,,,,,eae32f6fd3415df679c6fcc14f1d14cf
+320-U1335A-2H-2-W 38/40,320,U1335,A,2,2-2,H,2,W,38/40,38,40,11.16,11.18,RN12,C,M,2,,,,,,R,,,,F,,,R,,R,,,,,R,,R,R,,,,,,R,,,,,,,,,,,R,,VR,,,,,,,,,87c32d0d779512da85cb3d6feb8ca411
+320-U1335A-2H-4-W 38/40,320,U1335,A,2,2-4,H,4,W,38/40,38,40,14.16,14.18,RN12,C,M,2,,,VR,,,R,,,,F,,R,,,,,,,,R,,,,,,,,,R,,,,,,,,,,,R,,,,,,,,,,,8788b7d4dfbad5e5ce15419be333ba0b
+320-U1335A-2H-CC-PAL-RADS,320,U1335,A,2,2-CC,H,CC,PAL,RADS,0,0,18.85,18.85,RN11,A,G,3,,,,,,R,,,,R,R,R,,C,,VR,,,,,VR,R,R,,,,,,R,,,,,,,VR,,,,,,,,,,,,,,,414d5a422d3b8c931fd698a0bea58116
+320-U1335A-3H-2-W 105/107,320,U1335,A,3,3-2,H,2,W,105/107,105,107,22,22.02,RN10,C,M,3,,,,,,,,,,R,R,,,C,,,,R,R,,R,,R,,,,VR,R,R,R,,,,R,,R,,,R,,,,,,,,,,,,b33c6402b4a52ba62790b85be6af909b
+320-U1335A-3H-CC-PAL-RADS,320,U1335,A,3,3-CC,H,CC,PAL,RADS,0,0,28.13,28.13,RN9,A,G,2,,,,,,R,,,,,R,R,,C,,VR,,R,R,,R,,R,R,,,,,R,,,,,,,,,,R,,,,,,,,,DIATOMS,,,1fffcc66a2aa74a643f922e8ef04e32a
+320-U1335A-4H-2-W 100/102,320,U1335,A,4,4-2,H,2,W,100/102,100,102,31.4,31.42,RN9,C,M,2,,,,,,R,,,,,R,,,F,,R,R,R,R,,F,,,F,R,,VR,,,F,,,,,,,,,,,VR,,VR,,,,,DIATOMS,,,e5c4b8f3dcbca2acf67f8f16977967bf
+320-U1335A-4H-4-W,320,U1335,A,4,4-4,H,4,W,,100,102,33.4,33.42,RN9,A,G,1,,,,,,R,,,,,R,,,F,,VR,R,R,VR,,F,,,F,,,VR,,,F,,,,,,,,,R,,VR,,VR,,,,,DIATOMS,,,131e021e8692f10397a43ed81dbc22c9
+320-U1335A-4H-CC-PAL-RADS,320,U1335,A,4,4-CC,H,CC,PAL,RADS,0,0,37.8,37.8,RN9,A,G,,,,,,,R,,,,,R,,,F,,,R,,VR,,R,,,R,R,,R,R,,F,R,,R,,,,,,,,,,,,,,,COMMON DIATOMS,,,be173278581b776dab305561903ae97a
 320-U1335A-5H-2-W 100/102,320,U1335,A,5,5-2,H,2,W,100/102,100,102,40.9,40.92,RN8,A,G,,,,,,,,,,,,,,,R,,,R,,R,,F,,,R,R,,R,F,,F,R,,R,,,,,,,,,,,,,,,,,,f174f36e8100a3efadf6540e3cae58e3
 320-U1335A-5H-4-W 100/102,320,U1335,A,5,5-4,H,4,W,100/102,100,102,43.9,43.92,RN8,A,G,1,,,,,,,,,,,,,,,,,R,,,,R,,,R,R,R,R,F,,F,R,,R,,,,,,R,,,,,,,,,,,,18c9ef897a7bb7405cf3eeedf94a5390
 320-U1335A-5H-CC-PAL-RADS,320,U1335,A,5,5-CC,H,CC,PAL,RADS,0,0,46.45,46.45,RN7,A,G,,,,,,,,,,,,,,,,,,R,R,,,R,,,,R,R,R,F,,C,R,,R,F,,,,,R,,,,,,,,,COMMON DIATOMS,,,a36ed1b2f4cf6d207d77d1e8d69b54e9
-320-U1335A-6H-2-W 105/107,320,U1335,A,6,6-2,H,2,W,105/107,105,107,50.5,50.52,RN7,A,G,,,,,,,,,,,,,,,,,,R,,R,,vR,,,,R,F,R,F,,C,R,,R,F,,,,,R,,,,,,,,,,,,a30a784dbf0f33b323e9d231290acb69
+320-U1335A-6H-2-W 105/107,320,U1335,A,6,6-2,H,2,W,105/107,105,107,50.5,50.52,RN7,A,G,,,,,,,,,,,,,,,,,,R,,R,,VR,,,,R,F,R,F,,C,R,,R,F,,,,,R,,,,,,,,,,,,a30a784dbf0f33b323e9d231290acb69
 320-U1335A-6H-4-W 105/107,320,U1335,A,6,6-4,H,4,W,105/107,105,107,53.5,53.52,RN7,A,G,,,,,,,,,,,,,,,,,,R,,R,,,,,,,F,R,F,,C,,,,F,R,R,R,,,,,,,,,,,,,,95ff4362bf8263af35461f41c21b9330
 320-U1335A-6H-CC-PAL-RADS,320,U1335,A,6,6-CC,H,CC,PAL,RADS,0,0,56.45,56.45,RN7,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,R,F,R,F,,C,,,,F,R,R,R,,,,,,,,,,,COMMON DIATOMS,,,b41ed10efe73bfd46b764abd37ff969f
-320-U1335A-7H-2-W,320,U1335,A,7,7-2,H,2,W,,102,104,58.92,58.94,RN6,C,M,1,,,,,,,,,,,,,,,,,R,,,,,,,,,R,,R,,C,,,,,F,R,F,R,,,vR,,vR,,,,,,,,06964ae48b540b771ec81652c2eab48d
-320-U1335A-7H-4-W,320,U1335,A,7,7-4,H,4,W,,102,104,61.92,61.94,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,C,,,,,F,F,F,R,,,R,,vR,,,vR,,,,,e5d075218e5ceec911cd87c90b6a42ef
+320-U1335A-7H-2-W,320,U1335,A,7,7-2,H,2,W,,102,104,58.92,58.94,RN6,C,M,1,,,,,,,,,,,,,,,,,R,,,,,,,,,R,,R,,C,,,,,F,R,F,R,,,VR,,VR,,,,,,,,06964ae48b540b771ec81652c2eab48d
+320-U1335A-7H-4-W,320,U1335,A,7,7-4,H,4,W,,102,104,61.92,61.94,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,C,,,,,F,F,F,R,,,R,,VR,,,VR,,,,,e5d075218e5ceec911cd87c90b6a42ef
 320-U1335A-7H-CC-PAL-RADS,320,U1335,A,7,7-CC,H,CC,PAL,RADS,0,0,66.24,66.24,RN6,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,C,,,,,F,R,R,R,,,F,R,R,,,,,DIATOMS,,,7e187742f13261751b14d42b3102e01a
-320-U1335A-8H-2-W 103/105,320,U1335,A,8,8-2,H,2,W,103/105,103,105,69.46,69.48,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,C,,,,,F,R,R,R,,,F,vR,R,vR,,vR,,,,,bf0f781140d789501c346b59e85161db
-320-U1335A-8H-4-W 105/107,320,U1335,A,8,8-4,H,4,W,105/107,105,107,72.5,72.52,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,F,,,,,F,R,R,R,,,F,R,R,,,,vR,DIATOMS; SPINES,,,f6007a244b18e4c7c364d9ac03061c99
+320-U1335A-8H-2-W 103/105,320,U1335,A,8,8-2,H,2,W,103/105,103,105,69.46,69.48,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,C,,,,,F,R,R,R,,,F,VR,R,VR,,VR,,,,,bf0f781140d789501c346b59e85161db
+320-U1335A-8H-4-W 105/107,320,U1335,A,8,8-4,H,4,W,105/107,105,107,72.5,72.52,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,F,,,,,F,R,R,R,,,F,R,R,,,,VR,DIATOMS; SPINES,,,f6007a244b18e4c7c364d9ac03061c99
 320-U1335A-8H-CC-PAL-RADS,320,U1335,A,8,8-CC,H,CC,PAL,RADS,0,0,75.86,75.86,RN6,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,F,,,,,F,R,R,R,,,R,R,R,,,,,COMMON DIATOMS,,,71d2cc35ce557d7a141b34ce55ee2169
-320-U1335A-9H-2-W 120/122,320,U1335,A,9,9-2,H,2,W,120/122,120,122,79.3,79.32,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,F,,,,,F,R,R,R,,,R,R,R,vR,,vR,vR,COMMON DIATOMS; SPINES,,,58b676df6d58e8fab3c47d6731db6bc4
+320-U1335A-9H-2-W 120/122,320,U1335,A,9,9-2,H,2,W,120/122,120,122,79.3,79.32,RN6,A,G,1,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,F,,,,,F,R,R,R,,,R,R,R,VR,,VR,VR,COMMON DIATOMS; SPINES,,,58b676df6d58e8fab3c47d6731db6bc4
 320-U1335A-9H-4-W 105/107,320,U1335,A,9,9-4,H,4,W,105/107,105,107,82,82.02,RN6,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,F,,,,,F,R,R,R,,,R,R,F,,R,,R,,,,2caa362d4cabaa065dc1a88a763d1708
-320-U1335A-9H-CC-PAL-RADS,320,U1335,A,9,9-CC,H,CC,PAL,RADS,0,0,85.02,85.02,RN6,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,R,,,,,F,R,R,R,,,R,R,vR,F,R,R,R,,,,891c2a96586450734551aca7862257c2
+320-U1335A-9H-CC-PAL-RADS,320,U1335,A,9,9-CC,H,CC,PAL,RADS,0,0,85.02,85.02,RN6,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,R,,,,,F,R,R,R,,,R,R,VR,F,R,R,R,,,,891c2a96586450734551aca7862257c2
 320-U1335A-10H-2-W 105/107,320,U1335,A,10,10-2,H,2,W,105/107,105,107,88.5,88.52,RN6,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,R,,,,,F,R,R,R,,,R,,R,R,R,R,R,,,,d435fd35160b688f8faf8d93f8349b8b
 320-U1335A-10H-4-W 105/107,320,U1335,A,10,10-4,H,4,W,105/107,105,107,91.5,91.52,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,R,,,,,F,R,,R,,,R,R,,R,,R,R,COMMON DIATOMS; SPINES,,,8d5b846229712ce44137b695b1ee803d
-320-U1335A-10H-CC-PAL-RADS,320,U1335,A,10,10-CC,H,CC,PAL,RADS,0,0,94.94,94.94,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,R,,,,,F,R,,vR,,,R,R,vR,F,,F,F,,,,11b7b34ad937b34fbb59e7e1ed5a09ff
+320-U1335A-10H-CC-PAL-RADS,320,U1335,A,10,10-CC,H,CC,PAL,RADS,0,0,94.94,94.94,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,R,,,,,F,R,,VR,,,R,R,VR,F,,F,F,,,,11b7b34ad937b34fbb59e7e1ed5a09ff
 320-U1335A-11H-2-W,320,U1335,A,11,11-2,H,2,W,,149,150,97.39,97.4,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,F,,,,,F,R,,R,,,,R,,R,,F,R,,,,91dce498d7326a49357d4346ba406f89
-320-U1335A-11H-2-W 104/106,320,U1335,A,11,11-2,H,2,W,104/106,104,106,97.98,98,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,F,,,,,F,R,,R,,,,R,,F,vR,F,R,,,,066c66dd0948d970afb26b4070501c9b
-320-U1335A-11H-4-W 104/106,320,U1335,A,11,11-4,H,4,W,104/106,104,106,100.98,101,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,F,,,,,F,R,,R,,,,,,R,vR,F,R,,,,5c709c921fc906d04c4be3f0fcbaccf9
+320-U1335A-11H-2-W 104/106,320,U1335,A,11,11-2,H,2,W,104/106,104,106,97.98,98,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,F,,,,,F,R,,R,,,,R,,F,VR,F,R,,,,066c66dd0948d970afb26b4070501c9b
+320-U1335A-11H-4-W 104/106,320,U1335,A,11,11-4,H,4,W,104/106,104,106,100.98,101,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,F,,,,,F,R,,R,,,,,,R,VR,F,R,,,,5c709c921fc906d04c4be3f0fcbaccf9
 320-U1335A-11H-CC-RADS,320,U1335,A,11,11-CC,H,CC,RADS,,0,0,103.82,103.82,RN5,A,G,,R,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,R,,,,,F,R,,R,,,,R,,R,,R,R,,,,19f662a23ca35d199b793eff9c3b141e
 320-U1335A-12H-2-W 104/106,320,U1335,A,12,12-2,H,2,W,104/106,104,106,107.48,107.5,RN5,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,F,,,,,R,R,,,,,,,,R,,R,,C. bramlettei,,,b8ebcd23e413b3c7f1feae5134883707
 320-U1335A-12H-3-W,320,U1335,A,12,12-3,H,3,W,,149,150,108.39,108.4,RN5,A,G,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,R,,F,,,,,R,R,,R,,,,R,,F,R,R,R,,,,08f3cd367a7c807395cc0ef46756cfd6
 320-U1335A-12H-4-W 104/106,320,U1335,A,12,12-4,H,4,W,104/106,104,106,110.48,110.5,RN5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e4b529b2be7f1b59c10cb04530f361ef
 320-U1335A-12H-CC-PAL-RADS,320,U1335,A,12,12-CC,H,CC,PAL,RADS,0,0,113.84,113.84,RN5,A,G,,R,,,,,,,,,,,,,,,,R,,,,,,,,,,,F,,R,,,,,F,R,,R,,,,R,,F,,F,,,,,527ee285988a16d267be9be6aed04222
-320-U1335A-34H-4-W,320,U1335,A,34,34-4,H,4,W,,105,107,317.05,317.07,RN10,A,G,2,,,,,,,,,,R,R,R,,C,,vR,,R,R,,R,,,,,,,,R,R,,,,,,,,,R,,,,,,,,,,,,00ef6d66ddea8bbcb2a24e16516bc305
+320-U1335A-34H-4-W,320,U1335,A,34,34-4,H,4,W,,105,107,317.05,317.07,RN10,A,G,2,,,,,,,,,,R,R,R,,C,,VR,,R,R,,R,,,,,,,,R,R,,,,,,,,,R,,,,,,,,,,,,00ef6d66ddea8bbcb2a24e16516bc305

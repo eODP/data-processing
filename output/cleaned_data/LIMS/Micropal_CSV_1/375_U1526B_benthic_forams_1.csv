@@ -1,5 +1,5 @@
 Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
-375-U1526B-1H-1-W 6/8-CRUN,0,2,0.06,0.08,G-M,,,,,,,X,,,,,,,,,,,,,,,,,375,U1526,B,1,H,1,W,4e1ed86f2e4c0327153c0f0ddfb57870
-375-U1526B-1H-CC-PAL-FORAM,0,10,5.71,5.81,VG,,,,,,,X,,,,,,,,,X,X,,,,,,,375,U1526,B,1,H,CC,PAL,c91e98aa99ab745f1c1dcf84358f0662
-375-U1526B-2H-CC-PAL-FORAM,0,7,14.3,14.37,VG,,,,,,,,,,,,,,,,,X,,,,,,,375,U1526,B,2,H,CC,PAL,d740c4b341a454fb0106cc22d6862f91
-375-U1526B-3H-CC-PAL-FORAM,0,7,24.09,24.16,,,,,,,,,,,,,,,,,,X,,,,,,,375,U1526,B,3,H,CC,PAL,008e70569d9bb9400de937f2c748903d
+375-U1526B-1H-1-W 6/8-CRUN,0,2,0.06,0.08,G-M,,,,,,,P,,,,,,,,,,,,,,,,,375,U1526,B,1,H,1,W,4e1ed86f2e4c0327153c0f0ddfb57870
+375-U1526B-1H-CC-PAL-FORAM,0,10,5.71,5.81,VG,,,,,,,P,,,,,,,,,P,P,,,,,,,375,U1526,B,1,H,CC,PAL,c91e98aa99ab745f1c1dcf84358f0662
+375-U1526B-2H-CC-PAL-FORAM,0,7,14.3,14.37,VG,,,,,,,,,,,,,,,,,P,,,,,,,375,U1526,B,2,H,CC,PAL,d740c4b341a454fb0106cc22d6862f91
+375-U1526B-3H-CC-PAL-FORAM,0,7,24.09,24.16,,,,,,,,,,,,,,,,,,P,,,,,,,375,U1526,B,3,H,CC,PAL,008e70569d9bb9400de937f2c748903d

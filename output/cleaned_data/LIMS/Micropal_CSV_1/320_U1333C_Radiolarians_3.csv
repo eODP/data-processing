@@ -2,5 +2,5 @@ Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [c
 320-U1333C-16H-CC-PAL-RADS,320,U1333,C,16,16-CC,H,CC,PAL,RADS,0,0,132.08,132.08,RP16,A,G,,R,R,R,,,,,,R,,,,,R,R,,,,,,,,,R,,,,,,,,,,,,,,,,R,,,,,F,,,R,R,,,,,,,,,,,,,,F,,,,d259055ccf1db119fbcacebffdec516e
 320-U1333C-17H-CC-PAL-RADS,320,U1333,C,17,17-CC,H,CC,PAL,RADS,0,0,141.06,141.06,RP16,A,G,,,R,R,,,,,,R,,,,,R,R,,,,,R,,,,R,,,,,,R,,,,,,,,,,R,,,,,F,,,R,R,,,,,,,,,,,,,,F,,,,e82006bbbe870726faaca804686856e2
 320-U1333C-18H-CC-PAL-RADS,320,U1333,C,18,18-CC,H,CC,PAL,RADS,0,0,150.76,150.76,RP15,A,G,,,R,R,,,,,,R,,,,,R,R,,,,,,,,-,R,,R,,,,,R,,,,,,,,,R,,,,,R,,,R,R,,,,,,,,,,,,,,F,,,,4cb09d1ed74700a3d900dc84a8971f87
-320-U1333C-19H-CC-PAL-RADS,320,U1333,C,19,19-CC,H,CC,PAL,RADS,0,0,155.09,155.09,RP14,A,G,,R,R,R,,,,,,R,vR,,,,R,R,,,,,,,,,vR,,,,,,,R,,R,,-,,,,,R,-,,,,R,,,R,R,,,,,,,,,,,,,,F,,,,76b6eb53607da513450e789900a1fe58
+320-U1333C-19H-CC-PAL-RADS,320,U1333,C,19,19-CC,H,CC,PAL,RADS,0,0,155.09,155.09,RP14,A,G,,R,R,R,,,,,,R,VR,,,,R,R,,,,,,,,,VR,,,,,,,R,,R,,-,,,,,R,-,,,,R,,,R,R,,,,,,,,,,,,,,F,,,,76b6eb53607da513450e789900a1fe58
 320-U1333C-20H-CC-PAL-RADS,320,U1333,C,20,20-CC,H,CC,PAL,RADS,0,0,163.19,163.19,RP14,A,G,,,R,R,,,,,,R,,,,,,,,,,,,,,,-,,,,,,,-,,R,,R,,,,,-,R,,,,R,,,R,R,,,,,,,,,,,,,,R,,,,0caa7fd0b551bc15e5b181c1d9a10cc0

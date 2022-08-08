@@ -1,23 +1,23 @@
 Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
-375-U1520C-2R-CC-PAL-FORAM,0,5,647.7,647.75,G,,,X,,,,,,,,,,,,X,X,,,,,,,,375,U1520,C,2,R,CC,PAL,dcef4076b28753b47b0eed62d4b9b603
+375-U1520C-2R-CC-PAL-FORAM,0,5,647.7,647.75,G,,,P,,,,,,,,,,,,P,P,,,,,,,,375,U1520,C,2,R,CC,PAL,dcef4076b28753b47b0eed62d4b9b603
 375-U1520C-3R-CC-PAL-FORAM,0,5,657.79,657.84,M,,,F,,,,,,,,,,,,,F,,,,,,,,375,U1520,C,3,R,CC,PAL,dc776348d0efd419ddbca75bd2829eda
-375-U1520C-4R-CC-PAL-FORAM,0,5,667.94,667.99,G,,,X,,,,,,,,,,,,X,F,,,,,,,,375,U1520,C,4,R,CC,PAL,825b8f32c332476dd66e6ac6bab43d95
+375-U1520C-4R-CC-PAL-FORAM,0,5,667.94,667.99,G,,,P,,,,,,,,,,,,P,F,,,,,,,,375,U1520,C,4,R,CC,PAL,825b8f32c332476dd66e6ac6bab43d95
 375-U1520C-5R-CC-PAL-FORAM,0,5,676.32,676.37,M,,,A,,,,,,,,,R,,,C,C,,,,R,,,,375,U1520,C,5,R,CC,PAL,eede17bca1b6fe9eb3e4086e0360ded7
-375-U1520C-6R-CC-PAL-FORAM,0,5,685.85,685.9,M,,,,,,,,,,,,,,,X,,,,,,,,,375,U1520,C,6,R,CC,PAL,1e6e718f1d3d05aceb4e1b717e8ca0b9
+375-U1520C-6R-CC-PAL-FORAM,0,5,685.85,685.9,M,,,,,,,,,,,,,,,P,,,,,,,,,375,U1520,C,6,R,CC,PAL,1e6e718f1d3d05aceb4e1b717e8ca0b9
 375-U1520C-7R-CC-PAL-FORAM,0,5,693.05,693.1,M,,,A,,,,,,,,,F,,,F,F,,,,,,,,375,U1520,C,7,R,CC,PAL,79851732d13699692961cfe032522d62
 375-U1520C-8R-CC-PAL-FORAM,0,5,706.02,706.07,P,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,8,R,CC,PAL,441a1cdb872025a467a0367c3c7c7624
-375-U1520C-9R-CC-PAL-FORAM,0,5,713.69,713.74,M,,,X,,,,,,,,X,,,,X,X,,,,X,,,,375,U1520,C,9,R,CC,PAL,a35e469973a96fe950e8813c5441cbe5
+375-U1520C-9R-CC-PAL-FORAM,0,5,713.69,713.74,M,,,P,,,,,,,,P,,,,P,P,,,,P,,,,375,U1520,C,9,R,CC,PAL,a35e469973a96fe950e8813c5441cbe5
 375-U1520C-10R-CC-PAL-FORAM,0,5,726.98,727.03,G-M,,,R,,,,,,,,,,,,,F,,,,,,,,375,U1520,C,10,R,CC,PAL,463ef229196795479b54f28cefec036a
-375-U1520C-11R-CC-PAL-FORAM,0,5,737.38,737.43,M,,,X,,,,,,,,X,,,,X,X,,,,,,,,375,U1520,C,11,R,CC,PAL,deda113b5c1bfffddce345737996d2e5
-375-U1520C-12R-CC-PAL-FORAM,0,7,746.82,746.89,G-M,,,X,,,,X,,,,,,,,,R,,,,X,,,,375,U1520,C,12,R,CC,PAL,3d624709734bf909712dba9ff017826b
-375-U1520C-13R-CC-PAL-FORAM,0,5,756.62,756.67,M,,,X,,,,,,,,,,,,,,,,X,,,,,375,U1520,C,13,R,CC,PAL,a6090a7773a94c683a681296392d76a2
+375-U1520C-11R-CC-PAL-FORAM,0,5,737.38,737.43,M,,,P,,,,,,,,P,,,,P,P,,,,,,,,375,U1520,C,11,R,CC,PAL,deda113b5c1bfffddce345737996d2e5
+375-U1520C-12R-CC-PAL-FORAM,0,7,746.82,746.89,G-M,,,P,,,,P,,,,,,,,,R,,,,P,,,,375,U1520,C,12,R,CC,PAL,3d624709734bf909712dba9ff017826b
+375-U1520C-13R-CC-PAL-FORAM,0,5,756.62,756.67,M,,,P,,,,,,,,,,,,,,,,P,,,,,375,U1520,C,13,R,CC,PAL,a6090a7773a94c683a681296392d76a2
 375-U1520C-14R-CC-PAL-FORAM,0,5,766.15,766.2,M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,14,R,CC,PAL,45205bf523008e58402b0b7eac383aab
-375-U1520C-15R-7-PAL-FORAM,0,4,775.17,775.21,M,,,X,,,,,,,,,,,,,,,,,,,,,375,U1520,C,15,R,7,PAL,2d33f46be0dcb1cd32650e7169461fff
+375-U1520C-15R-7-PAL-FORAM,0,4,775.17,775.21,M,,,P,,,,,,,,,,,,,,,,,,,,,375,U1520,C,15,R,7,PAL,2d33f46be0dcb1cd32650e7169461fff
 375-U1520C-16R-4-PAL-FORAM,0,4,781.36,781.4,G-M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,16,R,4,PAL,e1db4f265cf2581ffe7fae1ef76d5e28
 375-U1520C-17R-CC-PAL-FORAM,0,5,786.64,786.69,M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,17,R,CC,PAL,0cbce82808a52888ee12430040c1afa2
 375-U1520C-18R-CC-PAL-FORAM,0,5,803.21,803.26,G-M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,18,R,CC,PAL,999ca0a2fe773527e639edc0460519f9
-375-U1520C-19R-CC-PAL-FORAM,0,5,809.23,809.28,M,,,,,,,,,,,,,,,,X,,,X,,,,,375,U1520,C,19,R,CC,PAL,f6f18eb9e1228578fc5277e556a2d506
-375-U1520C-20R-3-W 62/67-PAL-FORAM,0,5,817.92,817.97,G-P,,,,,,,,,,,,,,,,,,,X,,,,,375,U1520,C,20,R,3,W,4b449ce7cb3f272eb39048801ab4db25
+375-U1520C-19R-CC-PAL-FORAM,0,5,809.23,809.28,M,,,,,,,,,,,,,,,,P,,,P,,,,,375,U1520,C,19,R,CC,PAL,f6f18eb9e1228578fc5277e556a2d506
+375-U1520C-20R-3-W 62/67-PAL-FORAM,0,5,817.92,817.97,G-P,,,,,,,,,,,,,,,,,,,P,,,,,375,U1520,C,20,R,3,W,4b449ce7cb3f272eb39048801ab4db25
 375-U1520C-20R-CC-PAL-FORAM,0,5,819.17,819.22,G-M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,20,R,CC,PAL,824bdeaa60113fc5b68543afa3228436
 375-U1520C-21R-2-W 6/12-PAL-FORAM,0,6,825.47,825.53,G-M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,21,R,2,W,3eea181228421b90aca77c21553dfd5b
 375-U1520C-21R-CC-PAL-FORAM,0,5,827.04,827.09,G-M,,,,,,,,,,,,,,,,,,,,,,,,375,U1520,C,21,R,CC,PAL,caf7bf789e63980208e0f77c822f8ce8
