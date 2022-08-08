@@ -1,69 +1,69 @@
-Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Alabaminella weddellensis,Bolivina sp.,Brizalina pygmaea,Brizalina earlandi,Brizalina sp.,Bulimina aff. exilis,Bulimina sp.,Cancris cf. phillipinensis,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Epistominella pulchella,Eggerella bradyi,Elphidium cf. batialis,Epistominella sp.,Fursenkoina bradyi,Fissurina sp.,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Martinotiella communis,Melonis barleanum,Melonis pompilioides,Nodosaria spp.,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Nothia robusta,Oridorsalis umbonatus,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia sp.,Pullenia bulloides,Pygmaeseistron cf. hispida,Pyrgo sp.,Sphaeroidina bulloides,Stainforthia aff. fusiformis,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Valvulineria sp.,IRD,Other observations,,A/W,Sample,eodp_id
+Exp,Site,Hole,Core,Type,Section,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Benthic abundance,Alabaminella weddellensis,Bolivina sp.,Brizalina pygmaea,Brizalina earlandi,Brizalina sp.,Bulimina aff. exilis,Bulimina sp.,Cancris cf. phillipinensis,Cassidulina sp.,Cassidulinoides tenuis,Cibicidoides cf. subhaidingerii,Epistominella pulchella,Eggerella bradyi,Elphidium cf. batialis,Epistominella sp.,Fursenkoina bradyi,Fissurina sp.,Glandulina sp.,Globobulimina auriculata,Globobulimina pacifica,Globocassidulina sp.,Gyroidinoides soldanii,Islandiella norcrossi,Lagena spp.,Lenticulina sp.,Martinotiella communis,Melonis barleanum,Melonis pompilioides,Nodosaria spp.,Nodosaria aff. pyrula,Nonionella labradorica,Nonionella turgida,Nonionella turgida digitata,Nothia robusta,Oridorsalis umbonatus,Planulina wuellerstorfi,Procerolagena cf. gracillima,Pullenia sp.,Pullenia bulloides,Pygmaeseistron cf. hispida,Pyrgo sp.,Sphaeroidina bulloides,Stainforthia aff. fusiformis,Triloculina sp.,Triloculina cf. trihedra,Uvigerina cf. peregrina,Uvigerina auberiana,Valvulineria sp.,IRD,Other observations,Unnamed: 62,A/W,Sample,eodp_id
 323,U1340,A,1,H,1,0,0,0,0,G,R,P,,,R,,P,P,,,,,,,,,,,,,,P,,P,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,323-U1340A-1H-1,f875fdfee1148cfc9d3db116a2f5e685
-324,U1341,A,1,H,CC,,,3.8,3.9,VG,A,R,,,R,,P,,,,P,,,,,,,P,,,,R,,D,P,,,,,,,P,P,P,,,,,R,,P,,,A,,P,R,,,D,,,,324-U1341A-1H-CC,143d41a1f9d35cb53f4813dba0f2a680
-325,U1342,A,2,H,CC,,,13.82,13.92,P,R,,,,P,,P,,,,,,,,,,,P,,,,,,,,,,P,,,,P,,,,,P,,,,,,,,,,P,,,D,,,,325-U1342A-2H-CC,1bbf6fba771b8c5ac3d458b517a80cea
-326,U1343,A,3,H,CC,,,23.39,23.49,M,F,,,,,,,,,P,R,,,,,,,,P,,,,,P,,,,,,,,,,,,,,,,,,,,,P,,R,,,D,"Sponge spicules, quartz, wood fragments",,,326-U1343A-3H-CC,1d576c7f73c023d470c840d17dc32d15
-327,U1344,A,4,H,CC,,,32.75,32.85,M,F,,,,,,,,,,F,,,R,,,,,,P,F,,,R,,,,,,,,,,,,,,,,,,,,,F,,,,P,D,"Sponge spicules, quartz, wood fragments",,,327-U1344A-4H-CC,0c91cff2679aaab162c23c4cc89a528c
-328,U1345,A,5,H,CC,,,42.35,42.45,G,A,,,P,D,,D,,,,,,F,,,,,,,,A,,,,,,,,,,,R,,,,,,,,,,,,,,,,,R,A,,,,328-U1345A-5H-CC,2c443fa572e4d9e87eb32c0faa5e620c
-329,U1346,A,6,H,CC,,,51.92,52.02,P,F,,,,P,,F,,,,,,,,,,,,,,R,,,F,,,,,,,,,,,,,,,,,,,,,,,A,P,P,A,"Sponge spicules, quartz",,,329-U1346A-6H-CC,b25d87aaf4fc6fcb07722aad598e7128
-330,U1347,A,7,H,CC,,,61.41,61.51,G,A,R,,,D,,,,,,,,R,,,,,,,,A,,,F,,,,,,,,,,,,,,,P,,,,,,,,A,,A,,Sponge spicules,,,330-U1347A-7H-CC,5fbc0360c729292bb664f412763a1f1e
-331,U1348,A,8,H,CC,,,70.98,71.08,VG,A,,,,R,,D,,,,,,R,,,,,,,,F,,,,,,,,,,,F,,,,,,P,R,,,,,,,,A,,R,F,"Benthic foram ooze, sponge spicules",,,331-U1348A-8H-CC,2b4e20aaf03835faa48533244fc424a8
-332,U1349,A,9,H,CC,,,80.35,80.45,VG,A,,P,,,,R,,A,,F,R,A,,,,,,,,R,,,,,P,,,,,,,,,,,R,,P,,,,,,,,A,,A,F,"Planktic foram ooze, sponge spicules",,,332-U1349A-9H-CC,6e01079c5465acb0e050e612768cacd3
-333,U1350,A,10,H,CC,,,89.83,89.93,G,A,,,P,R,,A,,,,R,F,,,,,R,,,,,,,F,R,,,,R,,,F,,,,R,,,,,,,,,,,D,P,F,F,,,,333-U1350A-10H-CC,8f5ff1a613ed4d0043ba850a40d8676e
-334,U1351,A,11,H,CC,,,99.42,99.52,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,F,Quartz,,,334-U1351A-11H-CC,b0a0eab3173b99ee3bb94c50e9a5e76a
-335,U1352,A,12,H,CC,,,108.78,108.88,G,R,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,P,,R,,,A,Quartz,,,335-U1352A-12H-CC,6b79e93d6b77b3359c816a19b95c6a62
-336,U1353,A,13,H,CC,,,118.53,118.63,VG,A,,,,,,,,,,,,P,,R,,,,P,,F,,,F,,R,,,,,,F,,,,,,,,,,P,,,,,D,,A,A,,,,336-U1353A-13H-CC,e56f65f6cfd87bcaf6d8dd00ef39ebf7
-337,U1354,A,14,H,CC,,,127.89,127.99,G,F,,,,F,,,,,,P,,,,,,,,,,P,,,R,,,,,,,,,R,P,,,,,,,,,,P,,,F,,P,A,"Sponge spicules, quartz",,,337-U1354A-14H-CC,750ccddb2571f4701ee07cfe4ae6d6e1
-338,U1355,A,15,H,CC,,,137.12,137.22,G,F,,,,A,,,,,,,,P,,P,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,A,,P,F,"Sponge spicules, quartz",,,338-U1355A-15H-CC,496bc619eb39eb2f49dbfba6ca4f0ca4
-339,U1356,A,16,H,CC,,,146.94,147.04,G,A,,,,R,,,,,,,,,,,,,,,,R,,,A,,,,,,,,P,F,,,,,,,,,,,,,,R,,,F,"Sponge spicules, quartz",,,339-U1356A-16H-CC,65b6e7ec46122c151b75c4f712f4b7bb
-340,U1357,A,17,H,CC,,,156.48,156.58,G,A,R,,,R,P,R,,,,,,R,,,,,,,,R,A,,R,,,,,,,,,R,,,,,,,,,,,R,,,F,,,A,Sponge spicules,,,340-U1357A-17H-CC,5b0080b8583d433c107f282161d76ebc
-341,U1358,A,18,H,CC,,,165.89,165.99,G,A,,,,,,,,,,,,,,,,,,P,P,,,,R,,,,,,,,,,,,,,,,,,,,P,,,A,,,A,"Sponge spicules, quartz",,,341-U1358A-18H-CC,1c68a64c6d84972a7b3345f0b645a9f7
-342,U1359,A,19,H,CC,,,175.45,175.55,M,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Sponge spicules, quartz",,,342-U1359A-19H-CC,76677ac50498c63cd8dfc658e99ee50e
-343,U1360,A,20,H,CC,,,184.72,184.82,M,F,,,,,,P,1,,,,P,,,,,,,,P,,,,F,,,,,,,,,,,,,,,,,,,,,,P,R,,,A,"Sponge spicules, quartz",,,343-U1360A-20H-CC,616b99ab36c5c989f78317b54edbea60
-344,U1361,A,21,H,CC,,,185.61,185.71,G,F,,,,,,,,,,,,F,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,A,"Sponge spicules, quartz",,,344-U1361A-21H-CC,b07cd68ac0432e4629fad55d86845293
-345,U1362,A,23,H,CC,,,196.34,196.44,G,A,,,,,,,,,,,,,,,,,,,P,,,,A,,,,,,,,,P,,,,,,P,,,,,,,,F,,,A,"Sponge spicules, quartz",,,345-U1362A-23H-CC,6ee0afa1b06b821ae647a0c370189781
-346,U1363,A,24,H,CC,,,206.1,206.2,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,R,,,P,,R,,P,,,A,Dominant sponge spicules,,,346-U1363A-24H-CC,80164d97d3cd45a65b45e3d4c4d1ec5f
-347,U1364,A,25,H,CC,,,215.6,215.7,G,A,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,,,,,,,,,,,,,D,,R,F,Sponge spicules,,,347-U1364A-25H-CC,066770eae8e0c7aa571d130698c768e5
-348,U1365,A,26,H,CC,,,225.13,225.25,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,348-U1365A-26H-CC,4c9c223538afc0e9ca4794e12b6d45a7
-349,U1366,A,27,H,CC,,,234.62,234.72,M,F,,,,,,,,,P,,,,P,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,F,,,F,,,,349-U1366A-27H-CC,22e9cf33432ff0949068d024f0fa2245
-350,U1367,A,28,H,CC,,,243.78,243.88,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,"Quartz, pyrite",,,350-U1367A-28H-CC,fa9e00a1ec37cfe33f512c06bc8dd699
-351,U1368,A,29,H,CC,,,243.98,244.08,G,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,351-U1368A-29H-CC,915c1ad4cdaebe66f9bcdb0fdea151e9
-352,U1369,A,30,H,CC,,,263.06,263.16,G,F,,,,,,,,,,,,,,P,,,,,,P,,F,,,,,,,,P,P,,,,P,,,,,,,,,,,,,P,F,,,,352-U1369A-30H-CC,2c0a1c0cb8db124571a844243f2ad3c0
-353,U1370,A,31,H,CC,,,272.57,272.67,G,F,,,,,,,,P,P,,,,P,P,,,,,,R,,,F,,P,,,,,P,,,,,,,P,,,,,,,,,R,,,A,Dominant sponge spicules,,,353-U1370A-31H-CC,6de8d487857814f42ad2b95cb3b75f60
-354,U1371,A,32,H,CC,,,282.07,282.17,G,R,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Sponge spicules,,,354-U1371A-32H-CC,e9d624935bb50eecdb2f6c6623c14879
-355,U1372,A,33,H,CC,,,291.66,291.76,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Sponge spicules, quartz",,,355-U1372A-33H-CC,47e58ae1955e1d9dee13f0288555903b
-356,U1373,A,34,H,CC,,,300.36,300.46,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,356-U1373A-34H-CC,8ac4bfc2411ef841b5b167d9faa5ecf8
-357,U1374,A,35,H,CC,,,310.58,310.68,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,357-U1374A-35H-CC,b852504112fb06200ba34ba1a3a62adc
-358,U1375,A,36,H,CC,,,318.2,318.3,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,358-U1375A-36H-CC,4bddde249c30c0e952035d5e5eb6cdff
-359,U1376,A,37,H,CC,,,327.26,327.36,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,359-U1376A-37H-CC,298d082627c103f01f2df19646cabe17
-360,U1377,A,38,H,CC,,,333.45,333.55,G,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,360-U1377A-38H-CC,98a58ef16d6fdc7a428edde85eefef47
-361,U1378,A,39,H,CC,,,343.55,343.65,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Sponge spicules,,,361-U1378A-39H-CC,cc3e7e6545af75fd3e077bcceb3c8998
-362,U1379,A,40,H,CC,,,351.33,351.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,362-U1379A-40H-CC,ddce76480a9caaa32eb39bfd779bb04f
-363,U1380,A,41,H,CC,,,354.63,354.73,M,R,,,,,,P,,,R,,,,,,,,,,,R,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,D,Pyrite,,,363-U1380A-41H-CC,3f0d7b61ec05b5d3382b00ecf7cd703b
-364,U1381,A,42,H,CC,,,358.58,358.7,M,P,,,,,,,,,,,,,,,,,,,,,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Sponge spicules, quartz",,,364-U1381A-42H-CC,4b9efa398af1946f3072b59359a25525
-365,U1382,A,43,H,CC,,,358.7,358.77,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,A,IRD > 0.5 mm,,,365-U1382A-43H-CC,89e24fbf5d39dd789fff72b665b99702
-366,U1383,A,44,X,CC,,,365.09,365.19,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,366-U1383A-44X-CC,c6a3308b481c9b5ad4928a507c729c76
-367,U1384,A,45,X,CC,,,374.64,374.75,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small clay aggregates,,,367-U1384A-45X-CC,c0b8f203c68a4b0e217b634eedfb0be2
-368,U1385,A,46,X,CC,,,386.71,386.81,M,R,,,,,,,P,,,,,,,,,,,,,,R,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,A,"Dominant sponge spicules, quartz",,,368-U1385A-46X-CC,1418bf15b40b2574c602ca1340427066
-369,U1386,A,47,X,CC,,,399.41,399.51,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,369-U1386A-47X-CC,51b37fc2cc041d63005ea02aa0f54867
-370,U1387,A,48,X,CC,,,409.22,409.32,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,370-U1387A-48X-CC,187d53a9551297f983d82002386e511f
-371,U1388,A,49,X,CC,,,417.96,418.06,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Abundant sponge spicules, quartz",,,371-U1388A-49X-CC,db4ebff76937ac9fca69f405299423c2
-372,U1389,A,50,X,CC,,,425.06,425.16,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Abundant sponge spicules, quartz",,,372-U1389A-50X-CC,4e9883d77e4dfe8d99ed326137398cd7
-373,U1390,A,51,X,CC,,,435.51,435.61,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,373-U1390A-51X-CC,cd51a429c0776be64aea2b43437f297a
-374,U1391,A,52,X,CC,,,447.68,447.78,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,374-U1391A-52X-CC,451d6787d396659b9ba5e0d0149fd743
-375,U1392,A,53,X,CC,,,457.62,457.72,G,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,375-U1392A-53X-CC,3d16874f02b32b6970fd07f29ac244bd
-376,U1393,A,54,X,CC,,,457.72,457.82,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,376-U1393A-54X-CC,5497bdd7a0c8b0209e3bbf012fd5ca87
-377,U1394,A,55,X,CC,,,476.23,476.33,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,377-U1394A-55X-CC,1000606a087d32195364e9abbcc561a6
-378,U1395,A,56,X,CC,,,486.08,486.2,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,378-U1395A-56X-CC,5ce784cf39eec76460a74bccdd4fb8e3
-379,U1396,A,57,X,CC,,,492.82,492.92,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,379-U1396A-57X-CC,97d441bff6ebdf096fad168321080b7e
-380,U1397,A,58,X,CC,,,495.9,495.92,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,A,Abundant sponge spicules,,,380-U1397A-58X-CC,67056677ca426dae44e0cbe5bcee215d
-381,U1398,A,59,X,CC,,,515.11,515.21,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,A,Abundant sponge spicules,,,381-U1398A-59X-CC,95674ac996b30732f13eabd51c77836e
-382,U1399,A,63,H,CC,,,546.74,546.77,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,382-U1399A-63H-CC,8d3ee7241fbbfd02fe652f56e607ef7c
-383,U1400,A,64,H,CC,,,555.56,555.66,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,383-U1400A-64H-CC,28a6e79fd8eac635621873d0186b643b
-384,U1401,A,65,H,CC,,,557.37,557.43,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,384-U1401A-65H-CC,af0be478f9cd356158fd26534c2442a4
-385,U1402,A,66,H,CC,,,562.87,562.97,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,F,,,,385-U1402A-66H-CC,697a15b894b6743a70bec3860dc9b039
-386,U1403,A,67,H,CC,,,565.8,565.9,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,F,,,,,,,,,,,,,,,,,,,386-U1403A-67H-CC,6fd46dc611bbc0f02e82c1756e9e2373
-387,U1404,A,68,H,CC,,,575.89,575.99,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,387-U1404A-68H-CC,c44c5f879551987dcc06d115541b4557
-388,U1405,A,69,H,CC,,,585.18,585.28,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,388-U1405A-69H-CC,5f5b541864a40eea5e3c0e2ba9b4ca1e
-389,U1406,A,70,X,CC,,,595.22,595.32,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spic,,,389-U1406A-70X-CC,5d5d020e32e923bce71affb3cf9bf7d3
-390,U1407,A,71,X,CC,,,604.51,604.61,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,390-U1407A-71X-CC,c41038940287df32cd49522b5d7deda7
+323,U1341,A,1,H,CC,,,3.8,3.9,VG,A,R,,,R,,P,,,,P,,,,,,,P,,,,R,,D,P,,,,,,,P,P,P,,,,,R,,P,,,A,,P,R,,,D,,,,324-U1341A-1H-CC,143d41a1f9d35cb53f4813dba0f2a680
+323,U1342,A,2,H,CC,,,13.82,13.92,P,R,,,,P,,P,,,,,,,,,,,P,,,,,,,,,,P,,,,P,,,,,P,,,,,,,,,,P,,,D,,,,325-U1342A-2H-CC,1bbf6fba771b8c5ac3d458b517a80cea
+323,U1343,A,3,H,CC,,,23.39,23.49,M,F,,,,,,,,,P,R,,,,,,,,P,,,,,P,,,,,,,,,,,,,,,,,,,,,P,,R,,,D,"Sponge spicules, quartz, wood fragments",,,326-U1343A-3H-CC,1d576c7f73c023d470c840d17dc32d15
+323,U1344,A,4,H,CC,,,32.75,32.85,M,F,,,,,,,,,,F,,,R,,,,,,P,F,,,R,,,,,,,,,,,,,,,,,,,,,F,,,,P,D,"Sponge spicules, quartz, wood fragments",,,327-U1344A-4H-CC,0c91cff2679aaab162c23c4cc89a528c
+323,U1345,A,5,H,CC,,,42.35,42.45,G,A,,,P,D,,D,,,,,,F,,,,,,,,A,,,,,,,,,,,R,,,,,,,,,,,,,,,,,R,A,,,,328-U1345A-5H-CC,2c443fa572e4d9e87eb32c0faa5e620c
+323,U1346,A,6,H,CC,,,51.92,52.02,P,F,,,,P,,F,,,,,,,,,,,,,,R,,,F,,,,,,,,,,,,,,,,,,,,,,,A,P,P,A,"Sponge spicules, quartz",,,329-U1346A-6H-CC,b25d87aaf4fc6fcb07722aad598e7128
+323,U1347,A,7,H,CC,,,61.41,61.51,G,A,R,,,D,,,,,,,,R,,,,,,,,A,,,F,,,,,,,,,,,,,,,P,,,,,,,,A,,A,,Sponge spicules,,,330-U1347A-7H-CC,5fbc0360c729292bb664f412763a1f1e
+323,U1348,A,8,H,CC,,,70.98,71.08,VG,A,,,,R,,D,,,,,,R,,,,,,,,F,,,,,,,,,,,F,,,,,,P,R,,,,,,,,A,,R,F,"Benthic foram ooze, sponge spicules",,,331-U1348A-8H-CC,2b4e20aaf03835faa48533244fc424a8
+323,U1349,A,9,H,CC,,,80.35,80.45,VG,A,,P,,,,R,,A,,F,R,A,,,,,,,,R,,,,,P,,,,,,,,,,,R,,P,,,,,,,,A,,A,F,"Planktic foram ooze, sponge spicules",,,332-U1349A-9H-CC,6e01079c5465acb0e050e612768cacd3
+323,U1350,A,10,H,CC,,,89.83,89.93,G,A,,,P,R,,A,,,,R,F,,,,,R,,,,,,,F,R,,,,R,,,F,,,,R,,,,,,,,,,,D,P,F,F,,,,333-U1350A-10H-CC,8f5ff1a613ed4d0043ba850a40d8676e
+323,U1351,A,11,H,CC,,,99.42,99.52,G,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,P,F,Quartz,,,334-U1351A-11H-CC,b0a0eab3173b99ee3bb94c50e9a5e76a
+323,U1352,A,12,H,CC,,,108.78,108.88,G,R,,,,,,,,,,,,,,P,P,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,P,,R,,,A,Quartz,,,335-U1352A-12H-CC,6b79e93d6b77b3359c816a19b95c6a62
+323,U1353,A,13,H,CC,,,118.53,118.63,VG,A,,,,,,,,,,,,P,,R,,,,P,,F,,,F,,R,,,,,,F,,,,,,,,,,P,,,,,D,,A,A,,,,336-U1353A-13H-CC,e56f65f6cfd87bcaf6d8dd00ef39ebf7
+323,U1354,A,14,H,CC,,,127.89,127.99,G,F,,,,F,,,,,,P,,,,,,,,,,P,,,R,,,,,,,,,R,P,,,,,,,,,,P,,,F,,P,A,"Sponge spicules, quartz",,,337-U1354A-14H-CC,750ccddb2571f4701ee07cfe4ae6d6e1
+323,U1355,A,15,H,CC,,,137.12,137.22,G,F,,,,A,,,,,,,,P,,P,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,A,,P,F,"Sponge spicules, quartz",,,338-U1355A-15H-CC,496bc619eb39eb2f49dbfba6ca4f0ca4
+323,U1356,A,16,H,CC,,,146.94,147.04,G,A,,,,R,,,,,,,,,,,,,,,,R,,,A,,,,,,,,P,F,,,,,,,,,,,,,,R,,,F,"Sponge spicules, quartz",,,339-U1356A-16H-CC,65b6e7ec46122c151b75c4f712f4b7bb
+323,U1357,A,17,H,CC,,,156.48,156.58,G,A,R,,,R,P,R,,,,,,R,,,,,,,,R,A,,R,,,,,,,,,R,,,,,,,,,,,R,,,F,,,A,Sponge spicules,,,340-U1357A-17H-CC,5b0080b8583d433c107f282161d76ebc
+323,U1358,A,18,H,CC,,,165.89,165.99,G,A,,,,,,,,,,,,,,,,,,P,P,,,,R,,,,,,,,,,,,,,,,,,,,P,,,A,,,A,"Sponge spicules, quartz",,,341-U1358A-18H-CC,1c68a64c6d84972a7b3345f0b645a9f7
+323,U1359,A,19,H,CC,,,175.45,175.55,M,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Sponge spicules, quartz",,,342-U1359A-19H-CC,76677ac50498c63cd8dfc658e99ee50e
+323,U1360,A,20,H,CC,,,184.72,184.82,M,F,,,,,,P,1,,,,P,,,,,,,,P,,,,F,,,,,,,,,,,,,,,,,,,,,,P,R,,,A,"Sponge spicules, quartz",,,343-U1360A-20H-CC,616b99ab36c5c989f78317b54edbea60
+323,U1361,A,21,H,CC,,,185.61,185.71,G,F,,,,,,,,,,,,F,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,,A,"Sponge spicules, quartz",,,344-U1361A-21H-CC,b07cd68ac0432e4629fad55d86845293
+323,U1362,A,23,H,CC,,,196.34,196.44,G,A,,,,,,,,,,,,,,,,,,,P,,,,A,,,,,,,,,P,,,,,,P,,,,,,,,F,,,A,"Sponge spicules, quartz",,,345-U1362A-23H-CC,6ee0afa1b06b821ae647a0c370189781
+323,U1363,A,24,H,CC,,,206.1,206.2,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,R,,,P,,R,,P,,,A,Dominant sponge spicules,,,346-U1363A-24H-CC,80164d97d3cd45a65b45e3d4c4d1ec5f
+323,U1364,A,25,H,CC,,,215.6,215.7,G,A,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,P,,,,,,,,,,,,,,,D,,R,F,Sponge spicules,,,347-U1364A-25H-CC,066770eae8e0c7aa571d130698c768e5
+323,U1365,A,26,H,CC,,,225.13,225.25,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,348-U1365A-26H-CC,4c9c223538afc0e9ca4794e12b6d45a7
+323,U1366,A,27,H,CC,,,234.62,234.72,M,F,,,,,,,,,P,,,,P,,,,,,,,,,P,,,,,,,,,,,,,P,,,,,,,,,,F,,,F,,,,349-U1366A-27H-CC,22e9cf33432ff0949068d024f0fa2245
+323,U1367,A,28,H,CC,,,243.78,243.88,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,"Quartz, pyrite",,,350-U1367A-28H-CC,fa9e00a1ec37cfe33f512c06bc8dd699
+323,U1368,A,29,H,CC,,,243.98,244.08,G,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,351-U1368A-29H-CC,915c1ad4cdaebe66f9bcdb0fdea151e9
+323,U1369,A,30,H,CC,,,263.06,263.16,G,F,,,,,,,,,,,,,,P,,,,,,P,,F,,,,,,,,P,P,,,,P,,,,,,,,,,,,,P,F,,,,352-U1369A-30H-CC,2c0a1c0cb8db124571a844243f2ad3c0
+323,U1370,A,31,H,CC,,,272.57,272.67,G,F,,,,,,,,P,P,,,,P,P,,,,,,R,,,F,,P,,,,,P,,,,,,,P,,,,,,,,,R,,,A,Dominant sponge spicules,,,353-U1370A-31H-CC,6de8d487857814f42ad2b95cb3b75f60
+323,U1371,A,32,H,CC,,,282.07,282.17,G,R,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Sponge spicules,,,354-U1371A-32H-CC,e9d624935bb50eecdb2f6c6623c14879
+323,U1372,A,33,H,CC,,,291.66,291.76,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Sponge spicules, quartz",,,355-U1372A-33H-CC,47e58ae1955e1d9dee13f0288555903b
+323,U1373,A,34,H,CC,,,300.36,300.46,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,356-U1373A-34H-CC,8ac4bfc2411ef841b5b167d9faa5ecf8
+323,U1374,A,35,H,CC,,,310.58,310.68,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,357-U1374A-35H-CC,b852504112fb06200ba34ba1a3a62adc
+323,U1375,A,36,H,CC,,,318.2,318.3,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,358-U1375A-36H-CC,4bddde249c30c0e952035d5e5eb6cdff
+323,U1376,A,37,H,CC,,,327.26,327.36,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,359-U1376A-37H-CC,298d082627c103f01f2df19646cabe17
+323,U1377,A,38,H,CC,,,333.45,333.55,G,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,360-U1377A-38H-CC,98a58ef16d6fdc7a428edde85eefef47
+323,U1378,A,39,H,CC,,,343.55,343.65,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Sponge spicules,,,361-U1378A-39H-CC,cc3e7e6545af75fd3e077bcceb3c8998
+323,U1379,A,40,H,CC,,,351.33,351.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,362-U1379A-40H-CC,ddce76480a9caaa32eb39bfd779bb04f
+323,U1380,A,41,H,CC,,,354.63,354.73,M,R,,,,,,P,,,R,,,,,,,,,,,R,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,D,Pyrite,,,363-U1380A-41H-CC,3f0d7b61ec05b5d3382b00ecf7cd703b
+323,U1381,A,42,H,CC,,,358.58,358.7,M,P,,,,,,,,,,,,,,,,,,,,,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Sponge spicules, quartz",,,364-U1381A-42H-CC,4b9efa398af1946f3072b59359a25525
+323,U1382,A,43,H,CC,,,358.7,358.77,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,A,IRD > 0.5 mm,,,365-U1382A-43H-CC,89e24fbf5d39dd789fff72b665b99702
+323,U1383,A,44,X,CC,,,365.09,365.19,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,366-U1383A-44X-CC,c6a3308b481c9b5ad4928a507c729c76
+323,U1384,A,45,X,CC,,,374.64,374.75,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small clay aggregates,,,367-U1384A-45X-CC,c0b8f203c68a4b0e217b634eedfb0be2
+323,U1385,A,46,X,CC,,,386.71,386.81,M,R,,,,,,,P,,,,,,,,,,,,,,R,R,,,,,,,,,,,,,,,,,,,,,,,,R,,,A,"Dominant sponge spicules, quartz",,,368-U1385A-46X-CC,1418bf15b40b2574c602ca1340427066
+323,U1386,A,47,X,CC,,,399.41,399.51,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,369-U1386A-47X-CC,51b37fc2cc041d63005ea02aa0f54867
+323,U1387,A,48,X,CC,,,409.22,409.32,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,"Sponge spicules, quartz",,,370-U1387A-48X-CC,187d53a9551297f983d82002386e511f
+323,U1388,A,49,X,CC,,,417.96,418.06,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Abundant sponge spicules, quartz",,,371-U1388A-49X-CC,db4ebff76937ac9fca69f405299423c2
+323,U1389,A,50,X,CC,,,425.06,425.16,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,"Abundant sponge spicules, quartz",,,372-U1389A-50X-CC,4e9883d77e4dfe8d99ed326137398cd7
+323,U1390,A,51,X,CC,,,435.51,435.61,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,373-U1390A-51X-CC,cd51a429c0776be64aea2b43437f297a
+323,U1391,A,52,X,CC,,,447.68,447.78,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,374-U1391A-52X-CC,451d6787d396659b9ba5e0d0149fd743
+323,U1392,A,53,X,CC,,,457.62,457.72,G,P,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,375-U1392A-53X-CC,3d16874f02b32b6970fd07f29ac244bd
+323,U1393,A,54,X,CC,,,457.72,457.82,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,376-U1393A-54X-CC,5497bdd7a0c8b0209e3bbf012fd5ca87
+323,U1394,A,55,X,CC,,,476.23,476.33,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,377-U1394A-55X-CC,1000606a087d32195364e9abbcc561a6
+323,U1395,A,56,X,CC,,,486.08,486.2,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,378-U1395A-56X-CC,5ce784cf39eec76460a74bccdd4fb8e3
+323,U1396,A,57,X,CC,,,492.82,492.92,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,379-U1396A-57X-CC,97d441bff6ebdf096fad168321080b7e
+323,U1397,A,58,X,CC,,,495.9,495.92,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,A,Abundant sponge spicules,,,380-U1397A-58X-CC,67056677ca426dae44e0cbe5bcee215d
+323,U1398,A,59,X,CC,,,515.11,515.21,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,A,Abundant sponge spicules,,,381-U1398A-59X-CC,95674ac996b30732f13eabd51c77836e
+323,U1399,A,63,H,CC,,,546.74,546.77,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,382-U1399A-63H-CC,8d3ee7241fbbfd02fe652f56e607ef7c
+323,U1400,A,64,H,CC,,,555.56,555.66,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,Sponge spicules,,,383-U1400A-64H-CC,28a6e79fd8eac635621873d0186b643b
+323,U1401,A,65,H,CC,,,557.37,557.43,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spicules,,,384-U1401A-65H-CC,af0be478f9cd356158fd26534c2442a4
+323,U1402,A,66,H,CC,,,562.87,562.97,G,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,,F,,,,385-U1402A-66H-CC,697a15b894b6743a70bec3860dc9b039
+323,U1403,A,67,H,CC,,,565.8,565.9,M,F,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,F,,,,,,,,,,,,,,,,,,,386-U1403A-67H-CC,6fd46dc611bbc0f02e82c1756e9e2373
+323,U1404,A,68,H,CC,,,575.89,575.99,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,387-U1404A-68H-CC,c44c5f879551987dcc06d115541b4557
+323,U1405,A,69,H,CC,,,585.18,585.28,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,388-U1405A-69H-CC,5f5b541864a40eea5e3c0e2ba9b4ca1e
+323,U1406,A,70,X,CC,,,595.22,595.32,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,F,Abundant sponge spic,,,389-U1406A-70X-CC,5d5d020e32e923bce71affb3cf9bf7d3
+323,U1407,A,71,X,CC,,,604.51,604.61,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,390-U1407A-71X-CC,c41038940287df32cd49522b5d7deda7
