@@ -2738,11 +2738,10 @@ Trachyleberididae indet.,,,,,,,,,,Trachyleberididae indet.,ostracods,82093,Trach
 ,,Poseidonamicus,,,,spp.,,,,Poseidonamicus spp.,ostracods,24466,Poseidonamicus,genus,,,23837,Podocopida,22826,Ostracoda,18891,Arthropoda,325038,Animalia
 ,,Xestoleberis,,,,spp.,,,,Xestoleberis spp.,ostracods,24702,Xestoleberis,genus,162998,Xestoleberididae,23837,Podocopida,22826,Ostracoda,18891,Arthropoda,325038,Animalia
 """Unknown palynology taxa""",,,,,,,,,,"""Unknown palynology taxa""",palynology,,,,,,,,,,,,,
-"""other pollen""",,,,,,,,,,"""other pollen""",palynology,,,,,,,,,,,,,
+"""Other pollen""",,,,,,,,,,"""Other pollen""",palynology,,,,,,,,,,,,,
 """Spores""",,,,,,,,,,"""Spores""",palynology,,,,,,,,,,,,,
 """Fungal spores""",,,,,,,,,,"""Fungal spores""",palynology,,,,,,,,,,,,,
 """Pollen/spores reworked""",,,,,,,,,,"""Pollen/spores reworked""",palynology,,,,,,,,,,,,,
-"""Other pollen""",,,,,,,,,,"""Other pollen""",palynology,,,,,,,,,,,,,
 """Sporomorphs""",,,,,,,,,,"""Sporomorphs""",palynology,,,,,,,,,,,,,
 """Amorphous organic matter""",,,,,,,,,,"""Amorphous organic matter""",palynology,,,,,,,,,,,,,
 """Black phytoclasts""",,,,,,,,,,"""Black phytoclasts""",palynology,,,,,,,,,,,,,
@@ -4585,7 +4584,6 @@ Echinoidea indet.,,,,,,,,,,Echinoidea indet.,planktic_forams,32733,Echinoidea,cl
 ,,Globoquadrina,,,,spp.,,,,Globoquadrina spp.,planktic_forams,1518,Globoquadrina,genus,82191,Globigerinidae,,,,,288974,Foraminifera,212476,Rhizaria
 ,,Globorotalia,,Fohsella,,"""praefohsi""",,,,"Globorotalia Fohsella ""praefohsi""",planktic_forams,1521,Globorotalia,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
 ,,Globorotalia,,Fohsella,,fohsi,,fohsi,,Globorotalia Fohsella fohsi fohsi,planktic_forams,1521,Globorotalia,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
-,,Globorotalia,,Fohsella,,“praefohsi”,,,,Globorotalia Fohsella “praefohsi”,planktic_forams,1521,Globorotalia,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
 ,,Globorotalia,,Globoconella,,panda,,,,Globorotalia Globoconella panda,planktic_forams,1521,Globorotalia,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
 ,,Globorotalia,,Globoconella,,praesctula,,,,Globorotalia Globoconella praesctula,planktic_forams,1521,Globorotalia,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
 ,,Globorotalia,,Menardella,,archaeomenardii,,,,Globorotalia Menardella archaeomenardii,planktic_forams,1521,Globorotalia,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
