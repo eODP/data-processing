@@ -1,0 +1,12 @@
+genus name,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,family_taxon_id,family_taxon_name,order_taxon_id,order_taxon_name,class_taxon_id,class_taxon_name,phylum_taxon_id,phylum_taxon_name,unranked clade_taxon_id,unranked clade_taxon_name,kingdom_taxon_id,kingdom_taxon_name
+Actinocyclus,82146,Actinocyclus,genus,71207,Hemidiscaceae,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,28595,Life,,
+Aulacoseira,432983,Aulacoseira,genus,427312,Aulacoseiraceae,426698,Aulacoseirales,69587,Bacillariophyceae,432613,Ochrophyta,28595,Life,,
+Impagidinium,276906,Impagidinium,genus,321603,Gonyaulacaceae,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
+Coccolithus,87684,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,28595,Life,,
+Discoaster,87682,Discoaster,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,28595,Life,,
+Reticulofenestra,255392,Reticulofenestra,genus,,,,,,,87644,Haptophyta,28595,Life,,
+Globoconella,103797,Globoconella,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,,,212476,Rhizaria
+Parasubbotina,71238,Parasubbotina,genus,82191,Globigerinidae,,,,,288974,Foraminifera,,,212476,Rhizaria
+Tenuitella,2652,Tenuitella,genus,422373,Globigerinitidae,,,,,288974,Foraminifera,,,212476,Rhizaria
+Dorcadospyris,505,Dorcadospyris,genus,85756,Triospyrididae,402,Nassellaria,,,4,Radiolaria,,,212476,Rhizaria
+Distephanus,82180,Distephanus,genus,69592,Dictyochaceae,69591,Phytomastigophora,69590,Chrysophyceae,,,28595,Life,,
