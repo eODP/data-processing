@@ -1,8 +1,8 @@
 taxon_group,verbatim_name,name,comment,taxon_name_above_genus,genus_modifier,genus_name,subgenera_modifier,subgenera_name,species_modifier,species_name,subspecies_modifier,subspecies_name,non_taxa_descriptor,comments,pbdb_taxon_id
 palynology; dinoflagellates,Amorphous organic matter; Amorphous organic matter,"""Amorphous organic matter""",not a taxa name; not a taxa name,"""Amorphous organic matter""",,,,,,,,,,,
-dinoflagellates; palynology,Black phytoclasts; Black phytoclasts,"""Black phytoclasts""",not a taxa name; not a taxa name,"""Black phytoclasts""",,,,,,,,,,,
+palynology; dinoflagellates,Black phytoclasts; Black phytoclasts,"""Black phytoclasts""",not a taxa name; not a taxa name,"""Black phytoclasts""",,,,,,,,,,,
 palynology,Black woody phytoclasts,"""Black woody phytoclasts""",not a taxa name,"""Black woody phytoclasts""",,,,,,,,,,,
-dinoflagellates; palynology,Brown phytoclasts; Brown phytoclasts,"""Brown phytoclasts""",not a taxa name; not a taxa name,"""Brown phytoclasts""",,,,,,,,,,,
+palynology; dinoflagellates,Brown phytoclasts; Brown phytoclasts,"""Brown phytoclasts""",not a taxa name; not a taxa name,"""Brown phytoclasts""",,,,,,,,,,,
 palynology,Brown woody phytoclasts,"""Brown woody phytoclasts""",not a taxa name,"""Brown woody phytoclasts""",,,,,,,,,,,
 radiolarians,Challengeria spp.,"""Challengeria spp.""",,"""Challengeria spp.""",,,,,,,,,,,
 other,Fish scales,"""Fish scales""",,"""Fish scales""",,,,,,,,,,,
@@ -13,14 +13,14 @@ planktic_forams; planktic_forams,"""Globigerina"" angulisuturalis _T; ""Globiger
 planktic_forams; planktic_forams,"""Globigerina"" ciperoensis _T_; ""Globigerina"" ciperoensis _T","""Globigerina"" ciperoensis",,,,"""Globigerina""",,,,ciperoensis,,,,,
 palynology,Monolete ornamented,"""Monolete ornamented""",,"""Monolete ornamented""",,,,,,,,,,,
 palynology,Monolete psilate,"""Monolete psilate""",,"""Monolete psilate""",,,,,,,,,,,
-palynology,Other pollen,"""Other pollen""",not a taxa,"""Other pollen""",,,,,,,,,,,
+palynology; palynology,Other pollen; other pollen,"""Other pollen""","not a taxa; group, not a taxa","""Other pollen""",,,,,,,,,,,
 other; planktic_forams,Otoliths; Otoliths,"""Otoliths""",,"""Otoliths""",,,,,,,,,,,
 diatoms,Phytolith,"""Phytolith""",not a taxa,"""Phytolith""",,,,,,,,,,,
 palynology,Pollen/spores reworked,"""Pollen/spores reworked""",not a taxa,"""Pollen/spores reworked""",,,,,,,,,,,
 palynology,Reworked palynomorphs,"""Reworked palynomorphs""",VK; congruence with LIMS batch 1 entry,"""Reworked palynomorphs""",,,,,,,,,,,
 palynology,Saccate pollen,"""Saccate pollen""",not a taxa,"""Saccate pollen""",,,,,,,,,,,
 diatoms,"""Skeletonema"" utriculosa","""Skeletonema"" utriculosa",,,,"""Skeletonema""",,,,utriculosa,,,,,
-palynology; palynology,Spores; spores,"""Spores""","not a taxa; group, not a taxa","""Spores""",,,,,,,,,,,
+palynology; palynology,spores; Spores,"""Spores""","group, not a taxa; not a taxa","""Spores""",,,,,,,,,,,
 palynology,Sporomorphs,"""Sporomorphs""",not a taxa,"""Sporomorphs""",,,,,,,,,,,
 dinoflagellates,Terrestrial palynomorphs,"""Terrestrial palynomorphs""",not a taxa,"""Terrestrial palynomorphs""",,,,,,,,,,Terrestrial palynomorphs,
 palynology,Trilete ornamented,"""Trilete ornamented""",,"""Trilete ornamented""",,,,,,,,,,,
@@ -31,7 +31,6 @@ palynology; palynology,Pollen (trees); Trees,"""Undifferentiated pollen from tre
 palynology,Pollen,"""Undifferentiated pollen""",VK,"""Undifferentiated pollen""",,,,,,,,,,,
 palynology,Spores (moss&fern),"""Undifferentiated spores from moss or ferns""",VK,"""Undifferentiated spores from moss or ferns""",,,,,,,,,,,
 palynology,Unknown taxa,"""Unknown palynology taxa""",group-unknown,"""Unknown palynology taxa""",,,,,,,,,,,
-palynology,other pollen,"""other pollen""","group, not a taxa","""other pollen""",,,,,,,,,,,
 dinoflagellates,"""round browns"" indet., psilate","""round browns indet., psilate""",,"""round browns indet., psilate""",,,,,,,,,,,
 planktic_forams,?Acarinina spp.,? Acarinina spp.,,,?,Acarinina,,,,spp.,,,,,763
 radiolarians,Acrosphaera? labrata,? Acrosphaera labrata,,,?,Acrosphaera,,,,labrata,,,,,9
@@ -599,7 +598,7 @@ benthic_forams,Bulimina pupula,Bulimina pupula,,,,Bulimina,,,,pupula,,,,,1032
 benthic_forams,Bulimina pyrula spinescens,Bulimina pyrula spinescens,,,,Bulimina,,,,pyrula,,spinescens,,,1032
 benthic_forams,Bulimina rostrata,Bulimina rostrata,,,,Bulimina,,,,rostrata,,,,,1032
 benthic_forams,Bulimina serratospina,Bulimina serratospina,,,,Bulimina,,,,serratospina,,,,,1032
-benthic_forams; benthic_forams; benthic_forams,Bulimina sp. indet.; Bulimina; Bulimina sp.,Bulimina sp.,,,,Bulimina,,,,sp.,,,,,1032
+benthic_forams; benthic_forams; benthic_forams,Bulimina; Bulimina sp. indet.; Bulimina sp.,Bulimina sp.,,,,Bulimina,,,,sp.,,,,,1032
 benthic_forams,Bulimina sp.  A,Bulimina sp. A,extra space,,,Bulimina,,,,sp. A,,,,,1032
 benthic_forams,Bulimina sp. B,Bulimina sp. B,,,,Bulimina,,,,sp. B,,,,,1032
 benthic_forams,Bulimina sp. C,Bulimina sp. C,,,,Bulimina,,,,sp. C,,,,,1032
@@ -1578,7 +1577,7 @@ radiolarians,Euchitonia sp.,Euchitonia sp.,,,,Euchitonia,,,,sp.,,,,,128
 radiolarians,Eucyrtidium acuminatum,Eucyrtidium acuminatum,,,,Eucyrtidium,,,,acuminatum,,,,,515
 radiolarians,Eucyrtidium annulatum,Eucyrtidium annulatum,,,,Eucyrtidium,,,,annulatum,,,,,515
 radiolarians,Eucyrtidium antiquum,Eucyrtidium antiquum,,,,Eucyrtidium,,,,antiquum,,,,,515
-radiolarians; radiolarians,Eucyrtidium calvertense; Eucyrtidium cf. calvertense,Eucyrtidium calvertense,,,,Eucyrtidium,,,,calvertense,,,,,515
+radiolarians; radiolarians,Eucyrtidium cf. calvertense; Eucyrtidium calvertense,Eucyrtidium calvertense,,,,Eucyrtidium,,,,calvertense,,,,,515
 radiolarians,Eucyrtidium cienkowskii,Eucyrtidium cienkowskii,,,,Eucyrtidium,,,,cienkowskii,,,,,515
 radiolarians,Eucyrtidium diaphanes,Eucyrtidium diaphanes,,,,Eucyrtidium,,,,diaphanes,,,,,515
 radiolarians,Eucyrtidium hexagonatum,Eucyrtidium hexagonatum,,,,Eucyrtidium,,,,hexagonatum,,,,,515
@@ -2002,16 +2001,15 @@ planktic_forams,Globoquadrina spp.,Globoquadrina spp.,,,,Globoquadrina,,,,spp.,,
 planktic_forams,Globoquadrina tapurensis,Globoquadrina tapurensis,,,,Globoquadrina,,,,tapurensis,,,,,1518
 planktic_forams,Globoquadrina tripartita,Globoquadrina tripartita,,,,Globoquadrina,,,,tripartita,,,,,1518
 planktic_forams,Globoquadrina venezuelana,Globoquadrina venezuelana,,,,Globoquadrina,,,,venezuelana,,,,,1518
-planktic_forams,"Globorotalia (Fohsella) ""praefohsi""","Globorotalia Fohsella ""praefohsi""",,,,Globorotalia,,Fohsella,,"""praefohsi""",,,,,1521
+planktic_forams; planktic_forams,"Globorotalia (Fohsella) “praefohsi”; Globorotalia (Fohsella) ""praefohsi""","Globorotalia Fohsella ""praefohsi""",,,,Globorotalia,,Fohsella,,"""praefohsi""",,,,,1521
 planktic_forams,Globorotalia (Fohsella) fohsi,Globorotalia Fohsella fohsi,,,,Globorotalia,,Fohsella,,fohsi,,,,,1521
 planktic_forams,Globorotalia (Fohsella) fohsi fohsi,Globorotalia Fohsella fohsi fohsi,,,,Globorotalia,,Fohsella,,fohsi,,fohsi,,,1521
-planktic_forams; planktic_forams,Globorotalia (Forsella) fohsi lobata; Globorotalia (Fohsella) fohsi lobata,Globorotalia Fohsella fohsi lobata,,,,Globorotalia,,Fohsella,,fohsi,,lobata,,,1521
+planktic_forams; planktic_forams,Globorotalia (Fohsella) fohsi lobata; Globorotalia (Forsella) fohsi lobata,Globorotalia Fohsella fohsi lobata,,,,Globorotalia,,Fohsella,,fohsi,,lobata,,,1521
 planktic_forams,Globorotalia (Fohsella) fohsi robusta,Globorotalia Fohsella fohsi robusta,,,,Globorotalia,,Fohsella,,fohsi,,robusta,,,1521
 planktic_forams,Globorotalia (Fohsella) peripheroacuta,Globorotalia Fohsella peripheroacuta,,,,Globorotalia,,Fohsella,,peripheroacuta,,,,,1521
 planktic_forams,Globorotalia (Fohsella) peripheroronda,Globorotalia Fohsella peripheroronda,,,,Globorotalia,,Fohsella,,peripheroronda,,,,,1521
 planktic_forams,Globorotalia (Fohsella) praefohsi,Globorotalia Fohsella praefohsi,,,,Globorotalia,,Fohsella,,praefohsi,,,,,1521
-planktic_forams,Globorotalia (Fohsella) “praefohsi”,Globorotalia Fohsella “praefohsi”,,,,Globorotalia,,Fohsella,,“praefohsi”,,,,,1521
-planktic_forams; planktic_forams,Globorotalia (Globorotalia) conoidea; Globorotalia (Globoconella) conoidea,Globorotalia Globoconella conoidea,,,,Globorotalia,,Globoconella,,conoidea,,,,,1521
+planktic_forams; planktic_forams,Globorotalia (Globoconella) conoidea; Globorotalia (Globorotalia) conoidea,Globorotalia Globoconella conoidea,,,,Globorotalia,,Globoconella,,conoidea,,,,,1521
 planktic_forams,Globorotalia (Globoconella) inflata,Globorotalia Globoconella inflata,,,,Globorotalia,,Globoconella,,inflata,,,,,1521
 planktic_forams,Globorotalia (Globorotalia) merotumida,Globorotalia Globoconella merotumida,,,,Globorotalia,,Globoconella,,merotumida,,,,,1521
 planktic_forams,Globorotalia (Globoconella) miozea,Globorotalia Globoconella miozea,,,,Globorotalia,,Globoconella,,miozea,,,,,1521
@@ -3481,7 +3479,7 @@ benthic_forams,Quinqueloculina neocostata,Quinqueloculina neocostata,,,,Quinquel
 benthic_forams,Quinqueloculina patagonica,Quinqueloculina patagonica,,,,Quinqueloculina,,,,patagonica,,,,,2355
 benthic_forams,Quinqueloculina philippinensis,Quinqueloculina philippinensis,,,,Quinqueloculina,,,,philippinensis,,,,,2355
 benthic_forams; benthic_forams,Quinqueloculina seminula; Quinqueloculina seminulum,Quinqueloculina seminula,,,,Quinqueloculina,,,,seminula,,,,,2355
-benthic_forams; benthic_forams,Quinqueloculina; Quinqueloculina sp.,Quinqueloculina sp.,,,,Quinqueloculina,,,,sp.,,,,,2355
+benthic_forams; benthic_forams,Quinqueloculina sp.; Quinqueloculina,Quinqueloculina sp.,,,,Quinqueloculina,,,,sp.,,,,,2355
 benthic_forams,Quinqueloculina spp.,Quinqueloculina spp.,,,,Quinqueloculina,,,,spp.,,,,,2355
 benthic_forams,Quinqueloculina stalkeri,Quinqueloculina stalkeri,,,,Quinqueloculina,,,,stalkeri,,,,,2355
 benthic_forams,Quinqueloculina subpolygona,Quinqueloculina subpolygona,,,,Quinqueloculina,,,,subpolygona,,,,,2355
