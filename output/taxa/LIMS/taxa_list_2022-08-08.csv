@@ -4468,7 +4468,7 @@ Dinophyceae indet.,,,,,,,,,,Dinophyceae indet.,dinoflagellates,321578,Dinophycea
 ,,Calcidiscus,,,,tropicus,,,>10 microns,Calcidiscus tropicus (>10 microns),nannofossils,255405,Calcidiscus,genus,419763,Calcidiscaceae,443656,Coccosphaerales,,,,,,
 ,,Clausicoccus,,,,obrutus,,,,Clausicoccus obrutus,nannofossils,424053,Clausicoccus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,
 ,,Coccolithus,,,,pelagicus,f.,braarudii,,Coccolithus pelagicus f. braarudii,nannofossils,87684,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,
-,,Coccolithus,,,,streckerii,,,,Coccolithus streckerii,nannofossils,87684,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,
+,,Coccolithus,,,,streckeri,,,,Coccolithus streckeri,nannofossils,87684,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,
 ,,Coronocyclus,,,,nitescens,,,elliptical,Coronocyclus nitescens (elliptical),nannofossils,424279,Coronocyclus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,
 ,,Cryptococcolithus,,,cf.,mediaperforatus,,,,Cryptococcolithus cf. mediaperforatus,nannofossils,424028,Cryptococcolithus,genus,419763,Calcidiscaceae,443656,Coccosphaerales,,,,,,
 ,,Cyclicargolithus,,,,abisectus,,,10-11 microns,Cyclicargolithus abisectus (10-11 microns),nannofossils,366219,Cyclicargolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,
@@ -4641,6 +4641,9 @@ Dictyochaceae indet.,,,,,,,,,Aberrant Silicoflagellates,Dictyochaceae indet. (Ab
 ,,Distephanus,,,,slavincii,,,,Distephanus slavincii,silicoflagellates,82180,Distephanus,genus,69592,Dictyochaceae,69591,Phytomastigophora,69590,Chrysophyceae,,,,
 ,,Distephanus,,,,speculum,,,with short radial spine,Distephanus speculum (with short radial spine),silicoflagellates,82180,Distephanus,genus,69592,Dictyochaceae,69591,Phytomastigophora,69590,Chrysophyceae,,,,
 ,,Ebria,,,,tripartita,,,,Ebria tripartita,ebridians,450952,Ebria,genus,450953,Ebriaceae,450954,Ebriales,,,,,,
+,,Aulacoseira,,,,sp.,,,,Aulacoseira sp.,diatoms,432983,Aulacoseira,genus,427312,Aulacoseiraceae,426698,Aulacoseirales,69587,Bacillariophyceae,432613,Ochrophyta,,
+,,Reticulofenestra,,,,sp.,,,,Reticulofenestra sp.,nannofossils,255392,Reticulofenestra,genus,,,,,,,87644,Haptophyta,,
+,,Globoconella,,,,explicationis,,,,Globoconella explicationis,planktic_forams,103797,Globoconella,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria
 ,,Lonchosphaera,,,,spicata,,,,Lonchosphaera spicata,radiolarians,85178,,,,,,,,,,,,
 ,,Poulpus,,,,spp.,,,,Poulpus spp.,radiolarians,614,,,,,,,,,,,,
 ,,Lithostrobus,,,,cuspidatus,,,,Lithostrobus cuspidatus,radiolarians,561,,,,,,,,,,,,

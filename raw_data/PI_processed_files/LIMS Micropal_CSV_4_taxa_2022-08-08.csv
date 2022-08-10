@@ -417,7 +417,7 @@ nannofossils,Ch. altus,Chiasmolithus altus,,,,,Chiasmolithus,,,,altus,,,,,424051
 nannofossils,Ch. oamaruensis,Chiasmolithus oamaruensis,,,,,Chiasmolithus,,,,oamaruensis,,,,,424051,,Chiasmolithus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,TRUE
 nannofossils,Clausicoccus obrutus,,,,,,Clausicoccus,,,,obrutus,,,,,424053,,Clausicoccus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Coccolithus pelagicus f. braarudii,,,,,,Coccolithus,,,,pelagicus,f.,braarudii,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
-nannofossils,Coccolithus streckerii,,,,,,Coccolithus,,,,streckerii,,,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
+nannofossils,Coccolithus streckerii,,,,,,Coccolithus,,,,streckeri,,,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Coronocyclus nitescens (ellipical),,,,,,Coronocyclus,,,,nitescens,,,elliptical,,424279,,Coronocyclus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Coronocyclus nitescens elliptical,Coronocyclus nitescens (ellipical),,,,,Coronocyclus,,,,nitescens,,,elliptical,,424279,,Coronocyclus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,FALSE
 nannofossils,Cryptococcolithus cf. mediaperforatus,,,,,,Cryptococcolithus,,,cf.,mediaperforatus,,,,,424028,,Cryptococcolithus,genus,419763,Calcidiscaceae,443656,Coccosphaerales,,,,,,,,,FALSE
@@ -682,3 +682,19 @@ ebridians,Ebria tripartita,,,,,,Ebria,,,,tripartita,,,,,450952,,Ebria,genus,4509
 ebridians,Ebriopsis antiqua antiqua (ebridian),Ebriopsis antiqua antiqua,,,,,Ebriopsis,,,,antiqua,,antiqua,,,450955,,Ebriopsis,genus,450956,Ebriopsidaceae,450954,Ebriales,,,,,,,28595,Life,FALSE
 silicoflagellates,Silicoflagellate Zone in Ling (1992),,keep and move to eODP unified data structure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 silicoflagellates,Zone in Ling (1992),Silicoflagellate Zone in Ling (1992),keep and move to eODP unified data structure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+diatoms,Actinocyclus ingens nodus,,,,,,Actinocyclus,,,,ingens,,nodus,,,82146,,Actinocyclus,genus,71207,Hemidiscaceae,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life,
+diatoms,Actinocyclus senarius,,,,,,Actinocyclus,,,,senarius,,,,,82146,,Actinocyclus,genus,71207,Hemidiscaceae,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life,
+diatoms,Actinocyclus vulgaris,,,,,,Actinocyclus,,,,vulgaris,,,,,82146,,Actinocyclus,genus,71207,Hemidiscaceae,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life,
+diatoms,Aulacoseira sp.,,,,,,Aulacoseira,,,,sp.,,,,,432983,,Aulacoseira,genus,427312,Aulacoseiraceae,426698,Aulacoseirales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life,
+dinoflagellates,Impagidinium spp.,,,,,,Impagidinium,,,,spp.,,,,,276906,,Impagidinium,genus,321603,Gonyaulacaceae,321606,Gonyaulacales,321578,Dinophyceae,,,,,,,
+nannofossils,Coccolithus streckeri,,,,,,Coccolithus,,,,streckeri,,,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,
+nannofossils,Discoaster spp. (six-rayed),,,,,,Discoaster,,,,spp.,,,six-rayed,,87682,,Discoaster,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,
+nannofossils,Reticulofenestra sp.,,,,,,Reticulofenestra,,,,sp.,,,,,255392,,Reticulofenestra,genus,,,,,,,87644,Haptophyta,,,28595,Life,
+planktic_forams,Globoconella explicationis,,,,,,Globoconella,,,,explicationis,,,,,103797,,Globoconella,genus,82192,Globorotaliidae,,,,,288974,Foraminifera,212476,Rhizaria,,,
+planktic_forams,Parasubbotina griffinae,,,,,,Parasubbotina,,,,griffinae,,,,,71238,,Parasubbotina,genus,82191,Globigerinidae,,,,,288974,Foraminifera,212476,Rhizaria,,,
+planktic_forams,Tenuitella sp.,,,,,,Tenuitella,,,,sp.,,,,,2652,,Tenuitella,genus,422373,Globigerinitidae,,,,,288974,Foraminifera,212476,Rhizaria,,,
+planktic_forams,Tenuitella spp.,,,,,,Tenuitella,,,,spp.,,,,,2652,,Tenuitella,genus,422373,Globigerinitidae,,,,,288974,Foraminifera,212476,Rhizaria,,,
+radiolarians,Dorcadospyris scambos,,,,,,Dorcadospyris,,,,scambos,,,,,505,,Dorcadospyris,genus,85756,Triospyrididae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,,
+silicoflagellates,Distephanus boliviensis,,,,,,Distephanus,,,,boliviensis,,,,,82180,,Distephanus,genus,69592,Dictyochaceae,69591,Phytomastigophora,69590,Chrysophyceae,,,,,28595,Life,
