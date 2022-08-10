@@ -97,13 +97,13 @@ Actiniscus elongatus,dinoflagellates,Actiniscus,Actiniscus elongatus,elongatus,,
 Actiniscus elongatus (q),ebridians,Actiniscus,Actiniscus elongatus,elongatus,,left_only
 Actiniscus laciniatus (q),ebridians,Actiniscus,Actiniscus laciniatus,laciniatus,,left_only
 Actiniscus pentaradiatus,dinoflagellates,Actiniscus,Actiniscus pentaradiatus,pentaradiatus,,left_only
-Actiniscus pentasterias,ebridians,Actiniscus,Actiniscus pentasterias,pentasterias,,left_only
 Actiniscus pentasterias,dinoflagellates,Actiniscus,Actiniscus pentasterias,pentasterias,,both
+Actiniscus pentasterias,ebridians,Actiniscus,Actiniscus pentasterias,pentasterias,,left_only
 Actiniscus radicula,dinoflagellates,Actiniscus,Actiniscus radicula,radicula,,left_only
 Actiniscus sp.,ebridians,Actiniscus,Actiniscus sp.,sp.,,left_only
 Actiniscus squamosus,ebridians,Actiniscus,Actiniscus squamosus,squamosus,,left_only
-Actiniscus tetrasterias,ebridians,Actiniscus,Actiniscus tetrasterias,tetrasterias,,left_only
 Actiniscus tetrasterias,dinoflagellates,Actiniscus,Actiniscus tetrasterias,tetrasterias,,left_only
+Actiniscus tetrasterias,ebridians,Actiniscus,Actiniscus tetrasterias,tetrasterias,,left_only
 Actinocyclus bisenarius (q),diatoms,Actinocyclus,Actinocyclus bisenarius,bisenarius,,left_only
 Actinocyclus cubitus,diatoms,Actinocyclus,Actinocyclus cubitus,cubitus,,left_only
 Actinocyclus curvatulus,diatoms,Actinocyclus,Actinocyclus curvatulus,curvatulus,,both
@@ -8075,8 +8075,8 @@ Robulus occidentalis,benthic_forams,Robulus,Robulus occidentalis,occidentalis,,l
 Robulus plummerae,benthic_forams,Robulus,Robulus plummerae,plummerae,,left_only
 Robulus sp.,benthic_forams,Robulus,Robulus sp.,sp.,,left_only
 Robustaurila ishizakii,ostracods,Robustaurila,Robustaurila ishizakii,ishizakii,,left_only
-Rocella gelida,diatoms,Rocella,Rocella gelida,gelida,,both
 Rocella gelida,silicoflagellates,Rocella,Rocella gelida,gelida,,left_only
+Rocella gelida,diatoms,Rocella,Rocella gelida,gelida,,both
 Rocella gemma,silicoflagellates,Rocella,Rocella gemma,gemma,,left_only
 Rocella princeps,diatoms,Rocella,Rocella princeps,princeps,,left_only
 Rocella schraderi,silicoflagellates,Rocella,Rocella schraderi,schraderi,,left_only
@@ -8941,8 +8941,8 @@ Tenuitella minutissima,planktic_forams,Tenuitella,Tenuitella minutissima,minutis
 Tenuitella munda,planktic_forams,Tenuitella,Tenuitella munda,munda,,both
 Tenuitella praestainfohsi,planktic_forams,Tenuitella,Tenuitella praestainfohsi,praestainfohsi,,left_only
 Tenuitella sp.,planktic_forams,Tenuitella,Tenuitella sp.,sp.,,both
-Tepka perforata,silicoflagellates,Tepka,Tepka perforata,perforata,,left_only
 Tepka perforata,radiolarians,Tepka,Tepka perforata,perforata,,left_only
+Tepka perforata,silicoflagellates,Tepka,Tepka perforata,perforata,,left_only
 Tepka sp.,radiolarians,Tepka,Tepka sp.,sp.,,left_only
 Tessarastrum sp.,radiolarians,Tessarastrum,Tessarastrum sp.,sp.,,left_only
 Tessarastrum straussii,radiolarians,Tessarastrum,Tessarastrum straussii,straussii,,left_only
