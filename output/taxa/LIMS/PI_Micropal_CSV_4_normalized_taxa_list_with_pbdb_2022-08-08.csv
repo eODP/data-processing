@@ -417,7 +417,7 @@ nannofossils,Ch. altus,Chiasmolithus altus,,,,,Chiasmolithus,,,,altus,,,,,424051
 nannofossils,Ch. oamaruensis,Chiasmolithus oamaruensis,,,,,Chiasmolithus,,,,oamaruensis,,,,,424051,,Chiasmolithus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,True
 nannofossils,Clausicoccus obrutus,,,,,,Clausicoccus,,,,obrutus,,,,,424053,,Clausicoccus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,False
 nannofossils,Coccolithus pelagicus f. braarudii,,,,,,Coccolithus,,,,pelagicus,f.,braarudii,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,False
-nannofossils,Coccolithus streckerii,,,,,,Coccolithus,,,,streckeri,,,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,False
+nannofossils,Coccolithus streckerii,Coccolithus streckeri,,,,,Coccolithus,,,,streckeri,,,,,87684,,Coccolithus,genus,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,False
 nannofossils,Coronocyclus nitescens (ellipical),,,,,,Coronocyclus,,,,nitescens,,,elliptical,,424279,,Coronocyclus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,False
 nannofossils,Coronocyclus nitescens elliptical,Coronocyclus nitescens (ellipical),,,,,Coronocyclus,,,,nitescens,,,elliptical,,424279,,Coronocyclus,genus,419751,Coccolithaceae,418930,Coccolithales,418920,Coccolithophyceae,87644,Haptophyta,,,28595,Life,False
 nannofossils,Cryptococcolithus cf. mediaperforatus,,,,,,Cryptococcolithus,,,cf.,mediaperforatus,,,,,424028,,Cryptococcolithus,genus,419763,Calcidiscaceae,443656,Coccosphaerales,,,,,,,,,False
@@ -551,7 +551,7 @@ palynology,Spores (moss&fern),"""Undifferentiated spores from moss or ferns""",V
 palynology,Spores of Pteridophytes,Pteridophyta indet. spores,,,Pteridophyta indet.,,,,,,,,,,spores,54828,,Pteridophyta,phylum,,,,,,,,,54311,Plantae,,,False
 palynology,Spores of Sphagnum,Sphagnum sp. spores,,,,,Sphagnum,,,,sp.,,,,spores,321353,,Sphagnum,genus,321354,Sphagnaceae,,,,,55134,Bryophyta,54311,Plantae,,,False
 palynology,Spores of pteridophytes,Pteridophyta indet. spores,,,Pteridophyta indet.,,,,,,,,,,spores,54828,,Pteridophyta,phylum,,,,,,,,,54311,Plantae,,,False
-palynology,Tintinids,Tintinnida indet.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+palynology,Tintinids,Tintinnida indet.,,,Tintinnida indet.,,,,,,,,,,,446918,446918,Tintinnida,order,,,,,,,720,Ciliophora,,,28595,Life,False
 palynology,Trees,"""Undifferentiated pollen from trees""",,JAS has asked Vera K for assistance,"""Undifferentiated pollen from trees""",,,,,,,,,,,,,,,,,,,,,,,,,,,False
 planktic_forams,Acarinina cf. medizzi,,,,,,Acarinina,,,cf.,medizzi,,,,,763,,Acarinina,genus,,,,,,,288974,Foraminifera,212476,Rhizaria,,,False
 planktic_forams,Beella spp.,,,,,,Beella,,,,spp.,,,,,951,,Beella,genus,82191,Globigerinidae,,,,,288974,Foraminifera,212476,Rhizaria,,,False
