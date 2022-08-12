@@ -1,4 +1,4 @@
-file,top,bottom,top depth,bottom depth,depth,interval,7,8,9,,
+file,top,bottom,top depth,bottom depth,depth,interval,7,8,9,10,11
 LIMS/Micropal_CSV_4/320_U1334_benthic_forams.csv,Top [cm],Bottom [cm],Depth (csf),,,"Core, section, interval (cm)",,,,,
 LIMS/Micropal_CSV_4/361_U1479B_nannofossils.csv,Top (cm),Bottom (cm),,,,,,,,,
 LIMS/Micropal_CSV_4/372_U1517C_planktic_forams.csv,Top [cm],Bottom [cm],Top depth CSF-B (m):,Bottom depth CSF-B (m):,,"Expedition, site, hole, core, section, interval (cm):",,,,,
