@@ -1,5 +1,5 @@
 import re
-
+import pandas as pd
 
 def extract_taxon_group_from_filename(filename):
     filename = re.sub("-+", "_", filename)
@@ -43,3 +43,21 @@ def get_taxa_and_taxon_groups(df):
             all_verbatim_names[name].append(row["taxon_group"])
 
     return all_verbatim_names
+
+
+def log_df(df, row_count=5):
+    print(df.shape)
+    return df.head(row_count)
+
+
+def create_df_from_db_rows(rows):
+    records = []
+    for row in rows:
+        data = {}
+        for field, value in row.items():
+            data[field] = value if value else np.nan
+        records.append(data)
+
+    records
+
+    return pd.DataFrame(records)
