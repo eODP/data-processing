@@ -1,0 +1,90 @@
+original_name,name,dataset,dataset_type
+(taxon names are in the header),Taxon Name,LIMS,taxa
+Abundance,Group Abundance,LIMS,taxa
+Group Abundance,Group Abundance,LIMS,taxa
+Group abundance,Group Abundance,LIMS,taxa
+Group abundance (%),Group Abundance,LIMS,taxa
+Abundance (%),Group Abundance,LIMS,taxa
+Abundances,Group Abundance,LIMS,taxa
+Group preservation,Group Preservation,LIMS,taxa
+Preservation,Group Preservation,LIMS,taxa
+Presevation,Group Preservation,LIMS,taxa
+Comment,Comment,LIMS,taxa
+Comments,Comment,LIMS,taxa
+COMMENTS,Comment,LIMS,taxa
+comments,Comment,LIMS,taxa
+Comment (general),Comment,LIMS,taxa
+General comment,Comment,LIMS,taxa
+Sample comment,Comment,LIMS,taxa
+BF comment,Comment,LIMS,taxa
+Nannofossil comment,Comment,LIMS,taxa
+PF Group Abundance,planktic foraminifera group abundance,LIMS,taxa
+PF group abundance,planktic foraminifera group abundance,LIMS,taxa
+% Planktic Foraminifera within whole sample,planktic foraminifera group abundance,LIMS,taxa
+Percentage of planktic forams in total foram assemblage [%],planktic foraminifera group abundance,LIMS,taxa
+Foram abundance,planktic foraminifera group abundance,LIMS,taxa
+Planktic foraminiferal %,planktic foraminifera group abundance,LIMS,taxa
+Planktic foraminiferal (%),planktic foraminifera group abundance,LIMS,taxa
+Foraminiferal abundance,planktic foraminifera group abundance,LIMS,taxa
+Percentage of benthic forams in total foram assemblage [%],benthic foraminifera group abundance,LIMS,taxa
+BF Group abundance,benthic foraminifera group abundance,LIMS,taxa
+Benthic abundance,benthic foraminifera group abundance,LIMS,taxa
+Diatom abundance,diatom group abundance,LIMS,taxa
+Diatoms group abundance,diatom group abundance,LIMS,taxa
+Silicoflagellates group abundance,Silicoflagellate group abundance,LIMS,taxa
+Sillicoflagellate abundance,Silicoflagellate group abundance,LIMS,taxa
+BF Preservation,benthic foraminifer preservation,LIMS,taxa
+BF preservation,benthic foraminifer preservation,LIMS,taxa
+Diatom preservation dissolution,diatom preservation,LIMS,taxa
+Diatom preservation fragmentation,diatom preservation,LIMS,taxa
+PF preservation,planktic foraminifer preservation,LIMS,taxa
+PF Preservation,planktic foraminifer preservation,LIMS,taxa
+Foraminferal preservation,planktic foraminifer preservation,LIMS,taxa
+Foraminiferal preservation,planktic foraminifer preservation,LIMS,taxa
+Aspect comment (etching),Preservation Comments,LIMS,taxa
+Age,Sample Age,LIMS,taxa
+Additional zone name,Sample Zone,LIMS,taxa
+Additional zone name (short),Sample Zone (short),LIMS,taxa
+Additional zone name; Zone name,Sample Zone,LIMS,taxa
+Additional zone name (short); PF Zone; Zone name (short),Sample Zone (Short),LIMS,taxa
+Datum name; Datum name generic,Sample Datum name,LIMS,taxa
+Zone comment,Age Control Comments,LIMS,taxa
+Datum age average [Ma],Datum age average (Ma),LIMS,taxa
+Datum age maximum (Ma); Lower boundary age av. [Ma],Sample age maximum (Ma),LIMS,taxa
+Datum age minimum (Ma); Upper boundary age av. [Ma],Sample age minimum (Ma),LIMS,taxa
+Datum author year,Datum author year,LIMS,taxa
+Zone author (year),Zone author year,LIMS,taxa
+Upper boundary age min [Ma],Upper boundary age min [Ma],LIMS,taxa
+Datum region,Datum region,LIMS,taxa
+Datum type,Datum type,LIMS,taxa
+Genus/species (upper zone),Datum taxon (upper),LIMS,taxa
+Genus/species lower zone),Datum taxon (lower),LIMS,taxa
+Type (lower zone),Datum type (upper),LIMS,taxa
+Type (upper zone),Datum type (lower),LIMS,taxa
+Large Benthic Forams [%],Large Benthic Forams (%),LIMS,taxa
+Mixing,Reworking,LIMS,taxa
+"Reworking comment (1= <1%, 2= light 1-10%, 3= >10%)",Reworking,LIMS,taxa
+No. specimens/tray,No. specimens/tray,LIMS,taxa
+Organic matter,Organic matter,LIMS,taxa
+Terrestrial organic matter,Organic matter (terrestrial),LIMS,taxa
+"PALEO WATER DEPTH (IS=inner shelf, MS=middle shelf, OS=outer shelf)",Paleo Water Depth,LIMS,taxa
+Bathymetry,Paleo Water Depth,LIMS,taxa
+Percentage of benthic forams in total foram assemblage [%]; Percentage of planktic forams in total foram assemblage [%]; Planktonic Benthic ratio (P:B),Planktic/Benthic Ratio (%),LIMS,taxa
+Percentage of non-calcareous agglutinated forams in total foram assemblage [%],Percentage of non-calcareous agglutinated forams in total foram assemblage [%],LIMS,taxa
+Pyrite,Pyrite ,LIMS,taxa
+"Reworking comment (1= <1%, 2=light 1-10%, 3= >10%)",Reworking comment,LIMS,taxa
+Sample preparation comment,Sample preparation comment,LIMS,taxa
+Temperature Range,Temperature Range,LIMS,taxa
+Total in situ dinocysts,Total in situ dinocysts,LIMS,taxa
+XBroken,Palynology Preservation Broken,LIMS,taxa
+XCorroded,Palynology Preservation Corroded,LIMS,taxa
+XCrumpled,Palynology Preservation Crumpled,LIMS,taxa
+count,Count,LIMS,taxa
+count_type,Count type,LIMS,taxa
+Diatom Zone (NPD) in Yanagisawa and Akiba (1998),Sample Zone diatom,LIMS,taxa
+"Diatom Zone (Yanagisawa and Akiba, 1998)",Sample Zone diatom,LIMS,taxa
+Martini (1971) Zone,Sample Zone nannofossil,LIMS,taxa
+Radiolarian zone,Sample Zone radiolarian,LIMS,taxa
+Radiolarian zone/subzone,Sample Zone radiolarian,LIMS,taxa
+Silicoflagellate Zone in Ling (1992),Sample Zone Silicoflagellate,LIMS,taxa
+Zone in Ling (1992),Sample Zone Silicoflagellate,LIMS,taxa

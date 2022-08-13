@@ -455,7 +455,7 @@ def get_non_taxa_fields(df, target_column):
     df = df.dropna(subset=[target_column])
     for index, row in df.iterrows():
         values = set()
-        values.update(row[target_column].split("; "))
+        values.update(row[target_column].split(" | "))
         for value in values:
             non_taxa_dict[value] = row["normalized"]
 
