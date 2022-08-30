@@ -561,3 +561,57 @@ def normalize_abundance_codes(
                     changed = True
 
     return {"changed": changed, "df": df}
+
+
+def normalize_abundance_codes_group(df, codes_df, taxon_group, path):
+    changed = False
+
+    exps = df["Exp"].unique()
+    if len(exps) > 1:
+        print("multiple expeditions: ", path, exps)
+    exp = exps[0]
+
+    exp_df = codes_df[
+        (codes_df["Exp"] == exp)
+        & (codes_df["taxon_group"] == taxon_group)
+        & (codes_df["file"].str.contains(path))
+    ]
+
+    for index, row in exp_df.iterrows():
+        tmp = df[row["original_header"]]
+        df[row["original_header"]] = tmp.replace(
+            to_replace=row["abundance_code"],
+            value=row["harmonized_code"],
+            regex=False,
+        )
+        if not tmp.fillna("").equals(df[row["original_header"]].fillna("")):
+            changed = True
+
+    return {"changed": changed, "df": df}
+
+
+def normalize_switched_abundance_preservation(
+    df, codes_df, taxon_group, fixed_df, path
+):
+    """set Preservation and Group Abundance to what is in the fixed dataframe"""
+    changed = False
+
+    exps = df["Exp"].unique()
+    if len(exps) > 1:
+        print("multiple expeditions: ", path, exps)
+    exp = exps[0]
+
+    exp_df = codes_df[
+        (codes_df["Exp"] == exp)
+        & (codes_df["taxon_group"] == taxon_group)
+        & (codes_df["file"].str.contains(path))
+    ]
+
+    if len(exp_df) > 0:
+        cols = set(df.columns).intersection(set(exp_df["original_header"]))
+
+        for col in cols:
+            df[col] = fixed_df[col]
+            changed = True
+
+    return {"changed": changed, "df": df}

@@ -25,6 +25,8 @@ from scripts.normalize_data import (
     remove_bracket_text,
     remove_empty_unnamed_columns,
     normalize_abundance_codes,
+    normalize_abundance_codes_group,
+    normalize_switched_abundance_preservation,
 )
 
 
@@ -1935,3 +1937,447 @@ class TestNormalizeAbundanceCodes:
                 codes_df,
                 verbatim_names_taxon_groups,
             )
+
+
+class TestNormalizeAbundanceCodesGroup:
+    def create_df(self):
+        return pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "a"},
+                {"Exp": "1", "header1": np.nan},
+                {"Exp": "1", "header1": "b"},
+            ]
+        )
+
+    def test_no_changes_if_original_and_normalized_abundances_are_the_same(self):
+        df = self.create_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "a",
+                    "harmonized_code": "a",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "b",
+                    "harmonized_code": "b",
+                    "file": path,
+                },
+            ]
+        )
+
+        taxon_group = "taxon1"
+        expected = df
+
+        result = normalize_abundance_codes_group(df, codes_df, taxon_group, path)
+
+        assert result["changed"] == False
+        assert_frame_equal(result["df"], expected)
+
+    def test_changes_abundance_if_same_expedition_and_taxon_group(self):
+        df = self.create_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "a",
+                    "harmonized_code": "AA",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "b",
+                    "harmonized_code": "BB",
+                    "file": path,
+                },
+            ]
+        )
+
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA"},
+                {"Exp": "1", "header1": np.nan},
+                {"Exp": "1", "header1": "BB"},
+            ]
+        )
+
+        result = normalize_abundance_codes_group(df, codes_df, taxon_group, path)
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_ignore_normalized_abundances_from_different_expeditions(self):
+        df = self.create_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "a",
+                    "harmonized_code": "AA",
+                    "file": path,
+                },
+                {
+                    "Exp": "100",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "b",
+                    "harmonized_code": "BB",
+                    "file": path,
+                },
+            ]
+        )
+
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA"},
+                {"Exp": "1", "header1": np.nan},
+                {"Exp": "1", "header1": "b"},
+            ]
+        )
+
+        result = normalize_abundance_codes_group(df, codes_df, taxon_group, path)
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_ignore_normalized_abundances_from_different_taxon_group(self):
+        df = self.create_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "a",
+                    "harmonized_code": "AA",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon2",
+                    "abundance_code": "b",
+                    "harmonized_code": "BB",
+                    "file": path,
+                },
+            ]
+        )
+
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA"},
+                {"Exp": "1", "header1": np.nan},
+                {"Exp": "1", "header1": "b"},
+            ]
+        )
+
+        result = normalize_abundance_codes_group(df, codes_df, taxon_group, path)
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_handles_multiple_columns(self):
+        df = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "a", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "b", "header2": np.nan},
+            ]
+        )
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "a",
+                    "harmonized_code": "AA",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "b",
+                    "harmonized_code": "BB",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header2",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "c",
+                    "harmonized_code": "CC",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header2",
+                    "taxon_group": "taxon1",
+                    "abundance_code": "d",
+                    "harmonized_code": "d",
+                    "file": path,
+                },
+            ]
+        )
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "CC"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_abundance_codes_group(df, codes_df, taxon_group, path)
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+
+class TestNormalizeSwitchedAbundancePreservation:
+    def create_df(self):
+        return pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "a", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "b", "header2": np.nan},
+            ]
+        )
+
+    def create_fixed_df(self):
+        return pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "CC"},
+                {"Exp": "1", "header1": np.nan, "header2": "DD"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+    def test_set_values_for_original_header_with_values_from_fixed_df(self):
+        df = self.create_df()
+        fixed_df = self.create_fixed_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+            ]
+        )
+
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_switched_abundance_preservation(
+            df, codes_df, taxon_group, fixed_df, path
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_handles_file_with_multiple_values(self):
+        df = self.create_df()
+        fixed_df = self.create_fixed_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "file": f"{path}; file2.csv",
+                },
+            ]
+        )
+
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_switched_abundance_preservation(
+            df, codes_df, taxon_group, fixed_df, path
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_ignore_original_header_from_different_expeditions(self):
+        df = self.create_df()
+        fixed_df = self.create_fixed_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+                {
+                    "Exp": "100",
+                    "original_header": "header2",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+            ]
+        )
+        taxon_group = "taxon1"
+        path = "file.csv"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_switched_abundance_preservation(
+            df, codes_df, taxon_group, fixed_df, path
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_ignore_original_header_from_different_taxon_group(self):
+        df = self.create_df()
+        fixed_df = self.create_fixed_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header2",
+                    "taxon_group": "taxon2",
+                    "file": path,
+                },
+            ]
+        )
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_switched_abundance_preservation(
+            df, codes_df, taxon_group, fixed_df, path
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_ignore_original_header_for_different_file(self):
+        df = self.create_df()
+        fixed_df = self.create_fixed_df()
+        path = "file.csv"
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header2",
+                    "taxon_group": "taxon1",
+                    "file": "file2.csv; file3.csv",
+                },
+            ]
+        )
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "c"},
+                {"Exp": "1", "header1": np.nan, "header2": "d"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_switched_abundance_preservation(
+            df, codes_df, taxon_group, fixed_df, path
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
+
+    def test_handles_multiple_original_header(self):
+        df = self.create_df()
+        fixed_df = self.create_fixed_df()
+        path = "file.csv"
+
+        codes_df = pd.DataFrame(
+            [
+                {
+                    "Exp": "1",
+                    "original_header": "header1",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+                {
+                    "Exp": "1",
+                    "original_header": "header2",
+                    "taxon_group": "taxon1",
+                    "file": path,
+                },
+            ]
+        )
+        taxon_group = "taxon1"
+        expected = pd.DataFrame(
+            [
+                {"Exp": "1", "header1": "AA", "header2": "CC"},
+                {"Exp": "1", "header1": np.nan, "header2": "DD"},
+                {"Exp": "1", "header1": "BB", "header2": np.nan},
+            ]
+        )
+
+        result = normalize_switched_abundance_preservation(
+            df, codes_df, taxon_group, fixed_df, path
+        )
+
+        assert result["changed"] == True
+        assert_frame_equal(result["df"], expected)
