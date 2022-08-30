@@ -55,7 +55,7 @@ def create_df_from_db_rows(rows):
     for row in rows:
         data = {}
         for field, value in row.items():
-            data[field] = value if value else np.nan
+            data[field] = value if value else pd.NA
         records.append(data)
 
     records
