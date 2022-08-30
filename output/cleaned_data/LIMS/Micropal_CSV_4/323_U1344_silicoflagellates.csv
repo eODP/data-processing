@@ -5,9 +5,9 @@ Exp,Site,Hole,"core, section",Top Depth [m],Bottom Depth [m],Abundance,Preservat
 323,U1344,A,30H-CC,280.21,280.31,R,G,,T,,T,T,,,,,,,,,Dc. subarctios,30,CC,H,,,,323-U1344A-30H-CC,96f10be0e7897df8c3e922530fc575d2
 323,U1344,A,31X-CC,288.48,288.58,F,G,,R,,R,R,R,,,T,,,,,Dc. subarctios,31,CC,X,,,,323-U1344A-31X-CC,ef0b8c9bacbf9ef8575a8f447425cfad
 323,U1344,A,32X-CC,299.07,299.17,F,G,,T,,,R,T,,,,R,,,,Dc. subarctios,32,CC,X,,,,323-U1344A-32X-CC,59f6b44abdd6c90f16f511765e6afd38
-323,U1344,A,76X-CC,723.01,723.11,T,P,,,,,,,,,,T,,,,Dc. subarctios,76,CC,X,,,,323-U1344A-76X-CC,ad10d84e4a39053675994f16cd0b61a3
+323,U1344,A,76X-CC,723.01,723.11,X,P,,,,,,,,,,T,,,,Dc. subarctios,76,CC,X,,,,323-U1344A-76X-CC,ad10d84e4a39053675994f16cd0b61a3
 323,U1344,A,77X-CC,733.03,733.13,R,M,,,,,T,,,,,T,,,,Dc. subarctios,77,CC,X,,,,323-U1344A-77X-CC,30d8b85b0ced36b5732d233ff2a6e106
-323,U1344,A,78X-CC,739.65,739.75,T,P,,,,,,,,,,,,,T,Am. rectangulare,78,CC,X,,,,323-U1344A-78X-CC,0460cab8337b18593821739da946bf47
+323,U1344,A,78X-CC,739.65,739.75,X,P,,,,,,,,,,,,,T,Am. rectangulare,78,CC,X,,,,323-U1344A-78X-CC,0460cab8337b18593821739da946bf47
 323,U1344,A,79X-CC,746.49,746.59,R,M,,,,,T,,,,,,R,,,Am. rectangulare,79,CC,X,,,,323-U1344A-79X-CC,de1eabc5ae81e0c29968730880b7888d
 323,U1344,D,10H-CC,88.44,88.54,R,G,,,,,,R,,,,,,,,Ds. octangulatus,10,CC,H,,,,323-U1344D-10H-CC,a88a2a0d1c304f706382cba7c550ce25
 323,U1344,D,11H-CC,97.76,97.86,B,,,,,,,,,,,,,,,Ds. octangulatus,11,CC,H,,,,323-U1344D-11H-CC,48a2e8318d81f80d33bda98468342b94

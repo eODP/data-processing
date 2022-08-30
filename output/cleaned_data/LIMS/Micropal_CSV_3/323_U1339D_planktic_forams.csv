@@ -1,22 +1,22 @@
 Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Comments,Preservation,Group Abundance,Catapsydrax dissimilis,Catapsydrax unicavus,Globigerina bulloides,Globigerina ciperoensis,Globigerina parabulloides,Globigerina umbilicata,Globigerinita glutinata,Globigerinita uvula,Globoquadrina duterei,Globorotalia incisa,Globorotalia (Globoconella) praescitula,Globorotalia (Hirsutella) scitula,Globorotalia suterae,Neogloboquadrina atlantica atlantica,Neogloboquadrina atlantica praeatlantica,Neogloboquadrina dutertri subcretacea,Neogloboquadrina pachyderma (sin),Neogloboquadrina pachyderma(dex),Orbulina universa,Turborotalia quinqueloba,pc_fossil_group,physical_constituent_name,pc_fossil_name,pc_abundance_name_mode,pc_preservation_name_average,File Data,eodp_id
-323-U1339D-1H-CC-PAL-FORAM74,323,U1339,D,1,1-CC,H,CC,PAL,FORAM74,0,0,6.52,6.52,dominant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,F,F,,,,,,,,,209adb20e3627c399cf8dbd4318c12db
-323-U1339D-2H-CC-PAL-FORAM79,323,U1339,D,2,2-CC,H,CC,PAL,FORAM79,0,0,16.04,16.04,dominant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,,R,,,,,,,,,302deda78428befb44595f1551b73414
-323-U1339D-3H-CC-PAL-FORAM85,323,U1339,D,3,3-CC,H,CC,PAL,FORAM85,0,0,25.59,25.59,dominant IRD,G [323_PF],F,,,,,,F,,,,,,,,,,,,P,,,,,,,,,c3788ca72ed7e6e293c2f888303e95b5
-323-U1339D-4H-CC-PAL-FORAM90,323,U1339,D,4,4-CC,H,CC,PAL,FORAM90,0,0,33.38,33.38,dominant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,,F,,,,,,,,,f8561d1a1cebaf50ab90fb313d9979b2
-323-U1339D-5H-CC-PAL-FORAM19,323,U1339,D,5,5-CC,H,CC,PAL,FORAM19,0,0,43.24,43.24,dominant IRD,G [323_PF],R,,,,,,R,,,,,,,,,,,,,,,Planktonic foraminiferas,fossil,"Globigerinita glutinata (Egger, 1893)",,,,596971024556bda97d76068a1365cb0c
-323-U1339D-6H-CC-PAL-FORAM26,323,U1339,D,6,6-CC,H,CC,PAL,FORAM26,0,0,52.97,52.97,dominant IRD,G [323_PF],D,,,,,,D,,,,,,,,,,,,F,,P,,,,,,,8ed44e84e3d63777abae7d502923e395
-323-U1339D-7H-CC-PAL-FORAM31,323,U1339,D,7,7-CC,H,CC,PAL,FORAM31,0,0,62.48,62.48,dominant IRD,G [323_PF],F,,,,,,F,,,,,,,,,,,,R,,,,,,,,,b24fa9f0c2bfa7f2c91f763513e047d4
-323-U1339D-8H-CC-PAL20     -FORAM36,323,U1339,D,8,8-CC,H,CC,PAL20,FORAM36,0,0,71.2,71.2,dominant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,R,F,,,,,,,,,03abdbf3e800b2b8b1be9bbd8eedfc89
+323-U1339D-1H-CC-PAL-FORAM74,323,U1339,D,1,1-CC,H,CC,PAL,FORAM74,0,0,6.52,6.52,dominant IRD,G,A,,,,,,A,,,,,,,,,,,F,F,,,,,,,,,209adb20e3627c399cf8dbd4318c12db
+323-U1339D-2H-CC-PAL-FORAM79,323,U1339,D,2,2-CC,H,CC,PAL,FORAM79,0,0,16.04,16.04,dominant IRD,G,A,,,,,,A,,,,,,,,,,,,R,,,,,,,,,302deda78428befb44595f1551b73414
+323-U1339D-3H-CC-PAL-FORAM85,323,U1339,D,3,3-CC,H,CC,PAL,FORAM85,0,0,25.59,25.59,dominant IRD,G,F,,,,,,F,,,,,,,,,,,,P,,,,,,,,,c3788ca72ed7e6e293c2f888303e95b5
+323-U1339D-4H-CC-PAL-FORAM90,323,U1339,D,4,4-CC,H,CC,PAL,FORAM90,0,0,33.38,33.38,dominant IRD,G,A,,,,,,A,,,,,,,,,,,,F,,,,,,,,,f8561d1a1cebaf50ab90fb313d9979b2
+323-U1339D-5H-CC-PAL-FORAM19,323,U1339,D,5,5-CC,H,CC,PAL,FORAM19,0,0,43.24,43.24,dominant IRD,G,R,,,,,,R,,,,,,,,,,,,,,,Planktonic foraminiferas,fossil,"Globigerinita glutinata (Egger, 1893)",,,,596971024556bda97d76068a1365cb0c
+323-U1339D-6H-CC-PAL-FORAM26,323,U1339,D,6,6-CC,H,CC,PAL,FORAM26,0,0,52.97,52.97,dominant IRD,G,D,,,,,,D,,,,,,,,,,,,F,,P,,,,,,,8ed44e84e3d63777abae7d502923e395
+323-U1339D-7H-CC-PAL-FORAM31,323,U1339,D,7,7-CC,H,CC,PAL,FORAM31,0,0,62.48,62.48,dominant IRD,G,F,,,,,,F,,,,,,,,,,,,R,,,,,,,,,b24fa9f0c2bfa7f2c91f763513e047d4
+323-U1339D-8H-CC-PAL20     -FORAM36,323,U1339,D,8,8-CC,H,CC,PAL20,FORAM36,0,0,71.2,71.2,dominant IRD,G,A,,,,,,A,,,,,,,,,,,R,F,,,,,,,,,03abdbf3e800b2b8b1be9bbd8eedfc89
 323-U1339D-9H-CC-FORAM25,323,U1339,D,9,9-CC,H,CC,FORAM25,,0,0,80.35,80.35,dominant IRD,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,c8f5498156f46a897563561fe9910432
-323-U1339D-10H-CC-FORAM50,323,U1339,D,10,10-CC,H,CC,FORAM50,,0,0,90.53,90.53,few IRD,M [323_PF],F,,,,,,F,,,,,,,,,,,,,,,,,,,,,a368ea4280215f95127698faf95d552a
+323-U1339D-10H-CC-FORAM50,323,U1339,D,10,10-CC,H,CC,FORAM50,,0,0,90.53,90.53,few IRD,M,F,,,,,,F,,,,,,,,,,,,,,,,,,,,,a368ea4280215f95127698faf95d552a
 323-U1339D-11H-CC-FORAM24,323,U1339,D,11,11-CC,H,CC,FORAM24,,0,0,100.38,100.38,few IRD,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,b0bd4e3c7287e6eacdd8acb34cd9964a
-323-U1339D-12H-CC-FORAM30,323,U1339,D,12,12-CC,H,CC,FORAM30,,0,0,110.15,110.15,few IRD,M [323_PF],P,,,,,,P,,,,,,,,,,,P,,,,,,,,,,96b36c0683e68fc3d12df1f1291d3749
-323-U1339D-13H-CC-FORAM87,323,U1339,D,13,13-CC,H,CC,FORAM87,,0,0,119.89,119.89,abundant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,,P,,,,,,,,,9177387abde0f604665b75c49ca31efe
-323-U1339D-14H-CC-FORAM49,323,U1339,D,14,14-CC,H,CC,FORAM49,,0,0,128.83,128.83,abundant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,,P,,,,,,,,,baecc6468a2802742ed6085b6cc4badc
-323-U1339D-15H-CC-FORAM54,323,U1339,D,15,15-CC,H,CC,FORAM54,,0,0,137.14,137.14,abundant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,P,R,,,Planktonic foraminiferas,fossil,"Globigerina bulloides (d?Orbigny, 1826)",P [323_PFs],,,e1df2c08b245adfc73330e18d10891e9
-323-U1339D-16H-CC-PAL10     -FORAM59,323,U1339,D,16,16-CC,H,CC,PAL10,FORAM59,0,0,147.16,147.16,dominant IRD,G [323_PF],A,,,,,,D,,,,,,,,,,,P,F,,,,,,,,,398fa9a06587a3e9c6e23ae2f85240ea
-323-U1339D-17H-CC-FORAM5,323,U1339,D,17,17-CC,H,CC,FORAM5,,0,0,157.88,157.88,dominant IRD,M [323_PF],R,,,,,,R,,,,,,,,,,,,R,,,,,,,,,8f07bea9a858bf24f4800bbc5b795fd2
-323-U1339D-18H-CC-FORAM56,323,U1339,D,18,18-CC,H,CC,FORAM56,,0,0,167.18,167.18,dominant IRD,M [323_PF],A,,,,,,A,,,,,,,,,,,R,F,,,Planktonic foraminiferas,fossil,"Globigerina bulloides (d?Orbigny, 1826)",R [323_PFs],,,1abd2f603a1fd9c7707e072597bd5b7f
-323-U1339D-19H-CC-FORAM61,323,U1339,D,19,19-CC,H,CC,FORAM61,,0,0,176.77,176.77,dominant IRD,G [323_PF],A,,,,,,A,,,,,,,,,,,R,R,,,Planktonic foraminiferas,fossil,"Globigerina bulloides (d?Orbigny, 1826)",R [323_PFs],,,8413f4262f29a7325062958fb657cc0b
+323-U1339D-12H-CC-FORAM30,323,U1339,D,12,12-CC,H,CC,FORAM30,,0,0,110.15,110.15,few IRD,M,P,,,,,,P,,,,,,,,,,,P,,,,,,,,,,96b36c0683e68fc3d12df1f1291d3749
+323-U1339D-13H-CC-FORAM87,323,U1339,D,13,13-CC,H,CC,FORAM87,,0,0,119.89,119.89,abundant IRD,G,A,,,,,,A,,,,,,,,,,,,P,,,,,,,,,9177387abde0f604665b75c49ca31efe
+323-U1339D-14H-CC-FORAM49,323,U1339,D,14,14-CC,H,CC,FORAM49,,0,0,128.83,128.83,abundant IRD,G,A,,,,,,A,,,,,,,,,,,,P,,,,,,,,,baecc6468a2802742ed6085b6cc4badc
+323-U1339D-15H-CC-FORAM54,323,U1339,D,15,15-CC,H,CC,FORAM54,,0,0,137.14,137.14,abundant IRD,G,A,,,,,,A,,,,,,,,,,,P,R,,,Planktonic foraminiferas,fossil,"Globigerina bulloides (d?Orbigny, 1826)",P [323_PFs],,,e1df2c08b245adfc73330e18d10891e9
+323-U1339D-16H-CC-PAL10     -FORAM59,323,U1339,D,16,16-CC,H,CC,PAL10,FORAM59,0,0,147.16,147.16,dominant IRD,G,A,,,,,,D,,,,,,,,,,,P,F,,,,,,,,,398fa9a06587a3e9c6e23ae2f85240ea
+323-U1339D-17H-CC-FORAM5,323,U1339,D,17,17-CC,H,CC,FORAM5,,0,0,157.88,157.88,dominant IRD,M,R,,,,,,R,,,,,,,,,,,,R,,,,,,,,,8f07bea9a858bf24f4800bbc5b795fd2
+323-U1339D-18H-CC-FORAM56,323,U1339,D,18,18-CC,H,CC,FORAM56,,0,0,167.18,167.18,dominant IRD,M,A,,,,,,A,,,,,,,,,,,R,F,,,Planktonic foraminiferas,fossil,"Globigerina bulloides (d?Orbigny, 1826)",R [323_PFs],,,1abd2f603a1fd9c7707e072597bd5b7f
+323-U1339D-19H-CC-FORAM61,323,U1339,D,19,19-CC,H,CC,FORAM61,,0,0,176.77,176.77,dominant IRD,G,A,,,,,,A,,,,,,,,,,,R,R,,,Planktonic foraminiferas,fossil,"Globigerina bulloides (d?Orbigny, 1826)",R [323_PFs],,,8413f4262f29a7325062958fb657cc0b
 323-U1339D-20H-CC-FORAM66,323,U1339,D,20,20-CC,H,CC,FORAM66,,0,0,185.99,185.99,dominant IRD,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,6ffb653ed5321b93770d2cc3c28c2316
-323-U1339D-22H-CC-FORAM76,323,U1339,D,22,22-CC,H,CC,FORAM76,,0,0,200.77,200.77,abundant IRD,M [323_PF],R,,,,,,P,,,,,,,,,,,,R,,,,,,,,,6f76ccc05bbff1e8066f6c2e7b89381c
+323-U1339D-22H-CC-FORAM76,323,U1339,D,22,22-CC,H,CC,FORAM76,,0,0,200.77,200.77,abundant IRD,M,R,,,,,,P,,,,,,,,,,,,R,,,,,,,,,6f76ccc05bbff1e8066f6c2e7b89381c

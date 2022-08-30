@@ -7,7 +7,7 @@ Exp,Site,Hole,Core,Type,Section,Secton Half,Top [cm],Bottom [cm],Top Depth [m],B
 323,U1342,A,5,H,CC,,12,22,40.12,40.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sand, glauconite concretions",,323-U1342A-5H-CC,66d29272a98f9361d275d517a8148b01
 323,U1342,A,6,H,CC,,0,10,48.25,48.35,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sand, glauconite concretions",,323-U1342A-6H-CC,487a5ad3153e92dd1297968ae6e55433
 323,U1342,A,7,H,CC,,0,10,55.64,55.74,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P,"Sand, glauconite concretions",,323-U1342A-7H-CC,f57c9126f50a98f4d30150c96d198e1b
-323,U1342,B,1,H,1,,0,0,0,0,VC,D,,,R,A,F,F,,D,,,,,,R,,,R,,,,,,,P,P,,R,P,,,R,,,,Dominant foraminifera,,323-U1342B-1H-1,45b1580991744c7496df716a69d5b7c4
+323,U1342,B,1,H,1,,0,0,0,0,VG,D,,,R,A,F,F,,D,,,,,,R,,,R,,,,,,,P,P,,R,P,,,R,,,,Dominant foraminifera,,323-U1342B-1H-1,45b1580991744c7496df716a69d5b7c4
 323,U1342,B,1,H,CC,,9,19,5.23,5.33,G,D,,,P,,R,,,D,,P,,,,,,,,,,P,,,,,R,P,P,,A,P,,R,,,Sand,,323-U1342B-1H-CC,d06108627fa4843993d12d40dd2727ba
 323,U1342,B,2,H,CC,,17,27,14.98,15.08,G,F,,,R,R,F,F,,F,,,,,,R,R,F,,,,,P,,,,,,,,F,R,R,,,,"Sand, sponge spicules",,323-U1342B-2H-CC,76038dfe0eccfcfba26582f845c83c97
 323,U1342,B,3,H,CC,,25,35,24.71,24.81,G,R,,,,,,R,,R,,,,P,,,,,,,,,,,,,P,,,,P,,,P,,,"Sand, sponge spicules",,323-U1342B-3H-CC,6ecbce46684d95ed6fa55197b5aa55b9
