@@ -1,0 +1,16 @@
+preservation in abundance column,value,replace with this header,
+321_Benthic_Forams_U1338A.csv,Bathymetry=LB-A; P/B=1,Bathymetry,
+323_U1341A_silicoflagellates.csv,Undefined (Ds. octonarius-Dc. subarctios),biozone,
+323_U1341B_diatoms.csv,Neodenticula seminae (NPD 12),biozone,
+342_benthic_forams_U1402B.csv,7,,delete
+342_benthic_forams_U1404A_1.csv,3.45,,delete
+342_benthic_forams_U1404A_2.csv,201.92,,delete
+342_benthic_forams_U1405A_1.csv,6.2,,delete
+342_benthic_forams_U1405A_2.csv,2.61,,delete
+342_benthic_forams_U1406A_1.csv,6.23,,delete
+342_benthic_forams_U1406A_2.csv,8.71,,delete
+342_benthic_forams_U1407A_1.csv,6.78,,delete
+342_benthic_forams_U1407A_2.csv,11.61,,delete
+342_benthic_forams_U1407B.csv,201.3,,delete
+342_benthic_forams_U1408A_1.csv,4.36,,delete
+342_benthic_forams_U1408A_2.csv,6.81,,delete
