@@ -1,5 +1,5 @@
-Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Bachmannocena apiculata,Corbisema cf. hastata cunicula,Dictyocha subarctios,Distephanus boliviensis,Distephanus jimlingii,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Distephanus speculum,Distephanus speculum with short radial spine,Aberrant silicoflagellates,biozone,Core,Section,Type,Top [cm],Bottom [cm],A/W,Sample,eodp_id
-323,U1341,A,2H-CC,12.54,12.64,X,P,,,T,,,,,,,,,,,Undefined (Ds. octonarius-Dc. subarctios),2,CC,H,,,,323-U1341A-2H-CC,2429f055bd0291112787abd0f186a5dd
+Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Bachmannocena apiculata,Corbisema cf. hastata cunicula,Dictyocha subarctios,Distephanus boliviensis,Distephanus jimlingii,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Distephanus speculum,Distephanus speculum with short radial spine,Aberrant silicoflagellates,,Core,Section,Type,Top [cm],Bottom [cm],A/W,Sample,eodp_id
+323,U1341,A,2H-CC,12.54,12.64,T,P,,,T,,,,,,,,,,,Undefined (Ds. octonarius-Dc. subarctios),2,CC,H,,,,323-U1341A-2H-CC,2429f055bd0291112787abd0f186a5dd
 323,U1341,A,3H-CC,22.33,22.43,A,G,,T,,,,R,,C,R,,A,,,Undefined (Ds. octonarius-Dc. subarctios),3,CC,H,,,,323-U1341A-3H-CC,b2ddf850f2f5ac41213ef66462f2bb88
 323,U1341,A,4H-CC,31.67,31.77,A,G,T,,,,,R,,A,F,,C,T,R,Undefined (Ds. octonarius-Dc. subarctios),4,CC,H,,,,323-U1341A-4H-CC,890b19912691d41707851b8ff15d958c
 323,U1341,A,5H-CC,41.22,41.32,F,G,,,,,,,,,F,,,,R,Undefined (Ds. octonarius-Dc. subarctios),5,CC,H,,,,323-U1341A-5H-CC,99c9eea616128d50054f8e3c06a4dea0
@@ -12,7 +12,7 @@ Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservat
 323,U1341,A,14H-CC,127.00,127.10,F,G,,,T,,,R,T,,,,R,,,Dc. subarctios,14,CC,H,,,,323-U1341A-14H-CC,628abe5497062c40c4f9d6bb1971687e
 323,U1341,A,16H-CC,145.97,146.07,R,M,,,,,T,,,,T,,T,,,Dc. subarctios,16,CC,H,,,,323-U1341A-16H-CC,a614936f3e5e637ef5d8b36569fb1f1d
 323,U1341,A,17H-CC,155.53,155.63,A,G,,,,,,R,,,C,,C,C,T,Dc. subarctios,17,CC,H,,,,323-U1341A-17H-CC,d137c7bc066308cad9694599456987db
-323,U1341,A,18H-CC,164.92,165.02,X,P,,,,,,,,,,,T,,,Dc. subarctios,18,CC,H,,,,323-U1341A-18H-CC,584a355520403f0a0e3d8c826099f681
+323,U1341,A,18H-CC,164.92,165.02,T,P,,,,,,,,,,,T,,,Dc. subarctios,18,CC,H,,,,323-U1341A-18H-CC,584a355520403f0a0e3d8c826099f681
 323,U1341,A,19H-CC,174.39,174.49,C,G,,,,,,F,F,,R,,F,F,R,Dc. subarctios,19,CC,H,,,,323-U1341A-19H-CC,94ad669acb7adce772b37a246987d583
 323,U1341,A,20H-CC,183.82,183.92,F,G,,,,T,,,R,,,,,R,,Dc. subarctios,20,CC,H,,,,323-U1341A-20H-CC,727518c3973f3731647ba5e613f8bfc4
 323,U1341,A,25H-CC,231.33,231.43,R,M,,,,,,,,,,,R,,,Dc. subarctios,25,CC,H,,,,323-U1341A-25H-CC,683f33be98177f7b0c264b50dfc77bce

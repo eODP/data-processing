@@ -1,64 +1,64 @@
 Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Zone name (short),Preservation,Group Abundance,Calcidiscus leptoporus,Calcidiscus macintyrei,Catinaster coalitus,Coccolithus miopelagicus,Coccolithus pelagicus,Coronocyclus nitescens,Cyclicargolithus floridanus,Discoaster adamanteus,Discoaster asymmetricus,Discoaster bellus,Discoaster berggrenii,Discoaster bollii,Discoaster brouweri,Discoaster calcaris,Discoaster calculosus,Discoaster deflandrei,Discoaster druggii,Discoaster exilis,Discoaster hamatus,Discoaster kugleri,Discoaster loeblichii,Discoaster moorei,Discoaster neohamatus,Discoaster pentaradiatus,Discoaster petaliformis,Discoaster prepentaradiatus,Discoaster quinqueramus,Discoaster spp.,Discoaster surculus,Discoaster tamalis,Discoaster triradiatus,Discoaster variabilis,Florisphaera profunda,Helicosphaera carteri,Helicosphaera sellii,Minylitha convallis,Nicklithus amplificus,Pontosphaera spp.,Reticulofenestra pseudoumbilicus,Reticulofenestra sp. (5-7 microns),Reticulofenestra spp. small,Rhabdosphaera spp.,Scyphosphaera spp.,Sphenolithus abies,Sphenolithus conicus,Sphenolithus dissimilis,Sphenolithus heteromorphus,Sphenolithus moriformis,Syracosphaera spp.,Triquetrorhabdulus rugosus,Umbilicosphaera sibogae,Comments,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
-349-U1431D-1H-CC-PAL-NANNO,0,0,3.15,3.15,NN21,G,F,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,R,,,,,,,,,,,,,,,R,,R,,,,349,U1431,D,1,H,CC,PAL,6d869d889d6b684efba4e155782d3d75
-349-U1431D-2H-CC-PAL-NANNO,0,0,12.15,12.15,NN19,P,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,2,H,CC,PAL,e0c14735f6d7bd85b5315bf7f94f71a1
-349-U1431D-3H-CC-PAL-NANNO,0,0,22.09,22.09,NN19,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,3,H,CC,PAL,05881990fb0f62539ae837f52f2e1d41
-349-U1431D-4H-CC-PAL-NANNO,0,5,32.08,32.13,NN19,G,F,F,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,C,F,,,,,,R,,R,,R,,,,,R,,R,,,,349,U1431,D,4,H,CC,PAL,303f8fbc995daa0e50eba0d6c5f21210
-349-U1431D-5H-6-W 47/47-BIO,0,0,39.67,39.67,NN19,M,A,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,,,,,F,,R,,,,,F,,F,,,,349,U1431,D,5,H,6,W,2186cbc71afafeee4b21edfe7ede4ff9
-349-U1431D-5H-CC-PAL-NANNO,0,5,41.47,41.52,NN19,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,5,H,CC,PAL,df0f5d1d178870a7d55a52fd99761977
-349-U1431D-6H-CC-PAL-NANNO,0,5,50.9,50.95,NN19,M,R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,6,H,CC,PAL,27029f7267ac91a0354ef8d425301eb6
-349-U1431D-7H-CC-PAL-NANNO,0,5,58.53,58.58,NN19,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,7,H,CC,PAL,1827025c45ec4480936549a940956853
-349-U1431D-8H-1-W 50/50-NANNO84,0,0,60.7,60.7,NN19,M,A,C,F,,,,,,,,,R,,C,,,,,,,,,,,C,,,C,,,,,F,C,C,,,,R,F,,,F,R,F,,,,,C,,F,Abundant reworked Discoaster,,,349,U1431,D,8,H,1,W,6e560910dadd225fb20dc6cf30a3a403
-349-U1431D-8H-CC-PAL-NANNO,0,4,69.5,69.54,NN19,M,R,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,R,,,,,,,,,,,,,,R,,R,,,,,,349,U1431,D,8,H,CC,PAL,c7c4bc6b169fd41e0a47771c66ea2ef9
-349-U1431D-9H-CC-PAL-NANNO,0,6,78.85,78.91,NN19,G,F,R,R,,,R,,,,,,,,R,,,,,,,,,,,R,,,,,R,,,R,R,F,R,,,R,R,,,R,,R,,,,,,,R,,,,349,U1431,D,9,H,CC,PAL,e106e07186e22c46e5dd34cd6d9194c6
-349-U1431D-10H-CC-PAL-NANNO,0,5,89.01,89.06,NN19,G,C,C,,,,,,,,,,,,R,,,,,,,,,,,C,,,,,,,,,A,R,R,,,,R,,,,,,,,,,,,,,,,349,U1431,D,10,H,CC,PAL,5e2b2110069ee859e173c2c1d7006afc
-349-U1431D-11H-5-PAL-NANNO,0,5,96.1,96.15,NN19,VG,A,F,F,,,,,,,R,,,,R,,,,,,,,,,,F,,,R,,R,,,,A,C,F,,,,,,,,F,R,,,,R,,,,,,,349,U1431,D,11,H,5,PAL,2bb4123d709355dc220e0b6313559072
-349-U1431D-12H-7-PAL-NANNO,0,8,107.57,107.65,NN18,VG,A,R,R,,,,,,,,,,,F,,,,,,,,,,,F,,,R,,R,,R,,A,R,,,,,,,,,,,,,,,,,,"Discoaster species are overgrown and not be identified. 
+349-U1431D-1H-CC-PAL-NANNO,0,0,3.15,3.15,NN21,G [P33],F,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,R,,,,,,,,,,,,,,,R,,R,,,,349,U1431,D,1,H,CC,PAL,6d869d889d6b684efba4e155782d3d75
+349-U1431D-2H-CC-PAL-NANNO,0,0,12.15,12.15,NN19,P [P33],F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,2,H,CC,PAL,e0c14735f6d7bd85b5315bf7f94f71a1
+349-U1431D-3H-CC-PAL-NANNO,0,0,22.09,22.09,NN19,p [P33],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,3,H,CC,PAL,05881990fb0f62539ae837f52f2e1d41
+349-U1431D-4H-CC-PAL-NANNO,0,5,32.08,32.13,NN19,G [P33],F,F,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,C,F,,,,,,R,,R,,R,,,,,R,,R,,,,349,U1431,D,4,H,CC,PAL,303f8fbc995daa0e50eba0d6c5f21210
+349-U1431D-5H-6-W 47/47-BIO,0,0,39.67,39.67,NN19,M [P33],A,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,F,,,,,,,,F,,R,,,,,F,,F,,,,349,U1431,D,5,H,6,W,2186cbc71afafeee4b21edfe7ede4ff9
+349-U1431D-5H-CC-PAL-NANNO,0,5,41.47,41.52,NN19,M [P33],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,5,H,CC,PAL,df0f5d1d178870a7d55a52fd99761977
+349-U1431D-6H-CC-PAL-NANNO,0,5,50.9,50.95,NN19,M [P33],R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,6,H,CC,PAL,27029f7267ac91a0354ef8d425301eb6
+349-U1431D-7H-CC-PAL-NANNO,0,5,58.53,58.58,NN19,M [P33],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,7,H,CC,PAL,1827025c45ec4480936549a940956853
+349-U1431D-8H-1-W 50/50-NANNO84,0,0,60.7,60.7,NN19,M [P33],A,C,F,,,,,,,,,R,,C,,,,,,,,,,,C,,,C,,,,,F,C,C,,,,R,F,,,F,R,F,,,,,C,,F,Abundant reworked Discoaster,,,349,U1431,D,8,H,1,W,6e560910dadd225fb20dc6cf30a3a403
+349-U1431D-8H-CC-PAL-NANNO,0,4,69.5,69.54,NN19,M [P33],R,R,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,R,,,,,,,,,,,,,,R,,R,,,,,,349,U1431,D,8,H,CC,PAL,c7c4bc6b169fd41e0a47771c66ea2ef9
+349-U1431D-9H-CC-PAL-NANNO,0,6,78.85,78.91,NN19,G [P33],F,R,R,,,R,,,,,,,,R,,,,,,,,,,,R,,,,,R,,,R,R,F,R,,,R,R,,,R,,R,,,,,,,R,,,,349,U1431,D,9,H,CC,PAL,e106e07186e22c46e5dd34cd6d9194c6
+349-U1431D-10H-CC-PAL-NANNO,0,5,89.01,89.06,NN19,G [P33],C,C,,,,,,,,,,,,R,,,,,,,,,,,C,,,,,,,,,A,R,R,,,,R,,,,,,,,,,,,,,,,349,U1431,D,10,H,CC,PAL,5e2b2110069ee859e173c2c1d7006afc
+349-U1431D-11H-5-PAL-NANNO,0,5,96.1,96.15,NN19,VG [P33],A,F,F,,,,,,,R,,,,R,,,,,,,,,,,F,,,R,,R,,,,A,C,F,,,,,,,,F,R,,,,R,,,,,,,349,U1431,D,11,H,5,PAL,2bb4123d709355dc220e0b6313559072
+349-U1431D-12H-7-PAL-NANNO,0,8,107.57,107.65,NN18,VG [P33],A,R,R,,,,,,,,,,,F,,,,,,,,,,,F,,,R,,R,,R,,A,R,,,,,,,,,,,,,,,,,,"Discoaster species are overgrown and not be identified. 
 NN18 was assigned roughly based on abundant Discoaster specimens",,,349,U1431,D,12,H,7,PAL,c49f72f61a8f4d5bad98bafd5074cefe
-349-U1431D-13H-CC-PAL-NANNO,0,8,116.85,116.93,NN18,VG,C,F,C,,,,,,,,,,,C,,,,,,,,,,R,C,,,R,,R,,F,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,13,H,CC,PAL,7b7fe1b81954d346f0683f083e7e6b1a
-349-U1431D-14H-CC-PAL-NANNO,0,7,125.45,125.52,NN17,VG,C,R,F,,,R,,,,,,,,F,,,,,,,,,,,R,,,,,,,R,,A,,R,,,,R,,,,,,,,,,F,,,,,,349,U1431,D,14,H,CC,PAL,81b67687189b476eadad4438d4f2cdcf
-349-U1431D-15H-CC-PAL-NANNO,0,6,135.2,135.26,NN16,G,A,C,C,,,,F,,,,,,,C,,,,,,,,,,,C,,,F,C,F,R,R,,D,C,R,,,F,C,C,,F,,C,,,,,F,,R,"1  Gephyrocapsa>5.5u, as contaiminated",,,349,U1431,D,15,H,CC,PAL,b8f1106b684c40605b4c75b6e40506e2
-349-U1431D-16H-CC-PAL-NANNO,0,5,144.13,144.18,NN16,G,C,C,F,,,,,,,,,,,C,,,,,,,,,,,C,,,F,C,R,R,,,A,F,R,,,,F,C,,F,,C,,,,F,F,,R,,,,349,U1431,D,16,H,CC,PAL,27674eb689956d7824feb838e5ae250f
-349-U1431D-17H-CC-PAL-NANNO,0,5,153.56,153.61,NN16,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,17,H,CC,PAL,90f6e7171814e071578f4c9fb758f4f6
-349-U1431D-18H-4-W 60/61-NANNO,0,1,157.47,157.48,NN16,M,A,,F,,,,,,,,,F,,C,,,,,,,,,,,C,,,F,,C,,,,,,C,,,,F,C,,,,A,,,,,,,,,,,349,U1431,D,18,H,4,W,446ea1b8c4933161ec986b33c4910a57
-349-U1431D-18H-CC-PAL-NANNO,0,0,162.0,162.0,NN16,G,A,C,F,,,,,,,,,,,C,,,,,,,,,,,C,,,,C,R,R,,,D,F,,,,,F,C,,,,C,,,,R,,,,,,,349,U1431,D,18,H,CC,PAL,80dcac45d261274145d3fb8d3359b10c
-349-U1431D-19H-CC-PAL-NANNO,0,7,168.8,168.87,NN16,M,C,,,,,,,,,,,,,C,,,,,,,,,,,C,,,,C,R,,,,C,,,,,,,F,,,,,,,,,,,,,,,349,U1431,D,19,H,CC,PAL,72ec2c9415015b108623024f92939d8d
-349-U1431D-20X-CC-PAL-NANNO,0,4,177.9,177.94,NN16,G,A,C,F,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,R,D,C,F,,,F,R,D,,F,R,F,,,,,R,,F,,,,349,U1431,D,20,X,CC,PAL,26120e3d8e022218a3c607140af2dc6d
-349-U1431D-21X-CC-PAL-NANNO,0,5,188.3,188.35,NN16,G,A,C,C,,,,C,,,,,,,C,,,,,,,,,,,C,,,,C,C,F,,,A,C,F,,,,R,C,,F,,R,,,,,,,,,,,349,U1431,D,21,X,CC,PAL,5af52a9abf0dd884c51248a257c47df4
-349-U1431D-22X-CC-PAL-NANNO,0,5,197.84,197.89,NN16,M,R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,C,,F,,,,349,U1431,D,22,X,CC,PAL,e72ec058f75c490050e10f0600085d72
-349-U1431D-23X-CC-PAL-NANNO,0,5,207.56,207.61,NN16,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,23,X,CC,PAL,e007253a12f553aeb2a38509e1c3d8e3
-349-U1431D-24X-CC-PAL-NANNO,0,5,217.07,217.12,NN15,G,A,,F,,,,,,,C,,,,C,,,,,,,,,,,C,,,R,,C,,R,C,,,,,,,C,A,,,,A,,,,,,,,,,,349,U1431,D,24,X,CC,PAL,7a57ed5ce0c01170964d571c3c4936bd
+349-U1431D-13H-CC-PAL-NANNO,0,8,116.85,116.93,NN18,VG [P33],C,F,C,,,,,,,,,,,C,,,,,,,,,,R,C,,,R,,R,,F,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,13,H,CC,PAL,7b7fe1b81954d346f0683f083e7e6b1a
+349-U1431D-14H-CC-PAL-NANNO,0,7,125.45,125.52,NN17,VG [P33],C,R,F,,,R,,,,,,,,F,,,,,,,,,,,R,,,,,,,R,,A,,R,,,,R,,,,,,,,,,F,,,,,,349,U1431,D,14,H,CC,PAL,81b67687189b476eadad4438d4f2cdcf
+349-U1431D-15H-CC-PAL-NANNO,0,6,135.2,135.26,NN16,G [P33],A,C,C,,,,F,,,,,,,C,,,,,,,,,,,C,,,F,C,F,R,R,,D,C,R,,,F,C,C,,F,,C,,,,,F,,R,"1  Gephyrocapsa>5.5u, as contaiminated",,,349,U1431,D,15,H,CC,PAL,b8f1106b684c40605b4c75b6e40506e2
+349-U1431D-16H-CC-PAL-NANNO,0,5,144.13,144.18,NN16,G [P33],C,C,F,,,,,,,,,,,C,,,,,,,,,,,C,,,F,C,R,R,,,A,F,R,,,,F,C,,F,,C,,,,F,F,,R,,,,349,U1431,D,16,H,CC,PAL,27674eb689956d7824feb838e5ae250f
+349-U1431D-17H-CC-PAL-NANNO,0,5,153.56,153.61,NN16,M [P33],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,17,H,CC,PAL,90f6e7171814e071578f4c9fb758f4f6
+349-U1431D-18H-4-W 60/61-NANNO,0,1,157.47,157.48,NN16,M [P33],A,,F,,,,,,,,,F,,C,,,,,,,,,,,C,,,F,,C,,,,,,C,,,,F,C,,,,A,,,,,,,,,,,349,U1431,D,18,H,4,W,446ea1b8c4933161ec986b33c4910a57
+349-U1431D-18H-CC-PAL-NANNO,0,0,162.0,162.0,NN16,G [P33],A,C,F,,,,,,,,,,,C,,,,,,,,,,,C,,,,C,R,R,,,D,F,,,,,F,C,,,,C,,,,R,,,,,,,349,U1431,D,18,H,CC,PAL,80dcac45d261274145d3fb8d3359b10c
+349-U1431D-19H-CC-PAL-NANNO,0,7,168.8,168.87,NN16,M [P33],C,,,,,,,,,,,,,C,,,,,,,,,,,C,,,,C,R,,,,C,,,,,,,F,,,,,,,,,,,,,,,349,U1431,D,19,H,CC,PAL,72ec2c9415015b108623024f92939d8d
+349-U1431D-20X-CC-PAL-NANNO,0,4,177.9,177.94,NN16,G [P33],A,C,F,,,,F,,,,,,,,,,,,,,,,,,,,,,,,,,R,D,C,F,,,F,R,D,,F,R,F,,,,,R,,F,,,,349,U1431,D,20,X,CC,PAL,26120e3d8e022218a3c607140af2dc6d
+349-U1431D-21X-CC-PAL-NANNO,0,5,188.3,188.35,NN16,G [P33],A,C,C,,,,C,,,,,,,C,,,,,,,,,,,C,,,,C,C,F,,,A,C,F,,,,R,C,,F,,R,,,,,,,,,,,349,U1431,D,21,X,CC,PAL,5af52a9abf0dd884c51248a257c47df4
+349-U1431D-22X-CC-PAL-NANNO,0,5,197.84,197.89,NN16,M [P33],R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,C,,F,,,,349,U1431,D,22,X,CC,PAL,e72ec058f75c490050e10f0600085d72
+349-U1431D-23X-CC-PAL-NANNO,0,5,207.56,207.61,NN16,P [P33],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,23,X,CC,PAL,e007253a12f553aeb2a38509e1c3d8e3
+349-U1431D-24X-CC-PAL-NANNO,0,5,217.07,217.12,NN15,G [P33],A,,F,,,,,,,C,,,,C,,,,,,,,,,,C,,,R,,C,,R,C,,,,,,,C,A,,,,A,,,,,,,,,,,349,U1431,D,24,X,CC,PAL,7a57ed5ce0c01170964d571c3c4936bd
 349-U1431D-25X-CC-PAL-NANNO,0,5,226.57,226.62,NN15,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,25,X,CC,PAL,e0d92967bcc717fc8eef8c1a72407ea4
-349-U1431D-27X-CC-PAL-NANNO,0,5,245.87,245.92,NN14,G,A,,F,,,,,,,F,,,,C,,,,,,,,,,,C,,,F,,C,,,C,A,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,27,X,CC,PAL,bfc90794b58b93cf69be1300deba449f
-349-U1431D-28X-CC-PAL-NANNO,0,5,255.38,255.43,NN13,G,A,,F,,,,,,,F,,,,C,,,,,,,,,,,C,,,F,,C,,,C,,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,28,X,CC,PAL,03e39acf855c3ba1e977f33ef84aaf6d
-349-U1431D-29X-CC-PAL-NANNO,0,5,265.21,265.26,NN13,M,A,,C,,,,,,,F,,,,C,,,,,,,,,,,F,,,F,,C,,,C,,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,29,X,CC,PAL,bee29aa5b38771dd09552fd4d0ca8999
-349-U1431D-30X-CC-PAL-NANNO,0,5,270.38,270.43,NN13,M,A,,C,,,,,,,R,,,,C,,,,,,,,,,,F,,,F,,C,,,C,,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,30,X,CC,PAL,819c7359ddb3f03ad2be7158f4303d2b
-349-U1431D-31X-2-W 110/111-NANNO,0,1,277.4,277.41,NN12,M,A,,C,,,,,,,,,R,,F,,,,,,,,,,,C,,,,,F,,F,,,C,,,,,C,C,A,,,A,,,,,,R,,,,,349,U1431,D,31,X,2,W,4ade3306e8db34833cbff1f35218f8e0
-349-U1431D-31X-CC-PAL-NANNO,0,5,284.6,284.65,NN12,M,A,,R,,,,,,,F,,F,,C,,,,,,,,,,,C,,,C,,F,,F,C,,,,,R,,F,C,,,,C,,,,,,,,,,,349,U1431,D,31,X,CC,PAL,516c3d9150fe94ae42c253fe543e1546
-349-U1431D-32X-CC-PAL-NANNO,0,5,294.15,294.2,NN12,M,A,C,R,,,,F,,,,,R,,C,,,,,,,,,,,C,,,F,C,F,,,R,C,C,,,,R,F,C,,R,,A,,,,R,R,,,,,,349,U1431,D,32,X,CC,PAL,3981f78b8f8fe91c0de88b01d221fa85
-349-U1431D-33X-CC-PAL-NANNO,0,5,298.56,298.61,NN12,M,A,F,R,,,,F,,,,,R,,F,,,,,,,,,,,C,,,F,F,F,,,,F,F,,,,,F,C,,R,,A,,,,,,,F,,,,349,U1431,D,33,X,CC,PAL,6bb92b207044d9362c20999fa3b4d2ac
-349-U1431D-34X-CC-PAL-NANNO,0,5,313.51,313.56,NP11,M,C,F,R,,F,,F,F,,,,R,,F,,,,,,,,,,,C,,,C,C,F,,,F,C,F,,,,C,F,C,,R,F,C,,,,R,R,,F,,,,349,U1431,D,34,X,CC,PAL,83e1f99986a3975bc8da17e30e1ff49c
-349-U1431D-35X-CC-PAL-NANNO,0,5,317.65,317.7,NN11,M,F,F,F,,F,,,,,,,R,,F,,,,,,,,,,,C,,,C,C,F,,,F,F,R,,,,,F,C,,,,C,,,,,,,,,,,349,U1431,D,35,X,CC,PAL,f751d106893b3fd25c0e8374179c4b8b
-349-U1431D-36X-CC-PAL-NANNO,0,5,329.77,329.82,NN11,M,F,R,R,,R,,,,,,,R,,R,,,,,,,,,,,C,,,C,F,R,,,R,F,R,,,,F,R,C,,,,C,,,,,,,,,,,349,U1431,D,36,X,CC,PAL,b8d344b45c0127a8158bc5aec2e1fcde
-349-U1431D-37X-CC-PAL-NANNO,0,5,334.65,334.7,NN11,M,F,R,R,,,,,,,,,R,,R,,,,,,,,,,,C,,,C,,R,,,F,F,R,,,,,R,C,,,,C,,,,,,,,,,,349,U1431,D,37,X,CC,PAL,7aa5c007701de08f50bc8d47d16e9900
-349-U1431D-38X-CC-PAL-NANNO,0,5,346.72,346.77,NN11,M,F,F,F,,F,,F,,F,R,,F,,R,,,,,,,,,,,C,,,F,F,R,,,R,C,R,,,,R,F,C,C,R,R,C,,,,,F,R,,,,,349,U1431,D,38,X,CC,PAL,2df30b3d93ec2e9987eea18ba57e2f2e
+349-U1431D-27X-CC-PAL-NANNO,0,5,245.87,245.92,NN14,G [P33],A,,F,,,,,,,F,,,,C,,,,,,,,,,,C,,,F,,C,,,C,A,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,27,X,CC,PAL,bfc90794b58b93cf69be1300deba449f
+349-U1431D-28X-CC-PAL-NANNO,0,5,255.38,255.43,NN13,G [P33],A,,F,,,,,,,F,,,,C,,,,,,,,,,,C,,,F,,C,,,C,,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,28,X,CC,PAL,03e39acf855c3ba1e977f33ef84aaf6d
+349-U1431D-29X-CC-PAL-NANNO,0,5,265.21,265.26,NN13,M [P33],A,,C,,,,,,,F,,,,C,,,,,,,,,,,F,,,F,,C,,,C,,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,29,X,CC,PAL,bee29aa5b38771dd09552fd4d0ca8999
+349-U1431D-30X-CC-PAL-NANNO,0,5,270.38,270.43,NN13,M [P33],A,,C,,,,,,,R,,,,C,,,,,,,,,,,F,,,F,,C,,,C,,,,,,,C,C,,,,C,,,,,,,,,,,349,U1431,D,30,X,CC,PAL,819c7359ddb3f03ad2be7158f4303d2b
+349-U1431D-31X-2-W 110/111-NANNO,0,1,277.4,277.41,NN12,M [P33],A,,C,,,,,,,,,R,,F,,,,,,,,,,,C,,,,,F,,F,,,C,,,,,C,C,A,,,A,,,,,,R,,,,,349,U1431,D,31,X,2,W,4ade3306e8db34833cbff1f35218f8e0
+349-U1431D-31X-CC-PAL-NANNO,0,5,284.6,284.65,NN12,M [P33],A,,R,,,,,,,F,,F,,C,,,,,,,,,,,C,,,C,,F,,F,C,,,,,R,,F,C,,,,C,,,,,,,,,,,349,U1431,D,31,X,CC,PAL,516c3d9150fe94ae42c253fe543e1546
+349-U1431D-32X-CC-PAL-NANNO,0,5,294.15,294.2,NN12,M [P33],A,C,R,,,,F,,,,,R,,C,,,,,,,,,,,C,,,F,C,F,,,R,C,C,,,,R,F,C,,R,,A,,,,R,R,,,,,,349,U1431,D,32,X,CC,PAL,3981f78b8f8fe91c0de88b01d221fa85
+349-U1431D-33X-CC-PAL-NANNO,0,5,298.56,298.61,NN12,M [P33],A,F,R,,,,F,,,,,R,,F,,,,,,,,,,,C,,,F,F,F,,,,F,F,,,,,F,C,,R,,A,,,,,,,F,,,,349,U1431,D,33,X,CC,PAL,6bb92b207044d9362c20999fa3b4d2ac
+349-U1431D-34X-CC-PAL-NANNO,0,5,313.51,313.56,NP11,M [P33],C,F,R,,F,,F,F,,,,R,,F,,,,,,,,,,,C,,,C,C,F,,,F,C,F,,,,C,F,C,,R,F,C,,,,R,R,,F,,,,349,U1431,D,34,X,CC,PAL,83e1f99986a3975bc8da17e30e1ff49c
+349-U1431D-35X-CC-PAL-NANNO,0,5,317.65,317.7,NN11,M [P33],F,F,F,,F,,,,,,,R,,F,,,,,,,,,,,C,,,C,C,F,,,F,F,R,,,,,F,C,,,,C,,,,,,,,,,,349,U1431,D,35,X,CC,PAL,f751d106893b3fd25c0e8374179c4b8b
+349-U1431D-36X-CC-PAL-NANNO,0,5,329.77,329.82,NN11,M [P33],F,R,R,,R,,,,,,,R,,R,,,,,,,,,,,C,,,C,F,R,,,R,F,R,,,,F,R,C,,,,C,,,,,,,,,,,349,U1431,D,36,X,CC,PAL,b8d344b45c0127a8158bc5aec2e1fcde
+349-U1431D-37X-CC-PAL-NANNO,0,5,334.65,334.7,NN11,M [P33],F,R,R,,,,,,,,,R,,R,,,,,,,,,,,C,,,C,,R,,,F,F,R,,,,,R,C,,,,C,,,,,,,,,,,349,U1431,D,37,X,CC,PAL,7aa5c007701de08f50bc8d47d16e9900
+349-U1431D-38X-CC-PAL-NANNO,0,5,346.72,346.77,NN11,M [P33],F,F,F,,F,,F,,F,R,,F,,R,,,,,,,,,,,C,,,F,F,R,,,R,C,R,,,,R,F,C,C,R,R,C,,,,,F,R,,,,,349,U1431,D,38,X,CC,PAL,2df30b3d93ec2e9987eea18ba57e2f2e
 349-U1431D-39X-CC-PAL-NANNO,0,5,361.67,361.72,NN11,M,A,F,F,,F,,R,,R,R,,F,,R,,,,,,,,,,,C,,,C,F,R,,,R,C,R,,,,R,C,C,A,F,F,C,,,,,R,R,,,,,349,U1431,D,39,X,CC,PAL,0eafd7e77b1ea60fdfe6b34fef5afa80
-349-U1431D-40X-CC-PAL-NANNO,0,5,363.92,363.97,NN11,M,C,F,,,,,F,R,R,,,F,,R,,,,,,,,,,R,C,,,C,F,F,,,R,C,R,,,,R,C,C,A,R,,C,,,,,F,R,,,,,349,U1431,D,40,X,CC,PAL,e566052b621c33b3d1080fad94800842
-349-U1431D-41X-CC-PAL-NANNO,0,5,378.81,378.86,NN11,M,C,F,R,,F,,F,R,R,,,F,,R,,,,,,,,,,,C,,,C,C,F,,,R,C,R,,,,R,F,C,A,F,,C,,,,R,F,R,,,,,349,U1431,D,41,X,CC,PAL,09422c454299ac3cbe71531e43a294db
-349-U1431D-42X-CC-PAL-NANNO,0,5,385.13,385.18,NN11,M,C,,,,,,,,,,,R,,R,,,,,,,,,,,,R,,C,,F,,,,,,,,,,F,F,,,,F,,,,,,,,,,,349,U1431,D,42,X,CC,PAL,63df551a86a1016b1e9e09daf6542c61
-349-U1431D-43X-CC-PAL-NANNO,0,5,392.3,392.35,NN11,G,C,,,,,,,,,,,R,,F,,,,,,,,,,,,,,A,,R,,,,,,,,R,,F,A,,,,A,,,,,,,,,,,349,U1431,D,43,X,CC,PAL,85612a067bfde67809c0764afc5845f5
-349-U1431D-44X-CC-PAL-NANNO,0,5,399.01,399.06,NN11,M,F,,,,,,,,,,,R,,,,,,,,,,,,,,,,C,,R,,R,R,,,,,,,C,A,,,,A,,,,,,R,,,,,349,U1431,D,44,X,CC,PAL,62f69d47d9da8734af1874aa5c9dbda9
-349-U1431D-45X-CC-PAL-NANNO,0,5,406.18,406.23,NN11,G,F,,,,,,,,,,,R,,,F,,,,,,,R,,,,,,F,,F,,,,,,,,,,F,R,,,,F,,,,,,,,,,,349,U1431,D,45,X,CC,PAL,cd5008a94ccb58f7b79f2e0d6dce3869
-349-U1431D-46X-CC-PAL-NANNO,0,5,417.95,418.0,NN11,G,C,,,,,,,,,,,R,,,,,,,,,,,,,,,,C,,R,,,,,,,,,,A,C,,,,A,,,,,,,,,,,349,U1431,D,46,X,CC,PAL,d4118afddacbf116c35e69fbea9ffb8f
-349-U1431D-47X-CC-PAL-NANNO,0,5,431.07,431.12,NN11,M,A,C,F,,F,,F,,R,,,F,,,,,,,,,,,,,C,,,C,C,R,,,R,C,R,,,,R,R,C,A,R,,A,,,,F,,,F,,,,349,U1431,D,47,X,CC,PAL,6bd1b2b277483789c6f78515a414901e
-349-U1431D-48X-CC-PAL-NANNO,0,5,435.63,435.68,NN11,M,F,R,,,R,,,,,,,F,,,,,,,,,,,,,F,,,F,F,R,,,,F,,,,,,R,R,F,,,F,,,,R,,,,,,,349,U1431,D,48,X,CC,PAL,8a040aafae1c47ee9742e07055fb1755
-349-U1431D-52X-CC-PAL-NANNO,0,5,470.95,471.0,NN11,M,A,,,,F,,R,R,R,,,C,,R,,,,,,,,,,,C,,,C,F,F,,,F,C,F,,,,,C,C,A,,,A,,,,R,,F,F,,,,349,U1431,D,52,X,CC,PAL,af60afa124dbab93bc041697f0a6d47a
+349-U1431D-40X-CC-PAL-NANNO,0,5,363.92,363.97,NN11,M [P33],C,F,,,,,F,R,R,,,F,,R,,,,,,,,,,R,C,,,C,F,F,,,R,C,R,,,,R,C,C,A,R,,C,,,,,F,R,,,,,349,U1431,D,40,X,CC,PAL,e566052b621c33b3d1080fad94800842
+349-U1431D-41X-CC-PAL-NANNO,0,5,378.81,378.86,NN11,M [P33],C,F,R,,F,,F,R,R,,,F,,R,,,,,,,,,,,C,,,C,C,F,,,R,C,R,,,,R,F,C,A,F,,C,,,,R,F,R,,,,,349,U1431,D,41,X,CC,PAL,09422c454299ac3cbe71531e43a294db
+349-U1431D-42X-CC-PAL-NANNO,0,5,385.13,385.18,NN11,M [P33],C,,,,,,,,,,,R,,R,,,,,,,,,,,,R,,C,,F,,,,,,,,,,F,F,,,,F,,,,,,,,,,,349,U1431,D,42,X,CC,PAL,63df551a86a1016b1e9e09daf6542c61
+349-U1431D-43X-CC-PAL-NANNO,0,5,392.3,392.35,NN11,G [P33],C,,,,,,,,,,,R,,F,,,,,,,,,,,,,,A,,R,,,,,,,,R,,F,A,,,,A,,,,,,,,,,,349,U1431,D,43,X,CC,PAL,85612a067bfde67809c0764afc5845f5
+349-U1431D-44X-CC-PAL-NANNO,0,5,399.01,399.06,NN11,M [P33],F,,,,,,,,,,,R,,,,,,,,,,,,,,,,C,,R,,R,R,,,,,,,C,A,,,,A,,,,,,R,,,,,349,U1431,D,44,X,CC,PAL,62f69d47d9da8734af1874aa5c9dbda9
+349-U1431D-45X-CC-PAL-NANNO,0,5,406.18,406.23,NN11,G [P33],F,,,,,,,,,,,R,,,F,,,,,,,R,,,,,,F,,F,,,,,,,,,,F,R,,,,F,,,,,,,,,,,349,U1431,D,45,X,CC,PAL,cd5008a94ccb58f7b79f2e0d6dce3869
+349-U1431D-46X-CC-PAL-NANNO,0,5,417.95,418.0,NN11,G [P33],C,,,,,,,,,,,R,,,,,,,,,,,,,,,,C,,R,,,,,,,,,,A,C,,,,A,,,,,,,,,,,349,U1431,D,46,X,CC,PAL,d4118afddacbf116c35e69fbea9ffb8f
+349-U1431D-47X-CC-PAL-NANNO,0,5,431.07,431.12,NN11,M [P33],A,C,F,,F,,F,,R,,,F,,,,,,,,,,,,,C,,,C,C,R,,,R,C,R,,,,R,R,C,A,R,,A,,,,F,,,F,,,,349,U1431,D,47,X,CC,PAL,6bd1b2b277483789c6f78515a414901e
+349-U1431D-48X-CC-PAL-NANNO,0,5,435.63,435.68,NN11,M [P33],F,R,,,R,,,,,,,F,,,,,,,,,,,,,F,,,F,F,R,,,,F,,,,,,R,R,F,,,F,,,,R,,,,,,,349,U1431,D,48,X,CC,PAL,8a040aafae1c47ee9742e07055fb1755
+349-U1431D-52X-CC-PAL-NANNO,0,5,470.95,471.0,NN11,M [P33],A,,,,F,,R,R,R,,,C,,R,,,,,,,,,,,C,,,C,F,F,,,F,C,F,,,,,C,C,A,,,A,,,,R,,F,F,,,,349,U1431,D,52,X,CC,PAL,af60afa124dbab93bc041697f0a6d47a
 349-U1431D-53X-CC-PAL-NANNO,0,5,489.29,489.34,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,53,X,CC,PAL,e519afc8df7e95acb9f15b6e6539f092
 349-U1431D-54X-CC-PAL-NANNO,0,5,489.34,489.39,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,54,X,CC,PAL,65e2a4a59a7ce15b4c435cec21f00a26
 349-U1431D-55X-CC-PAL-NANNO,0,5,500.17,500.22,NN11,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,349,U1431,D,55,X,CC,PAL,d22dec1b6b7c865897c0f3a30e4059bc
-349-U1431D-58X-CC-PAL-NANNO,0,5,527.31,527.36,NN11,M,F,,,,,,,,,,,F,,,R,,,,,,,,,,,,,F,,F,,,R,,,,,R,,C,C,,,,C,,,,,,,,,,,349,U1431,D,58,X,CC,PAL,b5601f841499ad3bc8a5f1b6704c932f
-349-U1431D-60X-CC-PAL-NANNO,0,5,554.09,554.14,NN11,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,R,,,,,,R,,,,,349,U1431,D,60,X,CC,PAL,ae8f5597b9f3b261d0925f889e5bf629
-349-U1431D-61X-CC-PAL-NANNO,0,5,557.46,557.51,NN11,M,R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,C,R,,R,,,,R,,,,,,,349,U1431,D,61,X,CC,PAL,617359264a0d95d6f98b305ded934599
-349-U1431D-62X-CC-PAL-NANNO,0,3,565.8,565.83,NN11,M,C,F,F,,R,,,,,,,F,,,,,,,,R,,,,,F,,,C,F,R,,,F,C,R,,,,,F,C,C,R,F,F,,,,R,,R,,,,,349,U1431,D,62,X,CC,PAL,ddfa22309255b7821f07f9f36b1d043e
-349-U1431D-63X-CC-PAL-NANNO,0,5,575.5,575.55,NN11,P,A,F,C,,R,,,,,,,F,R,,R,,,,,,,,,,F,,,F,F,,,,F,,,,,,,R,C,C,,,D,,,,,,,,,,,349,U1431,D,63,X,CC,PAL,2dc2a030b044078735699a08906b56d8
-349-U1431D-64X-CC-PAL-NANNO,0,5,585.49,585.54,NN11,M,F,R,R,,R,,R,R,R,,,C,,,,,,,,,,,,,F,,,F,F,R,,,F,F,R,,,,,F,C,C,R,,C,,,,R,,R,,,,,349,U1431,D,64,X,CC,PAL,dae5bba340709655606d97876e92a33d
-349-U1431D-66X-CC-PAL-NANNO,0,5,604.81,604.86,NN11,P,F,,,,,,,,,,,R,,,,,,,,,,,,,,,,R,,,,,,,,,,,,F,,F,,,C,,,,,,R,,,,,349,U1431,D,66,X,CC,PAL,a23048c0080acf82e55280ec18989ccd
+349-U1431D-58X-CC-PAL-NANNO,0,5,527.31,527.36,NN11,M [P33],F,,,,,,,,,,,F,,,R,,,,,,,,,,,,,F,,F,,,R,,,,,R,,C,C,,,,C,,,,,,,,,,,349,U1431,D,58,X,CC,PAL,b5601f841499ad3bc8a5f1b6704c932f
+349-U1431D-60X-CC-PAL-NANNO,0,5,554.09,554.14,NN11,P [P33],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,R,,,,,,R,,,,,349,U1431,D,60,X,CC,PAL,ae8f5597b9f3b261d0925f889e5bf629
+349-U1431D-61X-CC-PAL-NANNO,0,5,557.46,557.51,NN11,M [P33],R,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R,C,R,,R,,,,R,,,,,,,349,U1431,D,61,X,CC,PAL,617359264a0d95d6f98b305ded934599
+349-U1431D-62X-CC-PAL-NANNO,0,3,565.8,565.83,NN11,M [P33],C,F,F,,R,,,,,,,F,,,,,,,,R,,,,,F,,,C,F,R,,,F,C,R,,,,,F,C,C,R,F,F,,,,R,,R,,,,,349,U1431,D,62,X,CC,PAL,ddfa22309255b7821f07f9f36b1d043e
+349-U1431D-63X-CC-PAL-NANNO,0,5,575.5,575.55,NN11,P [P33],A,F,C,,R,,,,,,,F,R,,R,,,,,,,,,,F,,,F,F,,,,F,,,,,,,R,C,C,,,D,,,,,,,,,,,349,U1431,D,63,X,CC,PAL,2dc2a030b044078735699a08906b56d8
+349-U1431D-64X-CC-PAL-NANNO,0,5,585.49,585.54,NN11,M [P33],F,R,R,,R,,R,R,R,,,C,,,,,,,,,,,,,F,,,F,F,R,,,F,F,R,,,,,F,C,C,R,,C,,,,R,,R,,,,,349,U1431,D,64,X,CC,PAL,dae5bba340709655606d97876e92a33d
+349-U1431D-66X-CC-PAL-NANNO,0,5,604.81,604.86,NN11,P [P33],F,,,,,,,,,,,R,,,,,,,,,,,,,,,,R,,,,,,,,,,,,F,,F,,,C,,,,,,R,,,,,349,U1431,D,66,X,CC,PAL,a23048c0080acf82e55280ec18989ccd

@@ -1,13 +1,13 @@
 Exp,Site,Hole,"Core, section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Dictyocha subarctios,Distephanus boliviensis,Distephanus jimlingii,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus quinquangellus,Distephanus speculum,Distephanus speculum with short radial spines,Aberrant silicoflagellates,Ammodochium rectangulare,Silicoflagellate Zone in Ling (1992),Core,Section,Type,Top [cm],Bottom [cm],A/W,Sample,eodp_id
 323,U1341,B,3H-CC,28.08,28.18,F,G,,,,T,,T,,,R,F,,,Undefined (Ds. octonarius-Dc. subarctios),3,CC,H,,,,323-U1341B-3H-CC,cec363fb36a49289bb7842c1896de60f
 323,U1341,B,4H-CC,37.6,37.7,F,G,,,,,,,R,,R,R,,,Undefined (Ds. octonarius-Dc. subarctios),4,CC,H,,,,323-U1341B-4H-CC,8576cf81962d884c5cfd4beeed1a3d82
-323,U1341,B,5H-CC,47.04,47.18,X,M,,,,T,,,,,,,,,Undefined (Ds. octonarius-Dc. subarctios),5,CC,H,,,,323-U1341B-5H-CC,f2d82a528370fad2e932da23fbc77c5f
+323,U1341,B,5H-CC,47.04,47.18,T,M,,,,T,,,,,,,,,Undefined (Ds. octonarius-Dc. subarctios),5,CC,H,,,,323-U1341B-5H-CC,f2d82a528370fad2e932da23fbc77c5f
 323,U1341,B,6H-CC,56.58,56.68,R,G,R,,,T,,T,T,,,,,,Undefined (Ds. octonarius-Dc. subarctios),6,CC,H,,,,323-U1341B-6H-CC,5d82b6d18568c9ae8cc0cd6e7a3fb06c
 323,U1341,B,7H-CC,66.08,66.18,C,G,,,,C,R,,R,,R,T,,,Undefined (Ds. octonarius-Dc. subarctios),7,CC,H,,,,323-U1341B-7H-CC,9bf6a921d2d3e30a60b45ebf29303014
 323,U1341,B,8H-CC,75.65,75.75,C,G,R,,,R,,,C,,,,,,Undefined (Ds. octonarius-Dc. subarctios),8,CC,H,,,,323-U1341B-8H-CC,00cd63e7fec8e3766f8b9f1c4ca4a4dd
 323,U1341,B,9H-CC,85.14,85.24,A,G,,T,,C,T,,T,T,A,R,R,,Undefined (Ds. octonarius-Dc. subarctios),9,CC,H,,,,323-U1341B-9H-CC,85782e4045416d871a53b49144f5d998
 323,U1341,B,10H-CC,94.1,94.2,A,G,,,,C,R,,C,,F,F,T,,Undefined (Ds. octonarius-Dc. subarctios),10,CC,H,,,,323-U1341B-10H-CC,c307a6d1b049320fe9b21b6f432aeb5e
-323,U1341,B,23H-CC,209.68,209.78,X,P,,,,,,,,,,T,,,Undefined (Ds. octonarius-Dc. subarctios),23,CC,H,,,,323-U1341B-23H-CC,ebc8ffad667a18c72c3581e2141b8fea
+323,U1341,B,23H-CC,209.68,209.78,T,P,,,,,,,,,,T,,,Undefined (Ds. octonarius-Dc. subarctios),23,CC,H,,,,323-U1341B-23H-CC,ebc8ffad667a18c72c3581e2141b8fea
 323,U1341,B,24H-CC,218.83,218.93,F,M,,,,,,,,,F,R,,,Undefined (Ds. octonarius-Dc. subarctios),24,CC,H,,,,323-U1341B-24H-CC,c8f783e8e029c9e4aee0ae13545c6a54
 323,U1341,B,25H-CC,228.42,228.52,R,M,,T,,,,,,,R,T,,,Undefined (Ds. octonarius-Dc. subarctios),25,CC,H,,,,323-U1341B-25H-CC,761f3857dcb10a8b04aad118d8faf425
 323,U1341,B,26H-CC,238.11,238.21,C,M,,,,,,,,,R,F,,R,Am. rectangulare,26,CC,H,,,,323-U1341B-26H-CC,d134232abff443f9ae63c5e1329856d0

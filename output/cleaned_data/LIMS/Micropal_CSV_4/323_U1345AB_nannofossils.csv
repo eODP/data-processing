@@ -8,7 +8,7 @@ Exp,Site,Hole,Core,Type,Section,Section Half,Top [cm],Bottom [cm],Top Depth [m],
 323,U1345,A,1,H,CC,,4,14,4.29,4.39,,A,G,D,,,F,A,F,,,,,Large (>4 microns) and small E. huxleyi types are present and well preserved,,323-U1345A-1H-CC,c2b32f768ca4520f4650cf67361fff23
 323,U1345,A,2,H,1,A,113.5,113.5,5.535,5.535,,R,M,R,,,,R,,,,,,"Sample from the Sedimentology collection. Grey lamina, coarse grains",,323-U1345A-2H-1,663cc6a65de70dd258bd276866b9f066
 323,U1345,A,2,H,1,A,113.6,113.6,5.536,5.536,,F,G,,,,,F,R,,,,,Sample from the Sedimentology collection. Dark grey lamina,,323-U1345A-2H-1,3c299380bd9f09194a78072306788ac1
-323,U1345,A,2,H,1,A,114,114,5.54,5.54,,C,M-G,F,,,,C,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi,,323-U1345A-2H-1,b4e130a8be9ffa0fcded2016bd10329d
+323,U1345,A,2,H,1,A,114,114,5.54,5.54,,C,MG,F,,,,C,R,,,,,Sample from the Sedimentology collection. Light green lamina. Large and small E. huxleyi,,323-U1345A-2H-1,b4e130a8be9ffa0fcded2016bd10329d
 323,U1345,A,2,H,CC,,0,11,13.98,14.09,NN21,R,M-G,R,,,,R,,,,,R,,,323-U1345A-2H-CC,a18216f9ca6ee0523f2186725ba58885
 323,U1345,A,3,H,CC,,21,31,23.82,23.92,,R,M,,,R,R,,,,,,,,,323-U1345A-3H-CC,73d42fbb56fb1fd261617cbdfc90b632
 323,U1345,A,4,H,CC,,14,24,33.34,33.44,,R,M,,,,R,,,,,,,"Authigenic minerals, acicular shape, low birrefringence",,323-U1345A-4H-CC,c4e2c7acd653185a07d9ea544dbd3e39
