@@ -611,7 +611,7 @@ def normalize_switched_abundance_preservation(
         cols = set(df.columns).intersection(set(exp_df["original_header"]))
 
         for col in cols:
-            df[col] = fixed_df[col]
+            df[col] = fixed_df[col].copy()
             changed = True
 
     return {"changed": changed, "df": df.copy()}
