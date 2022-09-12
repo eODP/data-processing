@@ -569,7 +569,7 @@ def normalize_abundance_codes_group(df, codes_df, taxon_group, path):
     exps = df["Exp"].unique()
     if len(exps) > 1:
         print("multiple expeditions: ", path, exps)
-    exp = exps[0]
+    exp = str(exps[0])
 
     exp_df = codes_df[
         (codes_df["Exp"] == exp)
@@ -578,7 +578,7 @@ def normalize_abundance_codes_group(df, codes_df, taxon_group, path):
     ]
 
     for index, row in exp_df.iterrows():
-        tmp = df[row["original_header"]]
+        tmp = df[row["original_header"]].copy()
         df[row["original_header"]] = tmp.replace(
             to_replace=row["abundance_code"],
             value=row["harmonized_code"],
@@ -587,7 +587,7 @@ def normalize_abundance_codes_group(df, codes_df, taxon_group, path):
         if not tmp.fillna("").equals(df[row["original_header"]].fillna("")):
             changed = True
 
-    return {"changed": changed, "df": df}
+    return {"changed": changed, "df": df.copy()}
 
 
 def normalize_switched_abundance_preservation(
@@ -599,7 +599,7 @@ def normalize_switched_abundance_preservation(
     exps = df["Exp"].unique()
     if len(exps) > 1:
         print("multiple expeditions: ", path, exps)
-    exp = exps[0]
+    exp = str(exps[0])
 
     exp_df = codes_df[
         (codes_df["Exp"] == exp)
@@ -614,4 +614,4 @@ def normalize_switched_abundance_preservation(
             df[col] = fixed_df[col]
             changed = True
 
-    return {"changed": changed, "df": df}
+    return {"changed": changed, "df": df.copy()}
