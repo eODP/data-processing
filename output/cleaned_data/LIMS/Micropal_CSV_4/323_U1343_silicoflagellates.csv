@@ -1,5 +1,5 @@
 Exp,Site,Hole,"Core, Type, Section",Top Depth [m],Bottom Depth [m],Abundance,Preservation,Dictyocha cf. mandrai,Dictyocha subarctios,Dictyocha spp.,Distephanus crux,Distephanus medianoctisol,Distephanus medianoctisol with short radial spines,Distephanus octangulatus,Distephanus octonarius,Distephanus slavincii,Distephanus speculum,Distephanus speculum with short radial spines,Aberrant Silicoflagellates,Ammodochium rectangulare (Ebridian),Silicoflagellate Zone in Ling (1992),,,Core,Type,Section,Top [cm],Bottom [cm],A/W,Sample,eodp_id
-323,U1343,C,21H-CC,192.05,192.15,T,G,,,,,T,,,,,,,,,Ds. octonarius,,,21,H,CC,,,,323-U1343C-21H-CC,31ad61ea47293069412ef98a661eae03
+323,U1343,C,21H-CC,192.05,192.15,X,G,,,,,T,,,,,,,,,Ds. octonarius,,,21,H,CC,,,,323-U1343C-21H-CC,31ad61ea47293069412ef98a661eae03
 323,U1343,C,22H-CC,196.06,196.16,C,G,,,,,F,F,,R,,R,R,,,,,,22,H,CC,,,,323-U1343C-22H-CC,b39025c6c199ed27291ca106fd1e9b35
 323,U1343,C,23H-CC,205.35,205.45,C,G,,T,,,T,T,T,,R,F,F,T,,Dc. subarctios,,,23,H,CC,,,,323-U1343C-23H-CC,6e250a685a5de9cfeb1d1f51d93fb2b9
 323,U1343,C,24H-CC,215.44,215.54,C,G,,,,,F,R,F,R,R,,,T,,,,,24,H,CC,,,,323-U1343C-24H-CC,5374d1e28921aaa993cf678db9d3dcba
@@ -27,12 +27,12 @@ Exp,Site,Hole,"Core, Type, Section",Top Depth [m],Bottom Depth [m],Abundance,Pre
 323,U1343,D,56X-CC,482.57,482.67,R,M,,,,,R,,,,,T,,,,,,,56,X,CC,,,,323-U1343D-56X-CC,1bf28f4d83758d1cd67f5e5a6ca4eb9a
 323,U1343,D,57X-CC,493.97,494.07,R,M,,,,,T,,,,,T,,,,,,,57,X,CC,,,,323-U1343D-57X-CC,69faeac7358272b56b9cf3c03ff7ebcd
 323,U1343,D,63X-CC,550.54,550.64,F,P-M,,,,,,,,,,T,R,,,,,,63,X,CC,,,,323-U1343D-63X-CC,97d903a2ab7c47e76e4b76324ba65493
-323,U1343,D,64X-CC,561.05,561.15,T,P,,,,,,,,,,,,,T,,,,64,X,CC,,,,323-U1343D-64X-CC,fb67b136ba12b29ff16a6ecefe26b2e8
+323,U1343,D,64X-CC,561.05,561.15,X,P,,,,,,,,,,,,,T,,,,64,X,CC,,,,323-U1343D-64X-CC,fb67b136ba12b29ff16a6ecefe26b2e8
 323,U1343,D,65X-CC,568.77,568.87,R,P,,,,,,,,,,,T,,T,Am. rectangulare,,,65,X,CC,,,,323-U1343D-65X-CC,ac44910bb9803a1b01ee912ddd792a74
-323,U1343,D,70X-CC,617.90,618.00,T,P,,,,,,,,,,,,,T,,,,70,X,CC,,,,323-U1343D-70X-CC,fe7471b98d401127dcbef4206cb4e6bb
-323,U1343,D,71X-CC,628.16,628.26,T,P,,,,,,,,,,,T,,,,,,71,X,CC,,,,323-U1343D-71X-CC,f54bc3dc378c7ce802e43d19d84cae5c
+323,U1343,D,70X-CC,617.90,618.00,X,P,,,,,,,,,,,,,T,,,,70,X,CC,,,,323-U1343D-70X-CC,fe7471b98d401127dcbef4206cb4e6bb
+323,U1343,D,71X-CC,628.16,628.26,X,P,,,,,,,,,,,T,,,,,,71,X,CC,,,,323-U1343D-71X-CC,f54bc3dc378c7ce802e43d19d84cae5c
 323,U1343,D,72X-CC,634.44,634.54,F,P-M,,,,,,,,,,T,F,,R,,,,72,X,CC,,,,323-U1343D-72X-CC,99cfa20f4d430dacf84998ac833dc9b2
 323,U1343,D,73X-CC,643.79,643.89,F,P-M,,,,,,,,,,R,F,,,,,,73,X,CC,,,,323-U1343D-73X-CC,d3209cd157bc9c5f2d84a529b9e5cbe1
 323,U1343,D,74X-CC,657.41,657.51,R,P-M,,,,,,,,,,,,,R,,,,74,X,CC,,,,323-U1343D-74X-CC,b18892d4d481d6a7ed66167ba3ddf30a
-323,U1343,D,75X-CC,667.09,667.19,T,P,,,,,,,,,,,,,T,,,,75,X,CC,,,,323-U1343D-75X-CC,b12bfcb4e2273e3db8e0734c1086a290
+323,U1343,D,75X-CC,667.09,667.19,X,P,,,,,,,,,,,,,T,,,,75,X,CC,,,,323-U1343D-75X-CC,b12bfcb4e2273e3db8e0734c1086a290
 323,U1343,D,76X-CC,674.96,675.06,R,P,,,,,,,,,,,,,R,,,,76,X,CC,,,,323-U1343D-76X-CC,5c46358a23f77b229b9381a6aff3e218

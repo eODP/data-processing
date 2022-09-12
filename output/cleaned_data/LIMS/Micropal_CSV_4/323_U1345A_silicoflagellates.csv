@@ -1,6 +1,6 @@
 Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundances,Preservation,Dictyocha subarctios,Distephanus medianoctisol,Distephanus medianoctisol with short spines,Distephanus octangulatus,Distephanus octonarius,Distephanus speculum,Distephanus speculum with short radial spine,Aberrant Silicoflagellates,Silicoflagellate Zone in Ling (1992),Core,Section,Type,Top [cm],Bottom [cm],A/W,Sample,eodp_id
 323,U1345,A,1H-CC,4.29,4.39,A,G,R,T,,C,,C,R,R,Ds. octangulatus,1,CC,H,,,,323-U1345A-1H-CC,ce71c27ba24cf3f5311cc3b632dbe0d3
-323,U1345,A,2H-CC,13.98,14.09,T,G,,,,,T,,,,Ds. octangulatus,2,CC,H,,,,323-U1345A-2H-CC,79bc5df03d7ecb057f68eca03018c5a4
+323,U1345,A,2H-CC,13.98,14.09,X,G,,,,,T,,,,Ds. octangulatus,2,CC,H,,,,323-U1345A-2H-CC,79bc5df03d7ecb057f68eca03018c5a4
 323,U1345,A,3H-CC,23.82,23.92,B,,,,,,,,,,Ds. octangulatus,3,CC,H,,,,323-U1345A-3H-CC,5dea3dfcdb18149d2b3cf270226881a8
 323,U1345,A,4H-CC,33.34,33.44,F,G,,,,,,R,R,,Ds. octangulatus,4,CC,H,,,,323-U1345A-4H-CC,d3ac18cb2cb522bf20c943cfc0177467
 323,U1345,A,5H-CC,42.85,42.95,C,G,,,,,,C,R,,Ds. octangulatus,5,CC,H,,,,323-U1345A-5H-CC,558638094351c9ccaac08a5ff5aef5d3
@@ -9,7 +9,7 @@ Exp,Site,Hole,"Core, Section",Top Depth [m],Bottom Depth [m],Abundances,Preserva
 323,U1345,A,8H-CC,71.01,71.11,B,,,,,,,,,,Ds. octangulatus,8,CC,H,,,,323-U1345A-8H-CC,b440d498bf9039aaba1e5a0e724b0d31
 323,U1345,A,9H-CC,80.54,80.64,R,M,,,,,R,,,,Ds. octonarius,9,CC,H,,,,323-U1345A-9H-CC,fd8a0725bf2e01abddef7b10a8d6499c
 323,U1345,A,10H-CC,88.26,88.36,C,G,,R,,C,C,F,T,,Ds. octonarius,10,CC,H,,,,323-U1345A-10H-CC,2c767827e99cd3ee7119492f71284e8f
-323,U1345,A,11H-CC,98.39,98.49,T,G,,,,,,T,,,Ds. octonarius,11,CC,H,,,,323-U1345A-11H-CC,31615dcdab64328e386a1922c26ac699
+323,U1345,A,11H-CC,98.39,98.49,X,G,,,,,,T,,,Ds. octonarius,11,CC,H,,,,323-U1345A-11H-CC,31615dcdab64328e386a1922c26ac699
 323,U1345,A,12H-CC,108.43,108.53,C,G,,T,,R,T,F,F,T,Ds. octonarius,12,CC,H,,,,323-U1345A-12H-CC,bb964e37e048198e5e217d861a6cc7df
 323,U1345,A,13H-CC,118.88,118.98,A,G,,,,F,F,C,,,Ds. octonarius,13,CC,H,,,,323-U1345A-13H-CC,1a7c4ee7c85f09abfbafe39dacbc3a6e
 323,U1345,A,14H-CC,128.02,128.12,R,G,,,T,,R,T,,,Ds. octonarius,14,CC,H,,,,323-U1345A-14H-CC,8bd1038f4f3cd5b28f92f267dc8462cb

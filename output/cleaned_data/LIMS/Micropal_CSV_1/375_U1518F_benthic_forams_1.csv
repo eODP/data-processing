@@ -1,7 +1,7 @@
 Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,General comment,Cibicides kullenbergi >1000 m,Cibicides molestus >150 m,Cibicides neoperforatus >200 m,Cibicides robertsoninaus >1000 m,Eggerella bradyi >600 m,Elphidium sp.,Euuvigerina miozea (group) >100 m,Euuvigerina rodleyi (group) >50 m,Karreriella bradyi >600 m,Karreriella cylindrica >400 m,Nodosarids (elongate forms),Notorotalia sp.,Planulina wuellerstorfi >1000 m,Pullenia bulloides >200 m,Sigmoilopsis schlumbergeri >600 m,Siphouvigerina notohispida >1000 m,Tritaxilina zealandica >1500 m,Vulvulina pennatula >800 m,Ship File Links,Shore File Links,File Data,Exp,Site,Hole,Core,Type,Section,A/W,eodp_id
 375-U1518F-2R-CC-PAL-FORAM,0,10,199.8,199.9,VG,D,,,,,,,,,,,,,,,,,,,,,,,375,U1518,F,2,R,CC,PAL,ccdf213f975caa9904cf2144bd757b5b
 375-U1518F-3R-CC-PAL-FORAM,0,10,212.49,212.59,VG,D,,,,,,,,,,,,,,,R,,,,,,,,375,U1518,F,3,R,CC,PAL,5fa5105e1d079f3debf775a66cf64c71
-375-U1518F-4R-CC-PAL-FORAM,0,10,219.21,219.31,VG (M),A,,,,,,,,,,,,,,,,,,,,,,,375,U1518,F,4,R,CC,PAL,e14e84057cadc5ff050ff6d43b617c33
+375-U1518F-4R-CC-PAL-FORAM,0,10,219.21,219.31,VG-M,A,,,,,,,,,,,,,,,,,,,,,,,375,U1518,F,4,R,CC,PAL,e14e84057cadc5ff050ff6d43b617c33
 375-U1518F-5R-CC-PAL-FORAM,0,10,229.91,230.01,VG,A,,,,,,,,,,,,,,,R,,,,,,,,375,U1518,F,5,R,CC,PAL,42cbea86adfd400d91b6a93f2f3346b6
 375-U1518F-6R-CC-PAL-FORAM,0,13,239.08,239.21,VG,D,,,,,,,P,,,,,,,,F,,,,,,,,375,U1518,F,6,R,CC,PAL,1929584a543755d8659e3347092ea1d2
 375-U1518F-7R-3-PAL(81-91)-FORAM,0,10,248.77,248.87,VG,C,,,,,,,,,,,,,F,,F,,,,,,,,375,U1518,F,7,R,3,PAL,db6d02db79d0715e1f058e614c3db6fb
@@ -21,7 +21,7 @@ Sample,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group ab
 375-U1518F-19R-CC-PAL-FORAM,0,5,362.9,362.95,VG,F,,,,,,,,,,,,,,,,,,,,,,,375,U1518,F,19,R,CC,PAL,7a78620daa8d3157c803e7ad9eceb7ef
 375-U1518F-20R-CC-PAL-FORAM,0,10,373.71,373.81,VG,A,,,,,,R,,,,,,,,,R,,,,,,,,375,U1518,F,20,R,CC,PAL,1b1fb770e9c8020458e9a6e7c85465d5
 375-U1518F-21R-CC-PAL-FORAM,0,5,383.11,383.16,VG,A,,,,,,,,,,,,,,,P,,,,,,,,375,U1518,F,21,R,CC,PAL,71b76e1b14833acfb157363b0f4cf18b
-375-U1518F-22R-CC-PAL-FORAM,0,10,391.96,392.06,VG (M),C,,,,,,,,,,,,,P,,,,,,,,,,375,U1518,F,22,R,CC,PAL,a24434f31e888c19632853e94fc31db0
+375-U1518F-22R-CC-PAL-FORAM,0,10,391.96,392.06,VG-M,C,,,,,,,,,,,,,P,,,,,,,,,,375,U1518,F,22,R,CC,PAL,a24434f31e888c19632853e94fc31db0
 375-U1518F-23R-CC-PAL-FORAM,0,10,402.53,402.63,VG,D,,,,,,P,,,,,,,,,,,,,,,,,375,U1518,F,23,R,CC,PAL,0e9d632d0225a021c063dc6bf87c91ce
 375-U1518F-24R-2-PAL-FORAM,0,10,411.68,411.78,VG,R,,,,,,,,,,,,,,,,,,,,,,,375,U1518,F,24,R,2,PAL,cbfcae27963128fb57eed1e6752f07e0
 375-U1518F-25R-4-PAL-FORAM,0,10,422.12,422.22,VG,F,,,,,,,,,,,,,F,,,,,,,,,,375,U1518,F,25,R,4,PAL,353f47a10bed2b3ba29d887d68951b9b

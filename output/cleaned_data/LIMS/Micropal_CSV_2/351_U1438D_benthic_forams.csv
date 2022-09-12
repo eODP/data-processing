@@ -1,28 +1,28 @@
 Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [cm],Bottom [cm],Top Depth [m],Bottom Depth [m],Preservation,Group abundance,Amphistegina sp.,Bathysiphon sp.,Cibicidoides eocenicus,Cibicidoides grimsdalei,Cibicidoides havanensis,Cibicidoides laurisae,Cibicidoides pachyderma,Cibicidoides sp.,Cibicioides mundulus,Cribrostomoides subglobosus,Dorothia brevis,Eggerella bradyi,Fursenkoina complanata,Glandulina sp.,Globocassidulina moluccensis,Globocassidulina subglobosa,Gyroidina sp.,Haplophragmoides sp.,Karrerulina sp.,Lagena sulcata,Lepidocyclina sp.,Melonis barleeanum,Nodosaria longiscata,Nodosaria sp.,Nonionella sp.,Nuttalides sp.,Oridorsalis umbonatus,Planulina weullerstorfi,Pleurostomella cylindrica,Pullenia sp.,Pullennia simplex,Pyrgo sp.,Quinqueloculina sp.,Reophax sp.,Rhabdammina sp.,Rhizammina sp.,Saccammina sp.,Sigmavirgulina tortuosa,Sphaeroidina bulloides,Stilostomella abyssorum,Stilostomella sp.,Trifarina sp.,Uvigerina hispida,Uvigerina peregrina,Uvigerina sp.,General comment,File Data,Shore File Links,eodp_id
-351-U1438D-2R-CC-PAL-FORAM,351,U1438,D,2,2-CC,R,CC,PAL,FORAM,0,6,222.62,222.68,M [P02],C,,,R,,,,,,,,P,,,,F,,,,,,,,,R,,P,P,,,,,,,,,,,,,,,,,,,,,,403dd09a4791c9ef6641db4b215779d8
-351-U1438D-3R-CC-PAL-FORAM,351,U1438,D,3,3-CC,R,CC,PAL,FORAM,0,6,230.1,230.16,M [P02],R,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,b987ee4adbebe15bba9f4064782083b8
-351-U1438D-3R-CC-PAL-FORAM,351,U1438,D,3,3-CC,R,CC,PAL,FORAM,0,6,230.1,230.16,P [P02],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f86380cb1d8ed28dbe401fe2270a866a
+351-U1438D-2R-CC-PAL-FORAM,351,U1438,D,2,2-CC,R,CC,PAL,FORAM,0,6,222.62,222.68,M,C,,,R,,,,,,,,P,,,,F,,,,,,,,,R,,P,P,,,,,,,,,,,,,,,,,,,,,,403dd09a4791c9ef6641db4b215779d8
+351-U1438D-3R-CC-PAL-FORAM,351,U1438,D,3,3-CC,R,CC,PAL,FORAM,0,6,230.1,230.16,M,P,,,,,,,,,,,,,,,,,,,,,,,,R,,,,,,,,,,,,,,,,,,,,,,,,,b987ee4adbebe15bba9f4064782083b8
+351-U1438D-3R-CC-PAL-FORAM,351,U1438,D,3,3-CC,R,CC,PAL,FORAM,0,6,230.1,230.16,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f86380cb1d8ed28dbe401fe2270a866a
 351-U1438D-4R-CC-PAL-FORAM,351,U1438,D,4,4-CC,R,CC,PAL,FORAM,0,5,231.56,231.61,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0272f48070e44592b8ae18542aab53f9
 351-U1438D-5R-CC-PAL-FORAM,351,U1438,D,5,5-CC,R,CC,PAL,FORAM,0,7,239.55,239.62,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,eeb9c4eb8c96cb1f8182bccd2cb5b4a6
 351-U1438D-6R-CC-PAL-FORAM,351,U1438,D,6,6-CC,R,CC,PAL,FORAM,0,0,250.14,250.14,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d79ca391759034601df9967f0c8df384
 351-U1438D-7R-CC-PAL-FORAM,351,U1438,D,7,7-CC,R,CC,PAL,FORAM,0,0,259.84,259.84,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,caf38abf624eae444fa617cec4e2406f
 351-U1438D-8R-CC-PAL-FORAM,351,U1438,D,8,8-CC,R,CC,PAL,FORAM,0,0,269.84,269.84,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e680ad72011e9ba8027e5338effa1c79
-351-U1438D-9R-CC-PAL-FORAM,351,U1438,D,9,9-CC,R,CC,PAL,FORAM,0,0,280.66,280.66,M [P02],R,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ad1210e01f807493326f06f87b6768ab
-351-U1438D-10R-2-A 44/45-FORAM,351,U1438,D,10,10-2,R,2,A,44/45-FORAM,0,1,288.6,288.61,M [P02],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cca8ff08235527b60178b74521b76acb
-351-U1438D-10R-CC-PAL-FORAM,351,U1438,D,10,10-CC,R,CC,PAL,FORAM,0,6,290.74,290.8,P [P02],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d38680ef4d294f47de53b79d6ef9dea0
+351-U1438D-9R-CC-PAL-FORAM,351,U1438,D,9,9-CC,R,CC,PAL,FORAM,0,0,280.66,280.66,M,P,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ad1210e01f807493326f06f87b6768ab
+351-U1438D-10R-2-A 44/45-FORAM,351,U1438,D,10,10-2,R,2,A,44/45-FORAM,0,1,288.6,288.61,M,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cca8ff08235527b60178b74521b76acb
+351-U1438D-10R-CC-PAL-FORAM,351,U1438,D,10,10-CC,R,CC,PAL,FORAM,0,6,290.74,290.8,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,d38680ef4d294f47de53b79d6ef9dea0
 351-U1438D-11R-CC-PAL-FORAM,351,U1438,D,11,11-CC,R,CC,PAL,FORAM,0,7,301.26,301.33,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c2e523c8c4d4c63aa891cdcabe849c6e
-351-U1438D-12R-CC-PAL-FORAM,351,U1438,D,12,12-CC,R,CC,PAL,FORAM,0,6,310.33,310.39,M [P02],R,P,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,9583b5933ac631ed83c07f1e68f10a5e
-351-U1438D-13R-CC-PAL-FORAM,351,U1438,D,13,13-CC,R,CC,PAL,FORAM,0,4,322.89,322.93,M [P02],F,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8c42defefaaedf4a7ea8304380f35902
-351-U1438D-14R-CC-PAL-FORAM,351,U1438,D,14,14-CC,R,CC,PAL,FORAM,0,4,331.76,331.8,M [P02],R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79fdbe74e06ccffb8a8aed71befbbfea
+351-U1438D-12R-CC-PAL-FORAM,351,U1438,D,12,12-CC,R,CC,PAL,FORAM,0,6,310.33,310.39,M,P,P,,,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,9583b5933ac631ed83c07f1e68f10a5e
+351-U1438D-13R-CC-PAL-FORAM,351,U1438,D,13,13-CC,R,CC,PAL,FORAM,0,4,322.89,322.93,M,F,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8c42defefaaedf4a7ea8304380f35902
+351-U1438D-14R-CC-PAL-FORAM,351,U1438,D,14,14-CC,R,CC,PAL,FORAM,0,4,331.76,331.8,M,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79fdbe74e06ccffb8a8aed71befbbfea
 351-U1438D-15R-CC-PAL-FORAM,351,U1438,D,15,15-CC,R,CC,PAL,FORAM,0,4,343.44,343.48,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83ec5774caf1706d27509d2cac17bff9
-351-U1438D-16R-CC-PAL-FORAM,351,U1438,D,16,16-CC,R,CC,PAL,FORAM,0,5,354.74,354.79,M [P02],R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3617954df45f1f15844b47521470ace7
-351-U1438D-17R-CC-PAL-FORAM,351,U1438,D,17,17-CC,R,CC,PAL,FORAM,0,5,364.43,364.48,P [P02],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9c43e5ee5515fb18ca6384fc4a11d98f
+351-U1438D-16R-CC-PAL-FORAM,351,U1438,D,16,16-CC,R,CC,PAL,FORAM,0,5,354.74,354.79,M,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3617954df45f1f15844b47521470ace7
+351-U1438D-17R-CC-PAL-FORAM,351,U1438,D,17,17-CC,R,CC,PAL,FORAM,0,5,364.43,364.48,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9c43e5ee5515fb18ca6384fc4a11d98f
 351-U1438D-18R-CC-FORAM,351,U1438,D,18,18-CC,R,CC,FORAM,,0,5,373.78,373.83,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05438fd89befdf77df4fb01501e29b4c
 351-U1438D-19R-CC-PAL-FORAM,351,U1438,D,19,19-CC,R,CC,PAL,FORAM,0,5,380.77,380.82,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a01ecc6cebca440d1edd27267806f330
 351-U1438D-20R-CC-PAL-FORAM,351,U1438,D,20,20-CC,R,CC,PAL,FORAM,0,7,391.5,391.57,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90a6a4fd71c9a2919058a26c1a8fae9d
 351-U1438D-21R-CC-PAL-FORAM,351,U1438,D,21,21-CC,R,CC,PAL,FORAM,0,5,397.17,397.22,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,e099374069e5f6f87cda37b7d46ce695
-351-U1438D-22R-CC-PAL-FORAM,351,U1438,D,22,22-CC,R,CC,PAL,FORAM,0,5,413.11,413.16,P [P02],R,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f903bcb9d58499b2b559dc3f7c9d81b0
-351-U1438D-23R-CC-PAL-FORAM,351,U1438,D,23,23-CC,R,CC,PAL,FORAM,0,5,419.44,419.49,M [P02],R,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f72b2b7396246ab5fe2659497af53533
+351-U1438D-22R-CC-PAL-FORAM,351,U1438,D,22,22-CC,R,CC,PAL,FORAM,0,5,413.11,413.16,P,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f903bcb9d58499b2b559dc3f7c9d81b0
+351-U1438D-23R-CC-PAL-FORAM,351,U1438,D,23,23-CC,R,CC,PAL,FORAM,0,5,419.44,419.49,M,P,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f72b2b7396246ab5fe2659497af53533
 351-U1438D-24R-CC-PAL-FORAM,351,U1438,D,24,24-CC,R,CC,PAL,FORAM,0,5,428.63,428.68,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95d8fed7f95fb0dd52e49816748a9b66
 351-U1438D-25R-CC-PAL-FORAM,351,U1438,D,25,25-CC,R,CC,PAL,FORAM,0,8,440.97,441.05,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ba474c48619c96199c5c2cb50098d44c
 351-U1438D-26R-CC-PAL-FORAM,351,U1438,D,26,26-CC,R,CC,PAL,FORAM,0,4,450.69,450.73,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8d21543c4573187796460bbfca49a355
@@ -31,20 +31,20 @@ Sample,Exp,Site,Hole,Core,Core-Sect,Type,Section,A/W,Extra Sample ID Data,Top [c
 351-U1438D-29R-CC-PAL-FORAM,351,U1438,D,29,29-CC,R,CC,PAL,FORAM,0,5,480.93,480.98,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b9a4ff6b16446fac2c48fcb6b9266177
 351-U1438D-30R-CC-PAL-FORAM,351,U1438,D,30,30-CC,R,CC,PAL,FORAM,0,0,483.36,483.36,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c86df1cc475cb68c7efa119bb1349fd4
 351-U1438D-31R-CC-PAL-FORAM,351,U1438,D,31,31-CC,R,CC,PAL,FORAM,0,0,499.0,499.0,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7fe29484d231f729a938e8706da017ab
-351-U1438D-32R-CC-PAL-FORAM,351,U1438,D,32,32-CC,R,CC,PAL,FORAM,0,0,510.0,510.0,M [P02],C,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,P,,,,,,,,761e3c48dd6f7132297db21ba37a38f0
+351-U1438D-32R-CC-PAL-FORAM,351,U1438,D,32,32-CC,R,CC,PAL,FORAM,0,0,510.0,510.0,M,C,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,,,P,,,,,,,,761e3c48dd6f7132297db21ba37a38f0
 351-U1438D-33R-CC-PAL-FORAM,351,U1438,D,33,33-CC,R,CC,PAL,FORAM,0,0,519.47,519.47,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a936a1936fb9e4fbef220c9be840d574
 351-U1438D-34R-CC-PAL-FORAM,351,U1438,D,34,34-CC,R,CC,PAL,FORAM,0,8,529.44,529.52,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02a090023de2a35d579f5a1793c34179
 351-U1438D-35R-CC-PAL-FORAM,351,U1438,D,35,35-CC,R,CC,PAL,FORAM,0,5,538.55,538.6,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7364c5927509715b5de5c589b1bd2f0e
-351-U1438D-36R-CC-PAL-FORAM,351,U1438,D,36,36-CC,R,CC,PAL,FORAM,0,6,548.64,548.7,M [P02],R,,P,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90c56f1b020d367b948425158edd57c6
+351-U1438D-36R-CC-PAL-FORAM,351,U1438,D,36,36-CC,R,CC,PAL,FORAM,0,6,548.64,548.7,M,P,,P,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90c56f1b020d367b948425158edd57c6
 351-U1438D-37R-CC-PAL-FORAM,351,U1438,D,37,37-CC,R,CC,PAL,FORAM,0,6,555.71,555.77,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3b840ce78b434ba3735f56c0b79b83fe
-351-U1438D-38R-CC-PAL-FORAM,351,U1438,D,38,38-CC,R,CC,PAL,FORAM,0,5,565.65,565.7,M [P02],C,,,,,,R,F,,,P,,,,,,,,,,,,,,,,,,,,,P,,,,,,,P,,,,,,,,,,,976f29738292b9037825f8332a3fff57
-351-U1438D-39R-CC-PAL-FORAM,351,U1438,D,39,39-CC,R,CC,PAL,FORAM,0,5,576.79,576.84,M [P02],R,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,6c31a18f555a7aa4ade4cbe4e6535367
+351-U1438D-38R-CC-PAL-FORAM,351,U1438,D,38,38-CC,R,CC,PAL,FORAM,0,5,565.65,565.7,M,C,,,,,,R,F,,,P,,,,,,,,,,,,,,,,,,,,,P,,,,,,,P,,,,,,,,,,,976f29738292b9037825f8332a3fff57
+351-U1438D-39R-CC-PAL-FORAM,351,U1438,D,39,39-CC,R,CC,PAL,FORAM,0,5,576.79,576.84,M,P,,,,,,,,,,,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,P,,,,,,,,6c31a18f555a7aa4ade4cbe4e6535367
 351-U1438D-40R-CC-PAL-FORAM,351,U1438,D,40,40-CC,R,CC,PAL,FORAM,0,6,587.64,587.7,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0375885a3337b33a70b53c27d89111cd
 351-U1438D-41R-CC-PAL-FORAM,351,U1438,D,41,41-CC,R,CC,PAL,FORAM,0,6,597.34,597.4,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,709768ed6a6894003d36e1c7181969fc
-351-U1438D-42R-CC-PAL-FORAM,351,U1438,D,42,42-CC,R,CC,PAL,FORAM,0,0,599.38,599.38,P [P02],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85244951cb77152c6a35ebe072a51070
-351-U1438D-43R-CC-PAL-FORAM,351,U1438,D,43,43-CC,R,CC,PAL,FORAM,0,0,612.72,612.72,P [P02],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8f3a0b3714b01b018e4661dfcb957058
+351-U1438D-42R-CC-PAL-FORAM,351,U1438,D,42,42-CC,R,CC,PAL,FORAM,0,0,599.38,599.38,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85244951cb77152c6a35ebe072a51070
+351-U1438D-43R-CC-PAL-FORAM,351,U1438,D,43,43-CC,R,CC,PAL,FORAM,0,0,612.72,612.72,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8f3a0b3714b01b018e4661dfcb957058
 351-U1438D-44R-CC-PAL-FORAM,351,U1438,D,44,44-CC,R,CC,PAL,FORAM,0,6,624.79,624.85,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,970c1204a1c5638a249b0847779bfa5e
-351-U1438D-45R-CC-PAL-FORAM,351,U1438,D,45,45-CC,R,CC,PAL,FORAM,0,0,635.47,635.47,P [P02],R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ccda31e8c1c9e3f264f6db2b452ccfc5
+351-U1438D-45R-CC-PAL-FORAM,351,U1438,D,45,45-CC,R,CC,PAL,FORAM,0,0,635.47,635.47,P,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ccda31e8c1c9e3f264f6db2b452ccfc5
 351-U1438D-46R-CC-PAL-FORAM,351,U1438,D,46,46-CC,R,CC,PAL,FORAM,0,9,645.25,645.34,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4e6e7d5b095465fae2145959894fd5fb
 351-U1438D-47R-CC-PAL-FORAM,351,U1438,D,47,47-CC,R,CC,PAL,FORAM,0,7,652.58,652.65,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,a0424ef9e551bae610aa68b97b249feb
 351-U1438D-48R-CC-PAL-FORAM,351,U1438,D,48,48-CC,R,CC,PAL,FORAM,0,5,664.08,664.13,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0bbe3e0e3e61f44506145913c11f0ba8
