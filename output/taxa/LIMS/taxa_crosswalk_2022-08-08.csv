@@ -5302,7 +5302,7 @@ Plagiacanthidae indet.,,,,,,,,,,Plagiacanthidae indet.,radiolarians,additional s
 ,,Heronallenia,,,,sp.,,,,Heronallenia sp.,benthic_forams,Heronallenia sp.,,,,,5298
 ,,Lagena,,,,distoma,,,,Lagena distoma,benthic_forams,Lagena distoma,,,,,5299
 ,,Lenticulina,,,,calcar,,,,Lenticulina calcar,benthic_forams,Lenticulina calcar,,,,,5300
-,,Nonion,,,,havanensis,,,,Nonion havanensis,benthic_forams,Nonion havanensis,,JAS: species misspelling; WoRMS,,,5301
+,,Nonion,,,,havanensis,,,,Nonion havanensis,benthic_forams,Nonion havanensis,,appears to be a misspelling; WoRMS (JAS),,,5301
 ,,Nonionella,,,,magnalingua,,,,Nonionella magnalingua,benthic_forams,Nonionella magnalingua,,,,,5302
 ,,Oolina,,,,hexagona,,,,Oolina hexagona,benthic_forams,Oolina hexagona,,,,,5303
 ,,Oolina,,,,squamosa,,,,Oolina squamosa,benthic_forams,Oolina squamosa,,,,,5304
@@ -5322,7 +5322,7 @@ Plagiacanthidae indet.,,,,,,,,,,Plagiacanthidae indet.,radiolarians,additional s
 ,,Cocconeis,,,,placentula,,,,Cocconeis placentula,diatoms,Cocconeis placentula,,,,,5318
 ,,Cocconeis,,,,vitrea,,,,Cocconeis vitrea,diatoms,Cocconeis vitrea,,,,,5319
 ,,Cyclotella,,,,sp.,,,,Cyclotella sp.,diatoms,Cyclotella sp.,,,,,5320
-,,Detonula,,,,confervacea,,,,Detonula confervacea,diatoms,Detonula confervacea,,"in PBDB, so it will be classified correctly",https://www.marinespecies.org/aphia.php?p=taxdetails&id=149285,,5321
+,,Detonula,,,,confervacea,,,,Detonula confervacea,diatoms,Detonula confervacea,,,"in PBDB, so it will be classified correctly",,5321
 ,,Diploneis,,,,interrupta,,,,Diploneis interrupta,diatoms,Diploneis interrupta,,,,,5322
 ,,Eunotia,,,,praerupta,,,,Eunotia praerupta,diatoms,Eunotia praerupta,,,,,5323
 ,,Grammatophora,,,,arcuata,,,,Grammatophora arcuata,diatoms,Grammatophora arcuata,,,,,5324
@@ -5334,25 +5334,25 @@ Plagiacanthidae indet.,,,,,,,,,,Plagiacanthidae indet.,radiolarians,additional s
 ,,Rhabdonema,,,,japonicum,,,,Rhabdonema japonicum,diatoms,Rhabdonema japonicum,,,,,5330
 ,,Rhizosolenia,,,,hebetata,,semispina,,Rhizosolenia hebetata semispina,diatoms,Rhizosolenia hebetata semispina,,,,,5331
 ,,Rhizosolenia,,,,sp.,,,,Rhizosolenia sp.,diatoms,Rhizosolenia sp.,,,,,5332
-,,Stauroneis,,,,sp.,,,,Stauroneis sp.,diatoms,Stauroneis sp.,,"in PBDB, so it will be classified correctly",https://www.marinespecies.org/aphia.php?p=taxdetails&id=149077,,5333
-,,Tetracyclus,,,,lacustris,,,,Tetracyclus lacustris,diatoms,Tetracyclus lacustris,,"in PBDB, so it will be classified correctly",https://www.marinespecies.org/aphia.php?p=taxdetails&id=176342,,5334
+,,Stauroneis,,,,sp.,,,,Stauroneis sp.,diatoms,Stauroneis sp.,,,"in PBDB, so it will be classified correctly",,5333
+,,Tetracyclus,,,,lacustris,,,,Tetracyclus lacustris,diatoms,Tetracyclus lacustris,,,"in PBDB, so it will be classified correctly",,5334
 ,,Thalassiosira,,,,lacustris,,,,Thalassiosira lacustris,diatoms,Thalassiosira lacustris,,,,,5335
 ,,Thalassiosira,,,,marujamica,,,,Thalassiosira marujamica,diatoms,Thalassiosira marujamica,,,,,5336
 ,,Thalassiosira,,,,oestrupii,,,,Thalassiosira oestrupii,diatoms,Thalassiosira oestrupii,,,,,5337
 ,,Thalassiosira,,,,singularis,,,,Thalassiosira singularis,diatoms,Thalassiosira singularis,,,,,5338
 ,,Triceratium,,,,sp.,,,,Triceratium sp.,diatoms,Triceratium sp.,,,,,5339
-,,Bitectatodinium,,,,tepikiense,,,,Bitectatodinium tepikiense,dinoflagellates,Bitectatodinium tepikiense,,"in PBDB, so it will be classified correctly",https://www.algaebase.org/search/species/detail/?species_id=123738&-session=abv4:AC1F249F13a8900D01RQ6B3AAA25,,5340
+,,Bitectatodinium,,,,tepikiense,,,,Bitectatodinium tepikiense,dinoflagellates,Bitectatodinium tepikiense,,,"in PBDB, so it will be classified correctly",,5340
 ,,Brigantedinium,,,,simplex,,,,Brigantedinium simplex,dinoflagellates,Brigantedinium simplex,,,,,5341
-,,Filisphaera,,,,filifera,,,,Filisphaera filifera,dinoflagellates,Filisphaera filifera,,"in PBDB, so it will be classified correctly",https://www.marinespecies.org/aphia.php?p=taxdetails&id=601616,,5342
+,,Filisphaera,,,,filifera,,,,Filisphaera filifera,dinoflagellates,Filisphaera filifera,,,"in PBDB, so it will be classified correctly",,5342
 ,,Impagidinium,,,,aculeatum,,,,Impagidinium aculeatum,dinoflagellates,Impagidinium aculeatum,,,,,5343
 ,,Operculodinium,,,,centrocarpum,,,,Operculodinium centrocarpum,dinoflagellates,Operculodinium centrocarpum,,,,,5344
 ,,Spiniferites,,,,frigidus,,,,Spiniferites frigidus,dinoflagellates,Spiniferites frigidus,,,,,5345
-,,Votadinium,,,,calvum,,,,Votadinium calvum,dinoflagellates,Votadinium calvum,,"in PBDB, so it will be classified correctly",https://www.algaebase.org/search/species/detail/?species_id=81733&-session=abv4:AC1F249F13a8900D01RQ6B3AAA25,,5346
+,,Votadinium,,,,calvum,,,,Votadinium calvum,dinoflagellates,Votadinium calvum,,,"in PBDB, so it will be classified correctly",,5346
 ,,Ebriopsis,,,,antiqua,,antiqua,,Ebriopsis antiqua antiqua,ebridians,Ebriopsis antiqua antiqua,,,,,5347
 ,,Ebriopsis,,,,antiqua,,cornuta,,Ebriopsis antiqua cornuta,ebridians,Ebriopsis antiqua cornuta,,,,,5348
 ,,Braarudosphaera,,,,sp.,,,,Braarudosphaera sp.,nannofossils,Braarudosphaera sp.,,,,,5349
 ,,Chiasmolithus,,,,sp.,,,,Chiasmolithus sp.,nannofossils,Chiasmolithus sp.,,,,,5350
-,,Crenalithus,,,,doronicoides,,,,Crenalithus doronicoides,nannofossils,Crenalithus doronicoides,,,https://www.mikrotax.org/system/index.php?taxon=Crenalithus&module=ntax_Farinacci,,5351
+,,Crenalithus,,,,doronicoides,,,,Crenalithus doronicoides,nannofossils,Crenalithus doronicoides,,,"in PBDB, so it will be classified correctly",,5351
 ,,Cricolithus,,,,jonesii,,,,Cricolithus jonesii,nannofossils,Cricolithus jonesii,,,,,5352
 ,,Pontosphaera,,,,syracusana,,,,Pontosphaera syracusana,nannofossils,Pontosphaera syracusana,,,,,5353
 ,,Reticulofenestra,,,,daviesi,,,,Reticulofenestra daviesi,nannofossils,Reticulofenestra daviesi,,,,,5354
