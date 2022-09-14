@@ -1,9 +1,9 @@
 Exp,Site,Hole,Core,Type,Section,Top Depth [m],Preservation,Group Abundance,Marine,Actinocylus actinochilus,Actinocylus karstenii,Actinoptychus bipunctatus,Actinoptychus senarius,Coscinodiscus radiatus,Delphineis spp.,Diploneis splendida,Fragilariopsis cylindrica,Fragilariopsis fossilis,Fragilariopsis kerguelensis,Fragilariopsis obliquecostata,Grammatophora sp.,Hemidiscus karstenii,Hemidiscus sp. 1 of Zielinski & Gersonde (2002),Hyalodiscus sp.,Rhizosolenia hebetata,Rhizosolenia hebetata f. hiemalis,Stephanopyxis turris,Stephanopyxis spp.,Thalassiosira eccentrica,Thalassiosira fasciculata,Thalassiosira gracilis,Thalassiosira lentiginosa,Thalassiosira oestrupii,Thalassiosira spp.,Thalassiothrix longissima,,Coastal upwelling,Resting spores of Chaetoceros,,Coastal,Paralia sulcata,Thalassionema nitzschioides,,Fresh or brackish water,Aulacoseira granulata,Cocconeis fasciolata,Cyclotella spp.,Navicula spp.,Nitzschia? sp. 1,Pinularia sp.,Pleurosigma directum,Comments,,,,,,Top [cm],Bottom [cm],Bottom Depth [m],A/W,Sample,eodp_id
-317,U1352,A,1,H,CC,4.21,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-1H-CC,a87052d8fb75fd49daf24c64f2fb2787
-317,U1352,A,2,H,CC,13.67,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-2H-CC,54b457c5129587d8ea92d86bd767ef2d
-317,U1352,A,3,H,CC,23.1,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-3H-CC,d8f258f89d90ea857c65f65d18ac42cc
-317,U1352,A,4,H,CC,33.43,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-4H-CC,6b5b13c9dadd7c51805da8a4538accc2
-317,U1352,A,5,H,CC,43.06,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-5H-CC,76acf32c42c974b559427aabe476f114
+317,U1352,A,1,H,CC,4.21,-,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-1H-CC,a87052d8fb75fd49daf24c64f2fb2787
+317,U1352,A,2,H,CC,13.67,-,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-2H-CC,54b457c5129587d8ea92d86bd767ef2d
+317,U1352,A,3,H,CC,23.1,-,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-3H-CC,d8f258f89d90ea857c65f65d18ac42cc
+317,U1352,A,4,H,CC,33.43,-,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-4H-CC,6b5b13c9dadd7c51805da8a4538accc2
+317,U1352,A,5,H,CC,43.06,-,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352A-5H-CC,76acf32c42c974b559427aabe476f114
 317,U1352,B,1,H,CC,8.16,P,R,,,,,,R,,,X,,,,,,,,,,,,,,,X,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,317-U1352B-1H-CC,bce451588a2092915ab716824797b15a
 317,U1352,B,2,H,CC,17.7,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,317-U1352B-2H-CC,2ee672cdfe37ad9468d31309b83d2654
 317,U1352,B,3,H,CC,27.41,P,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,317-U1352B-3H-CC,d91a3c741b7848da4c45add8f980fb5a
