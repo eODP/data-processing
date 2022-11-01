@@ -1,0 +1,11 @@
+Any taxon above genus,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,phylum_taxon_id,phylum_taxon_name,unranked clade_taxon_id,unranked clade_taxon_name
+"""Fish scales""",,,,,,,
+"""Fish teeth""",,,,,,,
+"""Otoliths""",,,,,,,
+"""Undifferentiated pollen from herbs""",,,,,,,
+"""Undifferentiated pollen""",,,,,,,
+"""Undifferentiated pollen from shrubs""",,,,,,,
+"""Undifferentiated pollen from trees""",,,,,,,
+"""Reworked palynomorphs""",,,,,,,
+"""Undifferentiated spores from moss or ferns""",,,,,,,
+Tintinnida indet.,446918,Tintinnida,order,720,Ciliophora,28595,Life
