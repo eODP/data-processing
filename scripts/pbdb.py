@@ -87,3 +87,25 @@ def fix_pbdb_id(df, correction_text, correct_id):
         raise ValueError("ID not found")
 
     df.loc[df[col] == correction_text, "corrected"] = True
+
+
+def check_multiple_pbdb_id(df):
+    """check if pbdb data is same for each pbdb taxon id"""
+    cols = [
+        "pbdb_taxon_id",
+        "pbdb_taxon_name",
+        "pbdb_taxon_rank",
+        "family_taxon_id",
+        "family_taxon_name",
+        "order_taxon_id",
+        "order_taxon_name",
+        "class_taxon_id",
+        "class_taxon_name",
+        "phylum_taxon_id",
+        "phylum_taxon_name",
+        "kingdom_taxon_id",
+        "kingdom_taxon_name",
+    ]
+
+    tmp = df[cols].copy().drop_duplicates()
+    return tmp[tmp.duplicated(subset=["pbdb_taxon_id", "pbdb_taxon_name"])]

@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 
+
 def extract_taxon_group_from_filename(filename):
     filename = re.sub("-+", "_", filename)
     filename = re.sub(" +", "_", filename)
