@@ -29,7 +29,7 @@ def get_parent_taxa(df, parent_id, taxon_rank, round, index, data):
         if len(data) == 1:
             taxon_rank = data[0]["taxon_rank"]
             parent_id = data[0]["parent_no"]
-            if taxon_rank in ["family", "order", "class", "phylum", "kingdom"]:
+            if taxon_rank in ["genus", "family", "order", "class", "phylum", "kingdom"]:
                 fill_taxon(df, index, data, taxon_rank)
             elif parent_id == "0":
                 fill_taxon(df, index, data, taxon_rank)
