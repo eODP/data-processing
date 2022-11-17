@@ -1,0 +1,36 @@
+taxon_group,Any taxon above genus,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,family_taxon_id,family_taxon_name,order_taxon_id,order_taxon_name,class_taxon_id,class_taxon_name,phylum_taxon_id,phylum_taxon_name,kingdom_taxon_id,kingdom_taxon_name
+benthic_forams,Textulariia indet.,434530,Textulariia,subclass,,,,,,,288974,Foraminifera,212476,Rhizaria
+benthic_forams,Foraminifera indet.,288974,Foraminifera,phylum,,,,,,,,,212476,Rhizaria
+dinoflagellates,Dinoflagellata indet.,354791,Dinoflagellata,superclass,,,,,,,277918,Myzozoa,,
+dinoflagellates,Foraminifera indet.,288974,Foraminifera,phylum,,,,,,,,,212476,Rhizaria
+dinoflagellates,Dinophyceae indet.,321578,Dinophyceae,class,,,,,,,,,,
+ostracods,Ostracoda indet.,22826,Ostracoda,class,,,,,,,18891,Arthropoda,325038,Animalia
+other,Bryozoa indet.,24773,Bryozoa,phylum,,,,,,,,,325038,Animalia
+other,Echinoidea indet.,32733,Echinoidea,class,,,,,,,30739,Echinodermata,325038,Animalia
+other,"""Fish scales""",,,,,,,,,,,,,
+other,"""Fish teeth""",,,,,,,,,,,,,
+other,Holothuriidae indet.,60668,Holothuriidae,family,,,31262,Aspidochirotida,31227,Holothuroidea,30739,Echinodermata,325038,Animalia
+other,Bivalvia indet.,16005,Bivalvia,class,,,,,,,7805,Mollusca,325038,Animalia
+other,Gastropoda indet.,8304,Gastropoda,class,,,,,,,7805,Mollusca,325038,Animalia
+other,Ostracoda indet.,22826,Ostracoda,class,,,,,,,18891,Arthropoda,325038,Animalia
+other,"""Otoliths""",,,,,,,,,,,,,
+other,Radiolaria indet.,4,Radiolaria,phylum,,,,,,,,,212476,Rhizaria
+other,Scaphopoda indet.,8166,Scaphopoda,class,,,,,,,7805,Mollusca,325038,Animalia
+palynology,Chlorophyceae indet.,54452,Chlorophyceae,class,,,,,,,54811,Chlorophyta,,
+palynology,"""Undifferentiated pollen from herbs""",,,,,,,,,,,,,
+palynology,"""Undifferentiated pollen""",,,,,,,,,,,,,
+palynology,"""Undifferentiated pollen from shrubs""",,,,,,,,,,,,,
+palynology,"""Undifferentiated pollen from trees""",,,,,,,,,,,,,
+palynology,"""Reworked palynomorphs""",,,,,,,,,,,,,
+palynology,"""Undifferentiated spores from moss or ferns""",,,,,,,,,,,,,
+palynology,Pteridophyta indet.,54828,Pteridophyta,phylum,,,,,,,,,54311,Plantae
+palynology,Tintinnida indet.,446918,Tintinnida,order,,,,,,,720,Ciliophora,,
+planktic_forams,Bryozoa indet.,24773,Bryozoa,phylum,,,,,,,,,325038,Animalia
+planktic_forams,Echinoidea indet.,32733,Echinoidea,class,,,,,,,30739,Echinodermata,325038,Animalia
+planktic_forams,"""Fish teeth""",,,,,,,,,,,,,
+planktic_forams,Mollusca indet.,7805,Mollusca,phylum,,,,,,,,,325038,Animalia
+planktic_forams,Ostracoda indet.,22826,Ostracoda,class,,,,,,,18891,Arthropoda,325038,Animalia
+planktic_forams,"""Otoliths""",,,,,,,,,,,,,
+planktic_forams,Radiolaria indet.,4,Radiolaria,phylum,,,,,,,,,212476,Rhizaria
+planktic_forams,Porifera indet.,2894,Porifera,phylum,,,,,,,,,325038,Animalia
+silicoflagellates,Dictyochaceae indet.,69592,Dictyochaceae,family,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,
