@@ -1,0 +1,76 @@
+taxon_group,Any taxon above genus,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,family_taxon_id,family_taxon_name,order_taxon_id,order_taxon_name,class_taxon_id,class_taxon_name,phylum_taxon_id,phylum_taxon_name,kingdom_taxon_id,kingdom_taxon_name
+benthic_forams,"""Astronion charlottensis""",,,,,,,,,,,,,
+benthic_forams,Miliolidae,81704,Miliolidae,family,81704,Miliolidae,256604,Miliolida,428719,Tubothalamea,288974,Foraminifera,212476,Rhizaria
+benthic_forams,Foraminifera,288974,Foraminifera,phylum,,,,,,,288974,Foraminifera,212476,Rhizaria
+diatoms,Chrysophyta,69586,Chrysophyta,unranked clade,,,,,,,,,,
+diatoms,"""Dimerogramma elegans""",,,,,,,,,,,,,
+diatoms,"""Diogramma sp.""",,,,,,,,,,,,,
+diatoms,Stephanodiscaceae,351514,Stephanodiscaceae,family,351514,Stephanodiscaceae,351515,Stephanodiscales,351518,Mediophyceae,432613,Ochrophyta,,
+diatoms,Bacillariophyceae,69587,Bacillariophyceae,class,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,
+dinoflagellates,Gonyaulacaceae,321603,Gonyaulacaceae,family,321603,Gonyaulacaceae,321606,Gonyaulacales,321578,Dinophyceae,,,,
+dinoflagellates,Dinophyceae,321578,Dinophyceae,class,,,,,321578,Dinophyceae,,,,
+nannofossils,Calyptrosphaeraceae,87660,Calyptrosphaeraceae,family,87660,Calyptrosphaeraceae,,,418920,Coccolithophyceae,87644,Haptophyta,,
+ostracods,Ostracoda,22826,Ostracoda,class,,,,,22826,Ostracoda,18891,Arthropoda,325038,Animalia
+planktic_forams,Globigerinida,,,,,,,,,,,,,
+pollen,Amaranthaceae,55412,Amaranthaceae,family,55412,Amaranthaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Amaryllidaceae,55831,Amaryllidaceae,family,55831,Amaryllidaceae,54968,Asparagales,,,54885,Angiospermae,54311,Plantae
+pollen,Ampelidaceae,454266,Ampelidaceae,family,,,,,,,,,54311,Plantae
+pollen,Anacardiaceae,54686,Anacardiaceae,family,54686,Anacardiaceae,54934,Sapindales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Araceae,55277,Araceae,family,55277,Araceae,54946,Alismatales,,,54885,Angiospermae,54311,Plantae
+pollen,Bombacaceae,55599,Bombacaceae,family,55599,Bombacaceae,54911,Malvales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Boraginaceae,55752,Boraginaceae,family,55752,Boraginaceae,54939,Lamiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Combretaceae,54719,Combretaceae,family,,,54926,Myrtales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+pollen,Campanulaceae,55777,Campanulaceae,family,55777,Campanulaceae,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Capparidaceae,55649,Capparidaceae,family,55649,Capparidaceae,54920,Capparidales,55233,Dicotyledoneae,54885,Angiospermae,54311,Plantae
+pollen,Caryophyllaceae,53554,Caryophyllaceae,family,53554,Caryophyllaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Chenopodiacea,55413,Chenopodiaceae,family,55413,Chenopodiaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Cistaceae,55468,Cistaceae,family,55468,Cistaceae,54911,Malvales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Convolvulaceae,55748,Convolvulaceae,family,55748,Convolvulaceae,54938,Solanales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Crotonoideae,,,,,,,,,,,,,
+pollen,Cruciferae,55652,Cruciferae,family,55652,Cruciferae,183034,Brassicales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Cupressaceae,54792,Cupressaceae,family,54792,Cupressaceae,55868,Coniferales,,,56176,Coniferophyta,54311,Plantae
+pollen,Cyperaceae,53543,Cyperaceae,family,53543,Cyperaceae,182987,Poales,,,54885,Angiospermae,54311,Plantae
+pollen,Dipsacaceae,55787,Dipsacaceae,family,55787,Dipsacaceae,54945,Dipsacales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Ericacea,55506,Ericaceae,family,55506,Ericaceae,54919,Ericales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Euphorbiaceae,53786,Euphorbiaceae,family,53786,Euphorbiaceae,183005,Malpighiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Geraniacea,55600,Geraniaceae,family,55600,Geraniaceae,55356,Geraniales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Gramineae,55515,Gramineae,family,,,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+pollen,Guttiferae,55627,Guttiferae,family,,,183005,Malpighiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Hamamelidaceae,52846,Hamamelidaceae,family,52846,Hamamelidaceae,182995,Saxifragales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Hymenophyllaceae,54769,Hymenophyllaceae,family,54769,Hymenophyllaceae,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
+pollen,Juncaginaceae,55794,Juncaginaceae,family,55794,Juncaginaceae,54946,Alismatales,,,54885,Angiospermae,54311,Plantae
+pollen,Labiatae,55758,Labiatae,family,55758,Labiatae,54939,Lamiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Leguminosae,54652,Leguminosae,family,54652,Leguminosae,54922,Fabales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Liliaceae,54578,Liliaceae,family,,,54972,Liliales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+pollen,Lycopodiaceae,54755,Lycopodiaceae,family,54755,Lycopodiaceae,,,54754,Lycopsida,54828,Pteridophyta,54311,Plantae
+pollen,Lythraceae,55686,Lythraceae,family,55686,Lythraceae,54926,Myrtales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Malpighiacea,55718,Malpighiaceae,family,55718,Malpighiaceae,183005,Malpighiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Malvaceae,53879,Malvaceae,family,53879,Malvaceae,54911,Malvales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Meliaceae,54672,Meliaceae,family,54672,Meliaceae,54934,Sapindales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Mimosaceae,257017,Mimosaceae,family,257017,Mimosaceae,,,,,,,,
+pollen,Moraceae,53874,Moraceae,family,53874,Moraceae,54921,Rosales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Myrtaceae,54713,Myrtaceae,family,54713,Myrtaceae,54926,Myrtales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Nymphaeaceae,54606,Nymphaeaceae,family,,,54894,Nymphaeales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Oleaceae,54728,Oleaceae,family,54728,Oleaceae,54939,Lamiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Onagraceae,55691,Onagraceae,family,55691,Onagraceae,54926,Myrtales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Ophioglossaceae,54779,Ophioglossaceae,family,54779,Ophioglossaceae,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
+pollen,Palmae,54575,Palmae,family,54575,Palmae,54950,Arecales,,,54885,Angiospermae,54311,Plantae
+pollen,Plumbaginaceae,55426,Plumbaginaceae,family,55426,Plumbaginaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Polygonaceae,55425,Polygonaceae,family,55425,Polygonaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Polypodiaceae,54782,Polypodiaceae,family,54782,Polypodiaceae,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
+pollen,Ranunculaceae,55402,Ranunculaceae,family,55402,Ranunculaceae,54893,Ranunculales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Rosaceae,54647,Rosaceae,family,,,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+pollen,Rubiaceae,55784,Rubiaceae,family,55784,Rubiaceae,54936,Gentianales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Sapotaceae,53924,Sapotaceae,family,53924,Sapotaceae,54919,Ericales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Saxifragaceae,54632,Saxifragaceae,family,54632,Saxifragaceae,182995,Saxifragales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Solanaceae,55747,Solanaceae,family,55747,Solanaceae,54938,Solanales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Taxodiaceae,54798,Taxodiaceae,family,54798,Taxodiaceae,82140,Pinales,82141,Pinopsida,82139,Pinophyta,54311,Plantae
+pollen,Thymelaeaceae,55607,Thymelaeaceae,family,,,54911,Malvales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+pollen,Typhaceae,55817,Typhaceae,family,55817,Typhaceae,182987,Poales,,,54885,Angiospermae,54311,Plantae
+pollen,Ulmaceae,54598,Ulmaceae,family,54598,Ulmaceae,54921,Rosales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Umbelliferae,55741,Umbelliferae,family,55741,Umbelliferae,54935,Apiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+pollen,Urticales,54912,Urticales,order,,,54912,Urticales,55233,Dicotyledoneae,54885,Angiospermae,54311,Plantae
+pollen,Urticaceae,55603,Urticaceae,family,,,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+radiolarians,Orosphaeridae,64242,Orosphaeridae,family,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
+radiolarians,Sponguridae,65957,Sponguridae,family,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
+radiolarians,"""Tripodiscinos clavipes""",,,,,,,,,,,,,
