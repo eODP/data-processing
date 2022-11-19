@@ -159,9 +159,9 @@ def taxon_name_parser(taxon_name):
     ranks = ["genus", "species", "subspecies"]
 
     if bool(re.search(r"\(.*?\)$", taxon_name)):
-        descriptor = re.search("\(.*?\)$", taxon_name).group(0)
-        name_parts["non-taxa descriptor"] = descriptor
-        taxon_name = taxon_name.split(descriptor)[0].strip()
+        match = re.search("\((.*?)\)$", taxon_name)
+        name_parts["non-taxa descriptor"] = match.groups()[0]
+        taxon_name = taxon_name.split(match.group())[0].strip()
 
     parts = taxon_name.split(" ")
 
@@ -175,10 +175,6 @@ def taxon_name_parser(taxon_name):
         else:
             name_parts[ranks[current_rank_index] + " name"] = parts[index]
             current_rank_index += 1
-
-    if bool(re.search(r"\(.*?\)$", taxon_name)):
-        descriptor = re.search(r"\(.*?\)$", taxon_name).group(0)
-        name_parts["non-taxa descriptor"] = descriptor
 
     return name_parts
 

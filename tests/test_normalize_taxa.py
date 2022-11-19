@@ -238,7 +238,7 @@ class TestTaxonNameParser:
         string = "genus (descriptor)"
         expected = {
             "genus name": "genus",
-            "non-taxa descriptor": "(descriptor)",
+            "non-taxa descriptor": "descriptor",
         }
         assert taxon_name_parser(string) == expected
 
@@ -247,7 +247,7 @@ class TestTaxonNameParser:
         expected = {
             "genus name": "genus",
             "species name": "species",
-            "non-taxa descriptor": "(descriptor)",
+            "non-taxa descriptor": "descriptor",
         }
         assert taxon_name_parser(string) == expected
 
@@ -257,7 +257,7 @@ class TestTaxonNameParser:
             "genus name": "genus",
             "species name": "species",
             "subspecies name": "subspecies",
-            "non-taxa descriptor": "(descriptor)",
+            "non-taxa descriptor": "descriptor",
         }
         assert taxon_name_parser(string) == expected
 
@@ -266,7 +266,7 @@ class TestTaxonNameParser:
         expected = {
             "genus modifier": "?",
             "genus name": "genus",
-            "non-taxa descriptor": "(descriptor)",
+            "non-taxa descriptor": "descriptor",
         }
         assert taxon_name_parser(string) == expected
 
@@ -277,7 +277,7 @@ class TestTaxonNameParser:
             "genus name": "genus",
             "species modifier": "cf.",
             "species name": "species",
-            "non-taxa descriptor": "(descriptor)",
+            "non-taxa descriptor": "descriptor",
         }
         assert taxon_name_parser(string) == expected
 
@@ -290,7 +290,7 @@ class TestTaxonNameParser:
             "species name": "species",
             "subspecies modifier": "f.",
             "subspecies name": "subspecies",
-            "non-taxa descriptor": "(descriptor)",
+            "non-taxa descriptor": "descriptor",
         }
         assert taxon_name_parser(string) == expected
 
