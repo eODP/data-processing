@@ -151,6 +151,9 @@ def create_higher_taxa_df(df):
 
 
 def fetch_pdbd_data(df, target_col):
+    if 'pbdb_taxon_id' not in df:
+        df['pbdb_taxon_id'] = pd.NA
+
     for index, row in df.iterrows():
         if row['check']:
             continue
@@ -182,6 +185,17 @@ def fetch_pdbd_data(df, target_col):
 
 
 def add_pbdb_data(df, pbdb_df, target_col):
+    allowed_cols = pbdb_cols + [
+        'genus_taxon_id',
+        'genus_taxon_name',
+        'unranked clade_taxon_id',
+        'unranked clade_taxon_name',
+        'subclass_taxon_id',
+        'subclass_taxon_name'
+    ]
+    if 'pbdb_taxon_id' not in df:
+        df['pbdb_taxon_id'] = pd.NA
+
     for index, row in df.iterrows():
         # skip if has pbdb_taxon_id
         if pd.notna(row['pbdb_taxon_id']):
@@ -198,8 +212,8 @@ def add_pbdb_data(df, pbdb_df, target_col):
         ]
 
         for index2, row2 in tmp.iterrows():
-            print(row2[target_col])
-            for col in pbdb_cols:
-                df.loc[index, col] = row2[col]
+            for col in allowed_cols:
+                if col in row2:
+                    df.loc[index, col] = row2[col]
 
 
