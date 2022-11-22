@@ -234,6 +234,18 @@ class TestTaxonNameParser:
         }
         assert taxon_name_parser(string) == expected
 
+    def test_parse_genus_species_long_subspecies_modifier(self):
+        string = "? genus cf. species f. subspecies more text"
+        expected = {
+            "genus modifier": "?",
+            "genus name": "genus",
+            "species modifier": "cf.",
+            "species name": "species",
+            "subspecies modifier": "f.",
+            "subspecies name": "subspecies more text",
+        }
+        assert taxon_name_parser(string) == expected
+
     def test_parse_genus_and_descriptor(self):
         string = "genus (descriptor)"
         expected = {
@@ -294,12 +306,25 @@ class TestTaxonNameParser:
         }
         assert taxon_name_parser(string) == expected
 
+    def test_parse_genus_species_long_subspecies_modifier_and_descriptor(self):
+        string = "? genus cf. species f. subspecies more text (descriptor)"
+        expected = {
+            "genus modifier": "?",
+            "genus name": "genus",
+            "species modifier": "cf.",
+            "species name": "species",
+            "subspecies modifier": "f.",
+            "subspecies name": "subspecies more text",
+            "non-taxa descriptor": "descriptor",
+        }
+        assert taxon_name_parser(string) == expected
+
     def test_parse_long_text(self):
         string = "text1 text2 text3 text4 text5"
         expected = {
             "genus name": "text1",
             "species name": "text2",
-            "subspecies name": "text3",
+            "subspecies name": "text3 text4 text5",
         }
         assert taxon_name_parser(string) == expected
 
@@ -309,6 +334,23 @@ class TestTaxonNameParser:
             "genus name": "text1",
             "species name": "(text2)",
             "subspecies name": "text3",
+        }
+        assert taxon_name_parser(string) == expected
+
+    def test_parse_starting_question_mark_no_space(self):
+        string = "?genus species"
+        expected = {
+            "genus modifier": "?",
+            "genus name": "genus",
+            "species name": "species",
+        }
+        assert taxon_name_parser(string) == expected
+
+    def test_multiple_parenthesis(self):
+        string = "genus (?) (descriptor)"
+        expected = {
+            "genus name": "genus",
+            "non-taxa descriptor": "(?) (descriptor)",
         }
         assert taxon_name_parser(string) == expected
 

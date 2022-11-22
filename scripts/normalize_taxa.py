@@ -158,9 +158,20 @@ def taxon_name_parser(taxon_name):
     modifiers = ["?", "aff.", "cf.", "f.", "morph", "s.s.", "s.l.", "var."]
     ranks = ["genus", "species", "subspecies"]
 
+    # handle cases when no space between ? and first letter
+    if bool(re.search(r"^\?[A-Za-z]", taxon_name)):
+        taxon_name = '?' + ' ' + taxon_name[1:]
+
+    # handle cases when name ends with (text text)
     if bool(re.search(r"\(.*?\)$", taxon_name)):
-        match = re.search("\((.*?)\)$", taxon_name)
-        name_parts["non-taxa descriptor"] = match.groups()[0]
+        # if there are multiple (, save descriptor with ()
+        if len(list(re.finditer('\(', taxon_name))) > 1:
+            match = re.search("\(.*?\)$", taxon_name)
+            name_parts["non-taxa descriptor"] = match.group()
+        # save descriptor without ()
+        else:
+            match = re.search("\((.*?)\)$", taxon_name)
+            name_parts["non-taxa descriptor"] = match.groups()[0]
         taxon_name = taxon_name.split(match.group())[0].strip()
 
     parts = taxon_name.split(" ")
@@ -172,6 +183,10 @@ def taxon_name_parser(taxon_name):
 
         if part in modifiers:
             name_parts[ranks[current_rank_index] + " modifier"] = parts[index]
+        # add all ending parts to subspecies
+        elif current_rank_index == 2:
+            name_parts[ranks[current_rank_index] + " name"] = ' '.join(parts[index:])
+            current_rank_index += 1
         else:
             name_parts[ranks[current_rank_index] + " name"] = parts[index]
             current_rank_index += 1
@@ -283,3 +298,97 @@ def create_taxa_list_df(df):
     print("drop duplicates df: ", filtered_taxa.shape)
 
     return filtered_taxa
+
+
+def create_noaa_1_taxa_crosswalk_df(metadata_df, base_dir):
+    taxa = set()
+    for index, row in metadata_df.iterrows():
+        if row['type'] == 'taxa':
+            df = pd.read_csv(base_dir / row['path'])
+            df.dropna(axis=0, inplace=True, how='all')
+            df.dropna(axis=1, inplace=True, how='all')
+
+            df['verbatim'] = df['fossil'].str.strip()
+            df['verbatim'] = df['verbatim'].fillna('')
+            df['name'] = ''
+
+            for index2, row2 in df.iterrows():
+                if '(q)' in row2['verbatim']:
+                    # set 'name' to 'verbatim name' without '(q)'
+                    df.at[index2, 'name'] = re.sub('(.*?) ?\(q\)', r'? \1', row2['verbatim'])
+
+            taxa.update(df['verbatim'] + '|' + df['name'] + '|' + row['taxon_group'])
+
+    return create_noaa_taxa_list_df(taxa)
+
+
+def create_noaa_2_taxa_crosswalk_df(metdata_df, base_dir):
+    common_fields = {
+        'Age From (oldest)',
+        'Age To (youngest)',
+        'Comment',
+        'Cor',
+        'Data',
+        'Depth (mbsf)',
+        'Fossil Group',
+        'Fossil Group                                 ',
+        'Group Abundance',
+        'Group Preservation',
+        'H',
+        'Leg',
+        'Sc',
+        'Scientist',
+        'Site',
+        'T',
+        'Top(cm)',
+        'Zone From (bottom)',
+        'Zone To  (top)'
+    }
+
+    taxa = set()
+    for index, row in metdata_df.iterrows():
+        df = pd.read_csv(base_dir / row['path'])
+        df.dropna(axis=1, inplace=True, how='all')
+        df.dropna(axis=0, inplace=True, how='all')
+
+        file_taxa = set(df.columns) - common_fields
+        for taxon in file_taxa:
+            if isinstance(taxon, str) and len(taxon.strip()) > 0:
+                taxa.add(taxon.strip() + '||' + row['taxon_group'])
+
+    return create_noaa_taxa_list_df(taxa)
+
+
+def create_noaa_taxa_list_df(taxa):
+    all_ranks = [
+        'genus modifier', 'genus name', 'species modifier', 'species name',
+        'subspecies modifier', 'subspecies name', 'non-taxa descriptor'
+    ]
+    taxa_list = []
+    for taxon in taxa:
+        if not pd.isna(taxon):
+            verbatim, name, taxon_group = taxon.split('|')
+
+            if name == '':
+                taxon_name_parts = taxon_name_parser(verbatim)
+            else:
+                taxon_name_parts = taxon_name_parser(name)
+
+            data = {
+                'taxon_group': taxon_group,
+                'verbatim_name': verbatim,
+                'name': name
+            }
+
+            for rank in all_ranks:
+                if rank in taxon_name_parts:
+                    data[rank] = taxon_name_parts[rank]
+                else:
+                    data[rank] = pd.NA
+
+            taxa_list.append(data)
+
+    df = pd.DataFrame(taxa_list).sort_values(['taxon_group', 'verbatim_name'])
+    df = df.reindex(columns=['taxon_group', 'verbatim_name', 'name'] + all_ranks)
+    df = df.drop_duplicates()
+    return df
