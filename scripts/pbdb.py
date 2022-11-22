@@ -152,11 +152,14 @@ def create_higher_taxa_df(df):
 
 def fetch_pdbd_data(df, target_col):
     for index, row in df.iterrows():
-        if index % 50 == 0:
-            print(index, end=' ')
+        if row['check']:
+            continue
 
         if pd.notna(row['pbdb_taxon_id']):
             continue
+
+        if index % 50 == 0:
+            print(index, end=' ')
 
         url = PBDB_TAXA_NAME + row[target_col]
 
@@ -172,7 +175,10 @@ def fetch_pdbd_data(df, target_col):
                 round = 0
                 get_parent_taxa(df, data[0]["parent_no"], data[0]["taxon_rank"], round, index, None)
         else:
-            print(row[target_col], ' not found')
+            pass
+            # print(row[target_col], ' not found')
+
+        df.at[index, 'check'] = True
 
 
 def add_pbdb_data(df, pbdb_df, target_col):
