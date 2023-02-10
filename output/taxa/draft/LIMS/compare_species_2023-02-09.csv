@@ -1,0 +1,7 @@
+pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,species_taxon_name,species_taxon_id,genus_taxon_name,genus_taxon_id,family_taxon_name,family_taxon_id,order_taxon_name,order_taxon_id,class_taxon_name,class_taxon_id,phylum_taxon_name,phylum_taxon_id,kingdom_taxon_name,kingdom_taxon_id,version
+455595,Fraxinus excelsior,species,Fraxinus excelsior,455595,Fraxinus,54727,Oleaceae,54728,Lamiales,54939,Magnoliopsida,55217,Spermatophyta,55350,Plantae,54311,old
+455595,Fraxinus excelsior,species,Fraxinus excelsior,455595,Fraxinus,54727,Oleaceae,54728,Lamiales,54939,Angiospermae,452804,Spermatophyta,55350,Plantae,54311,updated
+455864,Hedera helix,species,Hedera helix,455864,Hedera,237725,Vitaceae,54706,Vitales,183002,Magnoliopsida,55217,Spermatophyta,55350,Plantae,54311,old
+455864,Hedera helix,species,Hedera helix,455864,Hedera,237725,Araliaceae,55740,Apiales,54935,Angiospermae,452804,Spermatophyta,55350,Plantae,54311,updated
+255441,Pseudocythere caudata,species,Pseudocythere caudata,255441,Pseudocythere,24505,,,Podocopida,23837,Ostracoda,22826,Arthropoda,18891,Animalia,325038,old
+255441,Pseudocythere caudata,species,Pseudocythere caudata,255441,Pseudocythere,24505,Bythocytheridae,142870,Podocopida,23837,Ostracoda,22826,Arthropoda,18891,Animalia,325038,updated
