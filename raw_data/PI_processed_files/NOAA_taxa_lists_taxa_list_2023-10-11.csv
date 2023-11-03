@@ -294,37 +294,37 @@ benthic_forams,Cancris sagra,,,,,,,Cancris,,,,sagra,,,,,1051,Cancris,genus,,1051
 benthic_forams,Cancris subconicus,,,,,,,Cancris,,,,subconicus,,,,,1051,Cancris,genus,,1051,Cancris,genus,,241044,Bagginidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Candiena sp.,Candeina sp.,"misspelled genus, AF",think this is it? https://www.marinespecies.org/aphia.php?p=taxdetails&id=415153 AF(Summer21): Yes!,,,,Candeina,,,,sp.,,,,,,,,,1053,Candeina,genus,,422277,Candeinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Caribeanella sp.,,,,,,,Caribeanella,,,,sp.,,,,,1056,Caribeanella,genus,,1056,Caribeanella,genus,,,,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Carpenteria balaniformis,,,,,,,Carpenteria,,,,balaniformis,,,,,383509,Carpenteria,genus,,383509,Carpenteria,genus,1059,94466,Prospondylidea,,,16436,Pterioida,16005,Bivalvia,7805,Mollusca,325038,Animalia,,
-benthic_forams,Carpenteria sp.,,,,,,,Carpenteria,,,,sp.,,,,,383509,Carpenteria,genus,,383509,Carpenteria,genus,1059,94466,Prospondylidea,,,16436,Pterioida,16005,Bivalvia,7805,Mollusca,325038,Animalia,,
+benthic_forams,Carpenteria balaniformis,,,,,,,Carpenteria,,,,balaniformis,,,,,383509,Carpenteria,genus,,1059,Carpenteria,genus,1059,112185,Homotrematidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Carpenteria sp.,,,,,,,Carpenteria,,,,sp.,,,,,383509,Carpenteria,genus,,1059,Carpenteria,genus,1059,112185,Homotrematidae,,,,,,,288974,Foraminifera,87643,Chromista,,
 benthic_forams,Cassidella bradyi,,,,,,,Cassidella,,,,bradyi,,,,,1062,Cassidella,genus,,1062,Cassidella,genus,,,,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Cassidella tegulata,,,,,,,Cassidella,,,,tegulata,,,,,1062,Cassidella,genus,,1062,Cassidella,genus,,,,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina angulosa,,,,,,,Cassidulina,,,,angulosa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina bradyi,,,,,,,Cassidulina,,,,bradyi,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina braziliensis,,,,,,,Cassidulina,,,,braziliensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina caudriae,,,,,,,Cassidulina,,,,caudriae,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina depressa,,,,,,,Cassidulina,,,,depressa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina havanensis,,,,,,,Cassidulina,,,,havanensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina islandica,,,,,,,Cassidulina,,,,islandica,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina laevigata carinata,,,,,,,Cassidulina,,,,laevigata,,carinata,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina limbata,,,,,,,Cassidulina,,,,limbata,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina limbata (q),? Cassidulina limbata,,,,,?,Cassidulina,,,,limbata,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina lomitensis,,,,,,,Cassidulina,,,,lomitensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina moluccensis,,,,,,,Cassidulina,,,,moluccensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina murrhyna,,,,,,,Cassidulina,,,,murrhyna,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina norcrossi,,,,,,,Cassidulina,,,,norcrossi,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina oblonga,,,,,,,Cassidulina,,,,oblonga,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina oblonga (q),? Cassidulina oblonga,,,,,?,Cassidulina,,,,oblonga,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina obtusa,,,,,,,Cassidulina,,,,obtusa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina pacifica,,,,,,,Cassidulina,,,,pacifica,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina reflexa,,,,,,,Cassidulina,,,,reflexa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina reniforme,,,,,,,Cassidulina,,,,reniforme,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina spinifera,,,,,,,Cassidulina,,,,spinifera,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina subcarinita,,,,,,,Cassidulina,,,,subcarinita,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina subglobosa horizontalis,,,,,,,Cassidulina,,,,subglobosa,,horizontalis,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina subglobosa quadrata,,,,,,,Cassidulina,,,,subglobosa,,quadrata,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina tortuosa,,,,,,,Cassidulina,,,,tortuosa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina tricamerata,,,,,,,Cassidulina,,,,tricamerata,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Cassidulina yabei,,,,,,,Cassidulina,,,,yabei,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
+benthic_forams,Cassidulina angulosa,,,,,,,Cassidulina,,,,angulosa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina bradyi,,,,,,,Cassidulina,,,,bradyi,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina braziliensis,,,,,,,Cassidulina,,,,braziliensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina caudriae,,,,,,,Cassidulina,,,,caudriae,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina depressa,,,,,,,Cassidulina,,,,depressa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina havanensis,,,,,,,Cassidulina,,,,havanensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina islandica,,,,,,,Cassidulina,,,,islandica,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina laevigata carinata,,,,,,,Cassidulina,,,,laevigata,,carinata,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina limbata,,,,,,,Cassidulina,,,,limbata,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina limbata (q),? Cassidulina limbata,,,,,?,Cassidulina,,,,limbata,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina lomitensis,,,,,,,Cassidulina,,,,lomitensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina moluccensis,,,,,,,Cassidulina,,,,moluccensis,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina murrhyna,,,,,,,Cassidulina,,,,murrhyna,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina norcrossi,,,,,,,Cassidulina,,,,norcrossi,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina oblonga,,,,,,,Cassidulina,,,,oblonga,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina oblonga (q),? Cassidulina oblonga,,,,,?,Cassidulina,,,,oblonga,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina obtusa,,,,,,,Cassidulina,,,,obtusa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina pacifica,,,,,,,Cassidulina,,,,pacifica,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina reflexa,,,,,,,Cassidulina,,,,reflexa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina reniforme,,,,,,,Cassidulina,,,,reniforme,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina spinifera,,,,,,,Cassidulina,,,,spinifera,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina subcarinita,,,,,,,Cassidulina,,,,subcarinita,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina subglobosa horizontalis,,,,,,,Cassidulina,,,,subglobosa,,horizontalis,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina subglobosa quadrata,,,,,,,Cassidulina,,,,subglobosa,,quadrata,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina tortuosa,,,,,,,Cassidulina,,,,tortuosa,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina tricamerata,,,,,,,Cassidulina,,,,tricamerata,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Cassidulina yabei,,,,,,,Cassidulina,,,,yabei,,,,,168467,Cassidulina,suborder,genus; id 1064,1064,Cassidulina,genus,1064,103771,Cassidulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
 benthic_forams,Cassidulinella renulinoformis,,,,,,,Cassidulinella,,,,renulinoformis,,,,,1066,Cassidulinella,genus,,1066,Cassidulinella,genus,,,,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Cassidulinoides bradyi,,,,,,,Cassidulinoides,,,,bradyi,,,,,1067,Cassidulinoides,genus,,1067,Cassidulinoides,genus,,158932,Islandiellidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Cassidulinoides braziliensis,,,,,,,Cassidulinoides,,,,braziliensis,,,,,1067,Cassidulinoides,genus,,1067,Cassidulinoides,genus,,158932,Islandiellidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
@@ -437,15 +437,15 @@ benthic_forams,Cibicidoides verrucosus,,,,,,,Cibicidoides,,,,verrucosus,,,,,1109
 benthic_forams,Cibicidoides westi,,,,,,,Cibicidoides,,,,westi,,,,,1109,Cibicidoides,genus,,1109,Cibicidoides,genus,,82208,Cibicididae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Citharina rakauroana,,,,,,,Citharina,,,,rakauroana,,,,,1115,Citharina,genus,,1115,Citharina,genus,,82197,Nodosariidae,,,429322,Nodosariida,428875,Nodosariata,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Citharina sp.,,,,,,,Citharina,,,,sp.,,,,,1115,Citharina,genus,,1115,Citharina,genus,,82197,Nodosariidae,,,429322,Nodosariida,428875,Nodosariata,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina anglica,,,,,,,Clavulina,,,,anglica,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina arenata (q),? Clavulina arenata,,,,,?,Clavulina,,,,arenata,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina aspera,,,,,,,Clavulina,,,,aspera,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina aspera whitei,,,,,,,Clavulina,,,,aspera,,whitei,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina aspera whitei (q),? Clavulina aspera whitei,,,,,?,Clavulina,,,,aspera,,whitei,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina columnatortilis,,,,,,,Clavulina,,,,columnatortilis,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina midwayensis,,,,,,,Clavulina,,,,midwayensis,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina petrosa (q),? Clavulina petrosa,,,,,?,Clavulina,,,,petrosa,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Clavulina tricarinata (q),? Clavulina tricarinata,,,,,?,Clavulina,,,,tricarinata,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
+benthic_forams,Clavulina anglica,,,,,,,Clavulina,,,,anglica,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina arenata (q),? Clavulina arenata,,,,,?,Clavulina,,,,arenata,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina aspera,,,,,,,Clavulina,,,,aspera,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina aspera whitei,,,,,,,Clavulina,,,,aspera,,whitei,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina aspera whitei (q),? Clavulina aspera whitei,,,,,?,Clavulina,,,,aspera,,whitei,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina columnatortilis,,,,,,,Clavulina,,,,columnatortilis,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina midwayensis,,,,,,,Clavulina,,,,midwayensis,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina petrosa (q),? Clavulina petrosa,,,,,?,Clavulina,,,,petrosa,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Clavulina tricarinata (q),? Clavulina tricarinata,,,,,?,Clavulina,,,,tricarinata,,,,,70260,Clavulina,order,"genus, id 1124",1124,Clavulina,genus,,103762,Valvulinidae,,,,,,,288974,Foraminifera,87643,Chromista,,
 benthic_forams,Clinapertina inflata,,,,,,,Clinapertina,,,,inflata,,,,,1128,Clinapertina,genus,,1128,Clinapertina,genus,,82213,Alabaminidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Clinapertina sp.,,,,,,,Clinapertina,,,,sp.,,,,,1128,Clinapertina,genus,,1128,Clinapertina,genus,,82213,Alabaminidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Clinapertina sp. (q),? Clinapertina sp.,,,,,?,Clinapertina,,,,sp.,,,,,1128,Clinapertina,genus,,1128,Clinapertina,genus,,82213,Alabaminidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
@@ -1168,8 +1168,8 @@ benthic_forams,Paratrochamminoides irregularis (q),? Paratrochamminoides irregul
 benthic_forams,Paratrochamminoides sp.,,,,,,,Paratrochamminoides,,,,sp.,,,,,2081,Paratrochamminoides,genus,,2081,Paratrochamminoides,genus,,154152,Lituotubidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Paratrochamminoides sp. (q),? Paratrochamminoides sp.,,,,,?,Paratrochamminoides,,,,sp.,,,,,2081,Paratrochamminoides,genus,,2081,Paratrochamminoides,genus,,154152,Lituotubidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Parreloides bradyi,Parrelloides bradyi,,"in PBDB, so it will be classified correctly",,,,Parrelloides,,,,bradyi,,,,,,,,,,,,,,,,,,,,,,,,,,
-benthic_forams,Patellina corrugata,,,,,,,Patellina,,,,corrugata,,,,,153914,Patellina,suborder,genus taxon_no=2092,2092,Patellina,genus,2092,,,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Patellina corrugata (q),? Patellina corrugata,,,,,?,Patellina,,,,corrugata,,,,,153914,Patellina,suborder,genus taxon_no=2092,153914,Patellina,suborder,2092,,,,,,,8304,Gastropoda,7805,Mollusca,325038,Animalia,,
+benthic_forams,Patellina corrugata,,,,,,,Patellina,,,,corrugata,,,,,153914,Patellina,suborder,genus taxon_no=2092,2092,Patellina,genus,2092,,,,,,,,,288974,Foraminifera,87643,Chromista,,
+benthic_forams,Patellina corrugata (q),? Patellina corrugata,,,,,?,Patellina,,,,corrugata,,,,,153914,Patellina,suborder,genus taxon_no=2092,2092,Patellina,genus,2092,,,,,,,,,288974,Foraminifera,87643,Chromista,,
 benthic_forams,Pelosina complanata,,,,,,,Pelosina,,,,complanata,,,,,2106,Pelosina,genus,,2106,Pelosina,genus,,147614,Astrorhizidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Pelosina dubia,,,,,,,Pelosina,,,,dubia,,,,,2106,Pelosina,genus,,2106,Pelosina,genus,,147614,Astrorhizidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Pelosina sp.,,,,,,,Pelosina,,,,sp.,,,,,2106,Pelosina,genus,,2106,Pelosina,genus,,147614,Astrorhizidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
@@ -1410,7 +1410,7 @@ benthic_forams,Siphogenerina senni,,,,,,,Siphogenerina,,,,senni,,,,,2538,Siphoge
 benthic_forams,Siphogenerina tenua,,,,,,,Siphogenerina,,,,tenua,,,,,2538,Siphogenerina,genus,,2538,Siphogenerina,genus,,241017,Siphogenerinoididae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Siphogenerina transversa,,,,,,,Siphogenerina,,,,transversa,,,,,2538,Siphogenerina,genus,,2538,Siphogenerina,genus,,241017,Siphogenerinoididae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Siphogenerinoides sp.,,,,,,,Siphogenerinoides,,,,sp.,,,,,2539,Siphogenerinoides,genus,,2539,Siphogenerinoides,genus,,,,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-benthic_forams,Siphonaptera sp.,Siphonaperta sp.,misspelled genus; WoRMS (JAS),,,,,Siphonaperta,,,,sp.,,,,,137071,Siphonaperta,order,genus taxon_no=2542,2542,Siphonaperta,genus,,155936,Hauerinidae,,,256604,Miliolida,428719,Tubothalamea,288974,Foraminifera,212476,Rhizaria,,
+benthic_forams,Siphonaptera sp.,Siphonaperta sp.,misspelled genus; WoRMS (JAS),,,,,Siphonaperta,,,,sp.,,,,,137071,Siphonaperta,order,genus taxon_no=2542,2542,Siphonaperta,genus,,155936,Hauerinidae,,,256604,Miliolida,428719,Tubothalamea,288974,Foraminifera,87643,Chromista,,
 benthic_forams,Siphonina lamarckana,,,,,,,Siphonina,,,,lamarckana,,,,,2544,Siphonina,genus,,2544,Siphonina,genus,,157389,Siphoninidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Siphonina pulchra,,,,,,,Siphonina,,,,pulchra,,,,,2544,Siphonina,genus,,2544,Siphonina,genus,,157389,Siphoninidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Siphonina reticulata,,,,,,,Siphonina,,,,reticulata,,,,,2544,Siphonina,genus,,2544,Siphonina,genus,,157389,Siphoninidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
@@ -1639,7 +1639,7 @@ benthic_forams,Virgulopsis sp.,,,,,,,Virgulopsis,,,,sp.,,,,,2802,Virgulopsis,gen
 benthic_forams,Vulvulina carinata,,,,,,,Vulvulina,,,,carinata,,,,,2810,Vulvulina,genus,,2810,Vulvulina,genus,,82194,Textulariidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Vulvulina jarvisi,,,,,,,Vulvulina,,,,jarvisi,,,,,2810,Vulvulina,genus,,2810,Vulvulina,genus,,82194,Textulariidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
 benthic_forams,Vulvulina mexicana,,,,,,,Vulvulina,,,,mexicana,,,,,2810,Vulvulina,genus,,2810,Vulvulina,genus,,82194,Textulariidae,,,,,,,288974,Foraminifera,212476,Rhizaria,,
-diatoms,Abas wittii,,,"in PBDB, so it will be classified correctly homonym with a reptile",,,,Abas,,,,wittii,,,,,374615,Abas,genus,,374615,Abas,genus,441243,37855,Iguanidae,,,36379,Squamata,36322,Reptilia,,,,,,
+diatoms,Abas wittii,,,"in PBDB, so it will be classified correctly homonym with a reptile",,,,Abas,,,,wittii,,,,,374615,Abas,genus,,441243,Abas,genus,441243,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
 diatoms,Acanthodiscus antarcticus,,,,,,,Acanthodiscus,,,,antarcticus,,,,,71243,Acanthodiscus,genus,,71243,Acanthodiscus,genus,,,,,,69588,Centrales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Acanthodiscus convexus,,,,,,,Acanthodiscus,,,,convexus,,,,,71243,Acanthodiscus,genus,,71243,Acanthodiscus,genus,,,,,,69588,Centrales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Acanthodiscus ornatus,,,,,,,Acanthodiscus,,,,ornatus,,,,,71243,Acanthodiscus,genus,,71243,Acanthodiscus,genus,,,,,,69588,Centrales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
@@ -2194,7 +2194,7 @@ diatoms,Gyrosigma acuminatum,,,"in PBDB, so it will be classified correctly",,,,
 diatoms,Gyrosigma kutzingii,,,,,,,Gyrosigma,,,,kutzingii,,,,,,,,,441538,Gyrosigma,genus,,441539,Pleurosigmataceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Gyrosigma sp.,,,,,,,Gyrosigma,,,,sp.,,,,,,,,,441538,Gyrosigma,genus,,441539,Pleurosigmataceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Hantzschia virgata,,,"in PBDB, so it will be classified correctly",,,,Hantzschia,,,,virgata,,,,,,,,,441537,Hantzschia,genus,,432671,Bacillariaceae,,,427869,Bacillariales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
-diatoms,Helminthopsis wornardti,,,"in PBDB, so it will be classified correctly Note: homonym with an ichnofossil https://www.marinespecies.org/aphia.php?p=taxdetails&id=605103 ",,,,Helminthopsis,,,,wornardti,,,,,83895,Helminthopsis,genus,441540,83895,Helminthopsis,genus,441540,,,,,,,,,,,,,288984,Ichnofossils
+diatoms,Helminthopsis wornardti,,,"in PBDB, so it will be classified correctly Note: homonym with an ichnofossil https://www.marinespecies.org/aphia.php?p=taxdetails&id=605103 ",,,,Helminthopsis,,,,wornardti,,,,,83895,Helminthopsis,genus,441540,441540,Helminthopsis,genus,441540,,,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
 diatoms,Hemiaulus affinis,,,,,,,Hemiaulus,,,,affinis,,,,,71255,Hemiaulus,genus,,71255,Hemiaulus,genus,,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Hemiaulus altar,,,,,,,Hemiaulus,,,,altar,,,,,71255,Hemiaulus,genus,,71255,Hemiaulus,genus,,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Hemiaulus andrewsi,,,,,,,Hemiaulus,,,,andrewsi,,,,,71255,Hemiaulus,genus,,71255,Hemiaulus,genus,,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
@@ -2243,9 +2243,9 @@ diatoms,Hemiaulus subacutus,,,,,,,Hemiaulus,,,,subacutus,,,,,71255,Hemiaulus,gen
 diatoms,Hemiaulus subacutus (q),? Hemiaulus subacutus,,,,,?,Hemiaulus,,,,subacutus,,,,,71255,Hemiaulus,genus,,71255,Hemiaulus,genus,,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Hemiaulus taurus,,,,,,,Hemiaulus,,,,taurus,,,,,71255,Hemiaulus,genus,,71255,Hemiaulus,genus,,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Hemiaulus undulatus,,,,,,,Hemiaulus,,,,undulatus,,,,,71255,Hemiaulus,genus,,71255,Hemiaulus,genus,,387088,Hemiaulaceae,,,426784,Hemiaulales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
-diatoms,Hemidiscus ovalis,,,,,,,Hemidiscus,,,,ovalis,,,,,1606,Hemidiscus,genus,genus; ID 432650,432650,Hemidiscus,genus,,71207,Hemidiscaceae,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
-diatoms,Hemidiscus sp.,,,,,,,Hemidiscus,,,,sp.,,,,,1606,Hemidiscus,genus,genus; ID 432650,432650,Hemidiscus,genus,,71207,Hemidiscaceae,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
-diatoms,Hemidiscus weissflogi,,,,,,,Hemidiscus,,,,weissflogi,,,,,1606,Hemidiscus,genus,genus; ID 432650,432650,Hemidiscus,genus,,71207,Hemidiscaceae,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Hemidiscus ovalis,,,,,,,Hemidiscus,,,,ovalis,,,,,1606,Hemidiscus,genus,genus; ID 432650,432650,Hemidiscus,genus,,71207,Hemidiscaceae,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Hemidiscus sp.,,,,,,,Hemidiscus,,,,sp.,,,,,1606,Hemidiscus,genus,genus; ID 432650,432650,Hemidiscus,genus,,71207,Hemidiscaceae,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Hemidiscus weissflogi,,,,,,,Hemidiscus,,,,weissflogi,,,,,1606,Hemidiscus,genus,genus; ID 432650,432650,Hemidiscus,genus,,71207,Hemidiscaceae,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
 diatoms,Hendeya dehiscens,,,"in PBDB, so it will be classified correctly",,,,Hendeya,,,,dehiscens,,,,,,,,,441541,Hendeya,genus,,,,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Horodiscus rugosus,,,,,,,Horodiscus,,,,rugosus,,,,,71256,Horodiscus,genus,,71256,Horodiscus,genus,,,,,,69588,Centrales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Huttonia antiqua,,,,,,,Huttonia,,,,antiqua,,,,,71217,Huttonia,genus,,71217,Huttonia,genus,,,,,,69589,Pennales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
@@ -2337,28 +2337,28 @@ diatoms,Monobrachia simplex,,,"in PBDB, so it will be classified correctly",,,,M
 diatoms,Monobrachia unicornuta,,,,,,,Monobrachia,,,,unicornuta,,,,,,,,,441557,Monobrachia,genus,,,,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Muelleriella limbata,,,"in PBDB, so it will be classified correctly",,,,Muelleriella,,,,limbata,,,,,,,,,441936,Muelleriella,genus,,,,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Muelleriopsis limbata,,,"in PBDB, so it will be classified correctly",,,,Muelleriopsis,,,,limbata,,,,,,,,,441937,Muelleriopsis,genus,,,,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,,
-diatoms,Navicula americana,,,,,,,Navicula,,,,americana,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula bendaensis,,,,,,,Navicula,,,,bendaensis,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula comoides,,,,,,,Navicula,,,,comoides,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula constricta,,,,,,,Navicula,,,,constricta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula directa,,,,,,,Navicula,,,,directa,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula florinae,,,,,,,Navicula,,,,florinae,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula forcipata,,,,,,,Navicula,,,,forcipata,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula hasta,,,,,,,Navicula,,,,hasta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula humerosa,,,,,,,Navicula,,,,humerosa,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula impercepta,,,,,,,Navicula,,,,impercepta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula jamalinensis simisevultus,,,,,,,Navicula,,,,jamalinensis,,simisevultus,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula maleinterpretaria,,,,,,,Navicula,,,,maleinterpretaria,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula marina,,,,,,,Navicula,,,,marina,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula palpebralis,,,,,,,Navicula,,,,palpebralis,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula praetexta,,,,,,,Navicula,,,,praetexta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula pseudotuscula,,,,,,,Navicula,,,,pseudotuscula,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula radiosa,,,,,,,Navicula,,,,radiosa,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula scutelloides,,,,,,,Navicula,,,,scutelloides,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula sp.,,,,,,,Navicula,,,,sp.,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula sp.(q),? Navicula sp.,,,,,?,Navicula,,,,sp.,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula sudora,,,,,,,Navicula,,,,sudora,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
-diatoms,Navicula udintsevii,,,,,,,Navicula,,,,udintsevii,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,,,,,,,,,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula americana,,,,,,,Navicula,,,,americana,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula bendaensis,,,,,,,Navicula,,,,bendaensis,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula comoides,,,,,,,Navicula,,,,comoides,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula constricta,,,,,,,Navicula,,,,constricta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula directa,,,,,,,Navicula,,,,directa,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula florinae,,,,,,,Navicula,,,,florinae,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula forcipata,,,,,,,Navicula,,,,forcipata,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula hasta,,,,,,,Navicula,,,,hasta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula humerosa,,,,,,,Navicula,,,,humerosa,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula impercepta,,,,,,,Navicula,,,,impercepta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula jamalinensis simisevultus,,,,,,,Navicula,,,,jamalinensis,,simisevultus,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula maleinterpretaria,,,,,,,Navicula,,,,maleinterpretaria,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula marina,,,,,,,Navicula,,,,marina,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula palpebralis,,,,,,,Navicula,,,,palpebralis,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula praetexta,,,,,,,Navicula,,,,praetexta,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula pseudotuscula,,,,,,,Navicula,,,,pseudotuscula,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula radiosa,,,,,,,Navicula,,,,radiosa,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula scutelloides,,,,,,,Navicula,,,,scutelloides,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula sp.,,,,,,,Navicula,,,,sp.,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula sp.(q),? Navicula sp.,,,,,?,Navicula,,,,sp.,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula sudora,,,,,,,Navicula,,,,sudora,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Navicula udintsevii,,,,,,,Navicula,,,,udintsevii,,,,,61324,Navicula,genus,genus: ID 68421,68421,Navicula,genus,,71199,Naviculaceae,,,431889,Naviculales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
 diatoms,Neodenticula koisumii,,,,,,,Neodenticula,,,,koisumii,,,,,432811,Neodenticula,genus,,432811,Neodenticula,genus,,432671,Bacillariaceae,,,427869,Bacillariales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Nitzschia aequatorialis,,,,,,,Nitzschia,,,,aequatorialis,,,,,82165,Nitzschia,genus,,82165,Nitzschia,genus,,432671,Bacillariaceae,,,427869,Bacillariales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Nitzschia angulata,,,,,,,Nitzschia,,,,angulata,,,,,82165,Nitzschia,genus,,82165,Nitzschia,genus,,432671,Bacillariaceae,,,427869,Bacillariales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
@@ -2613,9 +2613,9 @@ diatoms,Riedelia sp.,,,,,,,Riedelia,,,,sp.,,,,,,,,,441968,Riedelia,genus,,387088
 diatoms,Rocella princeps,,,,,,,Rocella,,,,princeps,,,,,432670,Rocella,genus,,432670,Rocella,genus,,,,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Rocella schraderi,,,,,,,Rocella,,,,schraderi,,,,,432670,Rocella,genus,,432670,Rocella,genus,,,,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Rocella vigilans,,,,,,,Rocella,,,,vigilans,,,,,432670,Rocella,genus,,432670,Rocella,genus,,,,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
-diatoms,Roperia praetesselata,,,,,,,Roperia,,,,praetesselata,,,,,432651,Roperia,genus,genus; ID 432651,432651,Roperia,genus,,71207,Hemidiscaceae,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
-diatoms,Roperia tesselata crenulatus,,,,,,,Roperia,,,,tesselata,,crenulatus,,,432651,Roperia,genus,genus; ID 432651,432651,Roperia,genus,,71207,Hemidiscaceae,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
-diatoms,Roperia tesselata ovata,,,,,,,Roperia,,,,tesselata,,ovata,,,432651,Roperia,genus,genus; ID 432651,432651,Roperia,genus,,71207,Hemidiscaceae,,,426780,Coscinodiscales,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Roperia praetesselata,,,,,,,Roperia,,,,praetesselata,,,,,432651,Roperia,genus,genus; ID 432651,432651,Roperia,genus,,71207,Hemidiscaceae,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Roperia tesselata crenulatus,,,,,,,Roperia,,,,tesselata,,crenulatus,,,432651,Roperia,genus,genus; ID 432651,432651,Roperia,genus,,71207,Hemidiscaceae,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
+diatoms,Roperia tesselata ovata,,,,,,,Roperia,,,,tesselata,,ovata,,,432651,Roperia,genus,genus; ID 432651,432651,Roperia,genus,,71207,Hemidiscaceae,,,,,69587,Bacillariophyceae,432613,Ochrophyta,,,28595,Life
 diatoms,Rossiella paleacea,,,,,,,Rossiella,,,,paleacea,,,,,434083,Rossiella,genus,,434083,Rossiella,genus,,433229,Cymatosiraceae,,,426781,Cymatosirales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Rossiella sp.,,,,,,,Rossiella,,,,sp.,,,,,434083,Rossiella,genus,,434083,Rossiella,genus,,433229,Cymatosiraceae,,,426781,Cymatosirales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
 diatoms,Rossiella veniamini,,,,,,,Rossiella,,,,veniamini,,,,,434083,Rossiella,genus,,434083,Rossiella,genus,,433229,Cymatosiraceae,,,426781,Cymatosirales,69587,Bacillariophyceae,432613,Ochrophyta,,,,
@@ -3148,9 +3148,9 @@ dinoflagellates,Micrhystridium sp.,,,,,,,Micrhystridium,,,,sp.,,,,,170208,Micrhy
 dinoflagellates,Millioudodinium guiseppei,,,"in PBDB, so it will be classified correctly",,,,Millioudodinium,,,,guiseppei,,,,,,,,,445340,Millioudodinium,genus,,,,,,,,321578,Dinophyceae,,,,,,
 dinoflagellates,Millioudodinium guiseppei (q),? Millioudodinium guiseppei,,,,,?,Millioudodinium,,,,guiseppei,,,,,,,,,445340,Millioudodinium,genus,,,,,,,,321578,Dinophyceae,,,,,,
 dinoflagellates,Muderongia sp. (q),? Muderongia sp.,,,,,?,Muderongia,,,,sp.,,,,,277174,Muderongia,genus,,277174,Muderongia,genus,,276945,Ceratiaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
-dinoflagellates,Multispinula minuta,,homonym with a brachiopod!,"in PBDB, so it will be classified correctly",,,,Multispinula,,,,minuta,,,,,26514,Multispinula,genus,,26514,Multispinula,genus,445341,82433,Siphonotretidae,,,82434,Siphonotretida,26323,Lingulata,26322,Brachiopoda,325038,Animalia,,
-dinoflagellates,Multispinula quanta,,,,,,,Multispinula,,,,quanta,,,,,26514,Multispinula,genus,,26514,Multispinula,genus,445341,82433,Siphonotretidae,,,82434,Siphonotretida,26323,Lingulata,26322,Brachiopoda,325038,Animalia,,
-dinoflagellates,Multispinula sp.,,,,,,,Multispinula,,,,sp.,,,,,26514,Multispinula,genus,,26514,Multispinula,genus,445341,82433,Siphonotretidae,,,82434,Siphonotretida,26323,Lingulata,26322,Brachiopoda,325038,Animalia,,
+dinoflagellates,Multispinula minuta,,homonym with a brachiopod!,"in PBDB, so it will be classified correctly",,,,Multispinula,,,,minuta,,,,,26514,Multispinula,genus,,445341,Multispinula,genus,445341,,,,,277919,Peridiniales,321578,Dinophyceae,277918,Myzozoa,,,,
+dinoflagellates,Multispinula quanta,,,,,,,Multispinula,,,,quanta,,,,,26514,Multispinula,genus,,445341,Multispinula,genus,445341,,,,,277919,Peridiniales,321578,Dinophyceae,277918,Myzozoa,,,,
+dinoflagellates,Multispinula sp.,,,,,,,Multispinula,,,,sp.,,,,,26514,Multispinula,genus,,445341,Multispinula,genus,445341,,,,,277919,Peridiniales,321578,Dinophyceae,277918,Myzozoa,,,,
 dinoflagellates,Nematosphaeropsis aquaeducta,,,,,,,Nematosphaeropsis,,,,aquaeducta,,,,,264649,Nematosphaeropsis,genus,,264649,Nematosphaeropsis,genus,,321603,Gonyaulacaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
 dinoflagellates,Nematosphaeropsis aquaeducta (q),? Nematosphaeropsis aquaeducta,,,,,?,Nematosphaeropsis,,,,aquaeducta,,,,,264649,Nematosphaeropsis,genus,,264649,Nematosphaeropsis,genus,,321603,Gonyaulacaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
 dinoflagellates,Nematosphaeropsis balcombiana (q),? Nematosphaeropsis balcombiana,,,,,?,Nematosphaeropsis,,,,balcombiana,,,,,264649,Nematosphaeropsis,genus,,264649,Nematosphaeropsis,genus,,321603,Gonyaulacaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
@@ -3208,8 +3208,8 @@ dinoflagellates,Pyxidiella simplex,,,,,,,Pyxidiella,,,,simplex,,,,,336773,Pyxidi
 dinoflagellates,Pyxidiella sp.,,,,,,,Pyxidiella,,,,sp.,,,,,336773,Pyxidiella,genus,,336773,Pyxidiella,genus,,277915,Peridiniaceae,,,277919,Peridiniales,321578,Dinophyceae,,,,,,
 dinoflagellates,Pyxidinopsis sp.,,,,,,,Pyxidinopsis,,,,sp.,,,,,435009,Pyxidinopsis,genus,,435009,Pyxidinopsis,genus,,321603,Gonyaulacaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
 dinoflagellates,Rottnestia borussica,,,,,,,Rottnestia,,,,borussica,,,,,329430,Rottnestia,genus,,329430,Rottnestia,genus,,,,,,,,321578,Dinophyceae,,,,,,
-dinoflagellates,Samlandia chlamydophora,,,,,,,Samlandia,,,,chlamydophora,,,,,303675,Samlandia,genus,homonym with an isect; ID# is 414258,414258,Samlandia,genus,414258,,,,,,,321578,Dinophyceae,,,,,,
-dinoflagellates,Samlandia reticulifera,,,,,,,Samlandia,,,,reticulifera,,,,,303675,Samlandia,genus,,303675,Samlandia,genus,414258,442102,Miridae,,,94230,Hemiptera,56637,Insecta,,,,,,
+dinoflagellates,Samlandia chlamydophora,,,,,,,Samlandia,,,,chlamydophora,,,,,303675,Samlandia,genus,homonym with an isect; ID# is 414258,414258,Samlandia,genus,414258,,,,,,,321578,Dinophyceae,277918,Myzozoa,,,,
+dinoflagellates,Samlandia reticulifera,,,,,,,Samlandia,,,,reticulifera,,,,,303675,Samlandia,genus,,414258,Samlandia,genus,414258,,,,,,,321578,Dinophyceae,277918,Myzozoa,,,,
 dinoflagellates,Scriniodinium attadalense,,,,,,,Scriniodinium,,,,attadalense,,,,,277253,Scriniodinium,genus,,277253,Scriniodinium,genus,,321603,Gonyaulacaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
 dinoflagellates,Scriniodinium australiense,,,,,,,Scriniodinium,,,,australiense,,,,,277253,Scriniodinium,genus,,277253,Scriniodinium,genus,,321603,Gonyaulacaceae,,,321606,Gonyaulacales,321578,Dinophyceae,,,,,,
 dinoflagellates,Senegalinium (q),? Senegalinium sp.,,,,,?,Senegalinium,,,,sp.,,,,,322148,Senegalinium,genus,,322148,Senegalinium,genus,,277915,Peridiniaceae,,,277919,Peridiniales,321578,Dinophyceae,,,,,,
@@ -4089,7 +4089,7 @@ nannofossils,Scyphosphaera tubifera,,,,,,,Scyphosphaera,,,,tubifera,,,,,424338,S
 nannofossils,Scyphosphaera turris,,,,,,,Scyphosphaera,,,,turris,,,,,424338,Scyphosphaera,genus,,424338,Scyphosphaera,genus,,420114,Pontosphaeraceae,,,419259,Zygodiscales,418920,Coccolithophyceae,87644,Haptophyta,,,,
 nannofossils,Semihololithus biskayae,,,,,,,Semihololithus,,,,biskayae,,,,,87775,Semihololithus,genus,,87775,Semihololithus,genus,,87660,Calyptrosphaeraceae,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,,
 nannofossils,Semihololithus kerabyi,,,,,,,Semihololithus,,,,kerabyi,,,,,87775,Semihololithus,genus,,87775,Semihololithus,genus,,87660,Calyptrosphaeraceae,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,,
-nannofossils,Sphenaster metula,,,"homonym with heart urchin https://www.mikrotax.org/Nannotax3/index.php? in PBDB, so it will be classified correctlytaxon=Sphenaster&module=ntax_Farinacci&dpage=1",,,,Sphenaster,,,,metula,,,,,259666,Sphenaster,genus,homonym with heart urchin,259666,Sphenaster,genus,453602,168532,Aeropsidae,,,33337,Spatangoida,32733,Echinoidea,30739,Echinodermata,325038,Animalia,,
+nannofossils,Sphenaster metula,,,"homonym with heart urchin https://www.mikrotax.org/Nannotax3/index.php? in PBDB, so it will be classified correctlytaxon=Sphenaster&module=ntax_Farinacci&dpage=1",,,,Sphenaster,,,,metula,,,,,259666,Sphenaster,genus,homonym with heart urchin,453602,Sphenaster,genus,453602,,,,,,,,,87644,Haptophyta,,,28595,Life
 nannofossils,Sphenolithus capricornutas,,,,,,,Sphenolithus,,,,capricornutas,,,,,255390,Sphenolithus,genus,,255390,Sphenolithus,genus,,,,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,,
 nannofossils,Sphenolithus capricornutas (q),? Sphenolithus capricornutas,,,,,?,Sphenolithus,,,,capricornutas,,,,,255390,Sphenolithus,genus,,255390,Sphenolithus,genus,,,,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,,
 nannofossils,Sphenolithus moriformis plexus,,,,,,,Sphenolithus,,,,moriformis,,plexus,,,255390,Sphenolithus,genus,,255390,Sphenolithus,genus,,,,,,,,418920,Coccolithophyceae,87644,Haptophyta,,,,
@@ -5623,7 +5623,7 @@ pollen,Celtis sp.,,,,,,,Celtis,,,,sp.,,,,,53532,Celtis,genus,,53532,Celtis,genus
 pollen,Centaurea sp.,,,,,,,Centaurea,,,,sp.,,,,,434785,Centaurea,genus,,434785,Centaurea,genus,,183083,Asteraceae,,,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,,
 pollen,Cephalotaxus,Cephalotaxus sp.,,,,,,Cephalotaxus,,,,sp.,,,,,,,,,444516,Cephalotaxus,genus,,157257,Cephalotaxaceae,,,82140,Pinales,82141,Pinopsida,82139,Pinophyta,54311,Plantae,,
 pollen,Cephalotaxus (q),? Cephalotaxus sp.,,,,,?,Cephalotaxus,,,,sp.,,,,,,,,,444516,Cephalotaxus,genus,,157257,Cephalotaxaceae,,,82140,Pinales,82141,Pinopsida,82139,Pinophyta,54311,Plantae,,
-pollen,Ceratophyllum,Ceratophyllum sp.,,"in PBDB, so it will be classified correctly",,,,Ceratophyllum,,,,sp.,,,,,5268,Ceratophyllum,genus,,5268,Ceratophyllum,genus,444642,82678,Disphyllidae,,,86506,Stauriida,4742,Anthozoa,4524,Cnidaria,325038,Animalia,,
+pollen,Ceratophyllum,Ceratophyllum sp.,,"in PBDB, so it will be classified correctly",,,,Ceratophyllum,,,,sp.,,,,,5268,Ceratophyllum,genus,,444642,Ceratophyllum,genus,444642,55409,Ceratophyllaceae,,,54895,Ceratophyllales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,,
 pollen,Ceratosporites equalis,,,,,,,Ceratosporites,,,,equalis,,,,,276481,Ceratosporites,genus,,276481,Ceratosporites,genus,,54756,Selaginellaceae,,,,,54754,Lycopsida,54828,Pteridophyta,54311,Plantae,,
 pollen,Certonia sp.,Ceratonia sp.,,"in PBDB, so it will be classified correctly",,,,Ceratonia,,,,sp.,,,,,,,,,,,,,,,,,,,,,,,,,,
 pollen,Chenopodiaceae,Chenopodiaceae indet.,,,indet.,Chenopodiacea,,,,,,,,,,,55413,Chenopodiaceae,family,,55413,Chenopodiaceae,family,,55413,Chenopodiaceae,,,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,,
@@ -5671,7 +5671,7 @@ pollen,Deltoidospora sp.,,,,,,,Deltoidospora,,,,sp.,,,,,252475,Deltoidospora,gen
 pollen,Densosporites velatus,,,"in PBDB, so it will be classified correctly",,,,Densosporites,,,,velatus,,,,,,,,,,,,,,,,,,,,,,,,,,
 pollen,Dicksonia sp.,,,,,,,Dicksonia,,,,sp.,,,,,277341,Dicksonia,genus,,277341,Dicksonia,genus,,54765,Dicksoniaceae,,,196332,Cyatheales,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae,,
 pollen,Dicksonia squarrosa,,,,,,,Dicksonia,,,,squarrosa,,,,,277341,Dicksonia,genus,,277341,Dicksonia,genus,,54765,Dicksoniaceae,,,196332,Cyatheales,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae,,
-pollen,Dicliptera sp.,,,"in PBDB, so it will be classified correctly",,,,Dicliptera,,,,sp.,,,,,189810,Dicliptera,order,454352,189810,Dicliptera,order,454352,,,,,,,56637,Insecta,18891,Arthropoda,325038,Animalia,,
+pollen,Dicliptera sp.,,,"in PBDB, so it will be classified correctly",,,,Dicliptera,,,,sp.,,,,,189810,Dicliptera,order,454352,454352,Dicliptera,genus,454352,55770,Acanthaceae,,,54939,Lamiales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,,
 pollen,Dicolpopollis sp.,,,,,,,Dicolpopollis,,,,sp.,,,,,308624,Dicolpopollis,genus,,308624,Dicolpopollis,genus,,,,,,,,,,56182,Magnoliophyta,54311,Plantae,,
 pollen,Dictyophyllidites sp.,,,,,,,Dictyophyllidites,,,,sp.,,,,,252445,Dictyophyllidites,genus,,252445,Dictyophyllidites,genus,,53872,Matoniaceae,,,196408,Gleicheniales,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae,,
 pollen,Dipsaceae,Dipsacaceae indet.,misspelled,,indet.,Dipsacaceae,,,,,,,,,,,,,,,55787,Dipsacaceae,family,,55787,Dipsacaceae,,,54945,Dipsacales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,,
@@ -5691,7 +5691,7 @@ pollen,Euphorbia sp.,,,,,,,Euphorbia,,,,sp.,,,,,319873,Euphorbia,genus,,319873,E
 pollen,Euphorbiaceae,Euphorbiaceae indet.,,,indet.,Euphorbiaceae,,,,,,,,,,,53786,Euphorbiaceae,family,,53786,Euphorbiaceae,family,,53786,Euphorbiaceae,,,183005,Malpighiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,,
 pollen,Fagus sp.,,,,,,,Fagus,,,,sp.,,,,,55969,Fagus,genus,,55969,Fagus,genus,,52764,Fagaceae,,,54902,Fagales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,,
 pollen,Fenestrites spinosus,,,"in PBDB, so it will be classified correctly",,,,Fenestrites,,,,spinosus,,,,,,,,,,,,,,,,,,,,,,,,,,
-pollen,Ficus sp.,,,"in PBDB, so it will be classified correctly",,,,Ficus,,,,sp.,,,,,9857,Ficus,genus,53873,9857,Ficus,genus,53873,60359,Ficidae,,,,,8304,Gastropoda,7805,Mollusca,325038,Animalia,,
+pollen,Ficus sp.,,,"in PBDB, so it will be classified correctly",,,,Ficus,,,,sp.,,,,,9857,Ficus,genus,53873,53873,Ficus,genus,53873,53874,Moraceae,,,,,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,,
 pollen,Filicales sp.,,,,,,,Filicales,,,,sp.,,,,,55347,Filicales,order,,55347,Filicales,order,,,,,,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae,,
 pollen,Foraminisporis dailyi,,,,,,,Foraminisporis,,,,dailyi,,,,,276559,Foraminisporis,genus,,276559,Foraminisporis,genus,,,,,,,,,,55134,Bryophyta,54311,Plantae,,
 pollen,Foraminisporis sp.,,,,,,,Foraminisporis,,,,sp.,,,,,276559,Foraminisporis,genus,,276559,Foraminisporis,genus,,,,,,,,,,55134,Bryophyta,54311,Plantae,,
@@ -6142,8 +6142,8 @@ radiolarians,Botryostrobus tumidulus,,,,,,,Botryostrobus,,,,tumidulus,,,,,440,Bo
 radiolarians,Brachiospyris alata,,,,,,,Brachiospyris,,,,alata,,,,,441,Brachiospyris,genus,,441,Brachiospyris,genus,,85756,Triospyrididae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Brachiospyris simplex,,,,,,,Brachiospyris,,,,simplex,,,,,441,Brachiospyris,genus,,441,Brachiospyris,genus,,85756,Triospyrididae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Buryella sp.,,,,,,,Buryella,,,,sp.,,,,,443,Buryella,genus,,443,Buryella,genus,,87060,Eucyrtidiidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Cadium marinum,,,"in PBDB, so it will be classified correctly, by AM spring 2022 This is a homonym with a gastropod BAILEY, J. W. 1856 Notice of microscopic forms found in the soundings of the Sea of Kamtschatka. The American Journal of Science and Arts, ser. 2, vol. 22, n. 64, pp. 1-6, pl. 1",,,,Cadium,,,,marinum,,,,,117902,Cadium,genus,117902,117902,Cadium,genus,117902,62536,Tonnidae,,,,,8304,Gastropoda,7805,Mollusca,325038,Animalia,,
-radiolarians,Cadium melo,,,,,,,Cadium,,,,melo,,,,,117902,Cadium,genus,,117902,Cadium,genus,117902,62536,Tonnidae,,,,,8304,Gastropoda,7805,Mollusca,325038,Animalia,,
+radiolarians,Cadium marinum,,,"in PBDB, so it will be classified correctly, by AM spring 2022 This is a homonym with a gastropod BAILEY, J. W. 1856 Notice of microscopic forms found in the soundings of the Sea of Kamtschatka. The American Journal of Science and Arts, ser. 2, vol. 22, n. 64, pp. 1-6, pl. 1",,,,Cadium,,,,marinum,,,,,117902,Cadium,genus,117902,117902,Cadium,genus,117902,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Cadium melo,,,,,,,Cadium,,,,melo,,,,,117902,Cadium,genus,,117902,Cadium,genus,117902,,,,,,,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Caldoscenium advena,Cladoscenium advena,genus misspelled according to Lazarus et al. 2015 An evaluated list...,"misspelled according to Lazarus et al. 2015 An evaluated list... in PBDB, so it will be classified correctly, by AM spring 2022",,,,Cladoscenium,,,,advena,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Callimitra sp.,,,,,,,Callimitra,,,,sp.,,,,,445,Callimitra,genus,,445,Callimitra,genus,,66457,Sethoperidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Calocyclas asperum,,,,,,,Calocyclas,,,,asperum,,,,,446,Calocyclas,genus,,446,Calocyclas,genus,,87060,Eucyrtidiidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -6354,8 +6354,8 @@ radiolarians,Diacanthocapsa sp.,,,,,,,Diacanthocapsa,,,,sp.,,,,,493,Diacanthocap
 radiolarians,Diartus pettersoni,,,,,,,Diartus,,,,pettersoni,,,,,94,Diartus,genus,,94,Diartus,genus,,66750,Coccodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Dicolocapsa microcephala,,,,,,,Dicolocapsa,,,,microcephala,,,,,495,Dicolocapsa,genus,,495,Dicolocapsa,genus,,65989,Syringocapsidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Dictyocephalus papillosus,,,,,,,Dictyocephalus,,,,papillosus,,,,,496,Dictyocephalus,genus,,496,Dictyocephalus,genus,,66335,Eucyrtiidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Dictyoceras caia,,,"note it is a homonym with an ammonite https://www.mikrotax.org/system/index.php?taxon=Dictyoceras&module=rads_cat The ammonite entry appears to have had the Haeckel 1862 entry and initial description spliced into it, but the radiolarian homonym is in PBDB, so it will be classified correctly, by AM spring 2022",,,,Dictyoceras,,,,caia,,,,,12492,Dictyoceras,genus,455011,12492,Dictyoceras,genus,,,,,,12444,Orthocerida,12315,Cephalopoda,7805,Mollusca,325038,Animalia,,
-radiolarians,Dictyoceras virchowii,,,,,,,Dictyoceras,,,,virchowii,,,,,12492,Dictyoceras,genus,455011,12492,Dictyoceras,genus,,,,,,12444,Orthocerida,12315,Cephalopoda,7805,Mollusca,325038,Animalia,,
+radiolarians,Dictyoceras caia,,,"note it is a homonym with an ammonite https://www.mikrotax.org/system/index.php?taxon=Dictyoceras&module=rads_cat The ammonite entry appears to have had the Haeckel 1862 entry and initial description spliced into it, but the radiolarian homonym is in PBDB, so it will be classified correctly, by AM spring 2022",,,,Dictyoceras,,,,caia,,,,,12492,Dictyoceras,genus,455011,455011,Dictyoceras,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Dictyoceras virchowii,,,,,,,Dictyoceras,,,,virchowii,,,,,12492,Dictyoceras,genus,455011,455011,Dictyoceras,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Dictyocodon palladius,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Dictyocodon,,,,palladius,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Dictyocoryne ontongensis,,,,,,,Dictyocoryne,,,,ontongensis,,,,,99,Dictyocoryne,genus,,99,Dictyocoryne,genus,,65975,Spongodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Dictyocoryne sp.,,,,,,,Dictyocoryne,,,,sp.,,,,,99,Dictyocoryne,genus,,99,Dictyocoryne,genus,,65975,Spongodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -6476,7 +6476,7 @@ radiolarians,Haliomma erinaceum,,,,,,,Haliomma,,,,erinaceum,,,,,138,Haliomma,gen
 radiolarians,Haliomma glisifra,,,,,,,Haliomma,,,,glisifra,,,,,138,Haliomma,genus,,138,Haliomma,genus,,,,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Haliomma glisifra (q),? Haliomma glisifra,,,,,?,Haliomma,,,,glisifra,,,,,138,Haliomma,genus,,138,Haliomma,genus,,,,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Hataina ovata,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Hataina,,,,ovata,,,,,,,,,,,,,,,,,,,,,,,,,,
-radiolarians,Heliaster hexagonium,,,"in PBDB, so it will be classified correctly, by AM spring 2022 note this is a homonym with an echinoderm https://www.mikrotax.org/system/index.php?taxon=Heliaster&module=rads_cat",,,,Heliaster,,,,hexagonium,,,,,31415,Heliaster,genus,455012,31415,Heliaster,genus,,81186,Heliasteridae,,,,,31341,Asteroidea,30739,Echinodermata,325038,Animalia,,
+radiolarians,Heliaster hexagonium,,,"in PBDB, so it will be classified correctly, by AM spring 2022 note this is a homonym with an echinoderm https://www.mikrotax.org/system/index.php?taxon=Heliaster&module=rads_cat",,,,Heliaster,,,,hexagonium,,,,,31415,Heliaster,genus,455012,455012,Heliaster,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Heliodiscus echiniscus,,,,,,,Heliodiscus,,,,echiniscus,,,,,144,Heliodiscus,genus,,144,Heliodiscus,genus,,84708,Heliodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Heliodiscus echiniscus (q),? Heliodiscus echiniscus,,,,,?,Heliodiscus,,,,echiniscus,,,,,144,Heliodiscus,genus,,144,Heliodiscus,genus,,84708,Heliodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Heliodiscus hexasteriscus,,,,,,,Heliodiscus,,,,hexasteriscus,,,,,144,Heliodiscus,genus,,144,Heliodiscus,genus,,84708,Heliodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -6768,7 +6768,7 @@ radiolarians,Plagiacantha arachnoides,,,,,,,Plagiacantha,,,,arachnoides,,,,,8523
 radiolarians,Plagiacantha panarium,,,,,,,Plagiacantha,,,,panarium,,,,,85234,Plagiacantha,genus,,85234,Plagiacantha,genus,,66455,Plagiacanthidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Platybursa clathrobursa,,,,,,,Platybursa,,,,clathrobursa,,,,,607,Platybursa,genus,,607,Platybursa,genus,,85756,Triospyrididae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Plectacantha sp.,,,,,,,Plectacantha,,,,sp.,,,,,85744,Plectacantha,genus,,85744,Plectacantha,genus,,85714,Lophophaenidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Plectodiscus circularis,,,,,,,Plectodiscus,,,,circularis,,,,,4627,Plectodiscus,genus,,4627,Plectodiscus,genus,84824,,,,,4601,Hydroida,4596,Hydrozoa,4524,Cnidaria,325038,Animalia,,
+radiolarians,Plectodiscus circularis,,,,,,,Plectodiscus,,,,circularis,,,,,4627,Plectodiscus,genus,,84824,Circodiscus,genus,84824,84817,Larnacillidae,,,5,Spumellaria,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Plectopyramis dodecoma,,,,,,,Plectopyramis,,,,dodecoma,,,,,608,Plectopyramis,genus,,608,Plectopyramis,genus,,,,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Plegmosphaera monikae,,,,,,,Plegmosphaera,,,,monikae,,,,,248,Plegmosphaera,genus,,248,Plegmosphaera,genus,,,,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Podocoronis toxarium,,,,,,,Podocoronis,,,,toxarium,,,,,612,Podocoronis,genus,,612,Podocoronis,genus,,,,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -6782,20 +6782,20 @@ radiolarians,Podocyrtis helenae,,,,,,,Podocyrtis,,,,helenae,,,,,613,Podocyrtis,g
 radiolarians,Podocyrtis platypus,,,,,,,Podocyrtis,,,,platypus,,,,,613,Podocyrtis,genus,,613,Podocyrtis,genus,,86221,Pterocorythidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Podocyrtis sp.,,,,,,,Podocyrtis,,,,sp.,,,,,613,Podocyrtis,genus,,613,Podocyrtis,genus,,86221,Pterocorythidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Podocyrtis triacantha,,,,,,,Podocyrtis,,,,triacantha,,,,,613,Podocyrtis,genus,,613,Podocyrtis,genus,,86221,Pterocorythidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Polysolenia arktios,,,,,,,Polysolenia,,,,arktios,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia flammabunde,,,,,,,Polysolenia,,,,flammabunde,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia homospina,,,,,,,Polysolenia,,,,homospina,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia lappacea,,,,,,,Polysolenia,,,,lappacea,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia murrayana,,,,,,,Polysolenia,,,,murrayana,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia murrayana (q),? Polysolenia murrayana,,,,,?,Polysolenia,,,,murrayana,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia sp.,,,,,,,Polysolenia,,,,sp.,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia spinosa,,,,,,,Polysolenia,,,,spinosa,,,,,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
-radiolarians,Polysolenia spinosa group,,,,,,,Polysolenia,,,,spinosa,,,,Polysolenia spinosa group,184533,Polysolenia,genus,252,184533,Polysolenia,genus,252,,,,,,,,,,,,,,
+radiolarians,Polysolenia arktios,,,,,,,Polysolenia,,,,arktios,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia flammabunde,,,,,,,Polysolenia,,,,flammabunde,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia homospina,,,,,,,Polysolenia,,,,homospina,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia lappacea,,,,,,,Polysolenia,,,,lappacea,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia murrayana,,,,,,,Polysolenia,,,,murrayana,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia murrayana (q),? Polysolenia murrayana,,,,,?,Polysolenia,,,,murrayana,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia sp.,,,,,,,Polysolenia,,,,sp.,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia spinosa,,,,,,,Polysolenia,,,,spinosa,,,,,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Polysolenia spinosa group,,,,,,,Polysolenia,,,,spinosa,,,,Polysolenia spinosa group,184533,Polysolenia,genus,252,252,Polysolenia,genus,252,85052,Collosphaeridae,,,85051,Collodaria,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Porodiscus concentricus,,,,,,,Porodiscus,,,,concentricus,,,,,254,Porodiscus,genus,,254,Porodiscus,genus,,65975,Spongodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Porodiscus microporus,,,,,,,Porodiscus,,,,microporus,,,,,254,Porodiscus,genus,,254,Porodiscus,genus,,65975,Spongodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Porospathis holostoma,,,"In the linked publication, Porospathis is tied to Haeckel 1879, I can not find any reference to Porospathis in any Haeckel 1887 publications (AM spring 2022)",,,,Porospathis,,,,holostoma,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Porospathis holostoma (q),? Porospathis holostoma,,,,,?,Porospathis,,,,holostoma,,,,,,,,,,,,,,,,,,,,,,,,,,
-radiolarians,Protocystis harstoni,,,"in PBDB, so it will be classified correctly, by AM spring 2022, there was no reference for the echinoid in PBDB so I did not have any issues entering it note this is a homonym with an echinoid",,,,Protocystis,,,,harstoni,,,,,30991,Protocystis,genus,30991,30991,Protocystis,genus,,,,,,,,30938,Rhombifera,30739,Echinodermata,325038,Animalia,,
+radiolarians,Protocystis harstoni,,,"in PBDB, so it will be classified correctly, by AM spring 2022, there was no reference for the echinoid in PBDB so I did not have any issues entering it note this is a homonym with an echinoid",,,,Protocystis,,,,harstoni,,,,,30991,Protocystis,genus,30991,30991,Protocystis,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Prunobrachium aucklandensis (q),? Prunobrachium aucklandensis,,,,,?,Prunobrachium,,,,aucklandensis,,,,,166531,Prunobrachium,genus,,166531,Prunobrachium,genus,,65957,Sponguridae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Prunobrachium kennetti,,,,,,,Prunobrachium,,,,kennetti,,,,,166531,Prunobrachium,genus,,166531,Prunobrachium,genus,,65957,Sponguridae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Prunobrachium longum,,,,,,,Prunobrachium,,,,longum,,,,,166531,Prunobrachium,genus,,166531,Prunobrachium,genus,,65957,Sponguridae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -6855,8 +6855,8 @@ radiolarians,Rhopalastrum oraculibrachium,,,,,,,Rhopalastrum,,,,oraculibrachium,
 radiolarians,Rhopalastrum sp.,,,,,,,Rhopalastrum,,,,sp.,,,,,285,Rhopalastrum,genus,,285,Rhopalastrum,genus,,65975,Spongodiscidae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Rhopalosyringium sp.,,,,,,,Rhopalosyringium,,,,sp.,,,,,631,Rhopalosyringium,genus,,631,Rhopalosyringium,genus,,85922,Cannobotryidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Saccospyris preantarctica,,,,,,,Saccospyris,,,,preantarctica,,,,,86155,Saccospyris,genus,,86155,Saccospyris,genus,,85922,Cannobotryidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Schizodiscus codrant,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Schizodiscus,,,,codrant,,,,,267814,Schizodiscus,genus,455013,267814,Schizodiscus,genus,,111543,Kittlidiscidae,,,,,8304,Gastropoda,7805,Mollusca,325038,Animalia,,
-radiolarians,Schizodiscus disymmetricus,,,,,,,Schizodiscus,,,,disymmetricus,,,,,267814,Schizodiscus,genus,455013,267814,Schizodiscus,genus,,111543,Kittlidiscidae,,,,,8304,Gastropoda,7805,Mollusca,325038,Animalia,,
+radiolarians,Schizodiscus codrant,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Schizodiscus,,,,codrant,,,,,267814,Schizodiscus,genus,455013,455013,Schizodiscus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Schizodiscus disymmetricus,,,,,,,Schizodiscus,,,,disymmetricus,,,,,267814,Schizodiscus,genus,455013,455013,Schizodiscus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Sethamphora mongolfieri,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Sethamphora,,,,mongolfieri,,,,,159912,Sethamphora,genus,,159912,Sethamphora,genus,,,,,,,,,,,,,,,
 radiolarians,Sethocapsa lagena,,,,,,,Sethocapsa,,,,lagena,,,,,64402,Sethocapsa,genus,,64402,Sethocapsa,genus,,65983,Sethocapsidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Sethocapsa sp.,,,,,,,Sethocapsa,,,,sp.,,,,,64402,Sethocapsa,genus,,64402,Sethocapsa,genus,,65983,Sethocapsidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -6891,7 +6891,7 @@ radiolarians,Solenosphaera sp.,,,,,,,Solenosphaera,,,,sp.,,,,,299,Solenosphaera,
 radiolarians,Solenospheara omnitubus,Solenosphaera omnitubus,genus misspelled,,,,,Solenosphaera,,,,omnitubus,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Soreuma sp.,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Soreuma,,,,sp.,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Sphaerozoum crassus,,,,,,,Sphaerozoum,,,,crassus,,,,,304,Sphaerozoum,genus,,304,Sphaerozoum,genus,,85059,Sphaerozoidae,,,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Spirema circularis (q),? Spirema circularis,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,?,Spirema,,,,circularis,,,,,,,,454594,,,,454594,,,,,,,,,,,,,,
+radiolarians,Spirema circularis (q),? Spirema circularis,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,?,Spirema,,,,circularis,,,,,,,,454594,454594,Spirema,genus,454594,84792,Pyloniidae,,,5,Spumellaria,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Spirema sp.,,,,,,,Spirema,,,,sp.,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Spirocyrtis cornutella,,,,,,,Spirocyrtis,,,,cornutella,,,,,654,Spirocyrtis,genus,,654,Spirocyrtis,genus,,86201,Artostrobiidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Spirocyrtis cornutella (q),? Spirocyrtis cornutella,,,,,?,Spirocyrtis,,,,cornutella,,,,,654,Spirocyrtis,genus,,654,Spirocyrtis,genus,,86201,Artostrobiidae,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,,
@@ -7003,11 +7003,11 @@ radiolarians,Stylosphaera laevis (q),? Stylosphaera laevis,,,,,?,Stylosphaera,,,
 radiolarians,Stylosphaera santaneannae (q),? Stylosphaera santaneannae,,,,,?,Stylosphaera,,,,santaneannae,,,,,350,Stylosphaera,genus,,350,Stylosphaera,genus,,84514,Stylosphaeridae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Stylosphaera sulcata (q),? Stylosphaera sulcata,,,,,?,Stylosphaera,,,,sulcata,,,,,350,Stylosphaera,genus,,350,Stylosphaera,genus,,84514,Stylosphaeridae,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Stylotracta universa,Stylatractus universus,,"same taxon, according to https://www.mikrotax.org/radiolaria/index.php?id=205648",,,,Stylatractus,,,,universus,,,,,,,,,,,,,,,,,,,,,,,,,,
-radiolarians,Stylotrochus alveatus,,,,,,,Stylotrochus,,,,alveatus,,,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Stylotrochus charlestonensis,,,,,,,Stylotrochus,,,,charlestonensis,,,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Stylotrochus quadribrachiatus multibrachiatus,,,,,,,Stylotrochus,,,,quadribrachiatus,,multibrachiatus,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Stylotrochus quadribrachiatus quadribrachiatus,,,,,,,Stylotrochus,,,,quadribrachiatus,,quadribrachiatus,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,212476,Rhizaria,,
-radiolarians,Stylotrochus sp.,,,,,,,Stylotrochus,,,,sp.,,,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,212476,Rhizaria,,
+radiolarians,Stylotrochus alveatus,,,,,,,Stylotrochus,,,,alveatus,,,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Stylotrochus charlestonensis,,,,,,,Stylotrochus,,,,charlestonensis,,,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Stylotrochus quadribrachiatus multibrachiatus,,,,,,,Stylotrochus,,,,quadribrachiatus,,multibrachiatus,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Stylotrochus quadribrachiatus quadribrachiatus,,,,,,,Stylotrochus,,,,quadribrachiatus,,quadribrachiatus,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
+radiolarians,Stylotrochus sp.,,,,,,,Stylotrochus,,,,sp.,,,,,6906,Stylotrochus,genus,genus; ID 165526,165526,Stylotrochus,genus,,,,,,,,,,4,Radiolaria,87643,Chromista,,
 radiolarians,Stylucyclia sp. (q),? Stylocyclia sp.,genus misspelled; DBL,"in PBDB, so it will be classified correctly",,,?,Stylocyclia,,,,sp.,,,,,,,,,,,,,,,,,,,,,,,,,,
 radiolarians,Styptosphaera spongiacea,,,,,,,Styptosphaera,,,,spongiacea,,,,,353,Styptosphaera,genus,,353,Styptosphaera,genus,,,,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria,,
 radiolarians,Tepka perforata,,,"in PBDB, so it will be classified correctly, by AM spring 2022",,,,Tepka,,,,perforata,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7610,7 +7610,7 @@ silicoflagellates,Distephanus sulcatus,,,,,,,Distephanus,,,,sulcatus,,,,,82180,D
 silicoflagellates,Distephanus varians,,,,,,,Distephanus,,,,varians,,,,,82180,Distephanus,genus,,82180,Distephanus,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,,
 silicoflagellates,Distephanus xenus,,,,,,,Distephanus,,,,xenus,,,,,82180,Distephanus,genus,,82180,Distephanus,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,,
 silicoflagellates,Halicalyptra picassoi,,,,,,,Halicalyptra,,,,picassoi,,,,,528,Halicalyptra,genus,,528,Halicalyptra,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,,
-silicoflagellates,Hannaites quadria,,,"in PBDB, so it will be classified correctly",,,,Hannaites,,,,quadria,,,,,131820,Hannaites,genus,454776,131820,Hannaites,genus,,,,,,,,12315,Cephalopoda,7805,Mollusca,325038,Animalia,,
+silicoflagellates,Hannaites quadria,,,"in PBDB, so it will be classified correctly",,,,Hannaites,,,,quadria,,,,,131820,Hannaites,genus,454776,454776,Hannaites,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,28595,Life
 silicoflagellates,Lyramula deflandrei,,,,,,,Lyramula,,,,deflandrei,,,,,71285,Lyramula,genus,,71285,Lyramula,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,,
 silicoflagellates,Lyramula furcula,,,,,,,Lyramula,,,,furcula,,,,,71285,Lyramula,genus,,71285,Lyramula,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,,
 silicoflagellates,Lyramula furcula minor,,,,,,,Lyramula,,,,furcula,,minor,,,71285,Lyramula,genus,,71285,Lyramula,genus,,69592,Dictyochaceae,,,69591,Phytomastigophora,69590,Chrysophyceae,,,,,,
