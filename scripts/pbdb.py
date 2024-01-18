@@ -1,10 +1,38 @@
 import requests
 import numpy as np
 import pandas as pd
+import time
 
 PBDB_API = "https://paleobiodb.org/data1.2/"
 PBDB_TAXA_NAME = f"{PBDB_API}taxa/single.json?vocab=pbdb&name="
 PBDB_TAXA_ID = f"{PBDB_API}taxa/single.json?vocab=pbdb&id="
+PBDB_TAXA_LIST_NAME = f"{PBDB_API}taxa/list.json?show=class&rel=all_parents&name="
+PBDB_TAXA_LIST_ID = f"{PBDB_API}taxa/list.json?show=class&rel=all_parents&id="
+
+rank_ids = {
+    20: "phylum",
+    19: "subphylum",
+    18: "superclass",
+    17: "class",
+    13: "order",
+    5: "genus",
+    9: "family",
+    3: "species",
+    8: "subfamily",
+    25: "unranked clade",
+    23: "kingdom",
+    21: "phylum",
+    12: "suborder",
+    10: "superfamily",
+    16: "subclass",
+    15: "infraclass",
+    14: "superorder",
+    11: "infraorder",
+    22: "subkingdom",
+    4: "subgenus",
+    2: "subspecies",
+    7: "tribe",
+}
 
 
 def fill_taxon(df, index, data, taxon_rank):
@@ -38,7 +66,9 @@ def get_parent_taxa(df, parent_id, taxon_rank, round, index, data):
             return get_parent_taxa(df, parent_id, taxon_rank, round, index, data)
 
 
-def fix_pbdb_id(df, correction_text, correct_id, correct_col="Corrections to pbdb_taxon_id"):
+def fix_pbdb_id(
+    df, correction_text, correct_id, correct_col="Corrections to pbdb_taxon_id"
+):
     """look up pbdb data for taxon id. update dateframe with new pdbd"""
     print(correct_id)
     columns = [
@@ -60,32 +90,28 @@ def fix_pbdb_id(df, correction_text, correct_id, correct_col="Corrections to pbd
     ]
 
     col = correct_col
-    url_parent = PBDB_TAXA_ID + str(correct_id)
+    url_parent = PBDB_TAXA_LIST_ID + str(correct_id)
     response = requests.get(url_parent)
     if response.status_code == 200:
         data = response.json()["records"]
-        if len(data) == 1:
+
+        if len(data) > 0:
+            last_record = data[len(data) - 1]
+
             for taxa_col in columns:
                 df.loc[df[col] == correction_text, taxa_col] = np.nan
 
-            df.loc[df[col] == correction_text, "pbdb_taxon_name"] = data[0][
-                "taxon_name"
-            ]
-            df.loc[df[col] == correction_text, "pbdb_taxon_rank"] = data[0][
-                "taxon_rank"
+            df.loc[df[col] == correction_text, "pbdb_taxon_name"] = last_record["nam"]
+            df.loc[df[col] == correction_text, "pbdb_taxon_rank"] = rank_ids[
+                last_record["rnk"]
             ]
             df.loc[df[col] == correction_text, "pbdb_taxon_id"] = correct_id
 
             for index, row in df[df[col] == correction_text].iterrows():
-                round = 0
-                get_parent_taxa(
-                    df, data[0]["parent_no"], data[0]["taxon_rank"], round, index, None
-                )
+                process_taxa_hierarchy(df, data, index)
 
-        else:
-            raise ValueError("multipe ID found")
     else:
-        raise ValueError("ID not found")
+        raise ValueError(f"{correct_id} ID not found")
 
     df.loc[df[col] == correction_text, "corrected"] = True
 
@@ -113,23 +139,30 @@ def check_multiple_pbdb_id(df):
 
 
 pbdb_cols = [
-    'pbdb_taxon_id', 'pbdb_taxon_name', 'pbdb_taxon_rank',
-    'family_taxon_id', 'family_taxon_name',
-    'order_taxon_id', 'order_taxon_name',
-    'class_taxon_id', 'class_taxon_name',
-    'phylum_taxon_id', 'phylum_taxon_name',
-    'kingdom_taxon_id', 'kingdom_taxon_name'
+    "pbdb_taxon_id",
+    "pbdb_taxon_name",
+    "pbdb_taxon_rank",
+    "family_taxon_id",
+    "family_taxon_name",
+    "order_taxon_id",
+    "order_taxon_name",
+    "class_taxon_id",
+    "class_taxon_name",
+    "phylum_taxon_id",
+    "phylum_taxon_name",
+    "kingdom_taxon_id",
+    "kingdom_taxon_name",
 ]
 
 
 def create_genus_df(df):
-    df['genus name'] = df['genus name'].str.strip()
+    df["genus name"] = df["genus name"].str.strip()
     cols = [
-        'taxon_group',
-        'genus name',
+        "taxon_group",
+        "genus name",
     ] + pbdb_cols
 
-    genus_df = df[df['genus name'].notna()].copy()
+    genus_df = df[df["genus name"].notna()].copy()
     genus_df = genus_df[cols]
     genus_df.drop_duplicates(inplace=True)
 
@@ -137,68 +170,92 @@ def create_genus_df(df):
 
 
 def create_higher_taxa_df(df):
-    df['Any taxon above genus'] = df['Any taxon above genus'].str.strip()
+    df["Any taxon above genus"] = df["Any taxon above genus"].str.strip()
     cols = [
-        'taxon_group',
-        'Any taxon above genus',
+        "taxon_group",
+        "Any taxon above genus",
     ] + pbdb_cols
 
-    higher_df = df[df['Any taxon above genus'].notna() & df['genus name'].isna()].copy()
+    higher_df = df[df["Any taxon above genus"].notna() & df["genus name"].isna()].copy()
     higher_df = higher_df[cols]
     higher_df.drop_duplicates(inplace=True)
 
     return higher_df
 
 
-def fetch_pdbd_data(df, target_col):
-    if 'pbdb_taxon_id' not in df:
-        df['pbdb_taxon_id'] = pd.NA
+def fetch_pdbd_data(df, target_col, search_type="name"):
+    if "pbdb_taxon_id" not in df:
+        df["pbdb_taxon_id"] = pd.NA
 
     for index, row in df.iterrows():
-        if row['check']:
+        if row["check"] == "True" or row["check"] == True:
             continue
 
-        if pd.notna(row['pbdb_taxon_id']):
+        if pd.notna(row["pbdb_taxon_id"]):
             continue
+
+        if index % 5 == 0:
+            time.sleep(0.5)
 
         if index % 50 == 0:
-            print(index, end=' ')
+            print(index, end=" ")
 
-        url = PBDB_TAXA_NAME + row[target_col]
+        # if index > 50:
+        #     break
 
+        if search_type == "name":
+            url = PBDB_TAXA_LIST_NAME + row[target_col]
+        else:
+            url = PBDB_TAXA_LIST_ID + row[target_col]
+        # print(url)
         response = requests.get(url)
 
         if response.status_code == 200:
             data = response.json()["records"]
-            if len(data) == 1:
-                df.at[index, 'pbdb_taxon_id'] = str(data[0]["taxon_no"])
-                df.at[index, 'pbdb_taxon_name'] = data[0]["taxon_name"]
-                df.at[index, 'pbdb_taxon_rank'] = data[0]["taxon_rank"]
+            if len(data) > 0:
+                last_record = data[len(data) - 1]
+                df.at[index, "pbdb_taxon_id"] = last_record["oid"].replace("txn:", "")
+                df.at[index, "pbdb_taxon_name"] = last_record["nam"]
+                df.at[index, "pbdb_taxon_rank"] = rank_ids[last_record["rnk"]]
 
-                round = 0
-                get_parent_taxa(df, data[0]["parent_no"], data[0]["taxon_rank"], round, index, None)
+                process_taxa_hierarchy(df, data, index)
         else:
-            pass
-            # print(row[target_col], ' not found')
+            print(row[target_col], " not found")
 
-        df.at[index, 'check'] = True
+        df.at[index, "check"] = True
+
+
+def process_taxa_hierarchy(df, data, index):
+    for record in data:
+        taxon_rank = rank_ids[record["rnk"]]
+        if taxon_rank in [
+            "species",
+            "genus",
+            "family",
+            "order",
+            "class",
+            "phylum",
+            "kingdom",
+        ]:
+            df.at[index, f"{taxon_rank}_taxon_id"] = record["oid"].replace("txn:", "")
+            df.at[index, f"{taxon_rank}_taxon_name"] = record["nam"]
 
 
 def add_pbdb_data(df, pbdb_df, target_col):
     allowed_cols = pbdb_cols + [
-        'genus_taxon_id',
-        'genus_taxon_name',
-        'unranked clade_taxon_id',
-        'unranked clade_taxon_name',
-        'subclass_taxon_id',
-        'subclass_taxon_name'
+        "genus_taxon_id",
+        "genus_taxon_name",
+        "unranked clade_taxon_id",
+        "unranked clade_taxon_name",
+        "subclass_taxon_id",
+        "subclass_taxon_name",
     ]
-    if 'pbdb_taxon_id' not in df:
-        df['pbdb_taxon_id'] = pd.NA
+    if "pbdb_taxon_id" not in df:
+        df["pbdb_taxon_id"] = pd.NA
 
     for index, row in df.iterrows():
         # skip if has pbdb_taxon_id
-        if pd.notna(row['pbdb_taxon_id']):
+        if pd.notna(row["pbdb_taxon_id"]):
             continue
 
         # skip if no genus name
@@ -206,9 +263,10 @@ def add_pbdb_data(df, pbdb_df, target_col):
             continue
 
         # find records in genus_df that matches row genus name
-        tmp = pbdb_df[(pbdb_df[target_col] == row[target_col]) &
-                       (pbdb_df['taxon_group'] == row['taxon_group']) &
-                       (pbdb_df['pbdb_taxon_id'].notna())
+        tmp = pbdb_df[
+            (pbdb_df[target_col] == row[target_col])
+            & (pbdb_df["taxon_group"] == row["taxon_group"])
+            & (pbdb_df["pbdb_taxon_id"].notna())
         ]
 
         for index2, row2 in tmp.iterrows():
