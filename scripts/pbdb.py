@@ -275,3 +275,29 @@ def add_pbdb_data(df, pbdb_df, target_col):
                     df.loc[index, col] = row2[col]
 
 
+def add_genus_species(taxa_df, genus_only=False):
+    taxa_df.loc[
+        ~taxa_df["species name"]
+        .str.contains("spp\.|sp\..*?", regex=True)
+        .fillna(False),
+        "genus species",
+    ] = (
+        taxa_df["genus name"] + " " + taxa_df["species name"]
+    )
+    taxa_df.loc[taxa_df["Any taxon above genus"].notna(), "genus species"] = pd.NA
+    taxa_df.loc[
+        taxa_df["Any taxon above genus modifier"].notna(), "genus species"
+    ] = pd.NA
+
+    if genus_only:
+        taxa_df.loc[
+            taxa_df["species name"]
+            .str.contains("spp\.|sp\..*?", regex=True)
+            .fillna(False),
+            "genus species",
+        ] = taxa_df["genus name"]
+        taxa_df.loc[taxa_df["species name"].isna(), "genus species"] = taxa_df[
+            "genus name"
+        ]
+
+    taxa_df["genus species"] = taxa_df["genus species"].str.strip()

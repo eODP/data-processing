@@ -1,0 +1,163 @@
+taxon_group,Any taxon above genus,pbdb_taxon_id,pbdb_taxon_name,pbdb_taxon_rank,family_taxon_id,family_taxon_name,order_taxon_id,order_taxon_name,class_taxon_id,class_taxon_name,phylum_taxon_id,phylum_taxon_name,kingdom_taxon_id,kingdom_taxon_name,check
+dinoflagellates,Acritarcha indet.,,,,,,,,,,,,,,True
+dinoflagellates,"""Cyst type 1""",,,,,,,,,,,,,,True
+dinoflagellates,"""Cyst type A""",,,,,,,,,,,,,,True
+dinoflagellates,Dinoflagellata indet.,52776,Genasauria,unranked clade,,,,,36322,Reptilia,,,,,False
+dinoflagellates,"""Incertae sedis forma A""",,,,,,,,,,,,,,True
+dinoflagellates,"""Incertae sedis sp. 1""",,,,,,,,,,,,,,True
+dinoflagellates,Prasinophyta indet.,,,,,,,,,,,,,,True
+dinoflagellates,"""Spiny forms""",,,,,,,,,,,,,,True
+palynology,Angiospermae indet.,,,,,,,,,,,,,,True
+palynology,Asteraceae indet.,183083,Asteraceae,family,183083,Asteraceae,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,False
+palynology,Acritarcha indet.,,,,,,,,,,,,,,True
+palynology,"""Bisaccate pollen""",,,,,,,,,,,,,,True
+palynology,Capparidaceae indet.,55649,Capparidaceae,family,55649,Capparidaceae,452812,Papaverales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,"""Carboniferous spores taxa""",,,,,,,,,,,,,,True
+palynology,Carduoideae indet.,,,,,,,,,,,,,,True
+palynology,Caryophyllaceae indet.,53554,Caryophyllaceae,family,53554,Caryophyllaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,False
+palynology,Casuarinaceae indet.,55442,Casuarinaceae,family,55442,Casuarinaceae,54902,Fagales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,Chenopodiaceae indet.,55413,Chenopodiaceae,family,55413,Chenopodiaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,False
+palynology,Caryophyllales indet.,,,,,,,,,,,,,,True
+palynology,Cichorioideae indet.,,,,,,,,,,,,,,True
+palynology,Compositae indet.,54741,Compositae,family,54741,Compositae,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,False
+palynology,"""crumpled pollen taxa""",,,,,,,,,,,,,,True
+palynology,Cupressaceae indet.,54792,Cupressaceae,family,54792,Cupressaceae,55868,Coniferales,,,56176,Coniferophyta,54311,Plantae,False
+palynology,Cyperaceae indet.,53543,Cyperaceae,family,53543,Cyperaceae,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,Ericaceae indet.,55506,Ericaceae,family,55506,Ericaceae,54919,Ericales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,"""Freshwater Algae (undifferentiated)""",,,,,,,,,,,,,,True
+palynology,"""Fungus (scutate fruit-bodies)""",,,,,,,,,,,,,,True
+palynology,Gramineae indet.,55515,Gramineae,family,55515,Gramineae,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,"""Gymnosperm pollen spp.""",,,,,,,,,,,,,,True
+palynology,Gyrostemonaceae indet.,55654,Gyrostemonaceae,family,55654,Gyrostemonaceae,183034,Brassicales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae,False
+palynology,Lycopodiaceae indet.,54755,Lycopodiaceae,family,54755,Lycopodiaceae,55157,Lycopodiales,,,54828,Pteridophyta,54311,Plantae,False
+palynology,"""Megaspore (unspecified taxon or taxa)""",,,,,,,,,,,,,,True
+palynology,"""Monolete spores taxa""",436099,Monolete,genus,,,,,,,54828,Pteridophyta,54311,Plantae,False
+palynology,Myrtaceae indet.,54713,Myrtaceae,family,54713,Myrtaceae,54926,Myrtales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,Betulaceae indet.,,,,,,,,,,,,,,True
+palynology,Poaceae indet.,53546,Poaceae,family,53546,Poaceae,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,Polypodiaceae indet.,54782,Polypodiaceae,family,54782,Polypodiaceae,196333,Polypodiales,196331,Polypodiopsida,54828,Pteridophyta,54311,Plantae,False
+palynology,Ranunculaceae indet.,55402,Ranunculaceae,family,55402,Ranunculaceae,55355,Ranales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,Restionaceae indet.,55812,Restionaceae,family,55812,Restionaceae,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,Rosaceae indet.,54647,Rosaceae,family,54647,Rosaceae,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae,False
+palynology,"""Saccate pollen""",,,,,,,,,,,,,,True
+palynology,Taxodiaceae indet.,54798,Taxodiaceae,family,54798,Taxodiaceae,82140,Pinales,82141,Pinopsida,55350,Spermatophyta,54311,Plantae,False
+dinoflagellates,Actiniscaceae indet.,,,,,,,,,,,,,,True
+Ebridians,Ebriales indet.,,,,,,,,,,,,,,True
+other,"""Ichthyolith""",,,,,,,,,,,,,,True
+benthic_forams,? Orbitolinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Acervulinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Amphisteginidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Anomalinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,"""Aschemocella/Dendrophrya latissima (fragments)""",,,,,,,,,,,,,,True
+benthic_forams,"""Benthics smaller subphotic""",,,,,,,,,,,,,,True
+benthic_forams,Bolivinitidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Bolivinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,"""Buliminid and Bolivinid taxa""",,,,,,,,,,,,,,True
+benthic_forams,Buliminidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Calcarinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Cassidulinidae indet.,103771,Cassidulinidae,family,103771,Cassidulinidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Caucasinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Cibicididae indet.,,,,,,,,,,,,,,True
+benthic_forams,Cymbaloporidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Nodosariidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Discorboidea indet.,,,,,,,,,,,,,,True
+benthic_forams,Earlandiidae indet.,1313,Earlandia,genus,112305,Earlandiidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Elphidiidae indet.,1342,Elphidium,genus,82206,Elphidiidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Epistomariidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Eponididae indet.,,,,,,,,,,,,,,True
+benthic_forams,Textulariidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Foraminifera indet.,,,,,,,,,,,,,,True
+benthic_forams,Glandulinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Echinodermata indet.,,,,,,,,,,,,,,True
+benthic_forams,Mollusca indet.,,,,,,,,,,,,,,True
+benthic_forams,Ostracoda indet.,,,,,,,,,,,,,,True
+benthic_forams,Polymorphinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Radiolaria indet.,,,,,,,,,,,,,,True
+benthic_forams,Miliolidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Nezzazatidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Nonionidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Nubeculariidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Nummulitidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Plectorecurvoididae indet.,,,,,,,,,,,,,,True
+benthic_forams,Rhizamminidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Siphoninidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Soritidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Spirillinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Textulariidae indet.,2661,Textularia,genus,82194,Textulariidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Turrilinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Uvigerinidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Valvulinidae indet.,103762,Valvulinidae,family,103762,Valvulinidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Verneuilinidae indet.,112277,Verneuilinidae,family,112277,Verneuilinidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Victoriellidae indet.,279366,Victoriellidae,family,279366,Victoriellidae,,,,,288974,Foraminifera,212476,Rhizaria,False
+benthic_forams,Lagenidae indet.,,,,,,,,,,,,,,True
+benthic_forams,Miliolida indet.,,,,,,,,,,,,,,True
+benthic_forams,Textulariia indet.,,,,,,,,,,,,,,True
+benthic_forams,Pleurostomellidae indet.,,,,,,,,,,,,,,True
+diatoms,Asterolampraceae indet.,,,,,,,,,,,,,,True
+diatoms,"""Azpeitia aff. Thalassiosira bukryi; Thalassiosira""",,,,,,,,,,,,,,True
+diatoms,"""Benthic diatoms""",,,,,,,,,,,,,,True
+diatoms,"""Bogorovia veniamini / Rossiella symmetrica""",,,,,,,,,,,,,,True
+diatoms,Bacillariaceae indet.,,,,,,,,,,,,,,True
+diatoms,"""Freshwater diatoms""",,,,,,,,,,,,,,True
+diatoms,"""Liostephania/Asterolampra spp.""",,,,,,,,,,,,,,True
+diatoms,"""Phytolith""",,,,,,,,,,,,,,True
+diatoms,"""Pteriptera spp.""",,,,,,,,,,,,,,True
+diatoms,"""Resting spores (excluding Chaetoceros)""",,,,,,,,,,,,,,True
+diatoms,"""Silicoflagellate tests""",,,,,,,,,,,,,,True
+diatoms,"""Spores other resting""",,,,,,,,,,,,,,True
+diatoms,"""benthic marine diatoms spp.""",,,,,,,,,,,,,,True
+diatoms,"""non-planktonic diatoms""",,,,,,,,,,,,,,True
+diatoms,"""other Freshwater (Achnanthes; Fragilaria, etc.)""",,,,,,,,,,,,,,True
+other,Bryozoa indet.,24773,Bryozoa,phylum,,,,,,,24773,Bryozoa,325038,Animalia,False
+other,Hydrozoa indet.,,,,,,,,,,,,,,True
+other,Inozoa indet.,,,,,,,,,,,,,,True
+other,Sphinctozoa indet.,,,,,,,,,,,,,,True
+other,"""Tabulozoans/Bryozoans""",,,,,,,,,,,,,,True
+other,Thamnasteriidae indet.,,,,,,,,,,,,,,True
+other,"""Otoliths""",,,,,,,,,,,,,,True
+nannofossils,"""Calcisphere sp.""",,,,,,,,,,,,,,True
+nannofossils,"""Calcisphere spp. (fragments)""",,,,,,,,,,,,,,True
+nannofossils,Coccolithophyceae indet.,,,,,,,,,,,,,,True
+nannofossils,Noelaerhabdaceae indet.,,,,,,,,,,,,,,True
+nannofossils,Braarudosphaeracea indet.,,,,,,,,,,,,,,True
+nannofossils,"""Placolith (small)""",,,,,,,,,,,,,,True
+nannofossils,"""Placolithus (unidentified taxa)""",,,,,,,,,,,,,,True
+nannofossils,"""nannofossil fragment""",,,,,,,,,,,,,,True
+nannofossils,"""placolith (<2.0 microns)""",,,,,,,,,,,,,,True
+nannofossils,"""placolith (small)""",,,,,,,,,,,,,,True
+ostracods,Acratiidae indet.,142861,Acratiidae,family,142861,Acratiidae,23837,Podocopida,22826,Ostracoda,18891,Arthropoda,325038,Animalia,False
+ostracods,Bairdiidae indet.,142852,Bairdiidae,family,142852,Bairdiidae,23837,Podocopida,22826,Ostracoda,18891,Arthropoda,325038,Animalia,False
+ostracods,Bairdioidea indet.,142853,Bairdioidea,superfamily,,,23837,Podocopida,22826,Ostracoda,18891,Arthropoda,325038,Animalia,False
+ostracods,Ostracoda indet.,,,,,,,,,,,,,,True
+ostracods,Ostracoda indet.,,,,,,,,36322,Reptilia,,,,,True
+planktic_forams,Globigerinitidae indet.,,,,,,,,,,,,,,True
+planktic_forams,Globotruncanidae indet.,,,,,,,,,,,,,,True
+planktic_forams,Hedbergellidae indet.,,,,,,,,,,,,,,True
+planktic_forams,Foraminifera indet.,,,,,,,,,,,,,,True
+planktic_forams,"""Planktonic spp. indeterminate""",,,,,,,,,,,,,,True
+planktic_forams,"""Planktonics miscellaneous""",,,,,,,,,,,,,,True
+planktic_forams,"""Reworked planktics""",,,,,,,,,,,,,,True
+planktic_forams,"""planktonics miscellaneous""",,,,,,,,,,,,,,True
+radiolarians,Actinommidae indet.,,,,,,,,,,,,,,True
+radiolarians,Astrosphaeridae indet.,,,,,,,,,,,,,,True
+radiolarians,Collosphaeridae indet.,,,,,,,,,,,,,,True
+radiolarians,Radiolaria indet.,,,,,,,,,,,,,,True
+radiolarians,Litheliidae indet.,,,,,,,,,,,,,,True
+radiolarians,Orosphaeridae indet.,,,,,,,,,,,,,,True
+radiolarians,Plagoniidae indet.,,,,,,,,,,,,,,True
+radiolarians,Plagoniidae indet.,,,,,,,,,,4,Radiolaria,212476,Rhizaria,True
+radiolarians,Pterocoryidae indet.,625,Pterocorys,genus,86221,Pterocorythidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,False
+radiolarians,Theoperidae indet.,66336,Theoperidae,family,66336,Theoperidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria,False
+radiolarians,Tholoniidae indet.,,,,,,,,,,,,,,True
+silicoflagellates,"""Oxeas taxa""",,,,,,,,,,,,,,True
+benthic_forams,"""Indeterminate sponge spicules""",,,,,,,,,,,,,,True
+diatoms,"""Sponge spicules""",,,,,,,,,,,,,,True
+radiolarians,"""Sponge spicules""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Acanthostrongyles taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Acanthostypes taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Acanthotylostyles taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Acanthoxeas taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Discorhabds taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Synuracean taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Triods taxa""",,,,,,,,,,,,,,True
+Silicoflagellates/Ebridians/Actiniscidians,"""Tylostyles taxa""",,,,,,,,,,,,,,True
