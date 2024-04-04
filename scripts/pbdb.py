@@ -184,6 +184,9 @@ def create_higher_taxa_df(df):
 
 
 def fetch_pdbd_data(df, target_col, search_type="name"):
+    if 'check' not in df:
+        df['check']=False
+
     if "pbdb_taxon_id" not in df:
         df["pbdb_taxon_id"] = pd.NA
 
@@ -225,7 +228,7 @@ def fetch_pdbd_data(df, target_col, search_type="name"):
         df.at[index, "check"] = True
 
 
-def process_taxa_hierarchy(df, data, index):
+def process_taxa_hierarchy(df, data, index, include_unranked_clade=False):
     for record in data:
         taxon_rank = rank_ids[record["rnk"]]
         if taxon_rank in [
@@ -237,6 +240,9 @@ def process_taxa_hierarchy(df, data, index):
             "phylum",
             "kingdom",
         ]:
+            df.at[index, f"{taxon_rank}_taxon_id"] = record["oid"].replace("txn:", "")
+            df.at[index, f"{taxon_rank}_taxon_name"] = record["nam"]
+        if taxon_rank == 'unranked clade' and include_unranked_clade:
             df.at[index, f"{taxon_rank}_taxon_id"] = record["oid"].replace("txn:", "")
             df.at[index, f"{taxon_rank}_taxon_name"] = record["nam"]
 
@@ -301,3 +307,46 @@ def add_genus_species(taxa_df, genus_only=False):
         ]
 
     taxa_df["genus species"] = taxa_df["genus species"].str.strip()
+
+def fix_taxa_for_row_id(df, row_id, correct_id, include_unranked_clade=False):
+    """update pbdb data for a given row"""
+    print(correct_id)
+    columns = [
+        "pbdb_taxon_id",
+        "pbdb_taxon_name",
+        "pbdb_taxon_rank",
+        "family_taxon_id",
+        "family_taxon_name",
+        "order_taxon_id",
+        "order_taxon_name",
+        "class_taxon_id",
+        "class_taxon_name",
+        "phylum_taxon_id",
+        "phylum_taxon_name",
+        "kingdom_taxon_id",
+        "kingdom_taxon_name",
+        "unranked clade_taxon_id",
+        "unranked clade_taxon_name",
+    ]
+
+    url_parent = PBDB_TAXA_LIST_ID + str(correct_id)
+    response = requests.get(url_parent)
+    if response.status_code == 200:
+        data = response.json()["records"]
+
+        if len(data) > 0:
+            last_record = data[len(data) - 1]
+
+            for taxa_col in columns:
+                df.at[row_id, taxa_col] = np.nan
+
+            df.at[row_id, "pbdb_taxon_name"] = last_record["nam"]
+            df.at[row_id, "pbdb_taxon_rank"] = rank_ids[last_record["rnk"]]
+            df.at[row_id, "pbdb_taxon_id"] = correct_id
+
+            process_taxa_hierarchy(df, data, row_id, include_unranked_clade)
+
+    else:
+        raise ValueError(f"{correct_id} ID not found")
+
+    df.at[row_id, "corrected"] = True
