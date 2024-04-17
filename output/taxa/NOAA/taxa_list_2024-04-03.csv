@@ -5548,7 +5548,7 @@ Globigerinidae indet.,,,,,,,,,,Globigerinidae indet.,planktic_forams,,,,82191,Gl
 ,?,Alternanthera,,,,sp.,,,,? Alternanthera sp.,pollen,454265,Alternanthera,genus,55412,Amaranthaceae,54896,Caryophyllales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 Amaranthaceae indet.,,,,,,,,,,Amaranthaceae indet.,pollen,55412,Amaranthaceae,family,55412,Amaranthaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Amaryllidaceae indet.,,,,,,,,,,Amaryllidaceae indet.,pollen,55831,Amaryllidaceae,family,55831,Amaryllidaceae,54968,Asparagales,,,54885,Angiospermae,54311,Plantae
-Ampelidaceae indet.,,,,,,,,,,Ampelidaceae indet.,pollen,454266,Ampelidaceae,family,,,,,,,,,54311,Plantae
+Ampelidaceae indet.,,,,,,,,,,Ampelidaceae indet.,pollen,454266,Ampelidaceae,family,454266,Ampelidaceae,,,,,,,54311,Plantae
 Anacardiaceae indet.,,,,,,,,,,Anacardiaceae indet.,pollen,54686,Anacardiaceae,family,54686,Anacardiaceae,54934,Sapindales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,?,Anacardium,,,,sp.,,,,? Anacardium sp.,pollen,259555,Anacardium,genus,54686,Anacardiaceae,54934,Sapindales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Anacolosidites,,,,luteoides,,,,Anacolosidites luteoides,pollen,280359,Anacolosidites,genus,,,54929,Santalales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
@@ -5576,7 +5576,7 @@ Boraginaceae indet.,,,,,,,,,,Boraginaceae indet.,pollen,55752,Boraginaceae,famil
 ,,Buxus,,,,sp.,,,,Buxus sp.,pollen,443088,Buxus,genus,55444,Buxaceae,54906,Buxales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Callitris,,,,,,,,Callitris,pollen,190845,Callitris,genus,54792,Cupressaceae,55868,Coniferales,,,56176,Coniferophyta,54311,Plantae
 ,?,Camarozonotriletes,,,,minoris,,,,? Camarozonotriletes minoris,pollen,454271,Camarozonotriletes,genus,,,,,,,,,54311,Plantae
-Combretaceae indet.,,,,,,,,,,Combretaceae indet.,pollen,54719,Combretaceae,family,,,54926,Myrtales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Combretaceae indet.,,,,,,,,,,Combretaceae indet.,pollen,54719,Combretaceae,family,54719,Combretaceae,54926,Myrtales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 Campanulaceae indet.,,,,,,,,,,Campanulaceae indet.,pollen,55777,Campanulaceae,family,55777,Campanulaceae,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Capparidaceae indet.,,,,,,,,,,Capparidaceae indet.,pollen,55649,Capparidaceae,family,55649,Capparidaceae,54920,Capparidales,55233,Dicotyledoneae,54885,Angiospermae,54311,Plantae
 ,?,Cardiospermum,,,,sp.,,,,? Cardiospermum sp.,pollen,454272,Cardiospermum,genus,54692,Sapindaceae,54934,Sapindales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
@@ -5608,7 +5608,7 @@ Cistaceae indet.,,,,,,,,,,Cistaceae indet.,pollen,55468,Cistaceae,family,55468,C
 ,,Clavatipollenites,,,,sp.,,,,Clavatipollenites sp.,pollen,264520,Clavatipollenites,genus,55387,Chloranthaceae,182970,Chloranthales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Clavifera,,,,triplex,,,,Clavifera triplex,pollen,276521,Clavifera,genus,54124,Gleicheniaceae,196333,Polypodiales,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
 ,,Cnemidaria,,,,sp.,,,,Cnemidaria sp.,pollen,454279,Cnemidaria,genus,53968,Cyatheaceae,196332,Cyatheales,196331,Polypodiopsida,54828,Pteridophyta,54311,Plantae
-Compositae indet.,,,,,,,,,,Compositae indet.,pollen,54741,Compositae,family,,,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+Compositae indet.,,,,,,,,,,Compositae indet.,pollen,54741,Compositae,family,54741,Compositae,54943,Asterales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Concavisporites,,,,sp.,,,,Concavisporites sp.,pollen,276946,Concavisporites,genus,,,,,,,54828,Pteridophyta,54311,Plantae
 ,,Concavissimisporites,,,,granulatus,,,,Concavissimisporites granulatus,pollen,276791,Concavissimisporites,genus,,,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
 ,,Concavissimisporites,,,,punctatus,,,,Concavissimisporites punctatus,pollen,276791,Concavissimisporites,genus,,,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
@@ -5650,9 +5650,9 @@ Dipsacaceae indet.,,,,,,,,,,Dipsacaceae indet.,pollen,55787,Dipsacaceae,family,5
 ,,Engelhardia,,,,sp.,,,,Engelhardia sp.,pollen,54586,Engelhardia,genus,54584,Juglandaceae,54902,Fagales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,?,Engelhardia,,,,sp.,,,,? Engelhardia sp.,pollen,54586,Engelhardia,genus,54584,Juglandaceae,54902,Fagales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Ephedra,,,,sp.,,,,Ephedra sp.,pollen,251997,Ephedra,genus,54803,Ephedraceae,157233,Ephedrales,54788,Ginkgoopsida,56140,Ginkgophyta,54311,Plantae
-,,Equisetales,,,,sp.,,,,Equisetales sp.,pollen,55865,Equisetales,order,,,,,55866,Sphenopsida,56096,Sphenophyta,54311,Plantae
+,,Equisetales,,,,sp.,,,,Equisetales sp.,pollen,55865,Equisetales,order,,,55865,Equisetales,55866,Sphenopsida,56096,Sphenophyta,54311,Plantae
 Ericaceae indet.,,,,,,,,,,Ericaceae indet.,pollen,55506,Ericaceae,family,55506,Ericaceae,54919,Ericales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
-,,Ericales,,,,sp.,,,,Ericales sp.,pollen,54919,Ericales,order,,,,,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
+,,Ericales,,,,sp.,,,,Ericales sp.,pollen,54919,Ericales,order,,,54919,Ericales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Eucommia,,,,sp.,,,,Eucommia sp.,pollen,443077,Eucommia,genus,55443,Eucommiaceae,183066,Garryales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Eugenia,,,,sp.,,,,Eugenia sp.,pollen,237731,Eugenia,genus,54713,Myrtaceae,54926,Myrtales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Euphorbia,,,,sp.,,,,Euphorbia sp.,pollen,319873,Euphorbia,genus,53786,Euphorbiaceae,183005,Malpighiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
@@ -5660,7 +5660,7 @@ Euphorbiaceae indet.,,,,,,,,,,Euphorbiaceae indet.,pollen,53786,Euphorbiaceae,fa
 ,,Fagus,,,,sp.,,,,Fagus sp.,pollen,55969,Fagus,genus,52764,Fagaceae,54902,Fagales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Fenestrites,,,,spinosus,,,,Fenestrites spinosus,pollen,454356,Fenestrites,genus,183083,Asteraceae,54943,Asterales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Ficus,,,,sp.,,,,Ficus sp.,pollen,53873,Ficus,genus,53874,Moraceae,,,54885,Angiospermae,55350,Spermatophyta,54311,Plantae
-,,Filicales,,,,sp.,,,,Filicales sp.,pollen,55347,Filicales,order,,,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
+,,Filicales,,,,sp.,,,,Filicales sp.,pollen,55347,Filicales,order,,,55347,Filicales,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
 ,,Foraminisporis,,,,dailyi,,,,Foraminisporis dailyi,pollen,276559,Foraminisporis,genus,,,,,,,55134,Bryophyta,54311,Plantae
 ,,Foraminisporis,,,,sp.,,,,Foraminisporis sp.,pollen,276559,Foraminisporis,genus,,,,,,,55134,Bryophyta,54311,Plantae
 ,,Foraminisporis,,,,wontaggiensis,,,,Foraminisporis wontaggiensis,pollen,276559,Foraminisporis,genus,,,,,,,55134,Bryophyta,54311,Plantae
@@ -5677,11 +5677,11 @@ Geraniaceae indet.,,,,,,,,,,Geraniaceae indet.,pollen,55600,Geraniaceae,family,5
 ,?,Gleicheniidites,,,,trijugatus,,,,? Gleicheniidites trijugatus,pollen,252491,Gleicheniidites,genus,54124,Gleicheniaceae,196333,Polypodiales,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
 ,,Gnetum,,,,sp.,,,,Gnetum sp.,pollen,478723,Gnetum,genus,,,,,,,,,54311,Plantae
 ,?,"""Gomphrenia""",,,,sp.,,,,"? ""Gomphrenia"" sp.",pollen,,,,,,,,,,,,,
-Gramineae indet.,,,,,,,,,,Gramineae indet.,pollen,55515,Gramineae,family,,,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Gramineae indet.,,,,,,,,,,Gramineae indet.,pollen,55515,Gramineae,family,55515,Gramineae,182987,Poales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Graminidites,,,,media,,,,Graminidites media,pollen,252683,Graminidites,genus,53546,Poaceae,182987,Poales,,,54885,Angiospermae,54311,Plantae
 ,?,Graminidites,,,,media,,,,? Graminidites media,pollen,252683,Graminidites,genus,53546,Poaceae,182987,Poales,,,54885,Angiospermae,54311,Plantae
 ,?,Guazuma,,,,sp.,,,,? Guazuma sp.,pollen,454357,Guazuma,genus,53879,Malvaceae,54911,Malvales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
-Guttiferae indet.,,,,,,,,,,Guttiferae indet.,pollen,55627,Guttiferae,family,,,183005,Malpighiales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Guttiferae indet.,,,,,,,,,,Guttiferae indet.,pollen,55627,Guttiferae,family,55627,Guttiferae,183005,Malpighiales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Haloragacidites,,,,harrisii,,,,Haloragacidites harrisii,pollen,252692,Haloragacidites,genus,,,,,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Hamamelidaceae indet.,,,,,,,,,,Hamamelidaceae indet.,pollen,52846,Hamamelidaceae,family,52846,Hamamelidaceae,182995,Saxifragales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Hedyosmum,,,,sp.,,,,Hedyosmum sp.,pollen,454358,Hedyosmum,genus,55387,Chloranthaceae,182970,Chloranthales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
@@ -5717,7 +5717,7 @@ Leguminosae indet.,,,,,,,,,,Leguminosae indet.,pollen,54652,Leguminosae,family,5
 ,,Leptolepidites,,,,verrucatus,,,,Leptolepidites verrucatus,pollen,252554,Leptolepidites,genus,,,,,54754,Lycopsida,54828,Pteridophyta,54311,Plantae
 ,,Libocedrus,,,,sp.,,,,Libocedrus sp.,pollen,317395,Libocedrus,genus,54792,Cupressaceae,55868,Coniferales,,,56176,Coniferophyta,54311,Plantae
 """Liguliflores sp.""",,,,,,,,,,"""Liguliflores sp.""",pollen,,,,,,,,,,,,,
-Liliaceae indet.,,,,,,,,,,Liliaceae indet.,pollen,54578,Liliaceae,family,,,,,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Liliaceae indet.,,,,,,,,,,Liliaceae indet.,pollen,54578,Liliaceae,family,54578,Liliaceae,,,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Liliacidites,,,,sp.,,,,Liliacidites sp.,pollen,251329,Liliacidites,genus,,,54972,Liliales,,,54885,Angiospermae,54311,Plantae
 ,,Liliacidites,,,,variegatus,,,,Liliacidites variegatus,pollen,251329,Liliacidites,genus,,,54972,Liliales,,,54885,Angiospermae,54311,Plantae
 ,,Liquidambar,,,,sp.,,,,Liquidambar sp.,pollen,54637,Liquidambar,genus,52846,Hamamelidaceae,182995,Saxifragales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
@@ -5773,7 +5773,7 @@ Myrtaceae indet.,,,,,,,,,,Myrtaceae indet.,pollen,54713,Myrtaceae,family,54713,M
 ,,Nothofagidites,,,,spinosus,,,,Nothofagidites spinosus,pollen,251909,Nothofagidites,genus,,,54902,Fagales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,?,Nothofagidites,,,,vansteeni,,,,? Nothofagidites vansteeni,pollen,251909,Nothofagidites,genus,,,54902,Fagales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Nuphar,,,,sp.,,,,Nuphar sp.,pollen,445139,Nuphar,genus,54606,Nymphaeaceae,54894,Nymphaeales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
-Nymphaeaceae indet.,,,,,,,,,,Nymphaeaceae indet.,pollen,54606,Nymphaeaceae,family,,,54894,Nymphaeales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Nymphaeaceae indet.,,,,,,,,,,Nymphaeaceae indet.,pollen,54606,Nymphaeaceae,family,54606,Nymphaeaceae,54894,Nymphaeales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Olea,,,,sp.,,,,Olea sp.,pollen,319869,Olea,genus,54728,Oleaceae,54939,Lamiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Oleaceae indet.,,,,,,,,,,Oleaceae indet.,pollen,54728,Oleaceae,family,54728,Oleaceae,54939,Lamiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Onagraceae indet.,,,,,,,,,,Onagraceae indet.,pollen,55691,Onagraceae,family,55691,Onagraceae,54926,Myrtales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
@@ -5859,7 +5859,7 @@ Ranunculaceae indet.,,,,,,,,,,Ranunculaceae indet.,pollen,55402,Ranunculaceae,fa
 ,,Rhoipites,,,,striatoreticulatus,,,,Rhoipites striatoreticulatus,pollen,252775,Rhoipites,genus,,,,,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Rhus,,,,sp.,,,,Rhus sp.,pollen,54685,Rhus,genus,54686,Anacardiaceae,54934,Sapindales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Riccia,,,,sp.,,,,Riccia sp.,pollen,454539,Riccia,genus,307123,Ricciaceae,55125,Marchantiales,55925,Hepaticae,55134,Bryophyta,54311,Plantae
-Rosaceae indet.,,,,,,,,,,Rosaceae indet.,pollen,54647,Rosaceae,family,,,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Rosaceae indet.,,,,,,,,,,Rosaceae indet.,pollen,54647,Rosaceae,family,54647,Rosaceae,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 Rubiaceae indet.,,,,,,,,,,Rubiaceae indet.,pollen,55784,Rubiaceae,family,55784,Rubiaceae,54936,Gentianales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Rudolphisporis,,,,rudolphi,,,,Rudolphisporis rudolphi,pollen,454566,Rudolphisporis,genus,,,454567,Anthocerotales,55131,Anthocerotopsida,55130,Anthocerophyta,55079,Chlorobiota
 ,,Rumex,,,,sp.,,,,Rumex sp.,pollen,320020,Rumex,genus,55425,Polygonaceae,54896,Caryophyllales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
@@ -5895,7 +5895,7 @@ Taxodiaceae indet.,,,,,,,,,,Taxodiaceae indet.,pollen,54798,Taxodiaceae,family,5
 ,,Tetrapollis,,,,sp.,,,,Tetrapollis sp.,pollen,483433,Tetrapollis,genus,,,,,54885,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Thalictrum,,,,sp.,,,,Thalictrum sp.,pollen,452394,Thalictrum,genus,55402,Ranunculaceae,54893,Ranunculales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,?,Thalictrum,,,,sp.,,,,? Thalictrum sp.,pollen,452394,Thalictrum,genus,55402,Ranunculaceae,54893,Ranunculales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
-Thymelaeaceae indet.,,,,,,,,,,Thymelaeaceae indet.,pollen,55607,Thymelaeaceae,family,,,54911,Malvales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Thymelaeaceae indet.,,,,,,,,,,Thymelaeaceae indet.,pollen,55607,Thymelaeaceae,family,55607,Thymelaeaceae,54911,Malvales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Tilia,,,,sp.,,,,Tilia sp.,pollen,56055,Tilia,genus,55597,Tiliaceae,54911,Malvales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 ,,Tournefortia,,,,sp.,,,,Tournefortia sp.,pollen,454647,Tournefortia,genus,454649,Heliotropiaceae,454648,Boraginales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Trema,,,,sp.,,,,Trema sp.,pollen,319876,Trema,genus,55605,Cannabaceae,54921,Rosales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
@@ -5938,7 +5938,7 @@ Ulmaceae indet.,,,,,,sp.,,,,Ulmaceae indet. sp.,pollen,54598,Ulmaceae,family,545
 ,,Ulmus,,,,sp.,,,,Ulmus sp.,pollen,55984,Ulmus,genus,54598,Ulmaceae,54921,Rosales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Umbelliferae indet.,,,,,,,,,,Umbelliferae indet.,pollen,55741,Umbelliferae,family,55741,Umbelliferae,54935,Apiales,55217,Magnoliopsida,55350,Spermatophyta,54311,Plantae
 Urticales indet.,,,,,,,,,,Urticales indet.,pollen,54912,Urticales,order,,,54912,Urticales,55233,Dicotyledoneae,54885,Angiospermae,54311,Plantae
-Urticaceae indet.,,,,,,,,,,Urticaceae indet.,pollen,55603,Urticaceae,family,,,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
+Urticaceae indet.,,,,,,,,,,Urticaceae indet.,pollen,55603,Urticaceae,family,55603,Urticaceae,54921,Rosales,452804,Angiospermae,55350,Spermatophyta,54311,Plantae
 ,,Verrucatosporites,,,,sp.,,,,Verrucatosporites sp.,pollen,280348,Verrucatosporites,genus,54782,Polypodiaceae,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
 ,?,Verrucatosporites,,,,sp.,,,,? Verrucatosporites sp.,pollen,280348,Verrucatosporites,genus,54782,Polypodiaceae,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
 ,?,Verrucatosporites,,,,speciosus,,,,? Verrucatosporites speciosus,pollen,280348,Verrucatosporites,genus,54782,Polypodiaceae,,,263811,Pteridopsida,54828,Pteridophyta,54311,Plantae
@@ -6154,7 +6154,7 @@ Urticaceae indet.,,,,,,,,,,Urticaceae indet.,pollen,55603,Urticaceae,family,,,54
 ,,Cannartus,,,,violina,,,,Cannartus violina,radiolarians,50,Cannartus,genus,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Cantharospyris,,,,ateuchus,,,,Cantharospyris ateuchus,radiolarians,454554,Cantharospyris,genus,152336,Trissocyclidae,402,Nassellaria,,,4,Radiolaria,87643,Chromista
 ,,Cantharospyris,,,,platybursa,,,,Cantharospyris platybursa,radiolarians,454554,Cantharospyris,genus,152336,Trissocyclidae,402,Nassellaria,,,4,Radiolaria,87643,Chromista
-,,Carpocaniidae,,,,,,,,Carpocaniidae,radiolarians,86212,Carpocaniidae,family,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
+,,Carpocaniidae,,,,,,,,Carpocaniidae,radiolarians,86212,Carpocaniidae,family,86212,Carpocaniidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Carpocanistrum,,,,azyx,,,,Carpocanistrum azyx,radiolarians,455,Carpocanistrum,genus,86212,Carpocaniidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Carpocanistrum,,,,cristatum,,,,Carpocanistrum cristatum,radiolarians,455,Carpocanistrum,genus,86212,Carpocaniidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Carpocanistrum,,,,odysseus,,,,Carpocanistrum odysseus,radiolarians,455,Carpocanistrum,genus,86212,Carpocaniidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
@@ -6225,7 +6225,7 @@ Urticaceae indet.,,,,,,,,,,Urticaceae indet.,pollen,55603,Urticaceae,family,,,54
 ,,Collosphaera,,,,invaginata,,,,Collosphaera invaginata,radiolarians,85054,Collosphaera,genus,85052,Collosphaeridae,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
 ,,Collosphaera,,,,polygona,,,,Collosphaera polygona,radiolarians,85054,Collosphaera,genus,85052,Collosphaeridae,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
 ,,Collosphaera,,,,pyloma,,,,Collosphaera pyloma,radiolarians,85054,Collosphaera,genus,85052,Collosphaeridae,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
-,,Collosphaeridae,,,,,,,,Collosphaeridae,radiolarians,85052,Collosphaeridae,family,,,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
+,,Collosphaeridae,,,,,,,,Collosphaeridae,radiolarians,85052,Collosphaeridae,family,85052,Collosphaeridae,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
 ,,Conarchnium,,,,nigriniae,,,,Conarchnium nigriniae,radiolarians,469,Conarchnium,genus,,,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Cornutella,,,,bimarginata,,,,Cornutella bimarginata,radiolarians,472,Cornutella,genus,66371,Acropyramididae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Cornutella,,,,californica,,,,Cornutella californica,radiolarians,472,Cornutella,genus,66371,Acropyramididae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
@@ -6674,7 +6674,7 @@ Urticaceae indet.,,,,,,,,,,Urticaceae indet.,pollen,55603,Urticaceae,family,,,54
 ,,Orbula,,,,ducalis,,,,Orbula ducalis,radiolarians,590,Orbula,genus,87074,Bekomidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Orbula,,,,sp.,,,,Orbula sp.,radiolarians,590,Orbula,genus,87074,Bekomidae,402,Nassellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Oroscena,,,,sp.,,,,Oroscena sp.,radiolarians,454590,Oroscena,genus,64242,Orosphaeridae,5,Spumellaria,,,4,Radiolaria,87643,Chromista
-Orosphaeridae indet.,,,,,,,,,,Orosphaeridae indet.,radiolarians,64242,Orosphaeridae,family,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
+Orosphaeridae indet.,,,,,,,,,,Orosphaeridae indet.,radiolarians,64242,Orosphaeridae,family,64242,Orosphaeridae,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Otosphaera,,,,annikae,,,,Otosphaera annikae,radiolarians,432803,Otosphaera,genus,85052,Collosphaeridae,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
 ,,Otosphaera,,,,auriculata,,,,Otosphaera auriculata,radiolarians,432803,Otosphaera,genus,85052,Collosphaeridae,85051,Collodaria,,,4,Radiolaria,212476,Rhizaria
 ,,Panartus,,,,tetrathalamus,,,,Panartus tetrathalamus,radiolarians,454591,Panartus,genus,,,,,,,4,Radiolaria,87643,Chromista
@@ -6861,7 +6861,7 @@ Orosphaeridae indet.,,,,,,,,,,Orosphaeridae indet.,radiolarians,64242,Orosphaeri
 ,,Spongasteriscus,,,,sp.,,,,Spongasteriscus sp.,radiolarians,307,Spongasteriscus,genus,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
 ,?,Spongobrachium,,,,ellipticum,,,,? Spongobrachium ellipticum,radiolarians,312,Spongobrachium,genus,,,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Spongocore,,,,diplocylindrica,,,,Spongocore diplocylindrica,radiolarians,314,Spongocore,genus,65957,Sponguridae,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
-Sponguridae indet.,,,,,,,,,,Sponguridae indet.,radiolarians,65957,Sponguridae,family,,,5,Spumellaria,,,4,Radiolaria,87643,Chromista
+Sponguridae indet.,,,,,,,,,,Sponguridae indet.,radiolarians,65957,Sponguridae,family,65957,Sponguridae,5,Spumellaria,,,4,Radiolaria,87643,Chromista
 ,,Spongodiscus,,,,ambus,,,,Spongodiscus ambus,radiolarians,315,Spongodiscus,genus,65975,Spongodiscidae,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Spongodiscus,,,,americanus,,,,Spongodiscus americanus,radiolarians,315,Spongodiscus,genus,65975,Spongodiscidae,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
 ,,Spongodiscus,,,,biconcavus,,,,Spongodiscus biconcavus,radiolarians,315,Spongodiscus,genus,65975,Spongodiscidae,5,Spumellaria,,,4,Radiolaria,212476,Rhizaria
