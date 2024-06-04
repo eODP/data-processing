@@ -1,11 +1,11 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-59,450,,4,2,10.0,12.0,26.50,28.11, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCYCL0091,Cyclammina sp. (q),RARE,  ,1,7fe6a1843aa7fdfd58b9fbc4ec201657
-59,450,,4,4,35.0,37.0,26.50,31.36, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCYCL0091,Cyclammina sp. (q),RARE,  ,1,6ec24d651d35ea94ec5f7d33f57ba387
-59,450,,4,CC,,,26.50,35.00, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BNODA0011,Nodosaria sp.(q),RARE,  ,1,0edc707c169eeaa063800b86db069f26
-59,450,,6,CC,,,45.50,47.39, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BNODA0011,Nodosaria sp.(q),PRESENT,  ,1,fb79e37da65a8246a61ca7d6deacc91b
-59,450,,7,CC,,,55.00,55.10, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0180,Cassidulina subglobosa,RARE,  ,1,e63fe8cf110cefbedac66851fabbe4b8
-59,450,,7,CC,,,55.00,55.10, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCYCL0091,Cyclammina sp. (q),RARE,  ,1,5eaa93b0121ba302e91826ff7f0aa59b
-59,450,,13,3,13.0,15.0,112.00,115.14, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0180,Cassidulina subglobosa,RARE,  ,1,9b5969e0b55f836895fb431d4a19f81e
-59,450,,14,CC,,,121.50,131.04, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0160,Cassidulina minuta,RARE,  ,1,cc66e1c0cb9f08578255ff2eda60ee11
-59,450,,14,CC,,,121.50,131.04, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0180,Cassidulina subglobosa,RARE,  ,1,07db9299d7d55e861a0cf4d58f06ab7e
-59,450,,19,3,60.0,62.0,169.00,172.61, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCIBI0171,Cibicides kullenbergi (q),RARE,  ,1,d6343aeb59d8b91a580fe05315553bcf
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+59,450,,4,2,10.0,12.0,26.50,28.11, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCYCL0091,Cyclammina sp. (q),RARE,  ,1,7fe6a1843aa7fdfd58b9fbc4ec201657,59-450-4-2
+59,450,,4,4,35.0,37.0,26.50,31.36, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCYCL0091,Cyclammina sp. (q),RARE,  ,1,6ec24d651d35ea94ec5f7d33f57ba387,59-450-4-4
+59,450,,4,CC,,,26.50,35.00, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BNODA0011,Nodosaria sp.(q),RARE,  ,1,0edc707c169eeaa063800b86db069f26,59-450-4-CC
+59,450,,6,CC,,,45.50,47.39, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BNODA0011,Nodosaria sp.(q),PRESENT,  ,1,fb79e37da65a8246a61ca7d6deacc91b,59-450-6-CC
+59,450,,7,CC,,,55.00,55.10, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0180,Cassidulina subglobosa,RARE,  ,1,e63fe8cf110cefbedac66851fabbe4b8,59-450-7-CC
+59,450,,7,CC,,,55.00,55.10, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCYCL0091,Cyclammina sp. (q),RARE,  ,1,5eaa93b0121ba302e91826ff7f0aa59b,59-450-7-CC
+59,450,,13,3,13.0,15.0,112.00,115.14, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0180,Cassidulina subglobosa,RARE,  ,1,9b5969e0b55f836895fb431d4a19f81e,59-450-13-3
+59,450,,14,CC,,,121.50,131.04, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0160,Cassidulina minuta,RARE,  ,1,cc66e1c0cb9f08578255ff2eda60ee11,59-450-14-CC
+59,450,,14,CC,,,121.50,131.04, 2,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCASI0180,Cassidulina subglobosa,RARE,  ,1,07db9299d7d55e861a0cf4d58f06ab7e,59-450-14-CC
+59,450,,19,3,60.0,62.0,169.00,172.61, 1,"HEIMAN,M.E.",01/1981,59,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,576,BCIBI0171,Cibicides kullenbergi (q),RARE,  ,1,d6343aeb59d8b91a580fe05315553bcf,59-450-19-3

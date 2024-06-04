@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RARTT0020,Artostrobus annulatus,RARE,  ,1,ba164f132d4970db83e19f60b1c502a4
-19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RLITT0020,Lithomitra arachnea,RARE,  ,1,eafb83ceb724e3b1c0529cf5f7ba39bf
-19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RSPOD0010,Spongodiscus sp.,RARE,  ,1,34449e9fc26154ce511145a243943215
-19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RSPOY0050,Spongopyle osculosa,RARE,  ,1,59747a87dcce65dd08a1fef250f49d17
-19,187,,2,CC,0.0,0.0,173.00,176.10, 2,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RARTT0020,Artostrobus annulatus,RARE,  ,1,d5e9aef2d06776b9ee2f34e757293f1f
-19,187,,2,CC,0.0,0.0,173.00,176.10, 2,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RLITT0020,Lithomitra arachnea,RARE,  ,1,fcad1d07cf10046e4a1cef891ddcb634
-19,187,,3,CC,0.0,0.0,267.00,268.60, 1,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RSPOY0050,Spongopyle osculosa,RARE,  ,1,ef47a0e2717e45da3c34939693de5f8e
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RARTT0020,Artostrobus annulatus,RARE,  ,1,ba164f132d4970db83e19f60b1c502a4,19-187-1-CC
+19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RLITT0020,Lithomitra arachnea,RARE,  ,1,eafb83ceb724e3b1c0529cf5f7ba39bf,19-187-1-CC
+19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RSPOD0010,Spongodiscus sp.,RARE,  ,1,34449e9fc26154ce511145a243943215,19-187-1-CC
+19,187,,1,CC,0.0,0.0,164.00,164.10, 4,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RSPOY0050,Spongopyle osculosa,RARE,  ,1,59747a87dcce65dd08a1fef250f49d17,19-187-1-CC
+19,187,,2,CC,0.0,0.0,173.00,176.10, 2,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RARTT0020,Artostrobus annulatus,RARE,  ,1,d5e9aef2d06776b9ee2f34e757293f1f,19-187-2-CC
+19,187,,2,CC,0.0,0.0,173.00,176.10, 2,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RLITT0020,Lithomitra arachnea,RARE,  ,1,fcad1d07cf10046e4a1cef891ddcb634,19-187-2-CC
+19,187,,3,CC,0.0,0.0,267.00,268.60, 1,"LING,H.Y.",06/1973,19,RADIOLARIA,,,,,NO AGE GIVEN,784,RSPOY0050,Spongopyle osculosa,RARE,  ,1,ef47a0e2717e45da3c34939693de5f8e,19-187-3-CC

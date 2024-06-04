@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BHYPE0040,Hyperammina sp.,PRESENT,  ,1,c04440f373f82179e77410b6393b3beb
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BREOP0070,Reophax guttifer,PRESENT,  ,1,8bb889d444cc26d0ad1d927ec49517b3
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BREOP0130,Reophax pilulifer,PRESENT,  ,1,a732dcd2de1f78fbb1fa9ac7ba17a899
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHAB0030,Rhabdammina linearis,PRESENT,  ,1,b3796d9c3ac5c8baf9dfa0c90f9f5925
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHIZ0020,Rhizammina algaeformis,PRESENT,  ,1,bf2ade4e1769adb3fab226b32150e27c
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHIZ0030,Rhizammina indivisa,PRESENT,  ,1,287e70006119037ecf511345bd5ea23e
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BTECH0010,Technitellla legumen,PRESENT,  ,1,3d8c00fd4218a213cbe678a57453e227
-96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BTHUR0050,Thurammina papillata,PRESENT,  ,1,010fb15da0331fdd6a2a43e65454479c
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BHYPE0040,Hyperammina sp.,PRESENT,  ,1,c04440f373f82179e77410b6393b3beb,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BREOP0070,Reophax guttifer,PRESENT,  ,1,8bb889d444cc26d0ad1d927ec49517b3,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BREOP0130,Reophax pilulifer,PRESENT,  ,1,a732dcd2de1f78fbb1fa9ac7ba17a899,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHAB0030,Rhabdammina linearis,PRESENT,  ,1,b3796d9c3ac5c8baf9dfa0c90f9f5925,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHIZ0020,Rhizammina algaeformis,PRESENT,  ,1,bf2ade4e1769adb3fab226b32150e27c,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BRHIZ0030,Rhizammina indivisa,PRESENT,  ,1,287e70006119037ecf511345bd5ea23e,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BTECH0010,Technitellla legumen,PRESENT,  ,1,3d8c00fd4218a213cbe678a57453e227,96-622-1-1
+96,622,,1,1,0.1,1.,0.00,0.01, 8,SCHRODER,10/1986,96,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,640,BTHUR0050,Thurammina papillata,PRESENT,  ,1,010fb15da0331fdd6a2a43e65454479c,96-622-1-1

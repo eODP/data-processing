@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-32,306,,3,CC,0.0,0.0,19.00,0.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OCYTE0010,Cytherella sp.,RARE,  ,1,a511f4d79f00f1e64324d71d102e1870
-32,306,,3,CC,0.0,0.0,19.00,0.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBRAC0010,Brachycythere sp.,RARE,  ,1,5468e77ffef968b43e91726ad42241d2
-32,306,,24,CC,0.0,0.0,309.00,0.00, 1,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,8fa1e5a0e7ab60b86504e28b874eb195
-32,306,,37,CC,0.0,0.0,421.00,0.00, 1,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,bc5e82e1894bbd1d4d0db2d358d57894
-32,306,,38,CC,0.0,0.0,430.50,0.00, 1,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,39a1ccfd3de791c937a5eb5d802ab046
-32,306,,41,1,126.0,128.0,459.00,127.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,8e17b9777358dda4a4bc6b18268db457
-32,306,,41,1,126.0,128.0,459.00,127.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OROBS0010,Robsoniella sp.,RARE,  ,1,24eaeb8be09807e7416b43b76dc1a093
-32,306,,42,1,116.0,118.0,467.50,117.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,57762e2bb614fc4350b237cb625deb07
-32,306,,42,1,116.0,118.0,467.50,117.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBYTO0010,Bythocypris sp.,RARE,  ,1,28ecc943e4cf391bfcd7a4c415d5caea
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+32,306,,3,CC,0.0,0.0,19.00,0.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OCYTE0010,Cytherella sp.,RARE,  ,1,a511f4d79f00f1e64324d71d102e1870,32-306-3-CC
+32,306,,3,CC,0.0,0.0,19.00,0.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBRAC0010,Brachycythere sp.,RARE,  ,1,5468e77ffef968b43e91726ad42241d2,32-306-3-CC
+32,306,,24,CC,0.0,0.0,309.00,0.00, 1,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,8fa1e5a0e7ab60b86504e28b874eb195,32-306-24-CC
+32,306,,37,CC,0.0,0.0,421.00,0.00, 1,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,bc5e82e1894bbd1d4d0db2d358d57894,32-306-37-CC
+32,306,,38,CC,0.0,0.0,430.50,0.00, 1,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,39a1ccfd3de791c937a5eb5d802ab046,32-306-38-CC
+32,306,,41,1,126.0,128.0,459.00,127.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,8e17b9777358dda4a4bc6b18268db457,32-306-41-1
+32,306,,41,1,126.0,128.0,459.00,127.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OROBS0010,Robsoniella sp.,RARE,  ,1,24eaeb8be09807e7416b43b76dc1a093,32-306-41-1
+32,306,,42,1,116.0,118.0,467.50,117.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBAIR0010,Bairdia sp.,RARE,  ,1,57762e2bb614fc4350b237cb625deb07,32-306-42-1
+32,306,,42,1,116.0,118.0,467.50,117.00, 2,"OERTLI,H.J.",,32,OSTRACODES,RARE,,,POOL,NO AGE GIVEN,709,OBYTO0010,Bythocypris sp.,RARE,  ,1,28ecc943e4cf391bfcd7a4c415d5caea,32-306-42-1

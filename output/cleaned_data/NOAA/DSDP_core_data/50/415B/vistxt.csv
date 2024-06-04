@@ -1,4 +1,4 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
-50,415,B,2,1,5.0,150.0,56.50,56.55,58.00,, FORAM BEARING OOZE,,,,,,,, SOFT, 11111210.1221,776da5e77ac515df1887b7d222f02452
-50,415,B,2,2,8.0,150.0,56.50,58.08,59.50,, FORAM BEARING OOZE,,,,,,,, SOFT*,,ffa251d502b5a461c0f6285a61094582
-50,415,B,2,CC,0.0,12.0,56.50,59.60,59.62,, FORAM BEARING OOZE,,,,,,,, FIRM, 11111210.1221,8561d613718f9a1594860eabd0dddcff
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+50,415,B,2,1,5.0,150.0,56.50,56.55,58.00,, FORAM BEARING OOZE,,,,,,,, SOFT, 11111210.1221,776da5e77ac515df1887b7d222f02452,50-415B-2-1
+50,415,B,2,2,8.0,150.0,56.50,58.08,59.50,, FORAM BEARING OOZE,,,,,,,, SOFT*,,ffa251d502b5a461c0f6285a61094582,50-415B-2-2
+50,415,B,2,CC,0.0,12.0,56.50,59.60,59.62,, FORAM BEARING OOZE,,,,,,,, FIRM, 11111210.1221,8561d613718f9a1594860eabd0dddcff,50-415B-2-CC

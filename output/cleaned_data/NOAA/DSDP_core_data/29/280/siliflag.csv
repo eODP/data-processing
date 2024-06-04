@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SCORB0010,Corbisema apiculata,1%,  ,1,f1e4f420155373023720a12425e036d3
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SCORB0150,Corbisema hastata,PRESENT,  ,1,2b07bb1cf172f9abcc2bf3321e6b99a8
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SCORB0380,Corbisema triacantha,PRESENT,  ,1,c60bf8da455a9ea0b5d8fd9aeba86db8
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SDICT0390,Dictyocha medusa,47%,  ,1,b5c6331383ba79008bbd6a72a7f83c45
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SDIST0110,Distephanus crux,17%,  ,1,9203c7eaf15a98717c08149899dff326
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SNAVI0020,Naviculopsis biapiculata,2%,  ,1,e943ea1a305c386c44f7a1157004b848
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SNAVI0270,Naviculopsis trispinosa,1%,  ,1,49eed5aba282dee5f4b0b67ff6838a4c
-29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SSEPT0010,Septamesocena apiculata,32%,  ,1,fd6ec40ca063c7a96b0031b0d89b0099
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SCORB0010,Corbisema apiculata,1%,  ,1,f1e4f420155373023720a12425e036d3,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SCORB0150,Corbisema hastata,PRESENT,  ,1,2b07bb1cf172f9abcc2bf3321e6b99a8,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SCORB0380,Corbisema triacantha,PRESENT,  ,1,c60bf8da455a9ea0b5d8fd9aeba86db8,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SDICT0390,Dictyocha medusa,47%,  ,1,b5c6331383ba79008bbd6a72a7f83c45,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SDIST0110,Distephanus crux,17%,  ,1,9203c7eaf15a98717c08149899dff326,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SNAVI0020,Naviculopsis biapiculata,2%,  ,1,e943ea1a305c386c44f7a1157004b848,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SNAVI0270,Naviculopsis trispinosa,1%,  ,1,49eed5aba282dee5f4b0b67ff6838a4c,29-280-1-2
+29,280,,1,2,110.0,110.0,0.00,2.60, 8,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,682,SSEPT0010,Septamesocena apiculata,32%,  ,1,fd6ec40ca063c7a96b0031b0d89b0099,29-280-1-2

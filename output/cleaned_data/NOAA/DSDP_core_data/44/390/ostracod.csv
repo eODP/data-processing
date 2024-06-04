@@ -1,6 +1,6 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OBAIR0010,Bairdia sp.,PRESENT,  ,1,4e60175e98f1be34b30c004899d5b1c3
-44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OBYTO0012,Bythocypris sp.(q),PRESENT,  ,1,f006e21a1a76818ed0873e9930403a46
-44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OAPAR0010,Aparchitocythere sp.(q),PRESENT,  ,1,507468d674ab5e22b0f8c32773cda102
-44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OXEST0010,Xestolebris sp.(q),PRESENT,  ,1,f6fce417535a0c2556b402601f363d8a
-44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OREHA0010,Rehacythereis sp.(q),PRESENT,  ,1,bd4e653b4a019f7c62f4e8b296c3a6c5
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OBAIR0010,Bairdia sp.,PRESENT,  ,1,4e60175e98f1be34b30c004899d5b1c3,44-390-8-4
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OBYTO0012,Bythocypris sp.(q),PRESENT,  ,1,f006e21a1a76818ed0873e9930403a46,44-390-8-4
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OAPAR0010,Aparchitocythere sp.(q),PRESENT,  ,1,507468d674ab5e22b0f8c32773cda102,44-390-8-4
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OXEST0010,Xestolebris sp.(q),PRESENT,  ,1,f6fce417535a0c2556b402601f363d8a,44-390-8-4
+44,390,,8,4,110.0,110.0,180.50,110.00, 5,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OREHA0010,Rehacythereis sp.(q),PRESENT,  ,1,bd4e653b4a019f7c62f4e8b296c3a6c5,44-390-8-4

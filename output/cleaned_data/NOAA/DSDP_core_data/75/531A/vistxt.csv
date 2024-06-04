@@ -1,2 +1,2 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
-75,531,A,1,1,0.0,27.0,0.00,0.00,0.27,BAR," NANNOFOSSIL FORAMINIFER OOZE,LIMESTONE", DUSKY GRAY YELLOW,,, PEBBLE,,,, SOFT, 00000000,de065f021cb0cbc24743d3a0375aa3da
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+75,531,A,1,1,0.0,27.0,0.00,0.00,0.27,BAR," NANNOFOSSIL FORAMINIFER OOZE,LIMESTONE", DUSKY GRAY YELLOW,,, PEBBLE,,,, SOFT, 00000000,de065f021cb0cbc24743d3a0375aa3da,75-531A-1-1

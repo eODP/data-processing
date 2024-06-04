@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-3,13,A,1,1,119.0,120.0,177.00,178.20, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NCHIP0080,Chiphragmalithus quadratus,PRESENT,  ,1,e19ff84b59ce3d1ea0eb967facc0cb5a
-3,13,A,1,1,119.0,120.0,177.00,178.20, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1,dca6ebb172507b286208669cedac6a4e
-3,13,A,1,1,119.0,120.0,177.00,178.20, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1,98001d855e41ef0fdcc066dd714896d3
-3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NCHIA0101,Chiasmolithus oamaruensis (q),PRESENT,  ,1,df1f3b69a3d60b9ca19495438de82f27
-3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NCHIP0050,Chiphragmalithus cristatus,PRESENT,  ,1,9be09486310eb75efa46c6bdfa8005f9
-3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NDISC0260,Discoaster martinii,PRESENT,  ,1,5a0c82ce21d208796c61feeb2cfbdc06
-3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NDISC0457,Discoaster sublodoensis (q),PRESENT,  ,1,b22f417e2e68e896ca87f1d0019f882f
-3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NRETI0070,Reticulofenestra dictyoda,PRESENT,  ,1,8c3e4a3a6295b0c6dfd28d0dc164f80b
-3,13,A,3,1,141.0,142.0,307.00,308.42, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NMICU0010,Micula decussata,PRESENT,  ,1,81c238c4e66820b97cfc1e1eaa370f72
-3,13,A,3,1,141.0,142.0,307.00,308.42, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NTETR0080,Tetralithus nitidus nitidus,PRESENT,  ,1,28d4709e4c1af802fac202b366c23e0f
-3,13,A,3,1,141.0,142.0,307.00,308.42, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NTETR0090,Tetralithus nitidus trifidus,PRESENT,  ,1,e4837c0095e1ce76dac6b0ab67d62da1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+3,13,A,1,1,119.0,120.0,177.00,178.20, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NCHIP0080,Chiphragmalithus quadratus,PRESENT,  ,1,e19ff84b59ce3d1ea0eb967facc0cb5a,3-13A-1-1
+3,13,A,1,1,119.0,120.0,177.00,178.20, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1,dca6ebb172507b286208669cedac6a4e,3-13A-1-1
+3,13,A,1,1,119.0,120.0,177.00,178.20, 3,"GARTNER,S.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1,98001d855e41ef0fdcc066dd714896d3,3-13A-1-1
+3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NCHIA0101,Chiasmolithus oamaruensis (q),PRESENT,  ,1,df1f3b69a3d60b9ca19495438de82f27,3-13A-1-1
+3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NCHIP0050,Chiphragmalithus cristatus,PRESENT,  ,1,9be09486310eb75efa46c6bdfa8005f9,3-13A-1-1
+3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NDISC0260,Discoaster martinii,PRESENT,  ,1,5a0c82ce21d208796c61feeb2cfbdc06,3-13A-1-1
+3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NDISC0457,Discoaster sublodoensis (q),PRESENT,  ,1,b22f417e2e68e896ca87f1d0019f882f,3-13A-1-1
+3,13,A,1,1,140.0,144.0,177.00,178.42, 5,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NRETI0070,Reticulofenestra dictyoda,PRESENT,  ,1,8c3e4a3a6295b0c6dfd28d0dc164f80b,3-13A-1-1
+3,13,A,3,1,141.0,142.0,307.00,308.42, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NMICU0010,Micula decussata,PRESENT,  ,1,81c238c4e66820b97cfc1e1eaa370f72,3-13A-3-1
+3,13,A,3,1,141.0,142.0,307.00,308.42, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NTETR0080,Tetralithus nitidus nitidus,PRESENT,  ,1,28d4709e4c1af802fac202b366c23e0f,3-13A-3-1
+3,13,A,3,1,141.0,142.0,307.00,308.42, 3,"BUKRY,D.",,3,NANNOFOSSILS,,,,,NO AGE GIVEN,604,NTETR0090,Tetralithus nitidus trifidus,PRESENT,  ,1,e4837c0095e1ce76dac6b0ab67d62da1,3-13A-3-1

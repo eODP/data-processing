@@ -1,4 +1,4 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
-13,134,E,3,CC,0.0,0.0,220.00,220.10,220.10,, SEMISCHIST, -MEDIUM LIGHT GREY,,,,,,, HARD, 00000000,d4fa65ef19f0c283b5d7b9ee95d74343
-13,134,E,S1,1,0.0,20.0,199.00,199.00,199.20,, NANNO OOZE," 5Y5/4-OLIVE,5Y6/1-LIGHT OLIVE GREY",, DISTURBED, ROCK FRAGMENTS,,, 3078 METERS,, 11111210,cc4cb291140f71723bfde162f9d88744
-13,134,E,S2,1,0.0,40.0,109.00,109.00,109.40,, NANNO OOZE," 5Y5/2-OLIVE GREY,10YR4/1-DARK GREY",,, PEBBLE AT 22 CM,,, DARK GREY DOMINANT, PLASTIC, 11111210,0c36cfa1796cb46929f83531095a0118
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+13,134,E,3,CC,0.0,0.0,220.00,220.10,220.10,, SEMISCHIST, -MEDIUM LIGHT GREY,,,,,,, HARD, 00000000,d4fa65ef19f0c283b5d7b9ee95d74343,13-134E-3-CC
+13,134,E,S1,1,0.0,20.0,199.00,199.00,199.20,, NANNO OOZE," 5Y5/4-OLIVE,5Y6/1-LIGHT OLIVE GREY",, DISTURBED, ROCK FRAGMENTS,,, 3078 METERS,, 11111210,cc4cb291140f71723bfde162f9d88744,13-134E-S1-1
+13,134,E,S2,1,0.0,40.0,109.00,109.00,109.40,, NANNO OOZE," 5Y5/2-OLIVE GREY,10YR4/1-DARK GREY",,, PEBBLE AT 22 CM,,, DARK GREY DOMINANT, PLASTIC, 11111210,0c36cfa1796cb46929f83531095a0118,13-134E-S2-1

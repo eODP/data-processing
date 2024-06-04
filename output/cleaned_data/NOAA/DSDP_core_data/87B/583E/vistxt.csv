@@ -1,11 +1,11 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
-87,583,E,1,1,0.0,30.0,150.40,150.40,150.70,CLS, SILTY MUD,,,,,,,, SOFT, 00000000,c98535f730320c1260f34bfca345c986
-87,583,E,1,CC,0.0,15.0,150.40,150.80,150.85,CLS, MUD,,,,,,,, SOFT, 00000000,88228ebd3605b78b0038d4262ca7600d
-87,583,E,5,1,0.0,50.0,189.00,189.00,189.50,COUL," MUD,SAND",,,,,,,, SOFT, 33213000,fd52850329290ef9c8cbe29c4a1ba108
-87,583,E,5,CC,0.0,10.0,189.00,189.60,189.60,COUL, SAND,,,,,,,, SOFT, 33213000,90687d89dff78eb9e87b20d9f0a16197
-87,583,E,H1,1,0.0,150.0,0.00,0.00,1.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 33213000,5e2c7ed20f4ff370c291e2d4885f12f8
-87,583,E,H1,2,0.0,150.0,0.00,1.50,3.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,086b887bf02c0d41f2e95ec14b117bab
-87,583,E,H1,3,0.0,150.0,0.00,3.00,4.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,930a97f517fe81821806619ecff23881
-87,583,E,H1,4,0.0,150.0,0.00,4.50,6.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,692a5afcc5954146ee55f4e44d9685e0
-87,583,E,H1,5,0.0,150.0,0.00,6.00,7.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,c4d158d40360388eb9c9567122edadb9
-87,583,E,H1,6,0.0,150.0,0.00,7.50,9.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,1ef6b4dafcbb57427a91c485b95212e0
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+87,583,E,1,1,0.0,30.0,150.40,150.40,150.70,CLS, SILTY MUD,,,,,,,, SOFT, 00000000,c98535f730320c1260f34bfca345c986,87-583E-1-1
+87,583,E,1,CC,0.0,15.0,150.40,150.80,150.85,CLS, MUD,,,,,,,, SOFT, 00000000,88228ebd3605b78b0038d4262ca7600d,87-583E-1-CC
+87,583,E,5,1,0.0,50.0,189.00,189.00,189.50,COUL," MUD,SAND",,,,,,,, SOFT, 33213000,fd52850329290ef9c8cbe29c4a1ba108,87-583E-5-1
+87,583,E,5,CC,0.0,10.0,189.00,189.60,189.60,COUL, SAND,,,,,,,, SOFT, 33213000,90687d89dff78eb9e87b20d9f0a16197,87-583E-5-CC
+87,583,E,H1,1,0.0,150.0,0.00,0.00,1.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 33213000,5e2c7ed20f4ff370c291e2d4885f12f8,87-583E-H1-1
+87,583,E,H1,2,0.0,150.0,0.00,1.50,3.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,086b887bf02c0d41f2e95ec14b117bab,87-583E-H1-2
+87,583,E,H1,3,0.0,150.0,0.00,3.00,4.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,930a97f517fe81821806619ecff23881,87-583E-H1-3
+87,583,E,H1,4,0.0,150.0,0.00,4.50,6.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,692a5afcc5954146ee55f4e44d9685e0,87-583E-H1-4
+87,583,E,H1,5,0.0,150.0,0.00,6.00,7.50,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,c4d158d40360388eb9c9567122edadb9,87-583E-H1-5
+87,583,E,H1,6,0.0,150.0,0.00,7.50,9.00,AJS, SILTY/SANDY MUD,,,,,,,, SOFT, 00000000,1ef6b4dafcbb57427a91c485b95212e0,87-583E-H1-6

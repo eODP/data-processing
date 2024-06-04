@@ -1,4 +1,4 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
-89,586,C,1,1,0.0,142.0,608.40,608.40,609.82,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,8b0907a7ca7c0affcd8ef0288fe1cfeb
-89,586,C,1,2,0.0,65.0,608.40,609.90,610.55,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210.1221,d75499baf565425d87efd61bddafe188
-89,586,C,1,CC,0.0,14.0,608.40,610.65,610.69,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210.1221,d201aeb6911fcd120cef4514e9243ec0
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+89,586,C,1,1,0.0,142.0,608.40,608.40,609.82,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,8b0907a7ca7c0affcd8ef0288fe1cfeb,89-586C-1-1
+89,586,C,1,2,0.0,65.0,608.40,609.90,610.55,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210.1221,d75499baf565425d87efd61bddafe188,89-586C-1-2
+89,586,C,1,CC,0.0,14.0,608.40,610.65,610.69,MB, FORAM-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210.1221,d201aeb6911fcd120cef4514e9243ec0,89-586C-1-CC

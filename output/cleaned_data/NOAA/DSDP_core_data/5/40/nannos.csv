@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1,38c529c830dc3f095d38d62d20fffece
-5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0135,Discoaster diastypus,RARE,  ,1,ee577782c23c799048db2bfbda1b9235
-5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0245,Discoaster lodoensis,PRESENT,  ,1,519e40385ce64a240fd9c148dfe1b92a
-5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0335,Discoaster ornatus,PRESENT,  ,1,02245f9aa9010966aaf05d8225606e4a
-5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NMART0080,Marthasterites tribrachiatus,PRESENT,  ,1,71c11bfbca6d61a7fd83851a4d2f5c13
-5,40,,19,CC,0.0,0.0,153.00,153.10, 3,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0135,Discoaster diastypus,PRESENT,  ,1,1de3203ee45bd35d09cfca139ecc6758
-5,40,,19,CC,0.0,0.0,153.00,153.10, 3,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0335,Discoaster ornatus,PRESENT,  ,1,a27ea6c8ad8a502530ef315c5b453170
-5,40,,19,CC,0.0,0.0,153.00,153.10, 3,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NMART0022,Marthasterites contortus (q),PRESENT,  ,1,83c05fa8a5b78cb223bbe92d261c7344
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1,38c529c830dc3f095d38d62d20fffece,5-40-18-CC
+5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0135,Discoaster diastypus,RARE,  ,1,ee577782c23c799048db2bfbda1b9235,5-40-18-CC
+5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0245,Discoaster lodoensis,PRESENT,  ,1,519e40385ce64a240fd9c148dfe1b92a,5-40-18-CC
+5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0335,Discoaster ornatus,PRESENT,  ,1,02245f9aa9010966aaf05d8225606e4a,5-40-18-CC
+5,40,,18,CC,0.0,0.0,150.00,150.10, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NMART0080,Marthasterites tribrachiatus,PRESENT,  ,1,71c11bfbca6d61a7fd83851a4d2f5c13,5-40-18-CC
+5,40,,19,CC,0.0,0.0,153.00,153.10, 3,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0135,Discoaster diastypus,PRESENT,  ,1,1de3203ee45bd35d09cfca139ecc6758,5-40-19-CC
+5,40,,19,CC,0.0,0.0,153.00,153.10, 3,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NDISC0335,Discoaster ornatus,PRESENT,  ,1,a27ea6c8ad8a502530ef315c5b453170,5-40-19-CC
+5,40,,19,CC,0.0,0.0,153.00,153.10, 3,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,492,NMART0022,Marthasterites contortus (q),PRESENT,  ,1,83c05fa8a5b78cb223bbe92d261c7344,5-40-19-CC

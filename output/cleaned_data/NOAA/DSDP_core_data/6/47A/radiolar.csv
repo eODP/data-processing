@@ -1,11 +1,11 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,FEW,  ,1,c85c7ddf2d30482ae58a59017af190ae
-6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,FEW,  ,1,308caeffbdf5aa6e71d2402ab8db13f5
-6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RLITX0010,Lithopera bacca,FEW,  ,1,2a5359bd56da75d46b6c1df4f7a92758
-6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1,0fe70264ac19fcdb99c9e505a5f29331
-6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,COMMON,  ,1,b116b9050a559a18a071e7b5142e20cc
-6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,ac8554d8720eebe5d795d5f5f0fb92a1
-6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1,a8c8ae89ef7e5cfde5c9206a6a4cbad2
-6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,COMMON,  ,1,1a54cc5c68b9f453c2d66d5aa297da08
-6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,6e89ae91b41b032c73294bbccac7c85d
-6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1,0cf4dea1a2caae46baa1ae7f92cc9970
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,FEW,  ,1,c85c7ddf2d30482ae58a59017af190ae,6-47A-1-1
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,FEW,  ,1,308caeffbdf5aa6e71d2402ab8db13f5,6-47A-1-1
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RLITX0010,Lithopera bacca,FEW,  ,1,2a5359bd56da75d46b6c1df4f7a92758,6-47A-1-1
+6,47,A,1,1,0.0,1.0,96.00,96.01, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1,0fe70264ac19fcdb99c9e505a5f29331,6-47A-1-1
+6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,COMMON,  ,1,b116b9050a559a18a071e7b5142e20cc,6-47A-1-1
+6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,ac8554d8720eebe5d795d5f5f0fb92a1,6-47A-1-1
+6,47,A,1,1,145.0,150.0,96.00,97.47, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1,a8c8ae89ef7e5cfde5c9206a6a4cbad2,6-47A-1-1
+6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RDRUP0020,Druppatractus acquilonus,COMMON,  ,1,1a54cc5c68b9f453c2d66d5aa297da08,6-47A-1-CC
+6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,6e89ae91b41b032c73294bbccac7c85d,6-47A-1-CC
+6,47,A,1,CC,0.0,0.0,96.00,99.10, 3,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1071,RSTIO0070,Stichocorys peregrina,COMMON,  ,1,0cf4dea1a2caae46baa1ae7f92cc9970,6-47A-1-CC

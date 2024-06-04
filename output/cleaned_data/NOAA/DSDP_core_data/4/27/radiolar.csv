@@ -1,21 +1,21 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RARTP0030,Artophormis gracilis,TRACE,  ,1,b8c59e8e3da9a66efddd977d4bf90f2e
-4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITL0020,Lithocyclia angusta,FEW,  ,1,919027af0d2546b3e64973f6bad35945
-4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEI0040,Theocyrtis tuberosa,COMMON,  ,1,51e4a8a9b8e28776442d3f6020baa222
-4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEM0160,Theocampe mongolfieri,FEW,  ,1,ac8591cac70c89389c56b551270d7d01
-4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0080,Thyrsocyrtis rhizodon,COMMON,  ,1,3e7b21df0af506a20f012f6ca0761a7c
-4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RARTP0030,Artophormis gracilis,TRACE,  ,1,dda355640f8c8ddca680e72b7cfc7563
-4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RCYCL0040,Cycladophora turris,RARE,  ,1,a13a7685c1e98ec9cb211e442f238ecd
-4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITL0020,Lithocyclia angusta,RARE,  ,1,98b137689bf0b22c42d3174a1523dd0d
-4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEI0040,Theocyrtis tuberosa,COMMON,  ,1,f237f590a4ec8cbbb4e8f777fbe728a1
-4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEM0160,Theocampe mongolfieri,FEW,  ,1,6b6c2f1278fec60f7a85c106a8b7d0b8
-4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0080,Thyrsocyrtis rhizodon,COMMON,  ,1,0ee7045395dd4ab5afce046488d84288
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RARTC0010,Artocapsa bicornis,TRACE,  ,1,54915e29234d3cb72f019cdbe39eaedf
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RCYCL0030,Cycladophora hispida,FEW,  ,1,3d40a08e2a16a4515caeec4514c33735
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,REUSY0020,Eusyringium fistuligerum,COMMON,  ,1,26d863a1fbc9799fdd87b4302a169450
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITL0070,Lithocyclia ocellus group,COMMON,  ,1,186d989ed926129e074e3ba4383c9cb4
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITY0060,Lithochytris vespertilio,COMMON,  ,1,0dec86803e59e6e9157588cd0b48e5c8
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RPODY0160,Podocyrtis mitra,ABUNDANT,  ,1,c748d4aab6f68daa4abb31f922e63a7c
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RSETC0020,Sethochytris triconiscus,FEW,  ,1,2c346d6a887b05a13453f5228427f9ef
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0080,Thyrsocyrtis rhizodon,COMMON,  ,1,3ed4fca9d20f5a1fc5db5167ddd0ca2d
-4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0110,Thyrsocyrtis triacantha,COMMON,  ,1,cdd99b8d0be073b0569ea655e78ae033
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RARTP0030,Artophormis gracilis,TRACE,  ,1,b8c59e8e3da9a66efddd977d4bf90f2e,4-27-6-2
+4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITL0020,Lithocyclia angusta,FEW,  ,1,919027af0d2546b3e64973f6bad35945,4-27-6-2
+4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEI0040,Theocyrtis tuberosa,COMMON,  ,1,51e4a8a9b8e28776442d3f6020baa222,4-27-6-2
+4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEM0160,Theocampe mongolfieri,FEW,  ,1,ac8591cac70c89389c56b551270d7d01,4-27-6-2
+4,27,,6,2,77.0,78.0,454.00,456.28, 5,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0080,Thyrsocyrtis rhizodon,COMMON,  ,1,3e7b21df0af506a20f012f6ca0761a7c,4-27-6-2
+4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RARTP0030,Artophormis gracilis,TRACE,  ,1,dda355640f8c8ddca680e72b7cfc7563,4-27-6-3
+4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RCYCL0040,Cycladophora turris,RARE,  ,1,a13a7685c1e98ec9cb211e442f238ecd,4-27-6-3
+4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITL0020,Lithocyclia angusta,RARE,  ,1,98b137689bf0b22c42d3174a1523dd0d,4-27-6-3
+4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEI0040,Theocyrtis tuberosa,COMMON,  ,1,f237f590a4ec8cbbb4e8f777fbe728a1,4-27-6-3
+4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHEM0160,Theocampe mongolfieri,FEW,  ,1,6b6c2f1278fec60f7a85c106a8b7d0b8,4-27-6-3
+4,27,,6,3,75.0,77.0,454.00,457.76, 6,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0080,Thyrsocyrtis rhizodon,COMMON,  ,1,0ee7045395dd4ab5afce046488d84288,4-27-6-3
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RARTC0010,Artocapsa bicornis,TRACE,  ,1,54915e29234d3cb72f019cdbe39eaedf,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RCYCL0030,Cycladophora hispida,FEW,  ,1,3d40a08e2a16a4515caeec4514c33735,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,REUSY0020,Eusyringium fistuligerum,COMMON,  ,1,26d863a1fbc9799fdd87b4302a169450,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITL0070,Lithocyclia ocellus group,COMMON,  ,1,186d989ed926129e074e3ba4383c9cb4,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RLITY0060,Lithochytris vespertilio,COMMON,  ,1,0dec86803e59e6e9157588cd0b48e5c8,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RPODY0160,Podocyrtis mitra,ABUNDANT,  ,1,c748d4aab6f68daa4abb31f922e63a7c,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RSETC0020,Sethochytris triconiscus,FEW,  ,1,2c346d6a887b05a13453f5228427f9ef,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0080,Thyrsocyrtis rhizodon,COMMON,  ,1,3ed4fca9d20f5a1fc5db5167ddd0ca2d,4-27-7-1
+4,27,,7,1,0.0,1.0,474.00,474.01, 9,"RIEDEL,W.",,4,RADIOLARIA,,,,,NO AGE GIVEN,517,RTHYR0110,Thyrsocyrtis triacantha,COMMON,  ,1,cdd99b8d0be073b0569ea655e78ae033,4-27-7-1

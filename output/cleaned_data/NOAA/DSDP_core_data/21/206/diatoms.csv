@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-21,206,,27,CC,0.0,0.0,237.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,COMMON,  ,1,2b4e47bed665d0868152650a3c35c370
-21,206,,28,CC,0.0,0.0,250.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,ABUNDANT,  ,1,255fa240770af43f22daa47b62fe5ed4
-21,206,,29,CC,0.0,0.0,259.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,ABUNDANT,  ,1,c3847b969672dd9ace4423b41f15a4cc
-21,206,,30,CC,0.0,0.0,268.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,COMMON,  ,1,0c544873dbdc6224409368fcd41e47f5
-21,206,,31,CC,0.0,0.0,277.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,COMMON,  ,1,741ccb5a46d588a4f7c03c8c24214c95
-21,206,,32,CC,0.0,0.0,286.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,ABUNDANT,  ,1,a02107ea01c9cb7affdfc2d81e48f002
-21,206,,42,CC,0.0,0.0,380.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0460,Coscinodiscus lewisianus similis,RARE,  ,1,cc7aeaa67e2305f36a602b141b1ebd92
-21,206,,43,CC,0.0,0.0,389.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0460,Coscinodiscus lewisianus similis,RARE,  ,1,34b796f3babc77622c88c97ec4387f0c
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+21,206,,27,CC,0.0,0.0,237.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,COMMON,  ,1,2b4e47bed665d0868152650a3c35c370,21-206-27-CC
+21,206,,28,CC,0.0,0.0,250.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,ABUNDANT,  ,1,255fa240770af43f22daa47b62fe5ed4,21-206-28-CC
+21,206,,29,CC,0.0,0.0,259.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,ABUNDANT,  ,1,c3847b969672dd9ace4423b41f15a4cc,21-206-29-CC
+21,206,,30,CC,0.0,0.0,268.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,COMMON,  ,1,0c544873dbdc6224409368fcd41e47f5,21-206-30-CC
+21,206,,31,CC,0.0,0.0,277.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,COMMON,  ,1,741ccb5a46d588a4f7c03c8c24214c95,21-206-31-CC
+21,206,,32,CC,0.0,0.0,286.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0450,Coscinodiscus lewisianus,ABUNDANT,  ,1,a02107ea01c9cb7affdfc2d81e48f002,21-206-32-CC
+21,206,,42,CC,0.0,0.0,380.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0460,Coscinodiscus lewisianus similis,RARE,  ,1,cc7aeaa67e2305f36a602b141b1ebd92,21-206-42-CC
+21,206,,43,CC,0.0,0.0,389.00,0.00, 1,"DUMITRICA,P.",10/1973,21,DIATOMS,,,,,NO AGE GIVEN,838,DCOSC0460,Coscinodiscus lewisianus similis,RARE,  ,1,34b796f3babc77622c88c97ec4387f0c,21-206-43-CC

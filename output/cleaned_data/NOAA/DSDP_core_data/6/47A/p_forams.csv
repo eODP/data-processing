@@ -1,11 +1,11 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0019,Globorotalia acutispira (q),PRESENT,  ,1,294e1a4690aaab64e22886d4404aee86
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0098,Globorotalia compressa,PRESENT,  ,1,652dd0cdd163eef95b1e72b5599de009
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0354,Globorotalia occlusa,PRESENT,  ,1,85c604763c9addd94c8c81fdca580397
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0412,Globorotalia praecursoria,PRESENT,  ,1,0235059d220974f420869edd23b4f6a4
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0430,Globorotalia pseudobulloides,PRESENT,  ,1,1c9b64bc06e7fa8875dbe6258138ce64
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0464,Globorotalia pusilla pusilla,PRESENT,  ,1,969c00ccd6a2b1830ce296ce49043c7e
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0538,Globorotalia trinidadensis,PRESENT,  ,1,ee0e8ee1ff0b27efc874380bc5053951
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1,7dcf3e30b11ce4ccb940d7b239253a42
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOG0735,Globigerina spiralis,PRESENT,  ,1,e18f36552edb5d27aad07b3f4bd1b5fa
-6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FTURB0500,Turborotalia unicinata,PRESENT,  ,1,c7ca631f0bd45836332de57465f03b86
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0019,Globorotalia acutispira (q),PRESENT,  ,1,294e1a4690aaab64e22886d4404aee86,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0098,Globorotalia compressa,PRESENT,  ,1,652dd0cdd163eef95b1e72b5599de009,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0354,Globorotalia occlusa,PRESENT,  ,1,85c604763c9addd94c8c81fdca580397,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0412,Globorotalia praecursoria,PRESENT,  ,1,0235059d220974f420869edd23b4f6a4,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0430,Globorotalia pseudobulloides,PRESENT,  ,1,1c9b64bc06e7fa8875dbe6258138ce64,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0464,Globorotalia pusilla pusilla,PRESENT,  ,1,969c00ccd6a2b1830ce296ce49043c7e,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0538,Globorotalia trinidadensis,PRESENT,  ,1,ee0e8ee1ff0b27efc874380bc5053951,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1,7dcf3e30b11ce4ccb940d7b239253a42,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FGLOG0735,Globigerina spiralis,PRESENT,  ,1,e18f36552edb5d27aad07b3f4bd1b5fa,6-47A-1-2
+6,47,A,1,2,80.0,81.0,96.00,98.31,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1018,FTURB0500,Turborotalia unicinata,PRESENT,  ,1,c7ca631f0bd45836332de57465f03b86,6-47A-1-2

@@ -1,21 +1,21 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCHIA0040,Chiasmolithus consuetus,PRESENT,  ,1,5e45a0ba2b26bb462cb9f08ebd4c5968
-9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NDISC0041,Discoaster barbadiensis (q),PRESENT,  ,1,54bd8444e8a8fb427ca992d2006d5ce3
-9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NHELI0221,Helicopontosphaera sp.,PRESENT,  ,1,b3f3ae88bd4730e8cde4c3ae4bad96b8
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0040,Cyclococcolithina formosa,PRESENT,  ,1,37cc0f48c4dd2adf3df93cf63c56f966
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1,0913b2134065ae6820fc9a4cb5e7ac6f
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0080,Discoaster brouweri,PRESENT,  ,1,275c7dd636e9b8af6f01b8a4a68e845e
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0127,Discoaster deflandrei (q),PRESENT,  ,1,122e6de11d224912bde8e310704f4cc5
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0140,Discoaster dilatus,PRESENT,  ,1,5a48a6fd84a96cd40da01f76f8d5405a
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0351,Discoaster pentaradiatus (q),PRESENT,  ,1,3be45011f1236a7f73dc8ef5ca4c6acd
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,5da391be850f599d463f67b7efdff345
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1,c06a205b0ae7f9ba6c220cd580f9298c
-9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NSPHN0215,Sphenolithus sp.,PRESENT,  ,1,e5e50143e9564522980cd63c98719437
-9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1,14da0063e4990f68ea873b7242522be8
-9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NDISC0200,Discoaster hamatus,PRESENT,  ,1,38bb664d99447795cc8ff3e988e8396b
-9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,637db20e55083a31344fa7788392fab3
-9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NSPHN0010,Sphenolithus abies,PRESENT,  ,1,bdee1d1a0fd6794d5863cbc84dd1329b
-9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NBRAM0010,Bramletteius serraculoides,PRESENT,  ,1,44c86b9862bc4eba6864116924b1c77a
-9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCOCO0100,Coccolithus eopelagicus,PRESENT,  ,1,7698e823076847ccc93972be04e4103b
-9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0115,Cyclococcolithina neogammation,PRESENT,  ,1,9ce17a210a0e559066b5a1daf42e690c
-9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0127,Discoaster deflandrei (q),PRESENT,  ,1,10f7450b4176bb8afb5d31593ecff5fd
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCHIA0040,Chiasmolithus consuetus,PRESENT,  ,1,5e45a0ba2b26bb462cb9f08ebd4c5968,9-76-1-5
+9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NDISC0041,Discoaster barbadiensis (q),PRESENT,  ,1,54bd8444e8a8fb427ca992d2006d5ce3,9-76-1-5
+9,76,,1,5,5.0,6.0,0.00,6.06, 3,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NHELI0221,Helicopontosphaera sp.,PRESENT,  ,1,b3f3ae88bd4730e8cde4c3ae4bad96b8,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0040,Cyclococcolithina formosa,PRESENT,  ,1,37cc0f48c4dd2adf3df93cf63c56f966,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1,0913b2134065ae6820fc9a4cb5e7ac6f,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0080,Discoaster brouweri,PRESENT,  ,1,275c7dd636e9b8af6f01b8a4a68e845e,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0127,Discoaster deflandrei (q),PRESENT,  ,1,122e6de11d224912bde8e310704f4cc5,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0140,Discoaster dilatus,PRESENT,  ,1,5a48a6fd84a96cd40da01f76f8d5405a,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0351,Discoaster pentaradiatus (q),PRESENT,  ,1,3be45011f1236a7f73dc8ef5ca4c6acd,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,5da391be850f599d463f67b7efdff345,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1,c06a205b0ae7f9ba6c220cd580f9298c,9-76-1-5
+9,76,,1,5,42.0,43.0,0.00,6.43, 9,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NSPHN0215,Sphenolithus sp.,PRESENT,  ,1,e5e50143e9564522980cd63c98719437,9-76-1-5
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1,14da0063e4990f68ea873b7242522be8,9-76-1-6
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NDISC0200,Discoaster hamatus,PRESENT,  ,1,38bb664d99447795cc8ff3e988e8396b,9-76-1-6
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,637db20e55083a31344fa7788392fab3,9-76-1-6
+9,76,,1,6,4.0,5.0,0.00,7.55, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NSPHN0010,Sphenolithus abies,PRESENT,  ,1,bdee1d1a0fd6794d5863cbc84dd1329b,9-76-1-6
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NBRAM0010,Bramletteius serraculoides,PRESENT,  ,1,44c86b9862bc4eba6864116924b1c77a,9-76-1-6
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCOCO0100,Coccolithus eopelagicus,PRESENT,  ,1,7698e823076847ccc93972be04e4103b,9-76-1-6
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NCYCO0115,Cyclococcolithina neogammation,PRESENT,  ,1,9ce17a210a0e559066b5a1daf42e690c,9-76-1-6
+9,76,,1,6,62.0,63.0,0.00,8.13, 4,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,822,NDISC0127,Discoaster deflandrei (q),PRESENT,  ,1,10f7450b4176bb8afb5d31593ecff5fd,9-76-1-6

@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0040,Asterolampra grevillei,PRESENT,  ,1,1dfbe5e887bf240fe2f4d31a3368c99c
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,RARE,  ,1,63382a78bd28ff4ade18eb4bcb897fb3
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0100,Asterolampra vulgaris,FEW,  ,1,51b586c74832474949ca536d04a47969
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,RARE,  ,1,c45e5ef7465329b864a6d80235f94ca8
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0214,Coscinodiscus demergitus,RARE,  ,1,8abf9c400a9455770d8ed3a1efb71999
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0225,Coscinodiscus descrescens,RARE,  ,1,c533d8f858c6107360088dcb5f2341f1
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0660,Coscinodiscus oligocenicus,ABUNDANT,  ,1,9a01ca7961f86245973626d4aea0f34f
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,1,d98124613b28b86edf8faeb018bb9a6f
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,RARE,  ,1,9ce478dbf630319324c7d5d9162e7ac0
-7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DLIOS0010,Liostephania sp.,RARE,  ,1,0c7731072ec6635a359ae37214564cbc
-7,64,A,10,1,64.0,68.0,969.00,969.66, 1,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DLIOS0010,Liostephania sp.,RARE,  ,1,2ebd2abb2b73aba433baa179cc285fe7
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0040,Asterolampra grevillei,PRESENT,  ,1,1dfbe5e887bf240fe2f4d31a3368c99c,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,RARE,  ,1,63382a78bd28ff4ade18eb4bcb897fb3,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0100,Asterolampra vulgaris,FEW,  ,1,51b586c74832474949ca536d04a47969,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,RARE,  ,1,c45e5ef7465329b864a6d80235f94ca8,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0214,Coscinodiscus demergitus,RARE,  ,1,8abf9c400a9455770d8ed3a1efb71999,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0225,Coscinodiscus descrescens,RARE,  ,1,c533d8f858c6107360088dcb5f2341f1,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0660,Coscinodiscus oligocenicus,ABUNDANT,  ,1,9a01ca7961f86245973626d4aea0f34f,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,1,d98124613b28b86edf8faeb018bb9a6f,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,RARE,  ,1,9ce478dbf630319324c7d5d9162e7ac0,7-64A-9-1
+7,64,A,9,1,70.0,74.0,911.00,911.72,10,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DLIOS0010,Liostephania sp.,RARE,  ,1,0c7731072ec6635a359ae37214564cbc,7-64A-9-1
+7,64,A,10,1,64.0,68.0,969.00,969.66, 1,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DLIOS0010,Liostephania sp.,RARE,  ,1,2ebd2abb2b73aba433baa179cc285fe7,7-64A-10-1

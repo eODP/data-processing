@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,RARE,  ,1,d5cf820fa5ac53a6d72418f2f9cfe477
-6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,cb5558209f05672ed0e97fb17d907de1
-6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0190,Eucyrtidium tumidulum,FEW,  ,1,573150bea8acc7a134f32471506c8748
-6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RLITX0010,Lithopera bacca,RARE,  ,1,221adcfc133c5d4fceac021cb5f3a198
-6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RSTYA0090,Stylatractus universus,RARE,  ,1,6164cf0c2bc9e8f60f32a3dce25523f9
-6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,FEW,  ,1,d54e6aef90e5c8f2de9c47269ebec67c
-6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,6b3427a4d758c2d20832db94d413d450
-6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0190,Eucyrtidium tumidulum,COMMON,  ,1,c74d29ee5493c219225ac71440574f41
-6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RLITX0010,Lithopera bacca,RARE,  ,1,4f4b8e705d2383755132ed66cdf9290c
-6,49,,1,4,11.0,13.0,0.00,4.62, 2,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,RARE,  ,1,caa397bbbd83e8df24dbef68404bd524
-6,49,,1,4,11.0,13.0,0.00,4.62, 2,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,bae6104a4e9e3cb833e8c998c78477ef
-6,49,,1,CC,0.0,0.0,0.00,9.10, 1,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,RARE,  ,1,129ed1b78eb03332a5657955ca72f27a
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,RARE,  ,1,d5cf820fa5ac53a6d72418f2f9cfe477,6-49-1-1
+6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,cb5558209f05672ed0e97fb17d907de1,6-49-1-1
+6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0190,Eucyrtidium tumidulum,FEW,  ,1,573150bea8acc7a134f32471506c8748,6-49-1-1
+6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RLITX0010,Lithopera bacca,RARE,  ,1,221adcfc133c5d4fceac021cb5f3a198,6-49-1-1
+6,49,,1,1,0.0,1.0,0.00,0.01, 5,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RSTYA0090,Stylatractus universus,RARE,  ,1,6164cf0c2bc9e8f60f32a3dce25523f9,6-49-1-1
+6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,FEW,  ,1,d54e6aef90e5c8f2de9c47269ebec67c,6-49-1-1
+6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,6b3427a4d758c2d20832db94d413d450,6-49-1-1
+6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0190,Eucyrtidium tumidulum,COMMON,  ,1,c74d29ee5493c219225ac71440574f41,6-49-1-1
+6,49,,1,1,30.0,32.0,0.00,0.31, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RLITX0010,Lithopera bacca,RARE,  ,1,4f4b8e705d2383755132ed66cdf9290c,6-49-1-1
+6,49,,1,4,11.0,13.0,0.00,4.62, 2,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,RARE,  ,1,caa397bbbd83e8df24dbef68404bd524,6-49-1-4
+6,49,,1,4,11.0,13.0,0.00,4.62, 2,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,REUCY0050,Eucyrtidium calvertense,RARE,  ,1,bae6104a4e9e3cb833e8c998c78477ef,6-49-1-4
+6,49,,1,CC,0.0,0.0,0.00,9.10, 1,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1073,RDRUP0020,Druppatractus acquilonus,RARE,  ,1,129ed1b78eb03332a5657955ca72f27a,6-49-1-CC

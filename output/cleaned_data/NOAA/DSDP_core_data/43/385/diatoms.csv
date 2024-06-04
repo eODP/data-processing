@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
-43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DACTI0144,Actinocyclus lanceolatus,PRESENT,  ,1,930c15e4269456c7f0f801748bdb6675
-43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DAULA0010,Aulacodiscus sp.,PRESENT,  ,1,152f1d2777e097c1a78668eecffaca96
-43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCOSC0950,Coscinodiscus vigilans,PRESENT,  ,1,6c830abc16c3337989cd8094fb155db5
-43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCUSS0035,Cussia paleacea (q),PRESENT,  ,1,ae49e18166acf2ae0c171a2f130d6474
-43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DGONI0020,Goniothecium decoratum,PRESENT,  ,1,41f1e68fd050c40fc033a2e0e41965d0
-43,385,,4,3,130.0,132.0,136.50,140.81, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCOSC0012,Coscinodiscus sp.(q),PRESENT,  ,1,523f6eec9a3da03299ecfcb1858ca4ef
-43,385,,6,CC,0.0,0.0,155.60,155.70, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCOSC0012,Coscinodiscus sp.(q),PRESENT,  ,1,f690b00771adc5f96b23d165d5fa740c
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DACTI0144,Actinocyclus lanceolatus,PRESENT,  ,1,930c15e4269456c7f0f801748bdb6675,43-385-2-6
+43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DAULA0010,Aulacodiscus sp.,PRESENT,  ,1,152f1d2777e097c1a78668eecffaca96,43-385-2-6
+43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCOSC0950,Coscinodiscus vigilans,PRESENT,  ,1,6c830abc16c3337989cd8094fb155db5,43-385-2-6
+43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCUSS0035,Cussia paleacea (q),PRESENT,  ,1,ae49e18166acf2ae0c171a2f130d6474,43-385-2-6
+43,385,,2,6,80.0,82.0,60.40,69.16, 5,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DGONI0020,Goniothecium decoratum,PRESENT,  ,1,41f1e68fd050c40fc033a2e0e41965d0,43-385-2-6
+43,385,,4,3,130.0,132.0,136.50,140.81, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCOSC0012,Coscinodiscus sp.(q),PRESENT,  ,1,523f6eec9a3da03299ecfcb1858ca4ef,43-385-4-3
+43,385,,6,CC,0.0,0.0,155.60,155.70, 1,"BUKRY,D.",,44,DIATOMS,,,,,NO AGE GIVEN,804,DCOSC0012,Coscinodiscus sp.(q),PRESENT,  ,1,f690b00771adc5f96b23d165d5fa740c,43-385-6-CC
