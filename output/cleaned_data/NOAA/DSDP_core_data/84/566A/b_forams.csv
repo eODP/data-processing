@@ -1,4 +1,4 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 3,MCDOUGALL,05/1985,84,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,401,BBULI0010,Bulimina sp.,33%,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 3,MCDOUGALL,05/1985,84,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,401,BCIBI0164,Cibicides hemingwayae,33%,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 3,MCDOUGALL,05/1985,84,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,401,BGLOB0060,Globobulimina pacifica,33%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 3,MCDOUGALL,05/1985,84,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,401,BBULI0010,Bulimina sp.,33%,  ,1,1bc91cd0ebdc0af3e46a85e41a5d8c8a
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 3,MCDOUGALL,05/1985,84,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,401,BCIBI0164,Cibicides hemingwayae,33%,  ,1,42d91a1c8da1df67b1592f7b5231998e
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 3,MCDOUGALL,05/1985,84,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,401,BGLOB0060,Globobulimina pacifica,33%,  ,1,3faf90e6606e22f06b0218205f352a20

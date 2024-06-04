@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-91,596,A,1,1,0.0,150.0,67.00,67.00,68.50,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000
-91,596,A,1,2,0.0,150.0,67.00,68.50,70.00,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000
-91,596,A,1,3,0.0,150.0,67.00,70.00,71.50,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000
-91,596,A,1,4,0.0,150.0,67.00,71.50,73.00,WM, ZEOLITIC METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000
-91,596,A,1,5,0.0,150.0,67.00,73.00,74.50,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000
-91,596,A,1,6,0.0,70.0,67.00,74.50,75.20,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000
-91,596,A,1,CC,0.0,25.0,67.00,75.31,75.46,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 31210000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+91,596,A,1,1,0.0,150.0,67.00,67.00,68.50,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000,4e6d8139fbe7e593366dfaf970ec22a8
+91,596,A,1,2,0.0,150.0,67.00,68.50,70.00,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000,c528d84afcde0b14f412547fd98a56bd
+91,596,A,1,3,0.0,150.0,67.00,70.00,71.50,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000,256e0b5b55c41fe9c0316ad456a59406
+91,596,A,1,4,0.0,150.0,67.00,71.50,73.00,WM, ZEOLITIC METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000,83c65042c4b0ec1b294ab4147d0bedd0
+91,596,A,1,5,0.0,150.0,67.00,73.00,74.50,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000,6840f096251f9fe30e521340d6bcf786
+91,596,A,1,6,0.0,70.0,67.00,74.50,75.20,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 00000000,77d311635693f87f19b7f05b8d898e6d
+91,596,A,1,CC,0.0,25.0,67.00,75.31,75.46,WM, METALLIFEROUS PELAGIC CLAY,,,,,,,, FIRM, 31210000,a56e0b076dc8b846cc23f1c6d60bc914

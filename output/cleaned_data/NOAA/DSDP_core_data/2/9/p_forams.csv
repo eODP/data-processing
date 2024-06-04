@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0246,Globorotalia inflata,PRESENT,  ,1
-2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0562,Globorotalia tumida tumida,PRESENT,  ,1
-2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1
-2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOG0553,Globigerina oscitans,PRESENT,  ,1
-2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0010,Globorotalia acostaensis humerosa,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0118,Globorotalia crassaformis,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0246,Globorotalia inflata,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0527,Globorotalia tosaensis s.l.,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0550,Globorotalia truncatulinoides truncatulinoides,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1
-2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FPULL0040,Pulleniatina obliquiloculata obliquiloculata,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0246,Globorotalia inflata,PRESENT,  ,1,34291c3e6ae3ab1a9e526ccd728a2903
+2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0562,Globorotalia tumida tumida,PRESENT,  ,1,976867498e7ebca35b4a391e1bde36c9
+2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1,f137c7d20ea2acc51227425ab9b826a3
+2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOG0553,Globigerina oscitans,PRESENT,  ,1,94d797263f2269a1027a884a07852d84
+2,9,,5,2,69.0,71.0,31.40,33.60, 5,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1,20af1b53f6d446a6e90d6f78f2a0c043
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0010,Globorotalia acostaensis humerosa,PRESENT,  ,1,328d3e69df908d357579cb6441fb167e
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0118,Globorotalia crassaformis,PRESENT,  ,1,55030e89d45dedec59158a4c551df470
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0246,Globorotalia inflata,PRESENT,  ,1,fca499d658cce2d42eb573cc9efa06e8
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0527,Globorotalia tosaensis s.l.,PRESENT,  ,1,c3d98681917d02ac3bf996b63b780d5b
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOA0550,Globorotalia truncatulinoides truncatulinoides,PRESENT,  ,1,0043e8d784312f84f9c99928aed70c21
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1,34d33a96c6303f0eae7bf50a0260fa48
+2,9,,5,4,69.0,71.0,31.40,36.60, 7,"BUKRY,D.",,2,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,360,FPULL0040,Pulleniatina obliquiloculata obliquiloculata,PRESENT,  ,1,4476d33ea88ed4adb2459d3d96aa6a6e

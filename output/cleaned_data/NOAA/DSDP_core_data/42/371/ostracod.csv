@@ -1,15 +1,15 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-42,371,,1,2,103.0,109.0,0.00,2.56, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OBYTO0015,Bythocypris lucida,98%,  ,1
-42,371,,1,2,103.0,109.0,0.00,2.56, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OMACR0010,Macrocypris sp.,2%,  ,1
-42,371,,2,3,50.0,56.0,199.50,203.03, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,50%,  ,1
-42,371,,2,3,50.0,56.0,199.50,203.03, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTP0010,Cytheropteron sp.,50%,  ,1
-42,371,,3,3,61.0,67.0,361.00,364.64, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OLEPT0010,Leptocythere sp.,50%,  ,1
-42,371,,3,3,61.0,67.0,361.00,364.64, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTH0010,Cythereis sp.,50%,  ,1
-42,371,,3,6,38.0,44.0,361.00,368.91, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,11%,  ,1
-42,371,,3,6,38.0,44.0,361.00,368.91, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,89%,  ,1
-42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OMACR0010,Macrocypris sp.,11%,  ,1
-42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,44%,  ,1
-42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTP0010,Cytheropteron sp.,11%,  ,1
-42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,33%,  ,1
-42,371,,5,4,52.0,57.0,465.50,471.00, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,83%,  ,1
-42,371,,5,4,52.0,57.0,465.50,471.00, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,17%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+42,371,,1,2,103.0,109.0,0.00,2.56, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OBYTO0015,Bythocypris lucida,98%,  ,1,03805c8d84b935d0ff991a437e2d1eae
+42,371,,1,2,103.0,109.0,0.00,2.56, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OMACR0010,Macrocypris sp.,2%,  ,1,856953dec3fd2af3bb4a9953fab3f5aa
+42,371,,2,3,50.0,56.0,199.50,203.03, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,50%,  ,1,89bbea8938be0bf4d60f753ee01d08ef
+42,371,,2,3,50.0,56.0,199.50,203.03, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTP0010,Cytheropteron sp.,50%,  ,1,00603e8f3f31458aa1431c093387ecfc
+42,371,,3,3,61.0,67.0,361.00,364.64, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OLEPT0010,Leptocythere sp.,50%,  ,1,71f76c7f908dd6a1178eb1d0f836fea0
+42,371,,3,3,61.0,67.0,361.00,364.64, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTH0010,Cythereis sp.,50%,  ,1,a2057fe24c3687a96761408a1c75ffd3
+42,371,,3,6,38.0,44.0,361.00,368.91, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,11%,  ,1,9aeb0fe9a364eaa7426356c47a76867c
+42,371,,3,6,38.0,44.0,361.00,368.91, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,89%,  ,1,cfa046b55a2dee0ae96baa843f458fe7
+42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OMACR0010,Macrocypris sp.,11%,  ,1,04fc6f084c274678483643273677b6fa
+42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,44%,  ,1,4909295230e9dd676423144f046b573c
+42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYTP0010,Cytheropteron sp.,11%,  ,1,3636e8215f5560410346ae291048de81
+42,371,,4,4,70.0,76.0,408.50,413.73, 4,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,33%,  ,1,d7f4fbff1e6219c5080e5c43918274b7
+42,371,,5,4,52.0,57.0,465.50,471.00, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OHENR0020,Henryhowella asperrima,83%,  ,1,a9c1ca5e6412cf76a24ffd65a9da9f3a
+42,371,,5,4,52.0,57.0,465.50,471.00, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0010,Krithe sp.,17%,  ,1,adfb34849a108bf2dc02680767db0a93

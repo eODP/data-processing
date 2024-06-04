@@ -1,3 +1,3 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-44,391,,1,1,40.0,150.0,0.00,0.40,1.50,, MARLY NANNO OOZE, 5Y4/1-OLIVE GREY,, COMPLETELY D EFORMED,,,,, SOFT, 00000000
-44,391,,1,2,20.0,150.0,0.00,1.70,3.00,, MARLY NANNO OOZE, 5Y4/1-OLIVE GREY,, COMPLETELY D EFORMED,,,,, SOFT, 12211210.3450
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+44,391,,1,1,40.0,150.0,0.00,0.40,1.50,, MARLY NANNO OOZE, 5Y4/1-OLIVE GREY,, COMPLETELY D EFORMED,,,,, SOFT, 00000000,2a397bb0951b5b0c2df9d183c8647528
+44,391,,1,2,20.0,150.0,0.00,1.70,3.00,, MARLY NANNO OOZE, 5Y4/1-OLIVE GREY,, COMPLETELY D EFORMED,,,,, SOFT, 12211210.3450,42d57030e321ee182e3c8fb754ecbeba

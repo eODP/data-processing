@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-6,57,B,1,1,10.0,150.0,34.70,34.80,36.20,, NANNO CHALK OOZE, 7.5YR8/1-WHITE, PUMICE INCLUSI ON AT 50 CM, ALL INTENSELY DEFORMED,,,, VOID 0-10 CM," COMPACT 10-75 AND 125-150 CM,SOFT 75-125 CM", 00000000 11121210
-6,57,B,1,2,0.0,150.0,34.70,36.20,37.70,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11121210
-6,57,B,1,3,0.0,150.0,34.70,37.70,39.20,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210
-6,57,B,1,4,0.0,150.0,34.70,39.20,40.70,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210
-6,57,B,1,5,0.0,150.0,34.70,40.70,42.20,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210
-6,57,B,1,6,0.0,150.0,34.70,42.20,43.70,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+6,57,B,1,1,10.0,150.0,34.70,34.80,36.20,, NANNO CHALK OOZE, 7.5YR8/1-WHITE, PUMICE INCLUSI ON AT 50 CM, ALL INTENSELY DEFORMED,,,, VOID 0-10 CM," COMPACT 10-75 AND 125-150 CM,SOFT 75-125 CM", 00000000 11121210,edc2a4132822256065646595ad6c54ee
+6,57,B,1,2,0.0,150.0,34.70,36.20,37.70,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11121210,94d6a9669f743275da77b167fc855c2b
+6,57,B,1,3,0.0,150.0,34.70,37.70,39.20,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210,a18605f2c856d5dda4e6b8af630c2ee2
+6,57,B,1,4,0.0,150.0,34.70,39.20,40.70,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210,1eabdfa465fefefac88ae4924be7ee92
+6,57,B,1,5,0.0,150.0,34.70,40.70,42.20,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210,4ce110d74c8995b346522af2cd0383a6
+6,57,B,1,6,0.0,150.0,34.70,42.20,43.70,, NANNO CHALK OOZE, -WHITE,,,,,, TAKEN FOR PALEO,, 00000000 11111210,69fd5ccda67e2c04ab23f6b549c83797

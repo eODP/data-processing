@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1
-5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0165,Discoaster exilis,PRESENT,  ,1
-5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1
-5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0165,Discoaster exilis,PRESENT,  ,1
-5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,29bf39968ceb15292a7781b8a9868bfe
+5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1,4d46352b0689d3b0b3d93ac030f468a9
+5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0080,Discoaster brouweri,PRESENT,  ,1,dda661d380f50d35bbfc17dc2e5eda2f
+5,37,,1,4,81.0,83.0,0.00,5.32, 4,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0165,Discoaster exilis,PRESENT,  ,1,5e7fdd29b7a77f9e7973d170decb15e5
+5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,31d1d88bfa7d4f476245b0b735b9915c
+5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1,65a078a5fcb97be5cb4a8dc3119138d5
+5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0080,Discoaster brouweri,PRESENT,  ,1,52d523db502c292d008feac35cae20b0
+5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0165,Discoaster exilis,PRESENT,  ,1,76fd1eb786ada55160aeef2f7194c466
+5,37,,2,1,56.0,58.0,5.00,5.57, 5,"BUKRY,D.",,5,NANNOFOSSILS,,,,,NO AGE GIVEN,491,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1,9b2d9c301c5e5469f122fcb31f333fd3

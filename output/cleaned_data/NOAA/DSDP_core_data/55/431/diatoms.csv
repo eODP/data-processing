@@ -1,14 +1,14 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-55,431,,1,1,64.0,66.0,0.00,0.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,29%,  ,1
-55,431,,1,1,64.0,66.0,0.00,0.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,57%,  ,1
-55,431,,1,1,64.0,66.0,0.00,0.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAS0020,Thalassiothrix longissima,14%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DACTI0030,Actinocyclus curvatulus,05%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0490,Coscinodiscus marginatus,10%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0580,Coscinodiscus nodulifer,05%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0880,Coscinodiscus tabularis,05%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,35%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,05%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0195,Thalassiosira lineata,05%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,05%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,15%,  ,1
-55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAS0020,Thalassiothrix longissima,10%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+55,431,,1,1,64.0,66.0,0.00,0.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,29%,  ,1,232f12d634f5ff444ace06e48d27bdc2
+55,431,,1,1,64.0,66.0,0.00,0.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,57%,  ,1,43593eea5a67aceb20313854dc28646b
+55,431,,1,1,64.0,66.0,0.00,0.65, 3,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAS0020,Thalassiothrix longissima,14%,  ,1,c6b51801df8ba8dfd2b3b1d7247d7e1e
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DACTI0030,Actinocyclus curvatulus,05%,  ,1,e18f39eeee9371f9d12bca6829276d26
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0490,Coscinodiscus marginatus,10%,  ,1,a7f6e9dce067732cd8caba084d3673de
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0580,Coscinodiscus nodulifer,05%,  ,1,d71755470a27986dd7fe4a61b0dc1123
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0880,Coscinodiscus tabularis,05%,  ,1,0fe25fad109a5d1cb513b3f2a20e3b2c
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,35%,  ,1,5bd8223e5fca33cde2ed332d8ca00e61
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,05%,  ,1,25c47b0dd4ea4fe3e4a8fa5b6663b841
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0195,Thalassiosira lineata,05%,  ,1,5625b2e2b799e11ab4a36bae5d3236b6
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,05%,  ,1,5ce3c1dfcbdb57245a41b6ef7ad0f1fa
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,15%,  ,1,d4b807aa97a2a10e62579abcc282b52b
+55,431,,1,CC,,,0.00,2.02,10,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAS0020,Thalassiothrix longissima,10%,  ,1,c640d46558975edec63c75ea79ad2424

@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
-9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
-9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1
-9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NUMBI0030,Umbilicosphaera mirabilis,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCOCO0090,Coccolithus doronicoides,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NEMIL0010,Emiliania annula,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
-9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1,b9bbc7e91394a3c59866125c7e039c86
+9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1,cd49bd77e1b42a7260e343a056c00436
+9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1,78fdbaea550bf1a2df06cefee2a77930
+9,77,A,1,4,10.0,11.0,0.00,4.97, 4,"GARTNER,S.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,833,NUMBI0030,Umbilicosphaera mirabilis,PRESENT,  ,1,bbf8e92a77642df5d0476574c03fc934
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCERO0050,Ceratolithus cristatus,PRESENT,  ,1,f7e46e768fe76222f1f860f5095de000
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1,be96b6161d715f31f78393e29ac21599
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCOCO0090,Coccolithus doronicoides,PRESENT,  ,1,697ee7ffd6eaf0e10dc6c7f66d700517
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1,06a1af92cd47924102d11e411da58ec6
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NEMIL0010,Emiliania annula,PRESENT,  ,1,d9cf41a336fba0fc47bdc9a6b7383762
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1,8f4e4aa19288d59781210041e9790409
+9,77,A,1,4,61.0,62.0,0.00,5.48, 7,"BUKRY,D.",,9,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,02752966318fd2caacd483d0281f08ca

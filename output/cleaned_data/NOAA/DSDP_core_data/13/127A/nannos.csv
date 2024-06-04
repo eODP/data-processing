@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,127,A,2,2,10.0,11.0,16.00,17.61, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NEMIL0020,Emiliania huxleyi,PRESENT,  ,1
-13,127,A,2,2,10.0,11.0,16.00,17.61, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,127,A,2,2,10.0,11.0,16.00,17.61, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,127,A,2,3,10.0,11.0,16.00,19.11, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,127,A,2,3,10.0,11.0,16.00,19.11, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,127,A,3,1,125.0,126.0,46.00,47.26, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,127,A,3,1,125.0,126.0,46.00,47.26, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,127,A,3,6,10.0,11.0,46.00,53.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,127,A,3,6,10.0,11.0,46.00,53.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,127,A,4,2,10.0,11.0,74.00,75.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,127,A,4,2,10.0,11.0,74.00,75.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+13,127,A,2,2,10.0,11.0,16.00,17.61, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NEMIL0020,Emiliania huxleyi,PRESENT,  ,1,79c240c0d244e8eb18f85502b29ec700
+13,127,A,2,2,10.0,11.0,16.00,17.61, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,c90e88e46ed39c4170362da3bd0d943c
+13,127,A,2,2,10.0,11.0,16.00,17.61, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,9f07ddccceaea1819edf4afc72472602
+13,127,A,2,3,10.0,11.0,16.00,19.11, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,0d4b32931dc93267e49d2e8eeac679ec
+13,127,A,2,3,10.0,11.0,16.00,19.11, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,67d71545dd3d331be0ab587e7ea3f829
+13,127,A,3,1,125.0,126.0,46.00,47.26, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,57579f556497102f4ebb260d5c418cea
+13,127,A,3,1,125.0,126.0,46.00,47.26, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,4e42dcc76e9ec6f08b806bdf8f8e1776
+13,127,A,3,6,10.0,11.0,46.00,53.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,4965c5c95b560a89aaf7cc567de7fece
+13,127,A,3,6,10.0,11.0,46.00,53.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,d935d7d75ae65f572b3f0fa29fa61f96
+13,127,A,4,2,10.0,11.0,74.00,75.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,efb400211a0a974d7287504fc05c165c
+13,127,A,4,2,10.0,11.0,74.00,75.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,f5c2dc024eb4741f3396eeca85f175d2

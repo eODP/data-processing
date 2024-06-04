@@ -1,3 +1,3 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-20,200,A,1,CC,0.0,0.0,65.50,65.60,65.60,, NANNO BEARING FORAM OOZE, 10YR8/2-WHITE,,,,,, 140-150 CM COMPRISES CC, UNCONSOLIDATED, 11111221.1210
-20,200,A,2,CC,0.0,0.0,122.50,122.60,122.60,, NANNO BEARING FORAM OOZE, 10YR8/2-WHITE,,,,,, 140-150 CM COMPRISES CC, UNCONSOLIDATED, 11111221.1210
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+20,200,A,1,CC,0.0,0.0,65.50,65.60,65.60,, NANNO BEARING FORAM OOZE, 10YR8/2-WHITE,,,,,, 140-150 CM COMPRISES CC, UNCONSOLIDATED, 11111221.1210,a643485220838865b98a477b28570891
+20,200,A,2,CC,0.0,0.0,122.50,122.60,122.60,, NANNO BEARING FORAM OOZE, 10YR8/2-WHITE,,,,,, 140-150 CM COMPRISES CC, UNCONSOLIDATED, 11111221.1210,a0936d5ff25e41aa2c0ac36b337f3dc5

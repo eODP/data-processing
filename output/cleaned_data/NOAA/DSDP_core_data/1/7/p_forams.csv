@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0010,Globorotalia acostaensis humerosa,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0012,Globorotalia acostaensis pseudopima,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0156,Globorotalia cultrata menardii,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0224,Globorotalia hirsuta hirsuta,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0246,Globorotalia inflata,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0544,Globorotalia truncatulinoides,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0420,Globigerinoides ruber albus,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0246,Globigerina eggeri eggeri (q),PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0290,Globigerina falconensis,PRESENT,  ,1
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FHAST0040,Hastigerina pelagica,PRESENT,  ,2
-1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FORBU0025,Orbulina sp.,PRESENT,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0010,Globorotalia acostaensis humerosa,PRESENT,  ,1,c680f718f9936b6db3740a5e1b12c9a6
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0012,Globorotalia acostaensis pseudopima,PRESENT,  ,1,500f8ba052161674a3c2d3d9c9209f4d
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0156,Globorotalia cultrata menardii,PRESENT,  ,1,dc826afdff1c4db3d557d2abd247bd0e
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0224,Globorotalia hirsuta hirsuta,PRESENT,  ,1,04578ecd00fa7342cd60933440d2e59d
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0246,Globorotalia inflata,PRESENT,  ,1,ea75711812f84d8ccefd21299e338453
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0544,Globorotalia truncatulinoides,PRESENT,  ,1,57a0eb31de6fbf8358f11036610f5311
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1,94bf93a4a1a2218a43f196774a5ef034
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0420,Globigerinoides ruber albus,PRESENT,  ,1,af40e63371813ec3672caf90e7d81883
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0246,Globigerina eggeri eggeri (q),PRESENT,  ,1,0bc91e179206aafa274d3a10a46f120b
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0290,Globigerina falconensis,PRESENT,  ,1,6d357330ecd2a7640d5214989b1076d4
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FHAST0040,Hastigerina pelagica,PRESENT,  ,2,1dd01b1b663819813cea2ffc4a073538
+1,7,,1,1,74.0,76.0,0.00,0.85,12,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FORBU0025,Orbulina sp.,PRESENT,  ,2,abc8aae8b903eae6479951b426d6bbb1

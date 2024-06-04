@@ -1,17 +1,17 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DACTI0140,Actinocyclus ingens,FEW,  ,1
-28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0440,Coscinodiscus lentiginosus,FEW,  ,1
-28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSM0010,Cosmiodiscus insignis,RARE,  ,1
-28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DNITZ0260,Nitzschia interfrigidaria,RARE,  ,1
-28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DNITZ0330,Nitzschia kerguelensis,FEW,  ,1
-28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DRHIZ0040,Rhizosolenia barboi,FEW,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DACTI0140,Actinocyclus ingens,COMMON,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0440,Coscinodiscus lentiginosus,COMMON,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0490,Coscinodiscus marginatus,COMMON,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0770,Coscinodiscus radiatus,COMMON,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DDENT0040,Denticula hustedtii,COMMON,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DRHIZ0040,Rhizosolenia barboi,RARE,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DTRIN0040,Trinacria excavata,FEW,  ,1
-28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DTRIN0060,Trinacria pileolus,RARE,  ,1
-28,267,,3,CC,0.0,0.0,89.50,97.10, 1,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DTRIN0040,Trinacria excavata,RARE,  ,1
-28,267,,4,6,80.0,80.0,127.50,136.30, 1,"BUKRY,D.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,722,DCOSC0950,Coscinodiscus vigilans,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DACTI0140,Actinocyclus ingens,FEW,  ,1,cd9279355b3f01657b36a9829e83bb0f
+28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0440,Coscinodiscus lentiginosus,FEW,  ,1,06c683e276d63cbc4f2049d77fb2df51
+28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSM0010,Cosmiodiscus insignis,RARE,  ,1,08df8696210c20c82b950ec6c6c668b6
+28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DNITZ0260,Nitzschia interfrigidaria,RARE,  ,1,e0efaaf6307556b614a678b96469ad40
+28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DNITZ0330,Nitzschia kerguelensis,FEW,  ,1,a59142d2ee46310d35dfe373d0f2480a
+28,267,,1,CC,0.0,0.0,0.00,4.60, 6,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DRHIZ0040,Rhizosolenia barboi,FEW,  ,1,bdeac5b2f2fd40e583f358b4a3ed6623
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DACTI0140,Actinocyclus ingens,COMMON,  ,1,d998f74fd570cdef44b9c5d07835088f
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0440,Coscinodiscus lentiginosus,COMMON,  ,1,576f8f182cfe8a9e743679b1a6182a9e
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0490,Coscinodiscus marginatus,COMMON,  ,1,eca2a4c175c04c6c200f52a54b4b43cd
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DCOSC0770,Coscinodiscus radiatus,COMMON,  ,1,bc4c9fa4b387cba6f3753b79e8f4944d
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DDENT0040,Denticula hustedtii,COMMON,  ,1,a19d9eb863c92b77b51ea329b42cbc50
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DRHIZ0040,Rhizosolenia barboi,RARE,  ,1,60710dd39ff94badafa0be32e68a77e1
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DTRIN0040,Trinacria excavata,FEW,  ,1,45af58cb7d58567497e0a6acc85ff2f7
+28,267,,2,CC,0.0,0.0,42.00,42.10, 8,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DTRIN0060,Trinacria pileolus,RARE,  ,1,412d4023178d469c1ab45d39ac7ba684
+28,267,,3,CC,0.0,0.0,89.50,97.10, 1,"MCCOLLUM,D.W.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,525,DTRIN0040,Trinacria excavata,RARE,  ,1,d148608b05316b220078959e7c5d3dbe
+28,267,,4,6,80.0,80.0,127.50,136.30, 1,"BUKRY,D.",07/1975,28,DIATOMS,,,,,NO AGE GIVEN,722,DCOSC0950,Coscinodiscus vigilans,PRESENT,  ,1,7881e6b6a31352617aac9240c304ce23

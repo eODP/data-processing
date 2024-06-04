@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,RARE,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0010,Cestodiscus sp.,FEW,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0012,Cestodiscus convexus,FEW,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0014,Cestodiscus gemmifer,COMMON,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0024,Cestodiscus parmulus,COMMON,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0042,Cestodiscus pulchellus novazealandica,PRESENT,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0044,Cestodiscus reticulatus,FEW,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,RARE,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0275,Coscinodiscus excavatus,FEW,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,RARE,  ,1
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0660,Coscinodiscus oligocenicus,RARE,  ,2
-7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHYAL0025,Hyalodiscus sp.,PRESENT,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,RARE,  ,1,7953cc9ab7f38d8cbe5fbe0402c25d0d
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0010,Cestodiscus sp.,FEW,  ,1,65b2aa37e821015fb24f262f965a9447
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0012,Cestodiscus convexus,FEW,  ,1,3329baa344e2786549111a7cb693de61
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0014,Cestodiscus gemmifer,COMMON,  ,1,ef45de345566f49197fa65fe94d3ed0c
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0024,Cestodiscus parmulus,COMMON,  ,1,641004ffa858f328a75a98176988ffa0
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0042,Cestodiscus pulchellus novazealandica,PRESENT,  ,1,24fee68441fce93469a5767bacb9a012
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0044,Cestodiscus reticulatus,FEW,  ,1,48691d4538cd0e0da41f3a56f387741d
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,RARE,  ,1,4ccec6fdf1c6db7b1ef25edf7ef5a21f
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0275,Coscinodiscus excavatus,FEW,  ,1,4f627b21af07a3e645c626b8ca5cd5b8
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,RARE,  ,1,4fbadc66e6c524e7d5462bbc7ce2c86d
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0660,Coscinodiscus oligocenicus,RARE,  ,2,1022dcb5bae9edcdb11deb45d9d3ac8e
+7,64,,10,1,70.0,74.0,848.00,848.72,12,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHYAL0025,Hyalodiscus sp.,PRESENT,  ,2,63dd887356886d5ccb9ba5659f0f7f23

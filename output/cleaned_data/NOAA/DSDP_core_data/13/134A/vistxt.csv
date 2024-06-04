@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-13,134,A,1,1,120.0,150.0,30.00,31.20,31.50,, NANNO OOZE, 5Y5/3-OLIVE,,,,,,, WATERY, 11111210
-13,134,A,1,2,0.0,150.0,30.00,31.50,33.00,, NANNO OOZE," 5Y5/3-OLIVE,5Y4/1-OLIVE GREY",,,,,," OLIVE GREY 70-150 CM,OLIVE 0-70 CM", WATERY, 11111210
-13,134,A,1,CC,0.0,0.0,30.00,33.10,33.10,, NANNO OOZE, 5Y4/3-OLIVE,,,,,,," VERY PLASTIC,UNCONSOLID ATED", 11111210
-13,134,A,2,CC,0.0,0.0,47.00,47.10,47.10,, SEMISCHIST, 5Y3/2-DARK OLIVE GREY, VERY SHARP SC HOSTISITY PLANES,,," QUARTZ,PLAGIOCLASE",,, HARD, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+13,134,A,1,1,120.0,150.0,30.00,31.20,31.50,, NANNO OOZE, 5Y5/3-OLIVE,,,,,,, WATERY, 11111210,0bf6571b6592302c2f9c7954c46e3a29
+13,134,A,1,2,0.0,150.0,30.00,31.50,33.00,, NANNO OOZE," 5Y5/3-OLIVE,5Y4/1-OLIVE GREY",,,,,," OLIVE GREY 70-150 CM,OLIVE 0-70 CM", WATERY, 11111210,ad8de193730e90c13eef76469ae5e2e3
+13,134,A,1,CC,0.0,0.0,30.00,33.10,33.10,, NANNO OOZE, 5Y4/3-OLIVE,,,,,,," VERY PLASTIC,UNCONSOLID ATED", 11111210,a87280aa12c6fc2071827d291aae8a78
+13,134,A,2,CC,0.0,0.0,47.00,47.10,47.10,, SEMISCHIST, 5Y3/2-DARK OLIVE GREY, VERY SHARP SC HOSTISITY PLANES,,," QUARTZ,PLAGIOCLASE",,, HARD, 00000000,f515454fb9b89e75a84515b0ab355efe

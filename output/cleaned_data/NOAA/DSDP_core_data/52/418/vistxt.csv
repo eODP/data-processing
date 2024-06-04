@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-52,418,,1,1,0.0,150.0,0.00,0.00,1.50,, PELAGIC CLAY,,,,,,,, SOFT*,
-52,418,,1,2,0.0,150.0,0.00,1.50,3.00,, PELAGIC CLAY,,,,,,,, SOFT*,
-52,418,,1,3,0.0,150.0,0.00,3.00,4.50,, PELAGIC CLAY,,,,,,,, SOFT*,
-52,418,,1,4,0.0,130.0,0.00,4.50,5.80,, PELAGIC CLAY,,,,,,,, SOFT*,
-52,418,,1,6,90.0,110.0,0.00,8.40,8.60,, PELAGIC CLAY,,,,,,,, SOFT*,
-52,418,,1,CC,0.0,10.0,0.00,8.70,8.70,, PELAGIC CLAY,,,,,,,, SOFT, 33211000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+52,418,,1,1,0.0,150.0,0.00,0.00,1.50,, PELAGIC CLAY,,,,,,,, SOFT*,,b49b0a9cf57bb2056d4032b82f3a7c5e
+52,418,,1,2,0.0,150.0,0.00,1.50,3.00,, PELAGIC CLAY,,,,,,,, SOFT*,,5e11cb188f49a5c8b438b85cfe1ce32e
+52,418,,1,3,0.0,150.0,0.00,3.00,4.50,, PELAGIC CLAY,,,,,,,, SOFT*,,1a9ee3a13db66b565b1e691185dc83d5
+52,418,,1,4,0.0,130.0,0.00,4.50,5.80,, PELAGIC CLAY,,,,,,,, SOFT*,,7d17f20f28e4ae187e88fbf951931435
+52,418,,1,6,90.0,110.0,0.00,8.40,8.60,, PELAGIC CLAY,,,,,,,, SOFT*,,da36e8b40ab5362c3abe532836462985
+52,418,,1,CC,0.0,10.0,0.00,8.70,8.70,, PELAGIC CLAY,,,,,,,, SOFT, 33211000,6f35fd423798244881ee029e76812cc5

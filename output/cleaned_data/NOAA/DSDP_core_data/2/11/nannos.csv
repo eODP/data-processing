@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1
-2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCOCO0090,Coccolithus doronicoides,PRESENT,  ,1
-2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
-2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1
-2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCYCC0010,Cyclococcolithus aequiscutum,PRESENT,  ,1
-2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NDISC0437,Discoaster sp.,PRESENT,  ,1
-2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
-2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1,5ac97e4541e02222c18d17304700b2ee
+2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCOCO0090,Coccolithus doronicoides,PRESENT,  ,1,6198581adb1c2dce8279b98110242561
+2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,4ff2c1518408053d453c446eeaa11b45
+2,11,,1,2,75.0,75.0,14.00,16.25, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,e8e4da4357d652c187827602e242a5d5
+2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1,d0a98efeca736636bb147646feeee354
+2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NCYCC0010,Cyclococcolithus aequiscutum,PRESENT,  ,1,daf01f353b0943411781e2ce897ffdbc
+2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NDISC0437,Discoaster sp.,PRESENT,  ,1,31b1b650d42cb293ab136450b3ab8102
+2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,344dd4891384cc13817a3e3dfa616f20
+2,11,,1,4,75.0,76.0,14.00,19.26, 5,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,353,NRHAO0010,Rhabdosphaera clavigera,PRESENT,  ,1,50544d12e108ea7aba61a145f49feb50

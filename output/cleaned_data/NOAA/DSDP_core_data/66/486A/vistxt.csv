@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-66,486,A,1,1,0.0,10.0,0.00,0.00,0.10,, SILTY CLAY, OLIVE GRAY,, GREATLY DISTURBED,  *,, PLANT DEBRIS,, SOFT, 33213000
-66,486,A,1,1,11.0,53.0,0.00,0.11,0.53,, FINE SAND, DARK BROWN,, GREATLY DISTURBED,  *,,,, SOUPY, 33214000
-66,486,A,1,1,54.0,150.0,0.00,0.54,1.50,, SILTY CLAY, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-66,486,A,1,2,10.0,32.0,0.00,1.60,1.82,, CLAY, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-66,486,A,1,2,33.0,97.0,0.00,1.83,2.47,, SILT, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-66,486,A,1,2,97.0,98.0,0.00,2.47,2.48,, MUDDY SAND, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-66,486,A,2,CC,0.0,25.0,5.00,5.10,5.25,, COARSE SAND, OLIVE GRAY,, GREATLY DISTURBED,,, UNIDENTIFIED FOSSIL MATERIAL*,, SOFT,
-66,486,A,3,1,0.0,60.0,14.50,14.50,15.10,, SLIGHTLY MUDDY SAND, OLIVE GRAY,,,  *,,,, SOFT,
-66,486,A,3,CC,0.0,22.0,14.50,15.20,15.32,, MUDDY FINE SAND, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+66,486,A,1,1,0.0,10.0,0.00,0.00,0.10,, SILTY CLAY, OLIVE GRAY,, GREATLY DISTURBED,  *,, PLANT DEBRIS,, SOFT, 33213000,aed9c39fbf9410e4c2117f33949b202b
+66,486,A,1,1,11.0,53.0,0.00,0.11,0.53,, FINE SAND, DARK BROWN,, GREATLY DISTURBED,  *,,,, SOUPY, 33214000,961a8f2f46568b88e51c063058d56605
+66,486,A,1,1,54.0,150.0,0.00,0.54,1.50,, SILTY CLAY, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,4c86a0e6533f5866fd8db41c837f2937
+66,486,A,1,2,10.0,32.0,0.00,1.60,1.82,, CLAY, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,04063dc1cd53de1319c86a998ce1bef3
+66,486,A,1,2,33.0,97.0,0.00,1.83,2.47,, SILT, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,01dd6434f573afeb5662b1ef78c793e4
+66,486,A,1,2,97.0,98.0,0.00,2.47,2.48,, MUDDY SAND, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,6033b41acc4c049c14b1e1aecdb4a459
+66,486,A,2,CC,0.0,25.0,5.00,5.10,5.25,, COARSE SAND, OLIVE GRAY,, GREATLY DISTURBED,,, UNIDENTIFIED FOSSIL MATERIAL*,, SOFT,,2b7dce04886a553242642cdb0a5ae4a6
+66,486,A,3,1,0.0,60.0,14.50,14.50,15.10,, SLIGHTLY MUDDY SAND, OLIVE GRAY,,,  *,,,, SOFT,,e46dcaf7d62c6dc541280e352b4d38bc
+66,486,A,3,CC,0.0,22.0,14.50,15.20,15.32,, MUDDY FINE SAND, OLIVE GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,d5ebf108e3af7cbfca9a42ddba803a39

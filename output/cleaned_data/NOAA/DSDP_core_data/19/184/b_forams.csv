@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-19,184,,11,3,80.0,82.0,296.00,299.81, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1
-19,184,,12,2,78.0,80.0,333.00,335.29, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1
-19,184,,13,2,78.0,80.0,342.00,344.29, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1
-19,184,,16,2,10.0,12.0,427.00,428.61, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,MODERATE,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1
-19,184,,18,1,80.0,82.0,502.00,502.81, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1
-19,184,,20,3,80.0,82.0,539.00,542.81, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+19,184,,11,3,80.0,82.0,296.00,299.81, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1,47cf1c0bdcd426a401e27a218a5cdb64
+19,184,,12,2,78.0,80.0,333.00,335.29, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1,f46d0dbc22faa3df06f7ad3d8007b065
+19,184,,13,2,78.0,80.0,342.00,344.29, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1,99bdd2aea33804f2befe2c3dbec0e555
+19,184,,16,2,10.0,12.0,427.00,428.61, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,MODERATE,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1,55d78522630cbc6bea80d36e0735a81b
+19,184,,18,1,80.0,82.0,502.00,502.81, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1,8b4aa81c93c5be40805dc1b5ed95f861
+19,184,,20,3,80.0,82.0,539.00,542.81, 1,"ECHOLS,R.J.",06/1973,19,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,722,BMART0020,Martinottiella communis,PRESENT,  ,1,aa3a3af38092873c49e24133e0ee3d45

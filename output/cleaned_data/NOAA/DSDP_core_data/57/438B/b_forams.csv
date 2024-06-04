@@ -1,14 +1,14 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-57,438,B,5,CC,,,862.70,864.10, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BHOEG0010,Hoeglundia elegans,50%,  ,1
-57,438,B,5,CC,,,862.70,864.10, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BMART0020,Martinottiella communis,50%,  ,1
-57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BAMMN0025,Ammonia hatatensis,50%,  ,1
-57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BBUCC0030,Buccella inusitata,13%,  ,1
-57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BNODA0200,Nodosaria longiscata,13%,  ,1
-57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BNONI0065,Nonion nicobarensis,13%,  ,1
-57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BSTIL0100,Stilostomella lepidula,13%,  ,1
-57,438,B,16,CC,,,966.30,967.60, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BAMMN0025,Ammonia hatatensis,67%,  ,1
-57,438,B,16,CC,,,966.30,967.60, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BPULL0110,Pullenia quinqueloba,33%,  ,1
-57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BGYRO0230,Gyroidina soldani,25%,  ,1
-57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BNODA0200,Nodosaria longiscata,25%,  ,1
-57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BSPHE0010,Sphaeroidina bulloides,25%,  ,1
-57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BUVIG0170,Uvigerina proboscidea,25%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+57,438,B,5,CC,,,862.70,864.10, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BHOEG0010,Hoeglundia elegans,50%,  ,1,a87da060f135ba3f9864f4d9fc7620df
+57,438,B,5,CC,,,862.70,864.10, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BMART0020,Martinottiella communis,50%,  ,1,85bbd3c54f762dbec53f803d6309db81
+57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BAMMN0025,Ammonia hatatensis,50%,  ,1,fbac331dcd1f477e9af4d8008fb44efc
+57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BBUCC0030,Buccella inusitata,13%,  ,1,4ac41594b5d2683d7c3f58ba51e639c3
+57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BNODA0200,Nodosaria longiscata,13%,  ,1,1a41b1da6e02b04cb990560673c25a6e
+57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BNONI0065,Nonion nicobarensis,13%,  ,1,e04898e5238d8094bfebe5eb4a150fc5
+57,438,B,16,1,84.0,86.0,966.30,967.15, 5,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BSTIL0100,Stilostomella lepidula,13%,  ,1,aafc6ef624ed9fd9840a9885a9b1885f
+57,438,B,16,CC,,,966.30,967.60, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BAMMN0025,Ammonia hatatensis,67%,  ,1,5f459e6c37ef13c09e209774442381b8
+57,438,B,16,CC,,,966.30,967.60, 2,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BPULL0110,Pullenia quinqueloba,33%,  ,1,8f2cfce723f86e1667b6413580d67446
+57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BGYRO0230,Gyroidina soldani,25%,  ,1,de8a2cb0445b4542b3594cbe4037d0fc
+57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BNODA0200,Nodosaria longiscata,25%,  ,1,370e4cf214ba4a100b482236cf7476e9
+57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BSPHE0010,Sphaeroidina bulloides,25%,  ,1,d74c12c9f16e5658fda81709b5150f57
+57,438,B,23,CC,,,1032.80,1036.45, 4,"KELLER,G.",11/1980,57,BENTHIC FORAMINIFERA,,,,POOL,NO AGE GIVEN,842,BUVIG0170,Uvigerina proboscidea,25%,  ,1,d79ea287dc1542d7095730479d131ef5

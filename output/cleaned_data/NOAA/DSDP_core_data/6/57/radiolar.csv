@@ -1,20 +1,20 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RARTP0030,Artophormis gracilis,RARE,  ,1
-6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,FEW,  ,1
-6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
-6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,RARE,  ,1
-6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHEI0010,Theocyrtis annosa,FEW,  ,1
-6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHER0090,Theocorys spongoconus,RARE,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RARTP0030,Artophormis gracilis,RARE,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCALC0110,Calocycletta virginis,RARE,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCALC0112,Calocycletta virginis (q),COMMON,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,FEW,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCYRC0070,Cyrtocapsella tetrapera,RARE,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,FEW,  ,1
-6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHEI0010,Theocyrtis annosa,FEW,  ,1
-6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,FEW,  ,1
-6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1
-6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,RARE,  ,1
-6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHEI0010,Theocyrtis annosa,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RARTP0030,Artophormis gracilis,RARE,  ,1,2bc8fee62005930d0835c398c9ff7dc5
+6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,FEW,  ,1,703164c05eac4c4ffc8a6c2507666cdb
+6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1,198f19fc037e5408e9fd9916a7115b68
+6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,RARE,  ,1,a5c3b84d529d4149083f22a3c3a40554
+6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHEI0010,Theocyrtis annosa,FEW,  ,1,f55b981e286ab96fffef4e21520787a2
+6,57,,1,CC,0.0,0.0,297.50,300.60, 6,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHER0090,Theocorys spongoconus,RARE,  ,1,0f66cfc2a92d3f1cea80654a966cd83c
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RARTP0030,Artophormis gracilis,RARE,  ,1,ed17f276431e16a25a4a0487d127c6b0
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCALC0110,Calocycletta virginis,RARE,  ,1,b63dfaf45d7e420870d8142e14cb4138
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCALC0112,Calocycletta virginis (q),COMMON,  ,1,dec2653f154b349afbf79f692ae30920
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,FEW,  ,1,2e31cde84dd614697aec621bc72a53f8
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCYRC0020,Cyrtocapsella cornuta,FEW,  ,1,3d56b3381ec65df3bd7428ae7b5be56b
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCYRC0070,Cyrtocapsella tetrapera,RARE,  ,1,e744d597388d678f449f971aa5ca8dcc
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1,108fe45da8ce6be2d888ad0f5518d36e
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,FEW,  ,1,706ca0b91aba93ba6d42951812f79eed
+6,57,,C1,1,0.0,0.0,0.00,0.00, 9,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHEI0010,Theocyrtis annosa,FEW,  ,1,c43ac2d4d146262a986737d15f34e396
+6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RCANN0070,Cannartus prismaticus,FEW,  ,1,97a0bbb443d7c675aa7e9c7b79506693
+6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RDORC0030,Dorcadospyris ateuchus,FEW,  ,1,b3768a49bb01f98e31d911fe6e84c866
+6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RLYCN0040,Lychnocanium bipes,RARE,  ,1,92ec16efe59d1579eea360137ffee9a1
+6,57,,C2,1,0.0,0.0,302.10,302.10, 4,"KLING,S.A.",,6,RADIOLARIA,,,,,NO AGE GIVEN,1081,RTHEI0010,Theocyrtis annosa,FEW,  ,1,6e1f9a759b8a8a8be0b4ecea6a04c42e

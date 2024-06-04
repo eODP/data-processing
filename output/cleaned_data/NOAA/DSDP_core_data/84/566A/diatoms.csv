@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DACTI0090,Actinocyclus ellipticus,FEW,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0310,Nitzschia jouseae,FEW,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0570,Nitzschia reinholdii,RARE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0050,Thalassiosira convexa,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DACTI0090,Actinocyclus ellipticus,FEW,  ,1,a8573714bdf229ef0073d55e1abab964
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0310,Nitzschia jouseae,FEW,  ,1,c0f834e540ca6394c04b4145e6a1b8d2
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0570,Nitzschia reinholdii,RARE,  ,1,becc60f4833fed347b1650f1bccac315
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 4,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0050,Thalassiosira convexa,RARE,  ,1,9ac7646f19afb502e62ea67498fcf075

@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,122,,1,1,107.0,108.0,78.00,79.08, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NEMIL0020,Emiliania huxleyi,PRESENT,  ,1
-13,122,,1,1,107.0,108.0,78.00,79.08, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,122,,1,2,3.0,4.0,78.00,79.54, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1
-13,122,,1,CC,0.0,0.0,78.00,81.10, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-13,122,,1,CC,0.0,0.0,78.00,81.10, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
-13,122,,2,2,9.0,10.0,87.60,89.19, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-13,122,,2,2,9.0,10.0,87.60,89.19, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+13,122,,1,1,107.0,108.0,78.00,79.08, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NEMIL0020,Emiliania huxleyi,PRESENT,  ,1,29bb690a503c1a84d11b6b2e19cd408e
+13,122,,1,1,107.0,108.0,78.00,79.08, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,10b736bfa01b4fef2b110c4bd7784a26
+13,122,,1,2,3.0,4.0,78.00,79.54, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NGEPH0100,Gephyrocapsa sp.,PRESENT,  ,1,18726d072e82ed7077633afe5873441f
+13,122,,1,CC,0.0,0.0,78.00,81.10, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,a0d424a7387b32269e09a3542affdd9b
+13,122,,1,CC,0.0,0.0,78.00,81.10, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NSPHN0010,Sphenolithus abies,PRESENT,  ,1,68e0c52a7bf4b1cd3638291c4fe25cc0
+13,122,,2,2,9.0,10.0,87.60,89.19, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,636ef9724ef8b39615ed922ec9b1e256
+13,122,,2,2,9.0,10.0,87.60,89.19, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,823,NSPHN0010,Sphenolithus abies,PRESENT,  ,1,1a205d4ec53f0c533d6ee55b18400e65

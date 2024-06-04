@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DHEMD0025,Hemidiscus ovalis,RARE,  ,1
-84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0310,Nitzschia jouseae,RARE,  ,1
-84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DROSS0060,Rossiella tatsunokuchiensis,RARE,  ,1
-84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0050,Thalassiosira convexa,RARE,  ,1
-84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0280,Thalassiosira oestrupii,RARE,  ,1
-84,566,C,2,1,9.0,10.0,59.30,59.40, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0570,Nitzschia reinholdii,FEW,  ,1
-84,566,C,2,1,9.0,10.0,59.30,59.40, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DROSS0060,Rossiella tatsunokuchiensis,FEW,  ,1
-84,566,C,2,1,9.0,10.0,59.30,59.40, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0050,Thalassiosira convexa,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DHEMD0025,Hemidiscus ovalis,RARE,  ,1,b1c834c6b456ee542abe22999c8e35dc
+84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0310,Nitzschia jouseae,RARE,  ,1,ace1a9feb7e8fa16bb059bad6bade2be
+84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DROSS0060,Rossiella tatsunokuchiensis,RARE,  ,1,aee481e49904801f502d16cd8f6e7380
+84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0050,Thalassiosira convexa,RARE,  ,1,82b6a6d9b38a77eeec4639b080450e90
+84,566,C,1,CC,0.0,0.0,49.80,49.90, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0280,Thalassiosira oestrupii,RARE,  ,1,729f1f6fc856badfbcf7b62ebe8e401f
+84,566,C,2,1,9.0,10.0,59.30,59.40, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DNITZ0570,Nitzschia reinholdii,FEW,  ,1,51ba55213aef383fe9295594bf0bd6be
+84,566,C,2,1,9.0,10.0,59.30,59.40, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DROSS0060,Rossiella tatsunokuchiensis,FEW,  ,1,b2a6bded6b2cc42fc93dc8efea55b425
+84,566,C,2,1,9.0,10.0,59.30,59.40, 3,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,518,DTHAA0050,Thalassiosira convexa,FEW,  ,1,adcfb29c900f1f059a236d466ec056a4

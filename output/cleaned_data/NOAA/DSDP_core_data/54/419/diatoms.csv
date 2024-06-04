@@ -1,20 +1,20 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-54,419,,4,1,124.0,126.0,19.50,20.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,419,,4,1,124.0,126.0,19.50,20.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,10%,  ,1
-54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DTHAA0192,Thalassiosira leptopus,PRESENT,  ,1
-54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DTHAA0381,Thalassiosira symbolophora (q),PRESENT,  ,1
-54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DTHAA0380,Thalassiosira symbolophora,PRESENT,  ,1
-54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DRHIZ0050,Rhizosolenia bergonii,PRESENT,  ,1
-54,419,,4,4,132.0,134.0,19.50,25.33, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,419,,4,5,88.9,91.0,19.50,26.40, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,8%,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,2%,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DTHAA0310,Thalassiosira plicata,PRESENT,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DRHIZ0050,Rhizosolenia bergonii,PRESENT,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DASTR0020,Asteromphalus arachne,PRESENT,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DNITZ0570,Nitzschia reinholdii,PRESENT,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,1
-54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DTRIC0120,Triceratium cinnamomeum minor,PRESENT,  ,1
-54,419,,5,2,123.0,127.0,29.00,31.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,419,,5,2,123.0,127.0,29.00,31.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,0%,  ,1
-54,419,,5,5,48.0,50.0,29.00,35.49, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,419,,5,5,48.0,50.0,29.00,35.49, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,0%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+54,419,,4,1,124.0,126.0,19.50,20.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,4af304e51fd2283bb6df226428380e31
+54,419,,4,1,124.0,126.0,19.50,20.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,10%,  ,1,a2ef9681e845a775716a4f95672f929c
+54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DTHAA0192,Thalassiosira leptopus,PRESENT,  ,1,32b25c7b0a23e5e12d2b3053bf74e1eb
+54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DTHAA0381,Thalassiosira symbolophora (q),PRESENT,  ,1,052d30c1e4aa3b8ec16e1fd50c00bf31
+54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DTHAA0380,Thalassiosira symbolophora,PRESENT,  ,1,29b1764b64159957fc4ba21ce642422a
+54,419,,4,2,63.0,65.0,19.50,21.64, 4,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,480,DRHIZ0050,Rhizosolenia bergonii,PRESENT,  ,1,d7054be535d923a9cf73f339bd4ae66a
+54,419,,4,4,132.0,134.0,19.50,25.33, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,4c0c63b3cb69d9f378420ea18d638b37
+54,419,,4,5,88.9,91.0,19.50,26.40, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,8%,  ,1,c296a919d03d88e0fec4f00155774d2c
+54,419,,5,2,69.0,71.0,29.00,31.20, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,2%,  ,1,141e89678b595409b265ce906cdaa530
+54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DTHAA0310,Thalassiosira plicata,PRESENT,  ,1,585a07370309da8cd52783ef80040bf3
+54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DRHIZ0050,Rhizosolenia bergonii,PRESENT,  ,1,1d8c4920d86f6a1e34c5f961d5e5bd85
+54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DASTR0020,Asteromphalus arachne,PRESENT,  ,1,cbdaf4198663e0679027a93c95efc377
+54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DNITZ0570,Nitzschia reinholdii,PRESENT,  ,1,916791082a514ee39199476209eddf69
+54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,1,d153c53dba1aa5ca1eb657d0cb5b73f7
+54,419,,5,2,69.0,71.0,29.00,31.20, 6,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,478,DTRIC0120,Triceratium cinnamomeum minor,PRESENT,  ,1,9cb5c749b62a6cedcaf9a42a6b470631
+54,419,,5,2,123.0,127.0,29.00,31.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,896eb9a53689a06a7822f8531924efe6
+54,419,,5,2,123.0,127.0,29.00,31.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,0%,  ,1,d34afd9baaf0fa6eeddf41c6bef06a89
+54,419,,5,5,48.0,50.0,29.00,35.49, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,8b4e35a5e8f858d4d18651412814c6a3
+54,419,,5,5,48.0,50.0,29.00,35.49, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,548,DTHAA0193,Thalassiosira leptopus elliptica,0%,  ,1,10505a31c9ddd3c77f07cbcdd1c361af

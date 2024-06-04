@@ -1,2 +1,2 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-21,206,B,1,1,0.0,150.0,202.00,202.00,203.50,, FORAM BEARING NANNO OOZE, 2.5Y/N8/3-WHITE,, 4,,,, 3-70CM EMPTY, SOUPY TO CREAMY, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+21,206,B,1,1,0.0,150.0,202.00,202.00,203.50,, FORAM BEARING NANNO OOZE, 2.5Y/N8/3-WHITE,, 4,,,, 3-70CM EMPTY, SOUPY TO CREAMY, 00000000,1bb69e7a446cd58ddfb76644e301f81f

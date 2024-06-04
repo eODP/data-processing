@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-95,603,D,1,1,0.0,150.0,199.00,199.00,200.50,PS, NANNOFOSSIL MUD, GREENISH GRAY,,,,,,, SOFT, 00000000
-95,603,D,1,2,0.0,150.0,199.00,200.50,202.00,PS, NANNOFOSSIL MUD, GREENISH GRAY,,,,,,, SOFT, 33213000.3450
-95,603,D,1,3,0.0,150.0,199.00,202.00,203.50,PS, MUD, GRAY,,, PEBBLES,,,, SOFT, 33213000
-95,603,D,1,4,0.0,150.0,199.00,203.50,205.00,PS, MUD, GRAY,,,,,,, SOFT, 33213000
-95,603,D,1,5,0.0,150.0,199.00,205.00,206.50,PS, MUD TO CLAY, GRAY,,,,,,, SOFT, 33213000
-95,603,D,1,6,0.0,150.0,199.00,206.50,208.00,PS, CLAY, GRAY,,,,,,, SOFT, 00000000
-95,603,D,1,7,0.0,27.0,199.00,208.00,208.27,PS, NANNOFOSSIL MUD, GRAY,,,,,,, SOFT, 33213000
-95,603,D,1,CC,0.0,20.0,199.00,208.37,208.47,PS, NANNOFOSSIL MUD, GRAY,,,,,,, SOFT, 33213000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+95,603,D,1,1,0.0,150.0,199.00,199.00,200.50,PS, NANNOFOSSIL MUD, GREENISH GRAY,,,,,,, SOFT, 00000000,cbaabc847ab5aff7a937cc70243fb1f3
+95,603,D,1,2,0.0,150.0,199.00,200.50,202.00,PS, NANNOFOSSIL MUD, GREENISH GRAY,,,,,,, SOFT, 33213000.3450,2874e7ab85f382ebefaaf4ae1f129598
+95,603,D,1,3,0.0,150.0,199.00,202.00,203.50,PS, MUD, GRAY,,, PEBBLES,,,, SOFT, 33213000,b94c9d6570514261e75fb55780b711c8
+95,603,D,1,4,0.0,150.0,199.00,203.50,205.00,PS, MUD, GRAY,,,,,,, SOFT, 33213000,7d0d7a572420956f21719db01bddad2e
+95,603,D,1,5,0.0,150.0,199.00,205.00,206.50,PS, MUD TO CLAY, GRAY,,,,,,, SOFT, 33213000,d54a7abebacb6614fbe971fc14517263
+95,603,D,1,6,0.0,150.0,199.00,206.50,208.00,PS, CLAY, GRAY,,,,,,, SOFT, 00000000,777e91a4986438a434284ed68f917445
+95,603,D,1,7,0.0,27.0,199.00,208.00,208.27,PS, NANNOFOSSIL MUD, GRAY,,,,,,, SOFT, 33213000,6373988230f98b4dfd3bdd50772c9dc7
+95,603,D,1,CC,0.0,20.0,199.00,208.37,208.47,PS, NANNOFOSSIL MUD, GRAY,,,,,,, SOFT, 33213000,3f6234987976e822fd1d5281f8393fe5

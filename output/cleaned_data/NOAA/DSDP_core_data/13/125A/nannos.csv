@@ -1,18 +1,18 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,125,A,1,1,74.0,75.0,30.00,30.75, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1
-13,125,A,1,1,74.0,75.0,30.00,30.75, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,125,A,1,2,2.0,3.0,30.00,31.53, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,125,A,1,2,2.0,3.0,30.00,31.53, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-13,125,A,1,2,10.0,11.0,30.00,31.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-13,125,A,1,2,10.0,11.0,30.00,31.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,125,A,2,1,70.0,71.0,39.20,39.90, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1
-13,125,A,2,1,70.0,71.0,39.20,39.90, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,125,A,3,1,30.0,31.0,48.00,48.31, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1
-13,125,A,3,1,30.0,31.0,48.00,48.31, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1
-13,125,A,4,1,7.0,8.0,53.00,53.08, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0470,Discoaster tamalis,PRESENT,  ,1
-13,125,A,4,2,86.0,87.0,53.00,55.37, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0470,Discoaster tamalis,PRESENT,  ,1
-13,125,A,5,1,101.0,102.0,62.00,63.02, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0470,Discoaster tamalis,PRESENT,  ,1
-13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
-13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0465,Discoaster surculus,PRESENT,  ,1
-13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+13,125,A,1,1,74.0,75.0,30.00,30.75, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1,568ef3d2b1370eec0d5181a03d0feace
+13,125,A,1,1,74.0,75.0,30.00,30.75, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,ceae7ac33527633144fdba976fbde0a7
+13,125,A,1,2,2.0,3.0,30.00,31.53, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,b7b7339fc29673db037f0544bcb51f39
+13,125,A,1,2,2.0,3.0,30.00,31.53, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,9dcebd15cd808d95ca3f09f75400471b
+13,125,A,1,2,10.0,11.0,30.00,31.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0080,Discoaster brouweri,PRESENT,  ,1,ed76bdd48b3a78d2f15f69401c3328a3
+13,125,A,1,2,10.0,11.0,30.00,31.61, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,23b5b3f00bb4200e418ef447dbebe1b0
+13,125,A,2,1,70.0,71.0,39.20,39.90, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1,5815fd299c946d9fe13f3678afcbc5dd
+13,125,A,2,1,70.0,71.0,39.20,39.90, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,0b61bbb6592cc08762fcb29aabbc99a2
+13,125,A,3,1,30.0,31.0,48.00,48.31, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NCYCO0110,Cyclococcolithina macintyrei,PRESENT,  ,1,9572f89adb20f47ce4930195912fe552
+13,125,A,3,1,30.0,31.0,48.00,48.31, 2,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NPSEU0010,Pseudoemiliania lacunosa,PRESENT,  ,1,18830122efc90f314eb86c82ec550694
+13,125,A,4,1,7.0,8.0,53.00,53.08, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0470,Discoaster tamalis,PRESENT,  ,1,00d6ebd984acead1fca3bf798dca083a
+13,125,A,4,2,86.0,87.0,53.00,55.37, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0470,Discoaster tamalis,PRESENT,  ,1,e27fba9e76d939aef1cb72126447ae28
+13,125,A,5,1,101.0,102.0,62.00,63.02, 1,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0470,Discoaster tamalis,PRESENT,  ,1,a4163da6016db17f79de30afdeaa4871
+13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1,becb4cd6cd2230fb4e03a3d52c5a67ad
+13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NDISC0465,Discoaster surculus,PRESENT,  ,1,c22db3e8f78ff341ccb74cc0d22d83c6
+13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,81f5d1f15ce57fac625e3207e1323adc
+13,125,A,5,4,4.0,5.0,62.00,66.55, 4,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,824,NSPHN0010,Sphenolithus abies,PRESENT,  ,1,d1d1cfb31f157a61a08c851084db9f56

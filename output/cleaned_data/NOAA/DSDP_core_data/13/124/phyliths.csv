@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITH0020,Lithostylidium biconcavum (q),PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITO0010,Lithomesites pecten (q),PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITO0020,Lithomesites sp.,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITO0030,Lithomesites nodosum,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITD0010,Lithodontium nasutum,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITH0030,Lithostylidium polyedrum (q),PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITD0015,Lithodontium furcatum,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITH0020,Lithostylidium biconcavum (q),PRESENT,  ,1,82ea8fcc0f5be2c1448d3c6c7f921ccc
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITO0010,Lithomesites pecten (q),PRESENT,  ,1,773a6b547ebc1400058e1324249deff3
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITO0020,Lithomesites sp.,PRESENT,  ,1,d768852905877fb8f26ded429bfe70d6
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITO0030,Lithomesites nodosum,PRESENT,  ,1,892913a896e08ccf3f832d393dc07eaf
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITD0010,Lithodontium nasutum,PRESENT,  ,1,dc0fe4e529c31f06c20df3541e8b4ecf
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITH0030,Lithostylidium polyedrum (q),PRESENT,  ,1,2afc3af1feba61f8b00e546f03f297fe
+13,124,,13,2,89.0,90.0,413.00,89.50, 7,"DUMITRICA,P.",,13,PHYTOLITHARIA,,,,,,942,XLITD0015,Lithodontium furcatum,PRESENT,  ,1,75ce271e93a93b7588aed6b2c5b43719

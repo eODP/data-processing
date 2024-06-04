@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-65,485,,5,3,80.0,82.0,31.50,35.31, 1,BENSON,,65,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1
-65,485,,5,4,80.0,82.0,31.50,36.81, 1,BENSON,,65,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1
-65,485,,5,CC,5.0,7.0,31.50,37.73, 1,BENSON,,65,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,FEW,  ,1
-65,485,,6,CC,6.0,8.0,41.00,50.55, 1,BENSON,,65,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+65,485,,5,3,80.0,82.0,31.50,35.31, 1,BENSON,,65,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1,81d39f5a16551d9918d2c2263489efd6
+65,485,,5,4,80.0,82.0,31.50,36.81, 1,BENSON,,65,RADIOLARIA,RARE,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1,de0845f6c620b720d85a581ec8e5792e
+65,485,,5,CC,5.0,7.0,31.50,37.73, 1,BENSON,,65,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,FEW,  ,1,1c3af6f7ab66f5b5a861c35a8b3623c5
+65,485,,6,CC,6.0,8.0,41.00,50.55, 1,BENSON,,65,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,FEW,  ,1,3cc638825370629c71f0722a6def9c6e

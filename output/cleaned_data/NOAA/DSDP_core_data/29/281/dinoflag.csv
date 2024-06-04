@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-29,281,,14,1,120.0,120.0,121.50,122.70, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0050,Deflandrea asymmetrica,PRESENT,  ,1
-29,281,,14,CC,0.0,0.0,121.50,130.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
-29,281,,15,CC,0.0,0.0,131.00,135.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
-29,281,,16,CC,0.0,0.0,140.50,149.85, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+29,281,,14,1,120.0,120.0,121.50,122.70, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0050,Deflandrea asymmetrica,PRESENT,  ,1,fc31474af54723293c797480c2a24b42
+29,281,,14,CC,0.0,0.0,121.50,130.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,80894935aaf8854b0fb9828e661918e5
+29,281,,15,CC,0.0,0.0,131.00,135.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,16de77d9f067b5e292d536b9d561e75d
+29,281,,16,CC,0.0,0.0,140.50,149.85, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,01302953b78a70ec969ae410018413f6

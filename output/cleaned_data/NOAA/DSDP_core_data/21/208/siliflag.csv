@@ -1,6 +1,6 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-21,208,,27,5,103.0,104.0,484.00,491.04, 1,"BUKRY,D.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,892,SNAVI0080,Naviculopsis foliacea,PRESENT,  ,1
-21,208,,29,CC,0.0,0.0,539.00,548.60, 1,"DUMITRICA,P.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,880,SCORB0230,Corbisema inermis disymmetrica,PRESENT,  ,1
-21,208,,30,5,107.0,108.0,548.00,555.08, 1,"BUKRY,D.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,892,SCORB0150,Corbisema hastata,PRESENT,  ,1
-21,208,,31,3,110.0,112.0,558.00,562.11, 1,"BUKRY,D.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,892,SLYRA0020,Lyramula furcula,PRESENT,  ,1
-21,208,,31,CC,0.0,0.0,558.00,562.60, 1,"DUMITRICA,P.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,880,SCORB0210,Corbisema inermis,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+21,208,,27,5,103.0,104.0,484.00,491.04, 1,"BUKRY,D.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,892,SNAVI0080,Naviculopsis foliacea,PRESENT,  ,1,b8be64468ead6866a65c80ff1a18f735
+21,208,,29,CC,0.0,0.0,539.00,548.60, 1,"DUMITRICA,P.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,880,SCORB0230,Corbisema inermis disymmetrica,PRESENT,  ,1,9af7a57c82226028dc98028f06374b8d
+21,208,,30,5,107.0,108.0,548.00,555.08, 1,"BUKRY,D.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,892,SCORB0150,Corbisema hastata,PRESENT,  ,1,03aeb4779b002aa7d694609a21a2f369
+21,208,,31,3,110.0,112.0,558.00,562.11, 1,"BUKRY,D.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,892,SLYRA0020,Lyramula furcula,PRESENT,  ,1,b90ade7771aaa9c46958977e0ea42b98
+21,208,,31,CC,0.0,0.0,558.00,562.60, 1,"DUMITRICA,P.",10/1973,21,SILICOFLAGELLATES,,,,,NO AGE GIVEN,880,SCORB0210,Corbisema inermis,PRESENT,  ,1,c82784b86e0326dd74d5ecd10190bdc3

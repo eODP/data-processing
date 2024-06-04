@@ -1,11 +1,11 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NCOCO0100,Coccolithus eopelagicus,PRESENT,  ,1
-16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDICT0030,Dictyococcites bisectus,PRESENT,  ,1
-16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1
-16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NRETI0200,Reticulofenestra samodurovii,PRESENT,  ,1
-16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1
-16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
-16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NCYCO0040,Cyclococcolithina formosa,PRESENT,  ,1
-16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDICT0050,Dictyococcites scrippsae,PRESENT,  ,1
-16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1
-16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NZYGR0012,Zygrhablithus bijugatus (q),PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NCOCO0100,Coccolithus eopelagicus,PRESENT,  ,1,9594f9e345579647f19a8b0d45d35681
+16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDICT0030,Dictyococcites bisectus,PRESENT,  ,1,249e32b6769c656fa21c9fcc0764de9d
+16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1,a98b29e7fba17c62c16b9b3e67ed78db
+16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NRETI0200,Reticulofenestra samodurovii,PRESENT,  ,1,a8ae8e0b48e1fcfdad64459ebf3144c8
+16,163,,6,3,40.0,42.0,37.00,40.54, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,1,42c097583e85baa6f28f6d0f5fc880bf
+16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1,5201830c48f283d14109acb3b204d276
+16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NCYCO0040,Cyclococcolithina formosa,PRESENT,  ,1,7850f970072dd69b8e2ff56f890e8352
+16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDICT0050,Dictyococcites scrippsae,PRESENT,  ,1,1435428ea4b731bc0704aa6416b1f325
+16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NDISC0040,Discoaster barbadiensis,PRESENT,  ,1,7dbcea081fa45fb614a98d8bf6bc91a9
+16,163,,10,CC,0.0,0.0,73.00,82.10, 5,"BUKRY,D.",04/1973,16,NANNOFOSSILS,,,,,NO AGE GIVEN,697,NZYGR0012,Zygrhablithus bijugatus (q),PRESENT,  ,1,7feb3f29a85ef0e2afca69eaad1b30e4

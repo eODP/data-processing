@@ -1,6 +1,6 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-13,129,B,1,CC,0.0,5.0,26.00,26.10,26.05,, MARL OOZE, 5G6/1-GREEN GREY,,,,,,,, 12210000
-13,129,B,1,CC,5.0,10.0,26.00,26.05,26.10,, FORAM MARL OOZE, -YELLOW BROWN,,,,,,,, 12210000
-13,129,B,1,CC,10.0,15.0,26.00,26.10,26.15,, QUARTZAUNITE, -GREY, SOME LAMINAE,,,,, WELL CEMENTE D, FIRM, 33239000
-13,129,B,1,CC,15.0,20.0,26.00,26.15,26.20,, MICROCONGLOMERATE,,,,,, FORAMS(AS WHITE FRAGMENTS),, FIRM, 33239000
-13,129,B,3,CC,0.0,0.0,0.00,0.10,0.10,, SAND,,,,,,,," MOSTLY SOFT, SOME CEMENTED AREAS", 33214000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+13,129,B,1,CC,0.0,5.0,26.00,26.10,26.05,, MARL OOZE, 5G6/1-GREEN GREY,,,,,,,, 12210000,2add8bf161817f4a285424a0122959c2
+13,129,B,1,CC,5.0,10.0,26.00,26.05,26.10,, FORAM MARL OOZE, -YELLOW BROWN,,,,,,,, 12210000,7f69026510ee85d19e860920004b8dbd
+13,129,B,1,CC,10.0,15.0,26.00,26.10,26.15,, QUARTZAUNITE, -GREY, SOME LAMINAE,,,,, WELL CEMENTE D, FIRM, 33239000,5356ad55a00cc716ef4253ded911441a
+13,129,B,1,CC,15.0,20.0,26.00,26.15,26.20,, MICROCONGLOMERATE,,,,,, FORAMS(AS WHITE FRAGMENTS),, FIRM, 33239000,55d3b6200e2fab26ee3eae1f44e2bcc8
+13,129,B,3,CC,0.0,0.0,0.00,0.10,0.10,, SAND,,,,,,,," MOSTLY SOFT, SOME CEMENTED AREAS", 33214000,823162116d586663f1829ef86b62487e

@@ -1,15 +1,15 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PPINU0010,Pinus sp.,48%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PTSUA0010,Tsuga sp.,7%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PPICE0010,Picea sp.,29%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PABIE0010,Abies sp.,2%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PQUER0010,Quercus sp.,1%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PALNU0010,Alnus sp.,6%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PTAXO0010,Taxodium sp.,TRACE,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PFRAX0010,Fraxinus sp.,1%,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PSALI0010,Salix sp.,TRACE,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PGRAN0010,Graminae,TRACE,  ,1
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PCHEN0010,Chenopodiaceae,TRACE,  ,2
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PCOMS0010,Compositae,TRACE,  ,2
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PLYCP0010,Lycopodiaceae,TRACE,  ,2
-18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PPODA0010,Polypodiaceae,2%,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PPINU0010,Pinus sp.,48%,  ,1,11a184b8c85fdf6399adb03a62e19b56
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PTSUA0010,Tsuga sp.,7%,  ,1,22c2e772bbc5441e1c170766c6af654e
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PPICE0010,Picea sp.,29%,  ,1,36e2592854275705a4726dced4a7bd1a
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PABIE0010,Abies sp.,2%,  ,1,47fe057abfa1094b2815af583eab7fa1
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PQUER0010,Quercus sp.,1%,  ,1,bed8286dfb476e6b49ecdd5426e5cb93
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PALNU0010,Alnus sp.,6%,  ,1,3d450cba234d6f02e85d6f89f3d9eba3
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PTAXO0010,Taxodium sp.,TRACE,  ,1,31adb8e125fbb25e9150c0684adf43ee
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PFRAX0010,Fraxinus sp.,1%,  ,1,40b388e209d8b211a9a91db48ff64503
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PSALI0010,Salix sp.,TRACE,  ,1,7a3de9d781f85cf321c722d7d7609aa4
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PGRAN0010,Graminae,TRACE,  ,1,f388c72b3afa2846c54a11c8258b10b3
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PCHEN0010,Chenopodiaceae,TRACE,  ,2,ce7d2d28f9e8b8466593c98bf32ef34b
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PCOMS0010,Compositae,TRACE,  ,2,5e925ba28a9f0b2a4588a6b3b4cb6cbb
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PLYCP0010,Lycopodiaceae,TRACE,  ,2,23006131c7229c9e1074d9d85530f02c
+18,174,,2,CC,0.0,0.0,2.00,0.00,14,"MUSICH,L.F.",06/1973,18,POLLEN AND SPORES,,,,,,804,PPODA0010,Polypodiaceae,2%,  ,2,fad03e9e6222cf7bca9d9dc92ff2efd4

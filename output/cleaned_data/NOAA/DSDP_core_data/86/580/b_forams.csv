@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-86,580,,1,1,112.0,114.0,0.00,1.13, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1
-86,580,,1,1,112.0,114.0,0.00,1.13, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0060,Melonis pompilioides,RARE,  ,1
-86,580,,2,4,106.0,108.0,3.30,8.87, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1
-86,580,,2,4,106.0,108.0,3.30,8.87, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0060,Melonis pompilioides,RARE,  ,1
-86,580,,2,4,106.0,108.0,3.30,8.87, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BPYRG0038,Pyrgo forhasini,RARE,  ,1
-86,580,,5,5,85.0,87.0,31.80,38.66, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1
-86,580,,5,5,85.0,87.0,31.80,38.66, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BSACC0030,Saccammina sphaerica,RARE,  ,1
-86,580,,5,CC,,,31.80,40.64, 1,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1
-86,580,,6,3,58.,60.,41.30,44.89, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BFISS0015,Fissurina annectens,RARE,  ,1
-86,580,,6,3,58.,60.,41.30,44.89, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1
-86,580,,6,3,58.,60.,41.30,44.89, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0060,Melonis pompilioides,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+86,580,,1,1,112.0,114.0,0.00,1.13, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1,062f4877366402f94ef04ab4e8c0ac0e
+86,580,,1,1,112.0,114.0,0.00,1.13, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0060,Melonis pompilioides,RARE,  ,1,223dc05fcf0cb1d326fea99104c79bf1
+86,580,,2,4,106.0,108.0,3.30,8.87, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1,4c3f720e3034a7e288f8571198891360
+86,580,,2,4,106.0,108.0,3.30,8.87, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0060,Melonis pompilioides,RARE,  ,1,53a26604072dd472ba6bc7fac8163c06
+86,580,,2,4,106.0,108.0,3.30,8.87, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BPYRG0038,Pyrgo forhasini,RARE,  ,1,c34ba3255b1c8e6681504d4f3041b933
+86,580,,5,5,85.0,87.0,31.80,38.66, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1,0b71424285f0497e091173a374438d89
+86,580,,5,5,85.0,87.0,31.80,38.66, 2,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BSACC0030,Saccammina sphaerica,RARE,  ,1,c72bd7e56f22aee074a07c226aba2005
+86,580,,5,CC,,,31.80,40.64, 1,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1,85774ecf9b2102bffd571d5de85d78c5
+86,580,,6,3,58.,60.,41.30,44.89, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BFISS0015,Fissurina annectens,RARE,  ,1,87c5b5f9b166539b7b523c34488fcdb4
+86,580,,6,3,58.,60.,41.30,44.89, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0010,Melonis sp.,RARE,  ,1,d13bbd53bf3e16d1a8a57caa6f66ae3c
+86,580,,6,3,58.,60.,41.30,44.89, 3,DAGOSTINO,11/1985,86,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,341,BMELO0060,Melonis pompilioides,FEW,  ,1,6e19ce341d7533c51417a15f8f2dd5f7

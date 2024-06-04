@@ -1,14 +1,14 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-65,483,B,2,1,70.0,72.0,101.00,101.71, 1,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOG0105,Globigerina bulloides,RARE,  ,1
-65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOD0410,Globigerinoides ruber,FEW,  ,1
-65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOG0105,Globigerina bulloides,RARE,  ,1
-65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOQ0170,Globoquadrina dutertrei,FEW,  ,1
-65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOQ0286,Globoquadrina pachyderma (dex),RARE,  ,1
-65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FPULL0020,Pulleniatina obliquiloculata,FEW,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOA0298,Globorotalia menardii,RARE,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOD0410,Globigerinoides ruber,RARE,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOD0480,Globigerinoides sacculifer,RARE,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOG0105,Globigerina bulloides,RARE,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOQ0170,Globoquadrina dutertrei,RARE,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FORBU0030,Orbulina suturalis,RARE,  ,1
-65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FPULL0020,Pulleniatina obliquiloculata,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+65,483,B,2,1,70.0,72.0,101.00,101.71, 1,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOG0105,Globigerina bulloides,RARE,  ,1,c8612d38dbd007220de5244a8f3e66a0
+65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOD0410,Globigerinoides ruber,FEW,  ,1,8bf84e0a6f941a21ee5f708f30c0ab21
+65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOG0105,Globigerina bulloides,RARE,  ,1,2293dee24b19319e4696f1728e6e3f87
+65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOQ0170,Globoquadrina dutertrei,FEW,  ,1,28aec8b618b7af293c9bb57ad6f2b2d2
+65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOQ0286,Globoquadrina pachyderma (dex),RARE,  ,1,d14c7741d4cfbd03a7e9b23baa673b50
+65,483,B,2,4,70.0,72.0,101.00,106.21, 5,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FPULL0020,Pulleniatina obliquiloculata,FEW,  ,1,d64b1bf92655fbd4017b7e317f6bcda8
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOA0298,Globorotalia menardii,RARE,  ,1,aee576f20bf8d72b404fe72fe8b2193f
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOD0410,Globigerinoides ruber,RARE,  ,1,88486973b3fa8413a6e5a8107e9d0d01
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOD0480,Globigerinoides sacculifer,RARE,  ,1,ee640e7ae03c7da1ce687f12203f5953
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOG0105,Globigerina bulloides,RARE,  ,1,5402c17d5836cadc70cc1631e0ff4541
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FGLOQ0170,Globoquadrina dutertrei,RARE,  ,1,7f46c209f1c99d80cdd12e32c157afd9
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FORBU0030,Orbulina suturalis,RARE,  ,1,4c882be6cb3bf2165774f5812c87232c
+65,483,B,2,6,81.0,83.0,101.00,109.32, 7,BENSON,,65,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,498,FPULL0020,Pulleniatina obliquiloculata,FEW,  ,1,d2cb97bc269dac6a4231b4d0089025a4

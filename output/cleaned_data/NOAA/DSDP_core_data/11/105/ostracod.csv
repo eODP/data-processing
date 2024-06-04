@@ -1,16 +1,16 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-11,105,,33,2,0.0,1.0,558.00,0.50, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
-11,105,,33,2,0.0,1.0,558.00,0.50, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0010,Polycope sp.,PRESENT,  ,1
-11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OFABA0010,Fabalicypris sp.,PRESENT,  ,1
-11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0020,Bairdia farinacciae,PRESENT,  ,1
-11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OMONO0011,Monoceratina sp.(q),PRESENT,  ,1
-11,105,,33,2,100.0,102.0,558.00,101.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
-11,105,,33,4,10.0,30.0,558.00,20.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0011,Bairdia sp. (q),PRESENT,  ,1
-11,105,,34,2,18.0,25.0,567.00,21.50, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
-11,105,,35,2,20.0,40.0,576.00,30.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OSAIP0011,Saipanetta sp.(q),PRESENT,  ,1
-11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1
-11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1
-11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPARA0010,Paracypris sp.,PRESENT,  ,1
-11,105,,36,2,100.0,102.0,585.00,101.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OBYTH0011,Bythoceratina sp. (q),PRESENT,  ,1
-11,105,,38,CC,0.0,0.0,603.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0030,Bairdia italica,PRESENT,  ,1
-11,105,,38,CC,0.0,0.0,603.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0011,Bairdia sp. (q),PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+11,105,,33,2,0.0,1.0,558.00,0.50, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1,77ff22fc3ae6fe41a22390764b5e41c7
+11,105,,33,2,0.0,1.0,558.00,0.50, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPOLY0010,Polycope sp.,PRESENT,  ,1,965ed193f2ce03891534aa77fd8db59a
+11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OFABA0010,Fabalicypris sp.,PRESENT,  ,1,7926b086fe6112b24b9fde5d987e0ffb
+11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0020,Bairdia farinacciae,PRESENT,  ,1,12c9756b0ab770a740935e190635e28c
+11,105,,33,2,20.0,33.0,558.00,26.50, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OMONO0011,Monoceratina sp.(q),PRESENT,  ,1,f259f3132ac7d701649cff81f4cbeed0
+11,105,,33,2,100.0,102.0,558.00,101.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OOSTR0010,Ostracoda indent.,PRESENT,  ,1,3995ca756de2ad05c8bc75674babbd5f
+11,105,,33,4,10.0,30.0,558.00,20.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0011,Bairdia sp. (q),PRESENT,  ,1,a2fce686155e4efe90810e1f177fedc3
+11,105,,34,2,18.0,25.0,567.00,21.50, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1,c8a0bc4e5344e748eff8b1cc1eee2a1b
+11,105,,35,2,20.0,40.0,576.00,30.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OSAIP0011,Saipanetta sp.(q),PRESENT,  ,1,de5847d3ff3464273885f4ed5b61d20a
+11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OBAIR0010,Bairdia sp.,PRESENT,  ,1,be14eacfb889d7421ecdcc0e1bb36602
+11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OOSTR0010,Ostracoda indent.,PRESENT,  ,1,ffc0aa7c951917243a405bff8e9022c4
+11,105,,35,4,44.0,60.0,576.00,52.00, 3,"OERTLI,H.J.",,11,OSTRACODES,,,,,,648,OPARA0010,Paracypris sp.,PRESENT,  ,1,dfa81dc47cf506bfe57d7f12bb6cd328
+11,105,,36,2,100.0,102.0,585.00,101.00, 1,"OERTLI,H.J.",,11,OSTRACODES,,,,,,652,OBYTH0011,Bythoceratina sp. (q),PRESENT,  ,1,e1655105790eb4744d0eb62f27ad48f8
+11,105,,38,CC,0.0,0.0,603.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0030,Bairdia italica,PRESENT,  ,1,f4f30eb16157c2f3d36ae529bda5c278
+11,105,,38,CC,0.0,0.0,603.00,0.00, 2,"OERTLI,H.J.",,11,OSTRACODES,,,,,,650,OBAIR0011,Bairdia sp. (q),PRESENT,  ,1,a913c929180b1d6b5f651c1d6c357f77

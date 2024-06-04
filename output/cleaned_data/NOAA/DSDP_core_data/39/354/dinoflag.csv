@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-39,354,,12,1,117.0,117.0,605.50,607.17, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0010,Actiniscus elongatus,RARE,  ,1
-39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0010,Actiniscus elongatus,FEW,  ,1
-39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,RARE,  ,1
-39,354,,12,4,68.0,68.0,605.50,611.18, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,FEW,  ,1
-39,354,,12,5,81.0,81.0,605.50,612.81, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,RARE,  ,1
-39,354,,12,6,14.0,14.0,605.50,613.64, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+39,354,,12,1,117.0,117.0,605.50,607.17, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0010,Actiniscus elongatus,RARE,  ,1,02ba5ecb18c6bff1cf8b034548ac4bd2
+39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0010,Actiniscus elongatus,FEW,  ,1,2ce1a52b42e6d3a6032a176b69ee4ca4
+39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,RARE,  ,1,7fd9c9ad0c39445f9b0ec685de4015dc
+39,354,,12,4,68.0,68.0,605.50,611.18, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,FEW,  ,1,35906895a6b409cd6d9144d64786064d
+39,354,,12,5,81.0,81.0,605.50,612.81, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,RARE,  ,1,5bb02bbffd0c41bf34561ad20b9f306f
+39,354,,12,6,14.0,14.0,605.50,613.64, 1,"PERCH-NIELSEN,K.",08/1977,39,DINOFLAGELLATES,,,,,NO AGE GIVEN,864,CACTI0020,Actiniscus pentasterias,RARE,  ,1,d8c405d07b75044139882c66d4118564

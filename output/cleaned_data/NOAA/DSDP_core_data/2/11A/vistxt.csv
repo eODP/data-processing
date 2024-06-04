@@ -1,4 +1,4 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-2,11,A,7,1,127.0,134.0,279.80,281.07,281.14,, BASALT, 5Y3/1-VERY DK GRAY,,,,,," BASAL CONTACT DIPS 4 5 DEGREES,ABOVE THE CONTACT BASALT IS GLASSY 2 MM TH EN GRADES INTO A 5 MM FERROMAGNESIAN NIMERAL-RICH BA ND ABOVE WHITE IS BASALT",, 00000000
-2,11,A,7,1,134.0,137.0,279.80,281.14,281.17,, INDURATED METASEDIMENT, 2.5 Y7.5/2-LT GRAY,,,,, SHOWS FORAM REMAINS,,, 00000000
-2,11,A,7,1,137.0,150.0,279.80,281.17,281.30,, BASALT, 5Y3/1-VERY DK GRAY,,,,,,,, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+2,11,A,7,1,127.0,134.0,279.80,281.07,281.14,, BASALT, 5Y3/1-VERY DK GRAY,,,,,," BASAL CONTACT DIPS 4 5 DEGREES,ABOVE THE CONTACT BASALT IS GLASSY 2 MM TH EN GRADES INTO A 5 MM FERROMAGNESIAN NIMERAL-RICH BA ND ABOVE WHITE IS BASALT",, 00000000,592abc2f8f3294ef2c9755fb98319287
+2,11,A,7,1,134.0,137.0,279.80,281.14,281.17,, INDURATED METASEDIMENT, 2.5 Y7.5/2-LT GRAY,,,,, SHOWS FORAM REMAINS,,, 00000000,23d6fb749b8d57a0397ae38eda099097
+2,11,A,7,1,137.0,150.0,279.80,281.17,281.30,, BASALT, 5Y3/1-VERY DK GRAY,,,,,,,, 00000000,cdc1929bfffecc054d90246645e94a95

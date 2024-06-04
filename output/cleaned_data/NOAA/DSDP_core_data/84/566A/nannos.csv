@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCALD0020,Calcidiscus macintyrei,RARE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCOCO0038,Coccolithus carteri,RARE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCOCO0300,Coccolithus pelagicus,RARE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCREN0010,Crenalithus doronicoides,FEW,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NDISC0080,Discoaster brouweri,FEW,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NDISC0350,Discoaster pentaradiatus,TRACE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NHELC0020,Helicosphaera carteri,RARE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NHELC0130,Helicosphaera sellii,RARE,  ,1
-84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NSPHN0150,Sphenolithus neoabies,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCALD0020,Calcidiscus macintyrei,RARE,  ,1,7e33790f56f5147276919d291f41ee41
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCOCO0038,Coccolithus carteri,RARE,  ,1,f3c54145712c3bec8018c62b5b955407
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCOCO0300,Coccolithus pelagicus,RARE,  ,1,89c989af2948be71507e954eb1e6b369
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NCREN0010,Crenalithus doronicoides,FEW,  ,1,43302fdc516d2bcabadcb1abefc1bddf
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NDISC0080,Discoaster brouweri,FEW,  ,1,1a8178c899ee6b4d825e18e430fd4300
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NDISC0350,Discoaster pentaradiatus,TRACE,  ,1,4c7210d3e1193cd2a12a16f2d000c39b
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NHELC0020,Helicosphaera carteri,RARE,  ,1,715bc0cc2095c27559f883e3294e9230
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NHELC0130,Helicosphaera sellii,RARE,  ,1,edd3a92b6a9d70b22fbcdd9cdd6ba900
+84,566,A,1,CC,0.0,0.0,0.00,0.22, 9,FILEWICZ,05/1985,84,NANNOFOSSILS,FEW,,,MODERATE,NO AGE GIVEN,345,NSPHN0150,Sphenolithus neoabies,RARE,  ,1,60b967478a8cf17d57c0b72f198ba893

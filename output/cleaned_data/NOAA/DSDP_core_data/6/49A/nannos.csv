@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1
-6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCOCO0092,Coccolithus doronocoides (q),PRESENT,  ,1
-6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
-6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
-6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NUMBI0030,Umbilicosphaera mirabilis,PRESENT,  ,1
-6,49,A,1,1,69.0,70.0,5.20,5.90, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1007,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
-6,49,A,1,1,69.0,70.0,5.20,5.90, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1007,NDISC0170,Discoaster extensus,PRESENT,  ,1
-6,49,A,1,1,69.0,70.0,5.20,5.90, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1007,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1,de489a948d98895b7baa0749e1ccfebb
+6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCOCO0092,Coccolithus doronocoides (q),PRESENT,  ,1,71f896af81873e3fb83bb994bfc9f9b8
+6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1,614fee35f3626dd470f2b161bc147dfb
+6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,eef8b284b7a9a80ec7e8d7b9204ad91d
+6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1,bfb580349dc72b667bcd52708fc1249c
+6,49,A,1,1,67.0,68.0,5.20,5.88, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,978,NUMBI0030,Umbilicosphaera mirabilis,PRESENT,  ,1,f53e6fa6217cc0e30d7cbeb401cae7e5
+6,49,A,1,1,69.0,70.0,5.20,5.90, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1007,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1,bbbb72822bbad6180803fd540925ff34
+6,49,A,1,1,69.0,70.0,5.20,5.90, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1007,NDISC0170,Discoaster extensus,PRESENT,  ,1,5d2af5ede78d6089c3aed0f3da300198
+6,49,A,1,1,69.0,70.0,5.20,5.90, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1007,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1,7d8fd95538bb6be8df8e477efd7aa1d4

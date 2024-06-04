@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-74,525,,1,1,0.0,150.0,0.00,0.00,1.50,GD, NANNOFOSSIL OOZE, LIGHT GRAYISH,,,,,,, SOFT, 00000000
-74,525,,1,2,0.0,150.0,0.00,1.50,3.00,GD, NANNOFOSSIL OOZE, LIGHT GRAYISH,,,,,,, SOFT, 00000000
-74,525,,1,3,0.0,55.0,0.00,3.00,3.55,GD, NANNOFOSSIL OOZE," WHITE,LIGHT GRAY", BURROWS,,,,,, SOFT, 00000000
-74,525,,1,CC,0.0,10.0,0.00,3.65,3.65,GD, FORAMINIFERAL NANNOFOSSIL OOZE, WHITE,,,,,,, SOFT, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+74,525,,1,1,0.0,150.0,0.00,0.00,1.50,GD, NANNOFOSSIL OOZE, LIGHT GRAYISH,,,,,,, SOFT, 00000000,ee81b8e06c83327e2b326028f8e02879
+74,525,,1,2,0.0,150.0,0.00,1.50,3.00,GD, NANNOFOSSIL OOZE, LIGHT GRAYISH,,,,,,, SOFT, 00000000,304b64cb16ba635589b28c20f53dcc95
+74,525,,1,3,0.0,55.0,0.00,3.00,3.55,GD, NANNOFOSSIL OOZE," WHITE,LIGHT GRAY", BURROWS,,,,,, SOFT, 00000000,d4d72b426aa4881d8adfcfc64432526f
+74,525,,1,CC,0.0,10.0,0.00,3.65,3.65,GD, FORAMINIFERAL NANNOFOSSIL OOZE, WHITE,,,,,,, SOFT, 00000000,4829cef305f1c76ff8fcb07b293b42a5

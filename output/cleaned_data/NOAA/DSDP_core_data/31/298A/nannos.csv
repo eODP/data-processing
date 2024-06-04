@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NCYCO0080,Cyclococcolithina leptopora,RARE,  ,1
-31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NEMIL0020,Emiliania huxleyi,COMMON,  ,1
-31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NEMIL0030,Emiliania ovata,RARE,  ,1
-31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NGEPH0010,Gephyrocapsa aperta,RARE,  ,1
-31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NGEPH0060,Gephyrocapsa oceanica,COMMON,  ,1
-31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NHELI0100,Helicopontosphaera kamptneri,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NCYCO0080,Cyclococcolithina leptopora,RARE,  ,1,1b5aa35516710ed151e2760b6dd9667f
+31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NEMIL0020,Emiliania huxleyi,COMMON,  ,1,1546a93c290de7960304619159c7a08a
+31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NEMIL0030,Emiliania ovata,RARE,  ,1,27144bbfb92cb91754e91a84db74d4e8
+31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NGEPH0010,Gephyrocapsa aperta,RARE,  ,1,4af3c21d5a4a579b960073e2d4b68591
+31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NGEPH0060,Gephyrocapsa oceanica,COMMON,  ,1,93bfe6a14c22b492647d12f87b21719e
+31,298,A,1,CC,0.0,0.0,50.50,52.10, 6,"ELLIS,C.H.",,31,NANNOFOSSILS,,,,GOOD,NO AGE GIVEN,673,NHELI0100,Helicopontosphaera kamptneri,RARE,  ,1,27860083ceb50dd97e8bd28bcc91ef75

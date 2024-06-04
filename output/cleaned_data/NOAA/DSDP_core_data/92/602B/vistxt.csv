@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-92,602,B,1,1,0.0,83.0,0.00,0.00,0.83,LEIN, FORAM AND CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,602,B,1,1,83.0,140.0,0.00,0.83,1.40,LEIN, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,602,B,1,2,0.0,40.0,0.00,1.50,1.90,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,602,B,1,2,40.0,109.0,0.00,1.90,2.59,DKR, NANNOFOSSIL CLAY,,,,,,,, SOFT, 11111210
-92,602,B,1,2,109.0,140.0,0.00,2.59,2.90,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210
-92,602,B,1,3,0.0,30.0,0.00,3.00,3.30,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210
-92,602,B,1,3,30.0,99.0,0.00,3.30,3.99,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210
-92,602,B,1,CC,0.0,14.0,0.00,4.60,4.64,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+92,602,B,1,1,0.0,83.0,0.00,0.00,0.83,LEIN, FORAM AND CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,15b4d09e0805bb5809cd0239d3e54fe9
+92,602,B,1,1,83.0,140.0,0.00,0.83,1.40,LEIN, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,78ac19c9be3a92c64333b55d98d92903
+92,602,B,1,2,0.0,40.0,0.00,1.50,1.90,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,caaa54cccc9bc73ba1e2d633b787bb31
+92,602,B,1,2,40.0,109.0,0.00,1.90,2.59,DKR, NANNOFOSSIL CLAY,,,,,,,, SOFT, 11111210,d1181d8110d5e45617f9b44a83a600d2
+92,602,B,1,2,109.0,140.0,0.00,2.59,2.90,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210,786965629967ec16500d60c84f66c0a3
+92,602,B,1,3,0.0,30.0,0.00,3.00,3.30,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210,10cfaf8748fe6ee85a19b1dd3ea6401c
+92,602,B,1,3,30.0,99.0,0.00,3.30,3.99,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210,128c3df96183869d62eebb44d3e98f90
+92,602,B,1,CC,0.0,14.0,0.00,4.60,4.64,DKR, CLAY-BEARING NANNOFOSSIL OOZE,,,,,,,, SOFT, 11111210,9014726c48f9062147f279635c5a05d0

@@ -1,2 +1,2 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-13,129,A,3,1,10.0,150.0,78.00,78.10,79.50,, QUARTZOSE CLAY, N5-GREY, FOLDED LAYERS(TECTONIC ORIGIN) OF SILTY CLAY,,,,,,, 33211000.3311
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+13,129,A,3,1,10.0,150.0,78.00,78.10,79.50,, QUARTZOSE CLAY, N5-GREY, FOLDED LAYERS(TECTONIC ORIGIN) OF SILTY CLAY,,,,,,, 33211000.3311,6ae54dc38a8e8c8904345b22a893801c

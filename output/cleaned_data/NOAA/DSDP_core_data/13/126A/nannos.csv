@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,126,A,1,1,125.0,126.0,65.00,66.26, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0071,Discoaster bolli (q),PRESENT,  ,1
-13,126,A,1,1,125.0,126.0,65.00,66.26, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0525,Discoaster variabilis,PRESENT,  ,1
-13,126,A,1,1,125.0,126.0,65.00,66.26, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-13,126,A,1,1,135.0,135.0,65.00,66.35, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0071,Discoaster bolli (q),PRESENT,  ,1
-13,126,A,1,1,135.0,135.0,65.00,66.35, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0525,Discoaster variabilis,PRESENT,  ,1
-13,126,A,1,1,135.0,135.0,65.00,66.35, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+13,126,A,1,1,125.0,126.0,65.00,66.26, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0071,Discoaster bolli (q),PRESENT,  ,1,a3aafbdac09d955f6b994773edb9833a
+13,126,A,1,1,125.0,126.0,65.00,66.26, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0525,Discoaster variabilis,PRESENT,  ,1,93103a04cfe8c4a4272f7b15df8d60e3
+13,126,A,1,1,125.0,126.0,65.00,66.26, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,b7d66babdc5be55cd0eb9cca79d94d10
+13,126,A,1,1,135.0,135.0,65.00,66.35, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0071,Discoaster bolli (q),PRESENT,  ,1,ffd395e3dc66319ade9c973520fb6379
+13,126,A,1,1,135.0,135.0,65.00,66.35, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NDISC0525,Discoaster variabilis,PRESENT,  ,1,66a0944e7c0cdca3b36e0c6a8f961b67
+13,126,A,1,1,135.0,135.0,65.00,66.35, 3,"GARTNER,S.",,13,NANNOFOSSILS,,,,,NO AGE GIVEN,825,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,1807d5bdb8977484bbe3dde1f9ded66b

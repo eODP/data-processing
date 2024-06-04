@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0040,Dictyocha aspera clinata,3%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0110,Dictyocha brevispina,19%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0350,Dictyocha hemisphaerica,1%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0570,Dictyocha pulchella,1%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0650,Dictyocha speculum,4%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0724,Dictyocha spp.,2%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0436,Distephanus speculum coronata,5%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0581,Distephanus speculum speculum,27%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SMESO0060,Mesocena circulus,5%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SMESO0098,Mesocena diodon nodosa,37%,  ,1
-81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SMESO0300,Mesocena triodon,1%,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0040,Dictyocha aspera clinata,3%,  ,1,f476aca483bf333fdbd50a1ba03d2ece
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0110,Dictyocha brevispina,19%,  ,1,e74d4a34009541ab11c2d512627614c8
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0350,Dictyocha hemisphaerica,1%,  ,1,dd8cc12b8f0dca8e34e727933b6bf94a
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0570,Dictyocha pulchella,1%,  ,1,b2bba01c0779de3e2ab949aff1a0db1c
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0650,Dictyocha speculum,4%,  ,1,3f47289247d5460a9b668baa02236e1a
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDICT0724,Dictyocha spp.,2%,  ,1,84f3bbb8e0c42ecc34c9df580ac57843
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0436,Distephanus speculum coronata,5%,  ,1,7f7bf015a0fd697010c8c904750e8564
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SDIST0581,Distephanus speculum speculum,27%,  ,1,001180586e9f824a817f1d0f8cf7a6e1
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SMESO0060,Mesocena circulus,5%,  ,1,e621a9a5323e2d98808dc4804ed121bd
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SMESO0098,Mesocena diodon nodosa,37%,  ,1,fc0c319b7b0f089877d1c7cd847d8b10
+81,554,A,1,1,34.0,36.0,76.00,76.35,11,BUKRY,12/1984,81,SILICOFLAGELLATES,,,,,NO AGE GIVEN,552,SMESO0300,Mesocena triodon,1%,  ,2,a07a5d1adbfdc5cae777d6c984bbb495

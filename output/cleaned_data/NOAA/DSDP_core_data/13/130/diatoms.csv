@@ -1,49 +1,49 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DAMPH0050,Amphora holsatica,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DAMPH0060,Amphora minuta interrupta,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DASTR0180,Asteromphalus robustus,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCAML0010,Campylosira sp.,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0050,Coscinodiscus apiculatus,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0180,Coscinodiscus curvatulus arcuata,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0280,Coscinodiscus excentricus,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0570,Coscinodiscus nitidus,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0640,Coscinodiscus occulus-iridis,PRESENT,  ,1
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCYCL0020,Cyclotella comta,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DDIPL0040,Diploneis coffaeiformis,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DEUNO0020,Eunotia pectinalis,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0030,Melosira ambigua,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0070,Melosira granulata,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0010,Stephanodiscus astraea,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0030,Stephanodiscus sp.,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0070,Thalassiosira decipiens,PRESENT,  ,2
-13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DNITZ0010,Nitzschia sp.,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DAMPH0060,Amphora minuta interrupta,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DBACT0010,Bacteriastrum sp.,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCHAE0010,Chaetoceros sp.,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0280,Coscinodiscus excentricus,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DEPIH0050,Epithemia zebra,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0030,Fragilaria construens,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0050,Fragilaria hirosakiensis,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0060,Fragilaria inflata,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0070,Fragilaria inflata istranfyi,PRESENT,  ,1
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0090,Fragilaria leptostauron dubia,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DLIRA0020,Liradiscus ovalis,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0070,Melosira granulata,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0080,Melosira granulata angustissima,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DNAVI0160,Navicula pseudotuscula,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DPARA0010,Paralia sulcata,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DRHIZ0010,Rhizosolenia sp.,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DRHOP0010,Rhopalodia gibba,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTAU0010,Stauroneis sp.,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0010,Stephanodiscus astraea,PRESENT,  ,2
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0020,Stephanodiscus astraea minutula,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0030,Stephanodiscus sp.,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0070,Thalassiosira decipiens,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0280,Thalassiosira oestrupii,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0010,Thalassiosira sp.,PRESENT,  ,3
-13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DNITZ0010,Nitzschia sp.,PRESENT,  ,3
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DAMPH0050,Amphora holsatica,PRESENT,  ,1,c6f4ed1b2d7b6b761ec3e52d10693832
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DAMPH0060,Amphora minuta interrupta,PRESENT,  ,1,a598cbed3eecc7d74eb21d439a01b159
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DASTR0180,Asteromphalus robustus,PRESENT,  ,1,11974375d13cbc99189b8a49aa5a1d7d
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCAML0010,Campylosira sp.,PRESENT,  ,1,6a686ab8305966d0d368d12c92b9ff1b
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0050,Coscinodiscus apiculatus,PRESENT,  ,1,d1f4660433840a3875dfdc368827ef40
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0180,Coscinodiscus curvatulus arcuata,PRESENT,  ,1,21d3414f841b94f4411890474076a136
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0280,Coscinodiscus excentricus,PRESENT,  ,1,ed4cacbde776ca504881bebb50de9e1a
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1,8ce66e9a7635bb16043768b78a2227d0
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0570,Coscinodiscus nitidus,PRESENT,  ,1,1c992bdf076aeab8c28889f77a548f20
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0640,Coscinodiscus occulus-iridis,PRESENT,  ,1,c4ef9b0c51b770f3af64825e19322214
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,2,a7adfe8a324d49aafc3ef57fa4516187
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCYCL0020,Cyclotella comta,PRESENT,  ,2,3df222d687368396f6eff608c04fb70b
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DDIPL0040,Diploneis coffaeiformis,PRESENT,  ,2,acde8715dfdeaa2db00fca5d2a61874e
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DEUNO0020,Eunotia pectinalis,PRESENT,  ,2,e63f4482a2d8a66ba7bb79b12f183150
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0030,Melosira ambigua,PRESENT,  ,2,723945c703a51d340fb2312f5f2aa0a4
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0070,Melosira granulata,PRESENT,  ,2,3ba87a206710bbe16565f77a34905898
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0010,Stephanodiscus astraea,PRESENT,  ,2,83cde8c068ac71cbb465c8213594f03a
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0030,Stephanodiscus sp.,PRESENT,  ,2,4a8f84ea00ff20472146847fcb2f3615
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,2,f9669724ea6e2ac05fa497866f6cced3
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0070,Thalassiosira decipiens,PRESENT,  ,2,1bf780ad5c32459fab35c9b2b15c8b8d
+13,130,,3,CC,0.0,0.0,77.00,0.00,21,"HAJOS,M.",,13,DIATOMS,,,,,,947,DNITZ0010,Nitzschia sp.,PRESENT,  ,3,15eeca30429cafa4f82c49fc0d498173
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DAMPH0060,Amphora minuta interrupta,PRESENT,  ,1,c749211843eb4b6e48bdbe987eaf4a7f
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DBACT0010,Bacteriastrum sp.,PRESENT,  ,1,7b9972231cf6c549e45a1028826f9d43
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCHAE0010,Chaetoceros sp.,PRESENT,  ,1,0c689efd2c1fbf430ba827935689b0a2
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0280,Coscinodiscus excentricus,PRESENT,  ,1,66c3a80504648c087d89366f6cfeb7c5
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DCOSC0410,Coscinodiscus kuetzingii,PRESENT,  ,1,b3238aad862d2056793646439547cd4f
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DEPIH0050,Epithemia zebra,PRESENT,  ,1,1adc8df5796fcca8aa5200b9986227bf
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0030,Fragilaria construens,PRESENT,  ,1,cdc3bef6fa7049b93c4cb1758fca498c
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0050,Fragilaria hirosakiensis,PRESENT,  ,1,27148e0d245a4cbd6cefb5c60a5da08f
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0060,Fragilaria inflata,PRESENT,  ,1,a81ecdc9493ddcfca7ae77b007c47991
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0070,Fragilaria inflata istranfyi,PRESENT,  ,1,94cdc714e3ec30a9291b9da9b4d1b932
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DFRAG0090,Fragilaria leptostauron dubia,PRESENT,  ,2,66114fe935f100f500dd9ab6ebfc9a69
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DLIRA0020,Liradiscus ovalis,PRESENT,  ,2,8118415c1aa4ab74485d40223f0fba93
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0070,Melosira granulata,PRESENT,  ,2,fb3d3dbb60ee53f88bd1ea8bb86f1234
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DMELO0080,Melosira granulata angustissima,PRESENT,  ,2,6e8523cc714c21b43d5822e99737e1f3
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DNAVI0160,Navicula pseudotuscula,PRESENT,  ,2,4a3846e8e1a26768c8cdf38ef73fd1c7
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DPARA0010,Paralia sulcata,PRESENT,  ,2,3f0abe7c83a92474de12f14717472b7c
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DRHIZ0010,Rhizosolenia sp.,PRESENT,  ,2,a5c951ccad1920d5b4f1e2b522391ce7
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DRHOP0010,Rhopalodia gibba,PRESENT,  ,2,31af02e25221c0e7da522fb97a336467
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTAU0010,Stauroneis sp.,PRESENT,  ,2,c1c534356a3b75a79153f532f72989e7
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0010,Stephanodiscus astraea,PRESENT,  ,2,f7a5fdb17af36dcca32433792e033f6e
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0020,Stephanodiscus astraea minutula,PRESENT,  ,3,768d29bbdf03568a92f04514cd1d4cad
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DSTEP0030,Stephanodiscus sp.,PRESENT,  ,3,d806d330583122982a5670949a9f8303
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAL0060,Thalassionema nitzschioides,PRESENT,  ,3,c7c46a5eb0b402d3e535ad6ac7a221e3
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0070,Thalassiosira decipiens,PRESENT,  ,3,0872213ce8b60f0ce2382c73ebc54695
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0280,Thalassiosira oestrupii,PRESENT,  ,3,125f5ec58679a2890c9297ba97c1189c
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DTHAA0010,Thalassiosira sp.,PRESENT,  ,3,d3cfe311cb52a04318c7e23d5dc6d426
+13,130,,4,CC,0.0,0.0,148.00,0.00,27,"HAJOS,M.",,13,DIATOMS,,,,,,947,DNITZ0010,Nitzschia sp.,PRESENT,  ,3,fe52f71fb17d9669fc1948246c2356ec

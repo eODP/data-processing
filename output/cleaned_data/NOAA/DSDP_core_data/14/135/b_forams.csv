@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-14,135,,5,CC,0.0,0.0,335.00,336.60, 1,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNUMU0010,Nummulites sp.,RARE,  ,1
-14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BGYRO0070,Gyroidina florealis,RARE,  ,1
-14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNEOF0040,Neoflabellina numismalis,RARE,  ,1
-14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNUMU0010,Nummulites sp.,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+14,135,,5,CC,0.0,0.0,335.00,336.60, 1,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNUMU0010,Nummulites sp.,RARE,  ,1,fd505ab5d0333f98a635d981101e5953
+14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BGYRO0070,Gyroidina florealis,RARE,  ,1,2e4351899ff82fa39a5237d55076a2e0
+14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNEOF0040,Neoflabellina numismalis,RARE,  ,1,1d835c614031049b80013061ebd827b7
+14,135,,7,2,120.0,122.0,431.00,433.71, 3,"BECKMANN,J.P.",,14,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,396,BNUMU0010,Nummulites sp.,RARE,  ,1,1b473f5313eeed23f6c05939d1e4bf16

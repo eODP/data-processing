@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-65,485,A,2,CC,19.0,21.0,60.00,65.86, 1,BENSON,1/81931,65,RADIOLARIA,FEW,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1
-65,485,A,3,CC,2.0,4.0,69.50,73.18, 2,BENSON,1/81931,65,RADIOLARIA,ABUNDANT,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,COMMON,  ,1
-65,485,A,3,CC,2.0,4.0,69.50,73.18, 2,BENSON,1/81931,65,RADIOLARIA,ABUNDANT,,,GOOD,NO AGE GIVEN,497,RLAMR0040,Lamprocyrtis neoheteroporos,RARE,  ,1
-65,485,A,34,1,9.0,11.0,277.00,277.10, 1,BENSON,1/81931,65,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+65,485,A,2,CC,19.0,21.0,60.00,65.86, 1,BENSON,1/81931,65,RADIOLARIA,FEW,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1,8ba0e1a34b8ee70584b48936c6fd0fed
+65,485,A,3,CC,2.0,4.0,69.50,73.18, 2,BENSON,1/81931,65,RADIOLARIA,ABUNDANT,,,GOOD,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,COMMON,  ,1,8382fdf6a3d379726a7840e3736a85d5
+65,485,A,3,CC,2.0,4.0,69.50,73.18, 2,BENSON,1/81931,65,RADIOLARIA,ABUNDANT,,,GOOD,NO AGE GIVEN,497,RLAMR0040,Lamprocyrtis neoheteroporos,RARE,  ,1,0011a8239e6e975759690379012f3e27
+65,485,A,34,1,9.0,11.0,277.00,277.10, 1,BENSON,1/81931,65,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,497,RAXOP0010,Axoprunum angelinum,RARE,  ,1,84553012fd337ae6c685302ff461d258

@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-59,451,,1,CC,,,0.00,4.21, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0171,Dictyocha fibula (q),RARE,  ,1
-59,451,,1,CC,,,0.00,4.21, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0410,Dictyocha messanensis,RARE,  ,1
-59,451,,2,1,43.0,44.0,5.00,5.44, 1,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0010,Dictyocha aculeata,RARE,  ,1
-59,451,,2,3,29.0,30.0,5.00,8.30, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0162,Dictyocha epiodon (q),RARE,  ,1
-59,451,,2,3,29.0,30.0,5.00,8.30, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0410,Dictyocha messanensis,COMMON,  ,1
-59,451,,2,6,8.0,9.0,5.00,12.59, 1,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0162,Dictyocha epiodon (q),RARE,  ,1
-59,451,,4,1,9.0,10.0,24.00,24.10, 3,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0162,Dictyocha epiodon (q),COMMON,  ,1
-59,451,,4,1,9.0,10.0,24.00,24.10, 3,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDIST0350,Distephanus quinquangellus,RARE,  ,1
-59,451,,4,1,9.0,10.0,24.00,24.10, 3,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDIST0420,Distephanus speculum,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+59,451,,1,CC,,,0.00,4.21, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0171,Dictyocha fibula (q),RARE,  ,1,b7c60b7fce0da8f6de34dc2724118a6e
+59,451,,1,CC,,,0.00,4.21, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0410,Dictyocha messanensis,RARE,  ,1,277cfe9dc98b31b53d2b1ba8cbb9dcff
+59,451,,2,1,43.0,44.0,5.00,5.44, 1,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0010,Dictyocha aculeata,RARE,  ,1,f0bc5a0896d0315d890b2275e74e5606
+59,451,,2,3,29.0,30.0,5.00,8.30, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0162,Dictyocha epiodon (q),RARE,  ,1,c4d4fcef96e1c35cfc09f3ec0f968881
+59,451,,2,3,29.0,30.0,5.00,8.30, 2,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0410,Dictyocha messanensis,COMMON,  ,1,c70b282d26c60a00d347dd4b6e438a52
+59,451,,2,6,8.0,9.0,5.00,12.59, 1,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0162,Dictyocha epiodon (q),RARE,  ,1,a9dbea7b0c0dba473ec374f5ac38d819
+59,451,,4,1,9.0,10.0,24.00,24.10, 3,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDICT0162,Dictyocha epiodon (q),COMMON,  ,1,8ab94f6c7002500ccb5ef4c5570d9fc3
+59,451,,4,1,9.0,10.0,24.00,24.10, 3,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDIST0350,Distephanus quinquangellus,RARE,  ,1,df86866b80af381065264fb91f0f1f82
+59,451,,4,1,9.0,10.0,24.00,24.10, 3,"MARTINI,E.",03/1982,60,SILICOFLAGELLATES,,,,,NO AGE GIVEN,566,SDIST0420,Distephanus speculum,RARE,  ,1,321bfafa049658548303865433e32866

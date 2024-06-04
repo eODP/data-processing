@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-39,354,,12,1,49.0,49.0,605.50,606.49, 3,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,FEW,  ,1
-39,354,,12,1,49.0,49.0,605.50,606.49, 3,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0380,Corbisema triacantha,FEW,  ,1
-39,354,,12,1,49.0,49.0,605.50,606.49, 3,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SDICT0728,Dictyocha sp.,FEW,  ,1
-39,354,,12,2,49.0,49.0,605.50,607.99, 1,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,RARE,  ,1
-39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,FEW,  ,1
-39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SDICT0728,Dictyocha sp.,FEW,  ,1
-39,354,,12,6,99.0,99.0,605.50,614.49, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,RARE,  ,1
-39,354,,12,6,99.0,99.0,605.50,614.49, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0380,Corbisema triacantha,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+39,354,,12,1,49.0,49.0,605.50,606.49, 3,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,FEW,  ,1,9175b4b6016ce46c787b4b8752ac83e4
+39,354,,12,1,49.0,49.0,605.50,606.49, 3,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0380,Corbisema triacantha,FEW,  ,1,a4baec5ab594c1c7197426a477943388
+39,354,,12,1,49.0,49.0,605.50,606.49, 3,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SDICT0728,Dictyocha sp.,FEW,  ,1,e9106b7c94c51384ec0339a388556260
+39,354,,12,2,49.0,49.0,605.50,607.99, 1,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,RARE,  ,1,24a4d81c6c47f2e23871273cdc3f3971
+39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,FEW,  ,1,ad18d332b5b6cc62a7ef8c9b4d22bdf8
+39,354,,12,3,75.0,75.0,605.50,609.75, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SDICT0728,Dictyocha sp.,FEW,  ,1,43d3adc9c18cb02909992c6c8253e822
+39,354,,12,6,99.0,99.0,605.50,614.49, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0030,Corbisema bimucronata,RARE,  ,1,16ee1add71c7d19dbe5ce810b2512530
+39,354,,12,6,99.0,99.0,605.50,614.49, 2,"PERCH-NIELSEN,K.",08/1977,39,SILICOFLAGELLATES,,,,,NO AGE GIVEN,864,SCORB0380,Corbisema triacantha,RARE,  ,1,2660d3f891291b9af9e18571344a1e5f

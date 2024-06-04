@@ -1,2 +1,2 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-70,506,G,1,1,103.0,150.0,27.50,28.53,29.00,, SANDY AND SANDY SILT," BLACK,GREENISH BLACK,GREENISH GRAY",,,  *,,,, SOFT, 33214000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id
+70,506,G,1,1,103.0,150.0,27.50,28.53,29.00,, SANDY AND SANDY SILT," BLACK,GREENISH BLACK,GREENISH GRAY",,,  *,,,, SOFT, 33214000,ebc7f4b5bac41abb030447bd706d8574

@@ -1,6 +1,6 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-42,375,,5,5,0.0,0.0,360.00,366.40, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,PRESENT,  ,1
-42,375,,6,6,0.0,0.0,461.00,468.50, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,PRESENT,  ,1
-42,375,,8,2,0.0,0.0,622.00,623.93, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,PRESENT,  ,1
-42,375,,10,2,50.0,56.0,675.50,677.53, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OPSAM0010,Psammocythere,50%,  ,1
-42,375,,10,2,50.0,56.0,675.50,677.53, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0020,Krithe cita,50%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+42,375,,5,5,0.0,0.0,360.00,366.40, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,PRESENT,  ,1,183fc25d34d339fb1fd44fe5ba535d77
+42,375,,6,6,0.0,0.0,461.00,468.50, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,PRESENT,  ,1,0c6dfb2cbc2867eea758f4e82b7c76e2
+42,375,,8,2,0.0,0.0,622.00,623.93, 1,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OCYPR0010,Cyprideis pannonica,PRESENT,  ,1,8805c80360e573ed9556e4e65128bee6
+42,375,,10,2,50.0,56.0,675.50,677.53, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OPSAM0010,Psammocythere,50%,  ,1,5a8efbbfce9ddcb78c86332632271fee
+42,375,,10,2,50.0,56.0,675.50,677.53, 2,"BENSON,R.H.",04/1978,42,OSTRACODES,,,,,NO AGE GIVEN,780,OKRIT0020,Krithe cita,50%,  ,1,6769e1f14af45c74677624545b6b9195

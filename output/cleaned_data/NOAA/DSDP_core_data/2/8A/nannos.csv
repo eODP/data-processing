@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1
-2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
-2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NCOCO0300,Coccolithus pelagicus,PRESENT,  ,1,41d047bd0bc1aa10056ef5520b0eb575
+2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,7eadb28cf6b228ccb362affd352fe7ba
+2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1,e28ed9f3c20cf97ee0a9738cbbbe6d07
+2,8,A,X1,CC,0.0,0.0,0.00,0.10, 4,"BUKRY,D.",,2,NANNOFOSSILS,,,,,NO AGE GIVEN,349,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,2c854996d0c4704d391f995750d60e27

@@ -1,6 +1,6 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-45,395,,4,1,70.0,70.0,26.57,27.27, 1,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,314,NCERO0085,Ceratolithus separatus,PRESENT,  ,1
-45,395,,6,CC,,,45.63,50.23, 1,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,316,NAMAU0020,Amaurolithus bizzarus,PRESENT,  ,1
-45,395,,9,2,75.0,75.0,74.19,76.44, 2,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,314,NCERO0083,Ceratolithus simplex,PRESENT,  ,1
-45,395,,9,2,75.0,75.0,74.19,76.44, 2,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,314,NCERO0085,Ceratolithus separatus,PRESENT,  ,1
-45,395,,9,CC,,,74.19,83.29, 1,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,316,NCERO0010,Ceratolithus acutus,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id
+45,395,,4,1,70.0,70.0,26.57,27.27, 1,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,314,NCERO0085,Ceratolithus separatus,PRESENT,  ,1,a88a8c7cb574235db06c5d886f6438b0
+45,395,,6,CC,,,45.63,50.23, 1,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,316,NAMAU0020,Amaurolithus bizzarus,PRESENT,  ,1,dbc4c40917d8be015753e7b882e36e78
+45,395,,9,2,75.0,75.0,74.19,76.44, 2,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,314,NCERO0083,Ceratolithus simplex,PRESENT,  ,1,c0e1cf3a2c6bb71435a566ecd1769371
+45,395,,9,2,75.0,75.0,74.19,76.44, 2,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,314,NCERO0085,Ceratolithus separatus,PRESENT,  ,1,0956e133e1c8be275b7da8b5daf127e6
+45,395,,9,CC,,,74.19,83.29, 1,"BUKRY,D.",01/1979,45,NANNOFOSSILS,,,,,NO AGE GIVEN,316,NCERO0010,Ceratolithus acutus,PRESENT,  ,1,4e0e3f20b5655f5842bbefdccb6653b5
