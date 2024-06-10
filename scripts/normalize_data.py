@@ -112,6 +112,40 @@ def create_sample_name(df):
         raise ValueError("File does not have the expected columns.")
 
 
+def create_sample_name_for_row_noaa(row, columns):
+    name = ""
+    if not_empty(row["leg"]):
+        name = f"{row['leg']}"
+
+    name += "-"
+    if not_empty(row["site"]):
+        name += f"{row['site']}"
+    if not_empty(row["hole"]):
+        name += f"{row['hole']}"
+    name += "-"
+    if not_empty(row["core"]):
+        name += f"{row['core']}"
+    name += "-"
+    if not_empty(row["section"]):
+        name += f"{row['section']}"
+
+
+    name = re.sub("-{2,}", "-", name)
+    return re.sub("-$", "", name)
+
+
+def create_sample_name_noaa(df):
+    """Uses leg...section columns to create a name for a sample"""
+    names = {"leg", "site", "hole", "core", "section"}
+    if names.issubset(df.columns):
+        df["sample"] = df.apply(
+            lambda row: create_sample_name_for_row_noaa(row, df.columns), axis=1
+        )
+
+    else:
+        raise ValueError("File does not have the expected columns.")
+
+
 def normalize_expedition_section_cols(df):
     """Create Exp...Section columns using Sample or Label ID"""
     # NOTE: There was one file that did not have A/W column

@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0490,Coscinodiscus marginatus,03%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0880,Coscinodiscus tabularis,03%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,55%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,03%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0020,Thalassiosira antarctica,13%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0192,Thalassiosira leptopus,03%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0195,Thalassiosira lineata,03%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,06%,  ,1
-55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,10%,  ,1
-55,431,A,1,1,145.0,148.0,0.00,1.47, 2,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,50%,  ,1
-55,431,A,1,1,145.0,148.0,0.00,1.47, 2,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,50%,  ,1
-55,431,A,1,CC,,,0.00,2.02, 1,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,00%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0490,Coscinodiscus marginatus,03%,  ,1,f357d0ab9733c9441244c96043813321,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DCOSC0880,Coscinodiscus tabularis,03%,  ,1,81ff226b42d213cc4ada404da2d6ef42,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,55%,  ,1,cc02233fcbe3bed8abec66d002c7b8da,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,03%,  ,1,376378583cdf034048f418ddc5232089,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0020,Thalassiosira antarctica,13%,  ,1,7a0f3c61216d6b1eecdb6c2758f7ea77,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0192,Thalassiosira leptopus,03%,  ,1,ca6f800ec504364c110a9a4d644f5ccf,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0195,Thalassiosira lineata,03%,  ,1,611524347cd1109578a1cde154dec23c,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,06%,  ,1,3280b77599508a9877640e9707d1880c,55-431A-1-1
+55,431,A,1,1,5.0,8.0,0.00,0.07, 9,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,10%,  ,1,79bbd967703c5b29d364c86aabf88818,55-431A-1-1
+55,431,A,1,1,145.0,148.0,0.00,1.47, 2,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DDENT0150,Denticula seminae,50%,  ,1,6d086337105e4a3e224bbc00240059d8,55-431A-1-1
+55,431,A,1,1,145.0,148.0,0.00,1.47, 2,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,50%,  ,1,0d20f462f3cfd399e455fcfd07a207ef,55-431A-1-1
+55,431,A,1,CC,,,0.00,2.02, 1,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAL0060,Thalassionema nitzschioides,00%,  ,1,4d6d398bd4371855704b0365346372de,55-431A-1-CC

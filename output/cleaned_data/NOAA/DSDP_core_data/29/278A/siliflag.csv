@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDICT0010,Dictyocha aculeata,PRESENT,  ,1
-29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0110,Distephanus crux,1%,  ,1
-29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0280,Distephanus octonarius,1%,  ,1
-29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0350,Distephanus quinquangellus,2%,  ,1
-29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0400,Distephanus septenarius,3%,  ,1
-29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0424,Distephanus speculum s.l.,93%,  ,1
-29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SCORB0380,Corbisema triacantha,1%,  ,1
-29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0280,Distephanus octonarius,2%,  ,1
-29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0350,Distephanus quinquangellus,PRESENT,  ,1
-29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0400,Distephanus septenarius,1%,  ,1
-29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0424,Distephanus speculum s.l.,96%,  ,1
-29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SSEPT0010,Septamesocena apiculata,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDICT0010,Dictyocha aculeata,PRESENT,  ,1,e434879e174dc296b5529da5211edfde,29-278A-1-CC
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0110,Distephanus crux,1%,  ,1,499fd10565b76bff292740b05b8eba97,29-278A-1-CC
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0280,Distephanus octonarius,1%,  ,1,c358633c2e46b1d43712c39359a9d6fc,29-278A-1-CC
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0350,Distephanus quinquangellus,2%,  ,1,f3243120a0ea320f420dae1a1173111f,29-278A-1-CC
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0400,Distephanus septenarius,3%,  ,1,3ddd09873bff2649d291d7c162922a91,29-278A-1-CC
+29,278,A,1,CC,0.0,0.0,15.50,17.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0424,Distephanus speculum s.l.,93%,  ,1,951e690eee5a33385bb63fa254952446,29-278A-1-CC
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SCORB0380,Corbisema triacantha,1%,  ,1,1023fe76e5afacf71e87c977952d705a,29-278A-2-CC
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0280,Distephanus octonarius,2%,  ,1,5d59672530180d7105b51699c3a9d0dc,29-278A-2-CC
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0350,Distephanus quinquangellus,PRESENT,  ,1,5b0044b1c74afd9be0c459fe2ecf66c0,29-278A-2-CC
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0400,Distephanus septenarius,1%,  ,1,5a98332cf8d812a46158e702e7f2c6c6,29-278A-2-CC
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SDIST0424,Distephanus speculum s.l.,96%,  ,1,cbf701022ec70b53119f430b289b338d,29-278A-2-CC
+29,278,A,2,CC,0.0,0.0,25.00,31.10, 6,"PERCH-NIELSEN,K.",,29,SILICOFLAGELLATES,,,,,NO AGE GIVEN,680,SSEPT0010,Septamesocena apiculata,PRESENT,  ,1,a2bd54af9b7f0563224c414677e42067,29-278A-2-CC

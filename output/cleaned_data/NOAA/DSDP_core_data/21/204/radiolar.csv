@@ -1,21 +1,21 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RAMPP0010,Amphiplecta acrostoma,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RANTY0040,Anthocyrtidium ophirense,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RANTY0060,Anthocyrtidium zanguebaricum,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RBUCC0010,Buccinosphaera invaginata,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RCLAA0010,Clathrocycloma sp.,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RDICU0010,Dictyophimus sp.,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,REUCH0020,Euchitonia elegans,ABUNDANT,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RLAMP0050,Lamprocyclas maritalis,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RLITO0090,Lithocampe heptacola,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RLITX0010,Lithopera bacca,RARE,  ,1
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,ROMMA0070,Ommatartus tetrathalamus,COMMON,  ,2
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RPTER0060,Pterocanium praetextum,RARE,  ,2
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RTHEY0020,Theocorythium trachelium,FEW,  ,2
-21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RTHOS0046,Tholospyris cupula (q),RARE,  ,2
-21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RAMPP0010,Amphiplecta acrostoma,RARE,  ,1
-21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RCLAA0010,Clathrocycloma sp.,RARE,  ,1
-21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,REUCH0020,Euchitonia elegans,RARE,  ,1
-21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,ROMMA0070,Ommatartus tetrathalamus,RARE,  ,1
-21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RTHEY0020,Theocorythium trachelium,RARE,  ,1
-21,204,,1,4,78.0,80.0,0.00,5.29, 1,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,REUCH0020,Euchitonia elegans,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RAMPP0010,Amphiplecta acrostoma,RARE,  ,1,8c76ae5537a0314ab083ee9992223b0f,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RANTY0040,Anthocyrtidium ophirense,RARE,  ,1,c56d61ce526f19e21ad26cfb3ef6d89c,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RANTY0060,Anthocyrtidium zanguebaricum,RARE,  ,1,8c6cf7f274efdf11e448303f03c43b29,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RBUCC0010,Buccinosphaera invaginata,RARE,  ,1,3fe078732d8374c498d309b35e8b93e9,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RCLAA0010,Clathrocycloma sp.,RARE,  ,1,ab2dd7ef44688a5c8ac0a142131e7201,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RDICU0010,Dictyophimus sp.,RARE,  ,1,523bbbebed29adef1d783ad060205181,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,REUCH0020,Euchitonia elegans,ABUNDANT,  ,1,6eaeacf249c8f5999b1385aad8c0dcfb,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RLAMP0050,Lamprocyclas maritalis,RARE,  ,1,869269150c4bec000a3e5ff1b9121653,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RLITO0090,Lithocampe heptacola,RARE,  ,1,aa1e371a8020df6d56caac48ae65cd4f,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RLITX0010,Lithopera bacca,RARE,  ,1,088184622f24931843df19bdfe51f651,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,ROMMA0070,Ommatartus tetrathalamus,COMMON,  ,2,2caeb26653d24c3c165ebdb41a8a5a95,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RPTER0060,Pterocanium praetextum,RARE,  ,2,d00fd1d39be6ae5e5d4874c42cbd6e34,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RTHEY0020,Theocorythium trachelium,FEW,  ,2,10f6415836dd135801d28e9249e8ac7d,21-204-1-1
+21,204,,1,1,0.0,2.0,0.00,0.01,14,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RTHOS0046,Tholospyris cupula (q),RARE,  ,2,6c0d2f640d19206be05701094b808b5d,21-204-1-1
+21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RAMPP0010,Amphiplecta acrostoma,RARE,  ,1,3eec53252791bca0f5f40d035c874ec4,21-204-1-1
+21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RCLAA0010,Clathrocycloma sp.,RARE,  ,1,274af7475c004b7aba6dc02c768d3462,21-204-1-1
+21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,REUCH0020,Euchitonia elegans,RARE,  ,1,080ecf1f24d588a282c46323b67067a5,21-204-1-1
+21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,ROMMA0070,Ommatartus tetrathalamus,RARE,  ,1,2e0031e8bddd2eba7a2a3552eb9b53de,21-204-1-1
+21,204,,1,1,45.0,47.0,0.00,0.46, 5,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,RTHEY0020,Theocorythium trachelium,RARE,  ,1,887b0dd87994bfb2230c5d18894a7e35,21-204-1-1
+21,204,,1,4,78.0,80.0,0.00,5.29, 1,"DUMITRICA,P.",10/1973,21,RADIOLARIA,,,,,NO AGE GIVEN,40,REUCH0020,Euchitonia elegans,RARE,  ,1,16a3666dd8001bab12fc5d8a472d6ab5,21-204-1-4

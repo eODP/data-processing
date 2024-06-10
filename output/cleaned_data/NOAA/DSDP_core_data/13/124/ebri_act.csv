@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,124,,13,2,68.0,71.0,413.00,69.50, 1,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0010,Hermesium sp.,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 1,"HAJOS,M.",,13,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,945,QHERE0020,Hermesium adriaticum,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QEBRI0010,Ebria mediterranensis,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QPODA0010,Podamphoropsis joidesi,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0010,Hermesium sp.,PRESENT,  ,1
-13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0040,Hermesium schulzi,PRESENT,  ,1
-13,124,,13,2,97.0,100.0,413.00,98.50, 1,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0010,Hermesium sp.,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+13,124,,13,2,68.0,71.0,413.00,69.50, 1,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0010,Hermesium sp.,PRESENT,  ,1,ec15596f2937e7cffd44887ad39b624b,13-124-13-2
+13,124,,13,2,89.0,90.0,413.00,89.50, 1,"HAJOS,M.",,13,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,945,QHERE0020,Hermesium adriaticum,PRESENT,  ,1,51996e6290fdcc7c6a93c01981bcd3e6,13-124-13-2
+13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,a456cd5fbfaf103d5b5d52742d4b1e4d,13-124-13-2
+13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QEBRI0010,Ebria mediterranensis,PRESENT,  ,1,5ad698f5fe9e531909fff8d8fb1c7b4c,13-124-13-2
+13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QPODA0010,Podamphoropsis joidesi,PRESENT,  ,1,6b26f6a3b6074368e52094f87ea2f042,13-124-13-2
+13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0010,Hermesium sp.,PRESENT,  ,1,44de6e870827e7605a630cab197e7706,13-124-13-2
+13,124,,13,2,89.0,90.0,413.00,89.50, 5,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0040,Hermesium schulzi,PRESENT,  ,1,75c51de953e2864248d6df8c3ed799a7,13-124-13-2
+13,124,,13,2,97.0,100.0,413.00,98.50, 1,"DUMITRICA,P.",,13,EBRIDIANS & ACTINICIDIANS,,,,,,936,QHERE0010,Hermesium sp.,PRESENT,  ,1,5cc9dd1389c45400c0c359235c521e75,13-124-13-2

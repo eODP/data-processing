@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DCOSC0585,Coscinodiscus nodulifer apiculata (q),RARE,  ,1
-84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1
-84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DPSED0010,Pseudoeunotia doliolus,RARE,  ,1
-84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DRHIZ0290,Rhizosolenia praebergonii,RARE,  ,1
-84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DTHAA0280,Thalassiosira oestrupii,FEW,  ,1
-84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DACTI0090,Actinocyclus ellipticus,RARE,  ,1
-84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DCOSC0585,Coscinodiscus nodulifer apiculata (q),RARE,  ,1
-84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1
-84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DPSED0010,Pseudoeunotia doliolus,COMMON,  ,1
-84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DRHIZ0290,Rhizosolenia praebergonii,RARE,  ,1
-84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DTHAA0280,Thalassiosira oestrupii,COMMON,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DCOSC0585,Coscinodiscus nodulifer apiculata (q),RARE,  ,1,3306f83d4bcf1e39f97d885a8b49c2e0,84-567-1-CC
+84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1,1ffd2ee38da53aff3b640e945573838e,84-567-1-CC
+84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DPSED0010,Pseudoeunotia doliolus,RARE,  ,1,7eaf8a72a68554382ecaa67cb0315e6c,84-567-1-CC
+84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DRHIZ0290,Rhizosolenia praebergonii,RARE,  ,1,da84859b69d29fba0ba5b481167ffbec,84-567-1-CC
+84,567,,1,CC,0.0,0.0,176.10,176.20, 5,WINSBOROUGH,05/1985,84,DIATOMS,,,,POOL,NO AGE GIVEN,519,DTHAA0280,Thalassiosira oestrupii,FEW,  ,1,5ead4d128dc9f1920485072451472d05,84-567-1-CC
+84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DACTI0090,Actinocyclus ellipticus,RARE,  ,1,d7481cf626f244122efa834c83955ec8,84-567-2-CC
+84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DCOSC0585,Coscinodiscus nodulifer apiculata (q),RARE,  ,1,7cfbaa285d028ef4c2bf734bd35b2d43,84-567-2-CC
+84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1,b14534257a8a8b3064c76e6c324f1201,84-567-2-CC
+84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DPSED0010,Pseudoeunotia doliolus,COMMON,  ,1,ece67b6828615dc307a70e3974a37e7d,84-567-2-CC
+84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DRHIZ0290,Rhizosolenia praebergonii,RARE,  ,1,60bbc6d2d4ce99e482a61eca942f0cef,84-567-2-CC
+84,567,,2,CC,0.0,0.0,185.80,185.90, 6,WINSBOROUGH,05/1985,84,DIATOMS,,,,MODERATE,NO AGE GIVEN,519,DTHAA0280,Thalassiosira oestrupii,COMMON,  ,1,52a6318b150291b104c2c306acc780ed,84-567-2-CC

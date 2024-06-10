@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-39,356,,6,6,130.0,131.0,114.00,122.81, 2,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DCRAS0020,Craspedodiscus oblongus,PRESENT,  ,1
-39,356,,6,6,130.0,131.0,114.00,122.81, 2,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DHEMI0010,Hemiaulus sp.,PRESENT,  ,1
-39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DACTI0011,Actinocyclus bisenarius (q),PRESENT,  ,1
-39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DASTE0037,Asterolampra decora,PRESENT,  ,1
-39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DBRIG0020,Brightwellia sp.,PRESENT,  ,1
-39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DTRIN0011,Trinacria sp. (q),PRESENT,  ,1
-39,356,,9,2,130.0,131.0,190.00,192.81, 1,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DBRIG0011,Brightwellia pulchra (q),PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+39,356,,6,6,130.0,131.0,114.00,122.81, 2,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DCRAS0020,Craspedodiscus oblongus,PRESENT,  ,1,1753a3acaec4670e8e8deb34befae091,39-356-6-6
+39,356,,6,6,130.0,131.0,114.00,122.81, 2,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DHEMI0010,Hemiaulus sp.,PRESENT,  ,1,6bdc282a8da99c4c109ca7c24bde358e,39-356-6-6
+39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DACTI0011,Actinocyclus bisenarius (q),PRESENT,  ,1,5b2d0d1f64fecf13660b10064f98d447,39-356-9-1
+39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DASTE0037,Asterolampra decora,PRESENT,  ,1,cc1c1e2bb8969e673c896b46dc441119,39-356-9-1
+39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DBRIG0020,Brightwellia sp.,PRESENT,  ,1,83620539f04b543ec51ff77a0a0c8d8d,39-356-9-1
+39,356,,9,1,130.0,131.0,190.00,191.31, 4,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DTRIN0011,Trinacria sp. (q),PRESENT,  ,1,7ddfcd3b6f006511a26811cf8651d755,39-356-9-1
+39,356,,9,2,130.0,131.0,190.00,192.81, 1,"BUKRY,D.",08/1977,39,DIATOMS,,,,,NO AGE GIVEN,836,DBRIG0011,Brightwellia pulchra (q),PRESENT,  ,1,7dfba95054071ad27e344f27c3196adc,39-356-9-2

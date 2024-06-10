@@ -1,11 +1,11 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-25,239,,1,3,50.0,50.0,0.00,3.50, 1,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,626,NTHOR0030,Thoracosphaera heimii,PRESENT,  ,1
-25,239,,3,1,60.0,60.0,18.00,18.60, 1,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,620,NSCYP0040,Scyphosphaera campanula,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NCERO0100,Ceratolithus tricorniculatus,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NPONT0141,Pontospahera sp.,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NSCYP0080,Scyphosphaera cylindrica,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NSPHN0010,Sphenolithus abies,PRESENT,  ,1
-25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NTRIQ0045,Triquetrorhabdulus sp.,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+25,239,,1,3,50.0,50.0,0.00,3.50, 1,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,626,NTHOR0030,Thoracosphaera heimii,PRESENT,  ,1,af491c3ea375bee5f526ccbb596dfbdb,25-239-1-3
+25,239,,3,1,60.0,60.0,18.00,18.60, 1,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,620,NSCYP0040,Scyphosphaera campanula,PRESENT,  ,1,6af26f2a12a7c6e3c30bf0e36eb71bce,25-239-3-1
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NCERO0100,Ceratolithus tricorniculatus,PRESENT,  ,1,ae605c0f33c981b4732df4a0f3fb332c,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1,7d6af39339259b57a1531f5517277c29,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NCYCC0130,Cyclococcolithus macintyrei,PRESENT,  ,1,77489b331089dbfd1b296792537e5ae7,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NDISC0390,Discoaster quinqueramus,PRESENT,  ,1,ee276ecbf38d5932b3ccb30ac84d8570,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NPONT0141,Pontospahera sp.,PRESENT,  ,1,fb79d3a52571844b5e36725579e3791d,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NSCYP0080,Scyphosphaera cylindrica,PRESENT,  ,1,37156e999dfd2f1b850be035f647c1e9,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NSPHN0010,Sphenolithus abies,PRESENT,  ,1,2c44b838fc9ffb6251a2885dc3271932,25-239-4-4
+25,239,,4,4,145.0,145.0,66.00,71.95, 8,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,600,NTRIQ0045,Triquetrorhabdulus sp.,PRESENT,  ,1,0c56536008db16ec4d0c869822520576,25-239-4-4

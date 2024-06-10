@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOA0256,Globorotalia kugleri,PRESENT,  ,1
-4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOA0432,Globorotalia pseudokugleri,PRESENT,  ,1
-4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOA0498,Globorotalia siakensis,PRESENT,  ,1
-4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOD0360,Globigerinoides quadrilobatus primordius,PRESENT,  ,1
-4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOS0065,Globorotaloides suteri (q),PRESENT,  ,1
-4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOT0070,Globigerinita dissimilis dissimilis,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOA0256,Globorotalia kugleri,PRESENT,  ,1,09a5e000710cece83a8a376462a6f15c,4-24-1-1
+4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOA0432,Globorotalia pseudokugleri,PRESENT,  ,1,1c470228b84c372f10a72b8256922e7b,4-24-1-1
+4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOA0498,Globorotalia siakensis,PRESENT,  ,1,a0a7e8d16c7856c41b0006c94559b69f,4-24-1-1
+4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOD0360,Globigerinoides quadrilobatus primordius,PRESENT,  ,1,8a6454ad4def23e4b55d957ad01143c4,4-24-1-1
+4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOS0065,Globorotaloides suteri (q),PRESENT,  ,1,0bc27f7f707018cfaacdad66d36c9b31,4-24-1-1
+4,24,,1,1,34.0,35.0,198.00,198.35, 6,"BLOW,W.H.",,4,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,390,FGLOT0070,Globigerinita dissimilis dissimilis,PRESENT,  ,1,15867151563567456a84b7e1e35844f3,4-24-1-1

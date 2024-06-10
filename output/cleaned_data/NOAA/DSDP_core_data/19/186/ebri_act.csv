@@ -1,16 +1,16 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-19,186,,16,CC,0.0,0.0,394.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-19,186,,17,1,132.0,134.0,422.00,133.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,RARE,  ,1
-19,186,,17,CC,0.0,0.0,422.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,RARE,  ,1
-19,186,,18,CC,0.0,0.0,440.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),PRESENT,  ,1
-19,186,,22,CC,0.0,0.0,562.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-19,186,,23,2,122.0,124.0,618.00,123.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-19,186,,23,2,122.0,124.0,618.00,123.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1
-19,186,,23,3,52.0,54.0,618.00,53.00, 3,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-19,186,,23,3,52.0,54.0,618.00,53.00, 3,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1
-19,186,,23,3,52.0,54.0,618.00,53.00, 3,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0010,Ebriopsis antiqua,PRESENT,  ,1
-19,186,,23,CC,0.0,0.0,618.00,0.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-19,186,,23,CC,0.0,0.0,618.00,0.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1
-19,186,,24,1,52.0,54.0,683.00,53.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
-19,186,,24,1,52.0,54.0,683.00,53.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1
-19,186,,25,CC,0.0,0.0,731.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+19,186,,16,CC,0.0,0.0,394.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,b7f645c16730525c9656c1ea03a384da,19-186-16-CC
+19,186,,17,1,132.0,134.0,422.00,133.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,RARE,  ,1,5f64d3b6b0703a1f0bb936495753cd9d,19-186-17-1
+19,186,,17,CC,0.0,0.0,422.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,RARE,  ,1,34f3625b090c450da48d42d063443346,19-186-17-CC
+19,186,,18,CC,0.0,0.0,440.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),PRESENT,  ,1,cb827aa4075118705e3222eceb1af225,19-186-18-CC
+19,186,,22,CC,0.0,0.0,562.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,22bed3dcf5406545398defc9c4e34340,19-186-22-CC
+19,186,,23,2,122.0,124.0,618.00,123.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,3e00e19fd9261fff309af33b5f99e3cb,19-186-23-2
+19,186,,23,2,122.0,124.0,618.00,123.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1,05f21f805ffaaaa794a93c40946b40bf,19-186-23-2
+19,186,,23,3,52.0,54.0,618.00,53.00, 3,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,d95355ed060b5e2897f2e3c444f95733,19-186-23-3
+19,186,,23,3,52.0,54.0,618.00,53.00, 3,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1,ec6d08994d251dc9b9ec0cda18605941,19-186-23-3
+19,186,,23,3,52.0,54.0,618.00,53.00, 3,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0010,Ebriopsis antiqua,PRESENT,  ,1,589403416aa35bfa3f81bf50d7cab862,19-186-23-3
+19,186,,23,CC,0.0,0.0,618.00,0.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,fe46315ad8ae7bad2d6ae922ed4d31f7,19-186-23-CC
+19,186,,23,CC,0.0,0.0,618.00,0.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1,59e90aaad81fe890cbf769e983e45ef6,19-186-23-CC
+19,186,,24,1,52.0,54.0,683.00,53.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,ea5b5cc0924bebff62a77be9208ad5af,19-186-24-1
+19,186,,24,1,52.0,54.0,683.00,53.00, 2,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QEBRO0015,Ebriopsis antiqua (without spines),RARE,  ,1,e29908814e22d5f675225aa76a40be5f,19-186-24-1
+19,186,,25,CC,0.0,0.0,731.00,0.00, 1,"LING,H.Y.",06/1973,19,EBRIDIANS & ACTINICIDIANS,,,,,NO AGE GIVEN,758,QAMMO0030,Ammodochium rectangulare,PRESENT,  ,1,efac1df18d4bb4b0776f4bdcb938bb16,19-186-25-CC

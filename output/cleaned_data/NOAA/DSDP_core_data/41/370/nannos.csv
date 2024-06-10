@@ -1,15 +1,15 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0030,Discoaster asymmetricus,10%,  ,1
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0080,Discoaster brouweri,28%,  ,1
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0215,Discoaster intercalaris,7%,  ,1
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0350,Discoaster pentaradiatus,5%,  ,1
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0365,Discoaster phyllodus,36%,  ,1
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0470,Discoaster tamalis,13%,  ,1
-41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0525,Discoaster variabilis,1%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0030,Discoaster asymmetricus,6%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0080,Discoaster brouweri,22%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0350,Discoaster pentaradiatus,15%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0465,Discoaster surculus,44%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0470,Discoaster tamalis,9%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0515,Discoaster triradiatus,1%,  ,1
-41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0525,Discoaster variabilis,4%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0030,Discoaster asymmetricus,10%,  ,1,86565e800109dee08f11169da5b79d52,41-370-1-3
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0080,Discoaster brouweri,28%,  ,1,0c11ce3557c0053a931942ebdf792817,41-370-1-3
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0215,Discoaster intercalaris,7%,  ,1,b85726a831edd176c612ef52d7510e48,41-370-1-3
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0350,Discoaster pentaradiatus,5%,  ,1,3a224edc3edbcdb512156fab8231fec1,41-370-1-3
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0365,Discoaster phyllodus,36%,  ,1,ab8e65609ba733fb92791c3b3682e4a7,41-370-1-3
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0470,Discoaster tamalis,13%,  ,1,3408c5eda8e60fd8259a1869179ac5f9,41-370-1-3
+41,370,,1,3,70.0,71.0,0.00,3.71, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0525,Discoaster variabilis,1%,  ,1,1eeeb6c8feb4d91d77c2fd10599175d6,41-370-1-3
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0030,Discoaster asymmetricus,6%,  ,1,b2a4783b09e17d21d042b98471f091d3,41-370-1-5
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0080,Discoaster brouweri,22%,  ,1,cc3ef53f437715e0249363d1df277f6e,41-370-1-5
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0350,Discoaster pentaradiatus,15%,  ,1,5d2119d2831e70e5118c187e0ca95975,41-370-1-5
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0465,Discoaster surculus,44%,  ,1,1c745c43b9fabec32f8f843e65260840,41-370-1-5
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0470,Discoaster tamalis,9%,  ,1,797cef4fc95ad09ec474bd7fa5550de3,41-370-1-5
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0515,Discoaster triradiatus,1%,  ,1,98209be9a3a736b9575c36ff6a428caf,41-370-1-5
+41,370,,1,5,0.0,0.0,0.00,6.00, 7,"BUKRY,D.",01/1978,41,NANNOFOSSILS,,,,,NO AGE GIVEN,693,NDISC0525,Discoaster variabilis,4%,  ,1,76974c6b98c8de6306aaee966a9f16c2,41-370-1-5

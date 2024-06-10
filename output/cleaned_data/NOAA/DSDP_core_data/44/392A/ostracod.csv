@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-44,392,A,1,2,58.0,60.0,50.50,59.00, 3,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OPHAC0010,Phacorhabdotus marssoni (q),PRESENT,  ,1
-44,392,A,1,2,58.0,60.0,50.50,59.00, 3,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OPTER0020,Pterygocythere latcristata (q),PRESENT,  ,1
-44,392,A,1,2,58.0,60.0,50.50,59.00, 3,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OCYTH0010,Cythereis sp.,PRESENT,  ,1
-44,392,A,2,2,135.0,137.0,66.00,136.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OCYTE0010,Cytherella sp.,PRESENT,  ,1
-44,392,A,2,2,135.0,137.0,66.00,136.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OCYTP0012,Cytheropteron inaquivalve (q),PRESENT,  ,1
-44,392,A,3,2,127.0,129.0,79.00,128.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OPARA0010,Paracypris sp.,PRESENT,  ,1
-44,392,A,3,2,127.0,129.0,79.00,128.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OKRIT0010,Krithe sp.,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+44,392,A,1,2,58.0,60.0,50.50,59.00, 3,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OPHAC0010,Phacorhabdotus marssoni (q),PRESENT,  ,1,8a1e46a217a413ddeceb958d6bcd7d9f,44-392A-1-2
+44,392,A,1,2,58.0,60.0,50.50,59.00, 3,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OPTER0020,Pterygocythere latcristata (q),PRESENT,  ,1,66601c24cd11c894f9430f9bc35b4835,44-392A-1-2
+44,392,A,1,2,58.0,60.0,50.50,59.00, 3,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OCYTH0010,Cythereis sp.,PRESENT,  ,1,08306414c3a4dafa240b1585e4b593f4,44-392A-1-2
+44,392,A,2,2,135.0,137.0,66.00,136.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OCYTE0010,Cytherella sp.,PRESENT,  ,1,f200a1bfe4917ef40f584b04da8a4e38,44-392A-2-2
+44,392,A,2,2,135.0,137.0,66.00,136.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OCYTP0012,Cytheropteron inaquivalve (q),PRESENT,  ,1,e87fbc5729d9208044b622b3f30cf3ae,44-392A-2-2
+44,392,A,3,2,127.0,129.0,79.00,128.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OPARA0010,Paracypris sp.,PRESENT,  ,1,60b491e7edde99769e99e9de8c09b313,44-392A-3-2
+44,392,A,3,2,127.0,129.0,79.00,128.00, 2,"SWAIN,F.M.",,44,OSTRACODES,,,,,,921,OKRIT0010,Krithe sp.,PRESENT,  ,1,c224a857c6793c353a999beb2196737f,44-392A-3-2

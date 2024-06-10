@@ -1,3 +1,3 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-31,298,A,1,1,105.0,138.0,50.50,51.55,51.88,, SAND, 5Y2/1-OLIVE BLACK,, INTENSE DEFORMATION,,,, H IGHLY MIXED, SOFT, 33214000
-31,298,A,1,1,138.0,150.0,50.50,51.88,52.00,, SILTY CLAY, 5GY4/1-DARK GREEN GREY,, INTENSE DEFO RMATION,,,,, SOFT, 33214000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+31,298,A,1,1,105.0,138.0,50.50,51.55,51.88,, SAND, 5Y2/1-OLIVE BLACK,, INTENSE DEFORMATION,,,, H IGHLY MIXED, SOFT, 33214000,dd3a0151041968f47900072501a349a1,31-298A-1-1
+31,298,A,1,1,138.0,150.0,50.50,51.88,52.00,, SILTY CLAY, 5GY4/1-DARK GREEN GREY,, INTENSE DEFO RMATION,,,,, SOFT, 33214000,06d345baf0e6ec0c4ce616c709091f2a,31-298A-1-1

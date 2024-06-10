@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-66,493,B,1,CC,,,12.00,17.28, 1,MCMILLEN,02/1982,66,RADIOLARIA,FEW,,,GOOD,NO AGE GIVEN,649,ROMMA0070,Ommatartus tetrathalamus,FEW,  ,1
-66,493,B,2,CC,,,21.50,30.93, 3,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RAMPR0020,Amphirhopalum ypsilon,RARE,  ,1
-66,493,B,2,CC,,,21.50,30.93, 3,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,ROMMA0070,Ommatartus tetrathalamus,COMMON,  ,1
-66,493,B,2,CC,,,21.50,30.93, 3,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RSPON0050,Spongaster tetras,FEW,  ,1
-66,493,B,3,CC,,,31.00,40.53, 1,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RSPON0050,Spongaster tetras,RARE,  ,1
-66,493,B,11,CC,,,107.00,111.60, 2,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,ROMMA0070,Ommatartus tetrathalamus,RARE,  ,1
-66,493,B,11,CC,,,107.00,111.60, 2,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RSTIO0070,Stichocorys peregrina,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+66,493,B,1,CC,,,12.00,17.28, 1,MCMILLEN,02/1982,66,RADIOLARIA,FEW,,,GOOD,NO AGE GIVEN,649,ROMMA0070,Ommatartus tetrathalamus,FEW,  ,1,51f89ddf36b34816171fed38a1ff3bc4,66-493B-1-CC
+66,493,B,2,CC,,,21.50,30.93, 3,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RAMPR0020,Amphirhopalum ypsilon,RARE,  ,1,dace81168391355341ff93d385195fad,66-493B-2-CC
+66,493,B,2,CC,,,21.50,30.93, 3,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,ROMMA0070,Ommatartus tetrathalamus,COMMON,  ,1,18ebf45657f9cc15afbb7e6e4b837ef2,66-493B-2-CC
+66,493,B,2,CC,,,21.50,30.93, 3,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RSPON0050,Spongaster tetras,FEW,  ,1,eedf03679666775a184a8bf641c4d572,66-493B-2-CC
+66,493,B,3,CC,,,31.00,40.53, 1,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RSPON0050,Spongaster tetras,RARE,  ,1,1c6f0bd7758b26d6d155d3124d2ba200,66-493B-3-CC
+66,493,B,11,CC,,,107.00,111.60, 2,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,ROMMA0070,Ommatartus tetrathalamus,RARE,  ,1,0e26260696902237cfb38041b67d4041,66-493B-11-CC
+66,493,B,11,CC,,,107.00,111.60, 2,MCMILLEN,02/1982,66,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,649,RSTIO0070,Stichocorys peregrina,RARE,  ,1,130e4725d8e288491dc277f88963d616,66-493B-11-CC

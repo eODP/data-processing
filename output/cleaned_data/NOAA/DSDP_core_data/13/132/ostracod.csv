@@ -1,16 +1,16 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-13,132,,6,1,16.0,24.0,45.00,45.20, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OBATH0010,Bathycythere sp.,PRESENT,  ,1
-13,132,,6,1,16.0,24.0,45.00,45.20, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1
-13,132,,6,1,16.0,24.0,45.00,45.20, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OPSEO0010,Pseudocythere sp.,PRESENT,  ,1
-13,132,,7,4,72.0,82.0,54.00,59.57, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OBYTO0020,Bythocypris obtusata,PRESENT,  ,1
-13,132,,7,4,72.0,82.0,54.00,59.57, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OCYTE0020,Cytherella volgata,PRESENT,  ,1
-13,132,,7,4,72.0,82.0,54.00,59.57, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1
-13,132,,8,1,54.0,63.0,63.00,63.59, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OBYTH0020,Bythoceratina scaberrima,PRESENT,  ,1
-13,132,,8,1,54.0,63.0,63.00,63.59, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OCYTE0020,Cytherella volgata,PRESENT,  ,1
-13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OAGRE0020,Agrenocythere pliocenica,PRESENT,  ,1
-13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OCYTE0020,Cytherella volgata,PRESENT,  ,1
-13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OHENR0020,Henryhowella asperrima,PRESENT,  ,1
-13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1
-13,132,,18,3,4.0,13.0,153.00,156.34, 1,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OAGRE0020,Agrenocythere pliocenica,PRESENT,  ,1
-13,132,,19,CC,0.0,0.0,162.00,168.10, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OHENR0020,Henryhowella asperrima,PRESENT,  ,1
-13,132,,19,CC,0.0,0.0,162.00,168.10, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+13,132,,6,1,16.0,24.0,45.00,45.20, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OBATH0010,Bathycythere sp.,PRESENT,  ,1,31e3925ad187e668694ef414121b9154,13-132-6-1
+13,132,,6,1,16.0,24.0,45.00,45.20, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1,dba639312a3da339cb70560b34a52fb1,13-132-6-1
+13,132,,6,1,16.0,24.0,45.00,45.20, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OPSEO0010,Pseudocythere sp.,PRESENT,  ,1,79abdf2ec590ad2d57cb5480e40b0ce8,13-132-6-1
+13,132,,7,4,72.0,82.0,54.00,59.57, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OBYTO0020,Bythocypris obtusata,PRESENT,  ,1,e7a602be810af9ddf9483fee69386b71,13-132-7-4
+13,132,,7,4,72.0,82.0,54.00,59.57, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OCYTE0020,Cytherella volgata,PRESENT,  ,1,377efd0607ad4e85279a3ec43a27dcbe,13-132-7-4
+13,132,,7,4,72.0,82.0,54.00,59.57, 3,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1,470a0550e8d327f0cb42a4d6d0a7f3af,13-132-7-4
+13,132,,8,1,54.0,63.0,63.00,63.59, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OBYTH0020,Bythoceratina scaberrima,PRESENT,  ,1,183156179863fb9fa53f258fbb24a038,13-132-8-1
+13,132,,8,1,54.0,63.0,63.00,63.59, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OCYTE0020,Cytherella volgata,PRESENT,  ,1,6061bed64506ac159caef80907739e3c,13-132-8-1
+13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OAGRE0020,Agrenocythere pliocenica,PRESENT,  ,1,fe25280eb9c3d07b7ab874ef71de6a7c,13-132-11-3
+13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OCYTE0020,Cytherella volgata,PRESENT,  ,1,b172cd8d4ecb200f2febda7ebf3b229f,13-132-11-3
+13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OHENR0020,Henryhowella asperrima,PRESENT,  ,1,5ed231a76799f834b511f67d0450ac4b,13-132-11-3
+13,132,,11,3,45.0,54.0,90.00,93.50, 4,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1,b56be67d2592c08562b1b524299cb9e9,13-132-11-3
+13,132,,18,3,4.0,13.0,153.00,156.34, 1,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OAGRE0020,Agrenocythere pliocenica,PRESENT,  ,1,e1522384a856488de87f5ab23d186446,13-132-18-3
+13,132,,19,CC,0.0,0.0,162.00,168.10, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OHENR0020,Henryhowella asperrima,PRESENT,  ,1,ce0aa5e730514603f21cc3550ab4a0ce,13-132-19-CC
+13,132,,19,CC,0.0,0.0,162.00,168.10, 2,"BENSON,R.E.",,13,OSTRACODES,,,,,NO AGE GIVEN,1003,OKRIT0010,Krithe sp.,PRESENT,  ,1,8304371340ec5f72289e055ace2ba992,13-132-19-CC

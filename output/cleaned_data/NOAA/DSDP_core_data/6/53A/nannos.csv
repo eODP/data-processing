@@ -1,18 +1,18 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-6,53,A,2,1,145.0,150.0,21.60,23.07, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1008,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1008,NDISC0170,Discoaster extensus,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1008,NDISC0375,Discoaster prepentaradiatus,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0102,Discoaster challengerii,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0165,Discoaster exilis,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
-6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-6,53,A,2,4,24.0,25.0,21.60,26.35, 1,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0170,Discoaster extensus,PRESENT,  ,1
-6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0100,Discoaster challengerii,PRESENT,  ,1
-6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0167,Discoaster exilis (q),PRESENT,  ,1
-6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0525,Discoaster variabilis,PRESENT,  ,1
-6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NTRIQ0040,Triquetrorhabdulus rugosus,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+6,53,A,2,1,145.0,150.0,21.60,23.07, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1008,NDISC0080,Discoaster brouweri,PRESENT,  ,1,0e483787f495b22d3837f0678cf26887,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1008,NDISC0170,Discoaster extensus,PRESENT,  ,1,96272246b2167dffdfd181c022acfffb,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 3,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1008,NDISC0375,Discoaster prepentaradiatus,PRESENT,  ,1,b1668804a119ff2b83fed6aa1f5a19e5,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,b1a41f965900817df9e730efd497d55a,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0080,Discoaster brouweri,PRESENT,  ,1,3176ecab5130dd3a6bbfcb181e8a1720,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0102,Discoaster challengerii,PRESENT,  ,1,9602b3389c1cc82ab2f59a2d53377db4,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0165,Discoaster exilis,PRESENT,  ,1,2074e902088e41bf6efb0f93fe511b83,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0350,Discoaster pentaradiatus,PRESENT,  ,1,2f0da1c8fa30378169070413e49b7f46,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,497b49cf093159ff9dea8110ff3821d5,6-53A-2-1
+6,53,A,2,1,145.0,150.0,21.60,23.07, 7,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,75f371899749a17a929d43e539b3b5ee,6-53A-2-1
+6,53,A,2,4,24.0,25.0,21.60,26.35, 1,"HAY,W.W.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,1009,NDISC0170,Discoaster extensus,PRESENT,  ,1,d24065c024ccf928ef9f9c828c1d1766,6-53A-2-4
+6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,e41886774e8bd92a7749ad52368a70a2,6-53A-3-5
+6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0100,Discoaster challengerii,PRESENT,  ,1,8c78ba464876b0e2fc9e8e22e1f191d7,6-53A-3-5
+6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0167,Discoaster exilis (q),PRESENT,  ,1,6c5ea8bbc2c043fb7dfb346aa88566d4,6-53A-3-5
+6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NDISC0525,Discoaster variabilis,PRESENT,  ,1,5cc366b6662fdbc1490633219ed5c6dd,6-53A-3-5
+6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,cbd5c7fc5ee470437fda3983acc6d500,6-53A-3-5
+6,53,A,3,5,75.0,76.0,53.30,60.06, 6,"BUKRY,D.",,6,NANNOFOSSILS,,,,,NO AGE GIVEN,981,NTRIQ0040,Triquetrorhabdulus rugosus,PRESENT,  ,1,e3b9fd77254a28c5b044bd7f7f2c616f,6-53A-3-5

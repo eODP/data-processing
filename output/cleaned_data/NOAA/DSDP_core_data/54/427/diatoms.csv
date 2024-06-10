@@ -1,15 +1,15 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-54,427,,3,1,40.0,42.0,13.00,13.41, 1,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,466,DASTR0081,Asteromphalus flabellatus (q),PRESENT,  ,1
-54,427,,3,2,70.0,72.0,13.00,15.21, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,3,2,70.0,72.0,13.00,15.21, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,03%,  ,1
-54,427,,4,1,50.0,52.0,32.00,32.51, 1,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,4,2,40.0,42.0,32.00,33.91, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,4,2,40.0,42.0,32.00,33.91, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,02%,  ,1
-54,427,,6,4,74.0,76.0,60.50,65.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,6,4,74.0,76.0,60.50,65.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,00%,  ,1
-54,427,,7,1,74.0,76.0,89.00,89.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,7,3,74.0,76.0,89.00,92.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1
-54,427,,8,2,74.0,76.0,117.50,119.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,8,4,74.0,76.0,117.50,122.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1
-54,427,,8,5,7.0,8.0,117.50,123.58, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1
-54,427,,8,5,7.0,8.0,117.50,123.58, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,01%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+54,427,,3,1,40.0,42.0,13.00,13.41, 1,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,466,DASTR0081,Asteromphalus flabellatus (q),PRESENT,  ,1,5d2511d859dd513a96578d919b763f95,54-427-3-1
+54,427,,3,2,70.0,72.0,13.00,15.21, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,8f7c1707b5e48d0f9251d9b86540caae,54-427-3-2
+54,427,,3,2,70.0,72.0,13.00,15.21, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,03%,  ,1,63672b1bdbd3b96769d095dd26693828,54-427-3-2
+54,427,,4,1,50.0,52.0,32.00,32.51, 1,"BARRON,J.A.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,482,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,8dec5b6a9d1f92dcfc4555a0dd47757b,54-427-4-1
+54,427,,4,2,40.0,42.0,32.00,33.91, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,9f9e3a1d261221b3a2555ca0aff033f8,54-427-4-2
+54,427,,4,2,40.0,42.0,32.00,33.91, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,02%,  ,1,7b91cdca10ed41573106233439825d94,54-427-4-2
+54,427,,6,4,74.0,76.0,60.50,65.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,b2deb401eb0eb33f59c16b6557210f00,54-427-6-4
+54,427,,6,4,74.0,76.0,60.50,65.75, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,00%,  ,1,f282416675122d3ce0b617892be7b9cd,54-427-6-4
+54,427,,7,1,74.0,76.0,89.00,89.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,b0e58dd3ceaa6030e39f33a733804ccc,54-427-7-1
+54,427,,7,3,74.0,76.0,89.00,92.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1,8463bbbcd3aebf9afa55fa7216db9310,54-427-7-3
+54,427,,8,2,74.0,76.0,117.50,119.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,490a6ff927054924e9b805d40417d665,54-427-8-2
+54,427,,8,4,74.0,76.0,117.50,122.75, 1,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1,d685008913d74e59ff5e7e1d1f68f4ed,54-427-8-4
+54,427,,8,5,7.0,8.0,117.50,123.58, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DETHM0010,Ethmodiscus rex,PRESENT,  ,1,6bdf76053302b435b8ad963bfe93b5ff,54-427-8-5
+54,427,,8,5,7.0,8.0,117.50,123.58, 2,"BUKRY,D.",12/1980,54,DIATOMS,,,,,NO AGE GIVEN,551,DTHAA0193,Thalassiosira leptopus elliptica,01%,  ,1,1483278758891ec481692a38b65041ee,54-427-8-5

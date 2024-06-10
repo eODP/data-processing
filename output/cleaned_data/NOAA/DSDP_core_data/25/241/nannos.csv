@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-25,241,,7,CC,0.0,0.0,142.00,149.60, 3,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NCATI0021,Catinaster coalithus (q),PRESENT,  ,1
-25,241,,7,CC,0.0,0.0,142.00,149.60, 3,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NCATI0030,Catinaster mexicanus,PRESENT,  ,1
-25,241,,7,CC,0.0,0.0,142.00,149.60, 3,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NDISC0525,Discoaster variabilis,PRESENT,  ,1
-25,241,,16,2,130.0,130.0,455.00,457.80, 2,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,602,NSPHN0050,Sphenolithus ciperoensis,PRESENT,  ,1
-25,241,,16,2,130.0,130.0,455.00,457.80, 2,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,602,NSPHN0100,Sphenolithus distentus,PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NCORO0040,Corollithion exiguum,PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NCORO0060,Corollithion signum,PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NLITR0020,Lithraphidites carniolensis,PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NSTEP0030,Stephanolithion laffittei,PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NTETR0010,Tetralithus aculeus,PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NVEKS0011,Vekshinella dibrachiata (q),PRESENT,  ,1
-25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NZYGO0205,Zygodiscus sp.,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+25,241,,7,CC,0.0,0.0,142.00,149.60, 3,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NCATI0021,Catinaster coalithus (q),PRESENT,  ,1,8a8a255c8f20e5a12aca305a1d7b3619,25-241-7-CC
+25,241,,7,CC,0.0,0.0,142.00,149.60, 3,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NCATI0030,Catinaster mexicanus,PRESENT,  ,1,041907b2efbf4b61d7823eb455607200,25-241-7-CC
+25,241,,7,CC,0.0,0.0,142.00,149.60, 3,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,614,NDISC0525,Discoaster variabilis,PRESENT,  ,1,a6427c775103cdeafcf50ecc34b84a44,25-241-7-CC
+25,241,,16,2,130.0,130.0,455.00,457.80, 2,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,602,NSPHN0050,Sphenolithus ciperoensis,PRESENT,  ,1,ac0a899ab32ffa40eaeb424217f9d3f1,25-241-16-2
+25,241,,16,2,130.0,130.0,455.00,457.80, 2,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,602,NSPHN0100,Sphenolithus distentus,PRESENT,  ,1,ffc71b524c0038a3f337fdfee53be218,25-241-16-2
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NCORO0040,Corollithion exiguum,PRESENT,  ,1,83cb7b04764efd63a6d9ee1af92b9c49,25-241-27-4
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NCORO0060,Corollithion signum,PRESENT,  ,1,1dfc86acd23a8153777af8d2da09f738,25-241-27-4
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NLITR0020,Lithraphidites carniolensis,PRESENT,  ,1,49bafa50f3c419dd038e5291980c877b,25-241-27-4
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NSTEP0030,Stephanolithion laffittei,PRESENT,  ,1,66f708ed5f6ab78572478a947fe1e763,25-241-27-4
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NTETR0010,Tetralithus aculeus,PRESENT,  ,1,4749b5b837f97c2c07de5f04df83cb49,25-241-27-4
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NVEKS0011,Vekshinella dibrachiata (q),PRESENT,  ,1,f2ae61d5dbd988be24869f1579d40a81,25-241-27-4
+25,241,,27,4,148.0,148.0,977.00,982.98, 7,"MULLER,C.",05/1974,25,NANNOFOSSILS,,,,,NO AGE GIVEN,628,NZYGO0205,Zygodiscus sp.,PRESENT,  ,1,893770118445e68f78627b6d912ac887,25-241-27-4

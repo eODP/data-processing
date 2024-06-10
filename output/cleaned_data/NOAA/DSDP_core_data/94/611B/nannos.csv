@@ -1,14 +1,14 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCALD0010,Calcidiscus leptoporus,COMMON,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCOCO0060,Coccolithus crassus,PRESENT,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCOCO0300,Coccolithus pelagicus,RARE,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0010,Gephyrocapsa aperta,COMMON,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0020,Gephyrocapsa caribbeanica,FEW,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0060,Gephyrocapsa oceanica,FEW,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0075,Gephyrocapsa parallela,PRESENT,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0095,Gephyrocapsa sinuosa,RARE,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NHELC0020,Helicosphaera carteri,PRESENT,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NHELC0072,Helicosphaera inversa,RARE,  ,1
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NOOLI0010,Oolithotus antillarum,PRESENT,  ,2
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NRHAO0010,Rhabdosphaera clavigera,RARE,  ,2
-94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NSYRA0070,Syracosphaera pulchra,FEW,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCALD0010,Calcidiscus leptoporus,COMMON,  ,1,7aafce6ee55b12d9a4141992a513a7d8,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCOCO0060,Coccolithus crassus,PRESENT,  ,1,956887ec5d1860dc6aac829104130533,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NCOCO0300,Coccolithus pelagicus,RARE,  ,1,a59d1fe2f25ae00f90cee4baeee1552b,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0010,Gephyrocapsa aperta,COMMON,  ,1,8b3a59d715621bb99625c3e6a7ef6c9c,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0020,Gephyrocapsa caribbeanica,FEW,  ,1,a34090d8cb3e4c8de62da0e56f88d5aa,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0060,Gephyrocapsa oceanica,FEW,  ,1,d0773a2ad126e4173203c8139183519a,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0075,Gephyrocapsa parallela,PRESENT,  ,1,e283f2e6af8f631ff65046157cd46f4b,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NGEPH0095,Gephyrocapsa sinuosa,RARE,  ,1,2da077f04f95ca188d6853d6a58b6f76,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NHELC0020,Helicosphaera carteri,PRESENT,  ,1,9bcfff9550bc50970861f4fb181afcc4,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NHELC0072,Helicosphaera inversa,RARE,  ,1,8e4876aafb7bfd13e8e832accb5733d7,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NOOLI0010,Oolithotus antillarum,PRESENT,  ,2,c5ee7dbbaff41285396a5ac68867c32f,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NRHAO0010,Rhabdosphaera clavigera,RARE,  ,2,75a6b312966a52a2f3250af104840207,94-611B-1-CC
+94,611,B,1,CC,0.0,0.0,0.00,8.83,13,TAKAYAMA,,94,NANNOFOSSILS,,,,POOL,NO AGE GIVEN,683,NSYRA0070,Syracosphaera pulchra,FEW,  ,2,140c4a7f8a7b837d9d1bfdc8817f22fc,94-611B-1-CC

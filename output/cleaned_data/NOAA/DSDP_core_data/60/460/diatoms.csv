@@ -1,15 +1,15 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1
-60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DNITZ0380,Nitzschia marina,RARE,  ,1
-60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAA0010,Thalassiosira sp.,RARE,  ,1
-60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAL0005,Thalassionema sp.,RARE,  ,1
-60,460,,1,3,100.0,101.0,0.00,4.01, 1,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,COMMON,  ,1
-60,460,,1,4,100.0,101.0,0.00,5.51, 1,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,RARE,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DACTI0215,Actinocyclus subtilis,RARE,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DNITZ0380,Nitzschia marina,RARE,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DRHIZ0010,Rhizosolenia sp.,RARE,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAA0010,Thalassiosira sp.,RARE,  ,1
-60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAL0005,Thalassionema sp.,RARE,  ,1
-60,460,,SP2,2,110.0,111.0,12.00,15.04, 1,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1,620ca0c47511bc6cd0be8fedac58181d,60-460-1-1
+60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DNITZ0380,Nitzschia marina,RARE,  ,1,e786fca372cc1f1d0f34e9cfcd56098e,60-460-1-1
+60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAA0010,Thalassiosira sp.,RARE,  ,1,114ad405f053fe92d6e0f62f1a96864c,60-460-1-1
+60,460,,1,1,32.0,33.0,0.00,0.33, 4,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAL0005,Thalassionema sp.,RARE,  ,1,d21e071d0424f4f604eccaaf4a2a2909,60-460-1-1
+60,460,,1,3,100.0,101.0,0.00,4.01, 1,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,COMMON,  ,1,cb234bae3b2ccf1f87fc408a6ce8b41d,60-460-1-3
+60,460,,1,4,100.0,101.0,0.00,5.51, 1,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,RARE,  ,1,24d3491b190ce9234954ea7a681e9fc8,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DACTI0215,Actinocyclus subtilis,RARE,  ,1,314bff080fbf843b40f216771d439fbf,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,ABUNDANT,  ,1,599f1e64d1dffc39069834102f662cae,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1,0e5b0fa4b69cd1c2843fed3a5b05dceb,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DNITZ0380,Nitzschia marina,RARE,  ,1,b6d6d1dd7efb6aeb2820a2ddd00ac641,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DRHIZ0010,Rhizosolenia sp.,RARE,  ,1,77654686d682932b57f154255110a8db,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAA0010,Thalassiosira sp.,RARE,  ,1,5532e65d9b0e0334fdb1e6fa3ff2000e,60-460-1-4
+60,460,,1,4,140.0,141.0,0.00,5.91, 7,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAL0005,Thalassionema sp.,RARE,  ,1,a1e8480582e6d3c0259478bb63ed08a5,60-460-1-4
+60,460,,SP2,2,110.0,111.0,12.00,15.04, 1,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,RARE,  ,1,b7c04abab727c3b4906d5943f4a7a228,60-460-SP2-2

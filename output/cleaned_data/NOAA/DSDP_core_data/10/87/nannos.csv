@@ -1,18 +1,18 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1
-10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NCYCT0010,Cyclolithella annula,PRESENT,  ,1
-10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1
-10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
-10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NSCAP0020,Scapholithus fossilis,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NCATI0020,Catinaster coalithus,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NCYCO0115,Cyclococcolithina neogammation,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDICT0030,Dictyococcites bisectus,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDICT0050,Dictyococcites scrippsae,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDISC0410,Discoaster saipanensis,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDISC0540,Discoaster variabilis variabilis,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NHELI0140,Helicopontosphaera parallela,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,2
-10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NSPHN0010,Sphenolithus abies,PRESENT,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NCYCO0080,Cyclococcolithina leptopora,PRESENT,  ,1,68593257052075e7d06b70c636cd3ee0,10-87-1-1
+10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NCYCT0010,Cyclolithella annula,PRESENT,  ,1,586d0c7e6a529e6f07e6331ca22f657c,10-87-1-1
+10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NGEPH0060,Gephyrocapsa oceanica,PRESENT,  ,1,c7e991cad64ac0a463943ed90afa93a9,10-87-1-1
+10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,6f87d4f9c00ea7039f0f63eb0d752f12,10-87-1-1
+10,87,,1,1,6.0,7.0,648.00,648.07, 5,"HAY,W.W.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,376,NSCAP0020,Scapholithus fossilis,PRESENT,  ,1,21c475dab2bec5acae09ead997e84371,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NCATI0020,Catinaster coalithus,PRESENT,  ,1,ccb224d8ed55b77b7d534c6a9cc31588,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NCYCO0115,Cyclococcolithina neogammation,PRESENT,  ,1,7274ec4e47b0c20ae4851c6fb1600aa4,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDICT0030,Dictyococcites bisectus,PRESENT,  ,1,b25d5050e9d768721274a595861c0348,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDICT0050,Dictyococcites scrippsae,PRESENT,  ,1,9f857781bf59fbb52492e9b4f2ff5b31,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDISC0080,Discoaster brouweri,PRESENT,  ,1,d8d5a1a0ec8977a6646f8314af6d3b48,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDISC0410,Discoaster saipanensis,PRESENT,  ,1,578379ad78a9b4423715a615bb194e21,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NDISC0540,Discoaster variabilis variabilis,PRESENT,  ,1,58758a215680deab84011b2ff2b2cd29,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NHELI0100,Helicopontosphaera kamptneri,PRESENT,  ,1,5ef0a227981c5265a6f2aed3f8566fea,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NHELI0140,Helicopontosphaera parallela,PRESENT,  ,1,02e6b557779d67335f22226ebbba4e39,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,efb8b7b0653a4679bb104f1a5aea0a88,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NRETI0230,Reticulofenestra umbilica,PRESENT,  ,2,a6243b5c375c92b13286a4059e97993f,10-87-1-1
+10,87,,1,1,125.0,126.0,648.00,649.26,12,"BUKRY,D.",,10,NANNOFOSSILS,,,,,NO AGE GIVEN,397,NSPHN0010,Sphenolithus abies,PRESENT,  ,2,5cc8382a98f241f904d6cf3111c61dc5,10-87-1-1

@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-29,280,A,1,2,120.0,120.0,38.00,40.70, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
-29,280,A,1,CC,0.0,0.0,38.00,44.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1
-29,280,A,3,3,110.0,110.0,72.50,76.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
-29,280,A,4,CC,0.0,0.0,82.00,89.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1
-29,280,A,5,1,110.0,110.0,91.50,92.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1
-29,280,A,5,2,110.0,110.0,91.50,94.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
-29,280,A,7,3,110.0,110.0,120.00,124.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1
-29,280,A,10,5,66.0,66.0,196.00,202.66, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0190,Deflandrea macmurdoensis,PRESENT,  ,1
-29,280,A,14,2,57.0,57.0,291.00,293.07, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CSPIN0010,Spinidinium aperturum,PRESENT,  ,1
-29,280,A,17,CC,0.0,0.0,376.50,386.10, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,736,CTURB0011,Turbiosphaera filosa (q),PRESENT,  ,1
-29,280,A,18,1,117.0,117.0,405.00,406.17, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,736,CTHAL0030,Thalassiphora pelagica,PRESENT,  ,1
-29,280,A,20,3,38.0,38.0,481.00,484.38, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0040,Deflandrea antarctica,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+29,280,A,1,2,120.0,120.0,38.00,40.70, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,9025bd374df0ab9d609b3763f387a11e,29-280A-1-2
+29,280,A,1,CC,0.0,0.0,38.00,44.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1,65e852dc90657277fd73a928750eff98,29-280A-1-CC
+29,280,A,3,3,110.0,110.0,72.50,76.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,90683456fb636ed5d14f3c2de8544ddb,29-280A-3-3
+29,280,A,4,CC,0.0,0.0,82.00,89.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1,8f02f60a573e56759e977e25da0b9ed2,29-280A-4-CC
+29,280,A,5,1,110.0,110.0,91.50,92.60, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,901,CCARD0020,Carduifolia gracilis,PRESENT,  ,1,34132fd30f8424db6ffbcff2ba0c318f,29-280A-5-1
+29,280,A,5,2,110.0,110.0,91.50,94.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,d9c01f6ae585d74b3b0c5283c2520045,29-280A-5-2
+29,280,A,7,3,110.0,110.0,120.00,124.10, 1,"PERCH-NIELSEN,K.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,875,CCARD0020,Carduifolia gracilis,RARE,  ,1,166868a710e5ccea2488557d66d21492,29-280A-7-3
+29,280,A,10,5,66.0,66.0,196.00,202.66, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0190,Deflandrea macmurdoensis,PRESENT,  ,1,e82d31f5ffef38c834ae48a5a2564d30,29-280A-10-5
+29,280,A,14,2,57.0,57.0,291.00,293.07, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CSPIN0010,Spinidinium aperturum,PRESENT,  ,1,c46d09bfabdd595f1d908d37dcbb10ff,29-280A-14-2
+29,280,A,17,CC,0.0,0.0,376.50,386.10, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,736,CTURB0011,Turbiosphaera filosa (q),PRESENT,  ,1,f05015d546d808bbe909d8650a050a6e,29-280A-17-CC
+29,280,A,18,1,117.0,117.0,405.00,406.17, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,736,CTHAL0030,Thalassiphora pelagica,PRESENT,  ,1,d16aa3bbefe0ae4dfaad326237a9db5c,29-280A-18-1
+29,280,A,20,3,38.0,38.0,481.00,484.38, 1,"HASKELL,T.R.;WILSON,G.J.",,29,DINOFLAGELLATES,,,,,NO AGE GIVEN,734,CDEFL0040,Deflandrea antarctica,PRESENT,  ,1,db2eeae4d12f5a6794d4d92f064cabac,29-280A-20-3

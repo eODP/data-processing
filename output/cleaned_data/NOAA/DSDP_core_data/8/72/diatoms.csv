@@ -1,18 +1,18 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0040,Asterolampra grevillei,FEW,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,FEW,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0012,Cestodiscus convexus,FEW,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0014,Cestodiscus gemmifer,FEW,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0024,Cestodiscus parmulus,RARE,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0040,Cestodiscus pulchellus,PRESENT,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,FEW,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0010,Coscinodiscus sp.,RARE,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0104,Coscinodiscus atlanticus,FEW,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0275,Coscinodiscus excavatus,COMMON,  ,1
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,FEW,  ,2
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,2
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0014,Hemiaulus affinis,FEW,  ,2
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,PRESENT,  ,2
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DMELO0040,Melosira architecturalis,PRESENT,  ,2
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DTRIC0035,Triceratium americanium,FEW,  ,2
-8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DTRIN0064,Trinacria praetenuis,ABUNDANT,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0040,Asterolampra grevillei,FEW,  ,1,370d1668900cdfa936d6a7cebf08ae81,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,FEW,  ,1,4409ad725bacc18f6eae03c7152488d3,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0012,Cestodiscus convexus,FEW,  ,1,47fae1f1687f592e13c0032da8684d7a,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0014,Cestodiscus gemmifer,FEW,  ,1,e7cc2f1cf44783fa93934c0b6ae0785b,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0024,Cestodiscus parmulus,RARE,  ,1,53aa34e2df0c36ada7fcb38ef711c316,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0040,Cestodiscus pulchellus,PRESENT,  ,1,3bcc0fc6c7a33b221b30418312213aee,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,FEW,  ,1,167b5b3ab71e64cb4b9f98b760d1f778,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0010,Coscinodiscus sp.,RARE,  ,1,47432505b82d78ac5445ee8aa04a37c0,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0104,Coscinodiscus atlanticus,FEW,  ,1,bde2a1b5ad8622afc65d2998ee0946a7,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0275,Coscinodiscus excavatus,COMMON,  ,1,01ead2ffb9fc6795516c72f3a31cd170,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,FEW,  ,2,1799f799729de0ccd7bea1a590f1e5d9,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,2,98bcc0784cb756e7495f69922f254964,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0014,Hemiaulus affinis,FEW,  ,2,ed52b620865e3fa4705333d11814f25d,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,PRESENT,  ,2,8887f6fa076ffbace00dd19359c68139,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DMELO0040,Melosira architecturalis,PRESENT,  ,2,724e9a0343fcdb406ffd61698319eeb7,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DTRIC0035,Triceratium americanium,FEW,  ,2,6616d700b913db6d8cba10689b5cd9a3,8-72-9-1
+8,72,,9,1,70.0,74.0,330.00,330.72,17,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DTRIN0064,Trinacria praetenuis,ABUNDANT,  ,2,57ee4c683c507048b252686c477b18e8,8-72-9-1

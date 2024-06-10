@@ -1,8 +1,8 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DACTI0160,Actinocyclus ochotensis,RARE,  ,1
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DCOSC0880,Coscinodiscus tabularis,RARE,  ,1
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DDENT0150,Denticula seminae,RARE,  ,1
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DSTEA0060,Stephanopyxis dimorpha,RARE,  ,1
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DTHAA0100,Thalassiosira excentrica,RARE,  ,1
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DTHAA0300,Thalassiosira pacifica,RARE,  ,1
-18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DTHAL0060,Thalassionema nitzschioides,COMMON,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DACTI0160,Actinocyclus ochotensis,RARE,  ,1,d3ed13874f3c58c486c99f8a4672dc4b,18-177-1-CC
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DCOSC0880,Coscinodiscus tabularis,RARE,  ,1,da9369b8c0fa27c8e41173a55d1551d9,18-177-1-CC
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DDENT0150,Denticula seminae,RARE,  ,1,9088bbf6afea4879b20635179b658f21,18-177-1-CC
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DSTEA0060,Stephanopyxis dimorpha,RARE,  ,1,bcd8bb5fd7c0d8c20888cdb8ae99478a,18-177-1-CC
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DTHAA0100,Thalassiosira excentrica,RARE,  ,1,2f789994b8fc34f5e3c6db8976826a9b,18-177-1-CC
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DTHAA0300,Thalassiosira pacifica,RARE,  ,1,9a88f5b8c8c74368e24d8e5f5f19c7a9,18-177-1-CC
+18,177,,1,CC,0.0,0.0,0.00,9.34, 7,"SCHRADER,H.",06/1973,18,DIATOMS,RARE,,,GOOD,NO AGE GIVEN,683,DTHAL0060,Thalassionema nitzschioides,COMMON,  ,1,5d5b3e2c76288ae6ed1871382515b62a,18-177-1-CC

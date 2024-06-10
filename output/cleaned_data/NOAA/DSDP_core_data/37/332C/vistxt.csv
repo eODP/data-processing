@@ -1,3 +1,3 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-37,332,C,1,1,0.0,40.0,148.50,148.50,148.90,, NANNO CHALK," 2.5Y8/2,10YR8/2",,,,,,, HARD, 00000000
-37,332,C,1,1,40.0,148.0,148.50,148.90,149.98,, BASALT,,,,, HIGHLY PLAGIOCLASE PHYRIC,, PHENOCRYSTS B ECOME SMALLER NEAR LOWER CONTACT WITH CHALK, HARD, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+37,332,C,1,1,0.0,40.0,148.50,148.50,148.90,, NANNO CHALK," 2.5Y8/2,10YR8/2",,,,,,, HARD, 00000000,00c504b86685f887232431e8cfc47ecd,37-332C-1-1
+37,332,C,1,1,40.0,148.0,148.50,148.90,149.98,, BASALT,,,,, HIGHLY PLAGIOCLASE PHYRIC,, PHENOCRYSTS B ECOME SMALLER NEAR LOWER CONTACT WITH CHALK, HARD, 00000000,50daa388d93102c831c278f6c902f01d,37-332C-1-1

@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DHEMI0140,Hemiaulus polycistinorum,PRESENT,  ,1
-1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DHEMI0160,Hemiaulus polymorphus,PRESENT,  ,1
-1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DPYXL0010,Pyxilla aculeifera,PRESENT,  ,1
-1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DPYXL0035,Pyxilla intermedia,PRESENT,  ,1
-1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DSTEA0310,Stephanopyxis turris intermedia,PRESENT,  ,1
-1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DTRIC0080,Triceratium barbadense,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DHEMI0140,Hemiaulus polycistinorum,PRESENT,  ,1,6a239e3c0efbd7a40907fb5aab8f88af,1-6-2-1
+1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DHEMI0160,Hemiaulus polymorphus,PRESENT,  ,1,6fc0f1633b6a86e1493b521792f22d74,1-6-2-1
+1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DPYXL0010,Pyxilla aculeifera,PRESENT,  ,1,4431c3936a610f52656d5a4845e94600,1-6-2-1
+1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DPYXL0035,Pyxilla intermedia,PRESENT,  ,1,f3d232a384a1ff6ea271272f44f95a7e,1-6-2-1
+1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DSTEA0310,Stephanopyxis turris intermedia,PRESENT,  ,1,a7fe0342c932d040b3161ffdd737dbf2,1-6-2-1
+1,6,,2,1,0.0,1.0,152.10,0.50, 6,"BUKRY,D.;BRAMLETTE,M.",,1,DIATOMS,,,,,NO AGE GIVEN,376,DTRIC0080,Triceratium barbadense,PRESENT,  ,1,57c0c45eeff060b91da77a2cafc9c3f6,1-6-2-1

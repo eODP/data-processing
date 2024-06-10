@@ -1,12 +1,12 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-18,176,,1,CC,0.0,0.0,0.00,6.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RARTS0030,Artostrobium miralestense,RARE,  ,1
-18,176,,1,CC,0.0,0.0,0.00,6.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RSIPA0020,Siphocampe corbula,RARE,  ,1
-18,176,,2,6,67.0,69.0,6.00,14.18, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RLAMR0040,Lamprocyrtis neoheteroporos,TRACE,  ,1
-18,176,,2,6,67.0,69.0,6.00,14.18, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RTHEN0060,Theoconus zancleus,TRACE,  ,1
-18,176,,3,CC,0.0,0.0,15.00,24.25, 1,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RARTS0030,Artostrobium miralestense,RARE,  ,1
-18,176,,4,2,71.0,73.0,24.00,26.22, 1,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,624,RLAMP0031,Lamprocyclas heteroporus (q),TRACE,  ,1
-18,176,,4,CC,0.0,0.0,24.00,33.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RARTS0030,Artostrobium miralestense,RARE,  ,1
-18,176,,4,CC,0.0,0.0,24.00,33.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RCORU0040,Cornutella profunda,RARE,  ,1
-18,176,,5,3,65.0,67.0,32.00,35.94, 3,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RBATH0080,Bathropyramis woodringi,TRACE,  ,1
-18,176,,5,3,65.0,67.0,32.00,35.94, 3,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RLAMP0030,Lamprocyclas heteroporos,RARE,  ,1
-18,176,,5,3,65.0,67.0,32.00,35.94, 3,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RSTYL0010,Stylacontarium acquilonium,TRACE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+18,176,,1,CC,0.0,0.0,0.00,6.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RARTS0030,Artostrobium miralestense,RARE,  ,1,448833d45c051b64f880c9a96a1e0e64,18-176-1-CC
+18,176,,1,CC,0.0,0.0,0.00,6.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RSIPA0020,Siphocampe corbula,RARE,  ,1,3eace7eca3537a173394b61d62edd13b,18-176-1-CC
+18,176,,2,6,67.0,69.0,6.00,14.18, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RLAMR0040,Lamprocyrtis neoheteroporos,TRACE,  ,1,8ce2c3160527e7f5488ba939ebabdff3,18-176-2-6
+18,176,,2,6,67.0,69.0,6.00,14.18, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RTHEN0060,Theoconus zancleus,TRACE,  ,1,13f9c462876211e934bf94ba4e4e6161,18-176-2-6
+18,176,,3,CC,0.0,0.0,15.00,24.25, 1,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RARTS0030,Artostrobium miralestense,RARE,  ,1,5399238a7ee8646aff73602674ecdcd8,18-176-3-CC
+18,176,,4,2,71.0,73.0,24.00,26.22, 1,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,POOL,NO AGE GIVEN,624,RLAMP0031,Lamprocyclas heteroporus (q),TRACE,  ,1,010b219f41ba4cc3be1c8d4fcbecb305,18-176-4-2
+18,176,,4,CC,0.0,0.0,24.00,33.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RARTS0030,Artostrobium miralestense,RARE,  ,1,4a98ff4926450a1da9f3cbf8f0a3a9ca,18-176-4-CC
+18,176,,4,CC,0.0,0.0,24.00,33.10, 2,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RCORU0040,Cornutella profunda,RARE,  ,1,30fcaa689526d7c9850376040d2609ff,18-176-4-CC
+18,176,,5,3,65.0,67.0,32.00,35.94, 3,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RBATH0080,Bathropyramis woodringi,TRACE,  ,1,a3111b46b133dee09f46012af4715222,18-176-5-3
+18,176,,5,3,65.0,67.0,32.00,35.94, 3,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RLAMP0030,Lamprocyclas heteroporos,RARE,  ,1,7ac21d79050d9ed674439d6402686d66,18-176-5-3
+18,176,,5,3,65.0,67.0,32.00,35.94, 3,"KLING,S.A.",06/1973,18,RADIOLARIA,RARE,,,MODERATE,NO AGE GIVEN,624,RSTYL0010,Stylacontarium acquilonium,TRACE,  ,1,3683a04e86cdeed3516c70817bae2cc3,18-176-5-3

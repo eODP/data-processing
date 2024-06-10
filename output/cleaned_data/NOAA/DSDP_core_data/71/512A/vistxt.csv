@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-71,512,A,2,1,0.0,150.0,81.50,81.50,83.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY, BURROWS, GREATLY DISTURBED,  *,,,, SOFT,
-71,512,A,2,2,0.0,150.0,81.50,83.00,84.50,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-71,512,A,2,3,0.0,150.0,81.50,84.50,86.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-71,512,A,2,4,0.0,150.0,81.50,86.00,87.50,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-71,512,A,2,5,0.0,150.0,81.50,87.50,89.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,
-71,512,A,2,6,0.0,27.0,81.50,89.00,89.27,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT, 11111210
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+71,512,A,2,1,0.0,150.0,81.50,81.50,83.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY, BURROWS, GREATLY DISTURBED,  *,,,, SOFT,,e6b851b0bac51ec2c4139ed4b65321e2,71-512A-2-1
+71,512,A,2,2,0.0,150.0,81.50,83.00,84.50,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,118a7e21facb41d6a78e6a6c426cc443,71-512A-2-2
+71,512,A,2,3,0.0,150.0,81.50,84.50,86.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,60f9048a33342653bed7226ce55847ba,71-512A-2-3
+71,512,A,2,4,0.0,150.0,81.50,86.00,87.50,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,186a44bd749e299201c30d1848d81175,71-512A-2-4
+71,512,A,2,5,0.0,150.0,81.50,87.50,89.00,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT,,987c3b1f0ef827c8fc78f027c29c1a92,71-512A-2-5
+71,512,A,2,6,0.0,27.0,81.50,89.00,89.27,BPB, SILICEOUS NANNO OOZE, GREENISH GRAY,, GREATLY DISTURBED,  *,,,, SOFT, 11111210,1d6813ae19d5ed296d8b1b0caccb02c5,71-512A-2-6

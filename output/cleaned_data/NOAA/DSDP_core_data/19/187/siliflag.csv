@@ -1,6 +1,6 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-19,187,,1,CC,0.0,0.0,164.00,164.10, 3,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SDICT0710,Dictyocha subarctios,FEW,  ,1
-19,187,,1,CC,0.0,0.0,164.00,164.10, 3,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SDIST0280,Distephanus octonarius,RARE,  ,1
-19,187,,1,CC,0.0,0.0,164.00,164.10, 3,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SDIST0420,Distephanus speculum,RARE,  ,1
-19,187,,2,CC,0.0,0.0,173.00,176.10, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SCANN0060,Cannopilus hemisphaericus,RARE,  ,1
-19,187,,3,CC,0.0,0.0,267.00,268.60, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SCANN0060,Cannopilus hemisphaericus,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+19,187,,1,CC,0.0,0.0,164.00,164.10, 3,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SDICT0710,Dictyocha subarctios,FEW,  ,1,da9d32b5d028b893bc059ca8ec8392c8,19-187-1-CC
+19,187,,1,CC,0.0,0.0,164.00,164.10, 3,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SDIST0280,Distephanus octonarius,RARE,  ,1,986f7a7d20367cc536be095b6083b549,19-187-1-CC
+19,187,,1,CC,0.0,0.0,164.00,164.10, 3,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SDIST0420,Distephanus speculum,RARE,  ,1,276726ca93323dc5ef781c72aa1373a9,19-187-1-CC
+19,187,,2,CC,0.0,0.0,173.00,176.10, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SCANN0060,Cannopilus hemisphaericus,RARE,  ,1,f67c7f5cf970509cf4456340f2b3b4fd,19-187-2-CC
+19,187,,3,CC,0.0,0.0,267.00,268.60, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,759,SCANN0060,Cannopilus hemisphaericus,RARE,  ,1,8853dcc8394f7c470c0e391e3612df2e,19-187-3-CC

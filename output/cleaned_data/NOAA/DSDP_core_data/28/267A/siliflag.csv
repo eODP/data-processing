@@ -1,15 +1,15 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0770,Dictyocha variabilis,1%,  ,1
-28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0040,Distephanus boliviensis,7%,  ,1
-28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0045,Distephanus boliviensis (q),3%,  ,1
-28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0420,Distephanus speculum,87%,  ,1
-28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0490,Distephanus speculum pentagonus,2%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0020,Dictyocha aspera,5%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0060,Dictyocha aspera pygmaea,2%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0170,Dictyocha fibula,1%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0250,Dictyocha fibula pumila,4%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0040,Distephanus boliviensis,24%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0045,Distephanus boliviensis (q),36%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0110,Distephanus crux,17%,  ,1
-28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0420,Distephanus speculum,18%,  ,1
-28,267,A,3,CC,0.0,0.0,61.00,64.10, 1,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SCANN0060,Cannopilus hemisphaericus,99%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0770,Dictyocha variabilis,1%,  ,1,a9a6aaf77863dd13217b7c98f873ae30,28-267A-1-6
+28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0040,Distephanus boliviensis,7%,  ,1,c8205d07664d0d83a1774ef0fc9182f2,28-267A-1-6
+28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0045,Distephanus boliviensis (q),3%,  ,1,44225b71a27ecd703fb0023fb0f6f976,28-267A-1-6
+28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0420,Distephanus speculum,87%,  ,1,80578c3aa9b7e97cd1f135c1c30adadd,28-267A-1-6
+28,267,A,1,6,120.0,122.0,4.00,12.71, 5,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0490,Distephanus speculum pentagonus,2%,  ,1,b01e1fa74c902d13186b60d54e5b4306,28-267A-1-6
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0020,Dictyocha aspera,5%,  ,1,ad61c23bb454fff0cd8ed3db31e8ab65,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0060,Dictyocha aspera pygmaea,2%,  ,1,46108665470a160bc169a27ced738582,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0170,Dictyocha fibula,1%,  ,1,3067e6515942f4409ceb178047b87a68,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDICT0250,Dictyocha fibula pumila,4%,  ,1,aaea0cc40c731ba3f0ad0959fa36e7ef,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0040,Distephanus boliviensis,24%,  ,1,7954c33597c414a6a72b585cd6093b9e,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0045,Distephanus boliviensis (q),36%,  ,1,790991d04be6fc788f69c1e038df62f1,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0110,Distephanus crux,17%,  ,1,46b86f9ae140306177f4cc7e4fec86fb,28-267A-1-CC
+28,267,A,1,CC,0.0,0.0,4.00,13.10, 8,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SDIST0420,Distephanus speculum,18%,  ,1,34c7a7ad861b923e7ee146dc78fcd974,28-267A-1-CC
+28,267,A,3,CC,0.0,0.0,61.00,64.10, 1,"CIESIELSKI,P.F.",07/1975,28,SILICOFLAGELLATES,,,,,NO AGE GIVEN,636,SCANN0060,Cannopilus hemisphaericus,99%,  ,1,8e90edd6ec380b0a69250b81a243e6c3,28-267A-3-CC

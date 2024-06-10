@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DCOSC0010,Coscinodiscus sp.,RARE,  ,1
-60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,RARE,  ,1
-60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1
-60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DNITZ0380,Nitzschia marina,RARE,  ,1
-60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAA0010,Thalassiosira sp.,RARE,  ,1
-60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAL0005,Thalassionema sp.,COMMON,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DCOSC0010,Coscinodiscus sp.,RARE,  ,1,72090e655201261f1ef8a8429f95a4f1,60-458-1-5
+60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DETHM0010,Ethmodiscus rex,RARE,  ,1,ec0b97187bb99e2b97c84e094f06f01b,60-458-1-5
+60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DHEMD0010,Hemidiscus cuneiformis,RARE,  ,1,78f4a1aa95a3d8bed58658957e104914,60-458-1-5
+60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DNITZ0380,Nitzschia marina,RARE,  ,1,eafc301378130e37e1a9d2942dcf1475,60-458-1-5
+60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAA0010,Thalassiosira sp.,RARE,  ,1,cb75eb333a642770811a9b4547c4c499,60-458-1-5
+60,458,,1,5,63.0,64.0,0.00,6.64, 6,"MARTINI,E.",03/1982,60,DIATOMS,,,,,NO AGE GIVEN,566,DTHAL0005,Thalassionema sp.,COMMON,  ,1,cab993747b106e5f94a7df604312cacb,60-458-1-5

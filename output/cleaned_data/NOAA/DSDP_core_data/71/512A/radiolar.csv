@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RCYCA0052,Cyclampterium milowi (q),COMMON,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,REUSY0020,Eusyringium fistuligerum,TRACE,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,REUSY0030,Eusyringium lagena,TRACE,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLOPC0021,Lophocorys norvegiensis (q),COMMON,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLOPY0010,Lophocyrtis biaurita,COMMON,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLYCO0020,Lychnocanoma amphitrite,RARE,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLYCO0050,Lychnocanoma babylonis,FEW,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLYCO0070,Lychnocanoma bellum,FEW,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RPERP0030,Periphaena decora,FEW,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RPHOM0030,Phormocyrtis embolum,FEW,  ,1
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RTHET0061,Theocotyle ficus (q),FEW,  ,2
-71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RTHYR0111,Thyrsocyrtis triacantha (q),TRACE,  ,2
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RCYCA0052,Cyclampterium milowi (q),COMMON,  ,1,2df7c0268631f88eec8a8820449ca2d2,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,REUSY0020,Eusyringium fistuligerum,TRACE,  ,1,189c1648a078edacf26ef1abfd566692,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,REUSY0030,Eusyringium lagena,TRACE,  ,1,2d55ff3e6d975f3067178cc6c5781886,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLOPC0021,Lophocorys norvegiensis (q),COMMON,  ,1,bf6ad304a58c22d9e96ecb475beeb5bd,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLOPY0010,Lophocyrtis biaurita,COMMON,  ,1,dcfaedcc74f0c752386130e7154ba9e9,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLYCO0020,Lychnocanoma amphitrite,RARE,  ,1,5a4ec6886f00567f0ddb24319ce12bc2,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLYCO0050,Lychnocanoma babylonis,FEW,  ,1,f28dd012217132a545fd1b3ce1b36e72,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RLYCO0070,Lychnocanoma bellum,FEW,  ,1,cd19d318719acd4a2706aee8aede10a2,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RPERP0030,Periphaena decora,FEW,  ,1,a7d0b35e9be8ad88ee8bfb455f5fa559,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RPHOM0030,Phormocyrtis embolum,FEW,  ,1,40602c1af203786d21f69a5ccfcba401,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RTHET0061,Theocotyle ficus (q),FEW,  ,2,77357e7866aa38eff12c919a778f738a,71-512A-2-CC
+71,512,A,2,CC,,,81.50,89.37,12,WEAVER,09/1983,71,RADIOLARIA,COMMON,,,GOOD,NO AGE GIVEN,672,RTHYR0111,Thyrsocyrtis triacantha (q),TRACE,  ,2,187c9ca67af91f7a3e017051e099f4b2,71-512A-2-CC

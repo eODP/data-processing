@@ -1,18 +1,18 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,PRESENT,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,FEW,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0214,Coscinodiscus demergitus,RARE,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,ABUNDANT,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0124,Hemiaulus longicornis,PRESENT,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,RARE,  ,1
-7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DPARA0010,Paralia sulcata,PRESENT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0100,Asterolampra vulgaris,PRESENT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,FEW,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,ABUNDANT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,PRESENT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,PRESENT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DLIOS0010,Liostephania sp.,PRESENT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DPARA0010,Paralia sulcata,PRESENT,  ,1
-7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DRIED0064,Riedelia pacifica,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0060,Asterolampra marylandica,PRESENT,  ,1,2f19eb3f19f3056b65c4573abc628715,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,FEW,  ,1,1834ac61152182fc8fbc6bb5e790db66,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0010,Coscinodiscus sp.,PRESENT,  ,1,fa47a0a1929f4fc1bdaaa75c82b08142,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0214,Coscinodiscus demergitus,RARE,  ,1,0a35093c217372f07f1dec734c7220c9,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,ABUNDANT,  ,1,7b6c4e4a2827fed9a3b2b7ef82c41ba4,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,FEW,  ,1,752fb034cd626d97d0edbef94970c604,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0124,Hemiaulus longicornis,PRESENT,  ,1,29df4a3e6b4d74ff1dd25745541a85ab,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,RARE,  ,1,cfb2782028a222cd5ff13beba5db18c2,7-65A-4-1
+7,65,A,4,1,66.0,70.0,154.00,154.68, 9,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DPARA0010,Paralia sulcata,PRESENT,  ,1,3157c24b40dc9e02d562f3642e2edac1,7-65A-4-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DASTE0100,Asterolampra vulgaris,PRESENT,  ,1,6c1b7a02effcf615be8638902a216fbe,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCEST0070,Cestodiscus trochus,FEW,  ,1,9705ae4a3a4a28eb0aa10d9a3c50f0de,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DCOSC0490,Coscinodiscus marginatus,ABUNDANT,  ,1,382f08fbdbcf97a1d0df8bdd9ddbd3e6,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DETHM0005,Ethmodiscus sp.,PRESENT,  ,1,af8daa88b1dee5cd381e4397b20a2e82,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DHEMI0154,Hemiaulus polycystinorum polycystinorum,PRESENT,  ,1,57e3c1bccf7bf5b816b5a5807fea5c3c,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DLIOS0010,Liostephania sp.,PRESENT,  ,1,6e527ce395813d4a7daf047bc997e981,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DPARA0010,Paralia sulcata,PRESENT,  ,1,b9ebe6888e1e88d7fb38de1ace8912e2,7-65A-5-1
+7,65,A,5,1,58.0,62.0,162.00,162.60, 8,"FENNER,J.",,75,DIATOMS,,,,,NO AGE GIVEN,1252,DRIED0064,Riedelia pacifica,PRESENT,  ,1,e1e82572c14a317c78d93cab6d6d4978,7-65A-5-1

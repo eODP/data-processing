@@ -1,14 +1,14 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-19,189,,1,1,73.0,75.0,0.00,0.74, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,PRESENT,  ,1
-19,189,,1,CC,0.0,0.0,0.00,7.60, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,RARE,  ,1
-19,189,,2,CC,0.0,0.0,7.00,7.10, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,RARE,  ,1
-19,189,,2,CC,0.0,0.0,7.00,7.10, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1
-19,189,,3,CC,0.0,0.0,45.00,54.20, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,RARE,  ,1
-19,189,,3,CC,0.0,0.0,45.00,54.20, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1
-19,189,,4,2,12.0,14.0,83.00,84.63, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDICT0710,Dictyocha subarctios,PRESENT,  ,1
-19,189,,4,2,12.0,14.0,83.00,84.63, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,PRESENT,  ,1
-19,189,,5,1,32.0,34.0,147.00,147.33, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1
-19,189,,5,CC,0.0,0.0,147.00,153.10, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1
-19,189,,6,1,86.0,88.0,212.00,212.87, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,COMMON,  ,1
-19,189,,6,CC,0.0,0.0,212.00,215.10, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1
-19,189,,9,1,102.0,104.0,426.00,427.03, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+19,189,,1,1,73.0,75.0,0.00,0.74, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,PRESENT,  ,1,b04bfee2658baa8a74cf6ddf049945fa,19-189-1-1
+19,189,,1,CC,0.0,0.0,0.00,7.60, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,RARE,  ,1,67f6ed15b8f2f19b92d84f10986bc715,19-189-1-CC
+19,189,,2,CC,0.0,0.0,7.00,7.10, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,RARE,  ,1,d864d631e72b7c4c8f2e67208669d747,19-189-2-CC
+19,189,,2,CC,0.0,0.0,7.00,7.10, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1,79e5ac8399050dc6ea28a8618945ccbd,19-189-2-CC
+19,189,,3,CC,0.0,0.0,45.00,54.20, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0260,Distephanus octangulatus,RARE,  ,1,1afcb2e3f5f9388671997f2e231f4518,19-189-3-CC
+19,189,,3,CC,0.0,0.0,45.00,54.20, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1,7160a0ed9e413fbea31740e6c6de30d5,19-189-3-CC
+19,189,,4,2,12.0,14.0,83.00,84.63, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDICT0710,Dictyocha subarctios,PRESENT,  ,1,bae246be7f41481c44f33c0ef6b1c35d,19-189-4-2
+19,189,,4,2,12.0,14.0,83.00,84.63, 2,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,PRESENT,  ,1,6fee09b52d4c207f4b7649d04658e403,19-189-4-2
+19,189,,5,1,32.0,34.0,147.00,147.33, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1,dbe4758efbfdb412afd408af16e96d6f,19-189-5-1
+19,189,,5,CC,0.0,0.0,147.00,153.10, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1,be538d3a8266afff5db45a3ebce739af,19-189-5-CC
+19,189,,6,1,86.0,88.0,212.00,212.87, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,COMMON,  ,1,fe6038f4ed4ab96028211fbf57aa9258,19-189-6-1
+19,189,,6,CC,0.0,0.0,212.00,215.10, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1,e9eefa622beece8d102cc7fcafbf2827,19-189-6-CC
+19,189,,9,1,102.0,104.0,426.00,427.03, 1,"LING,H.Y.",06/1973,19,SILICOFLAGELLATES,,,,,NO AGE GIVEN,761,SDIST0420,Distephanus speculum,RARE,  ,1,fcd7d3b6ea72d2b0ff2a9c7987bbc053,19-189-9-1

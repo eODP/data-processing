@@ -1,23 +1,23 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCRET0050,Cretarhabdus crenulatus,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NDISC0035,Discoaster aulakos,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NDISC0465,Discoaster surculus,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NHELI0010,Helicopontosphaera ampliaperta,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NNANN0070,Nannoconus steinmannii,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NSPHN0120,Sphenolithus heteromorphus,PRESENT,  ,2
-1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NWATZ0020,Watznaueria barnesae,PRESENT,  ,2
-1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1
-1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NDISC0080,Discoaster brouweri,PRESENT,  ,1
-1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NDISC0140,Discoaster dilatus,PRESENT,  ,1
-1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NDISC0310,Discoaster nephados,PRESENT,  ,1
-1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NSPHN0215,Sphenolithus sp.,PRESENT,  ,1
-1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NEIFF0060,Eiffellithus turriseiffeli,PRESENT,  ,1
-1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NMART0030,Marthasterites furcatus,PRESENT,  ,1
-1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NMICO0020,Microrhabdulus decoratus,PRESENT,  ,1
-1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NMICU0050,Micula staurophora,PRESENT,  ,1
-1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NTETR0130,Tetralithus pyramidus,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCERO0080,Ceratolithus rugosus,PRESENT,  ,1,4f80fc4fab7e96692db706431ba6ea9e,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCRET0050,Cretarhabdus crenulatus,PRESENT,  ,1,bec3629d4670d0b4c36c3ee45c2592f9,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,aa2b1d2a28b5428dc8928804ffb9585e,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NCYCC0150,Cyclococcolithus neogammation,PRESENT,  ,1,489af3802ad718f7db196eafab6ecbc0,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NDISC0035,Discoaster aulakos,PRESENT,  ,1,22485e4b1545d8a02a76d176d8e59382,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NDISC0080,Discoaster brouweri,PRESENT,  ,1,5f928ad7b17fd20cf72de72f8e3ab85f,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NDISC0465,Discoaster surculus,PRESENT,  ,1,a724bb10a22149fa97e18d76dae03450,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NHELI0010,Helicopontosphaera ampliaperta,PRESENT,  ,1,2ee867c5b8ebbd1c9b3b324eb2a732fe,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NNANN0070,Nannoconus steinmannii,PRESENT,  ,1,1b1062d9fcc5fe07f5d761a256863d22,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NRETI0180,Reticulofenestra pseudoumbilica,PRESENT,  ,1,74fdd6041811d269675c68bb639f8fe3,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NSPHN0120,Sphenolithus heteromorphus,PRESENT,  ,2,77a74a4fec757881ab74ade13cd4b186,1-4-1-1
+1,4,,1,1,0.0,1.0,0.00,0.01,12,"BUKRY,D.;BRAMLETTE,M.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,373,NWATZ0020,Watznaueria barnesae,PRESENT,  ,2,2380941a7fa6701f14705f4170a0c406,1-4-1-1
+1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NCYCC0100,Cyclococcolithus leptoporus,PRESENT,  ,1,5be021a715e600b2a8ca478290ac533f,1-4-1-2
+1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NDISC0080,Discoaster brouweri,PRESENT,  ,1,b44a570049e50b63cff67a8a64bb6a95,1-4-1-2
+1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NDISC0140,Discoaster dilatus,PRESENT,  ,1,4f117a2684e76afcb27a4502954e5af9,1-4-1-2
+1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NDISC0310,Discoaster nephados,PRESENT,  ,1,984e5453628244deb3e38808a2b6575c,1-4-1-2
+1,4,,1,2,0.0,2.0,0.00,1.51, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NSPHN0215,Sphenolithus sp.,PRESENT,  ,1,1884897bad02aa5f0f5d75d8a5a504a7,1-4-1-2
+1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NEIFF0060,Eiffellithus turriseiffeli,PRESENT,  ,1,23c5dfb07a795866f7498dab7413c956,1-4-2-1
+1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NMART0030,Marthasterites furcatus,PRESENT,  ,1,e74a60e91f2691fa90f3b48149b93978,1-4-2-1
+1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NMICO0020,Microrhabdulus decoratus,PRESENT,  ,1,456c3866b4bf674123f1dde500652702,1-4-2-1
+1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NMICU0050,Micula staurophora,PRESENT,  ,1,906fb93c9e866281abe77c56f9ee6fbb,1-4-2-1
+1,4,,2,1,9.0,9.0,104.20,104.29, 5,"HAY,W.W.",,1,NANNOFOSSILS,,,,,NO AGE GIVEN,390,NTETR0130,Tetralithus pyramidus,PRESENT,  ,1,178823c1265969f10a8be7eb9a45981c,1-4-2-1

@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-13,134,D,1,1,65.0,150.0,175.00,175.65,176.50,, GYPSARENITE," N4-MEDIUM GREY,N9-WHITE", BEDDED,,," G YPSUM ABUNDANT,ANHYDRITE RARE",," MEDIUM DARK GREY TO WHITE,LARGE CRYSTALS 98-101", HARD, 33239000.3152
-13,134,D,1,CC,0.0,0.0,175.00,176.60,176.60,," GYPSUM SAND,ARENITE",,,,,,, EITHR LITH APPLICABLE,, 33239000.3152
-13,134,D,2,CC,0.0,0.0,207.00,207.10,207.10,, SEMISCHIST," -GREY,-BLACK",,,," QUARTZ,PLAGIOCLASE,HOR NBLENDE,EPIDOTE,MUSCOVITE,PYRITE,FELDSPAR",,, HARD, 00000000
-13,134,D,3,CC,0.0,0.0,211.00,215.60,215.60,, SEMISCHIST, -DARK GRAY,,, ROLLED PEBBLES,,,, HARD, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+13,134,D,1,1,65.0,150.0,175.00,175.65,176.50,, GYPSARENITE," N4-MEDIUM GREY,N9-WHITE", BEDDED,,," G YPSUM ABUNDANT,ANHYDRITE RARE",," MEDIUM DARK GREY TO WHITE,LARGE CRYSTALS 98-101", HARD, 33239000.3152,793e0a251e46458801167c5d7c8ca8b1,13-134D-1-1
+13,134,D,1,CC,0.0,0.0,175.00,176.60,176.60,," GYPSUM SAND,ARENITE",,,,,,, EITHR LITH APPLICABLE,, 33239000.3152,36d409ff516e3dd06266e526bd8d151f,13-134D-1-CC
+13,134,D,2,CC,0.0,0.0,207.00,207.10,207.10,, SEMISCHIST," -GREY,-BLACK",,,," QUARTZ,PLAGIOCLASE,HOR NBLENDE,EPIDOTE,MUSCOVITE,PYRITE,FELDSPAR",,, HARD, 00000000,4afdfc5363cf8ed84dff8579253ffb6f,13-134D-2-CC
+13,134,D,3,CC,0.0,0.0,211.00,215.60,215.60,, SEMISCHIST, -DARK GRAY,,, ROLLED PEBBLES,,,, HARD, 00000000,178bf30209545d6e754ef458c5e0a1eb,13-134D-3-CC

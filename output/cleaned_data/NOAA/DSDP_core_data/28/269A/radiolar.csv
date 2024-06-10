@@ -1,7 +1,7 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RCYRC0070,Cyrtocapsella tetrapera,PRESENT,  ,1
-28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RDRUP0010,Druppatractus sp.,RARE,  ,1
-28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,REUCY0060,Eucyrtidium cienkowskii,RARE,  ,1
-28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RPRUO0030,Prunopyle hayesi,PRESENT,  ,1
-28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RSPOM0040,Spongomelissa dilli,FEW,  ,1
-28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RTRIE0020,Triceraspyris antarctica,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RCYRC0070,Cyrtocapsella tetrapera,PRESENT,  ,1,7109ec6413cbd7511062e530f5a968e9,28-269A-11-2
+28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RDRUP0010,Druppatractus sp.,RARE,  ,1,8fc89cf462feca94b7c776f0ab8d046d,28-269A-11-2
+28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,REUCY0060,Eucyrtidium cienkowskii,RARE,  ,1,ca85f6d3de32c3fa599be4407c263ae5,28-269A-11-2
+28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RPRUO0030,Prunopyle hayesi,PRESENT,  ,1,15b5254c3111f8e493982febc9233422,28-269A-11-2
+28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RSPOM0040,Spongomelissa dilli,FEW,  ,1,2c78779ca8b347506dc3a6793a057f22,28-269A-11-2
+28,269,A,11,2,113.0,117.0,853.50,856.15, 6,"CHEN,P.H.",07/1975,28,RADIOLARIA,FEW,,,MODERATE,NO AGE GIVEN,449,RTRIE0020,Triceraspyris antarctica,FEW,  ,1,54e08270de07b25c7206ae4e0c257643,28-269A-11-2

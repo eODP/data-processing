@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-17,165,A,7,4,120.0,121.0,136.00,141.91, 2,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,RARE,  ,1
-17,165,A,7,4,120.0,121.0,136.00,141.91, 2,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0380,Corbisema triacantha,RARE,  ,1
-17,165,A,7,6,119.0,120.0,136.00,144.90, 1,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,RARE,  ,1
-17,165,A,8,2,119.0,120.0,145.00,147.95, 1,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,FEW,  ,1
-17,165,A,8,4,119.0,120.0,145.00,150.95, 3,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0030,Corbisema bimucronata,COMMON,  ,1
-17,165,A,8,4,119.0,120.0,145.00,150.95, 3,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,RARE,  ,1
-17,165,A,8,4,119.0,120.0,145.00,150.95, 3,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0380,Corbisema triacantha,PRESENT,  ,1
-17,165,A,8,6,120.0,121.0,145.00,153.96, 1,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0030,Corbisema bimucronata,RARE,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+17,165,A,7,4,120.0,121.0,136.00,141.91, 2,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,RARE,  ,1,1347440c3b1d59bfe53e058d71cebb89,17-165A-7-4
+17,165,A,7,4,120.0,121.0,136.00,141.91, 2,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0380,Corbisema triacantha,RARE,  ,1,f4215bfce44128095958fb4dd542ba6a,17-165A-7-4
+17,165,A,7,6,119.0,120.0,136.00,144.90, 1,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,RARE,  ,1,f1dbfd75a25fa4d34b3c82d94c539341,17-165A-7-6
+17,165,A,8,2,119.0,120.0,145.00,147.95, 1,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,FEW,  ,1,42dfad15481f0a95d0e67b79553c9334,17-165A-8-2
+17,165,A,8,4,119.0,120.0,145.00,150.95, 3,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0030,Corbisema bimucronata,COMMON,  ,1,e7f97102442986fead1215f55555fb5e,17-165A-8-4
+17,165,A,8,4,119.0,120.0,145.00,150.95, 3,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0190,Corbisema hastata minor,RARE,  ,1,219122119560d2153f4784d15ae2398c,17-165A-8-4
+17,165,A,8,4,119.0,120.0,145.00,150.95, 3,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0380,Corbisema triacantha,PRESENT,  ,1,e9d7d6ae03a28e285c2a9689bb356b55,17-165A-8-4
+17,165,A,8,6,120.0,121.0,145.00,153.96, 1,"LING,H.Y.",09/1980,55,SILICOFLAGELLATES,,,,,NO AGE GIVEN,377,SCORB0030,Corbisema bimucronata,RARE,  ,1,3339d839cf16a89f5491f1557a6471ef,17-165A-8-6

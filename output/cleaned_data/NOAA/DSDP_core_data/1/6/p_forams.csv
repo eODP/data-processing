@@ -1,16 +1,16 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FACAR0120,Acarinina densa,PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0085,Globigerina boweri,PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0315,Globigerina frontosa,PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0416,Globigerina linaperta (q),PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0716,Globigerina senni (q),PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOI0010,Globigerapsis index,PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOU0571,Globotruncana sp.,PRESENT,  ,1
-1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FTRUN0050,Truncorotaloides rohri,PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FACAR0120,Acarinina densa,PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0062,Globorotalia broedermanni,PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0434,Globorotalia pseudomayeri,PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0210,Globigerinoides inusitatus,PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0085,Globigerina boweri,PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0316,Globigerina frontusa (q),PRESENT,  ,1
-1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0716,Globigerina senni (q),PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FACAR0120,Acarinina densa,PRESENT,  ,1,63547464e85f0453bc268e7ef1a2cf29,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0085,Globigerina boweri,PRESENT,  ,1,286fb8d7b3d1b6eda5be2cd9b50fa93d,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0315,Globigerina frontosa,PRESENT,  ,1,e4065613354a5964d214b04abf6d02cc,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0416,Globigerina linaperta (q),PRESENT,  ,1,98023af5b1dddd3911e24a9d6686a0d9,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0716,Globigerina senni (q),PRESENT,  ,1,09dab66dfba6f09a97cfb46c20c4d03b,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOI0010,Globigerapsis index,PRESENT,  ,1,e0142b873e41b33f040a1899fe26b131,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOU0571,Globotruncana sp.,PRESENT,  ,1,032043e4a9d3a6fca59523bca7b1f8e1,1-6-4-3
+1,6,,4,3,66.0,68.0,229.20,232.87, 8,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FTRUN0050,Truncorotaloides rohri,PRESENT,  ,1,648e4cb7bec8fc758578eec88d45235e,1-6-4-3
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FACAR0120,Acarinina densa,PRESENT,  ,1,7a5749daaab317e2cc8f6372e14bc816,1-6-6-1
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0062,Globorotalia broedermanni,PRESENT,  ,1,4c361cc432999c737e83c0784d92f3fe,1-6-6-1
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOA0434,Globorotalia pseudomayeri,PRESENT,  ,1,d5e01f10fb60eb2c832a866ce712c345,1-6-6-1
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOD0210,Globigerinoides inusitatus,PRESENT,  ,1,32bf6661afc8e43d6bcdfefe04d08819,1-6-6-1
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0085,Globigerina boweri,PRESENT,  ,1,095c3e24da4d612d8efb0ada2002ddb5,1-6-6-1
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0316,Globigerina frontusa (q),PRESENT,  ,1,5885e796b1efdc8ea21867f73eab88dc,1-6-6-1
+1,6,,6,1,72.0,75.0,249.00,249.74, 7,"BLOW,W.H.",,1,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,397,FGLOG0716,Globigerina senni (q),PRESENT,  ,1,a332e2bd9b0ad781a33a5c6ec47a8388,1-6-6-1

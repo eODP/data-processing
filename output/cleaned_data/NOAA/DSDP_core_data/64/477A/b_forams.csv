@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BANGL0010,Angulogerina angulosa,8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BBOLI0010,Bolivina sp.,8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BBOLI0227,Bolivina plicata,8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BBULM0110,Buliminella tenuata,23%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BGLOB0011,Globobulimina affinis (q),8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BGLOB0060,Globobulimina pacifica,8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BORID0030,Oridorsalis umbonatus,8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BPSEI0003,Pseudononion basispinatum,8%,  ,1
-64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BUVIG0140,Uvigerina peregrina,29%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BANGL0010,Angulogerina angulosa,8%,  ,1,a15be08b8b10a951878a9c3145869456,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BBOLI0010,Bolivina sp.,8%,  ,1,64376a0cd9bcb5f377a00fc9803277d2,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BBOLI0227,Bolivina plicata,8%,  ,1,a38d05c12a01a810f453badd6ae43bea,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BBULM0110,Buliminella tenuata,23%,  ,1,db2a10f91bb1c506b9dec68b9805cb3c,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BGLOB0011,Globobulimina affinis (q),8%,  ,1,86d4f1fe7a2910dfe494cc5ec3f54833,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BGLOB0060,Globobulimina pacifica,8%,  ,1,54b61a560ff18b358c46f04d00865380,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BORID0030,Oridorsalis umbonatus,8%,  ,1,7f2f3fa6a2b8d72ef39792c1aa1d0827,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BPSEI0003,Pseudononion basispinatum,8%,  ,1,570878342abda7a97daba712b01886ef,64-477A-5-1
+64,477,A,5,1,51.0,53.0,191.00,191.52, 9,MATOBA,10/1982,64,BENTHIC FORAMINIFERA,,,,,NO AGE GIVEN,1034,BUVIG0140,Uvigerina peregrina,29%,  ,1,23cea6fd09b22b191a1bf37d330bc63e,64-477A-5-1

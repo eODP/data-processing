@@ -1,10 +1,10 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-30,289,,94,2,55.0,60.0,883.50,885.58, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,PRESENT,  ,1
-30,289,,94,2,55.0,60.0,883.50,885.58, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0030,Macrora stella,PRESENT,  ,1
-30,289,,94,3,55.0,60.0,883.50,887.08, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0030,Macrora stella,PRESENT,  ,1
-30,289,,97,1,120.0,125.0,912.00,913.23, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,PRESENT,  ,1
-30,289,,97,4,122.0,127.0,912.00,917.74, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,FEW,  ,1
-30,289,,97,4,122.0,127.0,912.00,917.74, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0030,Macrora stella,PRESENT,  ,1
-30,289,,98,2,81.0,86.0,921.50,923.84, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,PRESENT,  ,1
-30,289,,105,CC,,,988.00,988.10, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,FEW,  ,1
-30,289,,106,3,122.0,127.0,997.50,1001.74, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,FEW,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+30,289,,94,2,55.0,60.0,883.50,885.58, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,PRESENT,  ,1,b7d89fd0fc271bb38916da876faae07f,30-289-94-2
+30,289,,94,2,55.0,60.0,883.50,885.58, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0030,Macrora stella,PRESENT,  ,1,b032f761b006cee01a937653e55f857b,30-289-94-2
+30,289,,94,3,55.0,60.0,883.50,887.08, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0030,Macrora stella,PRESENT,  ,1,9cae9fd569b3b3b7ef66cf623471d272,30-289-94-3
+30,289,,97,1,120.0,125.0,912.00,913.23, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,PRESENT,  ,1,259a2eced6bcae950c7c5308a3474277,30-289-97-1
+30,289,,97,4,122.0,127.0,912.00,917.74, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,FEW,  ,1,743fd0a80049c7f06a4a8873871e272b,30-289-97-4
+30,289,,97,4,122.0,127.0,912.00,917.74, 2,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0030,Macrora stella,PRESENT,  ,1,f13af50d79d8a023eef0f6763360d874,30-289-97-4
+30,289,,98,2,81.0,86.0,921.50,923.84, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,PRESENT,  ,1,3e4927d8decc8eee7b97f8782bdcc958,30-289-98-2
+30,289,,105,CC,,,988.00,988.10, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,FEW,  ,1,2d4a2eb585e296b0938549b3d3bf44be,30-289-105-CC
+30,289,,106,3,122.0,127.0,997.50,1001.74, 1,"FENNER,J.",,75,SILICOFLAGELLATES,,,,,NO AGE GIVEN,1256,SMACR0010,Macrora barbadensis,FEW,  ,1,c9bc35820fdd9e0eee480682d0eb14d6,30-289-106-3

@@ -1,23 +1,23 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0012,Globorotalia acostaensis pseudopima,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0128,Globorotalia crassaformis ronda,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0134,Globorotalia crassula,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0140,Globigerinoides elongatus,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0195,Globigerina conglomerata,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0220,Globigerina decoraperta,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FORBU0025,Orbulina sp.,PRESENT,  ,1
-6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0008,Globorotalia acostaensis acostaensis,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0128,Globorotalia crassaformis ronda,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0562,Globorotalia tumida tumida,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0310,Globigerinoides quadrilobatus,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0410,Globigerinoides ruber,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0195,Globigerina conglomerata,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0470,Globigerina nepenthes,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1
-6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHE0100,Sphaeroidinellopsis subdehiscens paenedehiscens,PRESENT,  ,1
-6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0195,Globigerina conglomerata,PRESENT,  ,1
-6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0470,Globigerina nepenthes,PRESENT,  ,1
-6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1
-6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHE0090,Sphaeroidinellopsis subdehiscens,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0012,Globorotalia acostaensis pseudopima,PRESENT,  ,1,1bbd3daff52f7beabbc6a9cee230958e,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0128,Globorotalia crassaformis ronda,PRESENT,  ,1,70e346b1b5652be050a2dc3991d32cdf,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0134,Globorotalia crassula,PRESENT,  ,1,5e56ab8fb96879084f6e06f2a43b8963,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0140,Globigerinoides elongatus,PRESENT,  ,1,cbab5345a205a72ef47b9fe3f8a59096,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0195,Globigerina conglomerata,PRESENT,  ,1,ef7c70023ceb651e3f7db2db85477af3,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0220,Globigerina decoraperta,PRESENT,  ,1,c6cf8f184c94590e942263e0c5202e06,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FORBU0025,Orbulina sp.,PRESENT,  ,1,48d6ab3986101a15841e72b87a46b313,6-48B-1-1
+6,48,B,1,1,70.0,82.0,50.90,51.66, 8,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1,b56aa59570a37040e1fc6634a69a3e0e,6-48B-1-1
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0008,Globorotalia acostaensis acostaensis,PRESENT,  ,1,0f2555c6b3594cc7caea3823f3d713cc,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0128,Globorotalia crassaformis ronda,PRESENT,  ,1,8bb0cfe50c4318880d641ce446e394c3,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOA0562,Globorotalia tumida tumida,PRESENT,  ,1,2bf554159d6bd7003282da4730f22c84,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0110,Globigerinoides conglobatus conglobatus,PRESENT,  ,1,de6646672ba9d91cc285e855344ecbe1,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0310,Globigerinoides quadrilobatus,PRESENT,  ,1,895fc5ad2fbd69a8505973d433e61d21,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOD0410,Globigerinoides ruber,PRESENT,  ,1,965a2d6b029c261b4c1eca1230e1af69,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0195,Globigerina conglomerata,PRESENT,  ,1,16409831838c2d72c69ad4c2ce1118ef,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0470,Globigerina nepenthes,PRESENT,  ,1,d5a716be4fc7fdb71723f5b8f913fa72,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1,c4ced462a6870753e5ffa66eb7e7f367,6-48B-1-2
+6,48,B,1,2,72.0,74.0,50.90,53.13,10,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHE0100,Sphaeroidinellopsis subdehiscens paenedehiscens,PRESENT,  ,1,e7a1b0ce965d97fe5ff023a70f56cde0,6-48B-1-2
+6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0195,Globigerina conglomerata,PRESENT,  ,1,b745d7668ea79a7534ccda1346871f59,6-48B-1-4
+6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FGLOG0470,Globigerina nepenthes,PRESENT,  ,1,fcf3f7a551a5958f87ad76910d2862b8,6-48B-1-4
+6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHA0020,Sphaeroidinella dehiscens dehiscens,PRESENT,  ,1,096f0028e2a6d67be19ceea74cbb01ed,6-48B-1-4
+6,48,B,1,4,71.0,73.0,50.90,56.12, 4,"BLOW,W.H.",,6,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,1021,FSPHE0090,Sphaeroidinellopsis subdehiscens,PRESENT,  ,1,56ac41df80afa7529f3ea1e2dbdf7c12,6-48B-1-4

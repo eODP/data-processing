@@ -1,13 +1,13 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FACAR0315,Acarinina sp.,PRESENT,  ,1
-55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0022,Globorotalia aequa,PRESENT,  ,1
-55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1
-55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0660,Globigerinoides triloculinoides,PRESENT,  ,1
-55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FACAR0315,Acarinina sp.,PRESENT,  ,1
-55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0022,Globorotalia aequa,PRESENT,  ,1
-55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1
-55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0660,Globigerinoides triloculinoides,PRESENT,  ,1
-55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FACAR0315,Acarinina sp.,PRESENT,  ,1
-55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0022,Globorotalia aequa,PRESENT,  ,1
-55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1
-55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0660,Globigerinoides triloculinoides,PRESENT,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FACAR0315,Acarinina sp.,PRESENT,  ,1,d301aa44d272be897e9803df3784daa1,55-430A-1-CC
+55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0022,Globorotalia aequa,PRESENT,  ,1,4d3404c51ea0cb1edd967f7ee302ba8c,55-430A-1-CC
+55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1,91532b90719d1c40ce5e0dfcf8cfdea1,55-430A-1-CC
+55,430,A,1,CC,0.0,0.0,0.00,1.08, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0660,Globigerinoides triloculinoides,PRESENT,  ,1,68fc2e45c976ed1e7d8dafbd35d7f7fe,55-430A-1-CC
+55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FACAR0315,Acarinina sp.,PRESENT,  ,1,0e8784e99f836679a5bc0591959ed657,55-430A-2-CC
+55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0022,Globorotalia aequa,PRESENT,  ,1,7925c498e17b2eff2bd26c1d0c62823d,55-430A-2-CC
+55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1,e3af88133f7b9c74acb4da50e03fc10e,55-430A-2-CC
+55,430,A,2,CC,0.0,0.0,19.00,20.60, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0660,Globigerinoides triloculinoides,PRESENT,  ,1,1a4a54d2bf0ad366247b9381dea7c2ff,55-430A-2-CC
+55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FACAR0315,Acarinina sp.,PRESENT,  ,1,c685dbefea947267e98e78a0c9302356,55-430A-3-CC
+55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0022,Globorotalia aequa,PRESENT,  ,1,ca8126cde974f276b7eccce7d5feec95,55-430A-3-CC
+55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOA0570,Globorotalia velascoensis,PRESENT,  ,1,86adb0f657f023fc468d1801ac671420,55-430A-3-CC
+55,430,A,3,CC,0.0,0.0,38.00,38.10, 4,"BUTT,A.",09/1980,55,PLANKTONIC FORAMINIFERA,,,,,NO AGE GIVEN,291,FGLOD0660,Globigerinoides triloculinoides,PRESENT,  ,1,cac5954fd9d371e19639d9987e8756ba,55-430A-3-CC

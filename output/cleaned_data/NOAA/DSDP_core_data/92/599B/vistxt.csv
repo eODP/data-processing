@@ -1,9 +1,9 @@
-leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding
-92,599,B,2,1,0.0,150.0,32.20,32.20,33.70,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,2,0.0,140.0,32.20,33.70,35.10,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,3,0.0,150.0,32.20,35.20,36.70,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,4,0.0,140.0,32.20,36.70,38.10,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,5,0.0,120.0,32.20,38.20,39.40,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,6,0.0,150.0,32.20,39.70,41.20,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,7,0.0,37.0,32.20,41.20,41.57,LEIN, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000
-92,599,B,2,CC,0.0,12.0,32.20,41.67,41.69,LEIN, NANNOFOSSIL CLAY,,,,,,,, SOFT, 00000000
+leg,site,hole,core,section,top interval depth (cm),bottom interval depth (cm),top of core depth(m),top of layer depth (m),bottom of layer depth (m), describer,lithology,color,structures,deformations due to drilling,unusual occurrences,minerals,paleontology,other observations,hardness or induration,z-coding,eodp_id,sample
+92,599,B,2,1,0.0,150.0,32.20,32.20,33.70,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,584e83b978321ba09f316ef4c026e087,92-599B-2-1
+92,599,B,2,2,0.0,140.0,32.20,33.70,35.10,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,5f26365177a5ec2e6dbf0bb5cc468efd,92-599B-2-2
+92,599,B,2,3,0.0,150.0,32.20,35.20,36.70,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,70512a5475e5e33fef4d66582705c065,92-599B-2-3
+92,599,B,2,4,0.0,140.0,32.20,36.70,38.10,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,bd6107fbb485d20b32962479b77fabfc,92-599B-2-4
+92,599,B,2,5,0.0,120.0,32.20,38.20,39.40,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,cf39a58192f3f1612efaecbeda28182e,92-599B-2-5
+92,599,B,2,6,0.0,150.0,32.20,39.70,41.20,RMO, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,5acfc6e4c469f9986d5d9558d2ea8a09,92-599B-2-6
+92,599,B,2,7,0.0,37.0,32.20,41.20,41.57,LEIN, CLAYEY NANNOFOSSIL OOZE,,,,,,,, SOFT, 00000000,a56c9c2030b9f3783c895a7f93164d89,92-599B-2-7
+92,599,B,2,CC,0.0,12.0,32.20,41.67,41.69,LEIN, NANNOFOSSIL CLAY,,,,,,,, SOFT, 00000000,94572b61d2fc13f557844099b9403f85,92-599B-2-CC

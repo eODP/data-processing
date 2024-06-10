@@ -1,5 +1,5 @@
-leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code
-55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,29%,  ,1
-55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,29%,  ,1
-55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0395,Thalassiosira tabularis,14%,  ,1
-55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAS0020,Thalassiothrix longissima,29%,  ,1
+leg,site,hole,core,section,top interval depth(cm),bottom interval depth (cm),coredepth(m),sample depth(m),total number of observed fossils,investigators name,publication date (month/year),dsdp initial report volume number,fossil group,group abundance,chemical overgrowth,chemical dissolution,mechanical preservations,age,page number reference,fossil code,fossil,fossil abundance,fossil preservation,record join code,eodp_id,sample
+55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DPSED0010,Pseudoeunotia doliolus,29%,  ,1,594c206986a40ab4507bbe4fd901bca6,55-430A-1-1
+55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0280,Thalassiosira oestrupii,29%,  ,1,e6272af53d90cb121893e2eff40e95c2,55-430A-1-1
+55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAA0395,Thalassiosira tabularis,14%,  ,1,b6bd1a165f549d21eecb6bbbe407f390,55-430A-1-1
+55,430,A,1,1,25.0,30.0,0.00,0.28, 4,"KOIZUMI,I.",09/1980,55,DIATOMS,RARE,,,POOL,NO AGE GIVEN,388,DTHAS0020,Thalassiothrix longissima,29%,  ,1,8fc68dbde430faa6dcd044769be6708d,55-430A-1-1
